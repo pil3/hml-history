@@ -1,0 +1,17 @@
+@import "../base/global.css";
+
+.linkIconStyle {
+  width: 100%;
+  height: auto;
+  margin: 5px;
+}
+.linkTextStyle {
+  color: var(--text-dark);
+  text-align: center;
+  font-size: 20px;
+}
+@media screen and (max-width: 768px) {
+  .linkTextStyle {
+    font-size: 16px;
+  }
+}

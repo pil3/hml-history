@@ -1,0 +1,13 @@
+.rowStyle {
+  margin: 0 10px;
+}
+.colStyle {
+  display: flex;
+  justify-content: center;
+  margin: 5px auto;
+}
+.imgStyle {
+  max-width: 100%;
+  height: auto;
+  box-shadow: 2px 2px 4px black;
+}

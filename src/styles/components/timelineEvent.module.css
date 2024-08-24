@@ -1,0 +1,49 @@
+.rowStyle {
+  display: grid;
+  grid-template-columns: 1fr 30px 80px 60px;
+  grid-template-rows: 50px auto;
+  margin: 0 50px 0 50px;
+}
+.eventStyle, .eventYearStyle {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 0 0 5px white;
+}
+.eventStyle {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 20px;
+}
+.eventYearStyle {
+  padding: 0;
+}
+.buttonStyle {
+  background: transparent;
+  border-width: 0;
+  padding: 0 0 0 10px;
+  border-radius: 50%;
+}
+.buttonStyle:hover {
+  rotate: 45deg;
+  background: transparent;
+}
+.imageStyle{
+  max-width: 100%;
+  max-height: auto;
+  margin: auto;
+}
+.ccStyle{
+  font-size: 12px;
+  text-align: center;
+  color: gray;
+}
+@media screen and (max-width: 768px) {
+  .rowStyle {
+    margin: 0;
+  }
+  .eventStyle {
+    font-size: 18px;
+  }
+}
