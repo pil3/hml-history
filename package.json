@@ -1,8 +1,8 @@
 {
-  "name": "company-site",
+  "name": "hml-history",
   "version": "1.0.0",
   "private": true,
-  "description": "company-site",
+  "description": "Hämeenlinnan historia",
   "keywords": [
     "gatsby"
   ],
@@ -20,10 +20,13 @@
     "gatsby-adapter-netlify": "^1.1.7",
     "gatsby-plugin-image": "^0.7.2",
     "gatsby-plugin-react-svg": "^3.3.0",
-    "gatsby-plugin-sharp": "^2.14.4",
-    "gatsby-source-filesystem": "^2.11.1",
+    "gatsby-plugin-sharp": "^5.13.1",
+    "gatsby-source-filesystem": "^5.13.1",
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.4",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "sanitycheck": "^2.0.2"
   }
 }
