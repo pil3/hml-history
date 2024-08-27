@@ -1,41 +1,20 @@
 /* basic imports
 -------------------------------------------------------------*/
 import * as React from "react"
-import { Link } from "gatsby"
+import Layout from "../components/layout";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import Layout from "../components/layout";
 import ImageCarousel from "../components/imageCarousel";
-import {linkIconStyle, linkTextStyle} from "../styles/pages/index.module.css";
-/* icon imports
--------------------------------------------------------------*/
-import TimelineIcon from "../assets/timeline.svg";
+
 /* define page component
 -------------------------------------------------------------*/
 const homePage = () => {
   return ( 
-    <Layout titleText="Etusivu">
-      <Row className="my-3">
+    <Layout titleText="">
+      <Row >
         <Col>
-          <ImageCarousel imgArray={carouselArray} imgStyle={{height: "360px"}}></ImageCarousel>
-        </Col>
-      </Row>
-      <Row className="my-3">
-        <Col>
-        <div><Link to="/aikajana"><TimelineIcon className={linkIconStyle}></TimelineIcon></Link><p className={linkTextStyle}>Aikajana</p></div>
-        </Col>
-        <Col>
-        <Link to="/aikajana"><TimelineIcon className={linkIconStyle}/></Link>
-        </Col>
-        <Col>
-        <Link to="/aikajana"><TimelineIcon className={linkIconStyle}/></Link>
-        </Col>
-        <Col>
-        <Link to="/aikajana"><TimelineIcon className={linkIconStyle}/></Link>
-        </Col>
-        <Col>
-        <Link to="/aikajana"><TimelineIcon className={linkIconStyle}/></Link>
+          <ImageCarousel imgArray={carouselArray}></ImageCarousel>
         </Col>
       </Row>
     </Layout>
@@ -165,7 +144,7 @@ const carouselArray = [
     licence: "CC BY-NC-SA 4.0",
     org: "Suomen Rautatiemuseo",
     collection: "Suomen Rautatiemuseon kuvakokoelma",
-    details: "Vanajaveden ensimmäinen rautatiesilta, joka oli kääntösilta. Silta rakennettiin 1870-luvulla Hämeenlinna - Tampere rataosaa varten.",
+    details: "Vanajaveden ensimmäinen rautatiesilta, joka oli kääntösilta.",
     year: "~1910"
   },
   {
@@ -201,7 +180,7 @@ const carouselArray = [
     licence: "",
     org: "Hämeenlinnan kaupunginkirjasto",
     collection: "Yksityiskokoelma",
-    details: "Näkymä linnan länsipuolelta nykyisen Tampereentien tienoilta. Kuva on peräisin yksityisestä albumista, jonka omistaja toimi vanginvartijana Hämeenlinnassa.",
+    details: "Näkymä linnan länsipuolelta nykyisen Tampereentien tienoilta. Kuvan omistaja toimi vanginvartijana Hämeenlinnassa.",
     year: "~1910"
   },
   {
@@ -210,7 +189,7 @@ const carouselArray = [
     licence: "",
     org: "Hämeenlinnan kaupunginkirjasto",
     collection: "Suomalainen kirjakauppa, Hämeenlinna",
-    details: "Hämeenlinnan laivaranta Rantapuiston laidalla vilkastui 1900-luvun alussa uudelleen rautatien tulon aiheuttaman laman jälkeen. Satamaan valmistui arkkitehti Armas Rankan suunnittelema satamakonttori vuonna 1911.",
+    details: "Hämeenlinnan laivaranta Rantapuiston laidalla. Satamaan valmistui arkkitehti Armas Rankan suunnittelema satamakonttori vuonna 1911.",
     year: "~1912"
   },
   

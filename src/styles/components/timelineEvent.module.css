@@ -9,7 +9,6 @@
   height: 100%;
   align-items: center;
   justify-content: center;
-  text-shadow: 0 0 5px white;
 }
 .eventStyle {
   font-size: 20px;
@@ -37,13 +36,13 @@
 .ccStyle{
   font-size: 12px;
   text-align: center;
-  color: gray;
+  font-family: "Inter Italic";
 }
 @media screen and (max-width: 768px) {
   .rowStyle {
     margin: 0;
   }
   .eventStyle {
-    font-size: 18px;
+    font-size: 16px;
   }
 }

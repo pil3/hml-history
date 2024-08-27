@@ -3,15 +3,15 @@ import Header from "./header";
 import Footer from "./footer";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Container from "react-bootstrap/Container";
-import { fullScreen, containerStyle, headerStyle} from "../styles/components/layout.module.css";
-import HeaderText from "../assets/header-text.svg";
+import { fullScreen, containerStyle, headerStyle, titleSvgStyle} from "../styles/components/layout.module.css";
+import TitleSvg from "../assets/header-text.svg";
 
 const Layout = ({titleText, children}) => {
   return (
     <div className={fullScreen}>
       <Container className={containerStyle} fluid="xl">
         <div className="text-center mt-2">
-          <HeaderText width="50%" height="auto"/>
+          <TitleSvg className={titleSvgStyle}/>
         </div>  
         <Header />
         <main>

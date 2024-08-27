@@ -14,7 +14,7 @@ const MatkailuopasPage = () => {
       <p className="my-1 text-center fst-italic">Hämeenlinnan Kaupunginkirjasto</p>
       <hr></hr>
       <h2>Hämeen linna ja vanha kaupunki</h2>
-      <p>Hämeen linna sijaitsee Yanajaveden rannalla, Helsingistä Tampereelle vievän rautatien varrella. Sen
+      <p>Hämeen linna sijaitsee Vanajaveden rannalla, Helsingistä Tampereelle vievän rautatien varrella. Sen
         maantieteellinen asema on 60° 59 46,8 pohj. lev. ja 24°, 28 05 it. pit. Greenw. Kaupunki ei ole aina
         ollut samassa paikassa kuin nykyään. Vanha Hämeenlinna sijaitsi Hämeen linnan pohjoispuolella ja
         syntyi siten, että linnan ulkopuolelle, siis sen pohjoispuolelle, vähitellen kasvoi pieni kauppala. Hämeenlinna
@@ -31,13 +31,13 @@ const MatkailuopasPage = () => {
         helposti torjua vihollisen hyökkäykset lännestä ja pohjoisesta päin».</p>
       <p>Kun kaupunki on saanut alkunsa linnasta, on linnan rakenne ja historia tässä lyhyesti esitettävä. Linnaa
         on perusteellisemmin tutkinut tohtori Julius Ailio (Hämeenlinnan esi- ja rakennushistoria, hinta 50 mk.) Linna 
-        (Kronoborg) sijaitsee kaupungin pohjoispuolella, Vanajaveden länsirannalla, 12 m:n korkuisella mäenharjänteellä, 
+        (Kronoborg) sijaitsee kaupungin pohjoispuolella, Vanajaveden länsirannalla, 12 m:n korkuisella mäenharjanteellä, 
         jota muillakin tahoilla linnan alkuaikana on rajoittanut vesi tahi ainakin hyvin vesiperäinen suo. Linna mainitaan 
         historiallisissa lähteissä ensi kerran 1308 ja osaksi tästä syystä sitä on pidetty Torkel Knuutinpojan rakennuttamana. 
         Siinä ilmenevät varhaista välitystyyliä osoittavat rakennustaiteelliset piirteet antavat kuitenkin Hämeen historiallisten 
         seikkain ohella aihetta olettaa linnaa jonkun verran varhaisemmaksi, todennäköisesti Birger Ja arlin ristiretken jälkeisinä 
         aikoina rakennetuksi. Aina 1700-luvun alkupuolelle asti linna on verrattain hyvin säilyttänyt alkuperäisen luonteensa. 
-        Itse linnarakennus, joka pääasiassa vieläkin on entisen haahmoinen, on pohja-alaltaan neliön muotoinen, alaosassaan harmaasta 
+        Itse linnarakennus, joka pääasiassa vieläkin on entisen hahmoinen, on pohja-alaltaan neliön muotoinen, alaosassaan harmaasta 
         kivestä, ylempää tiilistä muurattu , ja sen joka nurkalla on alkuaan kohonnut nelikulmainen torni. Sitä on ympäröinyt vahva 
         ja korkea, etupäässä harmaasta kivestä tehty kehämuuri ampuma-aukkoineen sekä portti- y.m. torneineen.</p>
       <p>Uuden ajan alussa varustettiin linnaa ruutiaseiden käyttöä varten ja silloin rakennettiin m. m. kehämuurin kolkkiin vahvat 
@@ -232,7 +232,7 @@ const MatkailuopasPage = () => {
       <p>Ylempänä Turuntien varrella on Uusi tori, jota markkinapäivinä käytetään eläinten myyntipaikkana.</p>
       <p>Turuntie päättyy Poltinaholla tienristeyksessä, josta tiet vievät kolmeen suuntaan, vasemmalle: valtamaantie Helsinkiin, oikealle: valtamaantie 
         Tampereelle, ja suoraan eteenpäin: Poltinahontie, joka vie kasarmialueen läpi uudelle hautausmaalle y.m.</p>
-      <p>Lähellä tätä paikkaa Myllymäen puolella on linjaauton pysähdyspaikka.</p>
+      <p>Lähellä tätä paikkaa Myllymäen puolella on linja-auton pysähdyspaikka.</p>
       <div className="flexWrapper">
         <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-8.jpg" alt="Nahkatehdas"/>
       </div>
@@ -292,14 +292,14 @@ const MatkailuopasPage = () => {
         suomalaista normaalilyseota varten. Kaunista juhlasalia koristavat prof. Eero Järnefeltin maalaama, lyseon entisen rehtorin prof. K. O. Lindeqvistin sekä 
         saksalaisen taiteilijan B. Reinholdin maalaama J. L. Runebergin muotokuva.</p>
       <p>Lyseon kirjasto sekä luonnontieteelliset kokoelmat ovat erittäin suuret ja arvokkaat.</p>
-      <p>Rehbinderin aikuisen, suurta vaahteraa, niinipuuta y.m. kasvavan Tähtipuiston keskellä on vapausodassa Tuuloksessa kaatuneen 52 saksalaisen soturin 
+      <p>Rehbinderin aikuisen, suurta vaahteraa, niinipuuta y.m. kasvavan Tähtipuiston keskellä on vapaussodassa Tuuloksessa kaatuneen 52 saksalaisen soturin 
         graniittinen hauta- ja muistopatsas. Patsaan, joka on taiteilijain Vila Martinin ja Urho Heinäsen muovailema, pystytti Hämeenlinnan kaupunki v. 1921.</p>
-      <p>Kirkkokadun ja sitä lyseon pohjoispuolella leikkaavan Lukiokadun kulmauksessa on Etelä-Hämeen Suojeluskuntapiirin piirikunslia sekä Lukiokadun puolella 
-        kaupungin omistamassa suuressa puurakennuksessa valtion Alkukouluseminaari (johtaja Aukusti Salo) ja sitä vastap äätä kaupungin eläinlääkärin asunto.</p>
+      <p>Kirkkokadun ja sitä lyseon pohjoispuolella leikkaavan Lukiokadun kulmauksessa on Etelä-Hämeen Suojeluskuntapiirin piirikanslia sekä Lukiokadun puolella 
+        kaupungin omistamassa suuressa puurakennuksessa valtion Alkukouluseminaari (johtaja Aukusti Salo) ja sitä vastapäätä kaupungin eläinlääkärin asunto.</p>
       <p>Seminaarin länsipuolella on suuri, osaksi puilla istutettu aukio, n.s. Gaddin puisto. Sen länsipuolella, Linnankadulla, on Postilennätinkonttori 
         (yhdistettyjen posti- ja lennätinlaitosten konttori), jossa on valtion puhelinasema sekä Linnan- ja Koulukatujen kulmauksessa Maanmittauskonttorin talo.</p>
       <p>Kirkkokadun pohjoispään jyrkästi linnaan päin viettävällä osalla on Hämeenlinnan Historiallis-Muinaistieteellinen Museo, joka perustettiin v. 1910 ja 
-        avattiin yleisölle marrask. 20 p: nä 1912. Museon kaksikerroksinen kivirakennus sisältää 12 huonetta, ja esineiden luku on likim. 3000. Siinä on m.m. 
+        avattiin yleisölle marrask. 20 p:nä 1912. Museon kaksikerroksinen kivirakennus sisältää 12 huonetta, ja esineiden luku on likim. 3000. Siinä on m.m. 
         kustavilainen huone, mahonkihuone, hämäläinen tupa, Hämeenlinnan huone, kirkollinen huone, näyttelysali arvokkaine huonekaluineen, pienempiä osastoja, 
         kuten vapaussodan aikuinen osasto, Erkkylän (parooni Munckin) asekokoelma, arkeologinen osasto, kriminaalinen osasto, suuri asekokoelma, kansatieteellisiä 
         esineitä suuri kokoelma, rahakokoelma, metsästys- ja kalastustarpeita, ajoneuvoja j.n.e.</p>
@@ -346,7 +346,7 @@ const MatkailuopasPage = () => {
         vierellä on Kiutun virvoitusjuomatehdas ja sen päässä Ruotsalainen yhteiskoulu.</p>
       <p>Rantapuiston ja linnan välillä on vetisen niityn reunassa kaupungin venevalkama.</p>
       <p>Edessämme on nyt vanha Hämeen linna. Tie käy pitkin linnan kanavan vartta sivuuttaen pienen puistikon, jonka rehevät tammet ovat Rehbinderin aikuisia, 
-        ja yhtyen vihdoin kaupungista suoraan Hattulaan ja edelleen Tampereelle Yanajaveden itäpuolitse menevään valtamaantiehen, Linnaniemen esikaupungin 
+        ja yhtyen vihdoin kaupungista suoraan Hattulaan ja edelleen Tampereelle Vanajaveden itäpuolitse menevään valtamaantiehen, Linnaniemen esikaupungin 
         kohdalla. Linnaniemi on osaksi kaupungin, osaksi maaseurakunnan aluetta.</p>
       <p>Mainituista teiden yhtymäkohdasta vie puistoon saakka puistokujanne.</p>
       <p>Puistokujan oikealla puolella on lähinnä tiilistä rakennettu, suljettu ampumarata ja sen takana laaja kasarmialue. Kasarmeihin on sijoitettu Kajaanin 
@@ -361,7 +361,7 @@ const MatkailuopasPage = () => {
         vankeja pani kuvernööri, joka oli harras puutarhahoidon ja maanviljelyksen ystävä, alueella toimeen suuria puhdistamis-, raivaus- ja tasoitustöitä, 
         siten muuttaen tämän villin ja pelätyn seudun ihanaksi puistoksi, joka laatuunsa, luonnonkauneuteen ja sen vaihtelevaisuuteen nähden on maamme ensimmäisiä. 
         Paikkaa pelättiin sen vuoksi, että sen lähettyvillä oli Hämeenlinnan viimeinen mestauspaikka.</p>
-      <p>Kivistä teh tiin aitauksia, pengermiä ja rantasiltoja sekä jyrkänteille kiviportaita. Ennenkaikkea käytettiin kiviä kuitenkin puiston maantienpuoleisella 
+      <p>Kivistä tehtiin aitauksia, pengermiä ja rantasiltoja sekä jyrkänteille kiviportaita. Ennenkaikkea käytettiin kiviä kuitenkin puiston maantienpuoleisella 
         sivulla olevien keinotekoisten linnanraunioiden rakentamiseen. Suuria tasoitustöitä suoritettiin varsinkin puiston etelä- ja itäosissa.</p>
       <p>Myöskin istutukset olivat suurenmoisia. Harvinaisia puita, kuten tammia, vaahteria, lehmuksia, jalavia ja saarnia sekä koivuja y.m. istutettiin kaikkialle. 
         Pitkiä pensasaitoja järjestettiin pitkin Vanajaveden rantaa, syreenimajoja istutettiin ja huvihuoneita pystytettiin moneen paikkaan. Etelänpuolisella 
@@ -369,7 +369,7 @@ const MatkailuopasPage = () => {
       <p>Puisto eroitettiin Ojoisten virkatalosta v. 1848 ja liitettiin kaupunkiin.</p>
       <p>Mutta Rehbinder ulotutti puistoharrastuksensa muihinkin osiin kaupunkia. Puita istutettiin kaikkialle, ja useimmat kaupungin hauskoista puistikoista 
         ovat hänen ajaltaan.</p>
-      <p>Puiston keskellä on juhlakenttä, jota ahkerasti käytetään monenlaisiin ulköjuhliin. Kenttä voidaan juhlia varten tilata Rahatoimikamarin kautta.</p>
+      <p>Puiston keskellä on juhlakenttä, jota ahkerasti käytetään monenlaisiin ulkojuhliin. Kenttä voidaan juhlia varten tilata Rahatoimikamarin kautta.</p>
       <p>Edelleen on Puistossa kesäiseen aikaan täydellinen ulkoravintola, jonka soittolavalla usein on sotilas- y.m. soittoa. Ravintolaan voi puhelimitse 
         tilata autoja tai ajureja.</p>
       <p>Puistoon pääsee autolla tahi ajurilla erikoista ajotietä pitkin ravintolan edustalle ja sieltä valtamaantielle. Kaikilla muilla käytävillä on, 
@@ -405,8 +405,8 @@ const MatkailuopasPage = () => {
       <p>Tällä alueella on vielä ennen mainittu Valtion uusi Poliisikoirasiittola ja Koirankuljettajakoulu.</p>
       <p>Ampumaradasta jatkamme matkaamme noin 0,5 km maantietä pitkin tahi oikotietä havumetsän läpi Hämeenlinnan nykyiselle hautausmaalle. Se on korkealla 
         havumetsää kasvavalla mäellä, Ahvenistonjärven eteläpuolella. Laaja hautausmaa on monine istutuksineen ja kauniine hautapatsaineen viihtyisä ja rauhaisa 
-        vainajien pyhäkkö. Monista haudoista mainittakoon muutamat monumentaaliset, taiteilijain Yila Martinin ja Urho Heinäsen luonnosten mukaan Heinäsen 
-        kivenveistämössä Hämeenlinnassa va lmistetut hautapatsaat ja hautakivilaitteet.</p>
+        vainajien pyhäkkö. Monista haudoista mainittakoon muutamat monumentaaliset, taiteilijain Vila Martinin ja Urho Heinäsen luonnosten mukaan Heinäsen 
+        kivenveistämössä Hämeenlinnassa valmistetut hautapatsaat ja hautakivilaitteet.</p>
       <p>Kiltin suvun sukuhauta: sfinxit portaiden molemmin puolin kuvaavat äänettömyyttä ja haudan hiljaisuutta, ja taustalla oleva korkokuva ylösnousemusta.</p>
       <p>Kalle Pietilän hautapatsas: veistos esittää vainajaa sodan aikaisessa rakuunapuvussa, vasemmassa kädessä vapauden soihtu, oikean puristaessa miekkaa, 
         (kanttori Pietilä kaatui vapaussodassa).</p>
@@ -426,12 +426,12 @@ const MatkailuopasPage = () => {
         on ainoalaatuinen Suomessa, nimittäin Karlbergin kartano ja siihen liittyvä Aulangon vuori näkötorneineen ja puistoineen.</p>
       <p>Oltuaan aikaisemmin usean eri suvun hallussa siirtyivät Karlbergin kartanot sekä siihen liittyvät Katajiston ja Metsänkylän kartanot oston kautta 
         v. 1883 ja 1886 eversti Hugo Standertskjöldille, joka on tämän puistoalueen luoja. Suurilla kustannuksilla raivautti hän nämä alueet, rakennutti 
-        huvimajoja ja muita rakennuksia, sekä raivautti hyviäa joteitä penikulmien pituudelta kiviseen metsään sekä jätti sitten näin saadut nähtävyydet yleisön 
+        huvimajoja ja muita rakennuksia, sekä raivautti hyviä ajoteitä penikulmien pituudelta kiviseen metsään sekä jätti sitten näin saadut nähtävyydet yleisön 
         vapaasti ihailtavaksi. V. 1926 tarjosi eversti Standertskjöld näitä alueita valtiolle, mutta kun valtio niitä ei halunnut silloin ostaa, myi hän ne saman 
         vuoden lopulla Hämeenlinnan kaupungille, jonka hallussa ne nyt ovat.</p>
       <p>Kun saavutaan Karlbergiin maanteitse kaupungista Sairion kaupunginosan kautta kulkevaa tietä pitkin ja kartanon alueelle tultua kuljetaan pieni matka 
         lehmuksien reunustamaa tietä pitkin puistoalueen halki, saavutaan pian kartanon päärakennuksen luo. Se on rakennettu viime vuosisadan puolimaissa, 
-        mutta on se v. 1890 perusteellisesti korjattu ja uusittu silloin vallinneen tyylin mukaisesti ja sisältää se nyt keittiöpuolta lukuunottama tta 11 huonetta 
+        mutta on se v. 1890 perusteellisesti korjattu ja uusittu silloin vallinneen tyylin mukaisesti ja sisältää se nyt keittiöpuolta lukuunottamatta 11 huonetta 
         alakerroksessa ja 4 huonetta yläkerrassa. Aivan päärakennuksen vieressä on arkkitehti W. Aspelinin piirustusten mukaisesti rakennettu vierassuoja, 
         jossa keskellä on suuri halli ja sen ympärillä 8 vierashuonetta. Näiden rakennusten pohjoispuolella ovat laajat talousrakennukset, tallit, tilavat 
         autosuojat y.m. Samalla suunnalla ovat myös kartanon suuret kasvihuoneet, joissa on kasvatettu puutarhassa tarvittavia koristekasveja sekä sitäpaitsi 

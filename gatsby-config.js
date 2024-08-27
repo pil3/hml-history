@@ -7,7 +7,6 @@ module.exports = {
     author: "Perri Laakso",
   },
   plugins: [
-    "gatsby-plugin-netlify",
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
     {

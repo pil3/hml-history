@@ -17,7 +17,7 @@ const Header = () => {
             <Navbar.Collapse id="hamburger">
               <Nav variant="underline" className="mx-auto">
                 <Nav.Item>
-                  <Link to="/" className="nav-link" activeClassName="active">Koti</Link> 
+                  <Link to="/" className="nav-link" activeClassName="active">Etusivu</Link> 
                 </Nav.Item>
                 <Nav.Item>
                   <Link to="/aikajana" className="nav-link" activeClassName="active">Aikajana</Link> 

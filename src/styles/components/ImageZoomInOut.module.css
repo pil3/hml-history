@@ -1,0 +1,36 @@
+@import "../base/global.css";
+
+.zoomContainer{
+  background-color: var(--color-bg);
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+  margin: 40px 0 30px 0;
+  box-shadow: 0 0 4px black;
+}
+.zoomBtnContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  border-radius: 8px 0 8px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+}
+.btnStyle {
+  border: none;
+  color: var(--text-light);
+  background-color: var(--color-bg-dark);
+  font-size: 20px;
+  padding: 10px;
+  cursor: pointer;
+}
+.imgStyle {
+  width: 100%;
+  height: auto;
+  cursor: move;
+  box-shadow: 2px 2px 4px black;
+  border-radius: 10px;
+}

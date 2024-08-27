@@ -1,32 +1,45 @@
-/* @font-face {
-  font-family: "Cutive Mono";
-  src: url(../../fonts/CutiveMono-Regular.ttf) format("truetype");
+@font-face {
+  font-family: "Inter Extra Light";
+  font-display: swap;
+  font-style: normal;
+  src: url(../../fonts/Inter-ExtraLight.woff2) format("woff2");
 }
 @font-face {
-  font-family: "Poiret One";
-  src: url(../../fonts/PoiretOne-Regular.ttf) format("truetype");
-} */
+  font-family: "Inter Regular";
+  font-display: swap;
+  font-style: normal;
+  src: url(../../fonts/Inter-Regular.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Inter Italic";
+  font-display: swap;
+  font-style: normal;
+  src: url(../../fonts/Inter-Italic.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Inter Light Italic";
+  font-display: swap;
+  font-style: normal;
+  src: url(../../fonts/Inter-LightItalic.woff2) format("woff2");
+}
 /* Constants
 ----------------------------------------------------------------------------------------------------- */
  :root {
-  --text-dark: #2d2f31;
-  --text-light: #eeeeee;
+  --text-dark: #000;
+  --text-light: #fafafa;
   --color-dark: #14191e;
   --color-shade: #444a4d;
   --color-light: #fafafa;
-} 
-.modalTitleBgStyle{
-  background-color: #111111;
+  --color-bg: #F9E2B1;
+  --color-bg-dark: #2D2921;
 }
-.modalTitleTextStyle{
-  color: #efefef;
-  font-size: 1.4em;
+/* Page styling
+----------------------------------------------------------------------------------------------------- */
+body {
+  font-family: "Inter Regular", sans-serif;
+  background-color: var(--color-bg);
+  color: var(--text-dark);
 }
-.modalBodyStyle{
-  font-size: 1.2em;
-}
-h1, h2, h3, h4, p {
-  color: var(--text-dark);}
 h1 {
   font-size: 2.5em;
   text-align: center;
@@ -50,6 +63,8 @@ h4 {
 p {
   font-size: 1em;
 }
+/* Common styles
+----------------------------------------------------------------------------------------------------- */
 .flexWrapper {
   display: flex;
   width: 100%;
@@ -57,13 +72,14 @@ p {
 .shadowed {
   box-shadow: 2px 2px 4px black;
 }
-.scrollBarStyle {
-  overflow-x: scroll;
-  overflow-y: hidden;
-}
-.publisherStyle {
-  font-style: italic;
+.italicSmallStyle {
+  font-family: "Inter Light Italic";
   font-size: 0.8em;
 }
+.firstLetterStyle::first-letter {
+  initial-letter: 2;
+  padding-right: 4px;
+}
+
 
 

@@ -1,25 +1,24 @@
 import * as React from "react"
 import Layout from "../components/layout"
-import Image from "react-bootstrap/Image";
 import "../styles/base/global.css"
 import mapImg from "../images/content/kartta-1778.jpg"
+import ImageZoomInOut from "../components/ImageZoomInOut"
 
 // define page component
 const Kartta1778Page = () => {
   return (
     <Layout titleText="Ojoisten ja Saaristen latokartanoiden kartta 1778">
-      <div className="shadowed rounded scrollBarStyle">
-        <Image src={mapImg}/>
+      <div>
+        <ImageZoomInOut imageUrl={mapImg}></ImageZoomInOut>
       </div>
-      <hr></hr>
-      <p>Karttaotteessa näkyvät Ojoisten ja Saaristen latokartanoiden eli kruunun virkatalojen maitten omistukset isonjaon jälkeen. Maanjaot ja myöhempien vuosien mittaukset kokosi 
+      <p className="firstLetterStyle">Karttaotteessa näkyvät Ojoisten ja Saaristen latokartanoiden eli kruunun virkatalojen maitten omistukset isonjaon jälkeen. Maanjaot ja myöhempien vuosien mittaukset kokosi 
         vuonna 1778 maanmittari Pehr Kiellman. Kiellman tuli 1760 Hämeeseen komission maanmittariksi eli isojakoa toimittamaan. Hän teki myös Hämeenlinnan uuteen kaupunkiin tonttijaon. 
         Vuonna 1775 kaupungin uudeksi sijoituspaikaksi päätettiin Saaristen kruununtilan maat. Kustaa III vahvisti sijoituksen vuonna 1776. Linnoitustoimen päällikkö Axel von Arbin sai 
         tehtäväksi laatia kaupungin asemakaavan. Vuonna 1777 valmistui ensimmäinen Arbinin yksityiskohtainen suunnitelma Hämeenlinnan asemakaavaa varten ja v. 1778 "parannettu" 
         suunnitelma. Pehr Kiellmanin karttaote Ojoisten ja Saaristen virkatalojen maista on samalta vuodelta kuin Arbinin korjattu suunnitelma. Lopullisen kaavan kuningas hyväksyi 1778. 
         Kaupungin siirto suoritettiin nopeasti. Uusi asemakaava oli paalutettu maastoon jo ilmeisesti vuoden 1778 aikana. Vuodelta 1780 on olemassa myös maanmittari Kiellmanin 
         tonttijakokartta Hämeenlinnasta. Alkuperäisen kartan koko on 79 x 121,5 cm ja sitä säilytetään kuultokangaskopiona Hämeenlinnan kaupunginarkistossa.</p>
-      <p className="publisherStyle">Julkaisija: Hämeenlinnan kaupunginkirjasto</p>
+      <p className="italicSmallStyle">Julkaisija: Hämeenlinnan kaupunginkirjasto</p>
     </Layout>
   )
 }
