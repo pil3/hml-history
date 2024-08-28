@@ -2,19 +2,22 @@ import React, { useState, useRef, useEffect } from "react";
 import {zoomContainer, zoomBtnContainer, btnStyle, imgStyle} from "../styles/components/ImageZoomInOut.module.css"
 
 function ImageZoomInOut({ imageUrl }) {
+
+  // Define state variables
   const [scale, setScale] = useState(0.8);
   const [position, setPosition] = useState({ x: 0, y: 0 });
   const imageRef = useRef(null);
 
+  // Define zoom in/out functions
   const handleZoomIn = () => {
     setScale((scale) => scale + 0.2);
   };
-
   const handleZoomOut = () => {
-    if(scale < 1) return;
+    if(scale < 0.9) return;
     setScale((scale) => scale - 0.2);
   };
 
+  // Define mouse event listeners with the useEffect hook
   useEffect(() => {
     const image = imageRef.current;
     let isDragging = false;
@@ -51,6 +54,7 @@ function ImageZoomInOut({ imageUrl }) {
     };
   }, [imageRef, scale]);
 
+  // Render image and buttons for zooming in and out
   return (
     <div className={zoomContainer}>
       <div className={zoomBtnContainer}>

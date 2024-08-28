@@ -1,5 +1,0 @@
-@import "../base/global.css";
-
-.card-style{
-  filter: drop-shadow(var(--color-shade) 5px 5px 5px);
-}

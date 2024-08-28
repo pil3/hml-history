@@ -5,11 +5,11 @@
   margin-top: -20px;
 }
 .logoStyle {
-  width: 110px;
+  width: 100px;
   height: auto;
 }
 @media screen and (max-width: 576px) {
   .logoStyle {
-    width: 70px;
+    width: 60px;
   }
 }

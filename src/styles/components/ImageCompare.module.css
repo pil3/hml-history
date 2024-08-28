@@ -1,0 +1,28 @@
+@import "../base/global.css";
+
+.imagesContainer {
+  position: relative;
+  margin: 40px 0 30px 0;
+}
+.imgStyle {
+  display: block;
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 8px black;
+}
+.imgOverlayStyle{
+  position: absolute;
+  display: flex;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  animation: fadeInOut 10s infinite;
+}
+@keyframes fadeInOut {
+  50% {opacity: 0;}
+}
+
