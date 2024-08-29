@@ -1,5 +1,8 @@
 import React, { useState, useRef, useEffect } from "react";
-import {zoomContainer, zoomBtnContainer, btnStyle, imgStyle} from "../styles/components/ImageZoomInOut.module.css"
+import {zoomContainer, 
+        zoomBtnContainer, 
+        btnStyle, 
+        imgStyle} from "../styles/components/ImageZoomInOut.module.css"
 
 function ImageZoomInOut({ imageUrl }) {
 
@@ -16,7 +19,10 @@ function ImageZoomInOut({ imageUrl }) {
     if(scale < 0.9) return;
     setScale((scale) => scale - 0.2);
   };
-
+  const handleReset = () => {
+    setScale(0.8);
+    setPosition({x: 0, y: 0});
+  };
   // Define mouse event listeners with the useEffect hook
   useEffect(() => {
     const image = imageRef.current;
@@ -43,26 +49,31 @@ function ImageZoomInOut({ imageUrl }) {
       isDragging = false;
     };
 
-    image?.addEventListener("mousedown", handleMouseDown);
-    image?.addEventListener("mousemove", handleMouseMove);
-    image?.addEventListener("mouseup", handleMouseUp);
+    image?.addEventListener("pointerdown", handleMouseDown);
+    image?.addEventListener("pointermove", handleMouseMove);
+    image?.addEventListener("pointerup", handleMouseUp);
 
     return () => {
-      image?.removeEventListener("mousedown", handleMouseDown);
-      image?.removeEventListener("mousemove", handleMouseMove);
-      image?.removeEventListener("mouseup", handleMouseUp);
+      image?.removeEventListener("pointerdown", handleMouseDown);
+      image?.removeEventListener("pointermove", handleMouseMove);
+      image?.removeEventListener("pointerup", handleMouseUp);
     };
   }, [imageRef, scale]);
+  // Note: ?. is shorte syntax value checking if values are undefined
 
   // Render image and buttons for zooming in and out
   return (
     <div className={zoomContainer}>
+
       <div className={zoomBtnContainer}>
         <button className={btnStyle} onClick={handleZoomIn}>
           <span>+</span>
         </button>
         <button className={btnStyle} onClick={handleZoomOut}>
           <span>-</span>
+        </button>
+        <button className={btnStyle} onClick={handleReset}>
+          <span>{"\u256c"}</span>
         </button>
       </div>
 

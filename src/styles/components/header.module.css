@@ -1,15 +1,16 @@
 @import "../base/global.css";
 
-.header-style{
-  font-size: 1.6em;
+.headerStyle{
+  font-size: 1.5em;
   margin-top: -20px;
+  border-bottom: 5px solid var(--color-bg-dark);
 }
 .logoStyle {
-  width: 100px;
+  width: 80px;
   height: auto;
 }
 @media screen and (max-width: 576px) {
   .logoStyle {
-    width: 60px;
+    width: 50px;
   }
 }

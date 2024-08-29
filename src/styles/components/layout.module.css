@@ -10,16 +10,27 @@
 .containerStyle {
   padding: 2px 25px 0 15px;
 }
-.headerStyle {
-  font-size: 1.5em;
+.pageTitleStyle {
+  font-size: 2em;
   color: var(--text-dark);
-  font-family: "Inter Extra Light"
+  font-family: "Inter Extra Light";
+  margin: 15px 0 30px 0;
+  border-bottom: 2px solid #00000066;
+}
+.topStyle {
+  background-color: var(--color-bg-dark);
+  border-radius: 10px;
 }
 .titleSvgStyle {
+  display: block;
+  margin: auto;
   width: 55%;
   min-width: 300px;
-  margin-bottom: 10px;
 }
-
+@media screen and (max-width: 576px) {
+  .pageTitleStyle {
+    font-size: 1.5em;
+  }
+}
 
 

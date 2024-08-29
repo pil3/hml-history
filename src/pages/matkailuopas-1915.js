@@ -1,17 +1,17 @@
 import * as React from "react"
 import {StaticImage} from "gatsby-plugin-image";
 import Layout from "../components/layout"
-import "../styles/base/global.css"
 import "bootstrap/dist/css/bootstrap.min.css";
+import "../styles/base/global.css"
 const MatkailuopasPage = () => {
   return (
     <Layout titleText="Matkailuopas vuodelta 1915">
       <div className="flexWrapper">
         <StaticImage className="mx-auto rounded shadowed" src="../images/content/guide15-frontpage.jpg" alt="Matkailuoppaan etusivu"/>
       </div>
-      <p className="my-1 text-center fst-italic">H:linnan Matkailijayhdistys</p>
-      <p className="my-1 text-center fst-italic">Hämeenlinna 1915, Arvi A. Karisto</p>
-      <p className="my-1 text-center fst-italic">Hämeenlinnan Kaupunginkirjasto</p>
+      <p className="my-1 text-center italicSmallStyle">H:linnan Matkailijayhdistys</p>
+      <p className="my-1 text-center italicSmallStyle">Hämeenlinna 1915, Arvi A. Karisto</p>
+      <p className="my-1 text-center italicSmallStyle">Hämeenlinnan Kaupunginkirjasto</p>
       <hr></hr>
       <h2>Hämeenlinna</h2>
       <p>Hämeenlinnan kaupunki sijaitsee Vanajaveden rannalla, Helsingistä Tampereelle kulkevan rautatien varrella.</p>

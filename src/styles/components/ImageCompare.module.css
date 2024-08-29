@@ -2,7 +2,7 @@
 
 .imagesContainer {
   position: relative;
-  margin: 40px 0 30px 0;
+  margin: 10px 0 30px 0;
 }
 .imgStyle {
   display: block;
@@ -10,7 +10,7 @@
   width: 100%;
   height: auto;
   border-radius: 10px;
-  box-shadow: 0 0 8px black;
+  box-shadow: 0 0 10px black;
 }
 .imgOverlayStyle{
   position: absolute;

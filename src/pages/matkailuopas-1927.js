@@ -9,9 +9,9 @@ const MatkailuopasPage = () => {
       <div className="flexWrapper">
         <StaticImage className="mx-auto" src="../images/content/guide27-frontpage.jpg" alt="Matkailuoppaan etusivu"/>
       </div>
-      <p className="my-1 text-center fst-italic">Laatinut A. TH. BÖÖK</p>
-      <p className="my-1 text-center fst-italic">Hämeenlinna 1927, Arvi A. Karisto osakeyhtiön kirjapaino</p>
-      <p className="my-1 text-center fst-italic">Hämeenlinnan Kaupunginkirjasto</p>
+      <p className="my-1 text-center italicSmallStyle">Laatinut A. TH. BÖÖK</p>
+      <p className="my-1 text-center italicSmallStyle">Hämeenlinna 1927, Arvi A. Karisto osakeyhtiön kirjapaino</p>
+      <p className="my-1 text-center italicSmallStyle">Hämeenlinnan Kaupunginkirjasto</p>
       <hr></hr>
       <h2>Hämeen linna ja vanha kaupunki</h2>
       <p>Hämeen linna sijaitsee Vanajaveden rannalla, Helsingistä Tampereelle vievän rautatien varrella. Sen

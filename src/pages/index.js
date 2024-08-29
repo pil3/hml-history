@@ -11,7 +11,7 @@ import ImageCarousel from "../components/imageCarousel";
 -------------------------------------------------------------*/
 const homePage = () => {
   return ( 
-    <Layout titleText="">
+    <Layout titleText="Etusivu">
       <Row >
         <Col>
           <ImageCarousel imgArray={carouselArray}></ImageCarousel>
