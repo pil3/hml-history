@@ -6,10 +6,9 @@ import { captionStyle,
         ccStyle, 
         fullScreenImageStyle, 
         textblockStyle,
-        modalStyle,
-        modalBodyStyle,
-        modalTitleBgStyle,
-        modalTitleTextStyle
+        modalHeaderStyle,
+        modalTitleStyle,
+        modalBodyStyle
       } from "../styles/components/imageModal.module.css"
 const ImageModal = ({imageStyle, imagePath, titleText, detailsText, copyrightText}) => {
   const [show, setShow] = React.useState(false);
@@ -24,11 +23,11 @@ const ImageModal = ({imageStyle, imagePath, titleText, detailsText, copyrightTex
       alt = {titleText}
       rounded
     />
-      <Modal show={show} fullscreen={true} onHide={handleClose} className={modalStyle}>
-        <Modal.Header closeButton={true} closeVariant="white" className={modalTitleBgStyle}>
-          <Modal.Title className={modalTitleTextStyle}>{titleText}</Modal.Title>
+      <Modal show={show} fullscreen={true} onHide={handleClose}>
+        <Modal.Header closeButton={true} closeVariant="white" className={modalHeaderStyle}>
+          <Modal.Title className={modalTitleStyle}>{titleText}</Modal.Title>
         </Modal.Header>
-        <Modal.Body className={ modalBodyStyle }>
+        <Modal.Body className={modalBodyStyle}>
           <Image src={imagePath} alt="Kuva"  className={ fullScreenImageStyle }/>
           <div className={ textblockStyle }>
             <p className={ captionStyle }>{detailsText}</p>

@@ -11,11 +11,10 @@
   padding: 2px 25px 0 15px;
 }
 .pageTitleStyle {
-  font-size: 2em;
+  font-size: 3em;
   color: var(--text-dark);
   font-family: "Inter Extra Light";
-  margin: 15px 0 30px 0;
-  border-bottom: 2px solid #00000066;
+  margin: 40px 0;
 }
 .topStyle {
   background-color: var(--color-bg-dark);
@@ -29,7 +28,8 @@
 }
 @media screen and (max-width: 576px) {
   .pageTitleStyle {
-    font-size: 1.5em;
+    font-size: 2em;
+    margin: 30px 0;
   }
 }
 

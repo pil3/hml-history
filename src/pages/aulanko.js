@@ -4,13 +4,14 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import ImageModal from "../components/imageModal";
+import "../styles/base/global.css"
 import { rowStyle, imgStyle } from "../styles/pages/aulanko.module.css"
 
 const AulankoPage = () => {
   return (
     <Layout titleText="Kuvia Aulangolta">
       <Row className={ rowStyle }>
-        <h2>-- 1890 --</h2>
+      <div className="interTitleStyle">1890</div>
       </Row>  
       <Row className={ rowStyle }>
         <Col>
@@ -53,7 +54,7 @@ const AulankoPage = () => {
       </Row>
       <hr></hr>
       <Row className={ rowStyle }>
-        <h2>-- 1900 --</h2>
+      <div className="interTitleStyle">1900</div>
       </Row> 
       <Row className={ rowStyle }>
         <Col>
@@ -83,7 +84,7 @@ const AulankoPage = () => {
       </Row>
       <hr></hr>
       <Row className={ rowStyle }>
-        <h2>-- 1910 --</h2>
+      <div className="interTitleStyle">1910</div>
       </Row> 
       <Row className={ rowStyle }>
         <Col>
@@ -102,7 +103,7 @@ const AulankoPage = () => {
       </Row>
       <hr></hr>
       <Row className={ rowStyle }>
-        <h2>-- 1920 --</h2>
+      <div className="interTitleStyle">1920</div>
       </Row> 
       <Row className={ rowStyle }>
         <Col>
@@ -155,7 +156,7 @@ const AulankoPage = () => {
       </Row>
       <hr></hr>
       <Row className={ rowStyle }>
-        <h2>-- 1930 --</h2>
+      <div className="interTitleStyle">1930</div>
       </Row>
       <Row className={ rowStyle }>
         <Col>

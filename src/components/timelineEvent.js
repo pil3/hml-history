@@ -10,7 +10,10 @@ import { rowStyle,
           eventYearStyle,
           buttonStyle,
           imageStyle,
-          ccStyle
+          ccStyle,
+          modalHeaderStyle,
+          modalTitleStyle,
+          modalBodyStyle
  } from "../styles/components/timelineEvent.module.css";
 
 const TimelineEvent = ({ eventTitle, eventYear, eventInfo, imageData,cc }) => {
@@ -32,10 +35,10 @@ const TimelineEvent = ({ eventTitle, eventYear, eventInfo, imageData,cc }) => {
         <div><Button style={{ display: hasInfo ? "inline-block" : "none"}} variant="" className={buttonStyle} onClick={handleShow}> <InfoIcon height= "40px" width="auto" /> </Button></div>
       </div>
       <Modal show={show} onHide={handleClose} size="lg">
-        <Modal.Header closeButton closeVariant="dark">
-          <Modal.Title>{eventTitle} {eventYear}</Modal.Title>
+        <Modal.Header closeButton={true} closeVariant="white" className={modalHeaderStyle}>
+          <Modal.Title className={modalTitleStyle}>{eventTitle} {eventYear}</Modal.Title>
         </Modal.Header>
-          <Modal.Body>
+          <Modal.Body className={modalBodyStyle}>
             {eventInfo}
             <Image style={{ display: hasImage ? "block" : "none"}} className={ imageStyle } alt="Kuva" src={imageData}/>
             <div className={ccStyle}>{cc}</div>

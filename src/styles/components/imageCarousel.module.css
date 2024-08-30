@@ -17,20 +17,14 @@
   padding: 10px 6px;
   text-align: left;
   border-radius: 5px;
-  box-shadow: 0px 0px 6px black;
-  background-color: var(--color-bg);
+  box-shadow: 0px 0px 4px black;
+  background-color: var(--color-bg-dark);
 }
 .carouselCaptionTextStyle {
   margin: auto;
-  color: var(--text-dark);
+  color: var(--text-light);
   font-family: "Inter Regular";
 }
-
-/*  @media only screen and (max-width: 768px) and (min-width: 577px) {
-  .carouselItemStyle{
-    height: 550px;
-  }
-} */
 @media only screen and (max-width: 576px) {
   .carouselItemStyle{
     height: 360px;
