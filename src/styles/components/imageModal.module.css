@@ -13,18 +13,22 @@
   padding: 20px 10px 0 5px;
   background-color: var(--color-bg-dark);
 }
+.fullScreenImageWrapperStyle {
+  display: block;
+  margin: auto;
+}
 .fullScreenImageStyle {
   display: block;
   margin: auto;
   max-width: 100%;
   height: auto;
 }
-.textblockStyle {
+.captionContainerStyle {
   padding: 20px 10px 10px 10px;
   max-width: 1200px;
   margin: auto;
 }
-.captionStyle {
+.captionTextStyle {
   color: var(--text-light);
   font-size: 1em;
 }

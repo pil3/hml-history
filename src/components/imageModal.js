@@ -2,13 +2,15 @@ import * as React from "react"
 import "bootstrap/dist/css/bootstrap.min.css";
 import Modal from "react-bootstrap/Modal";
 import Image from "react-bootstrap/Image";
-import { captionStyle, 
+import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
+import { captionTextStyle, 
         ccStyle, 
         fullScreenImageStyle, 
-        textblockStyle,
+        captionContainerStyle,
         modalHeaderStyle,
         modalTitleStyle,
-        modalBodyStyle
+        modalBodyStyle,
+        fullScreenImageWrapperStyle
       } from "../styles/components/imageModal.module.css"
 const ImageModal = ({imageStyle, imagePath, titleText, detailsText, copyrightText}) => {
   const [show, setShow] = React.useState(false);
@@ -28,9 +30,13 @@ const ImageModal = ({imageStyle, imagePath, titleText, detailsText, copyrightTex
           <Modal.Title className={modalTitleStyle}>{titleText}</Modal.Title>
         </Modal.Header>
         <Modal.Body className={modalBodyStyle}>
-          <Image src={imagePath} alt="Kuva"  className={ fullScreenImageStyle }/>
-          <div className={ textblockStyle }>
-            <p className={ captionStyle }>{detailsText}</p>
+          <TransformWrapper>
+            <TransformComponent wrapperClass={fullScreenImageWrapperStyle}>
+              <Image src={imagePath} alt="Kuva" className={fullScreenImageStyle}/>
+            </TransformComponent>
+          </TransformWrapper>
+          <div className={ captionContainerStyle }>
+            <p className={ captionTextStyle }>{detailsText}</p>
             <p className={ ccStyle }>{copyrightText}</p>
           </div>
         </Modal.Body>

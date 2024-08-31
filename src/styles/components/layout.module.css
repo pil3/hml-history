@@ -1,6 +1,8 @@
 @import "../base/global.css";
 
 .fullScreen {
+  display: flex;
+  flex-direction: column;
   width: 100vw;
   min-height: 100vh;
   background-repeat: no-repeat;

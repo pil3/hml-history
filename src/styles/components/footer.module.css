@@ -1,4 +1,23 @@
+@import "../base/global.css";
+
+.footerContainerStyle {
+  margin-top: auto;
+  border-top: 5px solid var(--color-bg-dark);
+  width: 100vw;
+  overflow: hidden;
+}
 .footerImageStyle{
-  min-height: 150px;
-  position: center center;
+  width: 100%;
+  height: auto; 
+  display: block;
+  margin: auto;
+}
+@media screen and (max-width: 576px) {
+  .footerImageStyle {
+    height: 120px;
+    width: auto;
+    /* centering oversized image horizontally: */
+    margin-left: 50%;
+    transform: translateX(-50%);
+  }
 }

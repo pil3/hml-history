@@ -1,13 +1,17 @@
 import * as React from "react";
-import {StaticImage} from "gatsby-plugin-image";
-import { footerImageStyle } from "../styles/components/footer.module.css";
+import Image from "react-bootstrap/Image";
+import { footerContainerStyle, footerImageStyle } from "../styles/components/footer.module.css";
+
+import footerImage from "../images/footerImage.jpg"
 const Footer = () => {
   return (
-    <StaticImage
-      alt="Footer Image"
-      src="../images/footerImage.png"
-      className={footerImageStyle}
-    />
+    <div className={footerContainerStyle}>
+      <Image
+        alt="Footer Image"
+        src={footerImage}
+        className={footerImageStyle}
+      />
+    </div>
   );
 };
 export default Footer;

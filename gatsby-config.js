@@ -7,8 +7,6 @@ module.exports = {
     author: "Perri Laakso",
   },
   plugins: [
-    "gatsby-plugin-image",
-    "gatsby-plugin-sharp",
     {
       resolve: "gatsby-plugin-react-svg",
       options: {
@@ -17,12 +15,12 @@ module.exports = {
         }
       }
     },
-/*     {
+   /* {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "images",
         path: "${__dirname}/src/images/",
       },
-    }, */
+    },*/
   ],
 };

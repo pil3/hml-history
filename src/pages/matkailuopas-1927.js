@@ -1,5 +1,5 @@
 import * as React from "react"
-import {StaticImage} from "gatsby-plugin-image";
+import Image from "react-bootstrap/Image";
 import Layout from "../components/layout"
 import "../styles/base/global.css"
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -7,7 +7,7 @@ const MatkailuopasPage = () => {
   return (
     <Layout titleText="Matkailuopas vuodelta 1927">
       <div className="flexWrapper">
-        <StaticImage className="mx-auto" src="../images/content/guide27-frontpage.jpg" alt="Matkailuoppaan etusivu"/>
+        <Image className="mx-auto" src="../images/content/guide27-frontpage.jpg" alt="Matkailuoppaan etusivu"/>
       </div>
       <p className="my-1 text-center italicSmallStyle">Laatinut A. TH. BÖÖK</p>
       <p className="my-1 text-center italicSmallStyle">Hämeenlinna 1927, Arvi A. Karisto osakeyhtiön kirjapaino</p>
@@ -78,7 +78,7 @@ const MatkailuopasPage = () => {
         sopimuksen mukaan.</p>
       <p>Asemalta on myös säännöllinen linja-autoliike kaupungin läpi Poltinaholle, läntiselle kasarmialueelle.</p>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-1.jpg" alt="Bussi"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-1.jpg" alt="Bussi"/>
       </div>
 
       <h2>Rautatieaseman ympäristö</h2>
@@ -111,7 +111,7 @@ const MatkailuopasPage = () => {
       <p>Sillalta alkaa kaupungin vilkasliikkeisin katu - Raatihuoneenkatu - kulkien sen läpi Viipurintiestä kaupungin länsipuolella olevaan Turuntiehen saakka, 
         joka johtaa Poltinaholle.</p>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-2.jpg" alt="Silta"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-2.jpg" alt="Silta"/>
       </div>
 
       <h2>Raatihuoneenkatu sillalta torille</h2>
@@ -139,10 +139,10 @@ const MatkailuopasPage = () => {
         talossa (Raatihuoneenkatu 9) on Hämeenlinnan Suojeluskunnan kanslia. Suojeluskunta toimii vireästi käsittäen eri komppanioita ja eri osastoja. Urheilu- ja 
         ampumaharrastus on suuri. Yhteistoiminnassa Suojeluskunnan kanssa on Lotta Svärd-yhdistys, jonka huoneisto on samassa talossa kuin Suojeluskunnan.</p>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-3.jpg" alt="Vanajaveden silta"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-3.jpg" alt="Vanajaveden silta"/>
       </div>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-4.jpg" alt="Vanajaveden sillalta etelään"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-4.jpg" alt="Vanajaveden sillalta etelään"/>
       </div>
         
 
@@ -179,10 +179,10 @@ const MatkailuopasPage = () => {
       <p>Torin läntisellä sivustalla on Elokuvien teatteri Panu, eteläisellä K. Lehtovaaran tukku -ja vähittäisliike, kaupungin suurin kultasepänliike 
         (Hj. Salo) sekä K. Vainikaisen leipomo ja kahvila. Torin luoteisessa kulmassa on Maanviljelijäin Kauppa OY.</p>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-5.jpg" alt="Skogster"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-5.jpg" alt="Skogster"/>
       </div>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-6.jpg" alt="Raatihuone"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-6.jpg" alt="Raatihuone"/>
       </div>
 
       
@@ -211,7 +211,7 @@ const MatkailuopasPage = () => {
       <p>Kirjastopuistikon eteläreunustalla on E. Huhdan puusepän- ja verhoiluliike, länsipuolella taas Suomalainen Yhteiskoulu (johtaja Verneri Vartia), 
         kumpikin omassa talossaan.</p>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-7.jpg" alt="Yhdyspankki"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-7.jpg" alt="Yhdyspankki"/>
       </div>
 
       <h2>Turuntie</h2>
@@ -234,7 +234,7 @@ const MatkailuopasPage = () => {
         Tampereelle, ja suoraan eteenpäin: Poltinahontie, joka vie kasarmialueen läpi uudelle hautausmaalle y.m.</p>
       <p>Lähellä tätä paikkaa Myllymäen puolella on linja-auton pysähdyspaikka.</p>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-8.jpg" alt="Nahkatehdas"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-8.jpg" alt="Nahkatehdas"/>
       </div>
 
       <h2>Isosilta - Rantatori - Lahdensivu</h2>
@@ -249,10 +249,10 @@ const MatkailuopasPage = () => {
         kolmeen pääosastoon: opettaja-, kutoja- ja vaateompeluosastoon.</p>
       <p>Saavumme niin Rantatorille.</p>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-9.jpg" alt="Yhteiskoulu"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-9.jpg" alt="Yhteiskoulu"/>
       </div>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-10.jpg" alt="Turuntie"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-10.jpg" alt="Turuntie"/>
       </div>
 
       <h2>Rantatori ja Urheilukenttä</h2>
@@ -274,10 +274,10 @@ const MatkailuopasPage = () => {
         kylää kohti ja johtaen yleiselle Helsingin maantielle Hattelmalan harjun eteläpäässä.</p>
       <p>Tämän tien varrella on edempänä kaupungin Kunnalliskoti.</p>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-11.jpg" alt="Uimalaitos"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-11.jpg" alt="Uimalaitos"/>
       </div>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-12.jpg" alt="Urheilukenttä"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-12.jpg" alt="Urheilukenttä"/>
       </div>
 
       <h2>Lyseo ja Tähtipuisto ympäristöineen</h2>
@@ -314,10 +314,10 @@ const MatkailuopasPage = () => {
       <p>Samalla kadulla on torin ja yhteiskoulun välillä useita kaupungin vanhimpia liikkeitä, m.m. St. Häggin tapetti- ja värikauppa. Samassa talossa on 
         vapaakirkollisten rukoushuone.</p>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-13.jpg" alt="Sairaala"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-13.jpg" alt="Sairaala"/>
       </div>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-14.jpg" alt="Lehtokuja"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-14.jpg" alt="Lehtokuja"/>
       </div>
 
       <h2>Laivalaituri - Birger Jarlinkatu - Kaivokatu.</h2>
@@ -377,7 +377,7 @@ const MatkailuopasPage = () => {
       <p>Pikkulaivat välittävät säännöllistä laivakulkua kaupungin laivalaiturin ja Puiston sekä Karlbergin välillä ja myös yksityiset henkilöt kuljettavat 
         veneillä matkailijoita Puistosta vastapäätä olevaan Karlbergiin. Maksu suoritetaan sopimuksen mukaan.</p>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-15.jpg" alt="Pyövelinmäki"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-15.jpg" alt="Pyövelinmäki"/>
       </div>
 
       <h2>Poltinaho - Ampumarata - Hautausmaa - Hiihtomäki</h2>
@@ -485,7 +485,7 @@ const MatkailuopasPage = () => {
       <p>Karlbergin ja Aulangon puistoalueet ovat hotelliliikenteestä riippumatta yleisön vapaasti käytettävissä; Aulangon torniin nousemisesta on maksu 2 mk. 
         hengeltä, mutta pääsevät lapset vanhempainsa kanssa ilmaiseen.</p>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-16.jpg" alt="Karlberg"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-16.jpg" alt="Karlberg"/>
       </div>
 
       <h2>Maantiematka Hämeenlinna - Vanaja - Karlberg - Hattula</h2>
@@ -525,7 +525,7 @@ const MatkailuopasPage = () => {
       <p>Kirkon edustalla oleva kellotapuli, jonka alaosa on harmaasta kivestä ja yläosa puusta, on rakennettu v. 1813.</p>
       <p>Kirkko on nykyään täydelleen uudistettu ja on sen vartijalta saatavissa kirkkoa selostava opas.</p>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-17.jpg" alt="Hattulan vanha kirkko"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-17.jpg" alt="Hattulan vanha kirkko"/>
       </div>
       <p>Hattulasta jatketaan matkaa Sääksmäelle. Sivuutamme Hattulan uuden kirkon Vanajaveden yli vievän Mierolan sillan lähettyvillä. Kuljettuamme Vermasvuoren 
         poikki liikumme aluksi metsäseuduilla, kunnes Sääksmäelle johtavalle, kapeahkolle kylätielle poikettuamme eteemme alkaa avautua näköaloja Vanajaveden 
@@ -573,7 +573,7 @@ const MatkailuopasPage = () => {
       <p>Noin 3 km:n päässä kaupungista kohoaa maantie Hattelmalan harjulle, josta J. L. Runeberg runoilee Vänrikki Stoolin tarinain runossa »Vänrikin 
         markkinamuisto»; »Hämeenlinna, ensi kerran kun sun kuutamossa näin Hattelmalan harjanteilta, tuo ei mene mielestäin!»</p>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-19.jpg" alt="Hattelmalan harju"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-19.jpg" alt="Hattelmalan harju"/>
       </div>
       <p>Tällä harjulla aikoi C. N. af Klercker v. 1808 pysähdyttää venäläisten sotajoukkojen etenemisen ja rakennutti sitä varten harjun länsipäähän siellä 
         vielä nähtävinä olevat vallit.</p>
@@ -583,7 +583,7 @@ const MatkailuopasPage = () => {
       <p>Hattelmalan harjulta (129,5m.) on erittäin kaunis ja laaja näköala yli kaupungin ja ympäristön. Harjanteelle on Hämeenlinnan Matkailijayhdistys tien 
         viereen rakennuttanut yksinkertaisen suojakatoksen.</p>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-18.jpg" alt="Hattelmalan harju"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-18.jpg" alt="Hattelmalan harju"/>
       </div>
       <p>Noin 2 km harjusta eteenpäin kääntyy ajotie valtion omistamaan Perttulan (tylsämielisten) kasvatuslaitokseen. Laitos on kauniilla, ylävällä paikalla 
         harjualueella. Päärakennuksen rakensi aikoinaan, v. 1855, kuvernööri O. Rehbinder itselleen kesäasunnoksi ja muutti sinne vakituisesti asumaan v. 1863, 
@@ -643,7 +643,7 @@ const MatkailuopasPage = () => {
         Pohja, Pappila, Toijala, Rauttu , Salo, Valkeakoski, Äimälä, Onkkaala, Luikala, Töyräniemi, Salmentaka, Sappee ja Aitoo.</p>
       <p>Pälkäneen kirkolta on kautta vuoden säännöllinen linja-autoliike Tampereelle.</p>
       <div className="flexWrapper">
-        <StaticImage className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-20.jpg" alt="Valkeakoski"/>
+        <Image className="mx-auto my-3 rounded shadowed" src="../images/content/guide27-img-20.jpg" alt="Valkeakoski"/>
       </div>
 
       <h2>Tyrvännön reitti</h2>

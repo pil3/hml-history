@@ -1,7 +1,7 @@
 import * as React from "react"
 import { Link } from 'gatsby'
 import "bootstrap/dist/css/bootstrap.min.css";
-import {StaticImage} from "gatsby-plugin-image";
+import Image from "react-bootstrap/Image";
 import Container from 'react-bootstrap/Container';
 import Dropdown from 'react-bootstrap/Dropdown';
 import Navbar from 'react-bootstrap/Navbar'
@@ -12,12 +12,14 @@ import { navBarStyle,
   dropDownMenuStyle
 } from "../styles/components/header.module.css";
 
+import vaakuna from "../images/hml-vaakuna.png" 
+
 const Header = () => {
   return (
     <header className={ headerStyle }>
         <Navbar expand="lg" data-bs-theme="light" className={navBarStyle} bg="transparent">
           <Container fluid="xl">
-            <Navbar.Brand href="/" id="headerLogo" title="Logo"><StaticImage placeholder={"blurred"} className={logoStyle} alt="Vaakuna" src="../images/hml-vaakuna.png" /></Navbar.Brand>
+            <Navbar.Brand href="/" id="headerLogo" title="Logo"><Image placeholder={"blurred"} className={logoStyle} alt="Vaakuna" src={vaakuna} /></Navbar.Brand>
             <Navbar.Toggle aria-controls="hamburger" />
             <Navbar.Collapse id="hamburger">
               <Nav variant="underline" className="mx-auto">

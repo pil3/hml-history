@@ -19,7 +19,8 @@ const Layout = ({titleText, children}) => {
           {children}
         </main>
       </Container>
-      <Footer />    
+      <Footer />
+      <footer></footer>
     </div>
   );
 };
