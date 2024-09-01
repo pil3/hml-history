@@ -1,8 +1,8 @@
 @import "../base/global.css";
 
-.imagesContainer {
+.imageContainerStyle {
   position: relative;
-  margin: 10px 0 30px 0;
+  margin: 0;
 }
 .imgStyle {
   display: block;

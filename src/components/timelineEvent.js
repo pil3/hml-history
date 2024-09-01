@@ -1,15 +1,19 @@
 import * as React from "react";
-import ArrowIcon from "../assets/arrow-right.svg";
-import Button from "react-bootstrap/Button";
-import InfoIcon from "../assets/info.svg";
-import Spacer from "../assets/spacer.svg"
+
 import Modal from "react-bootstrap/Modal";
 import Image from "react-bootstrap/Image";
+import Button from "react-bootstrap/Button";
+
+import ArrowIcon from "../assets/arrow-right.svg";
+import InfoIcon from "../assets/info.svg";
+import Spacer from "../assets/spacer.svg"
+
+import "../styles/base/global.css"
+
 import { rowStyle, 
           eventStyle,
           eventYearStyle,
           buttonStyle,
-          imageStyle,
           ccStyle,
           modalHeaderStyle,
           modalTitleStyle,
@@ -40,7 +44,7 @@ const TimelineEvent = ({ eventTitle, eventYear, eventInfo, imageData,cc }) => {
         </Modal.Header>
           <Modal.Body className={modalBodyStyle}>
             {eventInfo}
-            <Image style={{ display: hasImage ? "block" : "none"}} className={ imageStyle } alt="Kuva" src={imageData}/>
+            <Image style={{ display: hasImage ? "block" : "none"}} className="centeredImageStyle" alt="Kuva" src={imageData}/>
             <div className={ccStyle}>{cc}</div>
           </Modal.Body>
         </Modal>

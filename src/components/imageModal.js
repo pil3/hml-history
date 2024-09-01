@@ -10,7 +10,8 @@ import { captionTextStyle,
         modalHeaderStyle,
         modalTitleStyle,
         modalBodyStyle,
-        fullScreenImageWrapperStyle
+        fullScreenImageWrapperStyle,
+        buttonStyle
       } from "../styles/components/imageModal.module.css"
 const ImageModal = ({imageStyle, imagePath, titleText, detailsText, copyrightText}) => {
   const [show, setShow] = React.useState(false);
@@ -30,11 +31,22 @@ const ImageModal = ({imageStyle, imagePath, titleText, detailsText, copyrightTex
           <Modal.Title className={modalTitleStyle}>{titleText}</Modal.Title>
         </Modal.Header>
         <Modal.Body className={modalBodyStyle}>
+
           <TransformWrapper>
-            <TransformComponent wrapperClass={fullScreenImageWrapperStyle}>
-              <Image src={imagePath} alt="Kuva" className={fullScreenImageStyle}/>
-            </TransformComponent>
+            {({ zoomIn, zoomOut, resetTransform, ...rest }) => (
+              <React.Fragment>
+                <div>
+                  <button className={buttonStyle} onClick={() => zoomIn()}>+</button>
+                  <button className={buttonStyle} onClick={() => zoomOut()}>-</button>
+                  <button className={buttonStyle} onClick={() => resetTransform()}>{"\u256c"}</button>
+                </div>
+                <TransformComponent wrapperClass={fullScreenImageWrapperStyle}>
+                  <Image src={imagePath} alt="Kuva" className={fullScreenImageStyle}/>
+                </TransformComponent>
+              </React.Fragment>
+            )}
           </TransformWrapper>
+
           <div className={ captionContainerStyle }>
             <p className={ captionTextStyle }>{detailsText}</p>
             <p className={ ccStyle }>{copyrightText}</p>

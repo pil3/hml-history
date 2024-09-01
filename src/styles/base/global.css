@@ -31,7 +31,7 @@
   --color-shade: #444a4d;
   --color-light: #fafafa;
   --color-bg: #F9E2B1;
-  --color-bg-dark: #1a1a1a; /*#2D2921;*/
+  --color-bg-dark: #281E07;/*#110d03; #2D2921;*/
   --color-bg-light: #FCF2DE;
 }
 /* Page styling
@@ -66,7 +66,7 @@ h4 {
 ----------------------------------------------------------------------------------------------------- */
 .flexWrapper {
   display: flex;
-  width: 100%;
+  margin: 20px 0;
 }
 .shadowed {
   box-shadow: 2px 2px 4px black;
@@ -79,18 +79,22 @@ h4 {
   initial-letter: 2;
   padding-right: 4px;
 }
-.interTitleStyle {
-  margin: 40px 0 0 0;
-  font-size: 1.3em;
+.imageCaptionStyle {
+  margin: 10px 0 0 0;
+  font-size: 1.2em;
   color: var(--text-dark);
   font-family: "Inter Light Italic";
+  text-align: center;
 }
-.fullWidthImageStyle {
+.centeredImageStyle {
   display: block;
   max-width: 100%;
   margin: auto;
   box-shadow: 2px 2px 4px black;
-  border-radius: 10px;
+  border-radius: 8px;
+}
+.verticalSpacer {
+  height: 2em;
 }
 
 

@@ -2,7 +2,7 @@
 
 .modalHeaderStyle{
   background-color: var(--color-bg-dark);
-  border: none;
+  border-color: var(--color-bg);
 }
 .modalTitleStyle{
   font-size: 1.4em;
@@ -16,12 +16,21 @@
 .fullScreenImageWrapperStyle {
   display: block;
   margin: auto;
+  border-radius: 8px;
 }
 .fullScreenImageStyle {
   display: block;
   margin: auto;
   max-width: 100%;
   height: auto;
+}
+.buttonStyle {
+  width: 50px;
+  height: 50px;
+  margin: 0 5px 0 0;
+  background-color: var(--text-light);
+  font-size: 26px;
+  border-radius: 6px 0 6px 0;
 }
 .captionContainerStyle {
   padding: 20px 10px 10px 10px;
