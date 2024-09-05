@@ -5,12 +5,12 @@ import Layout from "../components/layout"
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../styles/base/global.css"
 
-import imgFrontPage from "../images/content/guide15-frontpage.jpg"
-import img1 from "../images/content/guide15-img-1.jpg"
-import img2 from "../images/content/guide15-img-2.jpg"
-import img3 from "../images/content/guide15-img-3.jpg"
-import img4 from "../images/content/guide15-img-4.jpg"
-import img5 from "../images/content/guide15-img-5.jpg"
+import imgFrontPage from "../images/content/guide15/frontpage.jpg"
+import img1 from "../images/content/guide15/img-1.jpg"
+import img2 from "../images/content/guide15/img-2.jpg"
+import img3 from "../images/content/guide15/img-3.jpg"
+import img4 from "../images/content/guide15/img-4.jpg"
+import img5 from "../images/content/guide15/img-5.jpg"
 
 const MatkailuopasPage = () => {
   return (
@@ -21,9 +21,9 @@ const MatkailuopasPage = () => {
       <p className="my-1 text-center italicSmallStyle">H:linnan Matkailijayhdistys</p>
       <p className="my-1 text-center italicSmallStyle">Hämeenlinna 1915, Arvi A. Karisto</p>
       <p className="my-1 text-center italicSmallStyle">Hämeenlinnan Kaupunginkirjasto</p>
-      <hr></hr>
+
       <h2>Hämeenlinna</h2>
-      <p>Hämeenlinnan kaupunki sijaitsee Vanajaveden rannalla, Helsingistä Tampereelle kulkevan rautatien varrella.</p>
+      <p className="firstLetterStyle">Hämeenlinnan kaupunki sijaitsee Vanajaveden rannalla, Helsingistä Tampereelle kulkevan rautatien varrella.</p>
       <p>Kaupungin perusti Ruotsin kuningattaren Kristiinan käskystä vuonna 1638 Suomen silloinen kenraalikuvernööri Pietari Brahe niemekkeelle Birger Jaarlin vuonna 1249 
         rakentaman Ruununporin eli Tavaslborgin linnan pohjoispuolelle. Tammikuun 19 päivänä 1639, antoi Pietari Brahe Hämeenlinnalle, joka alkuaan oli aiottu kauppakaupungiksi 
         sisämaahan, kauppalanoikeudet sekä heinäkuun 4 päivänä 1650 kaupunginoikeudet, jolloin kaupungista, mikä alkuaan oli kuulunut Vanajan seurakuntaan, muodostettiin 
@@ -112,7 +112,7 @@ const MatkailuopasPage = () => {
         <Image className="centeredImageStyle" src={img2} alt="Kirkontornista pohjoiseen"/>
       </div>
       <h2> Matkailijoille huomattavaa</h2>
-      <p><strong>Rautatien asema</strong> kaupungin itäsyrjällä Vanajaveden itäisellä puolella, on aistikkaasti rakennettu kolmikerroksinen kivirakennus tornineen, joka aikoinaan oli Suomen ensimmäisen Helsingistä 
+      <p className="firstLetterStyle"><strong>Rautatien asema</strong> kaupungin itäsyrjällä Vanajaveden itäisellä puolella, on aistikkaasti rakennettu kolmikerroksinen kivirakennus tornineen, joka aikoinaan oli Suomen ensimmäisen Helsingistä 
         Hämeenlinnaan rakennetun rautatien päätekohtana. Eri rakennuksissa asemarakennuksen eteläpuolella ovat rautatien paketti- ja pikatavaratoimisto ynnä tavaratoimisto.</p>
       <p>Rautatieasemalta pääsee junien saapuessa kaupunkiin vuokra-ajurilla, jonka taksa on 75 penniä, tahi automobiilillä, jonka taksa on 1 markka 50 penniä.</p>
       <p><strong>Hotelleja</strong> on kaupungissa: Teatterihotelli, Birger Jaarlin ja Itäisen Linnankadun kulmassa, jossa paitsi täydellistä ravintolaa ja kaupungin teatterisalia, on 9 matkustajahuonetta 3-5 
@@ -130,7 +130,7 @@ const MatkailuopasPage = () => {
         maalaaman alttaritaulun. Avaimet kirkkoon säilytetään kirkonvartija A. Vikman'in luona talossa n:o 26 a Kymnaasikadun varrella ja maksetaan hänelle kirkonnäyttämisestä 1 markka.</p>
       <p>Kreikkalaiskatoolisen seurakunnan kirkko rantatorin luoteiskulmassa, on pieni puukirkko, jonka kauppias Aleksander Bogdanoff v. 1867 lahjoitti kaupungin kreikkalais-katooliselle seurakunnalle, ja 
         Venäläinen sotilaskirkko puistikossa Saarenkadun ja Pikkukadun välissä, joka rakennettiin v. 1899.</p>
-        <div className="flexWrapper">
+      <div className="flexWrapper">
         <Image className="centeredImageStyle" src={img3} alt="Raatihuone"/>
       </div>
       <p><strong>Lääninhallitus</strong> sijaitsee torin pohjoispuolella. Alkuaan oli Hämeenlääni yhdistetty yhdeksi lääniksi Uudenmaanläänin kanssa, jolloin lääninhallitus sijaitsi Helsingin kaupungissa, kunnes 
@@ -206,7 +206,7 @@ const MatkailuopasPage = () => {
         Karlberg'issa y. m. käyntiä varten.</p>
       <p><strong>Laivalaituri</strong> on Hallitus- ja Birger Jaarlin katujen itäpäässä.</p>
       <p><strong>Vesijohtolaitos.</strong> Vuonna 1910 valmistui kaupungin vesijohto ja viemärilaitos, joka tuli maksamaan Smk. 334,422:64. Vesijohtolaitoksen konehuone, vesikaivot ja vesisäiliö sijaitsevat noin 
-      kilometrin matkan päässä kaupungista länteen päin, Poltinahon kentän luoteispuolella.</p>
+        kilometrin matkan päässä kaupungista länteen päin, Poltinahon kentän luoteispuolella.</p>
       <p><strong>Kasarmeja</strong> Kaupungissa löytyy entisen 7:n Hämeenlinnan tarkkampujapataljoonan kasarmit Läntisen Viertotien varrella Myllymäen kaupunginosassa, Poltinahon kasarmit kaupungin länsipuolella 
         olevan Poltinahon kentän pohjoissyrjällä (viimeksimainiUujen kasarmien rakennuksista rakennettiin osa jo Ruotsin vallan aikana) sekä Kivikasarmit, jotka v. 1854 rakennettiin Hämeenlinnaan sijoitetulle 
         ruotuväen pataljoonalle.</p>
@@ -223,7 +223,7 @@ const MatkailuopasPage = () => {
         sanomalehtiä.</p>
 
       <h2>Laivareitti Hämeenlinnasta Kangasalle</h2>
-      <p>Hämeenlinnan kaupunki sijaitsee Suomen Järviylängön länsiosassa, Kokemäenjoen vesistön eleiäisemmän reitin Vanajaveden varrella. Reitti alkaa etelässä likellä Suurta-Salpausselkää ja kiertelee monissa mutkissa 
+      <p className="firstLetterStyle">Hämeenlinnan kaupunki sijaitsee Suomen Järviylängön länsiosassa, Kokemäenjoen vesistön eleiäisemmän reitin Vanajaveden varrella. Reitti alkaa etelässä likellä Suurta-Salpausselkää ja kiertelee monissa mutkissa 
         pohjoiseen päin. Vielä Hämeenlinnan tienoilla se on verrattain kapea ja laajenee vasta muutamia penikulmia sen pohjoispuolella Vanajan (Sääksmäen) seläksi. Jään liikunnan suuntaan kulkeva harjujono alkaa 
         suuresta reunamoreenistamme Hikiän aseman eteläpuolella, katkaisee vesireitin Turengin lähettyvillä ja seuraa siitä alkaen reittiä sen länsipuolella aina Vanajan selkään saakka. Tämä jono sivuuttaa sitten 
         Hämeenlinnan ja kohoaa sen läheisyydessä muodostamaan kaupungin ymparistöön mitä ihanimpia näköaloja metsäharjuineen, kumpuineen ja siintävine vesineen.</p>
@@ -325,7 +325,7 @@ const MatkailuopasPage = () => {
         seljänteen. Niin kauas kuin silmään siintää nään järviä lahtineen. Kas, Längelmävesi tuolla vöin hopeisin hohtelee, ja Roineen armaiset aallot sen rantoja hyväilee!'</p>
 
       <h2>Tyrvännön reitti</h2>
-      <p>Sivuutettuamme laivareitin oikealla puolella Landentaan kartanon ja Vanajaniemen talon, joka viimeksimainittu kuuluu Suomen Valtion omistamaan Lepaan kartanoon, avartuu Vanajavesi, joka tähän asti on kaarrellut 
+      <p className="firstLetterStyle">Sivuutettuamme laivareitin oikealla puolella Landentaan kartanon ja Vanajaniemen talon, joka viimeksimainittu kuuluu Suomen Valtion omistamaan Lepaan kartanoon, avartuu Vanajavesi, joka tähän asti on kaarrellut 
         kapeana juovana, laajaksi Vanajan seläksi. Kuljettuamme kallioisen Vanajaniemen kärjen ohi, kääntyy laivareitti oikealle, ja sivuutettuamme oikealla puolella kauniin Puisniemen kärjen, saavumme kapeaan salmeen 
         jonka molemmilla rannoilla sijaitsee huviloita sekä salmen läpi kuljettuamme Suotaalan kylään Tyrvännön kappelissa. Kylän läheisyydessä sijaitsee Tyrvännön seurakunnan v. 1803 rakennettu puukirkko, korkealla 
         mäellä, josta on kaunis näköala Vanajan selälle. Niemessä vastapäätä Suotaalan laivalaituria on kunnan vaivaistalo. Jonkun matkaa eteenpäin kuljettuamme näemme edessämme Siukolan talon sekä siitä oikealle 

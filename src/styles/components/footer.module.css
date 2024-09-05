@@ -1,16 +1,29 @@
 @import "../base/global.css";
 
 .footerContainerStyle {
+  display: flex;
   margin-top: auto;
-  border-top: 5px solid var(--color-bg-dark);
-  width: 100vw;
   overflow: hidden;
+  position: relative;
 }
 .footerImageStyle{
   width: 100%;
   height: auto; 
   display: block;
   margin: auto;
+}
+.logoStyle {
+  height: 33%;
+  min-height: 40px;
+  width: auto;
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  z-index: 1;
+  opacity: 0.8;
+}
+.logoStyle:hover {
+  opacity: 1.0;
 }
 @media screen and (max-width: 576px) {
   .footerImageStyle {

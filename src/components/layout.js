@@ -1,9 +1,14 @@
 import * as React from "react"
+
 import Header from "./header";
 import Footer from "./footer";
+
 import "bootstrap/dist/css/bootstrap.min.css";
+
 import Container from "react-bootstrap/Container";
+
 import { fullScreen, containerStyle, pageTitleStyle, titleSvgStyle, topStyle} from "../styles/components/layout.module.css";
+
 import TitleSvg from "../assets/header-text-white.svg";
 
 const Layout = ({titleText, children}) => {
@@ -19,8 +24,7 @@ const Layout = ({titleText, children}) => {
           {children}
         </main>
       </Container>
-      <Footer />
-      <footer></footer>
+      <Footer /> 
     </div>
   );
 };

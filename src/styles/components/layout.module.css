@@ -3,7 +3,6 @@
 .fullScreen {
   display: flex;
   flex-direction: column;
-  width: 100vw;
   min-height: 100vh;
   background-repeat: no-repeat;
   background-position: center top;
@@ -20,7 +19,6 @@
 }
 .topStyle {
   background-color: var(--color-bg-dark);
-  border-radius: 10px;
 }
 .titleSvgStyle {
   display: block;

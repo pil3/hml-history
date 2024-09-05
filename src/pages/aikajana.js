@@ -14,15 +14,13 @@ const AikajanaPage = () => {
     <Layout titleText="Aikajana">
       <TimelineEvent eventYear="1200"></TimelineEvent>
       <TimelineEvent />
-      <TimelineEvent eventTitle="Linnavuoriketjun rakentaminen" eventYear="1220"
-        eventInfo={<div><p>Kansantarujen mukaan Janakkalassa sijaitseva Hakoisten linnavuori olisi ollut varhaisin Hämeen linna. 
-          Linnavuoriketjua käytettiin 1220-luvulla puolustamista varten idästä tulevaa hyökkääjää vastaan. Osa linnoituksista on
-          ollut käytössä viikinkiajoista lähtien. Esimerkiksi Aulangon linnavuori ilmeisesti hävitettiin kun Hämeen linnaa ryhdyttiin 
-          rakentamaan lähistölle.
-          </p> </div>}></TimelineEvent>
       <TimelineEvent />
-      <TimelineEvent eventTitle="Puulinnoitteen rakentaminen" eventYear="1249"
-        eventInfo={<div><p>Birger Jaarli rakennutti Ruununporin eli Tavastborgin linnan ristiretkensä yhteydessä. Linnoitus valmistui todennäköisesti vuonna 1249.
+      <TimelineEvent />
+      <TimelineEvent eventTitle="Linnoituksen rakentaminen" eventYear="1249"
+        eventInfo={<div><p>Arvioidaan, että Birger Jaarli rakennutti Ruununporin eli Tavastborgin linnan ristiretkensä yhteydessä. Linnoitus valmistui 
+            todennäköisesti vuonna 1249. Joidenkin arvioiden mukaan ensimmäisessä vaiheessa linna koostui harmaakivisestä neliömäisestä leirikastellista 
+            ja kehämuurista. Historioitsija Knut Drake kuitenkin esitti, että alkuperäinen linna olisi ollut ainoastaan hirsivarustus ja että että harmaakivilinnaa 
+            alettiin rakentaa vasta vuonna 1372.
           </p> </div>}></TimelineEvent>
       <TimelineEvent />
       <TimelineEvent />
@@ -46,22 +44,27 @@ const AikajanaPage = () => {
       <TimelineEvent />
       <TimelineEvent />
       <TimelineEvent />
-      <TimelineEvent eventTitle="Tiililinnan rakennustyöt alkuun" eventYear="1472"
-        eventInfo={<div><p>Hämeen linna oli näihin aikoihin Ruotsin itäisin linnoitus. Aikaisemman puuvarustuksen ei katsottu olevan riittävä idästä tulevaa vihollista 
-          vastaan, joten Hämeen linnaa alettiin muuttamaan tiililinnaksi 1400-luvun loppupuolella.
+      <TimelineEvent />
+      <TimelineEvent />
+      <TimelineEvent eventTitle="Ingeborg asettuu linnaan" eventYear="1497"
+        eventInfo={<div><p>Sten Sure vanhempi saa Suomen henkilökohtaiseksi läänityksekseen. Hänen puolisonsa Ingeborg Aakentytär Tott saa mieheltään Hämeen 
+            linnan lääneineen. Rouva Ingeborg laittoi paikallisen hovielämän kukoistamaan.
           </p> </div>}></TimelineEvent>
-      <TimelineEvent />
-      <TimelineEvent />
       <TimelineEvent eventYear="1500"></TimelineEvent>
       <TimelineEvent />
       <TimelineEvent />
       <TimelineEvent />
       <TimelineEvent />
+      <TimelineEvent eventTitle="Linna saa tykkitornit" eventYear="1559"
+        eventInfo={<div><p> Kustaa Vaasa muutti Hämeen linnan kruunun tarpeisiin erikoistuneeksi hallinto- ja talouskeskukseksi ja kuninkaan nimittämät voudit 
+            alkoivat johtamaan linnaa. Vuonna 1559 rakennetaan pyöreä tykkitorni kehämuurin itäkulmaukseen ja myöhemmin länsikulmaukseen. 
+          </p> </div>}></TimelineEvent>
       <TimelineEvent />
       <TimelineEvent />
       <TimelineEvent />
-      <TimelineEvent />
-      <TimelineEvent />
+      <TimelineEvent eventTitle="Linna jää rappiolle" eventYear="1590"
+        eventInfo={<div><p> 1500-luvun lopulla linna jää asumattomaksi ja alkaa rappeutua
+          </p> </div>}></TimelineEvent>
       <TimelineEvent eventYear="1600"></TimelineEvent>
       <TimelineEvent />
       <TimelineEvent />
@@ -98,7 +101,7 @@ const AikajanaPage = () => {
         </p> </div>}></TimelineEvent>
       <TimelineEvent />
       <TimelineEvent />
-      <TimelineEvent eventTitle="Kustaa III siirtää kaupungin etelämmäksi" eventYear="1777"
+      <TimelineEvent eventTitle="Kustaa III siirtää kaupungin" eventYear="1777"
         eventInfo={<div><p>Kaupunkilaiset elivät tukalia aikoja, sillä suurin osa kaupunkia oli poltettu tai hävitetty ja kaupunkilaisia kiellettiin korkean sakon uhalla rakentamasta uudelleen hävitettyjä talojaan,
           koska hallitus oli todennut, että kaupunki sijaitsi liian lähellä linnaa ja oli siksi muutettava toiseen paikkaan.</p>
          <p>Kustaan käväistessä työasioilla hämeenlinnassa hän kävi katselemassa maisemia Pyövelinmäen laella. Pohjoisessa Hattulan suunnalla tienoo näytti
@@ -114,7 +117,7 @@ const AikajanaPage = () => {
       <TimelineEvent eventYear="1800"></TimelineEvent>
       <TimelineEvent />
       <TimelineEvent />
-      <TimelineEvent eventTitle="Mikko polttaa lähes koko kaupungin" eventYear="1831" imageData={ Img1831 } 
+      <TimelineEvent eventTitle="Mikko polttaa kaupungin" eventYear="1831" imageData={ Img1831 } 
         cc="Juseliuksen talon sijainti (Palotorvi 1903, Hämeenlinnan kaupunginkirjasto)"
         eventInfo={<div><p>Hämeenlinna paloi 14.9. Kauppias Juseliuksen talon renki Mikko oli tullut humalassa kotiin, 
           jolloin kauppias oli kehoittanut tätä menemään nukkumaan. Mikko poistuikin talliparvelle ja sytytettyään piippunsa 
@@ -130,7 +133,7 @@ const AikajanaPage = () => {
         <p>Juseliuksen talo sijaitsi Hallituskadun varrella torin luoteiskulmassa:</p></div>}></TimelineEvent>
       <TimelineEvent />
       <TimelineEvent />
-      <TimelineEvent eventTitle="Lemminkäinen vetää junan Hämeenlinnaan" eventYear="1862" imageData={ Img1862 } 
+      <TimelineEvent eventTitle="Ensimmäinen juna saapuu kaupunkiin" eventYear="1862" imageData={ Img1862 } 
         cc="Lemminkäinen - A1 veturi (Hämäläinen -lehdessä 31.1.1862 julkaistu piirroskuva)"
         eventInfo={<div><p>Ensimmäinen radan pohjoispäähän asti ajettu vihkiäisjuna saapui Hämeenlinnaan 31. tammikuuta 1862 kello 11 aamupäivällä. Lemminkäinen-veturin 
           vetämään junaan oli kytketty useita vaunuja, joissa oli yhteensä 30 kutsuvierasta. Matkalippujen hinnasto julkaistiin helmikuussa ja ensimmäinen aikataulu maaliskuussa. 

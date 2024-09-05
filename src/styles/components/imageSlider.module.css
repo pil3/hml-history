@@ -1,0 +1,41 @@
+@import "../base/global.css";
+
+.buttonContainer {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  margin: 25px 0 0 0;
+}
+.buttonStyle {
+  height: 100%;
+  padding: 0;
+  bottom: 0;
+  background-color: transparent;
+  border: none;
+}
+.arrowStyle {
+  height: 100%;
+  width: auto;
+  opacity: 0.8;
+}
+.arrowStyle:hover, .arrowStyle:focus {
+  opacity: 1.0;
+}
+.sliderImgStyle {
+  display: block;
+  margin: auto;
+  max-width: calc(100% - 10px);
+  max-height: 500px;
+  border: 2px solid black;
+}
+.sliderCaptionStyle {
+  max-width: 500px;
+  margin: auto;
+  padding: 6px 6px 0 6px;
+  text-align: left;
+}
+@media only screen and (max-width: 576px) {
+  .carouselItemStyle{
+    height: 360px;
+  }
+}

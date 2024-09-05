@@ -34,8 +34,8 @@ const TimelineEvent = ({ eventTitle, eventYear, eventInfo, imageData,cc }) => {
     <>
       <div className={rowStyle}>
         <div className={ eventStyle }>{eventTitle}</div>
-        <div><ArrowIcon style={{ display: isCentury ? "none" : "inline-block"}}  width="20px" height="auto"/></div>
-        <div style={{fontWeight: isCentury ? "bold" : "normal", fontSize: isCentury ? "26px" : "20px"}} className= { eventYearStyle }>{eventYear}<Spacer style={{ display: isSpacer ? "inline-block" : "none"}} /></div>
+        <div><ArrowIcon style={{ display: isCentury ? "none" : "inline-block"}}  width="16px" height="auto"/></div>
+        <div style={{fontWeight: isCentury ? "bold" : "normal", fontSize: isCentury ? "24px" : "20px"}} className= { eventYearStyle }>{eventYear}<Spacer style={{ display: isSpacer ? "inline-block" : "none"}} /></div>
         <div><Button style={{ display: hasInfo ? "inline-block" : "none"}} variant="" className={buttonStyle} onClick={handleShow}> <InfoIcon height= "40px" width="auto" /> </Button></div>
       </div>
       <Modal show={show} onHide={handleClose} size="lg">

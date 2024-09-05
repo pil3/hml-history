@@ -2,7 +2,7 @@
 
 .modalHeaderStyle{
   background-color: var(--color-bg-dark);
-  border-color: var(--color-bg);
+  border: none;
 }
 .modalTitleStyle{
   font-size: 1.4em;
@@ -11,39 +11,40 @@
 }
 .modalBodyStyle {
   padding: 20px 10px 0 5px;
-  background-color: var(--color-bg-dark);
+  background-color: var(--color-bg);
 }
-.fullScreenImageWrapperStyle {
+.fsImgStyle {
   display: block;
-  margin: auto;
-  border-radius: 8px;
-}
-.fullScreenImageStyle {
-  display: block;
-  margin: auto;
   max-width: 100%;
-  height: auto;
+  margin: auto;
+}
+.buttonContainerStyle {
+  /*  inline-block to make the div size of contents */
+  display: inline-block;
+  /* Horizontally center an inline-block element without needing to modify its parent's style */
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
 }
 .buttonStyle {
   width: 50px;
   height: 50px;
   margin: 0 5px 0 0;
-  background-color: var(--text-light);
+  background-color: var(--color-bg-dark);
+  color: var(--text-light);
   font-size: 26px;
-  border-radius: 6px 0 6px 0;
+  border-radius: 6px;
 }
 .captionContainerStyle {
-  padding: 20px 10px 10px 10px;
-  max-width: 1200px;
+  padding: 0 16px;
   margin: auto;
 }
-.captionTextStyle {
-  color: var(--text-light);
-  font-size: 1em;
-}
 .ccStyle {
- color: var(--text-light);
  font-size: 0.8em; 
  font-family: "Inter Light Italic";
 }
-
+@media screen and (max-width: 576px) {
+  .captionContainerStyle {
+    padding: 0;
+  }
+}

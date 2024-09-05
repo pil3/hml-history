@@ -68,9 +68,6 @@ h4 {
   display: flex;
   margin: 20px 0;
 }
-.shadowed {
-  box-shadow: 2px 2px 4px black;
-}
 .italicSmallStyle {
   font-family: "Inter Light Italic";
   font-size: 0.8em;
@@ -92,6 +89,12 @@ h4 {
   margin: auto;
   box-shadow: 2px 2px 4px black;
   border-radius: 8px;
+}
+.maxHeightStyle {
+  max-height: 300px;
+}
+.marginYStyle {
+  margin: 16px 0;
 }
 .verticalSpacer {
   height: 2em;

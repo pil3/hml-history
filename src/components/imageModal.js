@@ -1,17 +1,16 @@
 import * as React from "react"
-import "bootstrap/dist/css/bootstrap.min.css";
+// import "bootstrap/dist/css/bootstrap.min.css";
 import Modal from "react-bootstrap/Modal";
 import Image from "react-bootstrap/Image";
 import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
-import { captionTextStyle, 
-        ccStyle, 
-        fullScreenImageStyle, 
+import {ccStyle, 
         captionContainerStyle,
         modalHeaderStyle,
         modalTitleStyle,
         modalBodyStyle,
-        fullScreenImageWrapperStyle,
-        buttonStyle
+        buttonContainerStyle,
+        buttonStyle,
+        fsImgStyle
       } from "../styles/components/imageModal.module.css"
 const ImageModal = ({imageStyle, imagePath, titleText, detailsText, copyrightText}) => {
   const [show, setShow] = React.useState(false);
@@ -26,29 +25,29 @@ const ImageModal = ({imageStyle, imagePath, titleText, detailsText, copyrightTex
       alt = {titleText}
       rounded
     />
-      <Modal show={show} fullscreen={true} onHide={handleClose}>
+      <Modal show={show} fullscreen={false} onHide={handleClose} size="xl" centered>
         <Modal.Header closeButton={true} closeVariant="white" className={modalHeaderStyle}>
           <Modal.Title className={modalTitleStyle}>{titleText}</Modal.Title>
         </Modal.Header>
         <Modal.Body className={modalBodyStyle}>
 
-          <TransformWrapper>
+          <TransformWrapper centerOnInit>
             {({ zoomIn, zoomOut, resetTransform, ...rest }) => (
               <React.Fragment>
-                <div>
+                <div className={buttonContainerStyle}>
                   <button className={buttonStyle} onClick={() => zoomIn()}>+</button>
                   <button className={buttonStyle} onClick={() => zoomOut()}>-</button>
                   <button className={buttonStyle} onClick={() => resetTransform()}>{"\u256c"}</button>
                 </div>
-                <TransformComponent wrapperClass={fullScreenImageWrapperStyle}>
-                  <Image src={imagePath} alt="Kuva" className={fullScreenImageStyle}/>
+                <TransformComponent wrapperStyle={{width: "100%", margin: "10px 0"}}>
+                    <Image className={fsImgStyle} src={imagePath} alt="Kuva"/>
                 </TransformComponent>
               </React.Fragment>
             )}
           </TransformWrapper>
 
           <div className={ captionContainerStyle }>
-            <p className={ captionTextStyle }>{detailsText}</p>
+            <p>{detailsText}</p>
             <p className={ ccStyle }>{copyrightText}</p>
           </div>
         </Modal.Body>
