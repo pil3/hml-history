@@ -8,30 +8,31 @@ import Image from 'react-bootstrap/Image';
 
 import "../styles/base/global.css"
 
-import img1 from "../images/content/guide15/ad-1.jpg"
-import img2 from "../images/content/guide15/ad-2.jpg"
-import img3 from "../images/content/guide15/ad-3.jpg"
-import img4 from "../images/content/guide15/ad-4.jpg"
-import img5 from "../images/content/guide15/ad-5.jpg"
-import img6 from "../images/content/guide15/ad-6.jpg"
-import img7 from "../images/content/guide15/ad-7.jpg"
-import img8 from "../images/content/guide15/ad-8.jpg"
-import img9 from "../images/content/guide15/ad-9.jpg"
-import img10 from "../images/content/guide15/ad-10.jpg"
-import img11 from "../images/content/guide15/ad-11.jpg"
-import img12 from "../images/content/guide15/ad-12.jpg"
-import img13 from "../images/content/guide15/ad-13.jpg"
-import img14 from "../images/content/guide15/ad-14.jpg"
-import img15 from "../images/content/guide15/ad-15.jpg"
-import img16 from "../images/content/guide15/ad-16.jpg"
-import img17 from "../images/content/guide15/ad-17.jpg"
-import img18 from "../images/content/guide15/ad-18.jpg"
-import img19 from "../images/content/guide15/ad-19.jpg"
+import img1 from "../images/content/address1887/addr-1.jpg"
+import img2 from "../images/content/address1887/addr-2.jpg"
+import img3 from "../images/content/address1887/addr-3.jpg"
+import img4 from "../images/content/address1887/addr-4.jpg"
+import img5 from "../images/content/address1887/addr-5.jpg"
+import img6 from "../images/content/address1887/addr-6.jpg"
+import img7 from "../images/content/address1887/addr-7.jpg"
+import img8 from "../images/content/address1887/addr-8.jpg"
+import img9 from "../images/content/address1887/addr-9.jpg"
+import img10 from "../images/content/address1887/addr-10.jpg"
+import img11 from "../images/content/address1887/addr-11.jpg"
+import img12 from "../images/content/address1887/addr-12.jpg"
+import img13 from "../images/content/address1887/addr-13.jpg"
+import img14 from "../images/content/address1887/addr-14.jpg"
+import img15 from "../images/content/address1887/addr-15.jpg"
+import img16 from "../images/content/address1887/addr-16.jpg"
+import img17 from "../images/content/address1887/addr-17.jpg"
+import img18 from "../images/content/address1887/addr-18.jpg"
+import img19 from "../images/content/address1887/addr-19.jpg"
+import img20 from "../images/content/address1887/addr-20.jpg"
 
 
-const Ilmoituksia27Page = () => {
+const Osoitteita1887Page = () => {
   return (
-    <Layout titleText="Ilmoituksia vuodelta 1915">
+    <Layout titleText="Osoitteita vuodelta 1887">
       <Row>
         <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img1} alt="Kuva 1" rounded /></Col>
         <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img2} alt="Kuva 2" rounded /></Col>
@@ -70,11 +71,15 @@ const Ilmoituksia27Page = () => {
       </Row>
       <Row>
         <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img19} alt="Kuva 19" rounded /></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img20} alt="Kuva 20" rounded /></Col>
+      </Row>
+      <Row>
+      <p className="italicSmallStyle">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan Osoite ja Ilmoitus Kalenteri, 1887 </p>
       </Row>
     </Layout>
   )
 }
-export const Head = () => <title>Ilmoituksia vuodelta 1927</title> // metadata
+export const Head = () => <title>Osoitteita vuodelta 1887</title> // metadata
 
 // Export product component
-export default Ilmoituksia27Page
+export default Osoitteita1887Page

@@ -90,6 +90,12 @@ h4 {
   box-shadow: 2px 2px 4px black;
   border-radius: 8px;
 }
+.centeredSymbolStyle {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+  padding: 1em 0;
+}
 .maxHeightStyle {
   max-height: 300px;
 }

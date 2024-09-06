@@ -16,7 +16,7 @@ import {buttonContainer,
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-const ImageSlider = ({imgArray, showDots}) => {
+const ImageSlider = ({imgArray, showDots, auto}) => {
 
   let sliderRef = React.useRef(null);
   const next = () => {
@@ -27,23 +27,20 @@ const ImageSlider = ({imgArray, showDots}) => {
   };
 
   const settings = {
-    dots: showDots==true,
+    dots: showDots===true,
     infinite: true,
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
     swipeToSlide: true,
-    arrows: false
+    arrows: false,
+    autoplay: auto===true,
+    autoplaySpeed: 8000
   };
 
   return (
     <div>
-      <Slider 
-      ref={slider => {
-        sliderRef = slider;
-      }}
-      {...settings}
-    >
+      <Slider ref={slider => {sliderRef = slider}}{...settings}>
         {
           imgArray.map(_img => 
             <div>
@@ -54,10 +51,10 @@ const ImageSlider = ({imgArray, showDots}) => {
         }
       </Slider>
       <div className={buttonContainer}>
-        <button className={buttonStyle} onClick={previous}>
+        <button type="button" aria-label="Edellinen" className={buttonStyle} onClick={previous}>
           <ArrowLeft className={arrowStyle}/>
         </button>
-        <button className={buttonStyle} onClick={next}>
+        <button type="button" aria-label="Seuraava" className={buttonStyle} onClick={next}>
         <ArrowRight className={arrowStyle}/>
         </button>
       </div>

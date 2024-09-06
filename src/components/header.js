@@ -63,7 +63,10 @@ const Header = () => {
                 <Dropdown as={Nav.Item} >
                   <Dropdown.Toggle as={Nav.Link}>Leikkeitä</Dropdown.Toggle>
                   <Dropdown.Menu className={dropDownMenuStyle}>
-                  <Dropdown.Item>
+                    <Dropdown.Item>
+                      <Link to="/osoitteita-1887" className="nav-link" activeClassName="active">Osoitteita - 1887</Link> 
+                    </Dropdown.Item>
+                    <Dropdown.Item>
                       <Link to="/sanomalehti" className="nav-link" activeClassName="active">Satunnaisia sanomalehtiä</Link> 
                     </Dropdown.Item>
                     <Dropdown.Item>

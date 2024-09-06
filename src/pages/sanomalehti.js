@@ -12,10 +12,16 @@ const newsPaperPage = () => {
   return ( 
     <Layout titleText="Satunnaisia sanomalehtiä">
       <Stack>
+      <p className="imageCaptionStyle">Hämeen Sanomat 8.1 1879</p>
+      <ImageSlider imgArray={hameenSanomat1879Array} showDots={true}></ImageSlider>
+      <p className="imageCaptionStyle">Hämeen Sanomat 17.5 1889</p>
+      <ImageSlider imgArray={hameenSanomat1889Array} showDots={true}></ImageSlider>
       <p className="imageCaptionStyle">Hämeen Sanomat 30.12 1899</p>
       <ImageSlider imgArray={hameenSanomat1899Array} showDots={true}></ImageSlider>
-      <p className="imageCaptionStyle">Hämeen Sanomat 27.10 1902</p>
-      <ImageSlider imgArray={hameenSanomat1902Array}></ImageSlider>
+      <p className="imageCaptionStyle">Hämeen Sanomat 1.5 1909</p>
+      <ImageSlider imgArray={hameenSanomat1909Array} showDots={true}></ImageSlider>
+      <p className="imageCaptionStyle">Hämetär 18.9 1909</p>
+      <ImageSlider imgArray={hametar1909Array} showDots={true}></ImageSlider>
       </Stack>
     </Layout>
   );
@@ -28,8 +34,68 @@ export const Head = () => (
 export default newsPaperPage;
 
 
-/* image arrays for carousels
+/* image arrays for sliders
 -------------------------------------------------------------*/
+const hameenSanomat1879Array = [
+  {
+    key: "imageid1",
+    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/371054/image/1?tracking=null",
+    title: "8.1 1879",
+    org: "Kansalliskirjaston digitaaliset aineistot",
+    details: "Sivu 1/4",
+  },
+  {
+    key: "imageid2",
+    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/371054/image/2?tracking=PAGER",
+    title: "8.1 1879",
+    org: "Kansalliskirjaston digitaaliset aineistot",
+    details: "Sivu 2/4",
+  },
+  {
+    key: "imageid3",
+    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/371054/image/3?tracking=PAGER",
+    title: "8.1 1879",
+    org: "Kansalliskirjaston digitaaliset aineistot",
+    details: "Sivu 3/4",
+  },
+  {
+    key: "imageid4",
+    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/371054/image/4?tracking=PAGER",
+    title: "8.1 1879",
+    org: "Kansalliskirjaston digitaaliset aineistot",
+    details: "Sivu 4/4",
+  },
+];
+const hameenSanomat1889Array = [
+  {
+    key: "imageid1",
+    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/36244/image/1?tracking=null",
+    title: "17.5 1889",
+    org: "Kansalliskirjaston digitaaliset aineistot",
+    details: "Sivu 1/4",
+  },
+  {
+    key: "imageid2",
+    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/36244/image/2?tracking=PAGER",
+    title: "17.5 1889",
+    org: "Kansalliskirjaston digitaaliset aineistot",
+    details: "Sivu 2/4",
+  },
+  {
+    key: "imageid3",
+    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/36244/image/3?tracking=PAGER",
+    title: "17.5 1889",
+    org: "Kansalliskirjaston digitaaliset aineistot",
+    details: "Sivu 3/4",
+  },
+  {
+    key: "imageid4",
+    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/36244/image/4?tracking=PAGER",
+    title: "17.5 1889",
+    org: "Kansalliskirjaston digitaaliset aineistot",
+    details: "Sivu 4/4",
+  },
+];
 const hameenSanomat1899Array = [
   {
     key: "imageid1",
@@ -60,58 +126,32 @@ const hameenSanomat1899Array = [
     details: "Sivu 4/4",
   },
 ];
-const hameenSanomat1902Array = [
+const hameenSanomat1909Array = [
   {
     key: "imageid1",
-    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/630499/image/1?tracking=null",
-    title: "27.10 1902",
+    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/633590/image/1?tracking=null",
+    title: "1.5 1909",
     org: "Kansalliskirjaston digitaaliset aineistot",
     details: "Sivu 1/4",
   },
   {
     key: "imageid2",
-    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/630499/image/2?tracking=PAGER",
-    title: "27.10 1902",
+    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/633590/image/2?tracking=PAGER",
+    title: "1.5 1909",
     org: "Kansalliskirjaston digitaaliset aineistot",
     details: "Sivu 2/4",
   },
   {
     key: "imageid3",
-    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/630499/image/3?tracking=PAGER",
-    title: "27.10 1902",
+    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/633590/image/3?tracking=PAGER",
+    title: "1.5 1909",
     org: "Kansalliskirjaston digitaaliset aineistot",
     details: "Sivu 3/4",
   },
   {
     key: "imageid4",
-    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/630499/image/4?tracking=PAGER",
-    title: "27.10 1902",
-    org: "Kansalliskirjaston digitaaliset aineistot",
-    details: "Sivu 4/4",
-  },
-];
-const hametar1906Array = [
-  {
-    key: "imageid1",
-    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/634107/image/1?tracking=null",
-    org: "Kansalliskirjaston digitaaliset aineistot",
-    details: "Sivu 1/4",
-  },
-  {
-    key: "imageid2",
-    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/634107/image/2?tracking=PAGER",
-    org: "Kansalliskirjaston digitaaliset aineistot",
-    details: "Sivu 2/4",
-  },
-  {
-    key: "imageid3",
-    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/634107/image/3?tracking=PAGER",
-    org: "Kansalliskirjaston digitaaliset aineistot",
-    details: "Sivu 3/4",
-  },
-  {
-    key: "imageid4",
-    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/634107/image/4?tracking=PAGER",
+    imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/633590/image/4?tracking=PAGER",
+    title: "1.5 1909",
     org: "Kansalliskirjaston digitaaliset aineistot",
     details: "Sivu 4/4",
   },
@@ -120,24 +160,28 @@ const hametar1909Array = [
   {
     key: "imageid1",
     imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/634602/image/1?tracking=null",
+    title: "18.9 1909",
     org: "Kansalliskirjaston digitaaliset aineistot",
     details: "Sivu 1/4",
   },
   {
     key: "imageid2",
     imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/634602/image/2?tracking=PAGER",
+    title: "18.9 1909",
     org: "Kansalliskirjaston digitaaliset aineistot",
     details: "Sivu 2/4",
   },
   {
     key: "imageid3",
     imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/634602/image/3?tracking=PAGER",
+    title: "18.9 1909",
     org: "Kansalliskirjaston digitaaliset aineistot",
     details: "Sivu 3/4",
   },
   {
     key: "imageid4",
     imgSrc: "https://digi.kansalliskirjasto.fi/sanomalehti/binding/634602/image/4?tracking=PAGER",
+    title: "18.9 1909",
     org: "Kansalliskirjaston digitaaliset aineistot",
     details: "Sivu 4/4",
   },

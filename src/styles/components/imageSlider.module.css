@@ -4,7 +4,8 @@
   display: flex;
   justify-content: space-between;
   height: 50px;
-  margin: 25px 0 0 0;
+  margin: 0;
+  
 }
 .buttonStyle {
   height: 100%;
@@ -12,6 +13,7 @@
   bottom: 0;
   background-color: transparent;
   border: none;
+  z-index: 99;
 }
 .arrowStyle {
   height: 100%;
@@ -34,8 +36,4 @@
   padding: 6px 6px 0 6px;
   text-align: left;
 }
-@media only screen and (max-width: 576px) {
-  .carouselItemStyle{
-    height: 360px;
-  }
-}
+

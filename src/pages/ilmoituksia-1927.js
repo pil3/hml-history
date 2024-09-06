@@ -1,8 +1,12 @@
 import * as React from "react"
+
+import Layout from "../components/layout";
+
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import Layout from "../components/layout"
 import Image from 'react-bootstrap/Image';
+
+import "../styles/base/global.css"
 
 import img1 from "../images/content/guide27/ad-1.jpg"
 import img2 from "../images/content/guide27/ad-2.jpg"
