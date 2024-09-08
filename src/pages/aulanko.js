@@ -53,6 +53,18 @@ const AulankoPage = () => {
             copyrightText="Julkaistu painettuna: A. Alopaeuksen Kirjakauppa - A. Alopaeus Bokhandel, Hämeenlinnan kaupunginkirjasto"
           />
         </Col>
+        <Col>
+          <ImageModal
+            imageStyle="centeredImageStyle  maxHeightStyle"
+            imagePath="https://www.finna.fi/Cover/Show?source=Solr&id=spegeln-bildsamlingarna.bildsam_1935_23%3A19&index=0&size=large"
+            titleText="~1890"
+            detailsText="Karlbergin ja Aulangon omistaja eversti Hugo Standertskjöld alkoi 1880-luvun puolivälissä panna toimeen 'suurenmoisia kaunistustöitä' Karlbergin kartanon seuduilla. 
+            Aulangonvuoren huipulle tehtiin uusi tie kartanosta ja rakennettiin kaksi kaunista huvimajaa vuonna 1886. Postikortin kuvassa on toinen näistä huvimajoista. Koristeellisesta 
+            paviljongista avautui kaunis näköala kohti kuvan taustalla näkyvää Aulangonjärveä ja Lusikkaniemeä ja aina naapuripitäjiin asti. Nykyisin samalla paikalla sijaitsee vuonna 1934 
+            rakennettu kaksikerroksinen näköalatasanne."
+            copyrightText="Åbo Akademin arkistokokoelmat - Lagergrén, Svante (1844-1900), fotograf"
+          />
+        </Col>
       </Row>
       <div className="verticalSpacer"></div>
       <Row className="marginYStyle">
@@ -153,6 +165,17 @@ const AulankoPage = () => {
             saattoi levähtää mukavilla penkeillä puiden alla suojassa auringolta. Etualan pienten ruukkupuiden taakse jää puiston suihkulähde. Hopeapajut reunustavat Vanajaveden rantaviivaa seurailevaa kävelytietä, 
             ja taustalla näkyy vuonna 1924 valmistunut järven ylittävä rautatiesilta."
             copyrightText="Julkaistu painettuna: Hämeenlinna : Suomalainen kirjakauppa Oy, Hämeenlinnan kaupunginkirjasto"
+          />
+        </Col>
+      </Row>
+      <Row className="marginYStyle">
+        <Col>
+          <ImageModal
+            imageStyle="centeredImageStyle  maxHeightStyle"
+            imagePath="https://www.finna.fi/Cover/Show?source=Solr&id=kerava_mui.mui-1273&index=0&size=large"
+            titleText="1926"
+            detailsText="Karlbergin kartanon päärakennus Aulangolla elokuussa 1926"
+            copyrightText="Keravan museopalvelut - Elna Granqvistin kokoelma - CC BY-NC-ND 4.0"
           />
         </Col>
       </Row>

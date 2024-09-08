@@ -3,10 +3,8 @@ import * as React from "react"
 import Layout from "../components/layout";
 import ImageSlider from "../components/imageSlider";
 
-import Image from "react-bootstrap/Image";
-
-import citateOpen from "../images/citation-open.png"
-import citateClose from "../images/citation-close.png"
+import QuoteStart from "../assets/quotation-start.svg"
+import QuoteEnd from "../assets/quotation-end.svg"
 
 import "../styles/base/global.css"
 
@@ -14,9 +12,9 @@ const homePage = () => {
   return ( 
     <Layout titleText="Palasia entisestä Hämeenlinnasta">
 
-      <ImageSlider imgArray={carouselArray} showDots={false} auto={true}></ImageSlider>
+      <ImageSlider imgArray={carouselArray} showDots={false} auto={false}></ImageSlider>
 
-      <Image placeholder={"blurred"} className="centeredSymbolStyle" alt="Sitaatti" src={citateOpen} />
+      <QuoteStart className="symbolStyle"/>
       <p className="firstLetterStyle">
         Noin samaan aikaan kuin Ruotsin mahtava valtiourho Birger Jaarli Bjelbosta päätti niinkuin "lukon Määlariin" rakentaa
         Tukholman kaupungin noita sotaisia virolaisia vastaan, vaivasivat pakanalliset hämäläiset tuhotöillään ajoin ja usein
@@ -142,7 +140,7 @@ const homePage = () => {
       <p>
         Hämeenlinnan kaupunki ja maaseurakunta kuuluu samaan kirkkoherrakuntaan, mutta on heillä vuodesta 1804 ollut yhteinen kirkkoherra Wanajan pitäjäläisten kanssa
       </p>
-      <Image placeholder={"blurred"} className="centeredSymbolStyle" alt="Sitaatti" src={citateClose} />
+      <QuoteEnd className="symbolStyle"/>
       <p className="italicSmallStyle">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan Osoite ja Ilmoitus Kalenteri, 1887 </p>
     </Layout>
   );
@@ -212,7 +210,7 @@ const carouselArray = [
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=srm.166927878871200&index=0&size=large",
     licence: "CC BY-NC-SA 4.0",
     org: "Suomen Rautatiemuseo - Suomen Rautatiemuseon kuvakokoelma",
-    caption: "Vanajaveden ensimmäinen rautatiesilta, joka oli kääntösilta.",
+    caption: "Vanajaveden ensimmäinen rautatiesilta.",
     title: "1902"
   },
   {
@@ -220,7 +218,7 @@ const carouselArray = [
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=lahdenmuseo.lkm-259093&index=0&size=large",
     licence: "CC BY 4.0",
     org: "Lahden museot - Böök A. Th",
-    caption: "Valokuvaaja Böökin tytot Ahveniston rannalla.",
+    caption: "Valokuvaaja Böökin tytöt Ahveniston rannalla.",
     title: "1905"
   },
   {
@@ -260,16 +258,16 @@ const carouselArray = [
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=srm.166927877711600&index=0&size=large",
     licence: "CC BY-NC-SA 4.0",
     org: "Suomen Rautatiemuseo - Suomen Rautatiemuseon kuvakokoelma",
-    caption: "Vanajaveden ensimmäinen rautatiesilta, joka oli kääntösilta.",
+    caption: "Vanajaveden ensimmäinen rautatiesilta. Silta oli kääntösilta.",
     title: "~1910"
   },
   {
     key: "imageid14",
-    imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=srm.166927881179300&index=0&size=large",
+    imgSrc: "https://digi.kirjastot.fi/files/fullsize/c1519126198cf06d9e000e41eeb8d5ef.jpg",
     licence: "CC BY-NC-SA 4.0",
-    org: "Suomen Rautatiemuseo - Suomen Rautatiemuseon kuvakokoelma",
-    caption: "Pitkäsilta Vanajaveden yllä Hämeenlinnassa, keskustasta Keinusaareen päin. Silta avattiin liikenteelle v. 1909.",
-    title: "1916"
+    org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa",
+    caption: "Maisemaa kirkontornista kohti pohjoista.",
+    title: "~1914"
   },
   {
     key: "imageid15",
@@ -284,7 +282,7 @@ const carouselArray = [
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=srm.166917725458200&index=0&size=large",
     licence: "CC BY-NC-SA 4.0",
     org: "Suomen Rautatiemuseo - Suomen Rautatiemuseon kuvakokoelma",
-    caption: "Hämeenlinnan uuden rautatieaseman kaupunginpuoleinen julkisivu",
+    caption: "Hämeenlinnan uuden rautatieaseman kaupunginpuoleinen julkisivu.",
     title: "~1930"
   },
   {
@@ -308,8 +306,136 @@ const carouselArray = [
     imgSrc: "https://digi.kirjastot.fi/files/fullsize/8722fd6f8e5b2d537d201c71e255969c.jpg",
     licence: "",
     org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
-    caption: "Näkymä kirkon tornista länteen. Taustalla näkyy ortodoksinen sotilaskirkko",
+    caption: "Näkymä kirkon tornista länteen. Taustalla näkyy ortodoksinen sotilaskirkko.",
     title: "~1900"
   },
+  {
+    key: "imageid20",
+    imgSrc: "https://digi.kirjastot.fi/files/fullsize/29a51663daf8a4e6ad534e4cbf8df50b.jpg",
+    licence: "",
+    org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma) - Rytkönen, Enok",
+    caption: "Söderlundin kangaskauppa ja räätälinliike toimi Kasarmikadun ja Hallituskadun kulmatontilla nro 60 olevassa puutalossa 1900-luvun alkuvuosiin asti.",
+    title: "~1904"
+  },
+  {
+    key: "imageid21",
+    imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.6DE87CD82F363E2CF83A77715B3CE6AC&index=0&size=large",
+    licence: "CC BY 4.0",
+    org: "Museovirasto - Historian kuvakokoelma - M. L. Carstensin kokoelma",
+    caption: "Näkymä kaupunkiin Lahdensivuntien tienoilta.",
+    title: "1909"
+  },
+  {
+    key: "imageid22",
+    imgSrc: "https://digi.kirjastot.fi/files/fullsize/0d62b6510c13344c061c6e3951c1a1d3.jpg",
+    licence: "",
+    org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma) - Rytkönen, Enok",
+    caption: "Keinusaaren rannassa, Pitkänsillan eteläpuolella oli 1800-luvun puolivälissä rakennettu hevosuittolaituri.",
+    title: "~1904"
+  },
+  {
+    key: "imageid23",
+    imgSrc: "https://digi.kirjastot.fi/files/fullsize/b34df7841629db2203d4086ec0da511a.jpg",
+    licence: "",
+    org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma) - Palander, E",
+    caption: "Linnanpuisto joutui säännöllisesti keväisin veden alle, ja vesi nousi usein myös Niittykadun ja Tampereentien varrella sijaitsevien asuinrakennusten ympärille.",
+    title: "~1906"
+  },
+  {
+    key: "imageid24",
+    imgSrc: "https://digi.kirjastot.fi/files/fullsize/9acce7a246829ae134099135e6bd7614.jpg",
+    licence: "",
+    org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+    caption: "Hämeenlinnan lääninsairaalan empiretyyliset rakennukset valmistuivat Keinusaaren rantaan vuosina 1840-1844.",
+    title: "~1906"
+  },
+  {
+    key: "imageid25",
+    imgSrc: "https://digi.kirjastot.fi/files/fullsize/ca8acddb1930563e2fb2cbb872363e27.jpg",
+    licence: "",
+    org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
+    caption: "Vanajaveden poikki vievä, graniittitukimuureilla lepäävä kaksijänteinen ristikkosilta valmistui vuonna 1909.",
+    title: "~1925"
+  },
+  {
+    key: "imageid26",
+    imgSrc: "https://digi.kirjastot.fi/files/fullsize/17fe156d41391392083ead8bfc28ece0.jpg",
+    licence: "",
+    org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma) - Rytkönen, Enok",
+    caption: "Kauppatorin ohella torikauppaa tehtiin myös Vanajaveden rannassa Rantatorilla.",
+    title: "~1910"
+  },
+  {
+    key: "imageid27",
+    imgSrc: "https://digi.kirjastot.fi/files/fullsize/07a391d5517feefb150681a8344e147c.jpg",
+    licence: "",
+    org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+    caption: "Hämeenlinnan ensimmäinen tavatalo (Skogster) avattiin silloisten Raastuvankadun ja Kirkkokadun kulmaan vuonna 1907.",
+    title: "~1907"
+  },
+  {
+    key: "imageid28",
+    imgSrc: "https://digi.kirjastot.fi/files/fullsize/6d9c6426c637cb6982d6d6a0aa9df682.jpg",
+    licence: "",
+    org: "Hämeenlinnan kaupunginkirjasto - Joensuun kaupunginkirjasto",
+    caption: "Hämeenlinnan ensimmäinen tavatalo (Skogster) avattiin silloisten Raastuvankadun ja Kirkkokadun kulmaan vuonna 1907.",
+    title: "~1907"
+  },
+  {
+    key: "imageid29",
+    imgSrc: "https://digi.kirjastot.fi/files/fullsize/f81e5f6cc35cab5a58a3871dcf0df64a.jpg",
+    licence: "",
+    org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+    caption: "Pikkutorin näkymää vuodesta 1900 alkaen hallitsi ortodoksinen varuskuntakirkko.",
+    title: "~1910"
+  },
+  {
+  key: "imageid30",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/0b1df811f41d26c3f12100d18e175f08.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+  caption: "Hämeenlinnan torin ylälaitaan valmistui arkkitehti Armas Lindgrenin suunnittelema Toripuisto vuonna 1911.",
+  title: "~1911"
+},
+{
+  key: "imageid31",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/fafd5a82c2be13fb3139389a2762fe5d.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma) - Rytkönen, Enok",
+  caption: "Hämeenlinnan raittiusseura rakennutti vuonna 1905 talon silloisen Raastuvankadun, nykyisen Raatihuoneenkadun alkupäähän. Talo purettiin vuonna 1982.",
+  title: "1907"
+},
+{
+  key: "imageid32",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/90739d1b5ad9ecf065c8026bc23249e3.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma) - Rytkönen, Enok",
+  caption: "Näkymä torin kulmalta pitkin Raastuvankatua eli nykyistä Raatihuoneenkatua länteen päin.",
+  title: "~1900"
+},
+{
+  key: "imageid33",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/ec481fff96625cb1a7ead46747f831f4.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
+  caption: "Postikortin kuva Varikonniemestä kohti kaupungin keskustaa. Lyseon ja rannan välissä sijaitsi olutpanimo",
+  title: "~1904"
+},
+{
+  key: "imageid34",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/d6bf918916d2223bc2745c0eb11512e8.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+  caption: "Kunnallissaunan talo valmistui Koulukadun ja Linnankadun kulmaukseen vuonna 1912.",
+  title: "~1915"
+},
+{
+  key: "imageid35",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/b40760fb35b2f8eb6d40cadd6f0b022e.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma) - Rytkönen, Enok",
+  caption: "Hämeenlinnan torin etelälaitaa Raastuvankadun varrella reunustivat 1900-luvun alussa Vainikaisen talo, Kämärin talo, Raatihuone ja Bogdanoffin talo.",
+  title: "~1900"
+},
   
 ];

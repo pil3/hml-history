@@ -55,6 +55,9 @@ const Header = () => {
                   <Dropdown.Toggle as={Nav.Link}>Kohteita</Dropdown.Toggle>
                   <Dropdown.Menu className={dropDownMenuStyle}>
                     <Dropdown.Item>
+                      <Link to="/ahvenisto" className="nav-link" activeClassName="active testaus">Ahvenisto</Link> 
+                    </Dropdown.Item>
+                    <Dropdown.Item>
                       <Link to="/aulanko" className="nav-link" activeClassName="active testaus">Aulanko</Link> 
                     </Dropdown.Item>
                   </Dropdown.Menu>

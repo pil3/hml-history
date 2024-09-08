@@ -26,6 +26,17 @@
   width: 55%;
   min-width: 300px;
 }
+.upArrowStyle {
+  display: block;
+  width: 70px;
+  height: 70px;
+  margin: auto;
+  padding: 1em 0;
+  opacity: 0.8;
+}
+.upArrowStyle:hover {
+  opacity: 1.0;
+}
 @media screen and (max-width: 576px) {
   .pageTitleStyle {
     font-size: 2em;
