@@ -12,6 +12,18 @@ import "../styles/base/global.css"
 const AhvenistoPage = () => {
   return (
     <Layout titleText="Kuvia Ahvenistolta">
+      <Row><div className="interTitleStyle">1900</div></Row>  
+      <Row className="marginYStyle">
+        <Col>
+          <ImageModal
+            imageStyle="centeredImageStyle maxHeightStyle"
+            imagePath="https://www.finna.fi/Cover/Show?source=Solr&id=lahdenmuseo.lkm-259093&index=0&size=large"
+            titleText="1905"
+            detailsText="Valokuvaaja Böökin tytöt Ahveniston rannalla kesällä 1905."
+            copyrightText="Lahden museot - Böök A. Th - CC BY 4.0"
+          />
+        </Col>
+      </Row>
       <Row><div className="interTitleStyle">1930</div></Row>  
       <Row className="marginYStyle">
         <Col>
@@ -23,7 +35,7 @@ const AhvenistoPage = () => {
                         funktionalistinen parantolarakennus oli huomattavan suuri omana aikanaan, sillä sairaalapaikkoja oli peräti 250. Rakennuksen torniosa parvekkeineen 
                         on kahdeksankerroksinen, siipiosat ovat kuusi- ja neljäkerroksiset. Hoitomuotoina tuohon aikaan oli lepo, ravitseva ruoka ja männyntuoksuisen ilman 
                         hengittäminen sairaalan isoilla parvekkeilla. Ahveniston parantolassa hoidettiin tuberkuloosipotilaita vielä 1960-luvun lopulla."
-            copyrightText="Hämeenlinnan kaupunginkirjasto - Julkaistu painettuna: Hämeenlinna : Suomalainen kirjakauppa Oy."
+            copyrightText="Hämeenlinnan kaupunginkirjasto - Julkaistu painettuna: Hämeenlinna : Suomalainen kirjakauppa Oy"
           />
         </Col>
         <Col>
@@ -38,7 +50,7 @@ const AhvenistoPage = () => {
                         parvekkeineen. Uuteen parantolaan saatiin tilat peräti 250 potilaalle. Lisäsiipeen rakennettiin kylpy- ja valohoitotilat ja yläkerrokseen lastenosasto 
                         leikki- ja koulutussaleineen. Pääsisäänkäynnin edustaa koristi suihkulähde. Sodan aikana parantolaa käytettiin sotasairaalana, minkä jälkeen 
                         tuberkuloosin hoito jatkui Ahvenistonharjulla aina 1960-luvun lopulle asti."
-            copyrightText="Hämeenlinnan kaupunginkirjasto - Julkaistu painettuna: Hämeenlinna : Suomalainen kirjakauppa Oy."
+            copyrightText="Hämeenlinnan kaupunginkirjasto - Julkaistu painettuna: Hämeenlinna : Suomalainen kirjakauppa Oy"
           />
         </Col>
       </Row>

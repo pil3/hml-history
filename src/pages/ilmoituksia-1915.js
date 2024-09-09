@@ -33,43 +33,43 @@ const Ilmoituksia27Page = () => {
   return (
     <Layout titleText="Ilmoituksia vuodelta 1915">
       <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img1} alt="Kuva 1" rounded /></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img2} alt="Kuva 2" rounded /></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img1} alt="Kuva 1"/></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img2} alt="Kuva 2"/></Col>
       </Row>
       <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img3} alt="Kuva 3" rounded /></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img4} alt="Kuva 4" rounded /></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img3} alt="Kuva 3"/></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img4} alt="Kuva 4"/></Col>
       </Row>
       <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img5} alt="Kuva 5" rounded /></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img6} alt="Kuva 6" rounded /></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img5} alt="Kuva 5"/></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img6} alt="Kuva 6"/></Col>
       </Row>
       <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img7} alt="Kuva 7" rounded /></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img8} alt="Kuva 8" rounded /></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img7} alt="Kuva 7"/></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img8} alt="Kuva 8"/></Col>
       </Row>
       <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img9} alt="Kuva 9" rounded /></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img10} alt="Kuva 10" rounded /></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img9} alt="Kuva 9"/></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img10} alt="Kuva 10"/></Col>
       </Row>
       <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img11} alt="Kuva 11" rounded /></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img12} alt="Kuva 12" rounded /></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img11} alt="Kuva 11"/></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img12} alt="Kuva 12"/></Col>
       </Row>
       <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img13} alt="Kuva 13" rounded /></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img14} alt="Kuva 14" rounded /></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img13} alt="Kuva 13"/></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img14} alt="Kuva 14"/></Col>
       </Row>
       <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img15} alt="Kuva 15" rounded /></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img16} alt="Kuva 16" rounded /></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img15} alt="Kuva 15"/></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img16} alt="Kuva 16"/></Col>
       </Row>
       <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img17} alt="Kuva 17" rounded /></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img18} alt="Kuva 18" rounded /></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img17} alt="Kuva 17"/></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img18} alt="Kuva 18"/></Col>
       </Row>
       <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img19} alt="Kuva 19" rounded /></Col>
+        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img19} alt="Kuva 19"/></Col>
       </Row>
     </Layout>
   )

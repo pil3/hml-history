@@ -3,10 +3,14 @@ import * as React from "react"
 import Layout from "../components/layout";
 import ImageSlider from "../components/imageSlider";
 
+import Image from 'react-bootstrap/Image';
+
 import QuoteStart from "../assets/quotation-start.svg"
 import QuoteEnd from "../assets/quotation-end.svg"
 
 import "../styles/base/global.css"
+
+import img1 from "../images/content/old-painting.jpg"
 
 const homePage = () => {
   return ( 
@@ -142,6 +146,11 @@ const homePage = () => {
       </p>
       <QuoteEnd className="symbolStyle"/>
       <p className="italicSmallStyle">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan Osoite ja Ilmoitus Kalenteri, 1887 </p>
+
+      <div className="verticalSpacer"></div>
+      <Image className="centeredImageStyle marginYStyle" src={img1} alt="Maalaus vanhasta Hämeenlinnasta"/>
+      <p className="italicSmallStyle">Cordier de Bonneville, Louis-Joseph-Anger, taiteilija - valmistusaika ajoittamaton</p>
+      <p className="italicSmallStyle">Kansallisgalleria / Sinebrychoffin taidemuseo- CC0 </p>
     </Layout>
   );
 }
@@ -157,6 +166,14 @@ export default homePage;
 /* image array for carousel
 -------------------------------------------------------------*/
 const carouselArray = [
+  {
+    key: "imageid0",
+    imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.6E1065AF9F74977AEC291F049F3FEB74&index=0&size=large",
+    licence: "Public Domain",
+    org: "Museovirasto - Historian kuvakokoelma - Nyblin, Daniel, kuvaaja",
+    caption: "Näkymä Kaupunginpuistosta kohti linnaa.",
+    title: "1893"
+  },
   {
     key: "imageid1",
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=tmk.160997135523400&index=0&size=large",
@@ -186,7 +203,7 @@ const carouselArray = [
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=lahdenmuseo.lkm-259858&index=0&size=large",
     licence: "CC BY 4.0",
     org: "Lahden museot - Böök A. Th",
-    caption: "Kaksi miestä ja puinen pitkäsilta.",
+    caption: "Kaksi herrasmiestä ja puinen pitkäsilta.",
     title: "~1900"
   },
   {
@@ -207,19 +224,19 @@ const carouselArray = [
   },
   {
     key: "imageid7",
-    imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=srm.166927878871200&index=0&size=large",
+    imgSrc: "https://digi.kirjastot.fi/files/fullsize/7a83b7a868164d7ebc9290d47de72599.jpg",
     licence: "CC BY-NC-SA 4.0",
-    org: "Suomen Rautatiemuseo - Suomen Rautatiemuseon kuvakokoelma",
-    caption: "Vanajaveden ensimmäinen rautatiesilta.",
-    title: "1902"
+    org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
+    caption: "Hämeenlinnan 1870-luvulla rakennettu käännettävä rautatiesilta on tässä postikortissa kuvattuna Vanajaveden länsirannan puolelta 1900-luvun alkuvuosina.",
+    title: "~1902"
   },
   {
     key: "imageid8",
-    imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=lahdenmuseo.lkm-259093&index=0&size=large",
-    licence: "CC BY 4.0",
-    org: "Lahden museot - Böök A. Th",
-    caption: "Valokuvaaja Böökin tytöt Ahveniston rannalla.",
-    title: "1905"
+    imgSrc: "https://digi.kirjastot.fi/files/fullsize/e54170ca820e28b93a790a6f3ef4973c.jpg",
+    licence: "",
+    org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+    caption: "Postikortti 1900-luvun alusta. Kuva on otettu Läntiseltä Linnakadulta eli nykyisen Sibeliuksenkadun ja Birger Jaarlin kadun kulmalta kohti toria.",
+    title: "~1900"
   },
   {
     key: "imageid9",
@@ -287,11 +304,11 @@ const carouselArray = [
   },
   {
     key: "imageid17",
-    imgSrc: "https://digi.kirjastot.fi/files/fullsize/bf156bd9512edb0e82d53b53455a7eb7.jpg",
+    imgSrc: "https://digi.kirjastot.fi/files/fullsize/ddca4366a740af2ef683c1893378a3f9.jpg",
     licence: "",
-    org: "Hämeenlinnan kaupunginkirjasto - Yksityiskokoelma",
-    caption: "Näkymä linnan länsipuolelta nykyisen Tampereentien tienoilta. Kuvan omistaja toimi vanginvartijana Hämeenlinnassa.",
-    title: "~1910"
+    org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
+    caption: "Vossikat odottavat kyyditettäviä torin alalaidassa. 1900-luvun alun postikortissa ei ole vielä Toripuistoa eikä paviljonkeja, jotka valmistuivat vuonna 1911.",
+    title: "~1900"
   },
   {
     key: "imageid18",
@@ -394,7 +411,7 @@ const carouselArray = [
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/0b1df811f41d26c3f12100d18e175f08.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
-  caption: "Hämeenlinnan torin ylälaitaan valmistui arkkitehti Armas Lindgrenin suunnittelema Toripuisto vuonna 1911.",
+  caption: "Kirkon puistoalue valmistui syksyllä 1911. Samassa yhteydessä aiemmin hiekkapäällysteinen tori sai pintaansa säteittäin ladotun kiveyksen.",
   title: "~1911"
 },
 {
@@ -437,5 +454,164 @@ const carouselArray = [
   caption: "Hämeenlinnan torin etelälaitaa Raastuvankadun varrella reunustivat 1900-luvun alussa Vainikaisen talo, Kämärin talo, Raatihuone ja Bogdanoffin talo.",
   title: "~1900"
 },
-  
+{
+  key: "imageid36",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/428a9237e776ad8cff5a6511eb0b1683.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
+  caption: "Eteläkatu. Vasemmalla Hämeenlinnan nahkatehdas OY:n rakennuksia ja oikeassa reunassa näkyvät ns. Eteläkadun villat.",
+  title: "~1922"
+},
+{
+  key: "imageid37",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/108e138edc098aa76f74e5dbf0a7c4f4.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+  caption: "Hämeenlinnan anniskeluyhtiö (kuvassa vasemmalla) toimi Rauhankadun ja Raastuvankadun kulmatontilla. Vastapäätä oli satulamaakari T. Heleniuksen satulasepän- ja verhoilijaliike.",
+  title: "~1900"
+},
+{
+  key: "imageid38",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/aebb73e9414825b25a0b997e5722303f.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
+  caption: "1900-luvun alun puutaloalue (ns. Alasen alue) vanhan hautausmaan ja Seminaarin koulun välissä on Kaurialan kaupunginosan vanhinta osaa.",
+  title: "1935"
+},
+{
+  key: "imageid39",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/a781d72ecb295b424c843ddfe3b90940.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+  caption: "1920-luvun postikortissa on näkymä Rantakadulta (nykyiseltä Arvi Kariston kadulta) kohti etelää. Vasemmalle puolelle jää laivaranta, oikealla on matkustajakoti Rannan talona tunnettu hirsitalo 1880-luvulta.",
+  title: "~1920"
+},
+{
+  key: "imageid40",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/ec39154e2e97eef41885e661556682fb.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
+  caption: "1930-luvun postikortissa on näkymä Raatihuoneenkadulta, nykyiseltä kävelykadun jatkeelta, kohti toria.",
+  title: "~1930"
+},
+{
+  key: "imageid41",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/32db1e70e2bf03717a6a66692cfe710d.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
+  caption: "Rantapuistoa kaunistettiin lisäistutuksilla vuoden 1904 jälkeen lehtori A. Th. Böökin toimesta. Postikortin kuva on ilmeisesti otettu hiukan ennen tätä. Taustalla näkyy kaupungin pyykkihuone tynnyrien varassa kelluvalla lautalla.",
+  title: "~1904"
+},
+{
+  key: "imageid42",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/07bd8bf2cbb30e14e565a1cf6b16e7cb.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
+  caption: "Vuonna 1909 puretun Vanajaveden vanhan sillan eli Pitkänsillan graniittiset päätypylväät tuotiin koristamaan Rantapuiston kävelytien molempia päitä.",
+  title: "~1930"
+},
+{
+  key: "imageid43",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/848c08ab810c797719ca0babc0e66f76.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+  caption: "Nykyinen Sibeliuksenkatu oli vanhalta nimeltään Läntinen Linnankatu. Postikortin kuvassa on näkymä Sibeliuksenkadun ja Birger Jaarlin kadun kulmauksesta etelään päin kohti toria.",
+  title: "1907"
+},
+{
+  key: "imageid44",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/ba7feb4aff1c305e0631e0e31bfbf61f.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
+  caption: "Kuivasilta ja sitä reunustavat jalkäytävät on jo kivetty mukulakivillä ja 1800-luvun puukaiteiden tilalle siltaa reunustamaan ovat tulleet kivipylväät.",
+  title: "~1909"
+},
+{
+  key: "imageid45",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/e9b6f7ed24170ed3e6360bc887e95f99.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
+  caption: "Saaristen koulu eli Vanha koulu on Hämeenlinnan vanhin varsinainen kansakoulurakennus. Rakennuspäätös tehtiin vuonna 1880 ja koululle varattiin kaupungin omistama tontti Saaristenkadun varrelta.",
+  title: "~1910"
+},
+{
+  key: "imageid46",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/9511b72da7709a10a71f33fead3112b6.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+  caption: "Vuonna 1878 perustettu Hämeenlinnan suomalainen tyttökoulu (myöhemmin Hämeenlinnan yhteiskoulu) päätyi muutaman kiertolaisvuoden jälkeen vuonna 1887 Pikkutorin kulmalle entiseen laamanni Wetterhoffin taloon.",
+  title: "~1920"
+},
+{
+  key: "imageid47",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/8871d05c79804c3f40e359e4f078f73f.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+  caption: "Turuntieltä Torikadun kohdalta kohti keskustaa. Vasemmalla puolella on tori jonka paikalla on nykyään Kaurialanpuisto",
+  title: "~1910"
+},
+{
+  key: "imageid48",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/851cf885922f70c782e2f2473aadb7e6.jpg",
+  licence: "CC BY 4.0",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
+  caption: "Suomalaisen kirjakaupan ensimmäinen liikehuoneisto sijaitsi puutalossa Kasarmikadun ja Raastuvankadun (Raatihuoneenkadun) kulmassa",
+  title: "~1910"
+},
+{
+  key: "imageid49",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/29919faa9ee95816f1feb3e43f220b64.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
+  caption: "Hämeen Suojana tunnettu rakennus nousi Palokunnankadun varrelle vuonna 1930 paikallisen suojeluskunnan ja Lotta Svärd -järjestön käyttöön.",
+  title: "~1930"
+},
+{
+  key: "imageid50",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/3d49593aa7d60c24b3739e6e0bad4460.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+  caption: "Hämeenlinnan ruotsalainen yhteiskoulu aloitti toimintansa 1.9.1901 Prykikadun (nyk. Palokunnankatu) varrella. Tällä paikalla on nykyisin Keskustalo",
+  title: "~1905"
+},
+{
+  key: "imageid51",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/992d27ee321ec35bd8aca21080ae9978.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
+  caption: "Kaupunginpuiston puistoravintola (ravintola Park) avattiin 1861 ja purettiin ränsistyneenä 60-luvulla. Puistoravintola sijaitsi puiston itärinteessä",
+  title: "~1901"
+},
+{
+  key: "imageid52",
+  imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.C5B1F0B4CC3B9E431D4A5AE9873D4D7E&index=0&size=large",
+  licence: "",
+  org: "Museovirasto - Valokuvaamo Pietisen kokoelma - CC BY 4.0",
+  caption: "Kaupunginpuiston puistoravintola (ravintola Park) avattiin 1861 ja purettiin ränsistyneenä 60-luvulla. Puistoravintola sijaitsi puiston itärinteessä",
+  title: "1931"
+},
+{
+  key: "imageid53",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/d7cda4d2f3160061b9fa0896a07faf6f.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+  caption: "Oikealla osa puista empiretaloa, johon Hämeenlinnan suomalainen tyttökoulu majoittui 1880-luvulla. Tähän rakennukseen kiinnittyy viereinen jugendtalo, joka rakennettiin vuonna 1906 silloisen yhteiskoulun lisätilaksi.",
+  title: "~1909"
+},
+{
+  key: "imageid54",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/fff6e6d9e1cf47e6718457aafbc26b56.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+  caption: "Vuonna 1912 torin alakulmaan valmistui rakennus, jonka länsipäähän tuli tilat yhdyspankille, keskelle kelloseppä N. Örlundin kelloliike Otavalle ja Lääninhallituksen puoleiseen päähän sijoittui Suomen pankin sivukonttori.",
+  title: "~1920"
+},
+{
+key: "imageid55",
+imgSrc: "https://digi.kirjastot.fi/files/fullsize/66d0fcac1eba7f5a5a5f660c6ce02a2c.jpg",
+licence: "",
+org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+caption: "Kirkontornista etelään kohti Kantolanniemeä avautuvaa näkymää hallitsi 1900-luvun alussa Wetterhoffin työkoulun rakennus.",
+title: "~1900"
+},
 ];

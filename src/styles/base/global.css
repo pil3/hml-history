@@ -71,6 +71,7 @@ h4 {
 .italicSmallStyle {
   font-family: "Inter Light Italic";
   font-size: 0.8em;
+  margin: 0;
 }
 .firstLetterStyle::first-letter {
   initial-letter: 2;
