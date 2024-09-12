@@ -28,7 +28,7 @@ const Kartta1778Page = () => {
         suunnitelma. Pehr Kiellmanin karttaote Ojoisten ja Saaristen virkatalojen maista on samalta vuodelta kuin Arbinin korjattu suunnitelma. Lopullisen kaavan kuningas hyväksyi 1778. 
         Kaupungin siirto suoritettiin nopeasti. Uusi asemakaava oli paalutettu maastoon jo ilmeisesti vuoden 1778 aikana. Vuodelta 1780 on olemassa myös maanmittari Kiellmanin 
         tonttijakokartta Hämeenlinnasta. Alkuperäisen kartan koko on 79 x 121,5 cm ja sitä säilytetään kuultokangaskopiona Hämeenlinnan kaupunginarkistossa.</p>
-      <p className="italicSmallStyle">Julkaisija: Hämeenlinnan kaupunginkirjasto</p>
+      <p className="captionStyle">Julkaisija: Hämeenlinnan kaupunginkirjasto</p>
     </Layout>
   );
 };

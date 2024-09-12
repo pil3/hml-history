@@ -1,12 +1,11 @@
 import * as React from "react"
 
 import Layout from "../components/layout"
-import ImageModal from "../components/imageModal";
+import ImageModal from "../components/imageModal"
 
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
+import Row from 'react-bootstrap/Row'
+import Col from 'react-bootstrap/Col'
 
-import "bootstrap/dist/css/bootstrap.min.css";
 import "../styles/base/global.css"
 
 const AhvenistoPage = () => {

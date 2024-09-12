@@ -1,8 +1,9 @@
 import * as React from "react"
-import Image from "react-bootstrap/Image";
+
 import Layout from "../components/layout"
 
-import "bootstrap/dist/css/bootstrap.min.css";
+import Image from "react-bootstrap/Image"
+
 import "../styles/base/global.css"
 
 import imgFrontPage from "../images/content/guide15/frontpage.jpg"
@@ -15,12 +16,12 @@ import img5 from "../images/content/guide15/img-5.jpg"
 const MatkailuopasPage = () => {
   return (
     <Layout titleText="Matkailuopas vuodelta 1915">
-      <div className="flexWrapper">
-        <Image className="centeredImageStyle" src={imgFrontPage} alt="Matkailuoppaan etusivu"/>
-      </div>
-      <p className="my-1 text-center italicSmallStyle">H:linnan Matkailijayhdistys</p>
-      <p className="my-1 text-center italicSmallStyle">Hämeenlinna 1915, Arvi A. Karisto</p>
-      <p className="my-1 text-center italicSmallStyle">Hämeenlinnan Kaupunginkirjasto</p>
+
+      <Image className="centeredImageStyle" src={imgFrontPage} alt="Matkailuoppaan etusivu"/>
+
+      <p className="captionStyle">H:linnan Matkailijayhdistys</p>
+      <p className="captionStyle">Hämeenlinna 1915, Arvi A. Karisto</p>
+      <p className="captionStyle">Hämeenlinnan Kaupunginkirjasto</p>
 
       <h2>Hämeenlinna</h2>
       <p className="firstLetterStyle">Hämeenlinnan kaupunki sijaitsee Vanajaveden rannalla, Helsingistä Tampereelle kulkevan rautatien varrella.</p>
@@ -36,9 +37,9 @@ const MatkailuopasPage = () => {
         rappeutuivat, oli hallitus pakotettu usein myöntämään kaupunkilaisille vapaavuosia ruununverojen maksamisesta ehdolla, että kaupunkilaiset vapaavuosien aikana korjauttivat tahi 
         rakensivat uudelleen jonkun kaupungin yleisistä rakennuksista. Sen ajan tavan mukaan ympäröi kaupunkia korkea tulliaita, jonka pohjoispäässä pappilan alapuolella oli tulliportti, 
         minkä kautta päästiin kaupunkiin, ja jossa jokaisesta kaupunkiin tuotavasta tavarasta maksettiin tulli.</p>
-        <div className="flexWrapper">
-        <Image className="centeredImageStyle" src={img1} alt="Juutalaiskortteli"/>
-        </div>
+
+      <Image className="centeredImageStyle" src={img1} alt="Juutalaiskortteli"/>
+
       <p>Isonvihan aikana v. 1713 ottivat venäläiset sotajoukot haltuunsa linnan ja kaupungin sekä polttivat pappilan ja suuren osan kaupunkia, jonka asujamet pelosta olivat muuutaneet 
         maaseudulle. Pidettyään kaupunkia ja linnaa hallussaan seitsemän vuotta, jättivät venäläiset sotajoukot ne takaisin Ruotsin hallitukselle v. 1720, jonka jälkeen maaseudulle paenneet 
         kaupunkilaiset palasivat kaupunkiin sekä alkoivat uudelleen rakentamaan poltettuja ja häviteltyjä talojaan. Tuskinpa oli kaupunki taasen saatu kuntoon, kun jo kesäkuun 8 päivänä 1739, 
@@ -108,9 +109,8 @@ const MatkailuopasPage = () => {
       <p>Vihollisten valta kaupungissa kesti syyskuun 15 päivään 1743, jolloin linna rauhanteon jälkeen taasen joutui takaisin Ruotsille. Kun sitten 1808 vuoden sodan aikana venäläiset sotajoukot saapuivat kaupunkiin, 
         jätettiin linna, josta sotaväki edellisinä päivinä oii lähtenyt pois vieden mukanaan suurimman osan linnassa olleista aseista, maaliskuun 8 päivänä 1808 venäläisille sotajoukoille.</p>
 
-      <div className="flexWrapper">
-        <Image className="centeredImageStyle" src={img2} alt="Kirkontornista pohjoiseen"/>
-      </div>
+      <Image className="centeredImageStyle" src={img2} alt="Kirkontornista pohjoiseen"/>
+
       <h2> Matkailijoille huomattavaa</h2>
       <p className="firstLetterStyle"><strong>Rautatien asema</strong> kaupungin itäsyrjällä Vanajaveden itäisellä puolella, on aistikkaasti rakennettu kolmikerroksinen kivirakennus tornineen, joka aikoinaan oli Suomen ensimmäisen Helsingistä 
         Hämeenlinnaan rakennetun rautatien päätekohtana. Eri rakennuksissa asemarakennuksen eteläpuolella ovat rautatien paketti- ja pikatavaratoimisto ynnä tavaratoimisto.</p>
@@ -130,9 +130,9 @@ const MatkailuopasPage = () => {
         maalaaman alttaritaulun. Avaimet kirkkoon säilytetään kirkonvartija A. Vikman'in luona talossa n:o 26 a Kymnaasikadun varrella ja maksetaan hänelle kirkonnäyttämisestä 1 markka.</p>
       <p>Kreikkalaiskatoolisen seurakunnan kirkko rantatorin luoteiskulmassa, on pieni puukirkko, jonka kauppias Aleksander Bogdanoff v. 1867 lahjoitti kaupungin kreikkalais-katooliselle seurakunnalle, ja 
         Venäläinen sotilaskirkko puistikossa Saarenkadun ja Pikkukadun välissä, joka rakennettiin v. 1899.</p>
-      <div className="flexWrapper">
-        <Image className="centeredImageStyle" src={img3} alt="Raatihuone"/>
-      </div>
+
+      <Image className="centeredImageStyle" src={img3} alt="Raatihuone"/>
+
       <p><strong>Lääninhallitus</strong> sijaitsee torin pohjoispuolella. Alkuaan oli Hämeenlääni yhdistetty yhdeksi lääniksi Uudenmaanläänin kanssa, jolloin lääninhallitus sijaitsi Helsingin kaupungissa, kunnes 
         se v. 1776 siirrettiin Hämeenlinnaan. Kun kaupunki muutettiin nykyiselle paikalleen, rakennettiin lääninhallitusta varten torin pohjoispuolelle kaksikerroksinen puurakennus, jonka keskeltä portti johti talon 
         pihamaalle ja jonka rakennuksen alakerta oli sisustettu lääninhallitusta varten sekä yläkerta maaherran asunnoksi. Kun tämä rakennus 1831 vuoden palossa joutui tulen uhriksi, rakennettiin lääninhallituksen 
@@ -179,9 +179,9 @@ const MatkailuopasPage = () => {
         11-1 päivällä. Tämä maamme nuorin museo avattiin marraskuun 20 päivänä 1912. Museossa löytyy noin 2000 esinettä, joista mainittakoon Maanviljelysneuvos N. M. Bremer vainajan lahjoittama 12,000 markkaan arvioitu 
         huonekalu-kokoelma sekä erittäin täydellinen kirkkoesine-kokoelma. Huoneita on 12; niistä on yksi sisustettu hämäläiseksi asuinhuoneeksi 1800 luvun alkupuolelta ja toinen kustaavilaiseksi huoneeksi. Myöskin 
         löytyy museossa erityinen 'Hämeenlinnan huone'.</p>
-      <div className="flexWrapper">
-        <Image className="centeredImageStyle" src={img4} alt="Puistoravintola"/>
-      </div>
+
+      <Image className="centeredImageStyle" src={img4} alt="Puistoravintola"/>
+
       <p><strong>Puistoja</strong> on kaupungissa: Kirkkopuisto lutherilaisen kirkon pohjois- ja eteläpuolella, Tori puisto suihkulähteineen, pergolarakennuksineen ja virvoitusjuomamyymälöineen torin i1äsyrjällä. 
         Tähtipuisto Läntisen ja Itäisen Linnankadun sekä Birger Jaarlinkadun välissä, Rantapuistot kaupungin koillis- ja itärannalla sekä Pinellan puisto sillan itäpuolella. Kilometrin matkan päässä kaupungista 
         pohjoiseen päin Vanajaveden rannalla sijaitsee kaupungin Puisto. Kun vapaaherra Otto Reinhold Rehbinder v. 1841 määrättiin Hämeenläänin kuvernööriksi, otti hän myöskin hallintoonsa kuvernöörin virkatuloihin 
@@ -260,9 +260,9 @@ const MatkailuopasPage = () => {
         sen ympäristöön. Tornin alla olevan vuoren juurella, minne johtaa kiviportaat, on kallioon hakattu luola, jossa on kuvanveistäjä Stigellin vuolukivestä muovailema karhuryhmä.</p>
       <p>Näkemistä ansaitsevat myöskin kartanon tilavat kasvihuoneet, jotka sijaitsevat rannalla ja joissa m. m. viljellään viinirypäleitä, persikoita, ananasta sekä muita etelämaalaisia hedelmiä.</p>
       <p>Karlberg on matkailijaliikkeessä epäilemättä maamme suosituimpia; lukuisat retkikunnatkin käyvät vuosittain sen nähtävyyksiä ihailemassa.</p>
-      <div className="flexWrapper">
-        <Image className="centeredImageStyle" src={img5} alt="Karlbergin kartano"/>
-      </div>
+
+      <Image className="centeredImageStyle" src={img5} alt="Karlbergin kartano"/>
+  
       <p>Karlbergia vastapäätä, laivareitin vasemmalla puolella kohoaa niemi, jonka tummasta kuusimetsästä pilkoittaa useita kaupunkilaisten huviloita.</p>
       <p>Kun on kuljettu kapeasta Kirstulan salmesta Hattulan selälle, näemme taas oikealla puolella edelleen Karlbergin alueita, sekä eversti Standertskjöldin niinikään omistamat Katajiston ja Metsänkylän kartanot; 
         edellinen on aikoinaan ollut Sallmen- ja Klingstedt-sukujen hallussa, jälkimmäistä on useat ajat omistanut Helsingius-suku. Laivareitin vasemmalla puolen sijaitsee vapaaherra G. Standerlskjöld·Nordenstamin 
@@ -339,6 +339,8 @@ const MatkailuopasPage = () => {
         puolella olevaa Ruskeen kärkeä kohden.</p>
       <p>Päästyämme Oitin kärjen ohi sivuutamme tohtori A. V. Blomqvistin omistaman Helkavuoren tilan kauniine huvilan muotoon rakennettuine asuinrakennuksineen Ritvalan harjun länsi rinteellä ja saavumme saman harjun 
         pohjoisessa päässä sijaitsevaan Hakalan taloon, jota aikaisemmin on omistanut ruununvouti Georg Nordenswan.</p>
+      <hr/>
+      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/9bec0ea75c19b7e3eab7874300fb11e0.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
     </Layout>
   )
 }

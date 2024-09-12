@@ -1,5 +1,5 @@
 import * as React from "react"
-// import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 import Modal from "react-bootstrap/Modal";
 import Image from "react-bootstrap/Image";
 import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";

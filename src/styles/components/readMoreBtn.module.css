@@ -1,0 +1,14 @@
+.buttonStyle {
+  border: none;
+  background-color: transparent;
+  display: block;
+  margin: auto;
+  padding: 6px;
+}
+.buttonTextStyle {
+  font-weight: bold;
+  text-decoration: none;
+}
+.buttonTextStyle:hover {
+  text-decoration: underline;
+}
