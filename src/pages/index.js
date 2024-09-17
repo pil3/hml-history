@@ -153,7 +153,7 @@ const HomePage = () => {
       <p className="captionStyle">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan Osoite ja Ilmoitus Kalenteri, 1887 </p>
 
       <div className="verticalSpacer"></div>
-      <Image className="centeredImageStyle marginYStyle" src={img1} alt="Maalaus vanhasta Hämeenlinnasta"/>
+      <Image className="centeredImageStyle" src={img1} alt="Maalaus vanhasta Hämeenlinnasta"/>
       <p className="captionStyle">Cordier de Bonneville, Louis-Joseph-Anger, taiteilija - valmistusaika ajoittamaton</p>
       <p className="captionStyle">Kansallisgalleria / Sinebrychoffin taidemuseo- CC0 </p>
     </Layout>
@@ -627,4 +627,12 @@ title: "~1900"
   caption: "Hämeenlinnan torin markkinat eli virallisemmin toripäivät olivat 1900-luvun alkupuolella kaupungin kokoon nähden suuria tapahtumia.",
   title: "19.9.1934"
   },
+  {
+    key: "imageid57",
+    imgSrc: "https://digi.kirjastot.fi/files/fullsize/565f854d359ed07e9b525ec781db1843.jpg",
+    licence: "",
+    org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
+    caption: "Kansallisosakepankin liikerakennus valmistui vuonna 1915. Pankkitalon tieltä purettiin Nybergin perillisten talona tunnettu puutalo. Tontin pohjoispäähän jäi kavennettuna kaksikerroksinen kivitalo, joka purettiin vasta 1980-luvun alussa. Tässä talossa toimi 1920-luvulla mm. elokuvateatteri Panu.",
+    title: "~1920"
+    },
 ];

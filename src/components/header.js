@@ -31,22 +31,16 @@ const Header = () => {
                 </Nav.Item>
 
                 <Dropdown as={Nav.Item} >
-                  <Dropdown.Toggle as={Nav.Link}>Asioita</Dropdown.Toggle>
+                  <Dropdown.Toggle as={Nav.Link}>Tekstejä</Dropdown.Toggle>
                   <Dropdown.Menu className={dropDownMenuStyle}>
+                    <Dropdown.Item>
+                      <Link to="/olosuhteet-1808" className="nav-link" activeClassName="active">Olosuhteet sotavuosina 1808-1809</Link> 
+                    </Dropdown.Item>
                     <Dropdown.Item>
                       <Link to="/asuminen" className="nav-link" activeClassName="active">Asunto-olosuhteet</Link> 
                     </Dropdown.Item>
                     <Dropdown.Item>
                       <Link to="/kuritushuone" className="nav-link" activeClassName="active">Kuritushuoneen järjestyssäännöt</Link> 
-                    </Dropdown.Item>
-                    <Dropdown.Item>
-                      <Link to="/aikajana" className="nav-link" activeClassName="active">Aikajana</Link> 
-                    </Dropdown.Item>
-                    <Dropdown.Item>
-                      <Link to="/kartta1778" className="nav-link" activeClassName="active">Kartta 1778</Link> 
-                    </Dropdown.Item>
-                    <Dropdown.Item>
-                      <Link to="/kartta1892" className="nav-link" activeClassName="active">Kartta 1892</Link> 
                     </Dropdown.Item>
                     <Dropdown.Item>
                       <Link to="/matkailuopas-1915" className="nav-link" activeClassName="active">Matkailuopas 1915</Link> 
@@ -58,7 +52,7 @@ const Header = () => {
                 </Dropdown>
 
                 <Dropdown as={Nav.Item}>
-                  <Dropdown.Toggle as={Nav.Link}>Kohteita</Dropdown.Toggle>
+                  <Dropdown.Toggle as={Nav.Link}>Kuvia</Dropdown.Toggle>
                   <Dropdown.Menu className={dropDownMenuStyle}>
                     <Dropdown.Item>
                       <Link to="/ahvenisto" className="nav-link" activeClassName="active testaus">Ahvenisto</Link> 
@@ -76,6 +70,9 @@ const Header = () => {
                       <Link to="/osoitteita-1887" className="nav-link" activeClassName="active">Osoitteita - 1887</Link> 
                     </Dropdown.Item>
                     <Dropdown.Item>
+                      <Link to="/osoitteita-1923" className="nav-link" activeClassName="active">Osoitteita - 1923</Link> 
+                    </Dropdown.Item>
+                    <Dropdown.Item>
                       <Link to="/sanomalehti" className="nav-link" activeClassName="active">Satunnaisia sanomalehtiä</Link> 
                     </Dropdown.Item>
                     <Dropdown.Item>
@@ -88,9 +85,17 @@ const Header = () => {
                 </Dropdown>
 
                 <Dropdown as={Nav.Item} >
-                  <Dropdown.Toggle as={Nav.Link}>Tarinoita</Dropdown.Toggle>
+                  <Dropdown.Toggle as={Nav.Link}>Asioita</Dropdown.Toggle>
                   <Dropdown.Menu className={dropDownMenuStyle}>
-
+                    <Dropdown.Item>
+                      <Link to="/aikajana" className="nav-link" activeClassName="active">Aikajana</Link> 
+                    </Dropdown.Item>
+                    <Dropdown.Item>
+                      <Link to="/kartta1778" className="nav-link" activeClassName="active">Kartta 1778</Link> 
+                    </Dropdown.Item>
+                    <Dropdown.Item>
+                      <Link to="/kartta1892" className="nav-link" activeClassName="active">Kartta 1892</Link> 
+                    </Dropdown.Item>
                   </Dropdown.Menu>
                 </Dropdown>
 

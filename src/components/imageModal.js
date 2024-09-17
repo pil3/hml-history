@@ -1,7 +1,9 @@
 import * as React from "react"
+
 import "bootstrap/dist/css/bootstrap.min.css";
 import Modal from "react-bootstrap/Modal";
 import Image from "react-bootstrap/Image";
+
 import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
 import {ccStyle, 
         captionContainerStyle,
@@ -10,8 +12,14 @@ import {ccStyle,
         modalBodyStyle,
         buttonContainerStyle,
         buttonStyle,
+        iconStyle,
         fsImgStyle
       } from "../styles/components/imageModal.module.css"
+
+import ZoomIn from "../assets/zoom-in.svg"
+import ZoomOut from "../assets/zoom-out.svg"
+import ZoomRst from "../assets/zoom-rst.svg"
+
 const ImageModal = ({imageStyle, imagePath, titleText, detailsText, copyrightText}) => {
   const [show, setShow] = React.useState(false);
   const handleClose = () => setShow(false);
@@ -25,7 +33,7 @@ const ImageModal = ({imageStyle, imagePath, titleText, detailsText, copyrightTex
       alt = {titleText}
       rounded
     />
-      <Modal show={show} fullscreen={false} onHide={handleClose} size="xl" centered>
+      <Modal show={show} fullscreen={true} onHide={handleClose} size="xl" centered>
         <Modal.Header closeButton={true} closeVariant="white" className={modalHeaderStyle}>
           <Modal.Title className={modalTitleStyle}>{titleText}</Modal.Title>
         </Modal.Header>
@@ -35,9 +43,9 @@ const ImageModal = ({imageStyle, imagePath, titleText, detailsText, copyrightTex
             {({ zoomIn, zoomOut, resetTransform, ...rest }) => (
               <React.Fragment>
                 <div className={buttonContainerStyle}>
-                  <button className={buttonStyle} onClick={() => zoomIn()}>+</button>
-                  <button className={buttonStyle} onClick={() => zoomOut()}>-</button>
-                  <button className={buttonStyle} onClick={() => resetTransform()}>{"\u256c"}</button>
+                  <button className={buttonStyle} onClick={() => zoomIn()} aria-label="Lähennä"><ZoomIn className={iconStyle}/></button>
+                  <button className={buttonStyle} onClick={() => zoomOut()} aria-label="Loitonna"><ZoomOut className={iconStyle}/></button>
+                  <button className={buttonStyle} onClick={() => resetTransform()} aria-label="Palauta"><ZoomRst className={iconStyle}/></button>
                 </div>
                 <TransformComponent wrapperStyle={{width: "100%", margin: "10px 0"}}>
                     <Image className={fsImgStyle} src={imagePath} alt="Kuva"/>

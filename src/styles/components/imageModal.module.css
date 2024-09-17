@@ -27,13 +27,12 @@
   transform: translateX(-50%);
 }
 .buttonStyle {
-  width: 50px;
-  height: 50px;
-  margin: 0 5px 0 0;
-  background-color: var(--color-bg-dark);
-  color: var(--text-light);
-  font-size: 26px;
-  border-radius: 6px;
+  background-color: transparent;
+  border: none;
+}
+.iconStyle {
+  width: 30px;
+  height: 30px;
 }
 .captionContainerStyle {
   padding: 0 16px;
