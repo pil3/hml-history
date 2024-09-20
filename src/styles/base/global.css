@@ -59,10 +59,10 @@ h3 {
 h4 {
   font-size: 1.2em;
   text-align: center;
-  margin: 1em 0 0 0;
+  margin: 1em 0 0.5em 0;
 }
 
-/* Common styles
+/* Text styles
 ----------------------------------------------------------------------------------------------------- */
 .firstLetterStyle::first-letter {
   initial-letter: 2;
@@ -81,24 +81,23 @@ h4 {
   margin: 0;
   text-align: center;
 }
-.centeredImageStyle {
-  display: block;
-  max-width: 100%;
-  margin: 16px auto;
-  box-shadow: 2px 2px 4px black;
-  border-radius: 8px;
+.boldStyle {
+  font-weight: bold;
 }
-.symbolStyle {
-  display: block;
-  width: 70px;
-  height: 70px;
-  margin: auto;
-  padding: 1em 0;
+.quotationStyle {
+  font-family: "Inter Italic";
 }
 .hyperLinkStyle {
   font-family: "Inter Light Italic";
   font-size: 0.8em;
 }
+.infoStyle {
+  font-family: "Inter Light Italic";
+  font-size: 0.8em;
+}
+
+/* Other styles
+----------------------------------------------------------------------------------------------------- */
 .maxHeightStyle {
   max-height: 300px;
 }
@@ -107,6 +106,20 @@ h4 {
 }
 .verticalSpacer {
   height: 2em;
+}
+.symbolStyle {
+  display: block;
+  width: 70px;
+  height: 70px;
+  margin: auto;
+  padding: 1em 0;
+}
+.centeredImageStyle {
+  display: block;
+  max-width: 100%;
+  margin: 16px auto;
+  box-shadow: 2px 2px 4px black;
+  border-radius: 8px;
 }
 
 

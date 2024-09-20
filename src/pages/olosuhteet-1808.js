@@ -1,6 +1,8 @@
 import * as React from "react"
-import Image from "react-bootstrap/Image"
+
 import Layout from "../components/layout"
+
+import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
 
@@ -25,7 +27,7 @@ const Conditions1809Page = () => {
         muille virkamiehille ruokaa tarjona, raastuvankokoukseen, jossa tästä asiasta keskusteltiin. Ainoastaan neljä henkilöä, »trahtöörinpitäjät» Ekholm ja Sjöström sekä lääninkivalteri Byman ja porvari 
         Villberg olivat saapuneet, ja he sanoivat olevansa halukkaita tarjoamaan ruokaa, mutta ainoastaan pienemmälle lukumäärälle; kaksi heistä lupasi antaa 12:lle, yksi 16:lle ja yksi vaan 6:lle hengelle; 
         hinta oli oleva 32 killinkiä päivällisateriasta, johon kuului 4 ruokalajia sekä yksi viinaryyppy; illallisesta piti maksettaman 22 killinkiä, jolla saatiin kolme ruokalajia, mutta ilman ryyppyä.</p>
-      <p>Ravintoloitsijan leski Sandbergin sekä trahtöörinpitäjä Ahlgrenin, jotka eivät olleet kokoukseen saapuneet, tuli maistraatin määräyksestä niinikään pitää ruokaa tarjona, edellisen 2o:lle upseerille tai 
+      <p>Ravintoloitsijan leski Sandbergin sekä trahtöörinpitäjä Ahlgrenin, jotka eivät olleet kokoukseen saapuneet, tuli maistraatin määräyksestä niinikään pitää ruokaa tarjona, edellisen 20:lle upseerille tai 
         heidän vertaiselleen, mutta jälkimmäisen ainoastaan 8:lle alaupseerille. Kunkin ravintolanpitäjän käskettiin merkiksi ripustaa kuusenoksista tehty köynnös talonsa ulkopuolelle. — Hämeenlinnassa olevissa 
         kruununmakasiineissa oli melkoinen määrä viljaa, jota annettiin myöskin sekä kaupunkilaisille että lähipitäjien talonpojille sotaväkeä varten leivottavaksi; niinpä Maaliskuun 3 p:nä pidetyssä 
         raastuvankokouksessa tarjottiin 2,000 leiviskää ruisjauhoja, joista ainoastaan 798 näkyy jaetun porvareille. Kahdeksan päivän kuluessa olivat leivät kovaksi kuivattuina jätettävät sotakomisarius 
@@ -71,7 +73,7 @@ const Conditions1809Page = () => {
         k:lo 11 illalla; kokouksissa, joissa oli enemmän väkeä, oli oleva joku henkilö järjestystä pitämässä, mutta huveja ei kielletä pitämästä. Jos joku tahtoi lähteä kaupungista pois, oli hänen pyydettävä lupakirja 
         komendantilta. Niinikään vaatii hän, että kaupungin pastori kävi lauantaisin hänen luonaan, nähtävästi kirkossa luettavien julistusten vuoksi. Hän käskee myöskin maaherran ja maistraatin toimittamaan hänelle 
         kielenkääntäjän, sekä lähettämään hänen luokseen yhden miehen, joka vaihdettaisiin joka päivä, luultavasti saadakseen käyttää häntä käskyjen välittämisessä, joita tavan takaa annettiin kaupungin viranomaisille. 
-        Miiller näkyy pitäneen velvollisuutenaan tutustua kaupungin laitoksiin, sillä hän kävi ensi aikoja täällä ollessaan tarkastamassa maaherran virastoa, maistraattia, koulua ja sairashuonetta.</p>
+        Muller näkyy pitäneen velvollisuutenaan tutustua kaupungin laitoksiin, sillä hän kävi ensi aikoja täällä ollessaan tarkastamassa maaherran virastoa, maistraattia, koulua ja sairashuonetta.</p>
       <p>Parin kuukauden ajan näkyvät olot olleen jotenkin rauhallisia eikä venäläisen sotaväen väkivaltaiset teotkaan olleet varsin lukuisia ja suurenarvoisia. Sotakuria ja hyvää järjestystä koetettiin ylläpitää ja 
         kaikkia mielivallasta johtuvia seikkoja piti virkamiesten kautta heti ilmoittaa ylipäällikölle, ja kärsityistä vahingoista suoritettiin korvaus. Pienet sotamiesparvet tai yksityiset joukoista jääneet sotamiehet 
         ja kasakat löivät syrjäisissä seuduissa ikkunoita rikki, ottivat asukasten omaisuutta, kävivätpä joskus väkivaltaakin tekemään. Niinpä kertoo Hämeenläänin maaherra Maalisk. 30 p:nä 1808 lähettämässään kirjeessä, 
@@ -137,7 +139,7 @@ const Conditions1809Page = () => {
       <p>Majoitettavien sotilashenkilöiden lukumäärä ei kuitenkaan näytä kaikin ajoin olleen ylen suuri; ainakin maaherra Munck mainitsee kirjeessään Kesäkuun 30 p. 1808, jossa hän luettelee yllä mainittuja epäkohtia, 
         ettei tungosta ole olemassa ja monta sopivaa huonetta on joutenkin. Mutta porvarit puolestaan valittavat siinä kirjoituksessa, jonka he laativat ohjeeksi Pietariin kutsutun lähetyskunnan jäsenille, majoitusta 
         ankaraksi, ja sanovat, että he sen kautta olivat joutuneet ruokavarojen, ja etenkin puiden ja valon puutteeseen. Luetteloja emme ole tavanneet ennenkuin v:lta 1810 (Huhtik. 2 p.). Sen mukaan oli venäläisiä 
-        sotilashenkilöitä o,2:ssa talossa majoitettuna; huoneitten lukumäärä on niissä yhteensä 411, joista 169 on määrätty majoitukseen. Suurimmat talot oli kultaseppä Petter Törnqvistillä, jonka 9:stä huoneesta 4 
+        sotilashenkilöitä 92:ssa talossa majoitettuna; huoneitten lukumäärä on niissä yhteensä 411, joista 169 on määrätty majoitukseen. Suurimmat talot oli kultaseppä Petter Törnqvistillä, jonka 9:stä huoneesta 4 
         oli määrätty majoitusta varten, rouva Vaseniuksen 16:sta 6, värjäri Ahlbergin 13:sta 5, kultaseppä Edmanin 9:stä 3, apteekkari Bjuggin 12:sta 5, kaupustelija Uschakoffin 9:stä 4 j.n.e.; ne joilla oli 5 tai 4 
         huonetta, luovuttivat 2, 3:n ja 2:n huoneen omistajat 1. Rouva Sandbergin rakennukseen oli venäläinen kirkko varustettu ja pappi asui nahkuri Leanderin luona.</p>
 
@@ -159,11 +161,11 @@ const Conditions1809Page = () => {
         ilmaantui. Saatiin tietää, missä tuo varas oli, jonka johdosta muutamia upseeria meni Vestinin luo tiedustelemaan asiata. Hän ilmoitti kyllä jonkun Pietarista tulleen vieraan olleenkin luonaan, mutta hänen jo 
         matkustaneen pois. Huoneita tarkastettaessa löydettiin kuitenkin tuo varas-palvelija Savastjanoff Vestinin etuhuoneen sängyn alta, ja suutarin pöytälaatikossa tavattiin joitakuita vaskirahoja, jotka Vestinin 
         äiti sanoi tämän sinne panneen. Savastjanoff itse sanoi Vestinille ilmoittaneensa, että hän isännältään oli ottanut nuo tavarat ja Vestin vielä muka vastannut: hyvä, hyvä. Vestin itse puolestaan väittää olleensa 
-        tietämätön varkaudesta ia sotamiehen sanoneen saaneensa rahoja Pietarissa olevalta veljeltään. Kun asiata toisen kerran Tammik. 9 p. 1809 käsiteltiin, pääsi Vestin vapaaksi tehtyään puhdistus valan, mutta 
+        tietämätön varkaudesta ja sotamiehen sanoneen saaneensa rahoja Pietarissa olevalta veljeltään. Kun asiata toisen kerran Tammik. 9 p. 1809 käsiteltiin, pääsi Vestin vapaaksi tehtyään puhdistus valan, mutta 
         Venäläiset joutuivat sotaoikeuden tutkittaviksi, sillä siten hovioikeus, jolta asian johdosta tiedusteltiin, määräsi.</p>
       <p>Arkaluontoisempaa laatua oli se asia, joka värjäri Matts Ahlbergilla oli vaimonsa Janette Ahlbergin kanssa. Vaimo haastatti näet miehensä oikeuteen sen johdosta, että tämä oli levitellyt hänestä sekä kaupungissa 
-        että maaseuduillakin sellaisia puheita, että hän olisi muka ollut hivattomissa suhteissa venäläisen majurin Svabotskoin kanssa, joka oli heidän luona majoitettuna. Ja vaikka hän kerran ennen, sanotaan 
-        haastekirjassa, oli ollut pakotettuna samoista puheista pyytämään maistraatin edessä anteeksi mainitulta majurilta ja tämä antanutkin, oh hän kuitenkin yhäti vaan jatkanut näitä hänen ja majurin kunnialle käypiä 
+        että maaseuduillakin sellaisia puheita, että hän olisi muka ollut luvattomissa suhteissa venäläisen majurin Svabotskoin kanssa, joka oli heidän luona majoitettuna. Ja vaikka hän kerran ennen, sanotaan 
+        haastekirjassa, oli ollut pakotettuna samoista puheista pyytämään maistraatin edessä anteeksi mainitulta majurilta ja tämä antanutkin, oli hän kuitenkin yhäti vaan jatkanut näitä hänen ja majurin kunnialle käypiä 
         juttuja; olipa hän kohdellutkin häntä, vaimoaan, niin pahasti, että hänen oli täytynyt lähteä neljän pienen lapsensa kanssa pois kotoa. Tästä kaikesta hän vaati edesvastuuta miehelleen. Mutta mies lupaa antaa 
         vastahaasteen sen johdosta, että vaimo oli lähtenyt 4—5 viikkoa takaperin kotoa pois ja vienyt mennessään melkoisen osan hänen irtaimesta omaisuudestaan. Raastuvanoikeus antoi sellaisen päätöksen, että Ahlbergin, 
         joka ei itse ollut saapuvilla, tuli lausua, oliko hän syyttänyt vaimoansa mainitusta rikollisesta suhteesta, jonka jälkeen oikeus päättäisi, oliko majuri Svabotskoita kuulusteltava. Asia lienee kuitenkin jäänyt 
@@ -181,7 +183,7 @@ const Conditions1809Page = () => {
         se kaksinkertainen. Järjestystä valvomaan asetettiin, ainakin maaseutujen kestikievareihin, venäläinen alaupseeri tai sotamies.</p>
       <p>Mutta epäjärjestykset ja niistä johtuvat valitukset ovat lukemattomia; milloin käytetään samoja hevosia liian pitkälle matkalle, milloin taas jätetään kyytimaksu suorittamatta, joka oli hyvin tavallista, tai 
         suoritetaan ainoastaan osa siitä, milloin taas vaaditaan muilta kuin kestikievareiltakin kyytihevosia.</p>
-      <p>Niinpä valittaa Hämeenlinnan kestikievarinpitäjä Brandt, että muuan kenraali Borosdin oli Kesäkuun 2 p. lähtenyt Hämeenlinnasta 6:11a hevosella, mutta hän ajoikin Kouvolan kestikievarin ohitse Kuittilaan asti 
+      <p>Niinpä valittaa Hämeenlinnan kestikievarinpitäjä Brandt, että muuan kenraali Borosdin oli Kesäkuun 2 p. lähtenyt Hämeenlinnasta 6:lla hevosella, mutta hän ajoikin Kouvolan kestikievarin ohitse Kuittilaan asti 
         suorittamatta viimeiseltä väliltä maksoa, jota hän nyt maaherran kautta vaati. Samoin eräs kreivitär Orlov Denisoff oli ajaessaan Eteläisten kestikievariin maksanut vaan 16 killinkiä virstalta kultakin 5:ltä 
         käyttämältään hevoselta. Huolimattomuutta matkustajien puolelta sanotaan epäkohtiin syyksi; heillä ei ollut aina pieniä rahoja, eikä talonpoika taas saattanut vaihtaa; mutta usein jätettiin kyytiraha tallallakin 
         suorittamatta; ylhäisten henkilöiden palvelijat pistivät osan rahasta omiin taskuihinsa, ja nuot järjestystä valvomaan määrätyt alaupseeritkin ottivat itselleen osan talonpojalle tulevasta kyytirahasta eivätkä he 
@@ -217,7 +219,7 @@ const Conditions1809Page = () => {
 
       <h2>VI</h2>
       <p className="firstLetterStyle">Niinkuin jo mainitsimme, koettivat Venäläiset ylläpitää ankaraa sotakuria siten tehdäkseen sotatilan Suomen asukkaille niin lieveäksi kuin mahdollista. Mutta Suomalaisten suosiota uutta 
-        esivaltaa kohtaan tahdottiin suoranaisemmallakin tavalla saavuttaa, nimittäin antamalla heille etuja ja helpoituksia entisistä oloista. Niinpä Buxhövden julisti heti sodan alussa pikkutullin ja aksiisiii poistetuksi, 
+        esivaltaa kohtaan tahdottiin suoranaisemmallakin tavalla saavuttaa, nimittäin antamalla heille etuja ja helpoituksia entisistä oloista. Niinpä Buxhövden julisti heti sodan alussa pikkutullin ja aksiisin poistetuksi, 
         jonka kautta tuo talonpoikain vihaama verotus kaupunkien porteilla lakkasi; Ruotsin valtiovelan maksuksi otettu suostuntavero lakkautettiin niinikään, vieläpä vapautettiin asukkaat suorittamasta verorästejäänkin. 
         Sitä paitsi hankki Venäjän hallitus kansaa varten maallamme viljaa ja suolaa, joista kummastakin oli puute. Saman auliuden todistuksena voinemme pitää sitäkin lahjaa, minkä Hämeenlinnan seurakunta sai kirkkonsa 
         rakennuksen täydentämiseksi.</p>

@@ -34,19 +34,22 @@ const Header = () => {
                   <Dropdown.Toggle as={Nav.Link}>Tekstejä</Dropdown.Toggle>
                   <Dropdown.Menu className={dropDownMenuStyle}>
                     <Dropdown.Item>
+                      <Link to="/kouluista-1879" className="nav-link" activeClassName="active">Vanhoista kouluista</Link> 
+                    </Dropdown.Item>
+                    <Dropdown.Item>
                       <Link to="/olosuhteet-1808" className="nav-link" activeClassName="active">Olosuhteet sotavuosina 1808-1809</Link> 
                     </Dropdown.Item>
                     <Dropdown.Item>
-                      <Link to="/asuminen" className="nav-link" activeClassName="active">Asunto-olosuhteet</Link> 
+                      <Link to="/asuminen" className="nav-link" activeClassName="active">Asunto-olosuhteet vuonna 1908</Link> 
                     </Dropdown.Item>
                     <Dropdown.Item>
-                      <Link to="/kuritushuone" className="nav-link" activeClassName="active">Kuritushuoneen järjestyssäännöt</Link> 
+                      <Link to="/kuritushuone" className="nav-link" activeClassName="active">Kuritushuoneen järjestyssäännöt - 1877</Link> 
                     </Dropdown.Item>
                     <Dropdown.Item>
-                      <Link to="/matkailuopas-1915" className="nav-link" activeClassName="active">Matkailuopas 1915</Link> 
+                      <Link to="/matkailuopas-1915" className="nav-link" activeClassName="active">Matkailuopas - 1915</Link> 
                     </Dropdown.Item>
                     <Dropdown.Item>
-                      <Link to="/matkailuopas-1927" className="nav-link" activeClassName="active">Matkailuopas 1927</Link> 
+                      <Link to="/matkailuopas-1927" className="nav-link" activeClassName="active">Matkailuopas - 1927</Link> 
                     </Dropdown.Item>
                   </Dropdown.Menu>
                 </Dropdown>
@@ -71,6 +74,9 @@ const Header = () => {
                     </Dropdown.Item>
                     <Dropdown.Item>
                       <Link to="/osoitteita-1923" className="nav-link" activeClassName="active">Osoitteita - 1923</Link> 
+                    </Dropdown.Item>
+                    <Dropdown.Item>
+                      <Link to="/puhelinluettelo-1926" className="nav-link" activeClassName="active">Puhelinluettelo - 1926</Link> 
                     </Dropdown.Item>
                     <Dropdown.Item>
                       <Link to="/sanomalehti" className="nav-link" activeClassName="active">Satunnaisia sanomalehtiä</Link> 

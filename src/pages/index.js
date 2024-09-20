@@ -612,12 +612,12 @@ const carouselArray = [
   title: "~1920"
 },
 {
-key: "imageid55",
-imgSrc: "https://digi.kirjastot.fi/files/fullsize/66d0fcac1eba7f5a5a5f660c6ce02a2c.jpg",
-licence: "",
-org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
-caption: "Kirkontornista etelään kohti Kantolanniemeä avautuvaa näkymää hallitsi 1900-luvun alussa Wetterhoffin työkoulun rakennus.",
-title: "~1900"
+  key: "imageid55",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/66d0fcac1eba7f5a5a5f660c6ce02a2c.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+  caption: "Kirkontornista etelään kohti Kantolanniemeä avautuvaa näkymää hallitsi 1900-luvun alussa Wetterhoffin työkoulun rakennus.",
+  title: "~1900"
 },
 {
   key: "imageid56",
@@ -626,13 +626,61 @@ title: "~1900"
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
   caption: "Hämeenlinnan torin markkinat eli virallisemmin toripäivät olivat 1900-luvun alkupuolella kaupungin kokoon nähden suuria tapahtumia.",
   title: "19.9.1934"
-  },
-  {
-    key: "imageid57",
-    imgSrc: "https://digi.kirjastot.fi/files/fullsize/565f854d359ed07e9b525ec781db1843.jpg",
-    licence: "",
-    org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
-    caption: "Kansallisosakepankin liikerakennus valmistui vuonna 1915. Pankkitalon tieltä purettiin Nybergin perillisten talona tunnettu puutalo. Tontin pohjoispäähän jäi kavennettuna kaksikerroksinen kivitalo, joka purettiin vasta 1980-luvun alussa. Tässä talossa toimi 1920-luvulla mm. elokuvateatteri Panu.",
-    title: "~1920"
-    },
+},
+{
+  key: "imageid57",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/565f854d359ed07e9b525ec781db1843.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
+  caption: "Kansallisosakepankin liikerakennus valmistui vuonna 1915. Pankkitalon tieltä purettiin Nybergin perillisten talona tunnettu puutalo. Tontin pohjoispäähän jäi kavennettuna kaksikerroksinen kivitalo, joka purettiin vasta 1980-luvun alussa. Tässä talossa toimi 1920-luvulla mm. elokuvateatteri Panu.",
+  title: "~1920"
+},
+{
+  key: "imageid58",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/dba89cf3966663b8c59643bdb0c57d1c.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan kaupunginmuseo",
+  caption: "Panoraamakuva torilta laulujuhlien aikaan kesä-heinäkuun vaihteessa vuonna 1911.",
+  title: "1911"
+},
+{
+  key: "imageid59",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/29226bd41a7f70d2905984163beafb7b.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan kaupunginmuseo",
+  caption: "Lyseo sai vihdoin oman koulutalon, kun uusrenessanssityylinen 'lyceekartano' valmistui kesäkuussa 1888 Itäisen Linnankadun varrelle, Tähtipuiston kohdalle.",
+  title: "~1890"
+},
+{
+  key: "imageid60",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/d1bca46e7988727c9481ca4bf480258a.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+  caption: "Keskustan etelärannalla sijaitsi kaupungin uimalaitos, joka oli otettu käyttöön vuonna 1911. Uimalaitos purettiin vuonna 1955 ja kaupunkilaiset siirtyivät uimaan Ahvenistolle.",
+  title: "~1937"
+},
+{
+  key: "imageid61",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/424f295ded1cff4316caf3746bf6bdc6.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
+  caption: "Kalle Vainikainen ryhtyi Hämeenlinnassa leipomo- ja kahvilayrittäjäksi vuonna 1900. Vainikaisen kahvila ja konditoria sekä muut tontin rakennukset purettiin vuonna 1963 Keskustalon tieltä.",
+  title: "~1930-1950"
+},
+{
+  key: "imageid62",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/517a6e0b2787ddd622f628ed83c5837b.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
+  caption: "Hämeenlinnan vanha puinen Pitkäsilta korvattiin kuvassa näkyvällä uudella rautarakenteisella kaarisillalla vuonna 1909.",
+  title: "~1920"
+},
+{
+  key: "imageid63",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/31fa34c9938eb2c4ede41db235590fb2.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
+  caption: "Hämeenlinnan keskustasta länteen päin johtavan Läntisen Viertotien nimeksi tuli vuonna 1924 Turuntie.",
+  title: "~1920"
+},
 ];
