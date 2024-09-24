@@ -162,7 +162,7 @@ const HomePage = () => {
 export const Head = () => (
   <>
     <html lang="fi" />
-    <title>Kotisivu</title>
+    <title>Entinen Hämeenlinna</title>
   </>
 )
 export default HomePage;

@@ -1,7 +1,8 @@
 @import "../base/global.css";
 
 .navBarStyle {
-  margin: 0 0 10px 0;
+  margin: 0 0 10px -7px;
+  width: calc(100% + 14px);
   padding: 0;
   font-size: 1.5em;
   border-bottom: 8px solid var(--color-bg-dark);

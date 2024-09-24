@@ -1,10 +1,16 @@
 @import "../base/global.css";
 
+.sliderStyle {
+  padding: 8px 0 0 0;
+  box-shadow: 0px 0px 6px black;
+  border-radius: 6px;
+  background-color: var(--color-bg-light);
+}
 .buttonContainer {
   display: flex;
   justify-content: space-between;
   height: 50px;
-  margin: 0 24px;
+  margin: 0 12px -32px 12px;
 }
 .buttonStyle {
   height: 100%;
@@ -25,12 +31,12 @@
 .sliderImgStyle {
   display: block;
   margin: auto;
-  max-width: calc(100% - 10px);
+  padding: 0 1px;
+  max-width: 100%;
   max-height: 500px;
-  border: 2px solid black;
 }
 .sliderCaptionStyle {
-  max-width: 800px;
+  max-width: 760px;
   margin: auto;
   padding: 6px 6px 0 6px;
   text-align: left;

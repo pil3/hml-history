@@ -11,10 +11,13 @@ import {buttonContainer,
         buttonStyle,
         arrowStyle, 
         sliderImgStyle, 
-        sliderCaptionStyle
+        sliderCaptionStyle,
+        sliderStyle
       } from "../styles/components/imageSlider.module.css"
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+
+import "../styles/base/global.css"
 
 const ImageSlider = ({imgArray, showDots, auto}) => {
 
@@ -39,17 +42,7 @@ const ImageSlider = ({imgArray, showDots, auto}) => {
   };
 
   return (
-    <div>
-      <Slider ref={slider => {sliderRef = slider}}{...settings}>
-        {
-          imgArray.map(_img => 
-            <div>
-            <ImageModal imageStyle={sliderImgStyle} imagePath={_img.imgSrc} key={_img.key} titleText={_img.title} detailsText={_img.caption} copyrightText={_img.org} ></ImageModal>
-            <div className={sliderCaptionStyle}>{_img.caption}</div>
-            </div>
-          )
-        }
-      </Slider>
+    <div className={sliderStyle}>
       <div className={buttonContainer}>
         <button type="button" aria-label="Edellinen" className={buttonStyle} onClick={previous}>
           <ArrowLeft className={arrowStyle}/>
@@ -58,6 +51,17 @@ const ImageSlider = ({imgArray, showDots, auto}) => {
         <ArrowRight className={arrowStyle}/>
         </button>
       </div>
+      <Slider ref={slider => {sliderRef = slider}}{...settings}>
+        {
+          imgArray.map(_img => 
+            <div>
+              <div className="imageCaptionStyle">{_img.title}</div>
+              <ImageModal imageStyle={sliderImgStyle} imagePath={_img.imgSrc} key={_img.key} titleText={_img.title} detailsText={_img.caption} copyrightText={_img.org} ></ImageModal>
+              <div className={sliderCaptionStyle}>{_img.caption}</div>
+            </div>
+          )
+        }
+      </Slider>
     </div>
   );
 }

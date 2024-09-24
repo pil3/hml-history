@@ -12,16 +12,16 @@ const newsPaperPage = () => {
   return ( 
     <Layout titleText="Satunnaisia sanomalehtiä">
       <Stack>
-      <p className="imageCaptionStyle">Hämeen Sanomat 8.1 1879</p>
-      <ImageSlider imgArray={hameenSanomat1879Array} showDots={true}></ImageSlider>
-      <p className="imageCaptionStyle">Hämeen Sanomat 17.5 1889</p>
-      <ImageSlider imgArray={hameenSanomat1889Array} showDots={true}></ImageSlider>
-      <p className="imageCaptionStyle">Hämeen Sanomat 30.12 1899</p>
-      <ImageSlider imgArray={hameenSanomat1899Array} showDots={true}></ImageSlider>
-      <p className="imageCaptionStyle">Hämeen Sanomat 1.5 1909</p>
-      <ImageSlider imgArray={hameenSanomat1909Array} showDots={true}></ImageSlider>
-      <p className="imageCaptionStyle">Hämetär 18.9 1909</p>
-      <ImageSlider imgArray={hametar1909Array} showDots={true}></ImageSlider>
+        <ImageSlider imgArray={hameenSanomat1879Array} showDots={true}></ImageSlider>
+        <div className="marginYStyle"></div>
+        <ImageSlider imgArray={hameenSanomat1889Array} showDots={true}></ImageSlider>
+        <div className="marginYStyle"></div>
+        <ImageSlider imgArray={hameenSanomat1899Array} showDots={true}></ImageSlider>
+        <div className="marginYStyle"></div>
+        <ImageSlider imgArray={hameenSanomat1909Array} showDots={true}></ImageSlider>
+        <div className="marginYStyle"></div>
+        <ImageSlider imgArray={hametar1909Array} showDots={true}></ImageSlider>
+        <div className="marginYStyle"></div>
       </Stack>
     </Layout>
   );

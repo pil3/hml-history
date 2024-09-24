@@ -9,7 +9,8 @@
   background-size: cover;
 }
 .containerStyle {
-  padding: 2px 25px 0 15px;
+  /* padding: 2px 25px 0 15px; */
+  padding: 0 7px;
 }
 .pageTitleStyle {
   font-size: 3em;
@@ -18,6 +19,8 @@
   margin: 40px 0;
 }
 .topStyle {
+  width: calc(100% + 14px);
+  margin: 0 0 0 -7px;
   background-color: var(--color-bg-dark);
 }
 .titleSvgStyle {

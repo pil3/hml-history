@@ -1,22 +1,25 @@
 @import "../base/global.css";
 
 .modalHeaderStyle{
-  background-color: var(--color-bg-dark);
+  background-color: var(--color-dark);
   border: none;
+  color: var(--text-light);
+  font-size: 24px;
+  border-bottom: 1px solid var(--color-light);
+  height: 36px;
 }
 .modalTitleStyle{
-  font-size: 1.4em;
+  font-size: 24px;
   margin-inline-start: auto;
-  color: var(--text-light);
+  
 }
 .modalBodyStyle {
-  padding: 20px 10px 0 5px;
-  background-color: var(--color-bg);
+  padding: 6px 0;
+  background-color: var(--color-dark);
+  color: var(--text-light);
 }
 .fsImgStyle {
-  display: block;
   max-width: 100%;
-  margin: auto;
 }
 .buttonContainerStyle {
   /*  inline-block to make the div size of contents */
@@ -35,8 +38,11 @@
   height: 30px;
 }
 .captionContainerStyle {
+  position: absolute;
+  bottom: 0px;
   padding: 0 16px;
   margin: auto;
+  background-color: rgba(20,25,30,0.4);
 }
 .ccStyle {
  font-size: 0.8em; 
@@ -44,6 +50,6 @@
 }
 @media screen and (max-width: 576px) {
   .captionContainerStyle {
-    padding: 0;
+    padding: 8px;
   }
 }
