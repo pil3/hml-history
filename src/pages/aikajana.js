@@ -163,7 +163,7 @@ const AikajanaPage = () => {
 };
 export const Head = () => (
   <>
-    <title>Aikajana</title>
+    <title>Entinen Hämeenlinna - Aikajana</title>
   </>
 )
 export default AikajanaPage

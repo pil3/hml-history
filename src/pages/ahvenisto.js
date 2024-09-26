@@ -90,6 +90,6 @@ const AhvenistoPage = () => {
     </Layout>
   )
 }
-export const Head = () => <title>Ahvenisto</title> // metadata
+export const Head = () => <title>Entinen Hämeenlinna - Kuvia Ahvenistolta</title> // metadata
 
 export default AhvenistoPage

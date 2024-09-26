@@ -386,6 +386,6 @@ const HousingConditionsPage = () => {
     </Layout>
   )
 }
-export const Head = () => <title>Vankien järjestyssäännöt, 1877</title> // metadata
+export const Head = () => <title>Entinen Hämeenlinna - Asuminen</title> // metadata
 
 export default HousingConditionsPage

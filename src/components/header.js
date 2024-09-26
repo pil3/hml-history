@@ -19,7 +19,7 @@ import vaakuna from "../images/hml-vaakuna-old.png"
 const Header = () => {
   return (
      //<div className={ headerStyle }>
-        <Navbar expand="lg" data-bs-theme="light" className={navBarStyle}>
+        <Navbar expand="md" data-bs-theme="light" className={navBarStyle}>
           <Container fluid="xl">
             <Navbar.Brand href="/" id="headerLogo" title="Logo"><Image placeholder={"blurred"} className={logoStyle} alt="Vaakuna" src={vaakuna} /></Navbar.Brand>
             <Navbar.Toggle aria-controls="hamburger" />
@@ -76,16 +76,16 @@ const Header = () => {
                       <Link to="/osoitteita-1923" className="nav-link" activeClassName="active">Osoitteita - 1923</Link> 
                     </Dropdown.Item>
                     <Dropdown.Item>
+                      <Link to="/osoitteita-1931" className="nav-link" activeClassName="active">Osoitteita - 1931</Link> 
+                    </Dropdown.Item>
+                    <Dropdown.Item>
                       <Link to="/puhelinluettelo-1926" className="nav-link" activeClassName="active">Puhelinluettelo - 1926</Link> 
                     </Dropdown.Item>
                     <Dropdown.Item>
                       <Link to="/sanomalehti" className="nav-link" activeClassName="active">Satunnaisia sanomalehtiä</Link> 
                     </Dropdown.Item>
                     <Dropdown.Item>
-                      <Link to="/ilmoituksia-1915" className="nav-link" activeClassName="active">Matkaoppaan ilmoituksia - 1915</Link> 
-                    </Dropdown.Item>
-                    <Dropdown.Item>
-                      <Link to="/ilmoituksia-1927" className="nav-link" activeClassName="active">Matkaoppaan Ilmoituksia - 1927</Link> 
+                      <Link to="/mainoksia" className="nav-link" activeClassName="active">Mainoksia</Link> 
                     </Dropdown.Item>
                   </Dropdown.Menu>
                 </Dropdown>

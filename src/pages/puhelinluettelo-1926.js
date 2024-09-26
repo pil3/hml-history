@@ -1,13 +1,11 @@
 import * as React from "react"
 
-import Layout from "../components/layout";
+import Layout from "../components/layout"
+import ImageSlider from "../components/imageSlider"
 
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
-import Image from 'react-bootstrap/Image';
+import Image from 'react-bootstrap/Image'
 
 import "../styles/base/global.css"
-
 
 import imgFrontPage from "../images/content/phonebook1926/frontpage.jpg"
 import imgPricing from "../images/content/phonebook1926/countryside-prices.jpg"
@@ -169,110 +167,62 @@ const Puhelin1926Page = () => {
       <p>Kaupunkienvälinen yhtiö on oikeutettu harkinnan mukaisesti vaatimaan takuumaksun muodossa etumaksua.</p>
 
       <p className="captionStyle">Etelä-Suomen Kaukopuhelin Osakeyhtiö.</p>
- 
-
-
-
-
-
-
-
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img1} alt="Kuva 1"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img2} alt="Kuva 2"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img3} alt="Kuva 3"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img4} alt="Kuva 4"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img5} alt="Kuva 5"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img6} alt="Kuva 6"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img7} alt="Kuva 7"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img8} alt="Kuva 8"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img9} alt="Kuva 9"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img10} alt="Kuva 10"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img11} alt="Kuva 11"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img12} alt="Kuva 12"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img13} alt="Kuva 13"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img14} alt="Kuva 14"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img15} alt="Kuva 15"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img16} alt="Kuva 16"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img17} alt="Kuva 17"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img18} alt="Kuva 18"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img19} alt="Kuva 19"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img20} alt="Kuva 20"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img21} alt="Kuva 21"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img22} alt="Kuva 22"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img23} alt="Kuva 23"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img24} alt="Kuva 24"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img25} alt="Kuva 25"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img26} alt="Kuva 26"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img27} alt="Kuva 27"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img28} alt="Kuva 28"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img29} alt="Kuva 29"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img30} alt="Kuva 30"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img31} alt="Kuva 31"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img32} alt="Kuva 32"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img33} alt="Kuva 33"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img34} alt="Kuva 34"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img35} alt="Kuva 35"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img36} alt="Kuva 36"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img37} alt="Kuva 37"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img38} alt="Kuva 38"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img39} alt="Kuva 39"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img40} alt="Kuva 40"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img41} alt="Kuva 41"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img42} alt="Kuva 42"/></Col>
-      </Row>
-
-      <Row>
+      <hr></hr>
+      <ImageSlider imgArray={imageArray} showDots={false} wide={false}></ImageSlider>
+      <br></br>
       <p className="captionStyle">Hämeenlinnan kaupunginkirjasto 1926, Hämeenlinnan puhelinosakeyhtiö </p>
-      </Row>
-
       <hr/>
       <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/a055024005299ac22e01e536c059dc7a.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
       <br/>
     </Layout>
   )
 }
-export const Head = () => <title>Osoitteita vuodelta 1887</title> // metadata
+export const Head = () => <title>Entinen Hämeenlinna - Puhelinluettelo 1926</title> // metadata
 
 // Export product component
 export default Puhelin1926Page
+
+const imageArray = [
+  {key: "imageid1", imgSrc: img1, title: "A", caption: "1/42", org: ""},
+  {key: "imageid2", imgSrc: img2, title: "A", caption: "2/42", org: ""},
+  {key: "imageid3", imgSrc: img3, title: "A, B", caption: "3/42", org: ""},
+  {key: "imageid4", imgSrc: img4, title: "B, C", caption: "4/42", org: ""},
+  {key: "imageid5", imgSrc: img5, title: "D, E", caption: "5/42", org: ""},
+  {key: "imageid6", imgSrc: img6, title: "E, F", caption: "6/42", org: ""},
+  {key: "imageid7", imgSrc: img7, title: "F, G", caption: "7/42", org: ""},
+  {key: "imageid8", imgSrc: img8, title: "H", caption: "8/42", org: ""},
+  {key: "imageid9", imgSrc: img9, title: "H", caption: "9/42", org: ""},
+  {key: "imageid10", imgSrc: img10, title: "H", caption: "10/42", org: ""},
+  {key: "imageid11", imgSrc: img11, title: "H", caption: "11/42", org: ""},
+  {key: "imageid12", imgSrc: img12, title: "H", caption: "12/42", org: ""},
+  {key: "imageid13", imgSrc: img13, title: "H, I", caption: "13/42", org: ""},
+  {key: "imageid14", imgSrc: img14, title: "I, J", caption: "14/42", org: ""},
+  {key: "imageid15", imgSrc: img15, title: "J, K", caption: "15/42", org: ""},
+  {key: "imageid16", imgSrc: img16, title: "K", caption: "16/42", org: ""},
+  {key: "imageid17", imgSrc: img17, title: "K", caption: "17/42", org: ""},
+  {key: "imageid18", imgSrc: img18, title: "K", caption: "18/42", org: ""},
+  {key: "imageid19", imgSrc: img19, title: "K", caption: "19/42", org: ""},
+  {key: "imageid20", imgSrc: img20, title: "K", caption: "20/42", org: ""},
+  {key: "imageid21", imgSrc: img21, title: "L", caption: "21/42", org: ""},
+  {key: "imageid22", imgSrc: img22, title: "L", caption: "22/42", org: ""},
+  {key: "imageid23", imgSrc: img23, title: "L", caption: "23/42", org: ""},
+  {key: "imageid24", imgSrc: img24, title: "M", caption: "24/42", org: ""},
+  {key: "imageid25", imgSrc: img25, title: "M", caption: "25/42", org: ""},
+  {key: "imageid26", imgSrc: img26, title: "M, N", caption: "26/42", org: ""},
+  {key: "imageid27", imgSrc: img27, title: "N, O", caption: "27/42", org: ""},
+  {key: "imageid28", imgSrc: img28, title: "P", caption: "28/42", org: ""},
+  {key: "imageid29", imgSrc: img29, title: "P", caption: "29/42", org: ""},
+  {key: "imageid30", imgSrc: img30, title: "P, R", caption: "30/42", org: ""},
+  {key: "imageid31", imgSrc: img31, title: "R", caption: "31/42", org: ""},
+  {key: "imageid32", imgSrc: img32, title: "R", caption: "32/42", org: ""},
+  {key: "imageid33", imgSrc: img33, title: "S", caption: "33/42", org: ""},
+  {key: "imageid34", imgSrc: img34, title: "S", caption: "34/42", org: ""},
+  {key: "imageid35", imgSrc: img35, title: "S", caption: "35/42", org: ""},
+  {key: "imageid36", imgSrc: img36, title: "S", caption: "36/42", org: ""},
+  {key: "imageid37", imgSrc: img37, title: "T", caption: "37/42", org: ""},
+  {key: "imageid38", imgSrc: img38, title: "T, U", caption: "38/42", org: ""},
+  {key: "imageid39", imgSrc: img39, title: "U, V", caption: "39/42", org: ""},
+  {key: "imageid40", imgSrc: img40, title: "V", caption: "40/42", org: ""},
+  {key: "imageid41", imgSrc: img41, title: "V, Y, Ö", caption: "41/42", org: ""},
+  {key: "imageid42", imgSrc: img42, title: "Ö, Å", caption: "42/42", org: ""}
+];

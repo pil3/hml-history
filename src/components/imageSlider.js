@@ -7,7 +7,8 @@ import ImageModal from "./imageModal"
 import ArrowLeft from "../assets/icon-left.svg";
 import ArrowRight from "../assets/icon-right.svg";
 
-import {buttonContainer,
+import {titleStyle,
+        buttonContainer,
         buttonStyle,
         arrowStyle, 
         sliderImgStyle, 
@@ -19,7 +20,7 @@ import "slick-carousel/slick/slick-theme.css";
 
 import "../styles/base/global.css"
 
-const ImageSlider = ({imgArray, showDots, auto}) => {
+const ImageSlider = ({imgArray, showDots, auto, wide}) => {
 
   let sliderRef = React.useRef(null);
   const next = () => {
@@ -41,8 +42,10 @@ const ImageSlider = ({imgArray, showDots, auto}) => {
     autoplaySpeed: 8000
   };
 
+  const wideSlider = wide===true
+
   return (
-    <div className={sliderStyle}>
+    <div className={sliderStyle} style={{maxWidth: wideSlider ? "992px" : "576px" }}>
       <div className={buttonContainer}>
         <button type="button" aria-label="Edellinen" className={buttonStyle} onClick={previous}>
           <ArrowLeft className={arrowStyle}/>
@@ -55,7 +58,7 @@ const ImageSlider = ({imgArray, showDots, auto}) => {
         {
           imgArray.map(_img => 
             <div>
-              <div className="imageCaptionStyle">{_img.title}</div>
+              <div className={titleStyle}>{_img.title}</div>
               <ImageModal imageStyle={sliderImgStyle} imagePath={_img.imgSrc} key={_img.key} titleText={_img.title} detailsText={_img.caption} copyrightText={_img.org} ></ImageModal>
               <div className={sliderCaptionStyle}>{_img.caption}</div>
             </div>

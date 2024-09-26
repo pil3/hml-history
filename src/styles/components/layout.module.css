@@ -13,20 +13,23 @@
   padding: 0 7px;
 }
 .pageTitleStyle {
-  font-size: 3em;
+  font-size: 48px;
   color: var(--text-dark);
   font-family: "Inter Extra Light";
   margin: 40px 0;
 }
 .topStyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: calc(100% + 14px);
   margin: 0 0 0 -7px;
   background-color: var(--color-bg-dark);
+  padding: 16px 0;
 }
 .titleSvgStyle {
-  display: block;
-  margin: auto;
   width: 55%;
+  height: auto;
   min-width: 300px;
 }
 .linkStyle {
@@ -44,10 +47,22 @@
 .upArrowStyle:hover {
   opacity: 1.0;
 }
+@media screen and (max-width: 992px) {
+  .pageTitleStyle {
+    font-size: 40px;
+    margin: 35px 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .pageTitleStyle {
+    font-size: 36px;
+    margin: 30px 0;
+  }
+}
 @media screen and (max-width: 576px) {
   .pageTitleStyle {
-    font-size: 2em;
-    margin: 30px 0;
+    font-size: 28px;
+    margin: 25px 0;
   }
 }
 

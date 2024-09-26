@@ -177,6 +177,16 @@ const AulankoPage = () => {
             copyrightText="Keravan museopalvelut - Elna Granqvistin kokoelma - CC BY-NC-ND 4.0"
           />
         </Col>
+        <Col>
+          <ImageModal
+            imageStyle="centeredImageStyle  maxHeightStyle"
+            imagePath="https://digi.kirjastot.fi/files/fullsize/38cc26699f48d7320bf54ffe4c32f744.jpg"
+            titleText="~1920"
+            detailsText="Suunnilleen Karlbergin kartanon päärakennuksen kohdalla Vanajaveden rannassa sijaitsi pieni uimahuone, jonne päästiin kaitein koristeltua siltaa pitkin. Uimahuone oli rakennettu jo 1800-luvun 
+            lopulla eversti Standertskjöldin aikana silloisen barokkikartanon edustapuiston rantaan."
+            copyrightText="Suomalainen kirjakauppa, Hämeenlinna - Hämeenlinnan kaupunginkirjasto"
+          />
+        </Col>
       </Row>
       <div className="verticalSpacer"></div>
       <Row className="marginYStyle">
@@ -309,6 +319,6 @@ const AulankoPage = () => {
     </Layout>
   )
 }
-export const Head = () => <title>Aulanko</title> // metadata
+export const Head = () => <title>Entinen Hämeenlinna - Kuvia Aulangolta</title> // metadata
 
 export default AulankoPage

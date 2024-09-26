@@ -662,6 +662,6 @@ const MatkailuopasPage = () => {
     </Layout>
   )
 }
-export const Head = () => <title>A Th. Böök, Matkailuopas, 1927</title> // metadata
+export const Head = () => <title>Entinen Hämeenlinna - Matkailuopas 1927</title> // metadata
 
 export default MatkailuopasPage

@@ -1,19 +1,29 @@
 @import "../base/global.css";
 
 .sliderStyle {
+  display: block;
+  margin: auto;
   padding: 8px 0 0 0;
   box-shadow: 0px 0px 6px black;
   border-radius: 6px;
   background-color: var(--color-bg-light);
+  max-width: 992px;
+}
+.titleStyle {
+  font-size: 28px;
+  color: var(--text-dark);
+  font-family: "Inter Light Italic";
+  text-align: center;
 }
 .buttonContainer {
   display: flex;
   justify-content: space-between;
-  height: 50px;
-  margin: 0 12px -32px 12px;
+  height: 40px;
+  margin: 0 4px -28px 4px;
 }
 .buttonStyle {
   height: 100%;
+  width: auto;
   padding: 0;
   bottom: 0;
   background-color: transparent;
@@ -38,7 +48,12 @@
 .sliderCaptionStyle {
   max-width: 760px;
   margin: auto;
-  padding: 6px 6px 0 6px;
+  padding: 6px;
   text-align: left;
+}
+@media screen and (max-width: 768px) {
+  .titleStyle {
+    font-size: 22px;
+  }
 }
 

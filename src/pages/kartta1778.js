@@ -32,7 +32,7 @@ const Kartta1778Page = () => {
     </Layout>
   );
 };
-export const Head = () => <title>Ojoisten ja Saaristen latokartanoiden kartta 1778</title> // metadata
+export const Head = () => <title>Entinen Hämeenlinna - Kartta 1778</title> // metadata
 
 // Export product component
 export default Kartta1778Page

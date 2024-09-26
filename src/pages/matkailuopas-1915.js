@@ -344,6 +344,6 @@ const MatkailuopasPage = () => {
     </Layout>
   )
 }
-export const Head = () => <title>Matkailuopas, 1915</title> // metadata
+export const Head = () => <title>Entinen Hämeenlinna - Matkailuopas 1915</title> // metadata
 
 export default MatkailuopasPage

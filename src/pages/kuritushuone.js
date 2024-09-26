@@ -172,6 +172,6 @@ const JailRulesPage = () => {
     </Layout>
   )
 }
-export const Head = () => <title>Vankien järjestyssäännöt, 1877</title> // metadata
+export const Head = () => <title>Entinen Hämeenlinna - Vankien järjestyssäännöt</title> // metadata
 
 export default JailRulesPage

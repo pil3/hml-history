@@ -287,6 +287,6 @@ const Conditions1809Page = () => {
     </Layout>
   )
 }
-export const Head = () => <title>Hämeenlinnan olosuhteet sotavuosina 1808 - 1809</title> // metadata
+export const Head = () => <title>Entinen Hämeenlinna - Olosuhteet vuosina 1808 - 1809</title> // metadata
 
 export default Conditions1809Page

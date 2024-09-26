@@ -1,13 +1,13 @@
 import * as React from "react"
 
-import Layout from "../components/layout";
+import Layout from "../components/layout"
+import ImageSlider from "../components/imageSlider"
 
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
-import Image from 'react-bootstrap/Image';
+import Image from 'react-bootstrap/Image'
 
 import "../styles/base/global.css"
 
+import frontPage from "../images/content/address1887/front.jpg"
 import img1 from "../images/content/address1887/addr-1.jpg"
 import img2 from "../images/content/address1887/addr-2.jpg"
 import img3 from "../images/content/address1887/addr-3.jpg"
@@ -33,53 +33,41 @@ import img20 from "../images/content/address1887/addr-20.jpg"
 const Osoitteita1887Page = () => {
   return (
     <Layout titleText="Osoitteita vuodelta 1887">
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img1} alt="Kuva 1"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img2} alt="Kuva 2"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img3} alt="Kuva 3"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img4} alt="Kuva 4"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img5} alt="Kuva 5"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img6} alt="Kuva 6"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img7} alt="Kuva 7"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img8} alt="Kuva 8"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img9} alt="Kuva 9"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img10} alt="Kuva 10"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img11} alt="Kuva 11"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img12} alt="Kuva 12"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img13} alt="Kuva 13"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img14} alt="Kuva 14"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img15} alt="Kuva 15"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img16} alt="Kuva 16"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img17} alt="Kuva 17"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img18} alt="Kuva 18"/></Col>
-      </Row>
-      <Row>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img19} alt="Kuva 19"/></Col>
-        <Col sm={12} md={6} className="marginYStyle"><Image className="centeredImageStyle" src={img20} alt="Kuva 20"/></Col>
-      </Row>
-      <Row>
-      <p className="captionStyle">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan Osoite ja Ilmoitus Kalenteri, 1887 </p>
-      </Row>
+      <Image className="centeredImageStyle" src={frontPage} alt="Etusivu"/>
+      <br></br>
+      <ImageSlider imgArray={imageArray} showDots={false}></ImageSlider>
+      <br></br>
+      <p className="captionStyle">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan Osoite Ja Ilmoitus Kalenteri, 1887 </p>
+      <hr/>
+      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/be90385db46c505089d930315803cadb.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
+      <br/>
     </Layout>
   )
 }
-export const Head = () => <title>Osoitteita vuodelta 1887</title> // metadata
+export const Head = () => <title>Entinen Hämeenlinna - Osoitteita 1887</title> // metadata
 
 // Export product component
 export default Osoitteita1887Page
+
+const imageArray = [
+  {key: "imageid1", imgSrc: img1, title: "A", caption: "1/20", org: ""},
+  {key: "imageid2", imgSrc: img2, title: "A, B", caption: "2/20", org: ""},
+  {key: "imageid3", imgSrc: img3, title: "B, C, D", caption: "3/20", org: ""},
+  {key: "imageid4", imgSrc: img4, title: "D, E", caption: "4/20", org: ""},
+  {key: "imageid5", imgSrc: img5, title: "F, G", caption: "5/20", org: ""},
+  {key: "imageid6", imgSrc: img6, title: "G", caption: "6/20", org: ""},
+  {key: "imageid7", imgSrc: img7, title: "G, H", caption: "7/20", org: ""},
+  {key: "imageid8", imgSrc: img8, title: "H, I", caption: "8/20", org: ""},
+  {key: "imageid9", imgSrc: img9, title: "I, J, K", caption: "9/20", org: ""},
+  {key: "imageid10", imgSrc: img10, title: "K, L", caption: "10/20", org: ""},
+  {key: "imageid11", imgSrc: img11, title: "L", caption: "11/20", org: ""},
+  {key: "imageid12", imgSrc: img12, title: "L", caption: "12/20", org: ""},
+  {key: "imageid13", imgSrc: img13, title: "L, M, N", caption: "13/20", org: ""},
+  {key: "imageid14", imgSrc: img14, title: "N, O, P", caption: "14/20", org: ""},
+  {key: "imageid15", imgSrc: img15, title: "P, Q, R, S", caption: "15/20", org: ""},
+  {key: "imageid16", imgSrc: img16, title: "S", caption: "16/20", org: ""},
+  {key: "imageid17", imgSrc: img17, title: "S", caption: "17/20", org: ""},
+  {key: "imageid18", imgSrc: img18, title: "T, W", caption: "18/20", org: ""},
+  {key: "imageid19", imgSrc: img19, title: "W, Y", caption: "19/20", org: ""},
+  {key: "imageid20", imgSrc: img20, title: "Z, Å, Ö", caption: "20/20", org: ""}
+];

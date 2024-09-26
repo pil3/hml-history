@@ -18,7 +18,7 @@ const HomePage = () => {
   return ( 
     <Layout titleText="Palasia entisestä Hämeenlinnasta">
 
-      <ImageSlider imgArray={carouselArray} showDots={false} auto={false}></ImageSlider>
+      <ImageSlider imgArray={carouselArray} showDots={false} auto={false} wide={true}></ImageSlider>
 
       <QuoteStart className="symbolStyle"/>
       <p className="firstLetterStyle">
@@ -162,7 +162,7 @@ const HomePage = () => {
 export const Head = () => (
   <>
     <html lang="fi" />
-    <title>Entinen Hämeenlinna</title>
+    <title>Entinen Hämeenlinna - Etusivu</title>
   </>
 )
 export default HomePage;
@@ -172,7 +172,7 @@ export default HomePage;
 -------------------------------------------------------------*/
 const carouselArray = [
   {
-    key: "imageid0",
+    key: "imageid1",
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.6E1065AF9F74977AEC291F049F3FEB74&index=0&size=large",
     licence: "Public Domain",
     org: "Museovirasto - Historian kuvakokoelma - Nyblin, Daniel, kuvaaja",
@@ -180,7 +180,7 @@ const carouselArray = [
     title: "1893"
   },
   {
-    key: "imageid1",
+    key: "imageid2",
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=tmk.160997135523400&index=0&size=large",
     licence: "Public Domain",
     org: "Uudenkaupungin museo - Ugin museon valokuvakokoelma",
@@ -188,7 +188,7 @@ const carouselArray = [
     title: "~1900"
   },
   {
-    key: "imageid2",
+    key: "imageid3",
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=srm.166917705462900&index=0&size=large",
     licence: "CC BY-NC-SA 4.0",
     org: "Suomen Rautatiemuseo - Suomen Rautatiemuseon kuvakokoelma",
@@ -196,7 +196,7 @@ const carouselArray = [
     title: "~1862"
   },
   {
-    key: "imageid3",
+    key: "imageid4",
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=srm.166917724168400&index=0&size=large",
     licence: "CC BY-NC-SA 4.0",
     org: "Suomen Rautatiemuseo - Suomen Rautatiemuseon kuvakokoelma",
@@ -204,7 +204,7 @@ const carouselArray = [
     title: "~1890"
   },
   {
-    key: "imageid4",
+    key: "imageid5",
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=lahdenmuseo.lkm-259858&index=0&size=large",
     licence: "CC BY 4.0",
     org: "Lahden museot - Böök A. Th",
@@ -212,7 +212,7 @@ const carouselArray = [
     title: "~1900"
   },
   {
-    key: "imageid5",
+    key: "imageid6",
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=lahdenmuseo.lkm-259121&index=0&size=large",
     licence: "CC BY 4.0",
     org: "Lahden museot - Böök A. Th",
@@ -220,7 +220,7 @@ const carouselArray = [
     title: "~1900"
   },
   {
-    key: "imageid6",
+    key: "imageid7",
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=srm.166917704842500&index=0&size=large",
     licence: "CC BY-NC-SA 4.0",
     org: "Suomen Rautatiemuse - A. Alopaeus",
@@ -228,7 +228,7 @@ const carouselArray = [
     title: "1899"
   },
   {
-    key: "imageid7",
+    key: "imageid8",
     imgSrc: "https://digi.kirjastot.fi/files/fullsize/7a83b7a868164d7ebc9290d47de72599.jpg",
     licence: "CC BY-NC-SA 4.0",
     org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
@@ -236,7 +236,7 @@ const carouselArray = [
     title: "~1902"
   },
   {
-    key: "imageid8",
+    key: "imageid9",
     imgSrc: "https://digi.kirjastot.fi/files/fullsize/e54170ca820e28b93a790a6f3ef4973c.jpg",
     licence: "",
     org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
@@ -244,7 +244,7 @@ const carouselArray = [
     title: "~1900"
   },
   {
-    key: "imageid9",
+    key: "imageid10",
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=lahdenmuseo.lkm-259112&index=0&size=large",
     licence: "CC BY 4.0",
     org: "Lahden museot Böök A. Th",
@@ -252,7 +252,7 @@ const carouselArray = [
     title: "1905"
   },
   {
-    key: "imageid10",
+    key: "imageid11",
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=lahdenmuseo.lkm-259113&index=0&size=large",
     licence: "CC BY 4.0",
     org: "Lahden museot - Böök A. Th",
@@ -260,7 +260,7 @@ const carouselArray = [
     title: "1905"
   },
   {
-    key: "imageid11",
+    key: "imageid12",
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=lahdenmuseo.lkm-259114&index=0&size=large",
     licence: "CC BY 4.0",
     org: "Lahden museot - Böök A. Th",
@@ -268,7 +268,7 @@ const carouselArray = [
     title: "1905"
   },
   {
-    key: "imageid12",
+    key: "imageid13",
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=lahdenmuseo.lkm-260693&index=0&size=large",
     licence: "CC BY 4.0",
     org: "Lahden museot - Böök A. Th",
@@ -276,7 +276,7 @@ const carouselArray = [
     title: "~1908"
   },
   {
-    key: "imageid13",
+    key: "imageid14",
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=srm.166927877711600&index=0&size=large",
     licence: "CC BY-NC-SA 4.0",
     org: "Suomen Rautatiemuseo - Suomen Rautatiemuseon kuvakokoelma",
@@ -284,15 +284,23 @@ const carouselArray = [
     title: "~1910"
   },
   {
-    key: "imageid14",
+    key: "imageid15",
+    imgSrc: "https://digi.kirjastot.fi/files/fullsize/78484ca2524534a73b22c6a337f6a565.jpg",
+    licence: "CC BY-NC-SA 4.0",
+    org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
+    caption: "Hämeenlinnan kirkon tornista kohti pohjoista otettua kuvaa hallitsee vuonna 1888 valmistunut Hämeenlinnan lyseon uusrenessanssityylinen rakennus.",
+    title: "1890-luku"
+  },
+  {
+    key: "imageid16",
     imgSrc: "https://digi.kirjastot.fi/files/fullsize/c1519126198cf06d9e000e41eeb8d5ef.jpg",
     licence: "CC BY-NC-SA 4.0",
     org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa",
-    caption: "Maisemaa kirkontornista kohti pohjoista.",
+    caption: "Hämeenlinnan kirkon tornista kohti pohjoista otettua kuvaa hallitsee vuonna 1888 valmistunut Hämeenlinnan lyseon uusrenessanssityylinen rakennus.",
     title: "~1914"
   },
   {
-    key: "imageid15",
+    key: "imageid17",
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=srm.166917716821800&index=0&size=large",
     licence: "CC BY-NC-SA 4.0",
     org: "Suomen Rautatiemuseo - Suomen Rautatiemuseon kuvakokoelma",
@@ -300,7 +308,7 @@ const carouselArray = [
     title: "1919"
   },
   {
-    key: "imageid16",
+    key: "imageid18",
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=srm.166917725458200&index=0&size=large",
     licence: "CC BY-NC-SA 4.0",
     org: "Suomen Rautatiemuseo - Suomen Rautatiemuseon kuvakokoelma",
@@ -308,7 +316,7 @@ const carouselArray = [
     title: "~1930"
   },
   {
-    key: "imageid17",
+    key: "imageid19",
     imgSrc: "https://digi.kirjastot.fi/files/fullsize/ddca4366a740af2ef683c1893378a3f9.jpg",
     licence: "",
     org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
@@ -316,7 +324,7 @@ const carouselArray = [
     title: "~1900"
   },
   {
-    key: "imageid18",
+    key: "imageid20",
     imgSrc: "https://digi.kirjastot.fi/files/fullsize/990c0b41ffdc807ef69fba42dee26f04.jpg",
     licence: "",
     org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
@@ -324,7 +332,7 @@ const carouselArray = [
     title: "~1912"
   },
   {
-    key: "imageid19",
+    key: "imageid21",
     imgSrc: "https://digi.kirjastot.fi/files/fullsize/8722fd6f8e5b2d537d201c71e255969c.jpg",
     licence: "",
     org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
@@ -332,7 +340,7 @@ const carouselArray = [
     title: "~1900"
   },
   {
-    key: "imageid20",
+    key: "imageid22",
     imgSrc: "https://digi.kirjastot.fi/files/fullsize/29a51663daf8a4e6ad534e4cbf8df50b.jpg",
     licence: "",
     org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma) - Rytkönen, Enok",
@@ -340,7 +348,7 @@ const carouselArray = [
     title: "~1904"
   },
   {
-    key: "imageid21",
+    key: "imageid23",
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.6DE87CD82F363E2CF83A77715B3CE6AC&index=0&size=large",
     licence: "CC BY 4.0",
     org: "Museovirasto - Historian kuvakokoelma - M. L. Carstensin kokoelma",
@@ -348,7 +356,7 @@ const carouselArray = [
     title: "1909"
   },
   {
-    key: "imageid22",
+    key: "imageid24",
     imgSrc: "https://digi.kirjastot.fi/files/fullsize/0d62b6510c13344c061c6e3951c1a1d3.jpg",
     licence: "",
     org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma) - Rytkönen, Enok",
@@ -356,7 +364,7 @@ const carouselArray = [
     title: "~1904"
   },
   {
-    key: "imageid23",
+    key: "imageid25",
     imgSrc: "https://digi.kirjastot.fi/files/fullsize/b34df7841629db2203d4086ec0da511a.jpg",
     licence: "",
     org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma) - Palander, E",
@@ -364,7 +372,7 @@ const carouselArray = [
     title: "~1906"
   },
   {
-    key: "imageid24",
+    key: "imageid26",
     imgSrc: "https://digi.kirjastot.fi/files/fullsize/9acce7a246829ae134099135e6bd7614.jpg",
     licence: "",
     org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
@@ -372,7 +380,7 @@ const carouselArray = [
     title: "~1906"
   },
   {
-    key: "imageid25",
+    key: "imageid27",
     imgSrc: "https://digi.kirjastot.fi/files/fullsize/ca8acddb1930563e2fb2cbb872363e27.jpg",
     licence: "",
     org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
@@ -380,7 +388,7 @@ const carouselArray = [
     title: "~1925"
   },
   {
-    key: "imageid26",
+    key: "imageid28",
     imgSrc: "https://digi.kirjastot.fi/files/fullsize/17fe156d41391392083ead8bfc28ece0.jpg",
     licence: "",
     org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma) - Rytkönen, Enok",
@@ -388,7 +396,7 @@ const carouselArray = [
     title: "~1910"
   },
   {
-    key: "imageid27",
+    key: "imageid29",
     imgSrc: "https://digi.kirjastot.fi/files/fullsize/07a391d5517feefb150681a8344e147c.jpg",
     licence: "",
     org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
@@ -396,7 +404,7 @@ const carouselArray = [
     title: "~1907"
   },
   {
-    key: "imageid28",
+    key: "imageid30",
     imgSrc: "https://digi.kirjastot.fi/files/fullsize/6d9c6426c637cb6982d6d6a0aa9df682.jpg",
     licence: "",
     org: "Hämeenlinnan kaupunginkirjasto - Joensuun kaupunginkirjasto",
@@ -404,7 +412,7 @@ const carouselArray = [
     title: "~1907"
   },
   {
-    key: "imageid29",
+    key: "imageid31",
     imgSrc: "https://digi.kirjastot.fi/files/fullsize/f81e5f6cc35cab5a58a3871dcf0df64a.jpg",
     licence: "",
     org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
@@ -412,7 +420,7 @@ const carouselArray = [
     title: "~1910"
   },
   {
-  key: "imageid30",
+  key: "imageid32",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/0b1df811f41d26c3f12100d18e175f08.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
@@ -420,7 +428,7 @@ const carouselArray = [
   title: "~1911"
 },
 {
-  key: "imageid31",
+  key: "imageid33",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/fafd5a82c2be13fb3139389a2762fe5d.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma) - Rytkönen, Enok",
@@ -428,7 +436,7 @@ const carouselArray = [
   title: "1907"
 },
 {
-  key: "imageid32",
+  key: "imageid34",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/90739d1b5ad9ecf065c8026bc23249e3.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma) - Rytkönen, Enok",
@@ -436,7 +444,7 @@ const carouselArray = [
   title: "~1900"
 },
 {
-  key: "imageid33",
+  key: "imageid35",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/ec481fff96625cb1a7ead46747f831f4.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
@@ -444,7 +452,7 @@ const carouselArray = [
   title: "~1904"
 },
 {
-  key: "imageid34",
+  key: "imageid36",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/d6bf918916d2223bc2745c0eb11512e8.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
@@ -452,7 +460,7 @@ const carouselArray = [
   title: "~1915"
 },
 {
-  key: "imageid35",
+  key: "imageid37",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/b40760fb35b2f8eb6d40cadd6f0b022e.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma) - Rytkönen, Enok",
@@ -460,7 +468,7 @@ const carouselArray = [
   title: "~1900"
 },
 {
-  key: "imageid36",
+  key: "imageid38",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/428a9237e776ad8cff5a6511eb0b1683.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
@@ -468,7 +476,7 @@ const carouselArray = [
   title: "~1922"
 },
 {
-  key: "imageid37",
+  key: "imageid39",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/108e138edc098aa76f74e5dbf0a7c4f4.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
@@ -476,7 +484,7 @@ const carouselArray = [
   title: "~1900"
 },
 {
-  key: "imageid38",
+  key: "imageid40",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/aebb73e9414825b25a0b997e5722303f.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
@@ -484,7 +492,7 @@ const carouselArray = [
   title: "1935"
 },
 {
-  key: "imageid39",
+  key: "imageid41",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/a781d72ecb295b424c843ddfe3b90940.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
@@ -492,7 +500,7 @@ const carouselArray = [
   title: "~1920"
 },
 {
-  key: "imageid40",
+  key: "imageid42",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/ec39154e2e97eef41885e661556682fb.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
@@ -500,7 +508,7 @@ const carouselArray = [
   title: "~1930"
 },
 {
-  key: "imageid41",
+  key: "imageid43",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/32db1e70e2bf03717a6a66692cfe710d.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
@@ -508,7 +516,7 @@ const carouselArray = [
   title: "~1904"
 },
 {
-  key: "imageid42",
+  key: "imageid44",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/07bd8bf2cbb30e14e565a1cf6b16e7cb.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
@@ -516,7 +524,7 @@ const carouselArray = [
   title: "~1930"
 },
 {
-  key: "imageid43",
+  key: "imageid45",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/848c08ab810c797719ca0babc0e66f76.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
@@ -524,7 +532,7 @@ const carouselArray = [
   title: "1907"
 },
 {
-  key: "imageid44",
+  key: "imageid46",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/ba7feb4aff1c305e0631e0e31bfbf61f.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
@@ -532,7 +540,7 @@ const carouselArray = [
   title: "~1909"
 },
 {
-  key: "imageid45",
+  key: "imageid47",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/e9b6f7ed24170ed3e6360bc887e95f99.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
@@ -540,7 +548,7 @@ const carouselArray = [
   title: "~1910"
 },
 {
-  key: "imageid46",
+  key: "imageid48",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/9511b72da7709a10a71f33fead3112b6.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
@@ -548,7 +556,7 @@ const carouselArray = [
   title: "~1920"
 },
 {
-  key: "imageid47",
+  key: "imageid49",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/8871d05c79804c3f40e359e4f078f73f.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
@@ -556,7 +564,7 @@ const carouselArray = [
   title: "~1910"
 },
 {
-  key: "imageid48",
+  key: "imageid50",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/851cf885922f70c782e2f2473aadb7e6.jpg",
   licence: "CC BY 4.0",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
@@ -564,7 +572,7 @@ const carouselArray = [
   title: "~1910"
 },
 {
-  key: "imageid49",
+  key: "imageid51",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/29919faa9ee95816f1feb3e43f220b64.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
@@ -572,7 +580,7 @@ const carouselArray = [
   title: "~1930"
 },
 {
-  key: "imageid50",
+  key: "imageid52",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/3d49593aa7d60c24b3739e6e0bad4460.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
@@ -580,7 +588,7 @@ const carouselArray = [
   title: "~1905"
 },
 {
-  key: "imageid51",
+  key: "imageid53",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/992d27ee321ec35bd8aca21080ae9978.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
@@ -588,7 +596,7 @@ const carouselArray = [
   title: "~1901"
 },
 {
-  key: "imageid52",
+  key: "imageid54",
   imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.C5B1F0B4CC3B9E431D4A5AE9873D4D7E&index=0&size=large",
   licence: "",
   org: "Museovirasto - Valokuvaamo Pietisen kokoelma - CC BY 4.0",
@@ -596,7 +604,7 @@ const carouselArray = [
   title: "1931"
 },
 {
-  key: "imageid53",
+  key: "imageid55",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/d7cda4d2f3160061b9fa0896a07faf6f.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
@@ -604,7 +612,7 @@ const carouselArray = [
   title: "~1909"
 },
 {
-  key: "imageid54",
+  key: "imageid56",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/fff6e6d9e1cf47e6718457aafbc26b56.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
@@ -612,7 +620,7 @@ const carouselArray = [
   title: "~1920"
 },
 {
-  key: "imageid55",
+  key: "imageid57",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/66d0fcac1eba7f5a5a5f660c6ce02a2c.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
@@ -620,7 +628,7 @@ const carouselArray = [
   title: "~1900"
 },
 {
-  key: "imageid56",
+  key: "imageid58",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/db669d8cf1e727af85290fcc9531dc24.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
@@ -628,7 +636,7 @@ const carouselArray = [
   title: "19.9.1934"
 },
 {
-  key: "imageid57",
+  key: "imageid59",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/565f854d359ed07e9b525ec781db1843.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
@@ -636,7 +644,7 @@ const carouselArray = [
   title: "~1920"
 },
 {
-  key: "imageid58",
+  key: "imageid60",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/dba89cf3966663b8c59643bdb0c57d1c.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan kaupunginmuseo",
@@ -644,7 +652,7 @@ const carouselArray = [
   title: "1911"
 },
 {
-  key: "imageid59",
+  key: "imageid61",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/29226bd41a7f70d2905984163beafb7b.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan kaupunginmuseo",
@@ -652,7 +660,7 @@ const carouselArray = [
   title: "~1890"
 },
 {
-  key: "imageid60",
+  key: "imageid62",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/d1bca46e7988727c9481ca4bf480258a.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
@@ -660,7 +668,7 @@ const carouselArray = [
   title: "~1937"
 },
 {
-  key: "imageid61",
+  key: "imageid63",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/424f295ded1cff4316caf3746bf6bdc6.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
@@ -668,7 +676,7 @@ const carouselArray = [
   title: "~1930-1950"
 },
 {
-  key: "imageid62",
+  key: "imageid64",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/517a6e0b2787ddd622f628ed83c5837b.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
@@ -676,11 +684,51 @@ const carouselArray = [
   title: "~1920"
 },
 {
-  key: "imageid63",
+  key: "imageid65",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/31fa34c9938eb2c4ede41db235590fb2.jpg",
   licence: "",
   org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
   caption: "Hämeenlinnan keskustasta länteen päin johtavan Läntisen Viertotien nimeksi tuli vuonna 1924 Turuntie.",
   title: "~1920"
+},
+{
+  key: "imageid66",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/adc974d241a3306d6da9a0dad4acb349.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
+  caption: "Huhtikuussa 1928 tuli kuluneeksi 10 vuotta kansalaissodan päättymisestä. Hämeenlinnan torilla järjestettiin 26.4. paraati ja juhlittiin kaupungin vapautusta.",
+  title: "26.4.1928"
+},
+{
+  key: "imageid67",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/91f42ea0ecf9edb94abf985112d8c759.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
+  caption: "Vanajaveden jäältä otetussa postikorttikuvassa näkyy Hämeenlinnan keskustan etelärannan rakennuksia 1920-luvun loppupuolelta.",
+  title: "~1928"
+},
+{
+  key: "imageid68",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/52ae2607c51c87cbf8890d888dc59264.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
+  caption: "Postikortissa on kuvattuna Wetterhoffin työkoulun rakennus ennen vuonna 1922 tehtyä itäpäädyn korotusta. Koko koulurakennus korjattiin kolmikerroksiseksi vuonna 1929.",
+  title: "~1920"
+},
+{
+  key: "imageid69",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/45f04bc5f3b7e553246515171bf87d89.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna - Kaarlo Lindberg",
+  caption: "Kaupunki lahjoitti Hämeenlinnan suomalaisen tyttökoulun osakeyhtiölle tontin Kaurialan kaupunginosasta, vanhan hautausmaan laidalta. Uusi koulutalo valmistui tälle tontille Erottajakadun varrelle vuonna 1928.",
+  title: "1928"
+},
+{
+  key: "imageid70",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/1fedf285c57de6811429e39e0e1e2e6e.jpg",
+  licence: "",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
+  caption: "Kaupunki lahjoitti Hämeenlinnan suomalaisen tyttökoulun osakeyhtiölle tontin Kaurialan kaupunginosasta, vanhan hautausmaan laidalta. Uusi koulutalo valmistui tälle tontille Erottajakadun varrelle vuonna 1928.",
+  title: "1928"
 },
 ];
