@@ -10,17 +10,17 @@ const newsPaperPage = () => {
   return ( 
     <Layout titleText="Satunnaisia sanomalehtiä">
       <ImageSlider imgArray={hameenSanomat1879Array} showDots={true}></ImageSlider>
-      <br></br>
-      <br></br>
+      <div className="verticalSpacer"></div>
+      <div className="horizontalRule"></div>
       <ImageSlider imgArray={hameenSanomat1889Array} showDots={true}></ImageSlider>
-      <br></br>
-      <br></br>
+      <div className="verticalSpacer"></div>
+      <div className="horizontalRule"></div>
       <ImageSlider imgArray={hameenSanomat1899Array} showDots={true}></ImageSlider>
-      <br></br>
-      <br></br>
+      <div className="verticalSpacer"></div>
+      <div className="horizontalRule"></div>
       <ImageSlider imgArray={hameenSanomat1909Array} showDots={true}></ImageSlider>
-      <br></br>
-      <br></br>
+      <div className="verticalSpacer"></div>
+      <div className="horizontalRule"></div>
       <ImageSlider imgArray={hametar1909Array} showDots={true}></ImageSlider>
       <br></br>
     </Layout>

@@ -11,9 +11,9 @@ import "../styles/base/global.css"
 const AhvenistoPage = () => {
   return (
     <Layout titleText="Kuvia Ahvenistolta">
-      <Row><div className="interTitleStyle">1900</div></Row>  
-      <Row className="marginYStyle">
-        <Col>
+      <div className="imageCaptionStyle">1900-luku</div>
+      <Row>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle maxHeightStyle"
             imagePath="https://www.finna.fi/Cover/Show?source=Solr&id=lahdenmuseo.lkm-259093&index=0&size=large"
@@ -23,9 +23,11 @@ const AhvenistoPage = () => {
           />
         </Col>
       </Row>
-      <Row><div className="interTitleStyle">1930</div></Row>  
-      <Row className="marginYStyle">
-        <Col>
+
+      <div className="horizontalRule"></div>
+      <div className="imageCaptionStyle">1930-luku</div>
+      <Row>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/6f21fe590fc642a26b611abae871afa2.jpg"
@@ -37,7 +39,7 @@ const AhvenistoPage = () => {
             copyrightText="Hämeenlinnan kaupunginkirjasto - Julkaistu painettuna: Hämeenlinna : Suomalainen kirjakauppa Oy"
           />
         </Col>
-        <Col>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/d3bc2931ce0ce3d9b67623ebfce9ad84.jpg"
@@ -53,9 +55,11 @@ const AhvenistoPage = () => {
           />
         </Col>
       </Row>
-      <Row><div className="interTitleStyle">1950</div></Row>  
-      <Row className="marginYStyle">
-        <Col>
+      
+      <div className="horizontalRule"></div>
+      <div className="imageCaptionStyle">1950-luku</div>
+      <Row>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle maxHeightStyle"
             imagePath="https://www.finna.fi/Cover/Show?source=Solr&id=postimuseo.850864c7-7728-464e-9cb1-6f1af8073412&index=0&size=large"
@@ -66,8 +70,8 @@ const AhvenistoPage = () => {
         </Col>
 
       </Row>
-      <Row className="marginYStyle">
-      <Col>
+      <Row>
+      <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle maxHeightStyle"
             imagePath="https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.63ACB9225079818ED16DCB71DD397B25&index=0&size=large"
@@ -76,7 +80,7 @@ const AhvenistoPage = () => {
             copyrightText="Museovirasto - Saarinen, UA, kuvaaja - CC BY 4.0"
           />
         </Col>
-        <Col>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle maxHeightStyle"
             imagePath="https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.526A5D289C252BAD536E134ECA9FB7A6&index=0&size=large"

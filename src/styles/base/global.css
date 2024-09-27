@@ -26,12 +26,12 @@
 ----------------------------------------------------------------------------------------------------- */
  :root {
   --text-dark: #000;
-  --text-light: #fafafa;
+  --text-light: #cccccc;
   --color-dark: #14191e;
   --color-shade: #444a4d;
-  --color-light: #fafafa;
+  --color-light: #eeeeee;
   --color-bg: #F9E2B1;
-  --color-bg-dark: #382300;/*#110d03; #2D2921;*/
+  --color-bg-dark: #2b1700;
   --color-bg-light: #FCEAC7;
 }
 /* Page styling
@@ -40,11 +40,6 @@ body {
   font-family: "Inter Regular", sans-serif;
   background-color: var(--color-bg);
   color: var(--text-dark);
-}
-h1 {
-  font-size: 2.5em;
-  text-align: center;
-  margin: 1em 0 0 0;
 }
 h2 {
   font-size: 2em;
@@ -102,17 +97,16 @@ h4 {
   max-height: 300px;
 }
 .marginYStyle {
-  margin: 16px 0;
+  margin: 8px auto;
 }
 .verticalSpacer {
-  height: 2em;
+  height: 32px;
 }
 .symbolStyle {
   display: block;
-  width: 70px;
-  height: 70px;
-  margin: auto;
-  padding: 1em 0;
+  width: 40px;
+  height: 40px;
+  margin: 4px auto;
 }
 .centeredImageStyle {
   display: block;
@@ -121,6 +115,12 @@ h4 {
   box-shadow: 2px 2px 4px black;
   border-radius: 8px;
 }
+.horizontalRule {
+  height: 2px;
+  margin: 16px 0;
+  background-image: linear-gradient(to right, var(--color-bg),  var(--color-bg-dark), var(--color-bg));
+}
+
 
 
 

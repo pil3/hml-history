@@ -146,7 +146,7 @@ const Conditions1809Page = () => {
       <p className="quotationStyle">V. 1808 annoin minä koulukassan maksulla laittaa erään koulusalissa joutilaana olleen kaapin säiliöksi koulun kirjoille ja papereille ja olen minä tähän koulun arkistoksi aiottuun kaappiin pannut sekä virkaan tullessani löytyneet että 
         sittemmin saadut koulun kirjat ja asiapaperit. Olkoon tämä, niinkuin kaikki muukin, järjestyksen avuksi koulussa, ja mahtakoon järjestys ja kunto vaikuttaa koulun kukoistukseen opissa, hyvissä avuissa, ahkeruudessa ja kelvollisuudessa etc.!!</p>
       <QuoteEnd className="symbolStyle"/>
-      <p>Kirjeessä 20 p:ltä Maaliskuuta 1817 ilmoitti koulun silloinen rehtori H. Longström Turun Tuomiokapituliin, että koulun oppilasmäärä, joka ennen kevätlukukautta v. 1811 ei milloinkaan ollut noussut yli 68, siitä lähtien oli yhä lisäyntynvt ja 
+      <p>Kirjeessä 20 p:ltä Maaliskuuta 1817 ilmoitti koulun silloinen rehtori H. Longström Turun Tuomiokapituliin, että koulun oppilasmäärä, joka ennen kevätlukukautta v. 1811 ei milloinkaan ollut noussut yli 68, siitä lähtien oli yhä lisäyntynyt ja 
         teki nyt 112, jonka vuoksi korkeintaan 70 oppilaalle riittävä koulusali alkoi tulla kärsimättömän ahtaaksi, ja ilma siinä, oppilaiden oltua tuntikauden ko'ossa, niin pilauntuneeksi, että sytytetyt kynttilät itsestään sammuivat. Siitä syystä 
         pyysi mainittu rehtori Tuomiokapitulia ryhtymään toimeen uuden koulusalin hankkimista varten. Hän sai uudistaa pyyntönsä 14 p:nä Huhtikuuta 1819, jolloin hän ilmoitti, että, koska oppilaiden luku nyt nousi 146, rehtorin ja vanhemman kollegan 
         oli täytynyt kumpaisenkin luokkinensa lukea omissa huoneissaan. Silloin myönsi Tuomiokapituli, että koululle vourattaisiin kaupungista kaksi lukuhuonetta; niistä maksettiin hyyryä ensi vuodelta 140 ja toiselta 100 riksiä riikin-velkaa. 
@@ -415,9 +415,8 @@ const Conditions1809Page = () => {
 
       <p className="infoStyle">Anders Emil (Antti) Favén (1841-1913) oli Hämeenlinnan normaalilyseon ja lyseon historian ja maantieteen opettaja, joka toimi myös lyseon rehtorina ja kansakoulujen 
         tarkastajana. Favén oli myös Hämeen Sanomien alkuperäinen nimimerkki Antti.</p>
-      <hr/>
+        <div className="horizontalRule"></div>
       <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/693a20485a37e67054e5cbfdad4455f4.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
-      <br/>
     
     </Layout>
   )

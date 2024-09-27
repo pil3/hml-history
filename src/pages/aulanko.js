@@ -11,11 +11,9 @@ import "../styles/base/global.css"
 const AulankoPage = () => {
   return (
     <Layout titleText="Kuvia Aulangolta">
+      <div className="imageCaptionStyle">1890-luku</div>
       <Row>
-      <div className="interTitleStyle">1890</div>
-      </Row>  
-      <Row className="marginYStyle">
-        <Col>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/58532e43ea6f66ae3f409b9faf5ff591.jpg"
@@ -27,7 +25,7 @@ const AulankoPage = () => {
             copyrightText="Julkaistu painettuna: A. Alopaeuksen Kirjakauppa - A. Alopaeus Bokhandel, Hämeenlinnan kaupunginkirjasto"
           />
         </Col>
-        <Col>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/5b05e569bdf6bed82c4788fcdd204343.jpg"
@@ -40,8 +38,8 @@ const AulankoPage = () => {
           />
         </Col>
       </Row>
-      <Row className="marginYStyle">
-        <Col>
+      <Row>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/7d45a969f0098260d1a5b5de11247a8e.jpg"
@@ -52,7 +50,7 @@ const AulankoPage = () => {
             copyrightText="Julkaistu painettuna: A. Alopaeuksen Kirjakauppa - A. Alopaeus Bokhandel, Hämeenlinnan kaupunginkirjasto"
           />
         </Col>
-        <Col>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://www.finna.fi/Cover/Show?source=Solr&id=spegeln-bildsamlingarna.bildsam_1935_23%3A19&index=0&size=large"
@@ -65,12 +63,11 @@ const AulankoPage = () => {
           />
         </Col>
       </Row>
-      <div className="verticalSpacer"></div>
-      <Row className="marginYStyle">
-      <div className="interTitleStyle">1900</div>
-      </Row> 
-      <Row className="marginYStyle">
-        <Col>
+
+      <div className="horizontalRule"></div>
+      <div className="imageCaptionStyle">1900-luku</div>
+      <Row>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/4a48bc1b9b1f41f2f65f0e8ad6deb6e5.jpg"
@@ -82,7 +79,7 @@ const AulankoPage = () => {
             copyrightText="Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma), Hämeenlinnan kaupunginkirjasto"
           />
         </Col>
-        <Col>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/52828cdc64853f24e0f1860984d4d9e7.jpg"
@@ -95,12 +92,11 @@ const AulankoPage = () => {
           />
         </Col>
       </Row>
-      <div className="verticalSpacer"></div>
-      <Row className="marginYStyle">
-      <div className="interTitleStyle">1910</div>
-      </Row> 
-      <Row className="marginYStyle">
-        <Col>
+      
+      <div className="horizontalRule"></div>
+      <div className="imageCaptionStyle">1910-luku</div>
+      <Row>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/19547f337fe86add58ba7ff7ebdaef43.jpg"
@@ -114,12 +110,11 @@ const AulankoPage = () => {
           />
         </Col>
       </Row>
-      <div className="verticalSpacer"></div>
-      <Row className="marginYStyle">
-      <div className="interTitleStyle">1920</div>
-      </Row> 
-      <Row className="marginYStyle">
-        <Col>
+      
+      <div className="horizontalRule"></div>
+      <div className="imageCaptionStyle">1920-luku</div>
+      <Row>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/3b3500a7d8fd7afb5427f678bf4ad6c8.jpg"
@@ -130,7 +125,7 @@ const AulankoPage = () => {
             copyrightText="Suomalainen kirjakauppa / Hämeenlinna, Hämeenlinnan kaupunginkirjasto"
           />
         </Col>
-        <Col>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/e6d248e13fd7f82e01b69757d24ab368.jpg"
@@ -142,8 +137,8 @@ const AulankoPage = () => {
           />
         </Col>
       </Row>
-      <Row className="marginYStyle">
-        <Col>
+      <Row>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/a113f51ac9a3eface5478564fc6fd9ab.jpg"
@@ -155,7 +150,7 @@ const AulankoPage = () => {
             copyrightText="Suomalainen kirjakauppa / Hämeenlinna, Hämeenlinnan kaupunginkirjasto"
           />
         </Col>
-        <Col>
+        <Col sm={12} md={6} className="marginYStyle"> 
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/c1c1a95902e8d330a6901cad06fb3321.jpg"
@@ -167,8 +162,8 @@ const AulankoPage = () => {
           />
         </Col>
       </Row>
-      <Row className="marginYStyle">
-        <Col>
+      <Row>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://www.finna.fi/Cover/Show?source=Solr&id=kerava_mui.mui-1273&index=0&size=large"
@@ -177,7 +172,7 @@ const AulankoPage = () => {
             copyrightText="Keravan museopalvelut - Elna Granqvistin kokoelma - CC BY-NC-ND 4.0"
           />
         </Col>
-        <Col>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/38cc26699f48d7320bf54ffe4c32f744.jpg"
@@ -188,12 +183,11 @@ const AulankoPage = () => {
           />
         </Col>
       </Row>
-      <div className="verticalSpacer"></div>
-      <Row className="marginYStyle">
-      <div className="interTitleStyle">1930</div>
-      </Row>
-      <Row className="marginYStyle">
-        <Col>
+      
+      <div className="horizontalRule"></div>
+      <div className="imageCaptionStyle">1930-luku</div>
+      <Row>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/a38f130c1dd0fcb984a37cd56c83a1aa.jpg"
@@ -203,7 +197,7 @@ const AulankoPage = () => {
             copyrightText="Suomen valokuva - Kaarlo Lindberg, Hämeenlinnan kaupunginkirjasto"
           />
         </Col>
-        <Col>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/125a5957f4aaa9812dde3b7aa42456f0.jpg"
@@ -216,8 +210,8 @@ const AulankoPage = () => {
           />
         </Col>
       </Row>
-      <Row className="marginYStyle">
-        <Col>
+      <Row>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/4c12b1e2c7696729f07a750ee03d1971.jpg"
@@ -228,7 +222,7 @@ const AulankoPage = () => {
             copyrightText="Julkaistu painettuna: Rytkösen kirjakauppa, Hämeenlinnan kaupunginkirjasto"
           />
         </Col>
-        <Col>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/ed2aafbd41a0f74ee87ae3c10e956c87.jpg"
@@ -242,8 +236,8 @@ const AulankoPage = () => {
           />
         </Col>
       </Row>
-      <Row className="marginYStyle">
-        <Col>
+      <Row>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/ab60acb9c2dd0334a46ac4d82c45bb83.jpg"
@@ -254,7 +248,7 @@ const AulankoPage = () => {
             copyrightText="Suomalainen kirjakauppa / Hämeenlinna, Hämeenlinnan kaupunginkirjasto"
           />
         </Col>
-        <Col>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/66c26edf9097c39cd02781e9d46e4392.jpg"
@@ -266,8 +260,8 @@ const AulankoPage = () => {
           />
         </Col>
       </Row>
-      <Row className="marginYStyle">
-        <Col>
+      <Row>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/3ed7b92604014ef37c9ba28db10d137a.jpg"
@@ -279,7 +273,7 @@ const AulankoPage = () => {
             copyrightText="Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma), Hämeenlinnan kaupunginkirjasto"
           />
         </Col>
-        <Col>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/176e46cf96e88b03defd16d60abf6437.jpg"
@@ -291,8 +285,8 @@ const AulankoPage = () => {
           />
         </Col>
       </Row>
-      <Row className="marginYStyle">
-        <Col>
+      <Row>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/9a409928f17cb984fe14f89f9cc2f7f5.jpg"
@@ -302,7 +296,7 @@ const AulankoPage = () => {
             copyrightText="Suomalainen kirjakauppa / Hämeenlinna, Hämeenlinnan kaupunginkirjasto"
           />
         </Col>
-        <Col>
+        <Col sm={12} md={6} className="marginYStyle">
           <ImageModal
             imageStyle="centeredImageStyle  maxHeightStyle"
             imagePath="https://digi.kirjastot.fi/files/fullsize/0b3c5469823cef7b809e10c260c4309e.jpg"

@@ -11,7 +11,7 @@ const Kartta1892Page = () => {
   return (
     <Layout titleText="Hämeenlinnan kaupunki n. 1892">
       <ImageModal imagePath={mapImg} imageStyle="centeredImageStyle" titleText="Keskusta-alue vuonna 1892"></ImageModal>
-      <div className="verticalSpacer"></div>
+      <div className="horizontalRule"></div>
      
       <p className="firstLetterStyle">Hämeenlinnan kaupungin kartta noin vuodelta 1892 esittelee tarkasti Hämeenlinnan keskustan 1800-luvun lopun rakennuskannan. 
         Karttaan on erilaisilla väreillä merkitty kivi- ja puurakennukset. Myös rakennusten kattomateriaali selviää kartasta, esim. turvekatot on merkitty omalla 

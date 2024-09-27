@@ -15,6 +15,7 @@ const JailRulesPage = () => {
       <p className="captionStyle">Brofeldt, P. A.</p>
       <p className="captionStyle">Hämeenlinna 1877, A. W. Lingrenin kirjapaino</p>
       <p className="captionStyle">Hämeenlinnan Kaupunginkirjasto</p>
+      <div className="horizontalRule"></div>
 
       <h2>1 § </h2>
       <p className="firstLetterStyle">Wangit owat rangaistus-ajaksensa menettäneet wapautensa; heidän tulee karttaa kaikkea oman mielensä waltaa ja tahtonsa noudattamista sekä
@@ -165,9 +166,8 @@ const JailRulesPage = () => {
 
       <p className="imageCaptionStyle">Hämeenlinnan kuritushuoneesta 15 p. Marraskuuta 1877.</p>
       <p className="imageCaptionStyle">P. A. Brofeldt</p>
-      <hr/>
+      <div className="horizontalRule"></div>
       <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/6fb33012db610211b7cfcb04071180a1.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
-      <br/>
     
     </Layout>
   )

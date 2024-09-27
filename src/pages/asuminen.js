@@ -55,6 +55,7 @@ const HousingConditionsPage = () => {
 
       <p className="captionStyle">Manner, Viktor</p>
       <p className="captionStyle">Hämeenlinnan Kaupunginkirjasto</p>
+      <div className="horizontalRule"></div>
 
       <h2>Johdanto</h2>
       <p className="firstLetterStyle">Kaupunkimme terveyshoitolautakunnan päämääränä on, lukuunottamatta terveyshoidollisten olojen silmällä pitämistä ja esiintyvien 
@@ -379,9 +380,8 @@ const HousingConditionsPage = () => {
       <p className="imageCaptionStyle">Hämeenlinnassa Tammikuussa 1909</p>
       <p className="imageCaptionStyle">Viktor Manner</p>
 
-      <hr/>
+      <div className="horizontalRule"></div>
       <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/f5238f7f5373773db133c01db3f6598a.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
-      <br/>
     
     </Layout>
   )

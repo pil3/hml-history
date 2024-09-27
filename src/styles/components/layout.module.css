@@ -9,14 +9,14 @@
   background-size: cover;
 }
 .containerStyle {
-  /* padding: 2px 25px 0 15px; */
   padding: 0 7px;
 }
 .pageTitleStyle {
-  font-size: 48px;
-  color: var(--text-dark);
-  font-family: "Inter Extra Light";
-  margin: 40px 0;
+  font-size: 46px;
+  color: var(--color-bg-dark);
+  font-family: "Inter Italic";
+  font-weight: bold;
+  text-align: center;
 }
 .topStyle {
   display: flex;
@@ -27,16 +27,21 @@
   background-color: var(--color-bg-dark);
   padding: 16px 0;
 }
+.topLineStyle {
+  height: 4px;
+  margin: 16px 0;
+  background-image: linear-gradient(to right, var(--color-bg),  var(--color-bg-dark), var(--color-bg));
+}
 .titleSvgStyle {
   width: 55%;
   height: auto;
   min-width: 300px;
 }
-.linkStyle {
+.pageUpStyle {
   display: block;
   width: 50px;
   height: 50px;
-  margin: 16px auto 0 auto;
+  margin: auto;
   padding: 12px;
 }
 .upArrowStyle {
@@ -49,20 +54,17 @@
 }
 @media screen and (max-width: 992px) {
   .pageTitleStyle {
-    font-size: 40px;
-    margin: 35px 0;
+    font-size: 38px;
   }
 }
 @media screen and (max-width: 768px) {
   .pageTitleStyle {
-    font-size: 36px;
-    margin: 30px 0;
+    font-size: 34px;
   }
 }
 @media screen and (max-width: 576px) {
   .pageTitleStyle {
-    font-size: 28px;
-    margin: 25px 0;
+    font-size: 26px;
   }
 }
 

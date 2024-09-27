@@ -67,13 +67,11 @@ const Osoitteita1923Page = () => {
   return (
     <Layout titleText="Osoitteita vuodelta 1923">
       <Image className="centeredImageStyle" src={frontPage} alt="Etusivu"/>
-      <br></br>
       <ImageSlider imgArray={imageArray} showDots={false} wide={false}></ImageSlider>
       <br></br>
       <p className="captionStyle">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan osote-kalenteri, 1923-1924 </p>
-      <hr/>
+      <div className="horizontalRule"></div>
       <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/97dec9a4e859cf2719c5b529de25cd91.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
-      <br/>
     </Layout>
   )
 }

@@ -15,11 +15,12 @@ const Kartta1778Page = () => {
     <Layout titleText="Ojoisten ja Saaristen latokartanoiden kartta 1778">
       <ImageModal imagePath={mapImg} imageStyle="centeredImageStyle" titleText="Keskusta-alue vuonna 1778"></ImageModal>
       <div className="imageCaptionStyle">Vanha kartta</div>
-      <div className="verticalSpacer"></div>
+
+      <div className="horizontalRule"></div>
       
       <ImageCompare imgBot={oldImg} imgTop={newImg} altText="Keskusta vuonna 1778 ja nykyään"></ImageCompare>
       <div className="imageCaptionStyle">Vanha kartta vs. nykyisyys</div>
-      <div className="verticalSpacer"></div>
+      <div className="horizontalRule"></div>
 
       <p className="firstLetterStyle">Karttaotteessa näkyvät Ojoisten ja Saaristen latokartanoiden eli kruunun virkatalojen maitten omistukset isonjaon jälkeen. Maanjaot ja myöhempien vuosien mittaukset kokosi 
         vuonna 1778 maanmittari Pehr Kiellman. Kiellman tuli 1760 Hämeeseen komission maanmittariksi eli isojakoa toimittamaan. Hän teki myös Hämeenlinnan uuteen kaupunkiin tonttijaon. 

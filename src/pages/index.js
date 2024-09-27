@@ -17,12 +17,12 @@ const HomePage = () => {
   const [showMore, setShowMore] = React.useState(false);
   return ( 
     <Layout titleText="Palasia entisestä Hämeenlinnasta">
-
       <ImageSlider imgArray={carouselArray} showDots={false} auto={false} wide={true}></ImageSlider>
+      <div className="horizontalRule"></div>
 
       <QuoteStart className="symbolStyle"/>
       <p className="firstLetterStyle">
-        Noin samaan aikaan kuin Ruotsin mahtava valtiourho Birger Jaarli Bjelbosta päätti niinkuin "lukon Määlariin" rakentaa
+        Noin samaan aikaan kuin Ruotsin mahtava valtiourho Birger Jaarli Bjelbosta päätti rakentaa
         Tukholman kaupungin noita sotaisia virolaisia vastaan, vaivasivat pakanalliset hämäläiset tuhotöillään ajoin ja usein
         Itämaan (niinkuin Suomea silloin kutsuttiin) kristillista seurakuntaa.
       </p>
@@ -151,8 +151,7 @@ const HomePage = () => {
       <ReadMore buttonText={showMore ? "Näytä vähemmän" : "Näytä enemmän..."} onClick={() => setShowMore(!showMore)}/>
       <QuoteEnd className="symbolStyle"/>
       <p className="captionStyle">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan Osoite ja Ilmoitus Kalenteri, 1887 </p>
-
-      <div className="verticalSpacer"></div>
+      <div className="horizontalRule"></div>
       <Image className="centeredImageStyle" src={img1} alt="Maalaus vanhasta Hämeenlinnasta"/>
       <p className="captionStyle">Cordier de Bonneville, Louis-Joseph-Anger, taiteilija - valmistusaika ajoittamaton</p>
       <p className="captionStyle">Kansallisgalleria / Sinebrychoffin taidemuseo- CC0 </p>

@@ -167,13 +167,12 @@ const Puhelin1926Page = () => {
       <p>Kaupunkienvälinen yhtiö on oikeutettu harkinnan mukaisesti vaatimaan takuumaksun muodossa etumaksua.</p>
 
       <p className="captionStyle">Etelä-Suomen Kaukopuhelin Osakeyhtiö.</p>
-      <hr></hr>
+      <div className="horizontalRule"></div>
       <ImageSlider imgArray={imageArray} showDots={false} wide={false}></ImageSlider>
       <br></br>
       <p className="captionStyle">Hämeenlinnan kaupunginkirjasto 1926, Hämeenlinnan puhelinosakeyhtiö </p>
-      <hr/>
+      <div className="horizontalRule"></div>
       <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/a055024005299ac22e01e536c059dc7a.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
-      <br/>
     </Layout>
   )
 }

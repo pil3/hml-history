@@ -70,7 +70,7 @@ const MainoksiaPage = () => {
   return (
     <Layout titleText="Mainoksia">
       <ImageSlider imgArray={imageArray1915} showDots={false} wide={false}></ImageSlider>
-      <br></br>
+      <div className="horizontalRule"></div>
       <ImageSlider imgArray={imageArray1927} showDots={false} wide={false}></ImageSlider>
     </Layout>
   )

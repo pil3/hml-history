@@ -22,10 +22,12 @@ const MatkailuopasPage = () => {
       <p className="captionStyle">H:linnan Matkailijayhdistys</p>
       <p className="captionStyle">Hämeenlinna 1915, Arvi A. Karisto</p>
       <p className="captionStyle">Hämeenlinnan Kaupunginkirjasto</p>
+      
+      <div className="horizontalRule"></div>
 
       <h2>Hämeenlinna</h2>
-      <p className="firstLetterStyle">Hämeenlinnan kaupunki sijaitsee Vanajaveden rannalla, Helsingistä Tampereelle kulkevan rautatien varrella.</p>
-      <p>Kaupungin perusti Ruotsin kuningattaren Kristiinan käskystä vuonna 1638 Suomen silloinen kenraalikuvernööri Pietari Brahe niemekkeelle Birger Jaarlin vuonna 1249 
+      <p className="firstLetterStyle">Hämeenlinnan kaupunki sijaitsee Vanajaveden rannalla, Helsingistä Tampereelle kulkevan rautatien varrella. Kaupungin perusti Ruotsin kuningattaren 
+        Kristiinan käskystä vuonna 1638 Suomen silloinen kenraalikuvernööri Pietari Brahe niemekkeelle Birger Jaarlin vuonna 1249 
         rakentaman Ruununporin eli Tavaslborgin linnan pohjoispuolelle. Tammikuun 19 päivänä 1639, antoi Pietari Brahe Hämeenlinnalle, joka alkuaan oli aiottu kauppakaupungiksi 
         sisämaahan, kauppalanoikeudet sekä heinäkuun 4 päivänä 1650 kaupunginoikeudet, jolloin kaupungista, mikä alkuaan oli kuulunut Vanajan seurakuntaan, muodostettiin 
         eri kirkollinen seurakunta.</p>
@@ -339,7 +341,7 @@ const MatkailuopasPage = () => {
         puolella olevaa Ruskeen kärkeä kohden.</p>
       <p>Päästyämme Oitin kärjen ohi sivuutamme tohtori A. V. Blomqvistin omistaman Helkavuoren tilan kauniine huvilan muotoon rakennettuine asuinrakennuksineen Ritvalan harjun länsi rinteellä ja saavumme saman harjun 
         pohjoisessa päässä sijaitsevaan Hakalan taloon, jota aikaisemmin on omistanut ruununvouti Georg Nordenswan.</p>
-      <hr/>
+      <div className="horizontalRule"></div>
       <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/9bec0ea75c19b7e3eab7874300fb11e0.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
     </Layout>
   )
