@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 
 import "../styles/base/global.css"
 
-import imgFrontPage from "../images/content/jail-rules.jpg"
+import imgFrontPage from "../images/content/front-jailrules.jpg"
 
 const JailRulesPage = () => {
   return (

@@ -6,8 +6,7 @@ import Modal from "react-bootstrap/Modal";
 import Image from "react-bootstrap/Image";
 
 import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
-import {ccStyle, 
-        captionContainerStyle,
+import {captionContainerStyle,
         modalHeaderStyle,
         modalTitleStyle,
         modalBodyStyle,
@@ -16,12 +15,13 @@ import {ccStyle,
         iconStyle,
         fsImgStyle
       } from "../styles/components/imageModal.module.css"
+      import "../styles/base/global.css"
 
 import ZoomIn from "../assets/zoom-in.svg"
 import ZoomOut from "../assets/zoom-out.svg"
 import ZoomRst from "../assets/zoom-rst.svg"
 
-const ImageModal = ({imageStyle, imagePath, titleText, detailsText, copyrightText}) => {
+const ImageModal = ({imageStyle, imagePath, titleText, copyrightText}) => {
   const [show, setShow] = React.useState(false);
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
@@ -56,8 +56,7 @@ const ImageModal = ({imageStyle, imagePath, titleText, detailsText, copyrightTex
           </TransformWrapper>
 
           <div className={ captionContainerStyle }>
-            <p>{detailsText}</p>
-            <p className={ ccStyle }>{copyrightText}</p>
+            <p className="copyrightStyle">{copyrightText}</p>
           </div>
         </Modal.Body>
       </Modal>

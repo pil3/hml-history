@@ -59,7 +59,7 @@ const ImageSlider = ({imgArray, showDots, auto, wide}) => {
           imgArray.map(_img => 
             <div>
               <div className={titleStyle}>{_img.title}</div>
-              <ImageModal imageStyle={sliderImgStyle} imagePath={_img.imgSrc} key={_img.key} titleText={_img.title} detailsText={_img.caption} copyrightText={_img.org} ></ImageModal>
+              <ImageModal imageStyle={sliderImgStyle} imagePath={_img.imgSrc} key={_img.key} titleText={_img.title} copyrightText={_img.org} ></ImageModal>
               <div className={sliderCaptionStyle}>{_img.caption}</div>
             </div>
           )

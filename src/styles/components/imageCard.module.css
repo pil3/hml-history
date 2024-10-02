@@ -7,6 +7,12 @@
   background-color: var(--color-bg-light);
   box-shadow: 0px 0px 3px black;
 }
+.titleStyle {
+  font-size: 20px;
+  color: var(--text-dark);
+  font-family: "Inter Light Italic";
+  text-align: center;
+}
 .cardImageStyle {
   display: block;
   max-height: 300px;
@@ -17,11 +23,6 @@
 }
 .cardCaptionStyle {
   padding: 8px 8px 0 8px;
-}
-.copyrightStyle {
-  font-family: "Inter Light Italic";
-  font-size: 0.8em;
-  padding: 0;
 }
 @media screen and (max-width: 768px) {
   .cardContainerStyle {

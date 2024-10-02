@@ -9,16 +9,19 @@ import Dropdown from 'react-bootstrap/Dropdown';
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav';
 
-import { navBarStyle, 
-  logoStyle, 
-  dropDownMenuStyle
+import {  headerContainerStyle,
+          navBarStyle, 
+          logoStyle, 
+          dropDownMenuStyle,
+          ornamentStyle
 } from "../styles/components/header.module.css";
 
 import vaakuna from "../images/hml-vaakuna-old.png" 
+import HeaderOrnament  from "../assets/ornament-header.svg";
 
 const Header = () => {
   return (
-     //<div className={ headerStyle }>
+    <div className={headerContainerStyle}>
         <Navbar expand="md" data-bs-theme="light" className={navBarStyle}>
           <Container fluid="xl">
             <Navbar.Brand href="/" id="headerLogo" title="Logo"><Image placeholder={"blurred"} className={logoStyle} alt="Vaakuna" src={vaakuna} /></Navbar.Brand>
@@ -58,19 +61,25 @@ const Header = () => {
                   <Dropdown.Toggle as={Nav.Link}>Kuvia</Dropdown.Toggle>
                   <Dropdown.Menu className={dropDownMenuStyle}>
                     <Dropdown.Item>
-                      <Link to="/ahvenisto" className="nav-link" activeClassName="active testaus">Ahvenisto</Link> 
+                      <Link to="/ahvenisto" className="nav-link" activeClassName="active">Ahvenisto</Link> 
                     </Dropdown.Item>
                     <Dropdown.Item>
-                      <Link to="/aulanko" className="nav-link" activeClassName="active testaus">Aulanko</Link> 
+                      <Link to="/aulanko" className="nav-link" activeClassName="active">Aulanko</Link> 
+                    </Dropdown.Item>
+                    <Dropdown.Item>
+                      <Link to="/people" className="nav-link" activeClassName="active">Ihmisiä</Link> 
                     </Dropdown.Item>
                   </Dropdown.Menu>
                 </Dropdown>
 
                 <Dropdown as={Nav.Item} >
-                  <Dropdown.Toggle as={Nav.Link}>Leikkeitä</Dropdown.Toggle>
+                  <Dropdown.Toggle as={Nav.Link}>Kalentereita</Dropdown.Toggle>
                   <Dropdown.Menu className={dropDownMenuStyle}>
                     <Dropdown.Item>
                       <Link to="/osoitteita-1887" className="nav-link" activeClassName="active">Osoitteita - 1887</Link> 
+                    </Dropdown.Item>
+                    <Dropdown.Item>
+                      <Link to="/osoitteita-1915" className="nav-link" activeClassName="active">Osoitteita - 1915</Link> 
                     </Dropdown.Item>
                     <Dropdown.Item>
                       <Link to="/osoitteita-1923" className="nav-link" activeClassName="active">Osoitteita - 1923</Link> 
@@ -79,37 +88,37 @@ const Header = () => {
                       <Link to="/osoitteita-1931" className="nav-link" activeClassName="active">Osoitteita - 1931</Link> 
                     </Dropdown.Item>
                     <Dropdown.Item>
+                      <Link to="/puhelinluettelo-1902" className="nav-link" activeClassName="active">Puhelinluettelo - 1902</Link> 
+                    </Dropdown.Item>
+                    <Dropdown.Item>
                       <Link to="/puhelinluettelo-1926" className="nav-link" activeClassName="active">Puhelinluettelo - 1926</Link> 
-                    </Dropdown.Item>
-                    <Dropdown.Item>
-                      <Link to="/sanomalehti" className="nav-link" activeClassName="active">Satunnaisia sanomalehtiä</Link> 
-                    </Dropdown.Item>
-                    <Dropdown.Item>
-                      <Link to="/mainoksia" className="nav-link" activeClassName="active">Mainoksia</Link> 
                     </Dropdown.Item>
                   </Dropdown.Menu>
                 </Dropdown>
 
                 <Dropdown as={Nav.Item} >
-                  <Dropdown.Toggle as={Nav.Link}>Kaavioita</Dropdown.Toggle>
+                  <Dropdown.Toggle as={Nav.Link}>Sekalaisia</Dropdown.Toggle>
                   <Dropdown.Menu className={dropDownMenuStyle}>
-                    <Dropdown.Item>
-                      <Link to="/aikajana" className="nav-link" activeClassName="active">Aikajana</Link> 
-                    </Dropdown.Item>
                     <Dropdown.Item>
                       <Link to="/kartta1778" className="nav-link" activeClassName="active">Kartta 1778</Link> 
                     </Dropdown.Item>
                     <Dropdown.Item>
                       <Link to="/kartta1892" className="nav-link" activeClassName="active">Kartta 1892</Link> 
                     </Dropdown.Item>
+                    <Dropdown.Item>
+                      <Link to="/sanomalehti" className="nav-link" activeClassName="active">Sanomalehtiä</Link> 
+                    </Dropdown.Item>
+                    <Dropdown.Item>
+                      <Link to="/mainoksia" className="nav-link" activeClassName="active">Mainoksia</Link> 
+                    </Dropdown.Item>
                   </Dropdown.Menu>
                 </Dropdown>
-
               </Nav>
             </Navbar.Collapse>
-            </Container>
-        </Navbar>
-     //</div>
+          </Container>
+      </Navbar>
+      <HeaderOrnament className={ornamentStyle}/>
+    </div>
   );
 }
 export default Header

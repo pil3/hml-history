@@ -9,9 +9,10 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 import Container from "react-bootstrap/Container";
 
-import { fullScreen, containerStyle, pageTitleStyle, topLineStyle, titleSvgStyle, topStyle, pageUpStyle, upArrowStyle} from "../styles/components/layout.module.css";
+import { fullScreen, containerStyle, pageTitleStyle, ornamentStyle, titleSvgStyle, topStyle, pageUpStyle, upArrowStyle} from "../styles/components/layout.module.css";
 
 import TitleSvg from "../assets/header-text-white.svg";
+import TitleOrnament  from "../assets/ornament-title.svg";
 import UpArrow from "../assets/icon-up.svg"
 
 const Layout = ({titleText, children}) => {
@@ -24,7 +25,7 @@ const Layout = ({titleText, children}) => {
         <Header />
         <main>
           <h1 className={pageTitleStyle}>{titleText}</h1>
-          <div className={topLineStyle}></div>
+          <TitleOrnament className={ornamentStyle}/>
           {children}
         </main>
       </Container>

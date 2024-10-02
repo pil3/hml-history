@@ -6,7 +6,7 @@ import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
 
-import imgFrontPage from "../images/content/conditions1808-front.jpg"
+import imgFrontPage from "../images/content/front-conditions1808.jpg"
 
 
 const Conditions1809Page = () => {

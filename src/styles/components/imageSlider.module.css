@@ -11,6 +11,7 @@
 }
 .titleStyle {
   font-size: 28px;
+  min-height: 28px;
   color: var(--text-dark);
   font-family: "Inter Light Italic";
   text-align: center;
@@ -46,7 +47,7 @@
   max-height: 500px;
 }
 .sliderCaptionStyle {
-  max-width: 760px;
+  max-width: 700px;
   margin: auto;
   padding: 6px;
   text-align: left;

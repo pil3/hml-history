@@ -6,7 +6,7 @@ import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
 
-import imgFrontPage from "../images/content/school1879-front.jpg"
+import imgFrontPage from "../images/content/front-school1879.jpg"
 import QuoteStart from "../assets/quotation-start.svg"
 import QuoteEnd from "../assets/quotation-end.svg"
 
@@ -20,7 +20,7 @@ const Conditions1809Page = () => {
 
       <p className="captionStyle">Favén, A. E.</p>
       <p className="captionStyle">Hämeenlinnan Kaupunginkirjasto 1879</p>
-
+      <div className="horizontalRule"></div>
       <h2>I</h2>
       <h3>Hämeenlinnan Ensimmäinen Koulu v. 1639—1690.</h3>
       <p className="firstLetterStyle">Birger Jarlin linnan viereen, sille paikalle, missä nykyään sotaväen kasarmit seisovat, pystytettiin aikain kuluessa yksi ihmis-asunto toisen jälkeen, kunnes niistä karttui kokonainen linnakylä, 

@@ -45,10 +45,6 @@
   margin: auto;
   background-color: rgba(20,25,30,0.4);
 }
-.ccStyle {
- font-size: 0.8em; 
- font-family: "Inter Light Italic";
-}
 @media screen and (max-width: 576px) {
   .captionContainerStyle {
     padding: 8px;

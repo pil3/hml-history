@@ -2,23 +2,26 @@ import * as React from "react"
 
 import ImageModal from "./imageModal"
 
-import {cardContainerStyle, cardImageStyle, cardCaptionStyle, copyrightStyle} from "../styles/components/imageCard.module.css"
+import {cardContainerStyle, titleStyle, cardImageStyle, cardCaptionStyle} from "../styles/components/imageCard.module.css"
+
+import "../styles/base/global.css"
 
 
-const ImageCard = ({ imgPath, caption, modalTitle, copyright}) => {
+const ImageCard = ({ imgPath, caption, title, copyright}) => {
 
   return (
     <div className={cardContainerStyle}>
+      <div className={titleStyle}>{title}</div>
       <ImageModal
         imageStyle={cardImageStyle}
         imagePath={imgPath}
-        titleText={modalTitle}
+        titleText={title}
         detailsText=""
         copyrightText={copyright}
       />
       <div className={cardCaptionStyle}>
         {caption}
-        <div className={copyrightStyle}>{copyright}</div>
+        <div className="copyrightStyle">{copyright}</div>
       </div>
     </div>
   );
