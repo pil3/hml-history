@@ -16,7 +16,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://digi.kirjastot.fi/files/fullsize/58532e43ea6f66ae3f409b9faf5ff591.jpg"
-            title="~1890"
+            title="n. 1890"
             copyright="A. Alopaeuksen Kirjakauppa / A. Alopaeus Bokhandel - Hämeenlinnan kaupunginkirjasto"
             caption="Suurten tekolampien kaivaminen aloitettiin Aulangolla talvella 1885. Joutsenlampena tunnettu lampi kaivettiin ensimmäisenä Suvussuo-nimiseen paikkaan, 
               jonka eversti Standertskjöld oli edellisenä kesänä Aulangonvuorella käydessään huomannut lammelle sopivaksi. Lampi kaivettiin miestyövoimalla ja lapioilla, 
@@ -27,7 +27,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
               imgPath="https://digi.kirjastot.fi/files/fullsize/5b05e569bdf6bed82c4788fcdd204343.jpg"
-              title="~1890"
+              title="n. 1890"
               copyright="A. Alopaeuksen Kirjakauppa / A. Alopaeus Bokhandel - Hämeenlinnan kaupunginkirjasto"
               caption="'2nen Joutsenlampi' eli Metsälampi valmistui entisen Linnasuon paikalle Joutsenlammen ja Aulangonjärven väliin jäävälle alueelle 1880-luvun lopulla. 
               Lammen rannalle istutettiin hopeapajua ja rannat kivettiin, samoin kuin vähän aikaisemmin rakennetulla Joutsenlammella. Metsälammen pohjoispäähän rakennettiin 
@@ -40,7 +40,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://digi.kirjastot.fi/files/fullsize/7d45a969f0098260d1a5b5de11247a8e.jpg"
-            title="~1890"
+            title="n. 1890"
             copyright="Julkaistu painettuna: A. Alopaeuksen Kirjakauppa / A. Alopaeus Bokhandel - Hämeenlinnan kaupunginkirjasto"
             caption="Lusikkaniemi on yksi Aulangon tunnetuimmista maamerkeistä ja valokuvatuimmista kohteista. Niemi on saanut nimensä lusikkamaisesta muodostaan, 
               joka Aulangonvuorelta alas katsellessa näkyy selvästi. Tässä postikortissa Lusikkaniemestä on käytetty nimeä Aulangon niemi. Myös Hiidenniemi-nimitys tunnetaan 
@@ -50,7 +50,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://www.finna.fi/Cover/Show?source=Solr&id=spegeln-bildsamlingarna.bildsam_1935_23%3A19&index=0&size=large"
-            title="~1890"
+            title="n. 1890"
             copyright="Åbo Akademin arkistokokoelmat - Lagergrén, Svante (1844-1900), fotograf"
             caption="Karlbergin ja Aulangon omistaja eversti Hugo Standertskjöld alkoi 1880-luvun puolivälissä panna toimeen 'suurenmoisia kaunistustöitä' Karlbergin kartanon seuduilla. 
               Aulangonvuoren huipulle tehtiin uusi tie kartanosta ja rakennettiin kaksi kaunista huvimajaa vuonna 1886. Postikortin kuvassa on toinen näistä huvimajoista. Koristeellisesta 
@@ -63,7 +63,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.140BF9536958B7847C47766A78975E1F&index=0&size=large"
-            title="~1892"
+            title="n. 1892"
             copyright="Museovirasto - Historian kuvakokoelma - Richter, Vivi, kuvaaja"
             caption="Näkymä Aulangon harjulta."
           ></ImageCard>
@@ -74,7 +74,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://digi.kirjastot.fi/files/fullsize/4a48bc1b9b1f41f2f65f0e8ad6deb6e5.jpg"
-            title="~1900"
+            title="n. 1900"
             copyright="Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma) - Hämeenlinnan kaupunginkirjasto"
             caption="Karlbergin ja Aulangon omistaja eversti Hugo Standertskjöld alkoi 1880-luvun puolivälissä panna toimeen 'suurenmoisia kaunistustöitä' Karlbergin kartanon seuduilla. 
               Aulangonvuoren huipulle tehtiin uusi tie kartanosta ja rakennettiin kaksi kaunista huvimajaa vuonna 1886. Postikortin kuvassa on toinen näistä huvimajoista. Koristeellisesta 
@@ -132,7 +132,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://digi.kirjastot.fi/files/fullsize/e6d248e13fd7f82e01b69757d24ab368.jpg"
-            title="~1920"
+            title="n. 1920"
             copyright="Suomalainen kirjakauppa / Hämeenlinna - Hämeenlinnan kaupunginkirjasto"
             caption="Karlbergin kartanon rantapuistossa oli kävelyteiden varsilla penkkejä, joissa saattoi levähtää ja ihailla puiston istutuksia ja muita kaunistuksia, kuten antiikin veistoksia mukailevia 
             kuvapatsaita. 1800-luvun puolella puistoon hankittiin mustia, valurautaisia penkkejä, jotka olivat kasviaihein koristeltuja. Myöhemmin valurautapenkeissä oli puinen istuinosa. Näitä kuvassakin 
@@ -144,7 +144,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://digi.kirjastot.fi/files/fullsize/a113f51ac9a3eface5478564fc6fd9ab.jpg"
-            title="~1925"
+            title="n. 1925"
             copyright="Suomalainen kirjakauppa / Hämeenlinna - Hämeenlinnan kaupunginkirjasto"
             caption="Karlbergin kartanon päärakennuksen pohjoispuolella oli tukimuurilla rajattu pienehkö edustuspiha nurmikenttineen ja kukkaistutuksineen. Tukimuurin alapuolella kasvoi muutamia kuusia, 
             ja kartanon talouspiha alkoi välittömästi pihan vierestä. Eversti Standertskjöld istututti rantaa kiertävän polun varrelle hopeapajurivistön, joka kuvassa myötäilee Aronlahden rantaviivaa. 
@@ -155,7 +155,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://digi.kirjastot.fi/files/fullsize/c1c1a95902e8d330a6901cad06fb3321.jpg"
-            title="~1926"
+            title="n. 1926"
             copyright="Suomalainen kirjakauppa / Hämeenlinna - Hämeenlinnan kaupunginkirjasto"
             caption="Karlbergin kartanon ja Vanajaveden rannan väliin jäävässä puistossa oli edelleen 1920-luvulla hyvinhoidettuja käytäviä, tasaista ruohikkoa ja upeita kukkaistutuksia. Lämpiminä kesäpäivinä 
             saattoi levähtää mukavilla penkeillä puiden alla suojassa auringolta. Etualan pienten ruukkupuiden taakse jää puiston suihkulähde. Hopeapajut reunustavat Vanajaveden rantaviivaa seurailevaa kävelytietä, 
@@ -175,7 +175,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://digi.kirjastot.fi/files/fullsize/38cc26699f48d7320bf54ffe4c32f744.jpg"
-            title="~1920"
+            title="n. 1920"
             copyright="Suomalainen kirjakauppa, Hämeenlinna - Hämeenlinnan kaupunginkirjasto"
             caption="Suunnilleen Karlbergin kartanon päärakennuksen kohdalla Vanajaveden rannassa sijaitsi pieni uimahuone, jonne päästiin kaitein koristeltua siltaa pitkin. Uimahuone oli rakennettu jo 1800-luvun 
             lopulla eversti Standertskjöldin aikana silloisen barokkikartanon edustapuiston rantaan."
@@ -187,7 +187,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://digi.kirjastot.fi/files/fullsize/a38f130c1dd0fcb984a37cd56c83a1aa.jpg"
-            title="~1930"
+            title="n. 1930"
             copyright="Suomen valokuva / Kaarlo Lindberg - Hämeenlinnan kaupunginkirjasto"
             caption="Aulangonvuoren näkötorni ja graniittiset kiviportaat vuoren huipulta alas Karhuluolalle valmistuivat vuonna 1907. Askelmia jyrkkään rinteeseen rakennetussa portaikossa on yhteensä 322, 
             joten pieni levähdystasanne kivisine penkkeineen ja pöytineen oli myös tarpeen."
@@ -196,7 +196,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://digi.kirjastot.fi/files/fullsize/125a5957f4aaa9812dde3b7aa42456f0.jpg"
-            title="~1930"
+            title="n. 1930"
             copyright="Suomalainen kirjakauppa / Hämeenlinna - Hämeenlinnan kaupunginkirjasto"
             caption="Karlbergin kartano puistoineen siirtyi Hämeenlinnan kaupungin omistukseen vuonna 1926. Seuraavana vuonna perustettiin Matkailukeskus Karlberg-Aulanko Oy, jolle kaupunki vuokrasi päärakennuksen 
             ja muutamia sivurakennuksia. Vanhaan päärakennukseen avattiin hotelli-ravintola. Karlbergin päärakennus tuhoutui kuitenkin jo seuraavana vuonna tulipalossa. Samalle paikalle rakennettiin uusi, arkkitehti 
@@ -209,7 +209,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://digi.kirjastot.fi/files/fullsize/4c12b1e2c7696729f07a750ee03d1971.jpg"
-            title="~1930"
+            title="n. 1930"
             copyright="Julkaistu painettuna: Rytkösen kirjakauppa - Hämeenlinnan kaupunginkirjasto"
             caption="Eversti Hugo Standertskjöldin aikana Aulangon puistoon kaivettiin kaksi lampea ja niistä kertyneestä irtomaasta tehtiin Mäntykärkeen Vanajaveden rannan lähelle kaksi tekosaarta. Kuvan vasemmassa 
             reunassa näkyy osa tekosaarille johtavaa siltaa. Tekosaarten kohdalle rakennettiin 1930-luvulla funkkistyylinen kioski. Kioskin lähellä oli uimaranta ja pukeutumiskoppeja uimareita varten. Täällä Mäntykärjen 
@@ -219,7 +219,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://digi.kirjastot.fi/files/fullsize/ed2aafbd41a0f74ee87ae3c10e956c87.jpg"
-            title="~1930"
+            title="n. 1930"
             copyright="Hämeenlinnan kaupunginkirjasto"
             caption="Tammikuussa 1928 tulipalossa tuhoutuneen Karlbergin päärakennuksen paikalle rakennettiin nopeassa tahdissa klassistinen ja hyvin maisemaan sopiva puinen ravintola-hotelli, joka avattiin jo vuoden 
             1928 kesäkuussa. Rakennus oli arkkitehti Matti Välikankaan suunnittelema, samoin kuin kuvassa näkyvä vuonna 1933 valmistunut ravintolan laajennusosa, puolipyöreä ruokasali rakennuksen länsipäässä. Kuvassa 
@@ -233,7 +233,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://digi.kirjastot.fi/files/fullsize/ab60acb9c2dd0334a46ac4d82c45bb83.jpg"
-            title="~1930"
+            title="n. 1930"
             copyright="Suomalainen kirjakauppa / Hämeenlinna - Hämeenlinnan kaupunginkirjasto"
             caption="Aulangon puistometsän länsilaidalla sijaitseva Graniittilinna eli Rauniolinna on rakennettu vuonna 1887. Graniittilinnan piirustukset laati insinööri F. W. von Schultz. Linnarakennelmaan kuuluu kolme tornia, 
             joista yksi on muita korkeampi. Matalampiin torneihin pääsee kiipeämään ulkokautta ja korkeammassa tornissa portaat ovat sisäpuolella. Kun Karlbergin kartanossa oli juhlat, liput liehuivat torneissa ja tervetulolaukaukset 
@@ -243,7 +243,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://digi.kirjastot.fi/files/fullsize/66c26edf9097c39cd02781e9d46e4392.jpg"
-            title="~1930"
+            title="n. 1930"
             copyright="Suomen valokuva / Kaarlo Lindberg - Hämeenlinnan kaupunginkirjasto"
             caption="Hugo Standertskjöldin aikana Karlbergin kartanon päärakennus uudistettiin barokkityyliin. Kesävieraita varten arkkitehti Waldemar Aspelin suunnitteli samaa tyyliä edustavan erillisen Ritarimajan eli 
             Kavaljeerirakennuksen, joka valmistui vuonna 1890. Rakennuksessa oli kahdeksan huonetta, joihin oli kulku keskellä rakennusta sijaitsevasta hallista. Sisäänkäyntiä vartioivat haarniskapukuiset ritarit. 
@@ -255,7 +255,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://digi.kirjastot.fi/files/fullsize/3ed7b92604014ef37c9ba28db10d137a.jpg"
-            title="~1930"
+            title="n. 1930"
             copyright="Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma) - Hämeenlinnan kaupunginkirjasto"
             caption="Karlbergin kartanon päärakennus tuhoutui tulipalossa vuonna 1928. Seuraavana vuonna sen tilalle rakennettiin arkkitehti Martti Välikankaan piirustusten mukaan uusi klassistinen hotelli- ja ravintolarakennus. 
             Rakennuksessa oli 12 huonetta ja suuri pylväiden kannattelema ravintolaterassi julkisivun puolella. Vuonna 1933 ravintolaa jatkettiin rakentamalla sen länsipäähän uusi kaarevanmuotoinen ruokasali, 
@@ -266,7 +266,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://digi.kirjastot.fi/files/fullsize/176e46cf96e88b03defd16d60abf6437.jpg"
-            title="~1930"
+            title="n. 1930"
             copyright="Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma) - Hämeenlinnan kaupunginkirjasto"
             caption="Katajiston kartano on rakennettu 1800-luvun alkupuolella ratsutilan päärakennukseksi. Aulangon perustaja eversti Hugo Standertskjöldin sai kartanon omistukseensa 1880-luvulla. Standertskjöldin aikana 
             rakennuksessa oli lähinnä majoitustiloja everstin vieraille. Katajisto oli matkailijoiden käytössä myös everstin ajan jälkeen. Kartanon toinen kerros tuhoutui tulipalossa talvella 1949. Toista kerrosta ei koskaan 
@@ -278,7 +278,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://digi.kirjastot.fi/files/fullsize/9a409928f17cb984fe14f89f9cc2f7f5.jpg"
-            title="~1933"
+            title="n. 1933"
             copyright="Suomalainen kirjakauppa / Hämeenlinna - Hämeenlinnan kaupunginkirjasto"
             caption="Vuonna 1934 ilmestynyt Hämeenlinnan matkaopas kuvailee Aulangon väliaikaisen ravintolarakennuksen kuistilta avautuvaa näkymää näin: 'Pääravintolan kuistilta aukeaa eteemme ainutlaatuinen näky: 
             suurenmoinen puisto suihkukaivoineen, oikealla loivasti kaartuva, kivetty ranta ja edempänä taustalla Birger Jarlin linna ja sen takana kohoutuva Hämeenlinna. Siinä on näköalan ihanuutta, joka etsii vertojaan.'"
@@ -287,7 +287,7 @@ const AulankoPage = () => {
         <Col sm={12} md={6} className="marginYStyle">
           <ImageCard
             imgPath="https://digi.kirjastot.fi/files/fullsize/0b3c5469823cef7b809e10c260c4309e.jpg"
-            title="~1939"
+            title="n. 1939"
             copyright="Suomalainen kirjakauppa / Hämeenlinna - Hämeenlinnan kaupunginkirjasto"
             caption="Vuonna 1936 Hämeenlinnan kaupunki myi Aulangon hotellin ympäristöineen Suomen Matkailijayhdistykselle, joka perusti yhdessä Oy Alkoholiliike Ab:n ja Suomen Höyrylaiva Oy:n kanssa Aulanko-osakeyhtiön. 
             Uusi yhtiö rakennutti vuonna 1938 uudenaikaisen suurhotellin, jonka suunnittelusta vastasivat arkkitehdit Matti Lampén ja Märta Blomstedt. Hotellin moderni, funktionalistinen arkkitehtuuri herätti paljon kiinnostusta, 

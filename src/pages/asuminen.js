@@ -377,8 +377,8 @@ const HousingConditionsPage = () => {
       <Image className="centeredImageStyle" src={img41} alt="Taulukko 41"/>
       <p>Että tässä kysymyksessä olevat olot ovat viime aikoina parantuneet, sen osoittaa myöskin se seikka, että epäedullisempien asuntojen, s. o. yksihuoneisten asuntojen, lukumäärä varsinaisessa kaupungissa 
         on lisääntynyt sitte v. 1901 ainoastaan 7:llä, mutta huoneen ja keittiön käsittävien asuntojen lukumäärä sitävastoin 83:lla. Myllymäessä tekivät vastaavat numerot 17 ja 90.</p>
-      <p className="imageCaptionStyle">Hämeenlinnassa Tammikuussa 1909</p>
-      <p className="imageCaptionStyle">Viktor Manner</p>
+      <h4>Hämeenlinnassa Tammikuussa 1909</h4>
+      <h4>Viktor Manner</h4>
 
       <div className="horizontalRule"></div>
       <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/f5238f7f5373773db133c01db3f6598a.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>

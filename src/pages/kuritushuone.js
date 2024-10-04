@@ -164,8 +164,8 @@ const JailRulesPage = () => {
       <p className="firstLetterStyle">Jos wanki rikkoo sitä wastaan kuin tässä yllä on säädetty, joutuu hän rangaistukseen, ja on welwollinen palkitsemaan 
         kaiken wahingon kuin hänen kauttansa on syntynyt.</p>
 
-      <p className="imageCaptionStyle">Hämeenlinnan kuritushuoneesta 15 p. Marraskuuta 1877.</p>
-      <p className="imageCaptionStyle">P. A. Brofeldt</p>
+      <h4>Hämeenlinnan kuritushuoneesta 15 p. Marraskuuta 1877.</h4>
+      <h4>P. A. Brofeldt</h4>
       <div className="horizontalRule"></div>
       <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/6fb33012db610211b7cfcb04071180a1.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
     

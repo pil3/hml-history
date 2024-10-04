@@ -15,12 +15,12 @@ module.exports = {
         }
       }
     },
-   /* {
-      resolve: "gatsby-source-filesystem",
-      options: {
-        name: "images",
-        path: "${__dirname}/src/images/",
-      },
-    },*/
-  ],
+  //  {
+  //     resolve: "gatsby-source-filesystem",
+  //     options: {
+  //       name: "fonts",
+  //       path: '${__dirname}/static/fonts/',
+  //     }
+  //   }
+  ]
 };

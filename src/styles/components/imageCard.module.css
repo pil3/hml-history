@@ -1,17 +1,18 @@
 @import "../base/global.css";
 
 .cardContainerStyle{
-  /* padding: 2px 8px 8px 4px; */
   padding: 10px;
   border-radius: 6px;
   background-color: var(--color-bg-light);
   box-shadow: 0px 0px 3px black;
 }
 .titleStyle {
-  font-size: 20px;
+  font-size: 28px;
   color: var(--text-dark);
-  font-family: "Inter Light Italic";
+  font-family: "Ballet";
+  font-weight: bold;
   text-align: center;
+  padding-top: 8px;
 }
 .cardImageStyle {
   display: block;

@@ -1,16 +1,12 @@
 @import "../base/global.css";
 
-.headerContainerStyle {
-  width: calc(100% + 14px);
-}
-
 .navBarStyle {
+  width: calc(100% + 14px);
   margin: 0 0 10px -7px;
-  width: 100%;
   padding: 0;
-  font-size: 24px;
-  /* border-bottom: 8px solid var(--color-bg-dark); */
-  background-color: var(--color-bg);
+  font-size: 26px;
+  border-bottom: 1px solid var(--color-bg-dark);
+  background: linear-gradient(to right, var(--color-bg-shade),  var(--color-bg), var(--color-bg-shade));
   position: sticky;
   z-index: 100;
   top: 0px;
@@ -22,15 +18,9 @@
 .dropDownMenuStyle {
   background-color: var(--color-bg-light);
 }
-.ornamentStyle {
-  display: block;
-  width: 100%;
-  height: auto;
-  margin-top: -10px;
-}
 @media screen and (max-width: 992px) {
   .navBarStyle  {
-    font-size: 22px;
+    font-size: 20px;
   }
   .logoStyle {
     width: 80px;

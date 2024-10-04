@@ -60,7 +60,7 @@ const Puhelin1926Page = () => {
       <Image className="centeredImageStyle" src={imgFrontPage} alt="Etusivu"/>
 
       <h3>HÄMEENLINNAN PUHELINOSAKEYHTIÖN</h3>
-      <p className="imageCaptionStyle">Keskiötä ja johtoja käyttävälle yleisölle huomautetaan, että seuraavat määräykset ovat tarkoin noudatettavat.</p>
+      <h4>Keskiötä ja johtoja käyttävälle yleisölle huomautetaan, että seuraavat määräykset ovat tarkoin noudatettavat.</h4>
       <br/>
       <p>Työn suoritusta koskevat muistutukset tehdään heti tarkastajalle, puhelin 300. Koneessa tai johdossa huomattuja vikoja koskevat muistutukset, samoin tilaukset uusista johdoista ja koneista Puhelinkonttoriin, puhelin 260.</p>
       <p>Keskusaseman henkilökuntaa ei ole viivytettävä millään muilla keskusteluilla, kuin mitä suorastaan yhdistämiseen kuuluu.</p>
@@ -114,14 +114,14 @@ const Puhelin1926Page = () => {
 
       <h3>YLEISIÄ MÄÄRÄYKSIÄ.</h3>
       <h4>KAUPUNKIENVÄLISILLÄ PUHELINJOHDOILLA</h4>
-      <p className="imageCaptionStyle">Puhelumahdollisuudet.</p>
+      <h4>Puhelumahdollisuudet.</h4>
       <p>Puheluja välitetään kaikille paikkakunnille, mihin vaan on teknillisiä mahdollisuuksia, joka riippuu osaksi johtojen pituudesta ja laadusta, osaksi välillä olevien keskusasemien lukumäärästä. Kokemuksen perusteella voidaan suotuisimmassa tapauksessa 
         välittää puhelu korkeintaan viiden keskusaseman kautta, laskettuna tilaajan koneesta vastaanottajan koneeseen.</p>
       
-      <p className="imageCaptionStyle">Välitysaika.</p>
+      <h4>Välitysaika.</h4>
       <p>Kaupunkienvälisen yhtiön johdot pidetään yleisön käytettävissä asianomaisille maaseutukeskusasemille määrättynä aukiolo-aikana.</p>
 
-      <p className="imageCaptionStyle">Puhelujen tilaus.</p>
+      <h4>Puhelujen tilaus.</h4>
       <p>Tilattaessa kaupunkienvälistä puhelua on tilaajan ensin pyydettävä kaukojohto.</p>
       <p>Paikkakunnalla, missä ei ole erityistä kaupunkienvälistä välitysasemaa, on puhelu tilattava paikallisen keskusaseman kautta.</p>
       <p>Tilaajan pyytäessä kaupunkienvälistä puhelua on ilmoitettava halutun keskusaseman nimi minne puhelu tahdotaan. Kun puhelun välittäjä kysyy: »mistä numerosta ja kenelle» on oma ja haluttu numero siksi selvästi ilmoitettava, että vältetään erehdyksiä. 
@@ -129,10 +129,10 @@ const Puhelin1926Page = () => {
       <p>Jos tavallinen puhelu muutetaan pikapuheluksi, käsitellään se puheluja välitettäessä kuten ensi tilaus.</p>
       <p>Puhelut jaetaan virka- ja yksityispuheluihin.</p>
 
-      <p className="imageCaptionStyle">Virkapuhelut.</p>
+      <h4>Virkapuhelut.</h4>
       <p>Virkapuheluoikeus on ainoastaan valtion virastoilla ja viranomaisilla.</p>
 
-      <p className="imageCaptionStyle">Yksityispuhelut.</p>
+      <h4>Yksityispuhelut.</h4>
       <p>Yksityispuhelut jaetaan seuraaviin luokkiin: a) tavalliset puhelut, b) pikapuhelut (kiireellinen puh.) c) erittäin kiireelliset puhelut, d) aikapuhelut, e) henkilöpuhelut, f) sanomalehtipuhelut ja g) etuoikeutetut puhelut määrätyille liikkeille 
         (toiminimille).</p>
 
@@ -146,19 +146,19 @@ const Puhelin1926Page = () => {
       <p><span className="boldStyle">Etuoikeutetut puhelut. </span>Etuoikeutetut puhelut välitetään ennen kiireellisiä puheluja heti virkapuhelujen jälkeen, jotka mahdollisesti ovat tilatut samoilla johdoilla kuin etuoikeutetut pyydetään. Näitä puheluja 
         myönnetään ainoastaan määrätyille toiminimille, jotka Kulkulaitosministeriön päätöksen mukaisesti ovat siihen oikeutettuja.</p>
 
-      <p className="imageCaptionStyle">Puhelun pituus.</p>
+      <h4>Puhelun pituus.</h4>
       <p>Puheluaika lasketaan 3 minuutin sarjoissa. Mikään puhelu ei saa kestää kuin 3 sarjaa eli 9 minuuttia, jos samalle johdolle on samanaikaisesti tilattu toisia puheluja.</p>
       <p>Puhelu sallitaan jatkua huomautuksen jälkeen 20 sek. Jos puhelu kestää 1/2 minuuttia huomautuksen jälkeen, merkitään se puheluajan lisäksi yhdellä sarjalla. Kaupunkienvälinen puhelu katkaisee paikallisen.</p>
 
-      <p className="imageCaptionStyle">Puhelun alku.</p>
+      <h4>Puhelun alku.</h4>
       <p>Puhelun alku lasketaan siitä hetkestä, kun tilaaja on saanut vastaanottokoneesta vastauksen, huomioonottamatta, kuka vastaa.</p>
 
-      <p className="imageCaptionStyle">Maksut.</p>
+      <h4>Maksut.</h4>
       <p>Puhelumaksu lasketaan määrätyn hinnaston mukaan, huomioonottamalla puheluluokka ja puhelun pituus 3 minuutin sarjoissa, joka on joko osaksi eli kokonaan käytetty puheluun.</p>
       <p>Puheluluokat veloitetaan seuraavasti:<br/>Tavallinen puhelu, yksinkertaisella maksulla.<br/>Pika (kiireellinen) puhelu, kaksinkertaisella maksulla.<br/>Erittäin kiireellinen puhelu, kolminkertaisella maksulla.<br/>Aikapuhelu kolminkertaisella maksulla.</p>
       <p>Aika- ja henkilöpuheluista veloitetaan sitäpaitsi erityinen tilausmaksu huomioonottamatta puhelun pituutta. Jos ei haluttua henkilöä tavata veloitetaan ainoastaan henkilötilausmaksu yhdellä markalla.</p>
 
-      <p className="imageCaptionStyle">Maksujen suoritus.</p>
+      <h4>Maksujen suoritus.</h4>
       <p>Puhelumaksuilla veloitetaan sitä tilaajaa, jonka koneesta on puhelu tilattu. Puheluista veloitetaan kun vaan on saatu vastaus vastaanottokoneesta, riippumatta kuka vastaa.</p>
       <p>Jollei puhelua voida välittää, syystä että tilaaja ei puheinaan saadessaan ole läsnä, veloitetaan tilaaja kumminkin yksinkertaisesta yksisarjaisesta puhelusta.</p>
       <p>Tilaajan tulee suorittaa puhelumaksunsa vuosineljänneksittäin eli suuremmilla paikkakunnilla kuukausittain.</p>
