@@ -5,6 +5,8 @@ import ImageSlider from "../components/imageSlider"
 
 import "../styles/base/global.css"
 
+import Divider from "../assets/divider.svg"
+
 import img1915_1 from "../images/content/guide15/ad-1.jpg"
 import img1915_2 from "../images/content/guide15/ad-2.jpg"
 import img1915_3 from "../images/content/guide15/ad-3.jpg"
@@ -70,7 +72,7 @@ const MainoksiaPage = () => {
   return (
     <Layout titleText="Mainoksia">
       <ImageSlider imgArray={imageArray1915} showDots={false} wide={false}></ImageSlider>
-      <div className="horizontalRule"></div>
+      <Divider className="dividerStyle" />
       <ImageSlider imgArray={imageArray1927} showDots={false} wide={false}></ImageSlider>
     </Layout>
   )

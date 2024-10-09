@@ -6,18 +6,18 @@ import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
 
+import Divider from "../assets/divider.svg"
+
 import imgFrontPage from "../images/content/front-conditions1808.jpg"
 
 
 const Conditions1809Page = () => {
   return (
-    <Layout titleText="Hämeenlinnan olosuhteet sotavuosina 1808 - 1909">
-
+    <Layout titleText="Hämeenlinnan olosuhteet sotavuosina 1808-1909">
       <Image className="centeredImageStyle" src={imgFrontPage} alt="Etusivu"/>
-
       <p className="captionStyle">Lindeqvist, K. O.</p>
       <p className="captionStyle">Hämeenlinnan Kaupunginkirjasto 1902</p>
-      <div className="horizontalRule"></div>
+      <Divider className="dividerStyle" />
       <h2>I</h2>
       <p className="firstLetterStyle">Kun venäläinen armeija Helmikuun 21 p:nä v. 1808 hyökkäsi Kymijoen yli Suomeen, ei Suomen puolustusjoukko vähälukuisuutensa vuoksi saattanut ryhtyä ratkaisevaan tappeluun, 
         vaan se peräytyi vihollisen sitä yhä ahdistaissa, ollen kuitenkin matkan varrella pakotettuna ryhtymään pienempiin taisteluihin. Väliaikainen ylipäällikkö Klercker kokosi nyt sotavoimansa Hämeenlinnan 
@@ -278,10 +278,7 @@ const Conditions1809Page = () => {
       <p>Siten oli rauhan aika taas palannut, ja säännöttömät olot ja ylimääräiset rasitukset, joita sota mukanaan oli tuonut, taukosivat; sotaväen osastojen alituinen kulku lakkasi, talonpoikien raskaat transporttimatkat 
         loppuivat, kuriirit eivät enää olleet kestikievareissa rasituksena. Mutta vielä rauhan jälkeenkin jatkui kaupunkilaisilla raskas majoitusvelvollisuus, josta yhtämittaa valituksia kuului, ja muutenkin tarvittiin 
         jonkun verran aikaa, ennenkuin uusiin oloihin voitiin perehtyä.</p>     
-
-      <div className="horizontalRule"></div>
       <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/5b673a6fab93b03a9b02305575df0c1e.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
-
     </Layout>
   )
 }

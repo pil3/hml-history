@@ -4,6 +4,8 @@ import Layout from "../components/layout"
 
 import "../styles/base/global.css"
 
+import Divider from "../assets/divider.svg"
+
 import imgFrontPage from "../images/content/housing/housing-front.jpg"
 import img1 from "../images/content/housing/housing-1.jpg"
 import img2 from "../images/content/housing/housing-2.jpg"
@@ -55,7 +57,7 @@ const HousingConditionsPage = () => {
 
       <p className="captionStyle">Manner, Viktor</p>
       <p className="captionStyle">Hämeenlinnan Kaupunginkirjasto</p>
-      <div className="horizontalRule"></div>
+      <Divider className="dividerStyle" />
 
       <h2>Johdanto</h2>
       <p className="firstLetterStyle">Kaupunkimme terveyshoitolautakunnan päämääränä on, lukuunottamatta terveyshoidollisten olojen silmällä pitämistä ja esiintyvien 
@@ -380,7 +382,6 @@ const HousingConditionsPage = () => {
       <h4>Hämeenlinnassa Tammikuussa 1909</h4>
       <h4>Viktor Manner</h4>
 
-      <div className="horizontalRule"></div>
       <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/f5238f7f5373773db133c01db3f6598a.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
     
     </Layout>

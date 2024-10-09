@@ -2,7 +2,7 @@
 
 .imageContainerStyle {
   position: relative;
-  margin: 0;
+  margin: 16px auto;
 }
 .imgStyle {
   display: block;

@@ -7,7 +7,9 @@ import Image from 'react-bootstrap/Image'
 
 import "../styles/base/global.css"
 
-import imgFrontPage from "../images/content/phonebook1926/frontpage.jpg"
+import Divider from "../assets/divider.svg"
+
+import frontPage from "../images/content/phonebook1926/frontpage.jpg"
 import imgPricing from "../images/content/phonebook1926/countryside-prices.jpg"
 import img1 from "../images/content/phonebook1926/phone-1.jpg"
 import img2 from "../images/content/phonebook1926/phone-2.jpg"
@@ -56,8 +58,8 @@ import img42 from "../images/content/phonebook1926/phone-42.jpg"
 const Puhelin1926Page = () => {
   return (
     <Layout titleText="Puhelinluettelo vuodelta 1926">
-      
-      <Image className="centeredImageStyle" src={imgFrontPage} alt="Etusivu"/>
+      <ImageSlider imgArray={imageArray} showDots={false} wide={false}></ImageSlider>
+      <Divider className="dividerStyle" />
 
       <h3>HÄMEENLINNAN PUHELINOSAKEYHTIÖN</h3>
       <h4>Keskiötä ja johtoja käyttävälle yleisölle huomautetaan, että seuraavat määräykset ovat tarkoin noudatettavat.</h4>
@@ -167,11 +169,9 @@ const Puhelin1926Page = () => {
       <p>Kaupunkienvälinen yhtiö on oikeutettu harkinnan mukaisesti vaatimaan takuumaksun muodossa etumaksua.</p>
 
       <p className="captionStyle">Etelä-Suomen Kaukopuhelin Osakeyhtiö.</p>
-      <div className="horizontalRule"></div>
-      <ImageSlider imgArray={imageArray} showDots={false} wide={false}></ImageSlider>
-      <br></br>
+ 
       <p className="captionStyle">Hämeenlinnan kaupunginkirjasto 1926, Hämeenlinnan puhelinosakeyhtiö </p>
-      <div className="horizontalRule"></div>
+      <br></br>
       <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/a055024005299ac22e01e536c059dc7a.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
     </Layout>
   )
@@ -182,46 +182,47 @@ export const Head = () => <title>Entinen Hämeenlinna - Puhelinluettelo 1926</ti
 export default Puhelin1926Page
 
 const imageArray = [
-  {key: "imageid1", imgSrc: img1, title: "", caption: "1/42", org: ""},
-  {key: "imageid2", imgSrc: img2, title: "", caption: "2/42", org: ""},
-  {key: "imageid3", imgSrc: img3, title: "", caption: "3/42", org: ""},
-  {key: "imageid4", imgSrc: img4, title: "", caption: "4/42", org: ""},
-  {key: "imageid5", imgSrc: img5, title: "", caption: "5/42", org: ""},
-  {key: "imageid6", imgSrc: img6, title: "", caption: "6/42", org: ""},
-  {key: "imageid7", imgSrc: img7, title: "", caption: "7/42", org: ""},
-  {key: "imageid8", imgSrc: img8, title: "", caption: "8/42", org: ""},
-  {key: "imageid9", imgSrc: img9, title: "", caption: "9/42", org: ""},
-  {key: "imageid10", imgSrc: img10, title: "", caption: "10/42", org: ""},
-  {key: "imageid11", imgSrc: img11, title: "", caption: "11/42", org: ""},
-  {key: "imageid12", imgSrc: img12, title: "", caption: "12/42", org: ""},
-  {key: "imageid13", imgSrc: img13, title: "", caption: "13/42", org: ""},
-  {key: "imageid14", imgSrc: img14, title: "", caption: "14/42", org: ""},
-  {key: "imageid15", imgSrc: img15, title: "", caption: "15/42", org: ""},
-  {key: "imageid16", imgSrc: img16, title: "", caption: "16/42", org: ""},
-  {key: "imageid17", imgSrc: img17, title: "", caption: "17/42", org: ""},
-  {key: "imageid18", imgSrc: img18, title: "", caption: "18/42", org: ""},
-  {key: "imageid19", imgSrc: img19, title: "", caption: "19/42", org: ""},
-  {key: "imageid20", imgSrc: img20, title: "", caption: "20/42", org: ""},
-  {key: "imageid21", imgSrc: img21, title: "", caption: "21/42", org: ""},
-  {key: "imageid22", imgSrc: img22, title: "", caption: "22/42", org: ""},
-  {key: "imageid23", imgSrc: img23, title: "", caption: "23/42", org: ""},
-  {key: "imageid24", imgSrc: img24, title: "", caption: "24/42", org: ""},
-  {key: "imageid25", imgSrc: img25, title: "", caption: "25/42", org: ""},
-  {key: "imageid26", imgSrc: img26, title: "", caption: "26/42", org: ""},
-  {key: "imageid27", imgSrc: img27, title: "", caption: "27/42", org: ""},
-  {key: "imageid28", imgSrc: img28, title: "", caption: "28/42", org: ""},
-  {key: "imageid29", imgSrc: img29, title: "", caption: "29/42", org: ""},
-  {key: "imageid30", imgSrc: img30, title: "", caption: "30/42", org: ""},
-  {key: "imageid31", imgSrc: img31, title: "", caption: "31/42", org: ""},
-  {key: "imageid32", imgSrc: img32, title: "", caption: "32/42", org: ""},
-  {key: "imageid33", imgSrc: img33, title: "", caption: "33/42", org: ""},
-  {key: "imageid34", imgSrc: img34, title: "", caption: "34/42", org: ""},
-  {key: "imageid35", imgSrc: img35, title: "", caption: "35/42", org: ""},
-  {key: "imageid36", imgSrc: img36, title: "", caption: "36/42", org: ""},
-  {key: "imageid37", imgSrc: img37, title: "", caption: "37/42", org: ""},
-  {key: "imageid38", imgSrc: img38, title: "", caption: "38/42", org: ""},
-  {key: "imageid39", imgSrc: img39, title: "", caption: "39/42", org: ""},
-  {key: "imageid40", imgSrc: img40, title: "", caption: "40/42", org: ""},
-  {key: "imageid41", imgSrc: img41, title: "", caption: "41/42", org: ""},
-  {key: "imageid42", imgSrc: img42, title: "", caption: "42/42", org: ""}
+  {key: "imageid0", imgSrc: frontPage, title: "", caption: "1/43", org: ""},
+  {key: "imageid1", imgSrc: img1, title: "", caption: "2/43", org: ""},
+  {key: "imageid2", imgSrc: img2, title: "", caption: "3/43", org: ""},
+  {key: "imageid3", imgSrc: img3, title: "", caption: "4/43", org: ""},
+  {key: "imageid4", imgSrc: img4, title: "", caption: "5/43", org: ""},
+  {key: "imageid5", imgSrc: img5, title: "", caption: "6/43", org: ""},
+  {key: "imageid6", imgSrc: img6, title: "", caption: "7/43", org: ""},
+  {key: "imageid7", imgSrc: img7, title: "", caption: "8/43", org: ""},
+  {key: "imageid8", imgSrc: img8, title: "", caption: "9/43", org: ""},
+  {key: "imageid9", imgSrc: img9, title: "", caption: "10/43", org: ""},
+  {key: "imageid10", imgSrc: img10, title: "", caption: "11/43", org: ""},
+  {key: "imageid11", imgSrc: img11, title: "", caption: "12/43", org: ""},
+  {key: "imageid12", imgSrc: img12, title: "", caption: "13/43", org: ""},
+  {key: "imageid13", imgSrc: img13, title: "", caption: "14/43", org: ""},
+  {key: "imageid14", imgSrc: img14, title: "", caption: "15/43", org: ""},
+  {key: "imageid15", imgSrc: img15, title: "", caption: "16/43", org: ""},
+  {key: "imageid16", imgSrc: img16, title: "", caption: "17/43", org: ""},
+  {key: "imageid17", imgSrc: img17, title: "", caption: "18/43", org: ""},
+  {key: "imageid18", imgSrc: img18, title: "", caption: "19/43", org: ""},
+  {key: "imageid19", imgSrc: img19, title: "", caption: "20/43", org: ""},
+  {key: "imageid20", imgSrc: img20, title: "", caption: "21/43", org: ""},
+  {key: "imageid21", imgSrc: img21, title: "", caption: "22/43", org: ""},
+  {key: "imageid22", imgSrc: img22, title: "", caption: "23/43", org: ""},
+  {key: "imageid23", imgSrc: img23, title: "", caption: "24/43", org: ""},
+  {key: "imageid24", imgSrc: img24, title: "", caption: "25/43", org: ""},
+  {key: "imageid25", imgSrc: img25, title: "", caption: "26/43", org: ""},
+  {key: "imageid26", imgSrc: img26, title: "", caption: "27/43", org: ""},
+  {key: "imageid27", imgSrc: img27, title: "", caption: "28/43", org: ""},
+  {key: "imageid28", imgSrc: img28, title: "", caption: "29/43", org: ""},
+  {key: "imageid29", imgSrc: img29, title: "", caption: "30/43", org: ""},
+  {key: "imageid30", imgSrc: img30, title: "", caption: "31/43", org: ""},
+  {key: "imageid31", imgSrc: img31, title: "", caption: "32/43", org: ""},
+  {key: "imageid32", imgSrc: img32, title: "", caption: "33/43", org: ""},
+  {key: "imageid33", imgSrc: img33, title: "", caption: "34/43", org: ""},
+  {key: "imageid34", imgSrc: img34, title: "", caption: "35/43", org: ""},
+  {key: "imageid35", imgSrc: img35, title: "", caption: "36/43", org: ""},
+  {key: "imageid36", imgSrc: img36, title: "", caption: "37/43", org: ""},
+  {key: "imageid37", imgSrc: img37, title: "", caption: "38/43", org: ""},
+  {key: "imageid38", imgSrc: img38, title: "", caption: "39/43", org: ""},
+  {key: "imageid39", imgSrc: img39, title: "", caption: "40/43", org: ""},
+  {key: "imageid40", imgSrc: img40, title: "", caption: "41/43", org: ""},
+  {key: "imageid41", imgSrc: img41, title: "", caption: "42/43", org: ""},
+  {key: "imageid42", imgSrc: img42, title: "", caption: "43/43", org: ""}
 ];

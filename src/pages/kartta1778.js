@@ -15,7 +15,7 @@ const Kartta1778Page = () => {
     <Layout titleText="Ojoisten ja Saaristen latokartanoiden kartta">
       <div className="interTitleStyle">1778</div>
       <ImageModal imagePath={mapImg} imageStyle="centeredImageStyle" titleText="Keskusta-alue vuonna 1778"></ImageModal>
-      <div className="interTitleStyle">1778 vs. 2020</div>   
+      <div className="interTitleStyle">1778 / 2020</div>
       <ImageCompare imgBot={oldImg} imgTop={newImg} altText="Keskusta vuonna 1778 ja nykyään"></ImageCompare>
       <div className="verticalSpacer"></div>
       <p className="firstLetterStyle">Karttaotteessa näkyvät Ojoisten ja Saaristen latokartanoiden eli kruunun virkatalojen maitten omistukset isonjaon jälkeen. Maanjaot ja myöhempien vuosien mittaukset kokosi 

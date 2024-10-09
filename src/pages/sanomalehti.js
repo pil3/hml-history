@@ -5,22 +5,23 @@ import ImageSlider from "../components/imageSlider";
 
 import "../styles/base/global.css"
 
+import Divider from "../assets/divider.svg"
 
 const newsPaperPage = () => {
   return ( 
     <Layout titleText="Satunnaisia sanomalehtiä">
       <ImageSlider imgArray={hameenSanomat1879Array} showDots={true}></ImageSlider>
       <div className="verticalSpacer"></div>
-      <div className="horizontalRule"></div>
+      <Divider className="dividerStyle" />
       <ImageSlider imgArray={hameenSanomat1889Array} showDots={true}></ImageSlider>
       <div className="verticalSpacer"></div>
-      <div className="horizontalRule"></div>
+      <Divider className="dividerStyle" />
       <ImageSlider imgArray={hameenSanomat1899Array} showDots={true}></ImageSlider>
       <div className="verticalSpacer"></div>
-      <div className="horizontalRule"></div>
+      <Divider className="dividerStyle" />
       <ImageSlider imgArray={hameenSanomat1909Array} showDots={true}></ImageSlider>
       <div className="verticalSpacer"></div>
-      <div className="horizontalRule"></div>
+      <Divider className="dividerStyle" />
       <ImageSlider imgArray={hametar1909Array} showDots={true}></ImageSlider>
       <br></br>
     </Layout>

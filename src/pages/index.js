@@ -8,6 +8,7 @@ import Image from 'react-bootstrap/Image';
 
 import QuoteStart from "../assets/quotation-start.svg"
 import QuoteEnd from "../assets/quotation-end.svg"
+import Divider from "../assets/divider.svg"
 
 import "../styles/base/global.css"
 
@@ -18,8 +19,7 @@ const HomePage = () => {
   return ( 
     <Layout titleText="Palasia entisestä Hämeenlinnasta">
       <ImageSlider imgArray={carouselArray} showDots={false} auto={false} wide={true}></ImageSlider>
-      <div className="horizontalRule"></div>
-
+      <Divider className="dividerStyle" />
       <QuoteStart className="symbolStyle"/>
       <p className="firstLetterStyle">
         Noin samaan aikaan kuin Ruotsin mahtava valtiourho Birger Jaarli Bjelbosta päätti rakentaa
@@ -151,7 +151,7 @@ const HomePage = () => {
       <ReadMore buttonText={showMore ? "Näytä vähemmän" : "Näytä enemmän..."} onClick={() => setShowMore(!showMore)}/>
       <QuoteEnd className="symbolStyle"/>
       <p className="copyrightStyle">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan Osoite ja Ilmoitus Kalenteri, 1887 </p>
-      <div className="horizontalRule"></div>
+      <Divider className="dividerStyle" />
       <Image className="centeredImageStyle" src={img1} alt="Maalaus vanhasta Hämeenlinnasta"/>
       <p className="captionStyle">Cordier de Bonneville, Louis-Joseph-Anger, taiteilija - valmistusaika ajoittamaton</p>
       <p className="captionStyle">Kansallisgalleria / Sinebrychoffin taidemuseo- CC0 </p>
@@ -750,5 +750,12 @@ const carouselArray = [
   org: "Museovirasto - Historian kuvakokoelma - Rytkönen, Enok - CC BY 4.0",
   caption: "Raatihuoneenkadun ja Rauhankadun risteys. Puurakennuksesa oli Klepoffin kauppa, jossa Aleksis Kivi kävi myymässä loput Kanervala-teoksestaan, jotka käytettiin lopulta käärepaperina.",
   title: "n. 1910-luku"
+},
+{
+  key: "imageid84",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/d38d26922da9f348a589606b2fea46e9.jpg",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma",
+  caption: "Kuvassa Läntistä viertotietä (nykyinen Turuntie). Myllymäen päällä on vielä mylläri Sirénin vuonna 1883 rakennuttama hollantilaistyylinen tuulimylly, joka purettiin vuonna 1891. Kuivasilta oli pengerretty, joten se kohosi sivuilla olevasta, vesiperäisestä suosta metrin verran.",
+  title: "1880-luku"
 },
 ];

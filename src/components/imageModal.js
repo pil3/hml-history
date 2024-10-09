@@ -6,16 +6,16 @@ import Modal from "react-bootstrap/Modal";
 import Image from "react-bootstrap/Image";
 
 import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
-import {captionContainerStyle,
-        modalHeaderStyle,
+import {modalHeaderStyle,
         modalTitleStyle,
         modalBodyStyle,
         buttonContainerStyle,
         buttonStyle,
         iconStyle,
-        fsImgStyle
+        fsImgStyle,
+        copyRightStyle
       } from "../styles/components/imageModal.module.css"
-      import "../styles/base/global.css"
+import "../styles/base/global.css"
 
 import ZoomIn from "../assets/zoom-in.svg"
 import ZoomOut from "../assets/zoom-out.svg"
@@ -48,16 +48,13 @@ const ImageModal = ({imageStyle, imagePath, titleText, copyrightText}) => {
                   <button className={buttonStyle} onClick={() => zoomOut()} aria-label="Loitonna"><ZoomOut className={iconStyle}/></button>
                   <button className={buttonStyle} onClick={() => resetTransform()} aria-label="Palauta"><ZoomRst className={iconStyle}/></button>
                 </div>
-                <TransformComponent wrapperStyle={{width: "100%", height: "90%", margin: "10px 0"}}>
+                <TransformComponent wrapperStyle={{width: "100%", height: "85%", margin: "10px 0"}}>
                     <Image className={fsImgStyle} src={imagePath} alt="Kuva"/>
                 </TransformComponent>
               </React.Fragment>
             )}
           </TransformWrapper>
-
-          <div className={ captionContainerStyle }>
-            <p className="copyrightStyle">{copyrightText}</p>
-          </div>
+          <div className={copyRightStyle}>{copyrightText}</div>
         </Modal.Body>
       </Modal>
     </>

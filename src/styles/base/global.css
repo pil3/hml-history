@@ -1,13 +1,13 @@
 @font-face {
-  font-family: "Ballet";
-  src: url(/fonts/Ballet-Regular.woff2) format('woff2');
+  font-family: "Special Elite";
+  src: url(/fonts/SpecialElite-Regular.woff2) format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
-  font-family: "Special Elite";
-  src: url(/fonts/SpecialElite-Regular.woff2) format('woff2');
+  font-family: "Canterbury";
+  src: url(/fonts/Canterbury-Regular.woff2) format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -32,19 +32,19 @@ body {
   color: var(--text-dark);
 }
 h2 {
-  font-size: 2em;
+  font-size: 2rem;
   text-align: center;
-  margin: 1em 0 0.5em 0;
+  margin: 20px 0;
 }
 h3 {
   font-size: 1.5em;
   text-align: center;
-  margin: 1em 0 0.5em 0;
+  margin: 20px 0;
 }
 h4 {
   font-size: 1.2em;
   text-align: center;
-  margin: 1em 0 0.5em 0;
+  margin: 16px 0 8px 0;
 }
 
 /* Text styles
@@ -68,45 +68,30 @@ h4 {
 }
 .hyperLinkStyle {
   font-family: "Special Elite";
-  font-size: 0.8em;
+  font-size: 0.8rem;
   color: darkblue;
 }
 .infoStyle {
   font-family: "Special Elite";
-  font-size: 0.8em;
+  font-size: 0.8rem;
 }
 .copyrightStyle {
   font-family: "Special Elite";
-  font-size: 0.7em;
+  font-size: 0.7rem;
+  text-align: center;
 }
 .interTitleStyle {
   position: relative;
-  margin: 24px auto 8px auto;
+  margin: 24px 0;
+  padding: 8px 0;
   text-align: center;
-  font-size: 30px;
+  font-size: 32px;
   color: var(--text-dark);
-  font-family: "Ballet", serif;
-  font-weight: bold;
-}
-.interTitleStyle::before {
-  content:" ";
-  display: block;
-  height: 2px;
-  width: calc(50% - 75px);
-  position: absolute;
-  top: 50%;
-  left: 0;
-  background-image: linear-gradient(to left, var(--color-bg),  var(--color-bg-dark));
-}
-.interTitleStyle:after {
-  content:" ";
-  height: 2px;
-  width: calc(50% - 75px);
-  background-image: linear-gradient(to right, var(--color-bg),  var(--color-bg-dark));
-  display: block;
-  position: absolute;
-  top: 50%;
-  right: 0;
+  font-family: "Canterbury", serif;
+  background-image: url("../../images/divider.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 /* Other styles
 ----------------------------------------------------------------------------------------------------- */
@@ -121,7 +106,6 @@ h4 {
 }
 .symbolStyle {
   display: block;
-  width: 40px;
   height: 40px;
   margin: 4px auto;
 }
@@ -132,22 +116,23 @@ h4 {
   box-shadow: 2px 2px 4px black;
   border-radius: 8px;
 }
-.horizontalRule {
-  height: 2px;
-  margin: 16px 0;
-  background-image: linear-gradient(to right, var(--color-bg),  var(--color-bg-dark), var(--color-bg));
+.dividerStyle {
+  display: block;
+  width: 80%;
+  height: auto;
+  margin: 16px auto;
+  opacity: 0.8;
 }
-/* Media sizes
------------------------------------------------------------------------------------------------------ */
 
 @media screen and (max-width: 576px) {
-  .interTitleStyle::before {
-    width: 30%;
-  }
-  .interTitleStyle::after {
-    width: 30%;
+  .interTitleStyle {
+    font-size: 26px;
+    margin: 8px 0;
   }
 }
+
+
+
 
 
 

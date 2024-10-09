@@ -3,8 +3,6 @@ import * as React from "react"
 import Layout from "../components/layout"
 import ImageSlider from "../components/imageSlider"
 
-import Image from 'react-bootstrap/Image'
-
 import "../styles/base/global.css"
 
 import frontPage from "../images/content/address1923/front.jpg"
@@ -66,12 +64,10 @@ import img53 from "../images/content/address1923/addr-53.jpg"
 const Osoitteita1923Page = () => {
   return (
     <Layout titleText="Osoitteita vuodelta 1923">
-      <Image className="centeredImageStyle" src={frontPage} alt="Etusivu"/>
-      <div className="horizontalRule"></div>
       <ImageSlider imgArray={imageArray} showDots={false} wide={false}></ImageSlider>
       <br></br>
       <p className="captionStyle">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan osote-kalenteri, 1923-1924 </p>
-      <div className="horizontalRule"></div>
+      <br></br>
       <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/97dec9a4e859cf2719c5b529de25cd91.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
     </Layout>
   )
@@ -81,57 +77,58 @@ export const Head = () => <title>Entinen Hämeenlinna - Osoitteita 1923</title> 
 export default Osoitteita1923Page
 
 const imageArray = [
-  {key: "imageid1", imgSrc: img1, title: "", caption: "1/53", org: ""},
-  {key: "imageid2", imgSrc: img2, title: "", caption: "2/53", org: ""},
-  {key: "imageid3", imgSrc: img3, title: "", caption: "3/53", org: ""},
-  {key: "imageid4", imgSrc: img4, title: "", caption: "4/53", org: ""},
-  {key: "imageid5", imgSrc: img5, title: "", caption: "5/53", org: ""},
-  {key: "imageid6", imgSrc: img6, title: "", caption: "6/53", org: ""},
-  {key: "imageid7", imgSrc: img7, title: "", caption: "7/53", org: ""},
-  {key: "imageid8", imgSrc: img8, title: "", caption: "8/53", org: ""},
-  {key: "imageid9", imgSrc: img9, title: "", caption: "9/53", org: ""},
-  {key: "imageid10", imgSrc: img10, title: "", caption: "10/53", org: ""},
-  {key: "imageid11", imgSrc: img11, title: "", caption: "11/53", org: ""},
-  {key: "imageid12", imgSrc: img12, title: "", caption: "12/53", org: ""},
-  {key: "imageid13", imgSrc: img13, title: "", caption: "13/53", org: ""},
-  {key: "imageid14", imgSrc: img14, title: "", caption: "14/53", org: ""},
-  {key: "imageid15", imgSrc: img15, title: "", caption: "15/53", org: ""},
-  {key: "imageid16", imgSrc: img16, title: "", caption: "16/53", org: ""},
-  {key: "imageid17", imgSrc: img17, title: "", caption: "17/53", org: ""},
-  {key: "imageid18", imgSrc: img18, title: "", caption: "18/53", org: ""},
-  {key: "imageid19", imgSrc: img19, title: "", caption: "19/53", org: ""},
-  {key: "imageid20", imgSrc: img20, title: "", caption: "20/53", org: ""},
-  {key: "imageid21", imgSrc: img21, title: "", caption: "21/53", org: ""},
-  {key: "imageid22", imgSrc: img22, title: "", caption: "22/53", org: ""},
-  {key: "imageid23", imgSrc: img23, title: "", caption: "23/53", org: ""},
-  {key: "imageid24", imgSrc: img24, title: "", caption: "24/53", org: ""},
-  {key: "imageid25", imgSrc: img25, title: "", caption: "25/53", org: ""},
-  {key: "imageid26", imgSrc: img26, title: "", caption: "26/53", org: ""},
-  {key: "imageid27", imgSrc: img27, title: "", caption: "27/53", org: ""},
-  {key: "imageid28", imgSrc: img28, title: "", caption: "28/53", org: ""},
-  {key: "imageid29", imgSrc: img29, title: "", caption: "29/53", org: ""},
-  {key: "imageid30", imgSrc: img30, title: "", caption: "30/53", org: ""},
-  {key: "imageid31", imgSrc: img31, title: "", caption: "31/53", org: ""},
-  {key: "imageid32", imgSrc: img32, title: "", caption: "32/53", org: ""},
-  {key: "imageid33", imgSrc: img33, title: "", caption: "33/53", org: ""},
-  {key: "imageid34", imgSrc: img34, title: "", caption: "34/53", org: ""},
-  {key: "imageid35", imgSrc: img35, title: "", caption: "35/53", org: ""},
-  {key: "imageid36", imgSrc: img36, title: "", caption: "36/53", org: ""},
-  {key: "imageid37", imgSrc: img37, title: "", caption: "37/53", org: ""},
-  {key: "imageid38", imgSrc: img38, title: "", caption: "38/53", org: ""},
-  {key: "imageid39", imgSrc: img39, title: "", caption: "39/53", org: ""},
-  {key: "imageid40", imgSrc: img40, title: "", caption: "40/53", org: ""},
-  {key: "imageid41", imgSrc: img41, title: "", caption: "41/53", org: ""},
-  {key: "imageid42", imgSrc: img42, title: "", caption: "42/53", org: ""},
-  {key: "imageid43", imgSrc: img43, title: "", caption: "43/53", org: ""},
-  {key: "imageid44", imgSrc: img44, title: "", caption: "44/53", org: ""},
-  {key: "imageid45", imgSrc: img45, title: "", caption: "45/53", org: ""},
-  {key: "imageid46", imgSrc: img46, title: "", caption: "46/53", org: ""},
-  {key: "imageid47", imgSrc: img47, title: "", caption: "47/53", org: ""},
-  {key: "imageid48", imgSrc: img48, title: "", caption: "48/53", org: ""},
-  {key: "imageid49", imgSrc: img49, title: "", caption: "49/53", org: ""},
-  {key: "imageid50", imgSrc: img50, title: "", caption: "50/53", org: ""},
-  {key: "imageid51", imgSrc: img51, title: "", caption: "51/53", org: ""},
-  {key: "imageid52", imgSrc: img52, title: "", caption: "52/53", org: ""},
-  {key: "imageid53", imgSrc: img53, title: "", caption: "53/53", org: ""}
+  {key: "imageid0", imgSrc: frontPage, title: "", caption: "1/54", org: ""},
+  {key: "imageid1", imgSrc: img1, title: "", caption: "2/54", org: ""},
+  {key: "imageid2", imgSrc: img2, title: "", caption: "3/54", org: ""},
+  {key: "imageid3", imgSrc: img3, title: "", caption: "4/54", org: ""},
+  {key: "imageid4", imgSrc: img4, title: "", caption: "5/54", org: ""},
+  {key: "imageid5", imgSrc: img5, title: "", caption: "6/54", org: ""},
+  {key: "imageid6", imgSrc: img6, title: "", caption: "7/54", org: ""},
+  {key: "imageid7", imgSrc: img7, title: "", caption: "8/54", org: ""},
+  {key: "imageid8", imgSrc: img8, title: "", caption: "9/54", org: ""},
+  {key: "imageid9", imgSrc: img9, title: "", caption: "10/54", org: ""},
+  {key: "imageid10", imgSrc: img10, title: "", caption: "11/54", org: ""},
+  {key: "imageid11", imgSrc: img11, title: "", caption: "12/54", org: ""},
+  {key: "imageid12", imgSrc: img12, title: "", caption: "13/54", org: ""},
+  {key: "imageid13", imgSrc: img13, title: "", caption: "14/54", org: ""},
+  {key: "imageid14", imgSrc: img14, title: "", caption: "15/54", org: ""},
+  {key: "imageid15", imgSrc: img15, title: "", caption: "16/54", org: ""},
+  {key: "imageid16", imgSrc: img16, title: "", caption: "17/54", org: ""},
+  {key: "imageid17", imgSrc: img17, title: "", caption: "18/54", org: ""},
+  {key: "imageid18", imgSrc: img18, title: "", caption: "19/54", org: ""},
+  {key: "imageid19", imgSrc: img19, title: "", caption: "20/54", org: ""},
+  {key: "imageid20", imgSrc: img20, title: "", caption: "21/54", org: ""},
+  {key: "imageid21", imgSrc: img21, title: "", caption: "22/54", org: ""},
+  {key: "imageid22", imgSrc: img22, title: "", caption: "23/54", org: ""},
+  {key: "imageid23", imgSrc: img23, title: "", caption: "24/54", org: ""},
+  {key: "imageid24", imgSrc: img24, title: "", caption: "25/54", org: ""},
+  {key: "imageid25", imgSrc: img25, title: "", caption: "26/54", org: ""},
+  {key: "imageid26", imgSrc: img26, title: "", caption: "27/54", org: ""},
+  {key: "imageid27", imgSrc: img27, title: "", caption: "28/54", org: ""},
+  {key: "imageid28", imgSrc: img28, title: "", caption: "29/54", org: ""},
+  {key: "imageid29", imgSrc: img29, title: "", caption: "30/54", org: ""},
+  {key: "imageid30", imgSrc: img30, title: "", caption: "31/54", org: ""},
+  {key: "imageid31", imgSrc: img31, title: "", caption: "32/54", org: ""},
+  {key: "imageid32", imgSrc: img32, title: "", caption: "33/54", org: ""},
+  {key: "imageid33", imgSrc: img33, title: "", caption: "34/54", org: ""},
+  {key: "imageid34", imgSrc: img34, title: "", caption: "35/54", org: ""},
+  {key: "imageid35", imgSrc: img35, title: "", caption: "36/54", org: ""},
+  {key: "imageid36", imgSrc: img36, title: "", caption: "37/54", org: ""},
+  {key: "imageid37", imgSrc: img37, title: "", caption: "38/54", org: ""},
+  {key: "imageid38", imgSrc: img38, title: "", caption: "39/54", org: ""},
+  {key: "imageid39", imgSrc: img39, title: "", caption: "40/54", org: ""},
+  {key: "imageid40", imgSrc: img40, title: "", caption: "41/54", org: ""},
+  {key: "imageid41", imgSrc: img41, title: "", caption: "42/54", org: ""},
+  {key: "imageid42", imgSrc: img42, title: "", caption: "43/54", org: ""},
+  {key: "imageid43", imgSrc: img43, title: "", caption: "44/54", org: ""},
+  {key: "imageid44", imgSrc: img44, title: "", caption: "45/54", org: ""},
+  {key: "imageid45", imgSrc: img45, title: "", caption: "46/54", org: ""},
+  {key: "imageid46", imgSrc: img46, title: "", caption: "47/54", org: ""},
+  {key: "imageid47", imgSrc: img47, title: "", caption: "48/54", org: ""},
+  {key: "imageid48", imgSrc: img48, title: "", caption: "49/54", org: ""},
+  {key: "imageid49", imgSrc: img49, title: "", caption: "50/54", org: ""},
+  {key: "imageid50", imgSrc: img50, title: "", caption: "51/54", org: ""},
+  {key: "imageid51", imgSrc: img51, title: "", caption: "52/54", org: ""},
+  {key: "imageid52", imgSrc: img52, title: "", caption: "53/54", org: ""},
+  {key: "imageid53", imgSrc: img53, title: "", caption: "54/54", org: ""}
 ];

@@ -9,10 +9,8 @@
 .titleStyle {
   font-size: 28px;
   color: var(--text-dark);
-  font-family: "Ballet";
-  font-weight: bold;
+  font-family: "Canterbury";
   text-align: center;
-  padding-top: 8px;
 }
 .cardImageStyle {
   display: block;

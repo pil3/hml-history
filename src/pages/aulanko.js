@@ -93,7 +93,17 @@ const AulankoPage = () => {
             rannassa. Muut kuvan rakennukset on purettu"
           ></ImageCard>
         </Col>
-      </Row>    
+      </Row>
+      <Row>
+        <Col sm={12} md={6} className="marginYStyle">
+          <ImageCard
+            imgPath="https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.7204726B4606AF8F7D43039CCC3D52B1&index=0&size=large"
+            title="1909"
+            copyright="Museovirasto - M. L. Carstensin kokoelma - CC BY 4.0"
+            caption="Karlbergin kartanon tiluksia. Taustalla talousrakennuksia ja kartano."
+          ></ImageCard>
+        </Col>
+      </Row>
       <div className="interTitleStyle">1910-luku</div>
       <Row>
         <Col sm={12} md={6} className="marginYStyle">
@@ -294,6 +304,16 @@ const AulankoPage = () => {
             myös ulkomailla. Hotellirakennus ja sen sisustus oli suunniteltu kokonaistaideteokseksi huonekaluja, tekstiileitä ja astioita myöten. Hotellihuoneita uudessa päärakennuksessa oli 56, ja niissä oli yhteensä 83 vuodepaikkaa. 
             Jokaisella huoneella oli oma parveke, josta aukeni kaunis näköala kohti Vanajavettä. Ravintolasaliin mahtui kerralla jopa 760 ruokailijaa, ja ravintolaan liittyi myös laaja ulkoterassi. Hotellin huippukoneistetut 
             keittiötilat ja leipomo edustivat alan uusinta tekniikkaa. Aulanko olikin aikoinaan todellinen loistohotelli, jossa lomailu oli mahdollista vain varakkaammalle väelle."
+          ></ImageCard>
+        </Col>
+      </Row>
+      <Row>
+        <Col sm={12} md={6} className="marginYStyle">
+          <ImageCard
+            imgPath="https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.056CDCE7659A30E9B5B399B8D6B24D2A&index=0&size=large"
+            title="1939"
+            copyright="Museovirasto - Historian kuvakokoelma - Pietinen, Otso, kuvaaja - CC BY 4.0"
+            caption="Märta Blomstedtin ja Matti Lampénin suunnittelema, vuonna 1938 valmistunut Hotelli Aulangon päärakennus."
           ></ImageCard>
         </Col>
       </Row>

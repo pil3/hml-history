@@ -14,21 +14,21 @@
 }
 .pageTitleStyle {
   font-size: 56px;
+  line-height: 1;
   color: black;
-  font-family: "Ballet", serif;
+  font-family: "Canterbury", serif;
   font-optical-sizing: auto;
-  font-weight: bold;
   text-align: center;
-  padding-top: 8px;
   text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.6);
+  margin: -8px 0;
+  padding: 8px 0;
 }
 .titleStyle {
   background-color: var(--color-bg-dark);
-  padding: 8px 0 0 0;
-  color: white;
+  color: var(--color-bg-light);
   text-align: center;
-  font-family: "Ballet";
-  font-size: 60px;
+  font-family: "Canterbury";
+  font-size: 58px;
 }
 .ornamentStyle {
   display: block;
@@ -51,10 +51,30 @@
 .upArrowStyle:hover {
   opacity: 1.0;
 }
+.horizontalRule {
+  height: 2px;
+  margin: 16px 0;
+  background-image: linear-gradient(to right, var(--color-bg),  var(--color-bg-dark), var(--color-bg));
+}
+.contactFieldStyle {
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+  width: 100%;
+  background-color: black;
+  padding: 0 6px 6px 6px;
+}
+.contactFieldStyle span {
+  font-family: "Canterbury";
+  color: var(--text-light);
+  align-self: flex-end;
+  opacity: 0.8;
+}
+.logoStyle {
+  height: 100%;
+  width: auto;
+}
 @media screen and (max-width: 768px) {
-  .titleStyle {
-    font-size: 50px;
-  }
   .pageTitleStyle {
     font-size: 40px;
     text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.6);

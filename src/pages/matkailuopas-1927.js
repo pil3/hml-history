@@ -6,6 +6,8 @@ import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
 
+import Divider from "../assets/divider.svg"
+
 import imgFrontPage from "../images/content/guide27/frontpage.jpg"
 import img1 from "../images/content/guide27/img-1.jpg"
 import img2 from "../images/content/guide27/img-2.jpg"
@@ -38,7 +40,7 @@ const MatkailuopasPage = () => {
       <p className="captionStyle">Hämeenlinna 1927, Arvi A. Karisto osakeyhtiön kirjapaino</p>
       <p className="captionStyle">Hämeenlinnan Kaupunginkirjasto</p>
 
-      <div className="horizontalRule"></div>
+      <Divider className="dividerStyle" />
       
       <h2>Hämeen linna ja vanha kaupunki</h2>
       <p className="firstLetterStyle">Hämeen linna sijaitsee Vanajaveden rannalla, Helsingistä Tampereelle vievän rautatien varrella. Sen
@@ -659,7 +661,6 @@ const MatkailuopasPage = () => {
         Tyrvännön reitti kääntyy Ruskeenkärjen vastapäätä olevan kallioisen Vanajaniemen kohdalta oikealle, sivuuttaa kauniin Puisniemen kärjen ja kulkee siitä kapean 
         salmen kautta, jonka rannoilla sijaitsee huviloita, Suotaalan kylään. Kylän läheisyydessä on Tyrvännön puukirkko (v. 1803). Reitin varrella ovat edelleen Siukolan, 
         Retulan, Monaalan ja Mälkiäisten laiturit. Reitti loppuu Hakalan talon kohdalla.</p>
-      <div className="horizontalRule"></div>
       <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/d2f951bf18d0a4e7bef22331d4525422.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
     </Layout>
   )

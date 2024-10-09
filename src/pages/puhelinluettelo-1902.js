@@ -44,11 +44,10 @@ import img34 from "../images/content/phonebook1902/phone-34.jpg"
 const Puhelin1902Page = () => {
   return (
     <Layout titleText="Puhelinluettelo vuodelta 1902">
-
       <ImageSlider imgArray={imageArray} showDots={false} wide={false}></ImageSlider>
       <br></br>
       <p className="captionStyle">Hämeenlinnan kaupunginkirjasto 1902, Telefooni luettelo Hämeenlinnan kaupungista ja sen ympäristöstä.</p>
-      <div className="horizontalRule"></div>
+      <br></br>
       <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/c259ddc92fdab82be816aad497c27765.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
     </Layout>
   )

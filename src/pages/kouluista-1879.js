@@ -9,8 +9,7 @@ import "../styles/base/global.css"
 import imgFrontPage from "../images/content/front-school1879.jpg"
 import QuoteStart from "../assets/quotation-start.svg"
 import QuoteEnd from "../assets/quotation-end.svg"
-
-
+import Divider from "../assets/divider.svg"
 
 const Conditions1809Page = () => {
   return (
@@ -20,7 +19,7 @@ const Conditions1809Page = () => {
 
       <p className="captionStyle">Favén, A. E.</p>
       <p className="captionStyle">Hämeenlinnan Kaupunginkirjasto 1879</p>
-      <div className="horizontalRule"></div>
+      <Divider className="dividerStyle" />
       <h2>I</h2>
       <h3>Hämeenlinnan Ensimmäinen Koulu v. 1639—1690.</h3>
       <p className="firstLetterStyle">Birger Jarlin linnan viereen, sille paikalle, missä nykyään sotaväen kasarmit seisovat, pystytettiin aikain kuluessa yksi ihmis-asunto toisen jälkeen, kunnes niistä karttui kokonainen linnakylä, 
@@ -412,10 +411,10 @@ const Conditions1809Page = () => {
       <p>Tuomioprovasti J. A. Edman, Professori A. G. Sjöström, Valtioneuvos Fredr. Cygnaeus, Kansakoulujen Ylitarkastaja U. Cygnaeus, Professori K. S. Sirelius, Kunnallisneuvos A. Meurman.</p>
 
 
-
+      <Divider className="dividerStyle" />
       <p className="infoStyle">Anders Emil (Antti) Favén (1841-1913) oli Hämeenlinnan normaalilyseon ja lyseon historian ja maantieteen opettaja, joka toimi myös lyseon rehtorina ja kansakoulujen 
         tarkastajana. Favén oli myös Hämeen Sanomien alkuperäinen nimimerkki Antti.</p>
-        <div className="horizontalRule"></div>
+
       <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/693a20485a37e67054e5cbfdad4455f4.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
     
     </Layout>

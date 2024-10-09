@@ -5,6 +5,7 @@ import Layout from "../components/layout"
 import "../styles/base/global.css"
 
 import imgFrontPage from "../images/content/front-jailrules.jpg"
+import Divider from "../assets/divider.svg"
 
 const JailRulesPage = () => {
   return (
@@ -15,7 +16,7 @@ const JailRulesPage = () => {
       <p className="captionStyle">Brofeldt, P. A.</p>
       <p className="captionStyle">Hämeenlinna 1877, A. W. Lingrenin kirjapaino</p>
       <p className="captionStyle">Hämeenlinnan Kaupunginkirjasto</p>
-      <div className="horizontalRule"></div>
+      <Divider className="dividerStyle" />
 
       <h2>1 § </h2>
       <p className="firstLetterStyle">Wangit owat rangaistus-ajaksensa menettäneet wapautensa; heidän tulee karttaa kaikkea oman mielensä waltaa ja tahtonsa noudattamista sekä
@@ -163,10 +164,10 @@ const JailRulesPage = () => {
       <h2>20 § </h2>
       <p className="firstLetterStyle">Jos wanki rikkoo sitä wastaan kuin tässä yllä on säädetty, joutuu hän rangaistukseen, ja on welwollinen palkitsemaan 
         kaiken wahingon kuin hänen kauttansa on syntynyt.</p>
-
+      
       <h4>Hämeenlinnan kuritushuoneesta 15 p. Marraskuuta 1877.</h4>
       <h4>P. A. Brofeldt</h4>
-      <div className="horizontalRule"></div>
+
       <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/6fb33012db610211b7cfcb04071180a1.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
     
     </Layout>
