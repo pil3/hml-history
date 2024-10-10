@@ -21,6 +21,8 @@ const ImageCard = ({ imgPath, caption, title, copyright}) => {
       />
       <div className={cardCaptionStyle}>
         {caption}
+        <br></br>
+        <br></br>
         <div className="copyrightStyle">{copyright}</div>
       </div>
     </div>
