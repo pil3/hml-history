@@ -10,6 +10,13 @@ const AulankoPage = () => {
     <Layout titleText="Kuvia Aulangolta">
       <div className="interTitleStyle">1890-luku</div>
       <ImageCard
+        imgPath="https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.EA21A3DAC0F61DB0FC589EB508AAF748&index=0&size=large"
+        title="1890"
+        copyright="Museovirasto - Historian kuvakokoelma - Lagergrén, Svante, kuvaaja - CC BY 4.0"
+        caption="Karlbergin kartanon päärakennukseen tehtiin 1890-luvulla muutoksia torneilla ja ulokkeilla. Kartanon omistaja eversti Hugo Standerskjöld teki suuria muutoksia 
+          myös rakennuttamalla kartanon maille puistoja ja lampia. Päärakennus tuhoutui tulipalossa vuonna 1928."
+      ></ImageCard>
+      <ImageCard
         imgPath="https://digi.kirjastot.fi/files/fullsize/58532e43ea6f66ae3f409b9faf5ff591.jpg"
         title="n. 1890"
         copyright="A. Alopaeuksen Kirjakauppa / A. Alopaeus Bokhandel - Hämeenlinnan kaupunginkirjasto"

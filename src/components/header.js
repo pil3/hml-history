@@ -54,9 +54,6 @@ const Header = () => {
               <Dropdown.Toggle as={Nav.Link}>Kuvia</Dropdown.Toggle>
               <Dropdown.Menu className={dropDownMenuStyle}>
                 <Dropdown.Item>
-                  <Link to="/ahvenisto" className="nav-link" activeClassName="active">Ahvenisto</Link> 
-                </Dropdown.Item>
-                <Dropdown.Item>
                   <Link to="/aulanko" className="nav-link" activeClassName="active">Aulanko</Link> 
                 </Dropdown.Item>
                 <Dropdown.Item>
@@ -97,6 +94,9 @@ const Header = () => {
                 </Dropdown.Item>
                 <Dropdown.Item>
                   <Link to="/kartta1892" className="nav-link" activeClassName="active">Kartta 1892</Link> 
+                </Dropdown.Item>
+                <Dropdown.Item>
+                  <Link to="/hasa1924" className="nav-link" activeClassName="active">HäSa 15.10.1924</Link> 
                 </Dropdown.Item>
                 <Dropdown.Item>
                   <Link to="/sanomalehti" className="nav-link" activeClassName="active">Sanomalehtiä</Link> 

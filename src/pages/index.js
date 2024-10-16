@@ -162,6 +162,7 @@ export const Head = () => (
   <>
     <html lang="fi" />
     <title>Entinen Hämeenlinna - Etusivu</title>
+    <meta name="description" content="Valokuvia ja tekstejä Hämeenlinnan historiasta." />
   </>
 )
 export default HomePage;
@@ -757,5 +758,33 @@ const carouselArray = [
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma",
   caption: "Kuvassa Läntistä viertotietä (nykyinen Turuntie). Myllymäen päällä on vielä mylläri Sirénin vuonna 1883 rakennuttama hollantilaistyylinen tuulimylly, joka purettiin vuonna 1891. Kuivasilta oli pengerretty, joten se kohosi sivuilla olevasta, vesiperäisestä suosta metrin verran.",
   title: "1880-luku"
+},
+{
+  key: "imageid85",
+  imgSrc: "https://museovirasto.finna.fi/Cover/Show?source=Solr&id=museovirasto.FDC66BB3BB46DD308CC86282CEA47048&index=0&size=large",
+  org: "Museovirasto - Historian kuvakokoelma - M. L. Carstensin kokoelma - CC BY 4.0",
+  caption: "Hämeenlinnan venäläinen varuskuntakirkko eli Pyhien Nikolaoksen ja Aleksanteri Nevskin kirkon peruskivi laskettiin 1898. Kirkkoon suhtauduttiin paikallisten keskuudessa vihamielisesti jo alun perinkin ja lopulta venäläisten sotilaiden lähdettyä sen tornit kaadettiin ja sisustus purettiin 2.5.1923.",
+  title: "1909"
+},
+{
+  key: "imageid86",
+  imgSrc: "https://museovirasto.finna.fi/Cover/Show?source=Solr&id=museovirasto.4ACF1E37A457016B2418581E5722E090&index=0&size=large",
+  org: "Museovirasto - Historian kuvakokoelma - Nyblin Daniel, kuvaaja - CC BY 4.0",
+  caption: "Vuosina 1878-1909 käytössä olleen puusillan kestävyyttä epäiltiin alusta asti. Sitä ei saanut ajaa hevosella kuin käyden ja sotaväen oli marssittava 'sekajaloin', ei tahdissa.",
+  title: "1893"
+},
+{
+  key: "imageid87",
+  imgSrc: "https://museovirasto.finna.fi/Cover/Show?source=Solr&id=museovirasto.03ED54CBBD8B3A3F4B30C0FAF7FED770&index=0&size=large",
+  org: "Museovirasto - Historian kuvakokoelma - Veljekset Karhumäki, kuvaaja - CC BY 4.0",
+  caption: "Lentäjäveljekset Niilo, Valto ja Uuno rakensivat Jyväskylän maalaiskunnan Keljossa 1920-luvulla neljä lentokonetta: Karhu 1, Karhu 2, Karhu 3 ja Tiira. Harrastus laajeni pian ilmailualan yritykseksi, jonka toimintaan kuuluivat 1930-luvulla lentokoulutus, yleisölennätykset, lentokoneiden korjaus ja ilmavalokuvaus sekä tilauslennot.",
+  title: "1930"
+},
+{
+  key: "imageid88",
+  imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.B3444B2827581A63DD1E80908DCE1144&index=0&size=large",
+  org: "Museovirasto - Historian kuvakokoelma - Saxelin, Carl Otto, kuvaaja - CC BY 4.0",
+  caption: "Hämeenlinnan palokunnantalon vihkiäiset. Palokunnantalo valmistui VPK:n rakentamana 1893 silloisen Rantatorin varteen VPK:n juhlataloksi. Talossa toimi vuosien 1924-1984 aikana Hämeenlinnan vakinainen palokunta.",
+  title: "1893"
 },
 ];

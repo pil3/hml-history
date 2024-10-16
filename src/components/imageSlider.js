@@ -23,6 +23,7 @@ import "../styles/base/global.css"
 const ImageSlider = ({imgArray, showDots, auto, wide}) => {
 
   let sliderRef = React.useRef(null);
+
   const next = () => {
     sliderRef.slickNext();
   };
@@ -56,11 +57,12 @@ const ImageSlider = ({imgArray, showDots, auto, wide}) => {
       </div>
       <Slider ref={slider => {sliderRef = slider}}{...settings}>
         {
-          imgArray.map(_img => 
+          imgArray.map((_img, index) => 
             <div>
               <div className={titleStyle}>{_img.title}</div>
               <ImageModal imageStyle={sliderImgStyle} imagePath={_img.imgSrc} key={_img.key} titleText={_img.title} copyrightText={_img.org} ></ImageModal>
               <div className={sliderCaptionStyle}>{_img.caption}</div>
+              <div className="captionStyle">{index + 1} / {imgArray.length}</div>
             </div>
           )
         }

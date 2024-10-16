@@ -36,6 +36,15 @@ const PeoplePage = () => {
           hallitsemistapansa aiheutti lopulta vakavan konfliktin aateliston kanssa, ja häntä vastaan syntyi salaliitto, joka johti hänen murhaansa. Kuningas Kustaa III suhtautui suopeasti Hämeenlinnan kaupunkiin, jossa hän vieraili peräti neljästi. Hämeenlinnassa hän muun muassa 
           korjautti pahoin rapistuneen linnan ja siirrätti kaupungin nykyiselle paikalleen."
       ></ImageCard>
+        <ImageCard
+        imgPath="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Otto_Carl_Rehbinder.tif/lossy-page1-335px-Otto_Carl_Rehbinder.tif.jpg?20231004134427"
+        title="Otto Rehbinder"
+        copyright="Finnish Heritage Agency, CC BY 4.0, via Wikimedia Commons"
+        caption="Otto Carl Rehbinder syntyi 27. huhtikuuta 1797 Rautalammella ja kuoli 13. tammikuuta 1873 Hämeenlinnassa. Hän oli suomalainen salaneuvos, Venäjän armeijan eversti ja Hämeen läänin kuvernööri (1841-1862). Tarmokkaaksi ja velvollisuudentuntoiseksi uudistajaksi osoittautunutta 
+        kuvernööri Rehbinderiä pidetään ehkä merkittävimpänä Hämeessä 1800-luvulla toimineista läänin päämiehistä. Erityistä kiinnostusta hän osoitti köyhäinhoidon parantamista, raittiuden edistämistä ja luonnonsuojelua kohtaan, ja hän puuttui usein henkilökohtaisesti havaitsemiinsa epäkohtiin. 
+        Residenssikaupunkiinsa Hämeenlinnaan Rehbinder jätti pysyvän jäljen rakennuttamalla vankityövoimalla karusta ja kallioisesta Pyövelinmäestä viehättävän Kaupunginpuiston eli Parkin, joka edelleen on kaupungin suosituimpia ulkoilualueita. 
+        Rehbinderin hautamuistomerkki sijaitsee Hämeenlinnan vanhalla hautausmaalla."
+      ></ImageCard>
       <ImageCard
         imgPath="https://upload.wikimedia.org/wikipedia/commons/3/3c/Uno_Cygnaeus2.jpg"
         title="Uno Cygnaeus"
@@ -101,7 +110,7 @@ const PeoplePage = () => {
         copyright="Elsa Roschier, Public domain, via Wikimedia Commons"
         caption="Eino Leino syntyi 6.heinäkuuta 1878 Paltamossa ja kuoli 10. tammikuuta 1926 Hyvinkäällä. Hän oli suomalainen kirjailija, lehtimies ja kriitikko. Leinon laaja ja monipuolinen kirjallinen tuotanto sisältää runoutta, romaaneja, näytelmiä, esseitä ja lehtipakinoita 
         sekä suomennoksia ulkomaisesta kirjallisuudesta. Leino luetaan Suomen merkittävimpiin kirjailijoihin. Sekä hänen lyriikkansa että aaterunonsa ovat vuosikymmenestä toiseen pysyneet laajojen lukijapiirien suosiossa. Käytyään Kajaanin alkeiskoulua ja Oulun suomalaista lyseota 
-        Leino siirtyi veljensä, toimittaja Oskar Lönnbohmin luokse Hämeenlinnaan, jossa hän valmistui 16-vuotiaana ylioppilaaksi 1895."
+        Leino siirtyi veljensä, toimittaja Oskar Lönnbohmin luokse Hämeenlinnaan, missä hän valmistui 16-vuotiaana ylioppilaaksi 1895."
       ></ImageCard>
       <ImageCard
         imgPath="https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.98193D379BADCE89F9B699B1206B96E3&index=0&size=large"
