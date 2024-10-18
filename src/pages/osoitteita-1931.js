@@ -108,7 +108,7 @@ const Osoitteita1931Page = () => {
       <br></br>
       <p className="captionStyle">Hämeenlinnan kaupunginkirjasto, Hämeenlinnan osote-kalenteri, 1931-1932 </p>
       <br></br>
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/8a033502580f3ce2fc4272106a6097e4.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
+      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/8a033502580f3ce2fc4272106a6097e4.pdf">Linkki alkuperäiseen dokumenttiin</a>
     </Layout>
   )
 }

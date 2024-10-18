@@ -172,7 +172,7 @@ const Puhelin1926Page = () => {
  
       <p className="captionStyle">Hämeenlinnan kaupunginkirjasto 1926, Hämeenlinnan puhelinosakeyhtiö </p>
       <br></br>
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/a055024005299ac22e01e536c059dc7a.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
+      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/a055024005299ac22e01e536c059dc7a.pdf">Linkki alkuperäiseen dokumenttiin</a>
     </Layout>
   )
 }

@@ -99,6 +99,9 @@ const Header = () => {
                   <Link to="/hasa1924" className="nav-link" activeClassName="active">HäSa 15.10.1924</Link> 
                 </Dropdown.Item>
                 <Dropdown.Item>
+                  <Link to="/lukijoilta1924" className="nav-link" activeClassName="active">Yleisönosasto, 1924</Link> 
+                </Dropdown.Item>
+                <Dropdown.Item>
                   <Link to="/sanomalehti" className="nav-link" activeClassName="active">Sanomalehtiä</Link> 
                 </Dropdown.Item>
                 <Dropdown.Item>

@@ -382,7 +382,7 @@ const HousingConditionsPage = () => {
       <h4>Hämeenlinnassa Tammikuussa 1909</h4>
       <h4>Viktor Manner</h4>
 
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/f5238f7f5373773db133c01db3f6598a.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
+      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/f5238f7f5373773db133c01db3f6598a.pdf">Linkki alkuperäiseen dokumenttiin</a>
     
     </Layout>
   )

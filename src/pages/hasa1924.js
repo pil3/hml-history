@@ -2,18 +2,20 @@ import * as React from "react"
 
 import Layout from "../components/layout"
 
+import Image from "react-bootstrap/Image"
+
 import "../styles/base/global.css"
 
 import Divider from "../assets/divider.svg"
 import SubDivider from "../assets/sub-divider.svg"
+import img1 from "../images/content/hasa1924/img-1.jpg"
 
 
 const Hasa1924Page = () => {
   return (
     <Layout titleText="Hämeen Sanomat 15.10.1924">
-      <h1>Hämeen Sanomat</h1>
-      <h3>Suomenmielinen, kansanvaltainen sanomalehti</h3>
-      <h4>Keskiviikkona lokakuun 15 p:nä</h4>
+      <h2>Keskiviikkona, lokakuun 15. päivänä vuonna 1924</h2>
+      <h3>Valikoituja artikkeleita</h3>
       <Divider className="dividerStyle" />
       <div className="grid">
         <article>
@@ -96,6 +98,8 @@ const Hasa1924Page = () => {
           <h3>Kaupunkikuntain dollarilaina</h3>
           <p>New Yorkista saapuneen sähkösanomatiedon mukaan on kaupunkikuntain lainamäärä siellä maksettu Suomen Pankin tilille</p>
           <p>Eri kaupunkien osuudet on lauantaina maksettu kaikille niille, jotka owat maksumääräyksensä Suomen Pankille lähettäneet.</p>
+          <SubDivider className="dividerStyle" />
+          <Image className="centeredImageStyle" src={img1} alt="Teatteri Panu"/>
         </article>
         <article>
           <h3>Kunnalliswaalit Etelä-Hämeessä</h3>
@@ -119,13 +123,102 @@ const Hasa1924Page = () => {
             Yhtymä, Soppi, Wuorimaa, Kotila, Reunala, Käänne, Koiwu, Mäki, Kari, Anttila, Junala, Puistola, Wilppula, Särmä, Ollikkala, Tienreuna, Sawipakka, Niinimaa, Saarimaa, Tipula, Onnila, Aura, Werhola, Päiwälä, Rajamaa, Suolehto, 
             Wähämäki, Kulma, Simola, Yrjölä, Siniaho, Koiwisto, Laaksola, Leino, Peltola, Ernestilä, Wälimaa, Wiita, Franssila, Luhtala, Radansiwu, Niemelä ja Tyynelä.</p>
         </article>
+        <article>
+          <h3>Talo- ja omaisuusweronkanto Hämeenlinnassa</h3>
+          <h4>Maksettawa t.k 23-25 pnä.</h4>
+          <p>W:lta 1923 suoritettavan tulo- ja omaisuusweron kanto Hämeenlinnassa toimitetaan lääninrahastossa seuraavassa järjestyksessä:</p>
+          <p>Lokakuun 23 pnä suorittavat weronsa ne, joiden sukunimi alkaa kirjaimilla A-K, lokakuun 24pnä kirjaimilla K-P ja lokakuun 25 pnä kirjaimilla P-Ö. Kannot toimitetaan päiwällä klo 1-4</p>
+          <p>Samalla ilmoitetaan, että weromäärät owat suoritettawat sillä uhalla, että werot heti kannon jälkeen peritään ulosottoteitse, jolloin werowelwollisen, joka on jättänyt weronsa kantotilaisuudessa suorittamatta, tulee maksaa 
+            lisäweroa markan sadalta ja sen osalta kuukaudelta.</p>
+        </article>
+        <article>
+          <h3>Oppiwelwollisuuden täytäntöönpano</h3>
+          <h4>Kouluhallitus wahwistanut Wanajan kunnan kunnanwaltuuston täytäntöönpanosuunnitelman.</h4>
+          <p>Kouluhallitus on nyttemmin wahwistanut Wanajan kunnan kunnanwaltuuston laatiman oppiwelwollisuuden täytäntöönpanosuunnitelman. Pääpiirteissään on nyt hywäksytty suunnitelma seuraawa piirittäin tarkastettuna:</p>
+          <p><span className="boldStyle">Harwialan</span> piiri: Piirissä on täydellinen kansakoulu kahdelle yläkoulun ja yhdelle alakoulun opettajalle, joka alkoi toimintansa syksyllä 1923 toimien kansakoululla. Oppiwelwollisuus astuu täyteen woimaan syksyllä 1924, jolloin myös 
+            jatko-opetus pannaan toimeen.</p>
+          <p><span className="boldStyle">Heinäjoen</span> piirissä on täydellinen kansakoulu yhdelle ylä- ja yhdelle alakoulun opettajalle. Alakoulu perustetaan piiriin w. 1934, jolloin oppiwelwollisuus piirissä astuu täyteen woimaan sekä myös jatko-opetus pannaan toimeen. 
+            Oppiwelwollisia lapsia on piirissä 32 ylä- ja 12 alakouluikäisiä.</p>
+          <p><span className="boldStyle">Kankaantaustan</span> piirissä on täydellinen kansakoulu kahdelle ylä- ja yhdelle alakoulun opettajalle. Piirin alakansakoulu alkaa toimintansa 1924 ja oppiwelwollisuus astuu täydellisenä woimaan w. 1925. 
+            Oppiwelwollisia lapsia on piirissä 72 ylä- ja 29 alakouluikäisiä.</p>
+          <p><span className="boldStyle">Kankaisten</span> piiriin tulee täydellinen kansakoulu yhdelle ylä- ja yhdelle alakoulun opettajalle. Näiden walmistumiseen asti w. 1928 käywät piirin oppiwelwolliset lapset. 23 ylä- ja 18 alakouluikäistä, Ruununmyllyn 
+            koulussa. Oppiwelwollisuus astuu täydellisenä woimaan piirissä w. 1930.</p>
+          <p><span className="boldStyle">Kirkonkylän</span> piirissä on täydellinen kansakoulu yhdelle ylä- ja yhdelle alakoulun opettajalle. Alakoulu, nykyään yhteisenä Ruununmyllyn piirin kanssa, alkaa itsenäisenä toimintansa w. 1930, jota seuraawana wuonna oppiwelwollisuus 
+            astuu täyteen woimaan. Oppiwelwollisia lapsia on piirissä 42 ylä- ja 11 alakouluikäisiä.</p>
+          <p><span className="boldStyle">Kirrin</span> piiriin tulee supistettu kansakoulu yhdellä opettajalla. Koulurakennuksia ei wielä ole, waan käywät lapset toistaiseksi muissa koulupiireissä. Kansakoulu perustetaan oppiwelwollisten luwun piirissä rittäwän w. 1931 
+            ja oppiwelwollisuus astuu täydellisenä woimaan w. 1936. Kouluikäisiä lapsia on piirissä 12 ylä- ja 4 alakouluikäisiä.</p>
+          <p><span className="boldStyle">Luolajan</span> piirissä on täydellinen kansakoulu yhdelle ylä- ja yhdelle alakoulun opettajalle, ollen se sijoitettuna wuokrahuoneisiin, kunnes lainmukaiset rakennukset ylä- ja alakoulua warten walmistuwat syksyllä w. 1924, jolloin alakoulu 
+            aloittaa toimintansa omassa huoneistossa. Oppiwelwollisuus astuu täyteen woimaan w. 1925. Oppiwelwollisia piirissä 45 ylä- ja 20 alakouluikäistä.</p>
+          <p><span className="boldStyle">Joki-Mallinkaisten</span> piiriin tulee täydellinen kansakoulu yhteisesti Janakkalan kunnan kanssa, walmistuen koulutalo w. 1926, jolloin oppiwelwollisuus astuu täydellisenä woimaan. Oppiwelwollisia 11 ylä- ja 5 alakouluikäistä.</p>
+          <p><span className="boldStyle">Miemalan</span> piirissä on täydellinen kansakoulu yhdelle ylä- ja yhdelle alakoulun opettajalle. Oppiwelwollisuus astuu täyteen woimaan w. 1936. Oppiwelwollisia 30 ylä- ja 8 alakouluikäistä.</p>
+          <p><span className="boldStyle">Rastilan</span> piiriin tulee supistettu kansakoulu yhdellä opettajalla. Alakansakoulu wuokrahuoneisiin sijoitettuna alkaa 1926. Oppiwelwollisuus astuu täyteen woimaan w. 1936. Oppiwelwollisia 18 ylä- ja alakouluikäisiä.</p>
+          <p><span className="boldStyle">Ruununmyllyn</span> piirissä on täydellinen koulu kahdelle ylä- ja yhdelle alakoulun opettajalle. Oppiwelwollisuus astuu täydellisenä woimaan w. 1925. Oppiwelwollisia piirissä 62 ylä- ja 28 alakouluikäisiä.</p>
+        </article>
+        <article>
+          <h3>Riihimäen - Hämeenlinnan wälinen rautatieliikenne</h3>
+          <h4>Parannukset liikennesuhteissa olisiwat toiwottawat.</h4>
+          <p>Riih. San. kirjoittawat:</p>
+          <p>Riihimäen-Hämeenlinnan wälisen rautatieliikenteen wilkastuttamisen hywäksi on puhuttu ja sanoin kirjoitettu siksi paljon, että lienee turhaa samasta asiasta enää mitään hiiskua.</p>
+          <p>Mutta sittenkin on siitä puhuttawa niinkauan, että siihen parannus saadaan aikaan.</p>
+          <p>Pääkaupungin läheistä junaliikennettä täytyy kaukaisemman maalaisasukkaan kademielin ajatella. Siellähän tulee ja menee junia joka minuutin wäliajalla, harwentuakseen heti muutamien asemien päästä Helsingistä. Ja kuitenkin olisi samanlainen paikallisjunien kulku Hämeenlinnaan ja 
+            ehkä Tampereellekin saakka aiwan wälttämätön ja ajan pakottamana tuleekin sellaiseksi, waikka wielä toistaiseksi saadaan kuuroille korwille saarnata.</p>
+          <p>Kaupanteko lähimpien liikekeskuksien kanssa edellyttää wilkkaampaa junayhteyttä. Työwäki samoin asuu jo paljon maaseudulla käydessään työssä liikekeskuksissa ja kaupungeissa. Koululaiset täyttäwät aamuin illoin waunuja, jos waan woisiwat kotonaan käydä. Mutta nykyisen järjestelmän 
+            wallitessa on tämä kulku mahdotonta. Saawat waan maksaa kalliita kortteereja tahi jäädä koulusta pois. Helsingin koulut sitäwastoin owat tupaten täynnä, kun ympäristöltä on sopiva junankulun wuoksi koulua käydä.</p>
+          <p>Riihimäesta pääsewät wasta myöhään illalla pohjoisen puolen koululaiset kotiinsa ja niin myöhään ei enää kannata lähteä. Täytyy warata kortteeripaikka.</p>
+          <p>Maaseutulaiset eiwät turhaan napise pääkaupunkia wastaan, sen mukawuuksista kun niin hellästti huolehditaan. Mutta juuri maaseutu saa tyytyä mihin waan.</p>
+          <p>Ei saata olla sanomatta, waikka kiwikkoon sanat putoilewatkin, sitäkin kuwaawaa seikkaa, että walaistuksenkin rautatien asemilla pitää olla kurjempi etäämmillä seuduilla pääkaupungista. Esim. Ryttylän asemalla on kituutettu tähän saakka ja luultawasti sata wuotta eteenpäinkin öljywalolla, 
+            waikka yleensä kaikissa waltion laitoksissa on sähköwalo. Se on liikenteen kiusana ja sen laitoksen häpeänä, joka liikettä hoitaa, mutta annetaan olla waan, kun se on maaseutua, kunhan pääkaupungin asemalla waan on monen sadan kynttilän sähköwalot loistamassa.</p>
+          <SubDivider className="dividerStyle" />
+          <h3>Hämeenlinnan piirin kansakoulut</h3>
+          <p><span className="boldStyle">William Ruthin</span> kaswatusapurahat on kouluhallitus julistanut haettawaksi tämän lokakuun kuluessa. Apurahoja owat oikeutetut saamaan kansakoulun opettajien ja opettajien leskien lapset, jotka käywät joko oppikoulua tai jotain ammattilaiskoulua. 
+            Hakemukset owat tämän kuun aikana jätettäwät asianomaiselle kansakoulun tarkastajalle, jolta saa lähempiä tietoja.</p>
+            <p><span className="boldStyle">Opettajawaalit.</span> Lammin kunnan Neroskulman yläkansakoulun opettajaksi on walittu opettajatar Anna Sawolainen.</p>
+        </article>
+        <article>
+          <h3>Pyrkimys Mommilan yhdistämisestä Hausjärween</h3>
+          <h4>Kirkonkokous Lammilla.</h4>
+          <p>Lammin eteläkulma Mommila on ryhtynyt toimenpiteisiin saadakseen alueensa kirkollisessa ja kunnallisessa y.m. suhteessa siirretyksi Hausjärween. Tampereen tuomiokapitulin määräämänä piti Hämeenlinnan kappalainen, kirkkoherra H. A. Autero wiime sunnuntaina t.k. 12 pnä kirkonkokouksen Lammin 
+            kirkossa eroanomuksen johdosta. Kun Mommilan seudun seurakunnallinen hoito on järjestetty mahdollisimman hywin siten, että Lammin papit käywät siellä kerran kuussa pitämässä jumalanpalweluksia suorittaen samalla kirkollisia toimituksia ja Mommilaan palkattu saarnaaja pitää muina sunnuntai- 
+            ja juhlapäiwinä jumalanpalwelukset sekä rippikouluoppilaatkin saawat alkuwalmistuksen saarnaajalta, wastustettiin eropyyntöä yksimieliesti.</p>
+          <p>Samanlainen kirkonkokous tulee pidettäwäksi myös Hausjärwellä.</p>
+        </article>
+        <article>
+          <h3>Riihimäen elintarwejuttu</h3>
+          <h4>Howioikens kumonnut kihlakunnanoikenden päätöksen.</h4>
+          <p>Kuten aikaisemmin on kerrottu, waati tilanomistaja Gestrin Riihimäeltä aikanaan Riihimäen elintarwelautakunnalta takaisin niille lainaamiaan 15,000 mk., jotka kapinatalwella oli käytetty juuston ostamiseen. Hausjärwen n.m. pitäjäin käräjillä kanne kumottiin, koska laina oli myönnetty 
+            kapinallisille. Kantajan asiamies waratuomari Hyrkki ilmoitti heti tyytymättömyyttä ja onkin howioikeus tällä wiikolla antamallaan päätöksellä kumonnut hra Hyrkin Hämeelle antaman tiedon mukaan, kihlakunnanoikeuden päätöksen, määräten mainitut 15,000 mk. hra Gestrinille maksettawiksi 
+            sekä lisäksi korot ja kuluja 1,500 mk.Howioikeuden päätöksen pääasiallisin peruste on se, että mainitut warat joka tapauksessa on tullut käytetyksi Riihimäen asukkaitten rawitsemiseksi.</p>
+        </article>
+        <article>
+          <h3>Suuria wiinatakawarikkoja</h3>
+          <p>Mikäli F. L. on saanut kuulla, on Pusulassa Ikkalan kylässä wiime wiikolla tehty suuria wiinatakawarikkoja. Wiime wiikon maanantai-iltana takawarikoiwat poliisit maantiellä erään helsinkiläisen wuokra-auton, jossa oli pirtua 300 litraa. Wiinat kuluiwat jollekin Jokioisten miehelle ja joutuiwat 
+            ne waltiolle samoinkuin autokin. Torstai-iltana otettiin samoin kiinni muuan auto, jossa oli spriitä 350 litraa. Wiinat kuuluiwat jollekin somerolaiselle trokarille ja auto Salolaiselle. Samana iltana pidätettiin myös erään Kiikalan miehen hewonen ja takawarikoitiin kärryiltä 190 litraa pirtua. 
+            Mikäli on ilmoitettu, wirtaa Pusulan läwitse nykyään suuria määriä pirtua, josta osoituksena on tämäkin wiikkosaalis: 2 autoa, hewonen kärryineen ja 840 litraa spriitä.</p>
+          <SubDivider className="dividerStyle" />
+          <h3>Sunnuntaina raaka werityö Sortawalassa</h3>
+          <p>Wiime sunnuntaina tapahtui Sortawalassa Keskuskahwilan nurkkauksella raaka werityö, jolloin eräs spriikauppias H. Karwinen sai keuhkopussiin ulottuwan puukonhaawan. Kuolema seurasi hetken kuluttua. Riita oli aiheutunut wiina-asioista. Murhaaja pidätettiin.</p>
+        </article>
+        <article>
+          <h3>Werityöt yhä lisääntywät</h3>
+          <h4>Kaksi raakaa murhaa Kotkassa lauantaina. Wäkijuomilla aina osansa tihutöihin.</h4>
+          <p>Wiime lauantai-iltana tapahtui Kotkassa kaksi raakaa werityötä jotka kumpikin aiheuttiwat ihmishengen hukan. Tapahtumista ilmoitetaan: Klo 10 tienoissa lauantai-iltana oliwat joutomies Arwid Reiman ja maanwiljelijä Alfred Marttila jostain syystä riitaantuneet, mistä seurauksena oli, että edellämainittu iski punkolla useita kertoja 
+            Narttilaa. Puukotettu wietiin heti murhapaikalta kaupungin sairaalaan, missä hän kuitenkin jo noin puolen tunnin kuluttua heitti henkensä. Puukottaja on syntynyt 1898 ja on ennestään hywin tuttu poliisille. Marttila oli syntynyt Pyhtäällä 1889. </p>
+          <p>Pari tuntia myöhemmin, klo 12 tienoissa, tapahtui toinen werityö. Mainittuun aikaan ampui työmies Wäinö Jaakko Ihamäki, kotoisin Kauhawalta, kolme pistoolinlaukausta metallityömies Elis Mattssonia kohti. Ammuttu wietiin heti sairaalaan, mutta kuoli siellä lyhyen ajan kuluttua, Kummassakin tapauksessa on wäkijuomilla osansa. </p>
+        </article>
+        <article>
+          <h3>Yleisöltä</h3>
+          <h4>N.s. Peltokadun täyttö.</h4>
+          <p>Kuten tunnettua johtaa Myllymäen 'torilta' wanhalle hautausmaalle Peltokatu. Tätä katua ei nykyään kuitenkaan pidetä awoinna liikenteelle waan on henkilöiden, joiden on tätä tietä kuljettawa suunnattawa matkansa joko liiankin wilkasliikkeistä Läntistä Wiertotietä myöten tai sitten oikaistawa 
+            Alasen kaupunginosan länsipuolella olewien wiljelysmaiden kautta siten turmellen näitä wiljelyksiä. Eikö siis olisi syytä awata liikenteelle siltä nykyään suljettu Peltokatu, jota myöden ihmiset taas mukawammin woisiwat kulkea kuin Läntistä Wiertotietä tai peltoja pitkin.</p>
+          <p className="captionStyle">Eräs tientarwitsija</p>
+        </article>
 
       </div>
 
       <br></br>
       <p className="captionStyle">Kansalliskirjaston digitaaliset aineistot</p>
       <br></br>
-      <a className="hyperLinkStyle" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389249?page=1">Linkki alkuperäiseen dokumenttiin (pdf)</a>
+      <a className="hyperLinkStyle" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389249?page=1">Linkki alkuperäiseen dokumenttiin</a>
     </Layout>
   )
 }

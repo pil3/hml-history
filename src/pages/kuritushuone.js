@@ -168,7 +168,7 @@ const JailRulesPage = () => {
       <h4>Hämeenlinnan kuritushuoneesta 15 p. Marraskuuta 1877.</h4>
       <h4>P. A. Brofeldt</h4>
 
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/6fb33012db610211b7cfcb04071180a1.pdf">Linkki alkuperäiseen dokumenttiin (pdf)</a>
+      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/6fb33012db610211b7cfcb04071180a1.pdf">Linkki alkuperäiseen dokumenttiin</a>
     
     </Layout>
   )
