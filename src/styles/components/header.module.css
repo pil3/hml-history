@@ -19,9 +19,6 @@
 .logoStyle:active {
   filter: none;
 }
-.dropDownMenuStyle {
-  background-color: var(--color-bg-light);
-}
 @media screen and (max-width: 768px) {
   .navBarStyle {
     background-image: url("../../images/headerImage.jpg");

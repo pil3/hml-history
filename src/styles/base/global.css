@@ -50,7 +50,7 @@ h3 {
 h4 {
   font-size: 1.3em;
   text-align: center;
-  margin: 20px 0 8px 0;
+  margin: 20px 0 16px 0;
 }
 
 /* Text styles
@@ -80,6 +80,7 @@ h4 {
 .infoStyle {
   font-family: "Special Elite";
   font-size: 0.8rem;
+  padding: 4px;
 }
 .copyrightStyle {
   font-family: "Special Elite";
@@ -100,6 +101,7 @@ h4 {
   background-position: center center;
 }
 article {
+  margin: 8px 0;
   padding: 10px;
   background-color: var(--color-bg-light);
   border-radius: 6px;
@@ -136,23 +138,40 @@ article {
   margin: 16px auto;
   opacity: 0.8;
 }
-.grid {
-  display: grid;
-  grid-template-columns: auto auto;
-  margin-bottom: 1.5rem;
-  gap: 10px;
+/* Layout styles
+----------------------------------------------------------------------------------------------------- */
+.rowStyle {
+  display: -ms-flexbox; /* IE 10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE 10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
 }
+.columnStyle {
+  -ms-flex: 50%; /* IE 10 */
+  flex: 50%;
+  padding: 0 4px;
+}
+.columnImgStyle {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+  box-shadow: 2px 2px 4px black;
+  border-radius: 6px;
+}
+/* Media Queries
+----------------------------------------------------------------------------------------------------- */
 @media screen and (max-width: 576px) {
   .interTitleStyle {
     font-size: 26px;
     margin: 8px 0;
   }
 }
-@media screen and (max-width: 768px) {
-  .grid {
-    grid-template-columns: auto;
+/* @media screen and (max-width: 768x) {
+  .columnnStyle {
+    flex: 98%;
   }
-}
+} */
 
 
 

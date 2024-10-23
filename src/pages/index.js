@@ -1,10 +1,10 @@
 import * as React from "react"
 
-import Layout from "../components/layout";
-import ImageSlider from "../components/imageSlider";
+import Layout from "../components/layout"
 import ReadMore from "../components/readMoreBtn"
+import ImageSlider from "../components/imageSlider"
 
-import Image from 'react-bootstrap/Image';
+import Image from "react-bootstrap/Image"
 
 import QuoteStart from "../assets/quotation-start.svg"
 import QuoteEnd from "../assets/quotation-end.svg"
@@ -145,7 +145,7 @@ const HomePage = () => {
           kaupungin väkiluvun liioittelemata arvata noin 6,000 henkilöksi. Maaseurakunnassa oli samaan aikaan 1,191 henkilöä.
         </p>
         <p>
-          Hämeenlinnan kaupunki ja maaseurakunta kuuluu samaan kirkkoherrakuntaan, mutta on heillä vuodesta 1804 ollut yhteinen kirkkoherra Wanajan pitäjäläisten kanssa
+          Hämeenlinnan kaupunki ja maaseurakunta kuuluu samaan kirkkoherrakuntaan, mutta on heillä vuodesta 1804 ollut yhteinen kirkkoherra Wanajan pitäjäläisten kanssa.
         </p>
       </div>
       <ReadMore buttonText={showMore ? "Näytä vähemmän" : "Näytä enemmän..."} onClick={() => setShowMore(!showMore)}/>
@@ -153,8 +153,8 @@ const HomePage = () => {
       <p className="copyrightStyle">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan Osoite ja Ilmoitus Kalenteri, 1887 </p>
       <Divider className="dividerStyle" />
       <Image className="centeredImageStyle" src={img1} alt="Maalaus vanhasta Hämeenlinnasta"/>
-      <p className="captionStyle">Cordier de Bonneville, Louis-Joseph-Anger, taiteilija - valmistusaika ajoittamaton</p>
-      <p className="captionStyle">Kansallisgalleria / Sinebrychoffin taidemuseo- CC0 </p>
+      <p className="copyrightStyle">Cordier de Bonneville, Louis-Joseph-Anger, taiteilija - valmistusaika ajoittamaton</p>
+      <p className="copyrightStyle">Kansallisgalleria / Sinebrychoffin taidemuseo- CC0 </p>
     </Layout>
   );
 }

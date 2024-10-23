@@ -2,14 +2,16 @@ import * as React from "react"
 import { Link } from 'gatsby'
 
 import "bootstrap/dist/css/bootstrap.min.css";
+// import "react-bootstrap-submenu/dist/index.css"
 
 import Image from "react-bootstrap/Image";
 import Container from 'react-bootstrap/Container';
-import Dropdown from 'react-bootstrap/Dropdown';
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav';
+import NavDropdown from 'react-bootstrap/NavDropdown';
+import { DropdownSubmenu, NavDropdownMenu} from "react-bootstrap-submenu";
 
-import {navBarStyle, logoStyle, dropDownMenuStyle} from "../styles/components/header.module.css";
+import {navBarStyle, logoStyle} from "../styles/components/header.module.css";
 
 import vaakuna from "../images/hml-vaakuna-old.png" 
 
@@ -18,97 +20,92 @@ const Header = () => {
     <Navbar expand="md" data-bs-theme="light" className={navBarStyle}>
       <Container fluid="xl">
         <Navbar.Brand href="/" id="headerLogo" title="Logo"><Image placeholder={"blurred"} className={logoStyle} alt="Vaakuna" src={vaakuna} /></Navbar.Brand>
-        <Navbar.Toggle aria-controls="hamburger" />
-        <Navbar.Collapse id="hamburger">
+        <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+        <Navbar.Collapse id="responsive-navbar-nav">
           <Nav variant="underline" className="mx-auto">
 
             <Nav.Item>
               <Link to="/" className="nav-link" activeClassName="active">Etusivu</Link> 
             </Nav.Item>
 
-            <Dropdown as={Nav.Item} >
-              <Dropdown.Toggle as={Nav.Link}>Tekstejä</Dropdown.Toggle>
-              <Dropdown.Menu className={dropDownMenuStyle}>
-                <Dropdown.Item>
-                  <Link to="/kouluista-1879" className="nav-link" activeClassName="active">Vanhoista kouluista</Link> 
-                </Dropdown.Item>
-                <Dropdown.Item>
-                  <Link to="/olosuhteet-1808" className="nav-link" activeClassName="active">Olosuhteet sotavuosina 1808-1809</Link> 
-                </Dropdown.Item>
-                <Dropdown.Item>
-                  <Link to="/asuminen" className="nav-link" activeClassName="active">Asunto-olosuhteet vuonna 1908</Link> 
-                </Dropdown.Item>
-                <Dropdown.Item>
-                  <Link to="/kuritushuone" className="nav-link" activeClassName="active">Kuritushuoneen järjestyssäännöt - 1877</Link> 
-                </Dropdown.Item>
-                <Dropdown.Item>
-                  <Link to="/matkailuopas-1915" className="nav-link" activeClassName="active">Matkailuopas - 1915</Link> 
-                </Dropdown.Item>
-                <Dropdown.Item>
-                  <Link to="/matkailuopas-1927" className="nav-link" activeClassName="active">Matkailuopas - 1927</Link> 
-                </Dropdown.Item>
-              </Dropdown.Menu>
-            </Dropdown>
+            <NavDropdown title="Tekstejä" id="collasible-nav-dropdown">
+              <NavDropdown.Item>
+                <Link to="/kouluista-1879" className="nav-link" activeClassName="active">Vanhoista kouluista</Link> 
+              </NavDropdown.Item>
+              <NavDropdown.Item>
+                <Link to="/olosuhteet-1808" className="nav-link" activeClassName="active">Olosuhteet sotavuosina 1808-1809</Link> 
+              </NavDropdown.Item>
+              <NavDropdown.Item>
+                <Link to="/asuminen" className="nav-link" activeClassName="active">Asunto-olosuhteet vuonna 1908</Link> 
+              </NavDropdown.Item>
+              <NavDropdown.Item>
+                <Link to="/kuritushuone" className="nav-link" activeClassName="active">Kuritushuoneen järjestyssäännöt - 1877</Link> 
+              </NavDropdown.Item>
+              <NavDropdown.Item>
+                <Link to="/matkailuopas-1915" className="nav-link" activeClassName="active">Matkailuopas - 1915</Link> 
+              </NavDropdown.Item>
+              <NavDropdown.Item>
+                <Link to="/matkailuopas-1927" className="nav-link" activeClassName="active">Matkailuopas - 1927</Link> 
+                
+              </NavDropdown.Item>
+            </NavDropdown>
 
-            <Dropdown as={Nav.Item}>
-              <Dropdown.Toggle as={Nav.Link}>Kuvia</Dropdown.Toggle>
-              <Dropdown.Menu className={dropDownMenuStyle}>
-                <Dropdown.Item>
-                  <Link to="/aulanko" className="nav-link" activeClassName="active">Aulanko</Link> 
-                </Dropdown.Item>
-                <Dropdown.Item>
+            <NavDropdownMenu title="Lehdistä" id="collasible-nav-dropdown">
+              <DropdownSubmenu title="1924">
+                <NavDropdown.Item>
+                  <Link to="/lukijoilta1924" className="nav-link" activeClassName="active">Yleisönosasto</Link> 
+                </NavDropdown.Item>
+                <NavDropdown.Item>
+                  <Link to="/ilmoituksia-1924" className="nav-link" activeClassName="active">Ilmoituksia</Link> 
+                </NavDropdown.Item>
+                <NavDropdown.Item>
+                  <Link to="/hasa1924" className="nav-link" activeClassName="active">Artikkeleita 15.10</Link> 
+                </NavDropdown.Item>
+              </DropdownSubmenu>
+              <NavDropdown.Item>
+                <Link to="/sanomalehti" className="nav-link" activeClassName="active">Sanomalehtiä</Link> 
+              </NavDropdown.Item>
+              <NavDropdown.Item>
+                <Link to="/mainoksia" className="nav-link" activeClassName="active">Mainoksia</Link> 
+              </NavDropdown.Item>
+            </NavDropdownMenu >
+
+            <NavDropdown title="Kuvia" id="collasible-nav-dropdown">
+              <NavDropdown.Item>
                   <Link to="/people" className="nav-link" activeClassName="active">Ihmisiä</Link> 
-                </Dropdown.Item>
-              </Dropdown.Menu>
-            </Dropdown>
-
-            <Dropdown as={Nav.Item} >
-              <Dropdown.Toggle as={Nav.Link}>Luetteloita</Dropdown.Toggle>
-              <Dropdown.Menu className={dropDownMenuStyle}>
-                <Dropdown.Item>
-                  <Link to="/osoitteita-1887" className="nav-link" activeClassName="active">Osoitteita - 1887</Link> 
-                </Dropdown.Item>
-                <Dropdown.Item>
-                  <Link to="/osoitteita-1915" className="nav-link" activeClassName="active">Osoitteita - 1915</Link> 
-                </Dropdown.Item>
-                <Dropdown.Item>
-                  <Link to="/osoitteita-1923" className="nav-link" activeClassName="active">Osoitteita - 1923</Link> 
-                </Dropdown.Item>
-                <Dropdown.Item>
-                  <Link to="/osoitteita-1931" className="nav-link" activeClassName="active">Osoitteita - 1931</Link> 
-                </Dropdown.Item>
-                <Dropdown.Item>
-                  <Link to="/puhelinluettelo-1902" className="nav-link" activeClassName="active">Puhelinluettelo - 1902</Link> 
-                </Dropdown.Item>
-                <Dropdown.Item>
-                  <Link to="/puhelinluettelo-1926" className="nav-link" activeClassName="active">Puhelinluettelo - 1926</Link> 
-                </Dropdown.Item>
-              </Dropdown.Menu>
-            </Dropdown>
-
-            <Dropdown as={Nav.Item} >
-              <Dropdown.Toggle as={Nav.Link}>Muuta</Dropdown.Toggle>
-              <Dropdown.Menu className={dropDownMenuStyle}>
-                <Dropdown.Item>
+                </NavDropdown.Item>
+                <NavDropdown.Item>
+                  <Link to="/aulanko" className="nav-link" activeClassName="active">Aulanko</Link> 
+                </NavDropdown.Item>
+                <NavDropdown.Item>
                   <Link to="/kartta1778" className="nav-link" activeClassName="active">Kartta 1778</Link> 
-                </Dropdown.Item>
-                <Dropdown.Item>
+                </NavDropdown.Item>
+                <NavDropdown.Item>
                   <Link to="/kartta1892" className="nav-link" activeClassName="active">Kartta 1892</Link> 
-                </Dropdown.Item>
-                <Dropdown.Item>
-                  <Link to="/hasa1924" className="nav-link" activeClassName="active">HäSa 15.10.1924</Link> 
-                </Dropdown.Item>
-                <Dropdown.Item>
-                  <Link to="/lukijoilta1924" className="nav-link" activeClassName="active">Yleisönosasto, 1924</Link> 
-                </Dropdown.Item>
-                <Dropdown.Item>
-                  <Link to="/sanomalehti" className="nav-link" activeClassName="active">Sanomalehtiä</Link> 
-                </Dropdown.Item>
-                <Dropdown.Item>
-                  <Link to="/mainoksia" className="nav-link" activeClassName="active">Mainoksia</Link> 
-                </Dropdown.Item>
-              </Dropdown.Menu>
-            </Dropdown>
+                </NavDropdown.Item>
+            </NavDropdown>
+
+            <NavDropdown title="Luetteloita" id="collasible-nav-dropdown">
+              <NavDropdown.Item>
+                <Link to="/osoitteita-1887" className="nav-link" activeClassName="active">Osoitteita - 1887</Link> 
+              </NavDropdown.Item>
+              <NavDropdown.Item>
+                <Link to="/osoitteita-1915" className="nav-link" activeClassName="active">Osoitteita - 1915</Link> 
+              </NavDropdown.Item>
+              <NavDropdown.Item>
+                <Link to="/osoitteita-1923" className="nav-link" activeClassName="active">Osoitteita - 1923</Link> 
+              </NavDropdown.Item>
+              <NavDropdown.Item>
+                <Link to="/osoitteita-1931" className="nav-link" activeClassName="active">Osoitteita - 1931</Link> 
+              </NavDropdown.Item>
+              <NavDropdown.Item>
+                <Link to="/puhelinluettelo-1902" className="nav-link" activeClassName="active">Puhelinluettelo - 1902</Link> 
+              </NavDropdown.Item>
+              <NavDropdown.Item>
+                <Link to="/puhelinluettelo-1926" className="nav-link" activeClassName="active">Puhelinluettelo - 1926</Link> 
+              </NavDropdown.Item>
+            </NavDropdown>
+            
           </Nav>
         </Navbar.Collapse>
       </Container>
