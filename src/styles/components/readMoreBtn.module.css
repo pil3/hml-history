@@ -1,9 +1,16 @@
+@import "../base/global.css";
+
 .buttonStyle {
   border: none;
-  background-color: transparent;
+  background-color: var(--color-bg);
   display: block;
-  margin: auto;
-  padding: 6px;
+  margin: 8px auto;
+  padding: 12px 12px 8px 12px;
+  box-shadow: 2px 2px 4px black;
+  border-radius: 8px;
+}
+.buttonStyle:active {
+  box-shadow: -1px -1px 2px black;
 }
 .buttonTextStyle {
   font-weight: bold;

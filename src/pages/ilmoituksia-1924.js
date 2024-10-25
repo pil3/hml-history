@@ -48,6 +48,19 @@ import img39 from "../images/content/hasa1924/img-39.jpg"
 import img40 from "../images/content/hasa1924/img-40.jpg"
 import img41 from "../images/content/hasa1924/img-41.jpg"
 import img42 from "../images/content/hasa1924/img-42.jpg"
+import img43 from "../images/content/hasa1924/img-43.jpg"
+import img44 from "../images/content/hasa1924/img-44.jpg"
+import img45 from "../images/content/hasa1924/img-45.jpg"
+import img46 from "../images/content/hasa1924/img-46.jpg"
+import img47 from "../images/content/hasa1924/img-47.jpg"
+import img48 from "../images/content/hasa1924/img-48.jpg"
+import img49 from "../images/content/hasa1924/img-49.jpg"
+import img50 from "../images/content/hasa1924/img-50.jpg"
+import img51 from "../images/content/hasa1924/img-51.jpg"
+import img52 from "../images/content/hasa1924/img-52.jpg"
+import img53 from "../images/content/hasa1924/img-53.jpg"
+import img54 from "../images/content/hasa1924/img-54.jpg"
+import img55 from "../images/content/hasa1924/img-55.jpg"
 
 const Ilmoituksia1924Page = () => {
   return (
@@ -77,8 +90,6 @@ const Ilmoituksia1924Page = () => {
           <Image className="columnImgStyle" src={img19} alt="Kuva 19"/>
           <Image className="columnImgStyle" src={img20} alt="Kuva 20"/>
           <Image className="columnImgStyle" src={img21} alt="Kuva 21"/>
-        </div>
-        <div className="columnStyle">
           <Image className="columnImgStyle" src={img22} alt="Kuva 22"/>
           <Image className="columnImgStyle" src={img23} alt="Kuva 23"/>
           <Image className="columnImgStyle" src={img24} alt="Kuva 24"/>
@@ -88,6 +99,8 @@ const Ilmoituksia1924Page = () => {
           <Image className="columnImgStyle" src={img28} alt="Kuva 28"/>
           <Image className="columnImgStyle" src={img29} alt="Kuva 29"/>
           <Image className="columnImgStyle" src={img30} alt="Kuva 30"/>
+        </div>
+        <div className="columnStyle">
           <Image className="columnImgStyle" src={img31} alt="Kuva 31"/>
           <Image className="columnImgStyle" src={img32} alt="Kuva 32"/>
           <Image className="columnImgStyle" src={img33} alt="Kuva 33"/>
@@ -100,6 +113,19 @@ const Ilmoituksia1924Page = () => {
           <Image className="columnImgStyle" src={img40} alt="Kuva 40"/>
           <Image className="columnImgStyle" src={img41} alt="Kuva 41"/>
           <Image className="columnImgStyle" src={img42} alt="Kuva 42"/>
+          <Image className="columnImgStyle" src={img43} alt="Kuva 43"/>
+          <Image className="columnImgStyle" src={img44} alt="Kuva 44"/>
+          <Image className="columnImgStyle" src={img45} alt="Kuva 45"/>
+          <Image className="columnImgStyle" src={img46} alt="Kuva 46"/>
+          <Image className="columnImgStyle" src={img47} alt="Kuva 47"/>
+          <Image className="columnImgStyle" src={img48} alt="Kuva 48"/>
+          <Image className="columnImgStyle" src={img49} alt="Kuva 49"/>
+          <Image className="columnImgStyle" src={img50} alt="Kuva 50"/>
+          <Image className="columnImgStyle" src={img51} alt="Kuva 51"/>
+          <Image className="columnImgStyle" src={img52} alt="Kuva 52"/>
+          <Image className="columnImgStyle" src={img53} alt="Kuva 53"/>
+          <Image className="columnImgStyle" src={img54} alt="Kuva 54"/>
+          <Image className="columnImgStyle" src={img55} alt="Kuva 55"/>
         </div>
       </div>
     </Layout>

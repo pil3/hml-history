@@ -6,7 +6,7 @@ const Article = ({titleText, children}) => {
   const [showMore, setShowMore] = React.useState(false);
   return (
     <article>
-      <h4>{titleText}</h4>
+      <h3>{titleText}</h3>
       <div style={{display: showMore ? "inherit" : "none"}}>
         {children}
       </div>
