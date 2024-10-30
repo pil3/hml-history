@@ -38,17 +38,17 @@ h1 {
   font-weight: bold;
 }
 h2 {
-  font-size: 2rem;
+  font-size: 1.8rem;
   text-align: center;
   margin: 20px 0;
 }
 h3 {
-  font-size: 1.5em;
+  font-size: 1.4rem;
   text-align: center;
   margin: 20px 0;
 }
 h4 {
-  font-size: 1.3em;
+  font-size: 1.2rem;
   text-align: center;
   margin: 20px 0 16px 0;
 }
@@ -56,7 +56,10 @@ h4 {
 /* Text styles
 ----------------------------------------------------------------------------------------------------- */
 .firstLetterStyle::first-letter {
+  -webkit-initial-letter: 2;
   initial-letter: 2;
+  line-height: 1;
+  font-weight: normal;
   padding-right: 4px;
 }
 .captionStyle {

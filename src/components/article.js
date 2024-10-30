@@ -10,7 +10,7 @@ const Article = ({titleText, children}) => {
       <div style={{display: showMore ? "inherit" : "none"}}>
         {children}
       </div>
-      <ReadMore buttonText={showMore ? "Näytä vähemmän" : "Näytä enemmän..."} onClick={() => setShowMore(!showMore)}/>
+      <ReadMore buttonText={showMore ? "Pienennä" : "Lue lisää"} onClick={() => setShowMore(!showMore)}/>
     </article>
   );
 };

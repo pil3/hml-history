@@ -30,6 +30,9 @@ const Header = () => {
 
             <NavDropdown title="Tekstejä" id="collasible-nav-dropdown">
               <NavDropdown.Item>
+                <Link to="/hauho" className="nav-link" activeClassName="active">Poimintoja Hauhon kirkon arkistosta</Link> 
+              </NavDropdown.Item>
+              <NavDropdown.Item>
                 <Link to="/kouluista-1879" className="nav-link" activeClassName="active">Vanhoista kouluista</Link> 
               </NavDropdown.Item>
               <NavDropdown.Item>

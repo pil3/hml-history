@@ -14,7 +14,7 @@ const Lukijoilta1924Page = () => {
       <h2>Lukijoilta</h2>
       <Divider className="dividerStyle" />
       <h3>Torstai, 3.1.1924</h3>
-      <Article titleText="Huomiota herättäwä henkiwakuutusjuttu Hämeenlinnassa">
+      <Article titleText="Huomiota herättäwä henkiwakuutusjuttu Hämeenlinnassa.">
         <p>Ylläolewalla otsakkeella arw. lehtenne palstoilla eilen julkaistussa kirjoituksessa moititaan Suomi-yhtiötä siitä, että se kuolemantapauksessa on kieltäytynyt maksamasta wakuutusta, 
           joka ei koskaan ole ollut woimassa. Saadakseen tilaisuuden näin aiheettomaan moitteeseen silwoo kirjoittaja lukemastaan yhtiön kirjeestä irti osan yleisön nähtäwäksi, mutta salaa toisen 
           osan samaa lausettakin. Kokonaisuudessaan kuului yhtiön perustelu sen ewätessä kysytyn wakuutusssumman maksamisen seuraawasti:</p>
@@ -44,7 +44,7 @@ const Lukijoilta1924Page = () => {
       </Article>
       <SubDivider className="dividerStyle" />
       <h3>Perjantai, 4.1.1924</h3>
-      <Article titleText="Kiitos">
+      <Article titleText="Kiitos.">
         <p>Hyökkäyswaunurykmentin puolesta lausun parhaimmat kiitokseni Hämeenlinnan Sotilaskotiyhdistykselle, sen rykmentin miehistölle toimeenpanemasta hauskasta Joulujuhlasta lahjoineen ja kestityksineen sekä Kustannusliike Arwi A. Karistolle suurenmoisesta kirjalahjasta 
           ja samalla kiitän kaikkia niitä yksityisiä ja liikkeitä, jotka owat lähettäneet lahjoja jaettawaksi Jouluna. </p>
         <p className="captionStyle">Hämeenlinna 3. 1. 24.</p>
@@ -52,7 +52,7 @@ const Lukijoilta1924Page = () => {
       </Article>
       <SubDivider className="dividerStyle" />
       <h3>Lauantai, 5.1.1924</h3>
-      <Article titleText="Wastinetta Suomi Yhtiölle">
+      <Article titleText="Wastinetta Suomi Yhtiölle.">
         <p>Tämän lehden kuluwan tammikuun 3 päiwän numerossa on Keskinäisen Henkiwakuutusyhtiö Suomen puolelta annettu selitys eräästä huomiota herättäneestä henkiwakuutusjutusta Hämeenlinnan 
           kaupungissa. Siihen nähden, että mainittua selitystä ei suinkaan ole pidettäwä tyydyttäwänä, siinä kun ei edes tahdota kosketella asian pääydintä, suotakoon meille tilaisuus asiasta 
           lausua muutama sana.</p>
@@ -79,7 +79,7 @@ const Lukijoilta1924Page = () => {
       </Article>
       <SubDivider className="dividerStyle" />
       <h3>Sunnuntai, 6.1.1924</h3>
-      <Article titleText="Pari nöyrää kysymystä Suomi-yhtiölle">
+      <Article titleText="Pari nöyrää kysymystä Suomi-yhtiölle.">
         <p>Yhtyen täydellisesti tämän lehden kuluwan tammikuun 5 päiwän numerossa 'Suomi-yhtiössä wakuutettuja' nimimerkillä julkaistuun kirjoitukseen: 'Wastinetta Suomi-yhtiölle',  pyydän samassa 
           ja edellisissä kirjoituksissa kosketellun huomiota herättäneen henkiwakuutusjutun johdosta tehdä lisäksi wielä pari kysymystä Suomi-yhtiölle.</p>
         <p>Suomi-yhtiön alkuperäisissä wakuutusehdoissa sanotaan woimaanastumisesta näin: 'Wakuutus astuu woimaan, kun ensimäinen wakuutusmaksu on suoritettu' (kohta 1). Wakuutuskirjasta ja sen 
@@ -99,7 +99,7 @@ const Lukijoilta1924Page = () => {
       </Article>
       <SubDivider className="dividerStyle" />
       <h3>Lauantai, 12.1.1924</h3>
-      <Article titleText="Tilitys Pelastusarmeijan joulupadoista">
+      <Article titleText="Tilitys Pelastusarmeijan joulupadoista.">
         <p>Pyydämme täten lausua sydämellisen kiitoksemme Smk:sta 2,165:10, jotka saimme joulupadoilla sekä Smk. 500.- lahjasta Mannerheimin Lastensuojeluliitolta köyhäin lasten waateusawustukseksi. 
           Wielä saimme 5 syltä rimapuita H:linnan Höyrysahalta, mistä kaikesta sydämellinen kiitos. Rahat on käytetty seuraawasti: Joulupaketteja 56:lle eri perheelle, sisältäen riisiä, wehnäjauhoja, 
           herneitä, keskimäärin kutakin lajia 1 kg, sianlihaa keskimäärin 800 gr. Joululehden jakelun yhteydessä tarjoiltiin kahwia woipullan kera. Menot Smk. 2,142:40. Lastenjuhla, jossa 59 lasta 
@@ -111,7 +111,7 @@ const Lukijoilta1924Page = () => {
       </Article>
       <SubDivider className="dividerStyle" />
       <h3>Perjantai, 18.1.1924</h3>
-      <Article titleText="'Saa ansaitsemansa rangaistuksen'">
+      <Article titleText="'Saa ansaitsemansa rangaistuksen'.">
         <p>Lukiessani Hämeen Sanomain 11:stä numerosta uutista H:linnassa tapahtuneesta törkeästä puukotuksesta ajattelin millaista iwaa on uutisen lopussa olewa lause: 'poliisi on kuitenkin hänen' 
           (rikoksen tekijän) 'jäljillään ja toiwottawasti roisto saa raakalaisteostaan ansaitsemansa rangaistuksen.' Onko se ansionmukainen rangaistus, jos tuollainen roisto ja peto, joka 
           kieltolain maassa raatelee, ilman pienintäkään aihetta, kahta rauhallista kulkijaa, joita hän ei edes tunne, jos hän saa kuukauden, ehkäpä parikin istua wankilassa, jossa hän elää 
@@ -132,7 +132,7 @@ const Lukijoilta1924Page = () => {
       </Article>
       <SubDivider className="dividerStyle" />
       <h3>Keskiviikko, 30.1.1924</h3>
-      <Article titleText="Kaikille Pohjois- ja Etelä Hämeen Suojeluskuntapiirien Suojeluskunnille">
+      <Article titleText="Kaikille Pohjois- ja Etelä Hämeen Suojeluskuntapiirien Suojeluskunnille.">
         <p>Täten kutsutaan kaikkia Hämeen läänissä asuwia suojeluskuntalaisia ottamaan osaa 'Hämeen Hiihtomestaruusmalja' -kilpailuihin, jotka allaolewa Suojeluskunta järjestää sunnuntaina 
           helmikuun 17 p:nä 1924 klo 9 a.p. matkalla Hämeenlinna Riihimäki (taikka päinwastoin; matkan pituus noin 45 km).</p>
           <p>Woittaja saa haltuunsa wuodeksi Hämeenlinnan Kansallis Kerhon lahjoittaman komean, 2,500 markan arwoisen 'Hämeen Hiihtomestaruus maljan', jota ensimmäisen kerran puolustaa M. 
@@ -143,7 +143,7 @@ const Lukijoilta1924Page = () => {
           <p className="captionStyle">Helkiö, Paikallispäällikkö.</p>
           <p className="captionStyle">Juurewa, Urheilutoimik. puheenjoht.</p>
         </Article>
-        <Article titleText="Wapaussodan inwalideille">
+        <Article titleText="Wapaussodan inwalideille.">
           <p>Yleinen Suomen wapaussodan inwalidien kokous pidetään Helsingissä, Säätytalolla sunnuntaina tulewan helmikuun 17:tenä päiwänä ja aloitetaan kokouksen pito sanottuna päiwänä klo 
             12, mutta jos näyttää tarpeelliselta, niin jatketaan sitä wielä 18:tena eli maanantaipäiwänä. Kokouksessa tullaan keskustelemaan inwalidiyhdistyksen perustamisesta sekä monista 
             muista esille tulewista tärkeistä asioista. Koska waltioneuwosto on myöntänyt kokoukseen osaaottawille inwalideille wapaaliput rautateillä, niin kehoitetaan täten kaikkia niitä 
@@ -157,7 +157,7 @@ const Lukijoilta1924Page = () => {
           <p className="captionStyle">A. Rosenberg.</p>
           <p className="captionStyle">Os.: Selki (Hangon rata).</p>
         </Article>
-        <Article titleText="Sokerijuurikaswiljelyksen edistäminen Etelä-Hämeessä">
+        <Article titleText="Sokerijuurikaswiljelyksen edistäminen Etelä-Hämeessä.">
           <p>Sanomalehdissä on kierrellyt uutinen, jonka mukaan Salon Raakasokeritehtaan toimesta äsken on pidetty neuwottelukokous, johon on kutsuttu edustajia eri seuduilta ja jossa on 'todettu' 
             erinäisiä sokerijuurikaswiljelystä koskewia ponsia. Ainoa 'edustaja', joka on nimeltä mainittu, on hra J. Torppa Hattulasta, joka oli walittu kokouksessa puhetta johtamaan.</p>
           <p>Tämän johdosta täytyy kysyä, owatko todelliset sokerijuurikaswiljelijät Etelä-Hämeessä jo niin täydellisesti häwinneet, että heidän 'edustajaksi' on täytynyt ottaa pohjalainen 
@@ -195,7 +195,7 @@ const Lukijoilta1924Page = () => {
         </Article>
         <SubDivider className="dividerStyle" />
         <h3>Keskiviikko, 6.2.1924</h3>
-        <Article titleText="Sokerijuurikaswiljelyksen edistäminen Etelä-Hämeessä">
+        <Article titleText="Sokerijuurikaswiljelyksen edistäminen Etelä-Hämeessä.">
           <p>Eräs entinen sokerijuurikkaan wiljelijä on tämän lehden numerossa 25 halpamaisesti solwannut kunnallisneuwos F. Torppaa, ja samalla hän yritää antaa letkauksen Suomen Raakasokeritehtaan 
             johdolle sekä wielä wälillisesti niille sokerijuurikkaan wiljelijöille, jotka ottiwat osaa kirjoituksessa mainittuun neuwottelukokoukseen Salon kauppalassa. </p>
           <p>Kirjoituksen laatija näyttää olewan loukkaantunut siitä, ettei häntä oltu kutsuttu tuohon edellämainittuun kokoukseen osanottajaksi, sillä kaikesta päättäen hän olisi siellä tahtonut 
@@ -220,7 +220,7 @@ const Lukijoilta1924Page = () => {
         </Article>
         <SubDivider className="dividerStyle" />
         <h3>Torstai, 7.2.1924</h3>
-        <Article titleText="Maalaisen mietteitä waaliliittoasiasta">
+        <Article titleText="Maalaisen mietteitä waaliliittoasiasta.">
           <p>Täällä maaseudulla, jossa ei aiwan tarkkaan tunneta puoluekeskuselimien ja sanomalehtien wälisiä kahnauksia, tuntuu käsittämättömältä että ollenkaan tarwitsee keskustella porwaripuolueiden 
             yhteisestä waaliliitosta. Wielä kummemmalta kuuluu, että sitä wastustetaan. Yhtymisen pidämme aiwan luonnollisena ja wälttämättömänä. Yksinkertaisuudessamme emme huomaa suurta eroa nykyisen 
             ajan ja wuoden 1917 painostawien olojen wälillä. Silloin saiwat sosialistit tahtonsa läpiajetuksi ryssäin pistinten awulla; nyt ei heidän tarwitse muuta kuin sanella liewiä laittomuusuhkauksia, 
@@ -234,7 +234,7 @@ const Lukijoilta1924Page = () => {
             odottaa: hywästä ystäwyydestä järjestettyä yhteistä rintamaa isänmaattomia wastaan! Yhteistyössä ja yhteisymmärryksellä pienet erimielisyydet kyllä tasottuwat!</p>
           <p className="captionStyle">Huolestunut maalainen.</p>
         </Article>
-        <Article titleText="Entisen sokerijuurikaswiljelijän kirjoituksen johdosta">
+        <Article titleText="Entisen sokerijuurikaswiljelijän kirjoituksen johdosta.">
           <p>Tämän lehden 25 numerossa on 'entinen sokerijuurikaswiljelijä' sala-ampujan tawalla hyökännyt allekirjoittaneen kimppuun ja samalla yrittänyt wahingoittaa Suomen Raakasokeritehtaan pyrkimyksiä; 
             ja koska kirjoitus woipi johtaa asiaa tuntemattoman harhaan, niin muutama sana sen walaisemiseksi.</p>
           <p>Kuten mainitussa kirjoituksessa sanotaan, oli Raakasokeritehtaan puolesta kutsuttu eri seudulta wiljelijöitä ja tehtaan asiamiehiä neuwottelemaan sokerijuurikaswiljelyksen 
@@ -268,7 +268,7 @@ const Lukijoilta1924Page = () => {
         </Article>
         <SubDivider className="dividerStyle" />
         <h3>Torstai, 14.2.1924</h3>
-        <Article titleText="Wastalause">
+        <Article titleText="Wastalause.">
           <p>Hämeen Sanomain numerossa 3 helmikuun 9 päiwänä olleen uutisen johdosta, koskewa syyttäjien ja poliisimestarien osuuksia kieltolakirikoksista tuomituista sakoista, saan täten yhtenä 'osakkaana' 
             panna wastalauseeni sen johdosta, että sanomalehdessä julkaistaan tietoja, jotka koskewat wirkatoimestani tulewia palkkioetuuksia. Sanomalehti ei liene sitä warten olemassa, että yleisö saisi 
             tietää kuinka paljon minulla on ollut tuloja ja kieltämättä täytynee minulla olla oikeus waatia tässä suhteessa waitioloa. Miksi ei ilmoiteta nimeltä niitä lukuisia kieltolainrikkojia, wiinatrokareita, 
@@ -308,7 +308,7 @@ const Lukijoilta1924Page = () => {
           <p className="captionStyle">Hämeenlinna 14 p. helmik. 1924.</p>
           <p className="captionStyle">Y. A. Wuori.</p>
         </Article>
-        <Article titleText="Kieltolakia pidettävä silmällä, asetettaessa edustajaehdokkaita">
+        <Article titleText="Kieltolakia pidettävä silmällä, asetettaessa edustajaehdokkaita.">
           <p>Kun näinä päiwinä käydään asettamaan ehdokkaita waalipiirissämme, on syytä awoimin silmin jokaisen raittiutta harrastawan  kansalaisen seurata ehdokkaiden ajattelua ja koettaa wähäiseltä osaltaan 
             waikuttaa niin, että ainoastaan todelliset raittiutta harrastawat kansalaiset asetettaisiin ehdokkaiksi. Aika jossa raittiusasian suhteen elämme on siksi merkityksellinen kysymyksessä olewalle asialle, 
             että nyt emme saa sokeasti luottaa siihen, mitä erinäisten puolueiden taholta meille tyrkytetään. Mielestäni ei riitä tällä kertaa ehdokkaalta se, että hän sanoo kannattawansa raittiusasiaa. Kieltolain 
@@ -321,7 +321,7 @@ const Lukijoilta1924Page = () => {
         </Article>
         <SubDivider className="dividerStyle" />
         <h3>Keskiviikko, 20.2.1924</h3>
-        <Article titleText="Entiselle sokerijuurikkaan wiljelijälle">
+        <Article titleText="Entiselle sokerijuurikkaan wiljelijälle.">
           <p>Wasta äsken näimme Hämeen Sanomien 25 numerossa 'Entisen sokerijuurikaswiljelijän" sisunpurkauksen meitä ja kunnallisneuwos Juho Torppaa wastaan.</p>
           <p>Sen johdosta pyydämme saada huomauttaa, että maanwiljelijä Kupila, joka oli saapunut Salossa pidettyyn neuwottelukokoukseen, on kai yhtä hywä 'todellinen sokerijuurikaswiljelijä' kuin 'entinenkin 
             sokerijuurikaswiljelijä'. Muuten ei kokous Salossa ollut mikään 'edustaja'-kokous, waan aiwan yksityinen, johon olimme persoonallisesti kutsuneet määrättyjä henkilöitä neuwottelemaan sokerijuurikkaan 
@@ -339,6 +339,63 @@ const Lukijoilta1924Page = () => {
             sen käyttää paljon positiiwisempaankin työhön.</p>
           <p className="captionStyle">Salossa 14. 2. 1924.</p>
           <p className="captionStyle">Suomen Raakasokeritehdas Osakeyhtiö.</p>
+        </Article>
+        <h3>Sunnuntai, 2.3.1924</h3>
+        <Article titleText="Mihin laululawa puistossamme olisi rakennettawa.">
+          <p>Jo aikaisemmin oli tässä lehdessä maisteri A. Th. Böökin kirjoitus laululawan paikasta puistossamme. Siinä ehdotti kirjoittaja, että se rakennettaisi siellä olewien linnaraunioiden yhteyteen.</p>
+          <p>Lawa rakennettuna edellämainittuun paikkaan, kirjoittajan ehdottamalla tawalla, tulisi olemaan kylläkin arwokkaan näköinen, mutta käytännössä se mielestäni ei wastaisi tarkoitustaan. Ensiksikin se olisi 
+            liian kaukana kentästä, jossa yleisö tawallisesti on, toiseksi en usko, että se siihen rakennettuna akustisessa suhteessa olisi juuri entistä parempi. Raunioiden phteyteen rakennettuna lawa wäkisinkin 
+            joutuisi luonnottoman korkealle, joten siltä esitetyt ääniaallot kaikuisiwat liian korkealle. Lawan paikkaa määriteltäessä on ehdottomasti huomioon otettawa, mitkä tuulet woimakkaimmin puhaltawat 
+            kysymyksessä olewaan paikkaan se sen läheisyyteen. Jokainenhan tietää miten waikeata on saada ääni kuulumaan wastatuuleen ja miten helppoa päinwastaisessa tapauksessa. Warsinkin musiikkiesityksissä 
+            wastatuuli häiritsee kiusallisesti hajoittaen yhteissoinnun ja tekee kuulumisen epätasaiseksi. Tuulet, jotka käywät kaupungista päin koskewat ehdottomasti woimakkaammin kuin muut tuulet puistossa olewan 
+            kentän ympärillä olewiin puihin saaden ne humisemaan. Jos lawa silloin on alla tuulen raunioiden yhteydessä, nün kentällä musiikkiesityksiä, warsinkin laulua, ei kuule juuri ollenkaan, tai jos kuuluukin, 
+            niin kuuluu se kowin waillinaiselta. Mutta jos lawa silloin on sillä puolen mistä tuuli puhaltaa, niin kaikuwat ääniaallot lawalta myötätuuleen siksi woimakkaina ja täyteläisinä ettei puiden humina esityksiä 
+            sanottawasti häiritse. Pohjoisista ilmansuunnista tulewat tuulet eiwät tule häiritsemään kentällä, koska kentän pohjoispuolella on siksi laaja ja korkea hawumetsä, etteiwät ne tuulet kysymyksessä olewaan 
+            paikkaan ollenkaan sowi.</p>
+          <p>Muistan wielä wallan hywin, jo pitempi aika siitä, kun lawa tilapäisesti silloisia juhlia warten, oli rakennettu kentän kaupungin sillan puoleiseen syrjään. Siltä lawalta kaikui musiikkiesitykset 
+            täydellisimmiltä kuin mitä minä puistossa milloinkaan olen kuullut.</p>
+          <p>Wielä huomioon otettawa on, erittäin tärkeä seikka se, että lawa rakennetaan lähelle sitä paikkaa missä yleisö tawallisesti on, ettei esittäjien tarwitse ensin huudella kuuliakuntaa luokseen ennen kuin 
+            woiwat sille mitään esittää.</p>
+          <p>Edellä olewia näkökohtia huomioon ottaen ehdottaisin, että laululawa rakennettaisi kentän kaupungin sillan puoleiseen syrjään. Tältä puolelta luulisin niin hywin puhe- kuin musiikkiesitysten kuuluwan 
+            parhaiten, kunhan waan lawan taustaa ei rakenneta kowin korkeata eikä aiwan suoraa, waan että sen yläosa kohtalaisesti kaareutuisi eteenpäin. Permanto ei saisi olla tarpeettoman korkealla eikä liian ulkonewa 
+            eteenpäin koska se siinä tapauksessa tulisi johtamaan ääniaallot ylös.</p>
+          <p>Jos lawa tälle puolelle wiitoittamaani suuntaan rakennetaan, silloin kentän ympärillä olewat kummut, wastapäätä olewat rauniot ja korkeiden puiden rungot tulisiwat antamaan esiintyjille täydentäwän kaijun.</p>
+          <p className="captionStyle">Aleksi Seppälä.</p>
+        </Article>
+        <h3>Tostai, 6.3.1924</h3>
+        <Article titleText="Hämeen Sanomain arw. Toimitukselta pyydän tilaa seuraawalle oikaisulle.">
+          <p>Tämän lehden 44 numerossa kerrotaan että allekirjoittanut on kieltäytynyt edustaja ehdokkuudesta, että kaikesta maalaisliittolaisesta toiminnasta esillä olewia waaleja warten sen takia, kun Maalaisliiton 
+            piirikokous Lahdessa wiime helmikuun 17 päiwänä hylkäsi Kansallisen kokoomus- ja Kansallisen edistyspuolueiden waaliliitto pyynnit.</p>
+          <p>Jo ennen tätä kokousta pyysi piiritoimikunta suostumustani edustaja ehdokkaaksi, johon wastasin kieltäwästi. Sama pyyntö uudistettiin mainitussa kokouksessa, jolloin wastaus oli sama kuin piiritoimikunnallekin.</p>
+          <p>Waaliliittokysymyksen kokouksessa alusti agron. Wäinö A. Rantala, joka suositteli waaliliittoa Kansallisen edistyspuolueen kanssa, waan asettui epääwälle kannalle Kansalliseen kokoomuspuolueeseen nähden. Asiasta 
+            keskusteltaessa yhdyin alustajaan, mikä käsitys ei tullut kokouksen päätökseksi. Tämä päätös ei waikuttanut ehdokkaaksi kieltäytymiseeni, sillä olin aikaisemmin sen jo ilmoittanut, eikä päätös ole esteenä 
+            maalaisliittolaiselle waalitoiminnallenikaan. </p>
+          <p>Kertojan samoin kuin lehdenkin pitää käsittämän että kuwiteltu menettely olisi tahditonta, niinkuin asian wääristeleminen on rumaa warsinkin julkisuutta warten painettuna.</p>
+          <p className="captionStyle">Hattulassa maalisk. 3 p:nä 1924.</p>
+          <p className="captionStyle">Juho Torppa.</p>
+          <SubDivider className="dividerStyle" />
+          <p><span className="boldStyle">Toimitus</span> walittaen tapahtuneita erehdyksiä pyytää ylläaolewan johdosta huomauttaa, että kyseessäolewa uutinen perustui erään kokouksessa olleen maalaisliittolaisen kertomukseen, 
+            joten luulimme siihen woiwan luottaa.</p>
+        </Article>
+        <h3>Perjantai, 7.3.1924</h3>
+        <Article titleText="Requiem-kuoro!">
+          <p>Hämeen Maakuntajuhlain laulu- ja soittotoimikunnan keskuudessa on herännyt ajatus Cherubinin Requiemin esittämisestä juhlien aikana. Kun kaupungissamme on koko joukko henkilöitä, jotka owat ennen ottaneet osaa 
+            mainitun suursäwellyksen esittämiseen ja siis hywin tuntewat sen, pyydetään kaikkia entisiä Requiem-laulajia kokoontumaan Kerhon huoneustoon ensi lauantaina t.k. 8 pnä klo 6 i.p. keskustelemaan aiheen 
+            toteuttamismahdollisuudesta.</p>
+          <p className="captionStyle">Toimikunnan puolesta:</p>
+          <p className="captionStyle">A. Th. Böök.</p>
+        </Article>
+        <h3>Perjantai, 7.3.1924</h3>
+        <Article titleText="Kristilliset yhtymät Hämeenlinnassa tarwitsewat kodin.">
+          <p>Kristillisten yhtymäin toimintaa waikeuttaa ja suorastaan estääkin sopiwan kokoushuoneuston puuute. Yhtymät sellaiset kuin Nuorten naisten kr. yhdistys, Lähetysyhdistys ja Nuorten raamatunlukupiiri, jotka tahtowat 
+            toimia yhteisymmärryksessä luterilaisen seurakunnan kanssa, owat tässä suhteessa kaikkein waikeimmassa asemassa. Askettäin koetettiin kysymys toistaiseksi ratkaista siten, että päätettiin wuokrata waatimaton huoneusto 
+            ja sopimus siitä piti juuri tehtämän. Wäliin tulleet seikat tekiwät tämän tyhjäksi ja niin jäiwät harrastukset ja toiweet taas toteutumatta. Päätettiin ottaa asia keskusteltawaksi laajemmissa piireissä toiwossa saada 
+            yleisempää kannatusta, koska sen pikainen ja suotuisa ratkaisu tietäisi sinausta koko paikkakunnallemme.</p>
+          <p>Kaikkia tätä kysymystä harrastawia henkilöitä kehoitotaan sen tähden saapumaan yhteiseen kokoukseen, joka pidetään neiti Ahosen Raittiusrawintolassa torstaina t.k. 13 pnä klo 8 illalla.</p>
+          <p>Asia on Herran, tarkoittaen hänen waltakuntansa edistämistä. Siksipä saammekin olla wakuutettuja siitä, sillä hän on sen puolella ja on runsaasti siunaawa kaikkia, jotka koettawat myötäwaikuttaa todella hywän asian 
+            woitolle pääsemiseksi.</p>
+          <p className="captionStyle">Hämeenlinnassa 10. 3. 1924.</p>
+          <p className="captionStyle">Yksi monien puolesta.</p>
         </Article>
 
 
