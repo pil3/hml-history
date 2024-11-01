@@ -57,7 +57,7 @@ const PeoplePage = () => {
         title="Gustaf Eurén"
         copyright="hämewiki, Public domain, via Wikimedia Commons"
         caption="Gustaf Erik Eurén syntyi 20. syyskuuta 1818 Porissa ja kuoli 13. helmikuuta 1872 Hämeenlinnassa. Hän oli suomalainen opettaja, kirjailija ja kielentutkija. Eurén päätyi Hämeenlinnaan valtiovallan määräämänä. Hänen tuli huolehtia uuden lukion perustamisesta. Eurén piti siviilikoulua eli kymnaasia 
-          Saaristenkatu 10:ssä vuosina 1858-1872. Samalla hänet nimitettiin historian lehtoriksi, jota työtä hän hoiti elämänsä ehtooseen asti. Eurén perusti Hämeenlinnaan kaupungin ensimmäisen sanomalehden vuonna 1858 ja toimi muiden töidensä ohessa 'Hämäläisen' päätoimittajana vuosina 1858-1860 ja 1862-1872."
+          Saaristenkatu 10:ssä vuosina 1858-1872. Samalla hänet nimitettiin historian lehtoriksi, jota työtä hän hoiti elämänsä ehtooseen asti. Eurén perusti Hämeenlinnaan kaupungin ensimmäisen sanomalehden vuonna 1858 ja toimi muiden töidensä ohessa „Hämäläisen” päätoimittajana vuosina 1858-1860 ja 1862-1872."
       ></ImageCard>
       <ImageCard
         imgPath="https://upload.wikimedia.org/wikipedia/commons/4/42/Aleksis_Kivi.jpg?20051216132239"
@@ -71,7 +71,7 @@ const PeoplePage = () => {
         imgPath="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fredrika_Wetterhoff.jpg"
         title="Fredrika Wetterhoff"
         copyright="Karl Emil Ståhlberg, Public domain, via Wikimedia Commons"
-        caption="Fredrika Sofia Wetterhoff syntyi 14. tammikuuta 1844 Helsingissä ja kuoli 14. huhtikuuta 1905 Hämeenlinnassa. Hän oli suomalainen pedagogi, joka vuonna 1885 perusti nimeään kantavan ompelu- ja kudontakoulun, 'Työkoulun'. Fredrika Wetterhoff toimi kotiopettajana 
+        caption="Fredrika Sofia Wetterhoff syntyi 14. tammikuuta 1844 Helsingissä ja kuoli 14. huhtikuuta 1905 Hämeenlinnassa. Hän oli suomalainen pedagogi, joka vuonna 1885 perusti nimeään kantavan ompelu- ja kudontakoulun, „Työkoulun”. Fredrika Wetterhoff toimi kotiopettajana 
         Kuljun kartanossa, opiskeli suomen kielen ja kiinnostui kansakoulun perustamisesta Hattulaan. 1872 perhe muutti Hämeenlinnaan, mutta Fredrika lähti Pariisiin opiskelemaan. Myöhemmin Tukholmassa opiskellessaan hän tutustui naisasianaisiin ja työväestön sivistysharrastuksiin 
         ja sai herätteen ryhtyä kehittämään koulutusta kansannaisille. Tästä sai alkunsa idea käsityökoulusta."
       ></ImageCard>
@@ -86,7 +86,7 @@ const PeoplePage = () => {
         imgPath={sibelius}
         title="Johan Christian Julius Sibelius"
         copyright="Linsén Natalia, alkuperäisen kuvan tekijä"
-        caption="'Jean' Sibelius syntyi 8. joulukuuta 1865 Hämeenlinnassa ja kuoli 20. syyskuuta 1957 Järvenpäässä. Hänen kansallisromanttinen musiikkinsa oli tärkeässä osassa Suomen kansallisen identiteetin muodostumisessa. Sibelius on kansainvälisesti tunnetuin ja esitetyin 
+        caption="„Jean” Sibelius syntyi 8. joulukuuta 1865 Hämeenlinnassa ja kuoli 20. syyskuuta 1957 Järvenpäässä. Hänen kansallisromanttinen musiikkinsa oli tärkeässä osassa Suomen kansallisen identiteetin muodostumisessa. Sibelius on kansainvälisesti tunnetuin ja esitetyin 
           suomalainen säveltäjä. Sinfonioiden ja sinfonisten runojen luojana Sibelius oli 1900-luvun merkittävimpiä."
       ></ImageCard>
         <ImageCard

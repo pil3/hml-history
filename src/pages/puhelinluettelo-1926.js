@@ -3,7 +3,7 @@ import * as React from "react"
 import Layout from "../components/layout"
 import ImageSlider from "../components/imageSlider"
 
-import Image from 'react-bootstrap/Image'
+import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
 

@@ -1,14 +1,14 @@
 import * as React from "react"
-import { Link } from 'gatsby'
+import { Link } from "gatsby"
 
 import "bootstrap/dist/css/bootstrap.min.css";
 // import "react-bootstrap-submenu/dist/index.css"
 
 import Image from "react-bootstrap/Image";
-import Container from 'react-bootstrap/Container';
-import Navbar from 'react-bootstrap/Navbar'
-import Nav from 'react-bootstrap/Nav';
-import NavDropdown from 'react-bootstrap/NavDropdown';
+import Container from "react-bootstrap/Container";
+import Navbar from "react-bootstrap/Navbar"
+import Nav from "react-bootstrap/Nav";
+import NavDropdown from "react-bootstrap/NavDropdown";
 import { DropdownSubmenu, NavDropdownMenu} from "react-bootstrap-submenu";
 
 import {navBarStyle, logoStyle} from "../styles/components/header.module.css";
@@ -30,19 +30,19 @@ const Header = () => {
 
             <NavDropdown title="Tekstejä" id="collasible-nav-dropdown">
               <NavDropdown.Item>
-                <Link to="/hauho" className="nav-link" activeClassName="active">Poimintoja Hauhon kirkon arkistosta</Link> 
+                <Link to="/hauho" className="nav-link" activeClassName="active">Hauhon kirkon arkistosta</Link> 
               </NavDropdown.Item>
               <NavDropdown.Item>
                 <Link to="/kouluista-1879" className="nav-link" activeClassName="active">Vanhoista kouluista</Link> 
               </NavDropdown.Item>
               <NavDropdown.Item>
-                <Link to="/olosuhteet-1808" className="nav-link" activeClassName="active">Olosuhteet sotavuosina 1808-1809</Link> 
+                <Link to="/olosuhteet-1808" className="nav-link" activeClassName="active">Olosuhteet 1808-1809</Link> 
               </NavDropdown.Item>
               <NavDropdown.Item>
                 <Link to="/asuminen" className="nav-link" activeClassName="active">Asunto-olosuhteet vuonna 1908</Link> 
               </NavDropdown.Item>
               <NavDropdown.Item>
-                <Link to="/kuritushuone" className="nav-link" activeClassName="active">Kuritushuoneen järjestyssäännöt - 1877</Link> 
+                <Link to="/kuritushuone" className="nav-link" activeClassName="active">Kuritushuoneen järjestyssäännöt</Link> 
               </NavDropdown.Item>
               <NavDropdown.Item>
                 <Link to="/matkailuopas-1915" className="nav-link" activeClassName="active">Matkailuopas - 1915</Link> 

@@ -595,7 +595,7 @@ const carouselArray = [
   key: "imageid61",
   imgSrc: "https://digi.kirjastot.fi/files/fullsize/29226bd41a7f70d2905984163beafb7b.jpg",
   org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan kaupunginmuseo",
-  caption: "Lyseo sai vihdoin oman koulutalon, kun uusrenessanssityylinen 'lyceekartano' valmistui kesäkuussa 1888 Itäisen Linnankadun varrelle, Tähtipuiston kohdalle.",
+  caption: "Lyseo sai vihdoin oman koulutalon, kun uusrenessanssityylinen „lyceekartano” valmistui kesäkuussa 1888 Itäisen Linnankadun varrelle, Tähtipuiston kohdalle.",
   title: "n. 1890"
 },
 {
@@ -770,7 +770,7 @@ const carouselArray = [
   key: "imageid86",
   imgSrc: "https://museovirasto.finna.fi/Cover/Show?source=Solr&id=museovirasto.4ACF1E37A457016B2418581E5722E090&index=0&size=large",
   org: "Museovirasto - Historian kuvakokoelma - Nyblin Daniel, kuvaaja - CC BY 4.0",
-  caption: "Vuosina 1878-1909 käytössä olleen puusillan kestävyyttä epäiltiin alusta asti. Sitä ei saanut ajaa hevosella kuin käyden ja sotaväen oli marssittava 'sekajaloin', ei tahdissa.",
+  caption: "Vuosina 1878-1909 käytössä olleen puusillan kestävyyttä epäiltiin alusta asti. Sitä ei saanut ajaa hevosella kuin käyden ja sotaväen oli marssittava „sekajaloin”, ei tahdissa.",
   title: "1893"
 },
 {

@@ -29,7 +29,7 @@ const AulankoPage = () => {
           imgPath="https://digi.kirjastot.fi/files/fullsize/5b05e569bdf6bed82c4788fcdd204343.jpg"
           title="n. 1890"
           copyright="A. Alopaeuksen Kirjakauppa / A. Alopaeus Bokhandel - Hämeenlinnan kaupunginkirjasto"
-          caption="'2nen Joutsenlampi' eli Metsälampi valmistui entisen Linnasuon paikalle Joutsenlammen ja Aulangonjärven väliin jäävälle alueelle 1880-luvun lopulla. 
+          caption="„2nen Joutsenlampi” eli Metsälampi valmistui entisen Linnasuon paikalle Joutsenlammen ja Aulangonjärven väliin jäävälle alueelle 1880-luvun lopulla. 
           Lammen rannalle istutettiin hopeapajua ja rannat kivettiin, samoin kuin vähän aikaisemmin rakennetulla Joutsenlammella. Metsälammen pohjoispäähän rakennettiin 
           kuvan goottilaistyylinen paviljonki, jota ympäröivään Ruusulaaksoon istutettiin jalopuita ja myös ruusuja, mutta ilmeisesti ruusut menestyivät siellä huonosti ja 
           hävisivät nopeasti. Ruusulaakson paviljongin edessä oli laituri, josta saattoi lähteä soutelemaan lammelle. Metsälammen eteläpäässä oli vielä toinen, pienempi paviljonki."
@@ -46,7 +46,7 @@ const AulankoPage = () => {
         imgPath="https://www.finna.fi/Cover/Show?source=Solr&id=spegeln-bildsamlingarna.bildsam_1935_23%3A19&index=0&size=large"
         title="n. 1890"
         copyright="Åbo Akademin arkistokokoelmat - Lagergrén, Svante (1844-1900), fotograf"
-        caption="Karlbergin ja Aulangon omistaja eversti Hugo Standertskjöld alkoi 1880-luvun puolivälissä panna toimeen 'suurenmoisia kaunistustöitä' Karlbergin kartanon seuduilla. 
+        caption="Karlbergin ja Aulangon omistaja eversti Hugo Standertskjöld alkoi 1880-luvun puolivälissä panna toimeen „suurenmoisia kaunistustöitä” Karlbergin kartanon seuduilla. 
           Aulangonvuoren huipulle tehtiin uusi tie kartanosta ja rakennettiin kaksi kaunista huvimajaa vuonna 1886. Postikortin kuvassa on toinen näistä huvimajoista. Koristeellisesta 
           paviljongista avautui kaunis näköala kohti kuvan taustalla näkyvää Aulangonjärveä ja Lusikkaniemeä ja aina naapuripitäjiin asti. Nykyisin samalla paikalla sijaitsee vuonna 1934 
           rakennettu kaksikerroksinen näköalatasanne."
@@ -62,7 +62,7 @@ const AulankoPage = () => {
         imgPath="https://digi.kirjastot.fi/files/fullsize/4a48bc1b9b1f41f2f65f0e8ad6deb6e5.jpg"
         title="n. 1900"
         copyright="Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma) - Hämeenlinnan kaupunginkirjasto"
-        caption="Karlbergin ja Aulangon omistaja eversti Hugo Standertskjöld alkoi 1880-luvun puolivälissä panna toimeen 'suurenmoisia kaunistustöitä' Karlbergin kartanon seuduilla. 
+        caption="Karlbergin ja Aulangon omistaja eversti Hugo Standertskjöld alkoi 1880-luvun puolivälissä panna toimeen „suurenmoisia kaunistustöitä” Karlbergin kartanon seuduilla. 
           Aulangonvuoren huipulle tehtiin uusi tie kartanosta ja rakennettiin kaksi kaunista huvimajaa vuonna 1886. Postikortin kuvassa on toinen näistä huvimajoista. Koristeellisesta 
           paviljongista avautui kaunis näköala kohti kuvan taustalla näkyvää Aulangonjärveä ja Lusikkaniemeä ja aina naapuripitäjiin asti. Nykyisin samalla paikalla sijaitsee vuonna 1934 
           rakennettu kaksikerroksinen näköalatasanne."
@@ -87,11 +87,11 @@ const AulankoPage = () => {
         imgPath="https://digi.kirjastot.fi/files/fullsize/19547f337fe86add58ba7ff7ebdaef43.jpg"
         title="1912"
         copyright="Suomalainen kirjakauppa / Hämeenlinna - Hämeenlinnan kaupunginkirjasto"
-        caption="Karlbergin kartanon edustapuisto kunnostettiin Standertskjöldin aikana upeaksi muotopuutarhaksi: 'Kartanon suurta puutarhaa on suuresti laajennettu ja kaunistettu. 
+        caption="Karlbergin kartanon edustapuisto kunnostettiin Standertskjöldin aikana upeaksi muotopuutarhaksi: „Kartanon suurta puutarhaa on suuresti laajennettu ja kaunistettu. 
         Siinä kasvaa kaikenlaatuisia puita, vielä useampia lajeja kuin kaupungin parkissa, esim. hopeapoppelia ja cypressiä, paitsi tammia ja lehmuksia y.m. ... Itse kartanon edessä kasvaa 
         monta lajia kukkia monenmuotoisissa rabateissa. Täällä on myöskin suurista kallion lohkareista muodostettu luola, jossa on kalvetta suven helteellä ja jossa suihkulähde vielä ilmaa virkistää. 
         ... Monta muutakin veistokuvaa on puutarhassa sekä kauniita vaaseja. Reflexionipalloja on useita sekä suuria erivärisiä vedellä täytettyjä lasipalloja, jotka auringon paisteessa näyttävät 
-        mahdottomilta kastehelmiltä.'"
+        mahdottomilta kastehelmiltä.”"
       ></ImageCard>
       <ImageCard
         imgPath="https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.E4EF10644156A10629A2B6A9174E58E9&index=0&size=large"
@@ -218,8 +218,8 @@ const AulankoPage = () => {
         imgPath="https://digi.kirjastot.fi/files/fullsize/9a409928f17cb984fe14f89f9cc2f7f5.jpg"
         title="n. 1933"
         copyright="Suomalainen kirjakauppa / Hämeenlinna - Hämeenlinnan kaupunginkirjasto"
-        caption="Vuonna 1934 ilmestynyt Hämeenlinnan matkaopas kuvailee Aulangon väliaikaisen ravintolarakennuksen kuistilta avautuvaa näkymää näin: 'Pääravintolan kuistilta aukeaa eteemme ainutlaatuinen näky: 
-        suurenmoinen puisto suihkukaivoineen, oikealla loivasti kaartuva, kivetty ranta ja edempänä taustalla Birger Jarlin linna ja sen takana kohoutuva Hämeenlinna. Siinä on näköalan ihanuutta, joka etsii vertojaan.'"
+        caption="Vuonna 1934 ilmestynyt Hämeenlinnan matkaopas kuvailee Aulangon väliaikaisen ravintolarakennuksen kuistilta avautuvaa näkymää näin: „Pääravintolan kuistilta aukeaa eteemme ainutlaatuinen näky: 
+        suurenmoinen puisto suihkukaivoineen, oikealla loivasti kaartuva, kivetty ranta ja edempänä taustalla Birger Jarlin linna ja sen takana kohoutuva Hämeenlinna. Siinä on näköalan ihanuutta, joka etsii vertojaan.”"
       ></ImageCard>
       <ImageCard
         imgPath="https://digi.kirjastot.fi/files/fullsize/0b3c5469823cef7b809e10c260c4309e.jpg"

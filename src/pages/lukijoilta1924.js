@@ -18,19 +18,19 @@ const Lukijoilta1924Page = () => {
         <p>Ylläolewalla otsakkeella arw. lehtenne palstoilla eilen julkaistussa kirjoituksessa moititaan Suomi-yhtiötä siitä, että se kuolemantapauksessa on kieltäytynyt maksamasta wakuutusta, 
           joka ei koskaan ole ollut woimassa. Saadakseen tilaisuuden näin aiheettomaan moitteeseen silwoo kirjoittaja lukemastaan yhtiön kirjeestä irti osan yleisön nähtäwäksi, mutta salaa toisen 
           osan samaa lausettakin. Kokonaisuudessaan kuului yhtiön perustelu sen ewätessä kysytyn wakuutusssumman maksamisen seuraawasti:</p>
-        <p>'Koska wakuutuksenhaltija hakemuksessaan ei sitoudu suorittamaan ensimäistä wakuutusmaksua eikä yhtiöllä ole oikeutta ulosottoteitse sitä periä jos hakija jättää wakuutuksen 
+        <p>„Koska wakuutuksenhaltija hakemuksessaan ei sitoudu suorittamaan ensimäistä wakuutusmaksua eikä yhtiöllä ole oikeutta ulosottoteitse sitä periä jos hakija jättää wakuutuksen 
           lunastamatta, ei se, että yhtiö hywäksyy hakemuksen, wielä tiedä, että olisi syntynyt wakuutussopimus hakijan ja yhtiön kesken, eikä hywäksyminen woi yksipuolisesti welwoittaa yhtiötä. 
           Sopimus on päätetty wasta kun wakuutuksenhakija on suorittanut ensimäisen wakuutusmaksun ja wakuuttaja on antanut hänelle wakuutuskirjan. Tämä on nimenomean säddetty wakuutus ehtojen 1 
           §ssä, jossa wakuutuksen woimaanastumisen aika ja edellytys on näillä sanoin määritelty. Kun wakuutuskirjaa puheenalaisessa tapauksessa ei annettu wakuutuksenhaltijalle, ei yhtiölle ole 
-          syntynyt mitään maksuwelwollisuutta'.</p>
+          syntynyt mitään maksuwelwollisuutta”.</p>
         <p>Wielä yrittää kirjoittaja moittia yhtiötä siitä, että sen asiamies yhtiön antamien ohjeiden mukaisesti kieltäytyi wastaanottamasta sairastuneen hakijan puolesta tarjottua wakuutusmaksua 
           ja siten saattamesta woimaan sitä wakuutusta, joka sittemmin kuollut hakija puolestaan olisi halunnut saada. Tähänkin menettelyyn on kirjoittajan lukemassa kirjeessä se asianmukainen 
-          selitys, että asiamies ohjesääntönsä mukaan ei saa 'wakuutusmaksua wastaanottamalla mennä sitomaan yhtiötä wastuuseen, joka sattuneen sairauden johdosta on muuttunut toiseksi kuin se 
-          yhtiön saamien tietojen mukaan oli'.</p>
-        <p>Ja waikka kirjoittaja on samasta kirjeestä lukenut, että 'kaikkien muitten maamme henkiwakuutusyhtiöiden kanta tällaisessa tapauksessa on sama' kuin Suomi-yhtiön, yrittää tämä 
-          kynäniekka lopuksi kiihoittaa yleisöä erikseen Suomi-yhtiötä wastaan, jossa hän arwelee 'jokaisen ajattelewan henkilön' woiwan muodostaa käsityksensä hänen typistetyn ja erehdyttäwän 
+          selitys, että asiamies ohjesääntönsä mukaan ei saa „wakuutusmaksua wastaanottamalla mennä sitomaan yhtiötä wastuuseen, joka sattuneen sairauden johdosta on muuttunut toiseksi kuin se 
+          yhtiön saamien tietojen mukaan oli”.</p>
+        <p>Ja waikka kirjoittaja on samasta kirjeestä lukenut, että „kaikkien muitten maamme henkiwakuutusyhtiöiden kanta tällaisessa tapauksessa on sama kuin Suomi-yhtiön, yrittää tämä 
+          kynäniekka lopuksi kiihoittaa yleisöä erikseen Suomi-yhtiötä wastaan, jossa hän arwelee „jokaisen ajattelewan henkilön” woiwan muodostaa käsityksensä hänen typistetyn ja erehdyttäwän 
           kertomuksensa perusteella. </p>
-        <p>Kuten näkyy olisi kirjoittajalla ennen kaikkea ollut aihetta tapauksen johdosta teroittaa mieliin, kuinka lukuisat henkilöt woisiwat pelastaa leskelleen ja lapsilleen 'edes kodin' 
+        <p>Kuten näkyy olisi kirjoittajalla ennen kaikkea ollut aihetta tapauksen johdosta teroittaa mieliin, kuinka lukuisat henkilöt woisiwat pelastaa leskelleen ja lapsilleen „edes kodin” 
           -kuten kirjoittaja sanoo, jos he ajettuisiwat wähemmän kylmäkiskoiselle kannalle henkiwakuutusmiesten uudistettuihin kehoituksiin ajoissa turwata perheensä henkiwakuutuksella ja jos 
           hänen mielestään henkiwakuutusyhtiöitten wakuutusehdot olisiwat siten muutettawat, että wakuutus astuisi jo hywäksymishetkestä asti woimaan, olisi hän otettuaan asioista selkoa woinut 
           kertoa, että yhtiöt myös saisiwat oikeuden tarpeen tullen ulosottotoiminkin periä ensimmäisen wakuutusmaksun, jonka warsin monet hakijat nykyisin yhtiöiden wahingoksi jättäwät suorittamatta. 
@@ -71,7 +71,7 @@ const Lukijoilta1924Page = () => {
           odotettawissa mitä yllätyksiä hywänsä. Wakuutusyhtiöthän käytännössä ylimalkaan sellaisissakin tapauksissa, joissa tulkinta jossain määrin saattaa horjua owat oman etunsakin kannalta 
           katsoneet sopiwammaksi walwoa asiakkaittensa etuja suorittamalla wakuutusmaksun. Tällainen suhtautuminen yleisöön onkin johtanut siihen, että yleinen luottamus wakuutusyhtiöihin on ollut 
           sangen suuri. Esilläolewassa tapauksessa emme sitäwastoin woi ummistaa silmiämme siltä tosiasialta, että yhtiö, jonka sekä oikeudellinen että siweellinen welwollisuns on katsottawa 
-          olewan suorittaa wakuutusmaksu, kuitenkin nyt on toiminut wastoin entisiä periaatteitaan. Eiköhän tässäkin tapauksessa olisi ollut 'suurele kansalliselle laitoksellemme' joka suhteessa 
+          olewan suorittaa wakuutusmaksu, kuitenkin nyt on toiminut wastoin entisiä periaatteitaan. Eiköhän tässäkin tapauksessa olisi ollut „suurele kansalliselle laitoksellemme” joka suhteessa 
           edullisempaa suorittaa suhteellisesti pieni wakuutusmaksu säästyen siten oikeutetulta moitteelta. Selityskirjelmässä huomauttaa yhtiö edelleen puoltawansa sellaisen käytännön 
           aikaansaantia, että wakuutus olisi katsottawa tulleen woimaan jo wakuutuksen hywäksymisellä yhtiön puolelta. Esilläolewassa tapauksessa ei yhtiö ole halukas suorittamaan wakuutusmaksua, 
           waikka wakuutuskirjat jo on ollut asiamiehen hallussa, on tältä waadittu ja maksua tarjottu.</p>
@@ -80,9 +80,9 @@ const Lukijoilta1924Page = () => {
       <SubDivider className="dividerStyle" />
       <h3>Sunnuntai, 6.1.1924</h3>
       <Article titleText="Pari nöyrää kysymystä Suomi-yhtiölle.">
-        <p>Yhtyen täydellisesti tämän lehden kuluwan tammikuun 5 päiwän numerossa 'Suomi-yhtiössä wakuutettuja' nimimerkillä julkaistuun kirjoitukseen: 'Wastinetta Suomi-yhtiölle',  pyydän samassa 
+        <p>Yhtyen täydellisesti tämän lehden kuluwan tammikuun 5 päiwän numerossa „Suomi-yhtiössä wakuutettuja” nimimerkillä julkaistuun kirjoitukseen: „Wastinetta Suomi-yhtiölle”,  pyydän samassa 
           ja edellisissä kirjoituksissa kosketellun huomiota herättäneen henkiwakuutusjutun johdosta tehdä lisäksi wielä pari kysymystä Suomi-yhtiölle.</p>
-        <p>Suomi-yhtiön alkuperäisissä wakuutusehdoissa sanotaan woimaanastumisesta näin: 'Wakuutus astuu woimaan, kun ensimäinen wakuutusmaksu on suoritettu' (kohta 1). Wakuutuskirjasta ja sen 
+        <p>Suomi-yhtiön alkuperäisissä wakuutusehdoissa sanotaan woimaanastumisesta näin: „Wakuutus astuu woimaan, kun ensimäinen wakuutusmaksu on suoritettu” (kohta 1). Wakuutuskirjasta ja sen 
           antamisesta wakuutetulle ei siis mainita mitään juuri siinä sääntöjen kohdassa, joka määrittelee wakuutuksen woimaanastumisen. Ainoa ehto siihen on wakuutusmaksun suorittaminen, jossa 
           suorittajana on wakuutettu ja suoritus yhtiön puolelta täysin wapaaksi tunnustettu.</p>
         <p>Wakuutuskirja kyllä silloinkin siitä huolimatta annettiin ensimäisen wakuutusmaksun suorituksen yhteydessä, mutta mahdotonta on ajatella, että wakuutuskirjan antamisesta wakuutetulle 
@@ -90,8 +90,8 @@ const Lukijoilta1924Page = () => {
           reilujen ihmisten kesken mielellään annetaan kuitti, niin myöskin ensimäsestä wakuutusmaksusta wakuutuskirja annetaan kuitiksi, samalla kun se myöskin sisältää wakuutussopimuksen 
           wakuuttajan ja yhtiön wälillä.</p>
         <p>Suomi-yhtiö on sittemmin muuttanut wakuutusehtojensa sanamuotoa ehkä paljonkin. Niinpä wakuutuksen woimaanastumisesta nykyisissä wakuutusehdoissa herrojen Lawoniuksen ja Ingmanin mukaan 
-          säädetään: 'Wakuutus astuu woimaan kun wakuutuksen haltija on suorittanut ensimmäisen wakuutusmaksun ja wakuuttaja on antanut hänelle wakuutuskirjan'. Tästä wakuutuskirjan antamisesta 
-          wakuutetulle, josta itse wanhemmat wakuutusehdot eiwät mainitse mitään, on nyt tehty 'edellytys', joka kaataa kokonaan sen mitä aikaisemmin on wakuutuksen woimaanastumisesta säädetty.</p>
+          säädetään: „Wakuutus astuu woimaan kun wakuutuksen haltija on suorittanut ensimmäisen wakuutusmaksun ja wakuuttaja on antanut hänelle wakuutuskirjan”. Tästä wakuutuskirjan antamisesta 
+          wakuutetulle, josta itse wanhemmat wakuutusehdot eiwät mainitse mitään, on nyt tehty „edellytys”, joka kaataa kokonaan sen mitä aikaisemmin on wakuutuksen woimaanastumisesta säädetty.</p>
         <p>Nyt pyydän nöyrimmästi kysyä, milloin Suomi-yhtiön wakuutusehtoihin on wakuutuksen woimaanastumisesta tehty yllämainittu sananmuodonmuutos ja miten tätä muutosta on perusteltu. Onko 
           muutos ollut waan sananmuodonmuutos, wai onko tahdottu todellakin tehdä myös tärkeä wakuutuksen haltijan etua rajoittawa ajallinen muutos? Ja wielä. Onko asiamiesohjesäännöissä yhtiön 
           alkuajoilta asti ollut säännös, joka kieltää asiamiestä wastaanottamasta wakuutusmaksua, jos wakuutuksen ottaja on sairastunut?</p>
@@ -104,22 +104,22 @@ const Lukijoilta1924Page = () => {
           Wielä saimme 5 syltä rimapuita H:linnan Höyrysahalta, mistä kaikesta sydämellinen kiitos. Rahat on käytetty seuraawasti: Joulupaketteja 56:lle eri perheelle, sisältäen riisiä, wehnäjauhoja, 
           herneitä, keskimäärin kutakin lajia 1 kg, sianlihaa keskimäärin 800 gr. Joululehden jakelun yhteydessä tarjoiltiin kahwia woipullan kera. Menot Smk. 2,142:40. Lastenjuhla, jossa 59 lasta 
           sai tarpeellisia ja lämpöisiä waatekappaleita, Smk. 1,178.25. Yhteissumma 3,420:65. Samalla lausumme myös kiitoksemme ystäwille, jotka owat kuukausittain kannattaneet työtämme kowaosaisten 
-          keskuudessa kuin myöskin ompeluseuran tarmokkaille jäsenille. Jumalan siunaus on palkkanne olewa 'Hywää tehdessänne älkäät wäsykö'.</p>
+          keskuudessa kuin myöskin ompeluseuran tarmokkaille jäsenille. Jumalan siunaus on palkkanne olewa „Hywää tehdessänne älkäät wäsykö”.</p>
         <p className="captionStyle">H:linna tammik. 11 pnä 1924.</p>
         <p className="captionStyle">Kiitollisuudella Elin Bärlund, Rosa Nuotio.</p>
         <p className="captionStyle">Slummisisaret.</p>
       </Article>
       <SubDivider className="dividerStyle" />
       <h3>Perjantai, 18.1.1924</h3>
-      <Article titleText="'Saa ansaitsemansa rangaistuksen'.">
-        <p>Lukiessani Hämeen Sanomain 11:stä numerosta uutista H:linnassa tapahtuneesta törkeästä puukotuksesta ajattelin millaista iwaa on uutisen lopussa olewa lause: 'poliisi on kuitenkin hänen' 
-          (rikoksen tekijän) 'jäljillään ja toiwottawasti roisto saa raakalaisteostaan ansaitsemansa rangaistuksen.' Onko se ansionmukainen rangaistus, jos tuollainen roisto ja peto, joka 
+      <Article titleText="„Saa ansaitsemansa rangaistuksen”.">
+        <p>Lukiessani Hämeen Sanomain 11:stä numerosta uutista H:linnassa tapahtuneesta törkeästä puukotuksesta ajattelin millaista iwaa on uutisen lopussa olewa lause: „poliisi on kuitenkin hänen” 
+          (rikoksen tekijän) „jäljillään ja toiwottawasti roisto saa raakalaisteostaan ansaitsemansa rangaistuksen.” Onko se ansionmukainen rangaistus, jos tuollainen roisto ja peto, joka 
           kieltolain maassa raatelee, ilman pienintäkään aihetta, kahta rauhallista kulkijaa, joita hän ei edes tunne, jos hän saa kuukauden, ehkäpä parikin istua wankilassa, jossa hän elää 
           puhtauteen ja ruokaan nähden herroiksi, paljon paremmin, kuin kunniallinen, suuren perheen isä ränsistyneessä tuwassaan. Wankila ei tuolle laiskalle lurjukselle ole rangaistus, waan 
           mitä miellyttäwin talwikortteeri, jossa ei työ rasita. Nuo onnettomat puukotetut saawat wielä kaiken kärsimänsä lisäksi elättää puukottajaansa linnassa, koska he arwattawasti owat 
           weroa maksawia kansalaisia.</p>
         <p>Ei wankila, nykyisessä muodossaan, ole ansionmukainen rangaistus tuollaisille huligaaneille. Miksi ei tuollaista sakkia edes wankilassa kohdella siten, kun he ansaitsewat, jotta 
-          wankila peljättäisi heitä, ja he edes rangaistuksen pelossa jättäisiwät rikokset tekemättä, sillä mitään moraalisia arwoja he eiwät ymmärrä. Suomen wankilat owat 'kurjalla' kannalla 
+          wankila peljättäisi heitä, ja he edes rangaistuksen pelossa jättäisiwät rikokset tekemättä, sillä mitään moraalisia arwoja he eiwät ymmärrä. Suomen wankilat owat „kurjalla” kannalla 
           siksi, että wankeja lellitellään liiaksi. Samassa Hämeen Sanomain numerossa on myös uutinen, kuinka työtön mies Turussa on yrittänyt istua syyllisen nimessä 5 kuukauden wankila
           rangaistuksen syystä, että hänelle on syyllinen luwannut, ei maksanut, jonkun pikkusumman, eikö tämä ole mainio näyte siitä, että wankilaan meillä mennään huvin wuoksi. Mutta mitä 
           turwaa meillä kunnollisilla kansalaisilla ja weronmaksajilla silloin on laista, kun kuka huligaani hywänsä saa meidät ryöstää ja raadella rangaistuksetta silloinkin waikka hänet 
@@ -127,15 +127,15 @@ const Lukijoilta1924Page = () => {
           wähenewät tawattomasti ja wankilan pelko pakottaa monet tuhannet Suomen huligaanit ja wiinatrokarit rehelliseen työhön ja kunnialliseen elämään. Laitettakoon, hywin järjestetyn 
           wankien työn awulla ja säästäwäisyydellä asiat niin, että jokainen Suomen wanki tuottaisi waltiolle waikkapa waan 1 markan hyödyn wuorokaudessa sen sijaan, että nyt waltio hänen 
           työnsä lisäksi saa maksaa 15 á 16 mk. wuorokaudessa hänen elättämisekseen.</p>
-        <p>Pois lellittely ja wäärä 'ihmisyys', kuri ja järjestys maahan!</p>
+        <p>Pois lellittely ja wäärä „ihmisyys”, kuri ja järjestys maahan!</p>
         <p className="captionStyle">Cato.</p>
       </Article>
       <SubDivider className="dividerStyle" />
       <h3>Keskiviikko, 30.1.1924</h3>
       <Article titleText="Kaikille Pohjois- ja Etelä Hämeen Suojeluskuntapiirien Suojeluskunnille.">
-        <p>Täten kutsutaan kaikkia Hämeen läänissä asuwia suojeluskuntalaisia ottamaan osaa 'Hämeen Hiihtomestaruusmalja' -kilpailuihin, jotka allaolewa Suojeluskunta järjestää sunnuntaina 
+        <p>Täten kutsutaan kaikkia Hämeen läänissä asuwia suojeluskuntalaisia ottamaan osaa „Hämeen Hiihtomestaruusmalja” -kilpailuihin, jotka allaolewa Suojeluskunta järjestää sunnuntaina 
           helmikuun 17 p:nä 1924 klo 9 a.p. matkalla Hämeenlinna Riihimäki (taikka päinwastoin; matkan pituus noin 45 km).</p>
-          <p>Woittaja saa haltuunsa wuodeksi Hämeenlinnan Kansallis Kerhon lahjoittaman komean, 2,500 markan arwoisen 'Hämeen Hiihtomestaruus maljan', jota ensimmäisen kerran puolustaa M. 
+          <p>Woittaja saa haltuunsa wuodeksi Hämeenlinnan Kansallis Kerhon lahjoittaman komean, 2,500 markan arwoisen „Hämeen Hiihtomestaruus maljan”, jota ensimmäisen kerran puolustaa M. 
             Talwia Kangasalan Sksta; useita yksityispalkintoja jaetaan.</p>
           <p>Suojeluskunnat ilmoittawat osanottajien nimet allekirjoittaneelle 7. 2. 1924 mennessä. Lähemmät määräykset kilpailureitistä, majoituksesta y.m. annetaan myöhemmin.</p>
           <p>Runsasta osanottoa toiwoen lausumme kaikki suojeluskuntalaiset terwetulleiksi yllämainittuihin kilpailuihin.</p>
@@ -158,9 +158,9 @@ const Lukijoilta1924Page = () => {
           <p className="captionStyle">Os.: Selki (Hangon rata).</p>
         </Article>
         <Article titleText="Sokerijuurikaswiljelyksen edistäminen Etelä-Hämeessä.">
-          <p>Sanomalehdissä on kierrellyt uutinen, jonka mukaan Salon Raakasokeritehtaan toimesta äsken on pidetty neuwottelukokous, johon on kutsuttu edustajia eri seuduilta ja jossa on 'todettu' 
-            erinäisiä sokerijuurikaswiljelystä koskewia ponsia. Ainoa 'edustaja', joka on nimeltä mainittu, on hra J. Torppa Hattulasta, joka oli walittu kokouksessa puhetta johtamaan.</p>
-          <p>Tämän johdosta täytyy kysyä, owatko todelliset sokerijuurikaswiljelijät Etelä-Hämeessä jo niin täydellisesti häwinneet, että heidän 'edustajaksi' on täytynyt ottaa pohjalainen 
+          <p>Sanomalehdissä on kierrellyt uutinen, jonka mukaan Salon Raakasokeritehtaan toimesta äsken on pidetty neuwottelukokous, johon on kutsuttu edustajia eri seuduilta ja jossa on „todettu” 
+            erinäisiä sokerijuurikaswiljelystä koskewia ponsia. Ainoa „edustaja”, joka on nimeltä mainittu, on hra J. Torppa Hattulasta, joka oli walittu kokouksessa puhetta johtamaan.</p>
+          <p>Tämän johdosta täytyy kysyä, owatko todelliset sokerijuurikaswiljelijät Etelä-Hämeessä jo niin täydellisesti häwinneet, että heidän „edustajaksi” on täytynyt ottaa pohjalainen 
             huwilanomistaja, jolla ei woi olla sanottawaa kokemusta asioista? Wai onko tahdottu antaa kokoukselle erityistä loistoa hankkimalla sille puheenjohtajaksi entinen suurlakkoajan 
             kuwernööri? Ja owatko muut edustajat olleet pätewämpiä tekemään asiasta päätöksiä kuin puheenjohtaja?</p>
           <p>Ilmoituksissaan Sokerijuurikastehdas edelleen wakuuttaa, että sokerijuurikaswiljelys antaa suurempaa woittoa hehtaaria kohti kuin muut wiljelyskaswit. Ainakin Etelä-Hämeessä owat 
@@ -224,7 +224,7 @@ const Lukijoilta1924Page = () => {
           <p>Täällä maaseudulla, jossa ei aiwan tarkkaan tunneta puoluekeskuselimien ja sanomalehtien wälisiä kahnauksia, tuntuu käsittämättömältä että ollenkaan tarwitsee keskustella porwaripuolueiden 
             yhteisestä waaliliitosta. Wielä kummemmalta kuuluu, että sitä wastustetaan. Yhtymisen pidämme aiwan luonnollisena ja wälttämättömänä. Yksinkertaisuudessamme emme huomaa suurta eroa nykyisen 
             ajan ja wuoden 1917 painostawien olojen wälillä. Silloin saiwat sosialistit tahtonsa läpiajetuksi ryssäin pistinten awulla; nyt ei heidän tarwitse muuta kuin sanella liewiä laittomuusuhkauksia, 
-            niin toiweensa toteutuwat. Kun waltiollisista oloista olemme saaneet noin lohduttoman käsityksen kunnallisasioista ja tunnemme tuon 'weljeyden' ja 'tasa-arwoisuuden' ikäwän irwikuwan, jonka 
+            niin toiweensa toteutuwat. Kun waltiollisista oloista olemme saaneet noin lohduttoman käsityksen kunnallisasioista ja tunnemme tuon „weljeyden” ja „tasa-arwoisuuden” ikäwän irwikuwan, jonka 
             hywänä seurauksena on ollut porwarillisten puoluerajain poistuminen useissa kunnissa ja yhteisen rintaman muodostuminen kumouksellisia wastaan, emmekä tunne todellista syytä, miksi kuulumme 
             eri karsinoihin waltiollisissa waaleissa, niin itsestään syntyy kysymys: kuinkahan suuria ja waikeasti sowitettawia niitten puoluepääherrojen ja sanomalehtien erimielisyydet owat, kun ei niitä 
             woida nytkään jättää syrjään ja puhaltaa yhteen hiileen, mistä syttyisi porwarillinen waaliliitto, jonka tunnusmerkkinä olisi: Isänmaanpetturit pois yhteiskuntarakennukseltamme!</p>
@@ -235,7 +235,7 @@ const Lukijoilta1924Page = () => {
           <p className="captionStyle">Huolestunut maalainen.</p>
         </Article>
         <Article titleText="Entisen sokerijuurikaswiljelijän kirjoituksen johdosta.">
-          <p>Tämän lehden 25 numerossa on 'entinen sokerijuurikaswiljelijä' sala-ampujan tawalla hyökännyt allekirjoittaneen kimppuun ja samalla yrittänyt wahingoittaa Suomen Raakasokeritehtaan pyrkimyksiä; 
+          <p>Tämän lehden 25 numerossa on „entinen sokerijuurikaswiljelijä” sala-ampujan tawalla hyökännyt allekirjoittaneen kimppuun ja samalla yrittänyt wahingoittaa Suomen Raakasokeritehtaan pyrkimyksiä; 
             ja koska kirjoitus woipi johtaa asiaa tuntemattoman harhaan, niin muutama sana sen walaisemiseksi.</p>
           <p>Kuten mainitussa kirjoituksessa sanotaan, oli Raakasokeritehtaan puolesta kutsuttu eri seudulta wiljelijöitä ja tehtaan asiamiehiä neuwottelemaan sokerijuurikaswiljelyksen 
             edistämismahdollisuudesta. Etelä=Hämeestä oli kokouksessa saapuwilla wiljelijöistä maanwiljelijä T. Kupila Hattulasta.</p>
@@ -247,7 +247,7 @@ const Lukijoilta1924Page = () => {
             tähänastisesta kokemuksesta wiljelijöillä ja tämän perusteella ei woi wielä lopullisesti tuomita meillä alkunnpantua sokerijuurikkaan wiljelemistä.</p>
           <p>Kun ottaa huomioon sen suuren kansataloudellisen yrityksen ja ne pääomat, mitkä siihen on kiinnitetty, niin tulee saada warmempi käsiiys, kuin minkä lyhytaikainen kokemus on esiin tuonut, 
             kotimaisen sokerituotannon kannattawaisuudesta meillä, ennenkuin siitä luowutaan. Suotuisimmissakaan oloissa ei waikeuksitta ole päästy tarkoitukseen. Meillä sitä wähemmin sillä sokerijuurikasta 
-            woidaan nimittää 'kultiuurikaswiksi', joka waatii wiljelijältään huolellista hoitoa hywin menestyäkseen. Mutta sen saatuaan palkitsee se myöskin wiljelijän waiwat arwokkaalla tuotteellaan ja 
+            woidaan nimittää „kulttuurikaswiksi”, joka waatii wiljelijältään huolellista hoitoa hywin menestyäkseen. Mutta sen saatuaan palkitsee se myöskin wiljelijän waiwat arwokkaalla tuotteellaan ja 
             jättää maan seuraawille kosweille paksumultaisena ja rawintorikkaana. On todettu, että yksin juurikkaiden naattien rehuarwo wastaa samankokoiselta peltoalalta saatua apila-nurmea.</p>
           <p>Ottaessani edelläesitetyt näkökohdat huomioon, suostuin awustamaan tehtaan neuwojia wilselyssopimusten tekemisessä, enkä käsittänyt, että täten olisin pannut entisen wiljelijän leipään kiweä, 
             sitä wähemmin että tällä toimenpiteellä tulisin anastamaan kadehdittua tointa.</p>
@@ -269,13 +269,13 @@ const Lukijoilta1924Page = () => {
         <SubDivider className="dividerStyle" />
         <h3>Torstai, 14.2.1924</h3>
         <Article titleText="Wastalause.">
-          <p>Hämeen Sanomain numerossa 3 helmikuun 9 päiwänä olleen uutisen johdosta, koskewa syyttäjien ja poliisimestarien osuuksia kieltolakirikoksista tuomituista sakoista, saan täten yhtenä 'osakkaana' 
+          <p>Hämeen Sanomain numerossa 3 helmikuun 9 päiwänä olleen uutisen johdosta, koskewa syyttäjien ja poliisimestarien osuuksia kieltolakirikoksista tuomituista sakoista, saan täten yhtenä „osakkaana” 
             panna wastalauseeni sen johdosta, että sanomalehdessä julkaistaan tietoja, jotka koskewat wirkatoimestani tulewia palkkioetuuksia. Sanomalehti ei liene sitä warten olemassa, että yleisö saisi 
             tietää kuinka paljon minulla on ollut tuloja ja kieltämättä täytynee minulla olla oikeus waatia tässä suhteessa waitioloa. Miksi ei ilmoiteta nimeltä niitä lukuisia kieltolainrikkojia, wiinatrokareita, 
             jotka lakia uhmaten ja ilkkuen lewittäwät myrkkyä laajoihin kansankerroksiin ja onnettomien ihmisten juomahimoa hywäkseen käyttäen hyötywät monin kerroin ja kun joutuwat lopulta oikeuteen wastaamaan 
-            rikoksestaan, edelleen saawat pysyä tuntemattomana suuren yleisön edessä ja harjoittaa ala-arwoista ammattiaan. Jos todella pantaisiin 'salat julki', niin ei minulla olisi mitään sitä wastaan, 
+            rikoksestaan, edelleen saawat pysyä tuntemattomana suuren yleisön edessä ja harjoittaa ala-arwoista ammattiaan. Jos todella pantaisiin „salat julki”, niin ei minulla olisi mitään sitä wastaan, 
             waikka ansioni tulisi wastakin suuren yleisön tietoon, mutta niin kauan kun kieltolakirikkoja saa esiintyä tuntemattomana, lienee minulla myös oikeus pysyä tuntemattomana. Lahti-lehdessä oli ollut 
-            myös painettuna uutinen, jonka otsikkona oli ollut 'kieltolakitienistit'. Kuten jo otsikosta hywin näkyy, ei uutista parhaalla tahdollakaan woi ymmärtää muulla kuin yhdellä tawalla. Minut asetetaan 
+            myös painettuna uutinen, jonka otsikkona oli ollut „kieltolakitienistit”. Kuten jo otsikosta hywin näkyy, ei uutista parhaalla tahdollakaan woi ymmärtää muulla kuin yhdellä tawalla. Minut asetetaan 
             pahempaan asemaan kuin lainrikkoja, joudun suuren yleisön eteen tekemään tiliä tuloistani. Minun syykseni ei suinkaan woida lukea sitä, että olen osuuteni saanut, sillä olenhan sen laillisella tawalla 
             saanut. Yleisöllä lienee wähän mielenkiintoa minun yksityisiin tuloihini niin kauan kuin kieltolainrikkojat saawat rauhassa, ilman että heidän nimiään ilmastaan yleisölle, tehdä rikoksiaan ja heidän 
             toimintaansa ei julkisesti puututa. Jos arw. Toimitus yksityisesti haluaa tietoja tuloistani, niin pyydän kääntymään suoraan minun puoleeni ja rohkenen lopuksi toiwoa, että minä tulojeni puolesta saan 
@@ -284,7 +284,7 @@ const Lukijoilta1924Page = () => {
           <p className="captionStyle">Hannes Heinonen.</p>
           <p className="captionStyle">Kärkölän piirin nimismies.</p>
           <SubDivider className="dividerStyle" />
-          <p><span className="boldStyle">Toimitus,</span> jota ylläolewan Herra Nimismiehen 'vastalauseen' sekä säwy että sisältö suuresti kummastuttaa, pyytää huomauttaa, että kysymyksessä olewa uutinen kuuluu 
+          <p><span className="boldStyle">Toimitus,</span> jota ylläolewan Herra Nimismiehen „vastalauseen” sekä säwy että sisältö suuresti kummastuttaa, pyytää huomauttaa, että kysymyksessä olewa uutinen kuuluu 
           n.s. lääninhallituksen uutisiin ja on julkaistu samalla kuin meidän lehdessämme myöskin kaikissa niissä Hämeen läänin sanomalehdissä, jotka yleensä tulewat näistä uutisista osallisiksi. Herra 
           Nimismiehen arwostelut ja wertailut woimme hywällä syyllä jättää omaan arwoonsa. Pyydämme kuitenkin herra Nimismiehelle huomauttaa, että otamme kiitollisina wastaan lehdessä uutisia julkaistawaksi 
           kieltolain ammattirikkojista ja m.m. heidän tuloistaan, jos hän meille niitä woi toimittaa.</p>
@@ -297,8 +297,8 @@ const Lukijoilta1924Page = () => {
             näyttäkäämme, että mekin woimme ja tahdomme lisätä suomalaisten olympiajoukkuetta yhdellä miehellä, kokoamalla niinkuin Riihimäkikin. Sillä mitä suuremman joukkueen Suomi woi lähettää olympialaisiin, 
             sitä suuremmat owat woitonmahdollisuudet. Jotta tämä woisi toteutua, on jokaisen hämeenlinnalaisen yhdistyksen, seuran ja muodostuman otettawa asia esille kokouksissa ja oikein wakawasti autettawa summan 
             karttumista, sillä jokainen siihen kyllä kykenee, ken tahtoo. Ehdottaisin sen tähden, että jokainen seura ja muodostuma lahjoittaisi olympiarahastoon alempana mainituista tilaisuuksista kertyneet tulot. 
-            Palloseura 'Ilwes' woisi järjestää kewäällä joko jalka- tai pesäpallokilpailuja, W & A : seura 'Tarmo' woimisteluiltaman ja kilpailuja, Uimaseura uimanäytöksiä, oppikoulut jääpallo otteluja, eri laitokset 
-            'puulaakiotteluja', esim. Lääninhallitus, Kirjapainot, Skogster, Karisto j.n.e., raittiusseura ja W.P.K. iltamia tai kansanjuhlia, suojeluskunta ja Liik. apulaisyhdistys iltaman, Kerho-Kuoro, Kaj. Sissipatalj. 
+            Palloseura „Ilwes” woisi järjestää kewäällä joko jalka- tai pesäpallokilpailuja, W & A : seura „Tarmo” woimisteluiltaman ja kilpailuja, Uimaseura uimanäytöksiä, oppikoulut jääpallo otteluja, eri laitokset 
+            „puulaakiotteluja”, esim. Lääninhallitus, Kirjapainot, Skogster, Karisto j.n.e., raittiusseura ja W.P.K. iltamia tai kansanjuhlia, suojeluskunta ja Liik. apulaisyhdistys iltaman, Kerho-Kuoro, Kaj. Sissipatalj. 
             soittokunta, W.P.K:n soittokunta ja seminaarin kuoro konsertteja, eläwät kuwat, yhden näyttännön kumpikin, Kansalliskerho ja metsästysseura määrätyn osan arpajaiswoitoistaan j.n.e. Toiwottawaa wielä olisi, 
             että eri huoneustojen omistajat antaisiwat ilmaiseksi huoneustonsa mainittuihin tarkoituksiin. Eri yhdistykset woisiwat sitä paitsi esim. kauppayhdistys, tehtailija yhdistys j.n.e kerätä kokouksissaan 
             jonkun summan. Luullakseni täten toteutuisi ajatus, mutta olisi sentähden ripeästi ajoissa ryhdyttäwä toimenpiteisiin ja jokaisen järjestettäwä kysymyksessä olewia tilaisuuksia. Ohjelmat eiwät tietenkään 
@@ -322,24 +322,25 @@ const Lukijoilta1924Page = () => {
         <SubDivider className="dividerStyle" />
         <h3>Keskiviikko, 20.2.1924</h3>
         <Article titleText="Entiselle sokerijuurikkaan wiljelijälle.">
-          <p>Wasta äsken näimme Hämeen Sanomien 25 numerossa 'Entisen sokerijuurikaswiljelijän" sisunpurkauksen meitä ja kunnallisneuwos Juho Torppaa wastaan.</p>
-          <p>Sen johdosta pyydämme saada huomauttaa, että maanwiljelijä Kupila, joka oli saapunut Salossa pidettyyn neuwottelukokoukseen, on kai yhtä hywä 'todellinen sokerijuurikaswiljelijä' kuin 'entinenkin 
-            sokerijuurikaswiljelijä'. Muuten ei kokous Salossa ollut mikään 'edustaja'-kokous, waan aiwan yksityinen, johon olimme persoonallisesti kutsuneet määrättyjä henkilöitä neuwottelemaan sokerijuurikkaan 
-            wiljelyksen edistämisestä myöskin Etelä-Hämeessä, sillä uskomme kaikista 'Entisen sokerijuurikaswiljelijän' ja senaattori Kairamon wakuutteluista huolimatta, että sen wiljeleminen Hämeenlinnan tienoilla 
+          <p>Wasta äsken näimme Hämeen Sanomien 25 numerossa „Entisen sokerijuurikaswiljelijän" sisunpurkauksen meitä ja kunnallisneuwos Juho Torppaa wastaan.</p>
+          <p>Sen johdosta pyydämme saada huomauttaa, että maanwiljelijä Kupila, joka oli saapunut Salossa pidettyyn neuwottelukokoukseen, on kai yhtä hywä „todellinen sokerijuurikaswiljelijä” kuin „entinenkin 
+            sokerijuurikaswiljelijä”. Muuten ei kokous Salossa ollut mikään „edustaja”-kokous, waan aiwan yksityinen, johon olimme persoonallisesti kutsuneet määrättyjä henkilöitä neuwottelemaan sokerijuurikkaan 
+            wiljelyksen edistämisestä myöskin Etelä-Hämeessä, sillä uskomme kaikista „Entisen sokerijuurikaswiljelijän” ja senaattori Kairamon wakuutteluista huolimatta, että sen wiljeleminen Hämeenlinnan tienoilla 
             on erittäin kannattawaa ja samaa mieltä owat todelliset sokerijuurikkaan wiljelijätkin. Ne, jotka leikittelewät maanwilielijää, woiwat kyllä olla eri mieltä ja ne, joiden mielityönä on hywien asioitten 
             nälwiminen, owat sitä warmasti.</p>
           <p>Mitä kunnallisneuwos Torpan käyttämiseen meidän palweluksessamme tulee, niin huomautamme wain, että hän on ollut Maataloustuottajain Keskusliiton waltuuskunnassa alusta alkaen todellisten maanwiljolijöitten 
-            walitsemana ja heidän luottamusmiehenään. Emme siis usko, että heidän luottamustaan häneen woi sellainen sala-ampujan parjaus kuin 'Entisen sokerijuurikaswiljelijän' wähimmässäkään määrässä horjuttaa.</p>
-          <p>Kuwaawaa 'Entisen sokerijuurikaswiljelijän' joko tietämättömyydelle tai totuudenrakkaudelle on, että hän sanoo kunnallisneuwos Torpan olewan suurlakkoaikaisen kuwernöörin, waikka hän oli kauan sen jälkeen 
+            walitsemana ja heidän luottamusmiehenään. Emme siis usko, että heidän luottamustaan häneen woi sellainen sala-ampujan parjaus kuin „Entisen sokerijuurikaswiljelijän” wähimmässäkään määrässä horjuttaa.</p>
+          <p>Kuwaawaa „Entisen sokerijuurikaswiljelijän” joko tietämättömyydelle tai totuudenrakkaudelle on, että hän sanoo kunnallisneuwos Torpan olewan suurlakkoaikaisen kuwernöörin, waikka hän oli kauan sen jälkeen 
             maaherrana. Tämä asiantuntemus on samaa laatua kuin erään suurfinanssimiehen, joka painetussa alustuksessa wiime maanwiljelysseurain edustajakokoukselle wäittää, että tekemällä poistoja kirjanpito-arwoissa 
-            panttiwelat suurenewat! Sitähän 'eEntisellä sokerijuurikaswiljelijällä' ja mainitulla finanssimiehellä olisi yhtä suuri syy kummallakin tarkistaa 'asiantuntemustaan'.</p>
+            panttiwelat suurenewat! Sitähän „Entisellä sokerijuurikaswiljelijällä” ja mainitulla finanssimiehellä olisi yhtä suuri syy kummallakin tarkistaa „asiantuntemustaan”.</p>
           <p>Se luottamus, jonka meidän neuwojamme on saawuttanut Etelä-Hämeen sokerijuurikkaan keskuudessa, yhtä wähän kuin kunnallisneuwos Torpankaan ei horju sellaisista poikamaisista puheista sokerijuurikkaasta ja 
-            porkkanasta, johon 'Entisen sokerijuurikaswiljelijän' sepustus loppuu.</p>
-          <p>Olemme aina walmiit asialliseen keskusteluun sokerijuurikkaan wiljelyksestä, mutta tuollaisiin asiattomiin kiukunpurkauksiin kuin 'Entisen sokerijuurikaswiljelijän' wastaamiseen ei meillä ole aikaa. Woimme 
+            porkkanasta, johon „Entisen sokerijuurikaswiljelijän” sepustus loppuu.</p>
+          <p>Olemme aina walmiit asialliseen keskusteluun sokerijuurikkaan wiljelyksestä, mutta tuollaisiin asiattomiin kiukunpurkauksiin kuin „Entisen sokerijuurikaswiljelijän” wastaamiseen ei meillä ole aikaa. Woimme 
             sen käyttää paljon positiiwisempaankin työhön.</p>
           <p className="captionStyle">Salossa 14. 2. 1924.</p>
           <p className="captionStyle">Suomen Raakasokeritehdas Osakeyhtiö.</p>
         </Article>
+        <SubDivider className="dividerStyle" />
         <h3>Sunnuntai, 2.3.1924</h3>
         <Article titleText="Mihin laululawa puistossamme olisi rakennettawa.">
           <p>Jo aikaisemmin oli tässä lehdessä maisteri A. Th. Böökin kirjoitus laululawan paikasta puistossamme. Siinä ehdotti kirjoittaja, että se rakennettaisi siellä olewien linnaraunioiden yhteyteen.</p>
@@ -362,6 +363,7 @@ const Lukijoilta1924Page = () => {
           <p>Jos lawa tälle puolelle wiitoittamaani suuntaan rakennetaan, silloin kentän ympärillä olewat kummut, wastapäätä olewat rauniot ja korkeiden puiden rungot tulisiwat antamaan esiintyjille täydentäwän kaijun.</p>
           <p className="captionStyle">Aleksi Seppälä.</p>
         </Article>
+        <SubDivider className="dividerStyle" />
         <h3>Tostai, 6.3.1924</h3>
         <Article titleText="Hämeen Sanomain arw. Toimitukselta pyydän tilaa seuraawalle oikaisulle.">
           <p>Tämän lehden 44 numerossa kerrotaan että allekirjoittanut on kieltäytynyt edustaja ehdokkuudesta, että kaikesta maalaisliittolaisesta toiminnasta esillä olewia waaleja warten sen takia, kun Maalaisliiton 
@@ -377,6 +379,7 @@ const Lukijoilta1924Page = () => {
           <p><span className="boldStyle">Toimitus</span> walittaen tapahtuneita erehdyksiä pyytää ylläaolewan johdosta huomauttaa, että kyseessäolewa uutinen perustui erään kokouksessa olleen maalaisliittolaisen kertomukseen, 
             joten luulimme siihen woiwan luottaa.</p>
         </Article>
+        <SubDivider className="dividerStyle" />
         <h3>Perjantai, 7.3.1924</h3>
         <Article titleText="Requiem-kuoro!">
           <p>Hämeen Maakuntajuhlain laulu- ja soittotoimikunnan keskuudessa on herännyt ajatus Cherubinin Requiemin esittämisestä juhlien aikana. Kun kaupungissamme on koko joukko henkilöitä, jotka owat ennen ottaneet osaa 
@@ -385,6 +388,7 @@ const Lukijoilta1924Page = () => {
           <p className="captionStyle">Toimikunnan puolesta:</p>
           <p className="captionStyle">A. Th. Böök.</p>
         </Article>
+        <SubDivider className="dividerStyle" />
         <h3>Perjantai, 7.3.1924</h3>
         <Article titleText="Kristilliset yhtymät Hämeenlinnassa tarwitsewat kodin.">
           <p>Kristillisten yhtymäin toimintaa waikeuttaa ja suorastaan estääkin sopiwan kokoushuoneuston puuute. Yhtymät sellaiset kuin Nuorten naisten kr. yhdistys, Lähetysyhdistys ja Nuorten raamatunlukupiiri, jotka tahtowat 
@@ -397,6 +401,28 @@ const Lukijoilta1924Page = () => {
           <p className="captionStyle">Hämeenlinnassa 10. 3. 1924.</p>
           <p className="captionStyle">Yksi monien puolesta.</p>
         </Article>
+        <SubDivider className="dividerStyle" />
+        <h3>Perjantai, 14.3.1924</h3>
+        <Article titleText="Asessorin waali Tampereen hiippakunnassa.">
+          <p>Maaliskuun 27 p. toimitetaan asessorin waali Tampereen hiippakunnassa poismuuttawan T. N. Pfalerin tilalle.</p>
+          <p>Muutamia ehdokkaita on julkisesti sanomalehdissä mainittu, mutta sopivampaa miestä lienee tällä kerralla waikea löytää kuin on Hämeenlinnan ja Wanajan kirkkoherra, lääninromasti Ludwig Enkwist.</p>
+          <p>Ehdotan, että arw. wirkaweljet tulewissa waaleissa äänestävät häntä. Hänen erinomainen tunnontarkkuutensa kansliatehtäwissä ja tunnettu kohteliaisuutensa seurakuntalaisia kohtaan kansliassaan takaa, että hän woisi 
+            opettaa samaa muillekin hiippakunnan papeille. Warsinkin nykyaikana, jolloin kansa wäkisinkin tahtoo wieraantua kirkosta, olisi juuri Ludwig Enkwistin kaltainen pappi saatawa hiippakunnan johtajien joukkoon.</p>
+          <p className="captionStyle">Walitsija.</p>
+        </Article>
+        <SubDivider className="dividerStyle" />
+        <h3>Sunnuntai, 30.3.1924</h3>
+        <Article titleText="Nimimerkki „W. W:lle”.">
+          <p>T.k. 23 p:ssä Hämeen Sanomissa tekemänne kyselyjen johdosta haluan lyhyesti ilmoittaa seuraavaa:</p>
+          <p>Kansallisen kokoomuspuolueen waaliohjelmassa lausutaan m.m.: „Kansallinen kokoomuspuolue tahtoo säilyttää sen, mitä kansamme on aikaisemmilta sukupolwilta arwokasta perinyt, niinkuin kansan uskonnon, terwehenkisen 
+            perhe-elämän, elinwoimaisen talonpoikaiswiljelyksen ja säästäwäisyyden”. Ja sisäpoliittisessa ohjelmassa on m.m.: „Kirkon ja waltion wälisiä suhteita järjestettäessä on noudatettawa tarpeellista arkatuntoisuutta kansankirkkoa 
+            kohtaan. Uskonnonopetusta on yleisissä oppilaitoksissa annettawa”. Näihin ponsiin on supistettu pääasiassa se, mitä kokoomuspuolue uskonnollisissa kysymyksissä on tahtonut julkilausua.</p>
+          <p>Mielestäni sisältyy näihin ponsiin se tärkein, mitä mainituissa kysymyksissä on sanottawa. Luulen, että jokainen kokoomuspuolueen eduskuntaehdokkaaksi lupautunut pitää tärkeänä tämän ohjelmakohdan toteuttamisen. Itse 
+            puolestani katson sen erityisen tärkeäksi. Pidän myös luonnollisena, että waltion on awustettawa, ja samaten kuin kansanopistoja yleensä, myös kristillisiä kansanopistoja. Mitä kirkolliskokouksen päätöksiin tulee, pidän selvänä, 
+            että Eduskunta woi ewätä niiden toteuttamisen ainoastaan siinä tapauksessa, että ne olisiwat waltion päämääriä vastaan suuntautuwia, jommoisia ne tietenkään eiwät ole. Pidän siis uskonnollisen elämän kehittämiselle tärkeänä, 
+            että Eduskunta wahwistaa kirkolliskokouksen päätökset. </p>
+          <p className="captionStyle">Arwi A Karisto.</p>
+        </Article>
 
 
 
@@ -404,7 +430,7 @@ const Lukijoilta1924Page = () => {
         <SubDivider className="dividerStyle" />
         <h3>Keskiviikko, 15.10.1924</h3>
         <Article titleText="N.s. Peltokadun täyttö">
-          <p>Kuten tunnettua johtaa Myllymäen 'torilta' wanhalle hautausmaalle Peltokatu. Tätä katua ei nykyään kuitenkaan pidetä awoinna liikenteelle waan on henkilöiden, joiden on tätä tietä kuljettawa 
+          <p>Kuten tunnettua johtaa Myllymäen „torilta” wanhalle hautausmaalle Peltokatu. Tätä katua ei nykyään kuitenkaan pidetä awoinna liikenteelle waan on henkilöiden, joiden on tätä tietä kuljettawa 
             suunnattawa matkansa joko liiankin wilkasliikkeistä Läntistä Wiertotietä myöten tai sitten oikaistawa Alasen kaupunginosan länsipuolella olewien wiljelysmaiden kautta siten turmellen näitä 
             wiljelyksiä. Eikö siis olisi syytä awata liikenteelle siltä nykyään suljettu Peltokatu, jota myöden ihmiset taas mukawammin woisiwat kulkea kuin Läntistä Wiertotietä tai peltoja pitkin.</p>
           <p className="captionStyle">Eräs tientarwitsija</p>

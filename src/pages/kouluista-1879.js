@@ -25,7 +25,7 @@ const Conditions1809Page = () => {
       <p className="firstLetterStyle">Birger Jarlin linnan viereen, sille paikalle, missä nykyään sotaväen kasarmit seisovat, pystytettiin aikain kuluessa yksi ihmis-asunto toisen jälkeen, kunnes niistä karttui kokonainen linnakylä, 
         ehkäpä jonkinlainen kauppalakin. Tämä on Hämeenlinnan kaupungin ensimmäinen alku. Mutta kaupungin oikeudet sai Hämeenlinna vasta kreivi Pietari Brahen ollessa ensi kertaa Suomen kenraalikuvernöörinä sekä hänen toimestaan 
         v. 1638. Paljoa myöhempi ei ole Hämeenlinnan ensimmäisen koulunkaan synty; sillä Pietari Brahe piti isällistä huolta tämän nuoren kaupungin henkisistäkin tarpeista. Kirjeellänsä, joka on annettu Turun linnassa 3 p. Toukokuuta 
-        1639, perusti hän Hämeenlinnaan lasten koulun ('barne schola'), jollaisilla siihen aikaan on tavallisesti nimenä 'paedagogium'.</p>
+        1639, perusti hän Hämeenlinnaan lasten koulun („barne schola”), jollaisilla siihen aikaan on tavallisesti nimenä „paedagogium”.</p>
       <p>Mainitussa kirjeessä määräsi perustaja koulun ensimmäiseksi opettajaksi ja rehtoriksi pappismiehen, nimeltä Johannes Manni, jonka samalla kertaa tuli olla saarnaajana Kronoborg'in linnassa. Vuotuiseksi palkaksi näistä 
         molemmista viroista piti hänen saada kruunun kymmenekset kolmesta likinnä kaupunkia olevasta kuninkaan latokartanosta (niitä ei nimitetä) ja teinivero Pälkäneen pitäjästä.</p>
       <p>Vielä lisää määrätään samassa kirjeessä apu-opettajalle, jonka rehtori itse saisi valita, palkaksi vuosittain teinivero Sääksmäen pitäjästä. Myöskin köyhiä teiniä eli koulupoikia muistetaan, kun on annettu heille avuksi 
@@ -228,7 +228,7 @@ const Conditions1809Page = () => {
         kielioppia tyystin kerrottaman. Kello 9—10 uskonoppia (Haffenrefferi compendium doctrinae coelestis; historia biblica 1 tunti viikossa). Kello 12—1 laulua. Kello 1—2 neljänä viikon päivänä latinan kirjoitusten korjausta ja kahtena viikon 
         päivänä kaunokirjoitusta. Kello 3—5 latinan auctorien lukemista (Phaedri fabulae; Erasmi colloquia et liber de civilitate morum; Cornelius Nepos; volumen I episiolarum Ciceronis selectarum). Lauantaisin iltapuolella piti luettaman sunnuntain 
         epistola ja evankeliumi kreikaksi, sittekuin oppilaat olivat siihen kieleen perehtyneet.</p>
-      <p>IV luokalla opetti rehtori yhteensä 16 tuntia viikossa, nimittäin: 6 tuntia uskonoppia (Haffenrefferi compendium doctrince coelestis); 2 tuntia yleistä historiaa ja 1 tunnin maantietoa (Hubner'm oppikirjain mukaan); 1 tunnin logikaa 
+      <p>IV luokalla opetti rehtori yhteensä 16 tuntia viikossa, nimittäin: 6 tuntia uskonoppia (Haffenrefferi compendium doctrince coelestis); 2 tuntia yleistä historiaa ja 1 tunnin maantietoa (Hubner'n oppikirjain mukaan); 1 tunnin logikaa 
         (Nucleus Christiani Weissii); 4 tuntia latinan auctoria (Fabulae Phaedri, Justinus) ja 2 tuntia latinaisten ainekirjoitusten korjausta. Konrehtorin tuli samalla luokalla antaa opetusta myöskin 16 tuntia viikossa, ja hän sai osaksensa seuraavat 
         aineet: 7 tuntia kreikan kieltä (grammatica Gezelii; novum testamentum; lauantaisin pericopa evangelica); 4 tuntia latinan auctoria (Cicero de amicitia et senectute; ejus epistolarum selectarum volumen secundum; oratio pro Archia poeta; 
         Cornelius Nepos); 2 tuntia prosodiaa, jonka ohessa luettiin eclogae Vergilii ja jotakin teoksista Ovidii tristium libri, Eobanus Ilessus, Buchananus Schotus; 1 tunti elementa rhetorica Vossii; ja 2 tuntia latinan kirjoitusten korjausta. Jo 

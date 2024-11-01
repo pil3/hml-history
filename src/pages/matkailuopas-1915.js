@@ -86,7 +86,7 @@ const MatkailuopasPage = () => {
         Vahvistaakseen Ruotsin ylivaltaa Hämeessä sekä turvataksensa kristinuskoa hämäläisten keskuudessa, rakennutti Birger Jaarli v. 1249 - 50 Hämeen sydämeen Ruununporin eli Tavastborgin linnan.</p>
       <p>Historiallisissa asiakirjoissa esiintyy Ruununporin eli Tavastborgin linna ensi kerran vasta v. 1308, jolloin Suomi Örebron sopimuksen kautta joutui Eerik ja Valdemar herttuoille.</p>
       <p>Päälinna muodostaa alaltaan säännöllisen neliön, jonka sivut ovat 33 metrin pituiset sekä nurkat näyttävät jotakuinkin tarkkaan eri ilmansuuntiin. Luoteispuolella ulkonee linnasta kuitenkin v. 1607 
-        rakennettu kylkirakennus, jota nimitetään 'kukkotorniksi'. Alkuaan oli linnan jokaisessa kulmassa torni, joista pohjois- ja länsikulmissa olevat tornit olivat muita korkeammat. Kun linnan 
+        rakennettu kylkirakennus, jota nimitetään „kukkotorniksi". Alkuaan oli linnan jokaisessa kulmassa torni, joista pohjois- ja länsikulmissa olevat tornit olivat muita korkeammat. Kun linnan 
         siipirakennukset vuosien 1720-1728 välillä korotettiin yhdellä kerroksella, katosivat etelä- ja itäkulmissa olleet tornit, uusi kerros kun rakennettiin näiden tasalle. Linnan alaosa, toisen kerroksen 
         puoliväliin asti, on rakenneltu toisiinsa kalkkiseoksella liitetyistä maakivistä, joiden välit ovat tilkityt kiilakivillä; tiilirakennus alkaa vasta toisen kerroksen puolivälistä ja on rakennukseen 
         käytettyjen tiilien koko tavallista suomalaista tiiliä paljon suurempi sekä samanlainen kuin ne tiilet, joita yleensä käytettiin 13-vuosisadalla. Linnan ulkoseinät ovat sileäpintaisia ilman koristuksia 
@@ -130,7 +130,7 @@ const MatkailuopasPage = () => {
         n:o 8 Kasarmikadun varrella ja F. Möllerin kahvila talossa n:o 19 Hallituskadun varrella, M. Oksasen kahvila talossa n:o 20, Hallituskadun varrella.</p>
       <p><strong>Kirkkoja:</strong> Luterilainen kirkko valmistui v. 1798; se rakennettiin Kustaa III antamien piirustuksien mukaan. Alkuaan oli kirkko aivan pyöreä sekä alttari kirkon keskellä, josta istuinsijat 
         porrasmaisesti kohosivat seiniä kohti. Tämän alkuperäisen kirkon itäpuolelle rakennettiin v. 1837 kellotapuli. Vuonna 1892 muutettiin kirkko, joka oli käynyt ahtaaksi, ristikirkoksi sekä varustettiin 
-        lehterillä ja v. 1912 sisusteltiin ja maalattiin kirkko kokonaan uudelleen sekä varustettiin lasimaalauksilla ja 'stucko'-kuvilla. V. 1894 lahjoitti eräs kaupunkilainen kirkkoon taiteilija V. Soldan-Brofeldt'in 
+        lehterillä ja v. 1912 sisusteltiin ja maalattiin kirkko kokonaan uudelleen sekä varustettiin lasimaalauksilla ja „stucko”-kuvilla. V. 1894 lahjoitti eräs kaupunkilainen kirkkoon taiteilija V. Soldan-Brofeldt'in 
         maalaaman alttaritaulun. Avaimet kirkkoon säilytetään kirkonvartija A. Vikman'in luona talossa n:o 26 a Kymnaasikadun varrella ja maksetaan hänelle kirkonnäyttämisestä 1 markka.</p>
       <p>Kreikkalaiskatoolisen seurakunnan kirkko rantatorin luoteiskulmassa, on pieni puukirkko, jonka kauppias Aleksander Bogdanoff v. 1867 lahjoitti kaupungin kreikkalais-katooliselle seurakunnalle, ja 
         Venäläinen sotilaskirkko puistikossa Saarenkadun ja Pikkukadun välissä, joka rakennettiin v. 1899.</p>
@@ -182,7 +182,7 @@ const MatkailuopasPage = () => {
       <p><strong>Hämeenlinnan Historiallls-Muinaistieteellinen museo</strong> talossa n:o 7 Itäisen Linnankadun varrella on avoinna 25 pennin pääsymaksua vastaan sunnuntaina kello 12-3 j. p. p. ja keskiviikkona kello 
         11-1 päivällä. Tämä maamme nuorin museo avattiin marraskuun 20 päivänä 1912. Museossa löytyy noin 2000 esinettä, joista mainittakoon Maanviljelysneuvos N. M. Bremer vainajan lahjoittama 12,000 markkaan arvioitu 
         huonekalu-kokoelma sekä erittäin täydellinen kirkkoesine-kokoelma. Huoneita on 12; niistä on yksi sisustettu hämäläiseksi asuinhuoneeksi 1800 luvun alkupuolelta ja toinen kustaavilaiseksi huoneeksi. Myöskin 
-        löytyy museossa erityinen 'Hämeenlinnan huone'.</p>
+        löytyy museossa erityinen „Hämeenlinnan huone”.</p>
 
       <Image className="centeredImageStyle" src={img4} alt="Puistoravintola"/>
 
@@ -206,7 +206,7 @@ const MatkailuopasPage = () => {
         kartanosta Sääksmäen pitäjässä kello 1/2 9 aamulla sekä lähtee kaupungista kello 2,15 j. p. p. Höyrylaiva Luopioinen I saapuu kaupunkiin kello 9,15 aamulla Pälkäneen pitäjän Onkkaalan kylästä sekä lähtee 
         kaupungista kello 12,30 päivällä. Höyrylaiva Pälkäne saapuu kaupunkiin kello 9,30 aamulla Pälkäneen pitäjän Onkkaalan kylästä sekä lähtee kaupungista kello 1 päivällä. Pälkäne-laivan saavuttua Valkeakosken 
         kanavalle keskiviikkona ja lauantaina lähtee höyrylaiva Eljas sieltä Kaivannolle Kangasalan pitäjässä. Laivat poikkeavat matkan varrella oleville isommille laitureille.</p>
-      <p>Moottorivene Kisaveikko välittää liikettä kaupungin ja Karlbergin kartanon välillä tehden neljästi päivässä matkan Hattulan pitäjän Mierolan kylään. Pieni moottorivene 'Puisto' on Puiston rannassa vuokrattavana 
+      <p>Moottorivene Kisaveikko välittää liikettä kaupungin ja Karlbergin kartanon välillä tehden neljästi päivässä matkan Hattulan pitäjän Mierolan kylään. Pieni moottorivene „Puisto” on Puiston rannassa vuokrattavana 
         Karlberg'issa y. m. käyntiä varten.</p>
       <p><strong>Laivalaituri</strong> on Hallitus- ja Birger Jaarlin katujen itäpäässä.</p>
       <p><strong>Vesijohtolaitos.</strong> Vuonna 1910 valmistui kaupungin vesijohto ja viemärilaitos, joka tuli maksamaan Smk. 334,422:64. Vesijohtolaitoksen konehuone, vesikaivot ja vesisäiliö sijaitsevat noin 
@@ -214,7 +214,7 @@ const MatkailuopasPage = () => {
       <p><strong>Kasarmeja</strong> Kaupungissa löytyy entisen 7:n Hämeenlinnan tarkkampujapataljoonan kasarmit Läntisen Viertotien varrella Myllymäen kaupunginosassa, Poltinahon kasarmit kaupungin länsipuolella 
         olevan Poltinahon kentän pohjoissyrjällä (viimeksimainiUujen kasarmien rakennuksista rakennettiin osa jo Ruotsin vallan aikana) sekä Kivikasarmit, jotka v. 1854 rakennettiin Hämeenlinnaan sijoitetulle 
         ruotuväen pataljoonalle.</p>
-      <p><strong>Hämeenlinnan kaupungin ympäristöt:</strong> Neljän kilometrin matkan päässä kaupungista eteläänpäin sijaitsee Hattelmalan harju. josta J. L. Runeberg runoilee 'Vänrikki Ståhl'in tarinoissa'. 
+      <p><strong>Hämeenlinnan kaupungin ympäristöt:</strong> Neljän kilometrin matkan päässä kaupungista eteläänpäin sijaitsee Hattelmalan harju. josta J. L. Runeberg runoilee „Vänrikki Ståhl'in tarinoissa”. 
       Pitkin harjua kulkee Hämeenlinnasta Helsinkiin johtava maantie. Tällä harjulla, josta on erittäin kaunis ja laaja näköala, aikoi kenraali C. N. af Klercker v. 1808 tehdä vastuksen venäläisille sotajoukoille 
       sekä rakennutti sitävarten harjun länsipäähän siellä vielä nähtävänä olevat vallit. Kaksi kilometriä eteenpäin saman maantien varrella sijaitsee Valtion omistama Perttulan kasvatuslaitos. Laitoksen päärakennuksen 
       rakensi v. 1855 kuvernööri O. R. Rehbinder itselleen kesäasunnoksi sekä muutti sinne vakituisesti asumaan v. 1863, jolloin hän pyysi eron kuvernöörinvirastaan, ja asui siellä kuolemaansa asti tammikuun 13 
@@ -248,14 +248,14 @@ const MatkailuopasPage = () => {
       <p>Vastapäätä linnaa. oikealla puolella reittiä, on Hämeenläänin suurin sahalaitos. v. 1873 perustettu Hämeenlinnan Höyrysaha. Sahassa. jonka omistaa osakeyhtiö Aug. Eklöf Porvoosta. työskentelee 200-300 henkilöä; 
         vuotuinen sahausmäärä on noin 7000 standartia.</p>
       <p>Höyrysahan pohjoispuolella sijaitsee Osakeyhtiö Hämeenlinnan vanutehdas. Sen pohjoispuolisesta metsiköstä näkyy Hämeenlinnan Naisyhdistyksen toimesta perustettu keuhkotautisairaala.</p>
-      <p>Kääntyessämme jälleen vasemmalle sekä kuljettuamme linnan ja 'Vanhan kaupungin' ohitse, kohoaa vasemmalla tuuheana ja rehoittavana kaupungin kuuluisa 'Parkki' eli Puisto. Vielä viime vuosisadan alkupuolella oli 
-        tämä puisto jylhä roukkioinen ja kammoksuttu 'Pyövelinmäen' metsäkumpu, kunnes kuvernööri O. R. Rehbinder, joka vuosina 1841-1863 oli Hämeen läänin maaherrana, vankien avulla raivautti mäen puistoksi.</p>
+      <p>Kääntyessämme jälleen vasemmalle sekä kuljettuamme linnan ja „Vanhan kaupungin” ohitse, kohoaa vasemmalla tuuheana ja rehoittavana kaupungin kuuluisa „Parkki” eli Puisto. Vielä viime vuosisadan alkupuolella oli 
+        tämä puisto jylhä roukkioinen ja kammoksuttu „Pyövelinmäen” metsäkumpu, kunnes kuvernööri O. R. Rehbinder, joka vuosina 1841-1863 oli Hämeen läänin maaherrana, vankien avulla raivautti mäen puistoksi.</p>
       <p>Etevän hoidon alaisena on puisto nykyään, monine harvinaisine puulajeineen, laatuaan maamme ensimäisiä. Korkeimmalla kohdalla näemme huvimajan, josta on erinomaisen kaunis näköala yli linnan, kaupungin ja 
         Vanajaveden aina Kappolan vuorelle sekä Turengin harjuille saakka, jotka muodostavat maisemalle komean taustan. Tummasta havumetsästä pilkoittaa valkeana Vanajan vanhan kivikirkon torni. Edustalla oikealla 
-        kohoaa Myllymäen esikaupunki ja sen jatkona Runebergin 'Vänrikin markkinamuistoista' kuuluisa Hattelmalan harju. Puiston itärinteellä on, paitsi erityisiä huvimajoja myöskin ravintola, jossa Hämeenlinnan 
+        kohoaa Myllymäen esikaupunki ja sen jatkona Runebergin „Vänrikin markkinamuistoista” kuuluisa Hattelmalan harju. Puiston itärinteellä on, paitsi erityisiä huvimajoja myöskin ravintola, jossa Hämeenlinnan 
         anniskeluosakeyhtiö ylläpitää täydellistä ensiluokkaista raittiustarjoilua.</p>
       <p>Kun käytäviä pitkin kiertelee puiston rinteitä, jotka kasvavat komeita tammia, jalavia, saarnia, lehmuksia ja muita arvokkaita puulajeja, tapaa sisemmällä keilaradan ja juhlakentän. Jälkimäisen laidassa on 
-        laulu- ja soittolava, jonka yläosaa koristaa Suomen maakuntien vaakunat. Vähän matkan päässä juhlakentällä on keinotekoiset Iinnanrauniot, jotka kuvernööri Rehbinder aikoinaan rakennutti 'Pyövelinmäeltä' 
+        laulu- ja soittolava, jonka yläosaa koristaa Suomen maakuntien vaakunat. Vähän matkan päässä juhlakentällä on keinotekoiset Iinnanrauniot, jotka kuvernööri Rehbinder aikoinaan rakennutti „Pyövelinmäeltä” 
         raivatuista kivistä. Kaikkialla kuulee kesäiseen aikaan lintujen iloista viserrystä, niille kun vanhat korkeat puut ja niihin asetetut lukuisat pesimispöntöt tarjoavat sopivia asuinsijoja.</p>
       <p>Kuljettuamme rautatiesillan alitse avautuu eteemme luonnonihanuudestaan kautta maamme kuuluisa, eversti Hugo Standerlskjöldin omistama Karlbergin kartano. Karlberg on oivallisena todistuksena siitä, mitä 
         ihmeellisiä tuloksia voidaan saada, kun Hämeen soreaan luontoon liitetään kaikki se ihanuus, jota nykyaikainen puistoviljelys tarjoaa. Jo järveltä katsoen herättävät huomiota kilometrejä pitkät kivestä tehdyt 
@@ -275,9 +275,9 @@ const MatkailuopasPage = () => {
         josta kartano on nimensäkin saanut. Santin pohjoispuolella on kunnallisneuvoksetar Elin Nordenswanin omistama Ahlbackan kartano ja tämän vastapäätä selän vasemmalla rannalla rouva Anna von Essenin omistama 
         Herniäisten kartano komean havumetsän ympäröimänä. Herniäisten kartanoa ovat aikaisemmin omistaneet ruununvouti Knut Nordenswan ja apteekari Julius Åkerman.</p>
       <p>Kun Herniäisten kartano on sivuutettu, näkyy reitin vasemmalla rannalla loivasti kohoavalla peltorinteellä maamme mieltäkiinnittävimpiä muinaismuistoja, Hattulan vanha kirkko, josta t:ri F. O. Rapola lausuu 
-        'Häme'-teoksessaan m.m.: 'Edessäni on näin ollen vanhus, jonka hartioilla lepää vuosia melkein niin paljon kun kristikunnalla on Hämeessä ikää.'</p>
+        „Häme”-teoksessaan m.m.: „Edessäni on näin ollen vanhus, jonka hartioilla lepää vuosia melkein niin paljon kun kristikunnalla on Hämeessä ikää.”</p>
       <p>Tämä kirkko, joka nykyään on Suomen muinaismuistoyhdistyksen hoidossa, on rakennettu t300-luvun vaiheilla, ja taru kertoo sen olevan rakenneltu niistä tiilistä, jotka jäivät jälelle Birger Jaarlin v. 1249 
-        rakentamasta Hämeen linnasta. Kirkko on ollut omistettu 'pyhälle ristille' ja oli keskiajalla tärkeänä pyhiinvaelluspaikkana, jonne ulkomaalaisetkin sovinnonetsijät joskus suuntasivat matkansa. Sisällä on 
+        rakentamasta Hämeen linnasta. Kirkko on ollut omistettu „pyhälle ristille” ja oli keskiajalla tärkeänä pyhiinvaelluspaikkana, jonne ulkomaalaisetkin sovinnonetsijät joskus suuntasivat matkansa. Sisällä on 
         kirkko kolmilaivainen; sen ristiholveihin muurattua kattoa kannattaa kuusi kahteen riviin asetettua tiilipilaria. Kirkkoon johtaa kaksi ovea, toinen eteläseinällä ja toinen länsipäädyssä. Kokonaisuutena tekee 
         kirkko erittäin ehyen vaikutuksen; tätä elävöittää kirkon mieltäkiinnittävä katto- ja seinäkuvitus, joka vasta parikymmentä vuotta sitten saatiin esille, kun sen päällä ollut kalkkimaalaus poistettiin. Kuvitus 
         esittää tapauksia vanhasta ja uudesta testamentistä sekä on vuodella 1510.</p>
@@ -288,7 +288,8 @@ const MatkailuopasPage = () => {
       <p>Hattulan selkä kapenee nyt yhä soukemmaksi, ja sivuutamme vasemmalla puolella intendentti C. P. Solitanderin omistaman Saarelan kartanon, jonka omisti aikoinaan kirjailija ja tiedemies professori Aksel 
         Fredrik Granfelt. Vastapäätä Saarelan kartanoa on Poransaaren niemi monine huviloineen.</p>
       <p>Siinä missä reitti äkkiä kääntyy vasemmalle Mierolan kylää kohti, on oikealla Hattulan pappila aivan järven rannalla, ja sen pohjoispuolella Koreelan kartano. Saavuttuamme Mierolan salmeen näemme sen vasemmalla 
-        rannalla kauppias A. Gust. Skogsterin omistaman Alhaisten kartanon, jonka omistajina ovat m. m. olleet 'Vänrikki SlooIin tarinoissa' mainittu eversti v. Konow, kamarineuvos Thermen ja kapteeni Bollfras; 
+        rannalla kauppias A. Gust. Skogsterin omistaman Alhaisten kartanon, jonka omistajina ovat m. m. olleet „Vänrikki Stoolin tarinoissa”
+         mainittu eversti v. Konow, kamarineuvos Thermen ja kapteeni Bollfras; 
         salmen kummallakin puolella on Mierolan kylä. Kuljettuamme MieroJan sillan alitse on reitin vasemmalla puolella Ventolan rustitila ja oikealla puolella Hattulan seurakunnan v. 1848-1857 rakennettu uusi kirkko 
         sekä tämän ja rannan välissä seurakunnan hautausmaa, mihin m. m, on haudalIu tuomari Arckenholtz ynnä Granfelt-. Vetterhoff-, Nordensvan- ja von Essen-sukuihin kuuluvia henkilöitä.</p>
       <p>Muutamia kilometrejä Mierolan sillasta pohjoiseen päin, kun on kuljettu Rahkoilan kylän ohi, herättää huomiota agronoomi G. A. Karenin omistama Vesundan vanha säteritila. Sen monista kuuluisista omistajista 
@@ -303,7 +304,7 @@ const MatkailuopasPage = () => {
         hautausmaa, johon kartanon entiset omistajat on haudatut.</p>
       <p>Salmen länsipuolella on suurten vainioiden laidassa vapaaherra E. Standertskjöldin omistama Suontaan kartano, jonka omistajia ovat olleet m. m. valtioneuvokset Björn Leijon ja Hogenskiöld Bjelke.</p>
       <p>Kuljettuamme Lepaan salmesta näemme edessämme Lahdentaan kartanon tornilla varustettuine päärakennuksineen. Kartano, jonka nykyään omistaa tarkastaja Hugo Hallamaa, on tunnettu jo keskiajalta saakka; silloin 
-        sen omisti kuningatar Kristiina, minkä johdosta itse päätila myöskin on saanut nimen 'Kristinehof'. Kartanon entisistä omistajista mainittakoot sotaneuvos O. E. Boije ja kapteeni A. Boije, jotka 1700- luvun 
+        sen omisti kuningatar Kristiina, minkä johdosta itse päätila myöskin on saanut nimen „Kristinehof”. Kartanon entisistä omistajista mainittakoot sotaneuvos O. E. Boije ja kapteeni A. Boije, jotka 1700- luvun 
         keskivaiheilla perustivat tilalle koulun pellavanviljelemistä ja kehruuta varten, vuorimestari Gustaf Idestam, senaattori A. V. Nykopp ja vapaaherra E. Standertskjöld.</p>
       <p>Lahdentaan kartanon pohjoispuolella aukeaa vihdoin eteemme laajana ja komeana suuri Vanajan selkä, jota myös kutsutaan Sääksmäen seläksi.</p>
       <p>Siinä missä harjut päättyvät Vanajan selkään, muodostuu erinomaisen luonnonihana pohjoiseen pistävä pitkä ja kapea niemeke Ruskeenkärki, jonka kohoavalla kummulla sijaitsee Hämeenlinnan Purjehdusseuran 
@@ -325,8 +326,8 @@ const MatkailuopasPage = () => {
         puolen sijaitsee Valkiakosken tehdaskylä suurine paperi- ja selluloosatehtaineen. Kylässä on myös höyrysaha, osuusmeijeri ja oluttehdas sekä postikonttori ja apteekki.</p>
       <p>Kanavan toisella puolella saavumme pian Apian kanavalle. josta eteemme avautuu laaja Mallasvesi. Sen koillispäässä näemme Pälkäneen seurakunnan kauniin kirkon, Syrjän harjun ja Onkkaalan kylän; tämän kylän 
         eteläpuolella Kostian virta yhdistää Mallasveden Pälkäne-veteen. Mallasvedellä kääntyy laivareitti vasemmalle päin Roineen selälle, jonka pohjoispäästä Kaivannon kanava johtaa Längelmäveteen. lähellä kanavaa 
-        kohoavat Kangasalan harjut, joilta tarjoutuvat näköalat ovat maamme kauneimpia. Turhaan eivät runoilijamme niitä ole ylistäneet; Z. Topelius laulaakin niiden ihastuttamana: 'Mä oksalla ylimmällä oon Harjulan 
-        seljänteen. Niin kauas kuin silmään siintää nään järviä lahtineen. Kas, Längelmävesi tuolla vöin hopeisin hohtelee, ja Roineen armaiset aallot sen rantoja hyväilee!'</p>
+        kohoavat Kangasalan harjut, joilta tarjoutuvat näköalat ovat maamme kauneimpia. Turhaan eivät runoilijamme niitä ole ylistäneet; Z. Topelius laulaakin niiden ihastuttamana: „Mä oksalla ylimmällä oon Harjulan 
+        seljänteen. Niin kauas kuin silmään siintää nään järviä lahtineen. Kas, Längelmävesi tuolla vöin hopeisin hohtelee, ja Roineen armaiset aallot sen rantoja hyväilee!”</p>
 
       <h2>Tyrvännön reitti</h2>
       <p className="firstLetterStyle">Sivuutettuamme laivareitin oikealla puolella Landentaan kartanon ja Vanajaniemen talon, joka viimeksimainittu kuuluu Suomen Valtion omistamaan Lepaan kartanoon, avartuu Vanajavesi, joka tähän asti on kaarrellut 

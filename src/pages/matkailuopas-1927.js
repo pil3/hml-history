@@ -226,7 +226,7 @@ const MatkailuopasPage = () => {
       <p>Kirjastotalon puistosta lausuu taiteilija Juhani Vikstedt »Suomen kaupunkien vanhaa rakennustaidetta» nimisessä kirjassa: »Muista aukiopaikoista, 
         joiden varsilla vielä havaitsemme klassillisen tyylisuunnan jätteitä , huomattakoon sopusuhtainen puistikko varjoisine vaahteroineen Myllymäeltä 
         johtavan tien kaupunginpuoleisessa päässä. Ympäröivän asutuksen vuosi vuodelta muuttuessa ja saadessa yhä uudemmanaikaisen leiman on tämä tienoo 
-        kaikesta huolimatta säilynyt ihmeteltävän koskemattomana, ja silmämme keksiikin siellä ainakin yhden 'Engelin' ja pari kolme muuta jalopiirteistä 
+        kaikesta huolimatta säilynyt ihmeteltävän koskemattomana, ja silmämme keksiikin siellä ainakin yhden „Engelin” ja pari kolme muuta jalopiirteistä 
         puurakennusta samalta tai hiukan myöhemmältä ajalta. Siromuotoinen klassisismi onkin luonteenomaisempi Hämeenlinnan kuin muiden pikkukaupunkien 
         vanhemmille osille, sillä minne ikinä luomme silmämme, näemme tämän tyylisuunnan käyvän kunniakasta kamppailua muualta tulvehtivaa mauttomuutta vastaan.»</p>
       <p>Kirjastopuistikon eteläreunustalla on E. Huhdan puusepän- ja verhoiluliike, länsipuolella taas Suomalainen Yhteiskoulu (johtaja Verneri Vartia), 
@@ -364,7 +364,7 @@ const MatkailuopasPage = () => {
       <p>Mainituista teiden yhtymäkohdasta vie puistoon saakka puistokujanne.</p>
       <p>Puistokujan oikealla puolella on lähinnä tiilistä rakennettu, suljettu ampumarata ja sen takana laaja kasarmialue. Kasarmeihin on sijoitettu Kajaanin 
         Sissipataljoona (K. S. P.), Kenttätykistön kapitulanttikoulu (K. T. K. K.) ja Armeijan Pesula. Pataljoonalla on oma soittokunta.</p>
-      <p>Tälle alueelle - Kivikasarmit 1. 'Vanhakaupunki' -, siis linnan pohjoispuolelle, oli Hämeenlinnan kaupunki sijoitettu ennen sen muuttamista 
+      <p>Tälle alueelle - Kivikasarmit 1. „Vanhakaupunki” -, siis linnan pohjoispuolelle, oli Hämeenlinnan kaupunki sijoitettu ennen sen muuttamista 
         nykyiselle paikalleen.</p>
       <p>Saavumme sitten kaupungin kauneudestaan kuuluisaan Puistoon.</p>
 

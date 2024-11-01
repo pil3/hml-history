@@ -60,8 +60,8 @@ const Hasa1924Page = () => {
               säilytetään, woidaan nykyisin pitää eristettynä wain 1,426 wankia. Yhteishuoneisiin on sijoitettuna 901. Lääninwankiloissa, joissa säilytetään etupäässä wankeuswankeja, on sellejä 922 ja yhteistiloja 468. 
               Tilapäisluontoisissa wankiloissa, pakkolaitoksissa, warawankiloissa ja wankisiirtoloissa, minne wankeja siirretään tilanahtauden takia wakinaisista wankiloista, owat käytettäwissä olewat 1,997 tilaa suurissa yhteishuoneissa.</p>
             <p>Että wankien säilyttämisestä yhteishuoneissa koituu suuria waaroja, on ilman muuta selwää. Siitä kärsii ensinnäkin wankilain turwallisuus ja järjestys. Ennenkaikkea peloittaa yhteishuoneissa kuitenkin se rikollinen 
-              joukkohenki, joka niissä pesii ja joka pitkinä puhdeaikoina tempaa mukaansa kaikkein useimmat wangit. Juuri yhteishuoneiden olemassa olosta juontaneekin alkunsa se julkisuudessa usein esitetty wäite, että 'wankilat owat 
-              rikollisuuden korkeakouluja'.</p>
+              joukkohenki, joka niissä pesii ja joka pitkinä puhdeaikoina tempaa mukaansa kaikkein useimmat wangit. Juuri yhteishuoneiden olemassa olosta juontaneekin alkunsa se julkisuudessa usein esitetty wäite, että „wankilat owat 
+              rikollisuuden korkeakouluja”.</p>
             <p>Edellämainitun wankien tehokkaan eristämisen rinnalla, mihin esim. Norjassa liittyy wielä määrätyistä tapauksista wesileipärangaistuskin, on wankiluwun pienuuteen warmaan osaltaan waikuttanut myös käytäntöön tullut 
               tapa huoltaa tilapäisluontoisia rikollisia wapaudessa. Kun oikeusistuin woi myös harkinnan mukaan esettaa ehdollisesti tuomitun walwonnan alaiseksi, on tämä menettelytapa määrätyissä tapauksissa osoittautunut riittävän 
               tehokkaaksi yhteiskunnan suojelutoimenpiteeksi ilman, että rikoksia yleisestäwä näkökohta oli siitä tiettäwästi järkkynyt.</p>
@@ -72,7 +72,7 @@ const Hasa1924Page = () => {
             <p>Kieltolakiliitto on lauantaina jättänyt waltioneuwostolle kirjelmän, jossa se anoo kieltolain tarkempaa walwontaa hotelleissa, rawintoloissa ja klubeissa. Kirjelmässä esitetään, että hotelleissa ja rawintoloissa tarjotaan 
               ja juodaan alkoholijuomia nykyisin sangen runsaasti ja wiitataan siihen, miten tällainen asiantila on omiaan antamaan oloistamme epäedullisen käsityksen esim. ulkomaalaisille. Kieltolain 26 § antaa kuitenkin  warsin laajan 
               wallan walwontaan ja suorastaan wielä welwoittaa usein toimittamaan tarkastuksia, jatketaan kirjelmässä.</p>
-            <p>Kirjelmä päättyy pyyntöön, että hallitus kiinnittäisi huomiotaan lain ja järjestyksen walwontaan mainituissa paikoissa ja 'käyttäisi waltaansa ja auktoriteettiään rikollisuuden harjoittamisen lopettamiseksi myöskin näissä.'</p>
+            <p>Kirjelmä päättyy pyyntöön, että hallitus kiinnittäisi huomiotaan lain ja järjestyksen walwontaan mainituissa paikoissa ja „käyttäisi waltaansa ja auktoriteettiään rikollisuuden harjoittamisen lopettamiseksi myöskin näissä.”</p>
           </Article>
           <Article titleText="4:s maatalouswiikko">
             <h4>Pidetään wasta ensi wuoden puolella.</h4>
