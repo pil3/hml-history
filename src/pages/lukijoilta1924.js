@@ -121,7 +121,7 @@ const Lukijoilta1924Page = () => {
         <p>Ei wankila, nykyisessä muodossaan, ole ansionmukainen rangaistus tuollaisille huligaaneille. Miksi ei tuollaista sakkia edes wankilassa kohdella siten, kun he ansaitsewat, jotta 
           wankila peljättäisi heitä, ja he edes rangaistuksen pelossa jättäisiwät rikokset tekemättä, sillä mitään moraalisia arwoja he eiwät ymmärrä. Suomen wankilat owat „kurjalla” kannalla 
           siksi, että wankeja lellitellään liiaksi. Samassa Hämeen Sanomain numerossa on myös uutinen, kuinka työtön mies Turussa on yrittänyt istua syyllisen nimessä 5 kuukauden wankila
-          rangaistuksen syystä, että hänelle on syyllinen luwannut, ei maksanut, jonkun pikkusumman, eikö tämä ole mainio näyte siitä, että wankilaan meillä mennään huvin wuoksi. Mutta mitä 
+          rangaistuksen syystä, että hänelle on syyllinen luwannut, ei maksanut, jonkun pikkusumman, eikö tämä ole mainio näyte siitä, että wankilaan meillä mennään huwin wuoksi. Mutta mitä 
           turwaa meillä kunnollisilla kansalaisilla ja weronmaksajilla silloin on laista, kun kuka huligaani hywänsä saa meidät ryöstää ja raadella rangaistuksetta silloinkin waikka hänet 
           saadaan kiinni, sillä wankilassa istuminen ei nykyisellä komennolla ole rangaistus ansion mukaan. Ruokittakoon wangit huonommin, teetettäköön heillä lujasti oikeaa työtä, niin rikokset 
           wähenewät tawattomasti ja wankilan pelko pakottaa monet tuhannet Suomen huligaanit ja wiinatrokarit rehelliseen työhön ja kunnialliseen elämään. Laitettakoon, hywin järjestetyn 
@@ -308,7 +308,7 @@ const Lukijoilta1924Page = () => {
           <p className="captionStyle">Hämeenlinna 14 p. helmik. 1924.</p>
           <p className="captionStyle">Y. A. Wuori.</p>
         </Article>
-        <Article titleText="Kieltolakia pidettävä silmällä, asetettaessa edustajaehdokkaita.">
+        <Article titleText="Kieltolakia pidettäwä silmällä, asetettaessa edustajaehdokkaita.">
           <p>Kun näinä päiwinä käydään asettamaan ehdokkaita waalipiirissämme, on syytä awoimin silmin jokaisen raittiutta harrastawan  kansalaisen seurata ehdokkaiden ajattelua ja koettaa wähäiseltä osaltaan 
             waikuttaa niin, että ainoastaan todelliset raittiutta harrastawat kansalaiset asetettaisiin ehdokkaiksi. Aika jossa raittiusasian suhteen elämme on siksi merkityksellinen kysymyksessä olewalle asialle, 
             että nyt emme saa sokeasti luottaa siihen, mitä erinäisten puolueiden taholta meille tyrkytetään. Mielestäni ei riitä tällä kertaa ehdokkaalta se, että hän sanoo kannattawansa raittiusasiaa. Kieltolain 
@@ -405,23 +405,77 @@ const Lukijoilta1924Page = () => {
         <h3>Perjantai, 14.3.1924</h3>
         <Article titleText="Asessorin waali Tampereen hiippakunnassa.">
           <p>Maaliskuun 27 p. toimitetaan asessorin waali Tampereen hiippakunnassa poismuuttawan T. N. Pfalerin tilalle.</p>
-          <p>Muutamia ehdokkaita on julkisesti sanomalehdissä mainittu, mutta sopivampaa miestä lienee tällä kerralla waikea löytää kuin on Hämeenlinnan ja Wanajan kirkkoherra, lääninromasti Ludwig Enkwist.</p>
-          <p>Ehdotan, että arw. wirkaweljet tulewissa waaleissa äänestävät häntä. Hänen erinomainen tunnontarkkuutensa kansliatehtäwissä ja tunnettu kohteliaisuutensa seurakuntalaisia kohtaan kansliassaan takaa, että hän woisi 
+          <p>Muutamia ehdokkaita on julkisesti sanomalehdissä mainittu, mutta sopiwampaa miestä lienee tällä kerralla waikea löytää kuin on Hämeenlinnan ja Wanajan kirkkoherra, lääninromasti Ludwig Enkwist.</p>
+          <p>Ehdotan, että arw. wirkaweljet tulewissa waaleissa äänestäwät häntä. Hänen erinomainen tunnontarkkuutensa kansliatehtäwissä ja tunnettu kohteliaisuutensa seurakuntalaisia kohtaan kansliassaan takaa, että hän woisi 
             opettaa samaa muillekin hiippakunnan papeille. Warsinkin nykyaikana, jolloin kansa wäkisinkin tahtoo wieraantua kirkosta, olisi juuri Ludwig Enkwistin kaltainen pappi saatawa hiippakunnan johtajien joukkoon.</p>
           <p className="captionStyle">Walitsija.</p>
         </Article>
         <SubDivider className="dividerStyle" />
         <h3>Sunnuntai, 30.3.1924</h3>
         <Article titleText="Nimimerkki „W. W:lle”.">
-          <p>T.k. 23 p:ssä Hämeen Sanomissa tekemänne kyselyjen johdosta haluan lyhyesti ilmoittaa seuraavaa:</p>
+          <p>T.k. 23 p:ssä Hämeen Sanomissa tekemänne kyselyjen johdosta haluan lyhyesti ilmoittaa seuraawaa:</p>
           <p>Kansallisen kokoomuspuolueen waaliohjelmassa lausutaan m.m.: „Kansallinen kokoomuspuolue tahtoo säilyttää sen, mitä kansamme on aikaisemmilta sukupolwilta arwokasta perinyt, niinkuin kansan uskonnon, terwehenkisen 
-            perhe-elämän, elinwoimaisen talonpoikaiswiljelyksen ja säästäwäisyyden”. Ja sisäpoliittisessa ohjelmassa on m.m.: „Kirkon ja waltion wälisiä suhteita järjestettäessä on noudatettawa tarpeellista arkatuntoisuutta kansankirkkoa 
-            kohtaan. Uskonnonopetusta on yleisissä oppilaitoksissa annettawa”. Näihin ponsiin on supistettu pääasiassa se, mitä kokoomuspuolue uskonnollisissa kysymyksissä on tahtonut julkilausua.</p>
+            perhe-elämän, elinwoimaisen talonpoikaiswiljelyksen ja säästäwäisyyden”. Ja sisäpoliittisessa ohjelmassa on m.m.: „Kirkon ja waltion wälisiä suhteita järjestettäessä on noudatettawa tarpeellista arkatuntoisuutta 
+            kansankirkkoa kohtaan. Uskonnonopetusta on yleisissä oppilaitoksissa annettawa”. Näihin ponsiin on supistettu pääasiassa se, mitä kokoomuspuolue uskonnollisissa kysymyksissä on tahtonut julkilausua.</p>
           <p>Mielestäni sisältyy näihin ponsiin se tärkein, mitä mainituissa kysymyksissä on sanottawa. Luulen, että jokainen kokoomuspuolueen eduskuntaehdokkaaksi lupautunut pitää tärkeänä tämän ohjelmakohdan toteuttamisen. Itse 
-            puolestani katson sen erityisen tärkeäksi. Pidän myös luonnollisena, että waltion on awustettawa, ja samaten kuin kansanopistoja yleensä, myös kristillisiä kansanopistoja. Mitä kirkolliskokouksen päätöksiin tulee, pidän selvänä, 
-            että Eduskunta woi ewätä niiden toteuttamisen ainoastaan siinä tapauksessa, että ne olisiwat waltion päämääriä vastaan suuntautuwia, jommoisia ne tietenkään eiwät ole. Pidän siis uskonnollisen elämän kehittämiselle tärkeänä, 
-            että Eduskunta wahwistaa kirkolliskokouksen päätökset. </p>
+            puolestani katson sen erityisen tärkeäksi. Pidän myös luonnollisena, että waltion on awustettawa, ja samaten kuin kansanopistoja yleensä, myös kristillisiä kansanopistoja. Mitä kirkolliskokouksen päätöksiin tulee, pidän 
+            selwänä, että Eduskunta woi ewätä niiden toteuttamisen ainoastaan siinä tapauksessa, että ne olisiwat waltion päämääriä wastaan suuntautuwia, jommoisia ne tietenkään eiwät ole. Pidän siis uskonnollisen elämän kehittämiselle 
+            tärkeänä, että Eduskunta wahwistaa kirkolliskokouksen päätökset. </p>
           <p className="captionStyle">Arwi A Karisto.</p>
+        </Article>
+        <SubDivider className="dividerStyle" />
+        <h3>Perjantai, 18.4.1924</h3>
+        <Article titleText="Lain ja oikeuden kunnioittamistako?">
+          <p>Eräässä pitäjässä on werotuslautakunta merkinnyt käsityöläisten, liikemiesten, wirkailijain y.m. tuloista puolet ja jopa enemmänkin „maanwiljelystuloiksi”, waikka asianomaisilla ei ole maanwiljelystä, eiwätkä ole itse niitä 
+            siksi ilmoittaneetkaan. Tämän on werotuslautakunta tehnyt sentakia, että ei seurakunta eikä sen papisto woisi näitä werottaa kirkollisiin tarkotuksin koko werotettawalle pannusta weromäärästä. Kun kunnan waltuuston walitsema 
+            werotuslautakunta tämän tekee tietensä ja tarkotuksella, niin on se todistuksena kuinka alhaiset käsitykset wielä on monella laista ja oikeudesta, puhumattakaan heidän omasta kunniallisuuden ja rehellisyyden käsityksestään. 
+            Ja kuitenkin esiintywät samaiset henkilöt toisinaan laillisen yhteiskunnan oikeusjärjestelmän puolustajina, ettemme sanoisi sen woimakkaina suojelijoina. Muita miten woidaan puhuakaan laillisuudesta ja oikeudesta, kun wirallisissa 
+            toimissa, milloin niihin joudutaan, niitä tietoisesti rikotaan. Ennenkuin woi waatia muilta lakia ja oikeutta, täytyy itsekin niitä kunnioittaa. Joka ei sitä tee, on myös itse lewittämässä laittomuuden ja kurittomuuden henkeä. 
+            Ihmettelemmekö, että laittomuus ja kurittomuus kaswaa.</p>
+          <p>Mainitunlainen toiminta ei myöskään osoita asianomaisissa suurta omistusoikeuden kunnioitusta. Sillä omistusoikeus ei koske yksinomaan sitä omaisuutta, joka jo on hallussa, waan myös niitä oikeuksia, joita jollakin on. Jollemme 
+            nyt kuitenkaan kunnioita toisen oikeuksia, miten woimme waatia muita kunnioittamaan meidän oikeuksiamme. Ja jos taas oikeudet poljetaan niin silloin mieliwalta ja itsekkyys hallitsewat.</p>
+          <p>On pitäjälle arwaamattomaksi wahingoksi, kun sillä on toimissaan miehiä, joille laki ja oikeus eiwät mitään merkitse, joille kunniallisuus ja rehellisyys on tullut ala-arwoisiksi ja joille epärehellisyys ja lainrikkominen 
+            owat luwallisia, kun ei waan ole kysymyksessä oma itse. Tällainen henkinen rutto merkitsee pitäjän kurjuutta ja samalla suurta tappiota koko kansamme edistyksessä. Toiwottawasti tällaiset ilmiöt häwiäwät sitä myöten, kun siwistys 
+            ja walistus lewiäwät kaikkiin pitäjiin.</p>
+          <p className="captionStyle">X.</p>
+        </Article>
+        <SubDivider className="dividerStyle" />
+        <h3>Lauantai, 3.5.1924</h3>
+        <Article titleText="Kehoitus.">
+          <p>Kuusi wuotta on kulunut wapaussodan päiwistä. Tämän ajan kauhut unohtuwat wähitellen, aika häwittää niiden katkerat muistot.</p>
+          <p>Mutta jälelle on jäänyt perintö, jota meidän sukupol
+            wemme ei woi niin täydellisesti lunastaa, että sen jäljet eiwät tuntuisi. Se on welwollisuutemme niitä kohtaan, joita kohtalo on kowiten koetellut ja jotka owat wapaudelle 
+            suurimman uhrin kantaneet. Se on welwollisuutemme inwaliideja kohtaan.</p>
+          <p>Heitä ei ole ainoastaan täällä meidän omassa maassamme, waan etäällä kowiakokeneen Saksanmaan tehtaissa, parantumattomien kodeissa, inwaliidien työsiirtoloissa ja katujen kerjäläisinä, noin 60 henkeä. Heidän elämänsä on 
+            herkeämätöntä taistelua nälkää ja puutetta wastaan ja heidän työnsä raskasta, usein woimia ylittäwää. Waikein on niiden asema, joilla on waimo ja lapset huolettawa. Se awustus, jonka hädänalainen Saksanmaa woi heille tarjota, 
+            ei riitä elämän tarpeisiin.</p>
+          <p>Suomesta Saksaan lähetetyt awustukset on etupäässä käytetty inwaliidien ja kaatuneiden perheiden auttamiseksi. Kun warat eiwät ole kaikille riittäneet, on ensi sijassa otettu huomioon lapset, nousewa sukupolwi. Perheettömiä, 
+            joita useimmat Finnlandkämpfrer-inwaliidit oliwat ja edelleen owat, ei ole yleensä katsottu woitawan ottaa huomioon.</p>
+          <p>Näinä päiwinä täyttäwät mielemme muistot tuosta wapauden kewäästä, jolloin saksalaiset maihinnousujoukot woitokkaina eteniwät maassamme.</p>
+          <p>Olemmeko nyt kuluneen kuuden wuoden aikana unohtaneet muukalaiset, jotka owat uhranneet terweytensä, tulewaisuutensa ja työkykynsä maamme wapauden puolesta? Tahi olemmeko jo mielestämme heille kiitollisuudenwelkamme maksaneet?</p>
+          <p>On olemassa alote kutsua noin 30 näitä „Suomenkäwijöitä” (Finnlandkämpfer) pariksi kesäkuukaudeksi maahamme wirkistymään. Heidät on tarkoitus sijoittaa maaseudulle sopiwaan paikkaan, minne myös warataan wapaapaikkoja meidän 
+            omille inwaliideillemme. Täällä annetaan wieraille wapaa hoito, asunto ja ruoka sekä se hywin tarpeellinen lepo, jota he eiwät kotimaassaan wallitsewan lamaannuksen wuoksi woi suotuisimmissakaan olosuhteissa saada.</p>
+          <p>Mutta hanke on toteutettawissa wain sikäli kuin yleisö ottaa sen sydämen asiakseen ja awustaa sitä kykynsä mukaan.</p>
+          <p>Niitä henkilöitä, joille Saksan w. 1918 antama woimakas apu on muistossa kallis ja jotka haluawat olla mukana suorittamassa osaamme kiitollisuudenwelasta Finnlandkämpfer-inwaliideille, kehoitetaan jättämään raha-awustuksensa 
+            tämän lehden toimitukselle, jollekin Lotta-Swärd-yhdistyksen paikallisosaston puheenjohtajalle tai lähettämällä ne osoitteella: Neiti Dagmar Ruin, Fredrikinkatu 71, Helsinki.</p>
+          <p>Maantuotteina annettawista lahjoista tehdään ilmoitus samoihin paikkoihin, jonka jälkeen ne lähetetään suoraan inwaliidien oleskelupaikalle, mistä myöhemmin sanomalehdissä ilmoitetaan.</p>
+          <p className="captionStyle">M. von Bonsdorff, K. Castren, Wald. Ruin, Dagmar Ruin, Richard Siewers, F. Langenskiöld, J. K. Paasikiwi, Jenny af Forselles, J. Gummerus, E. Suolahti.</p>
+        </Article>
+        <SubDivider className="dividerStyle" />
+        <h3>Sunnuntai, 4.5.1924</h3>
+        <Article titleText="Sukunimen suomalaistuttamisesta.">
+          <p>Kun taas lähestyy suuren kansalaisemme Snellmanin syntymäpäiwä, toukokuun 12:s, joka on muodostunut erikoisesti siksi päiwäksi, jona wieraskielisiä sukunimiä muutetaan suomenkielisiksi, teemme lyhyesti selkoa siitä, miten nimen 
+            muuttaminen käytännössä tapahtuu.</p>
+          <p>Ennen sukunimilain säätämistä oli nimenmuutto warsin yksinkertainen asia, sillä siihen ei tarwittu juuri muuta kuin asianomainen ilmoittaminen toimeenpannusta muutoksesta. Silloin sopi warsin mukawasti järjestää suuria 
+            joukkonimenmuutoksia, joukkoilmoituksia, kuten Suomalaisuuden Liiton wälityksellä useana wuonna tehtiin. Joulukuun 23 pnä 1920 annetun sukunimilain woimaan tultua on nimenmuutto tullut siinä suhteessa mutkikkaammaksi, että 
+            tuollaiset joukkoilmoitukset eiwät enää helposti käy päinsä, sillä mainitun lain mukaan on nimenmuuttoanomus tehtäwä sen läänin maaherralle, jossa nimenmuuttaja on kirkonkirjoissa, ja owat niin ollen nimenmuuttoasiat hoidettawat 
+            eri läänien lääninhallituksissa sekä kunkin hakijan kotiseurakunnassa.</p>
+          <p>Anomus maaherralle tehdään tawallisessa järjestyksessä, itse tai asiamiehen kautta. Hakemukseen on liitettäwä papintodistus, joka osoittaa hakijan täydellisen nimen, syntymäpäiwän ja perhesuhteet. Toisella suwulla olewaa nimeä 
+            ei yleensä saa ottaa, elleiwät hakijan esi-isät ole nimeä laillisesti käyttäneet. Maaherran päätöksestä saa walittaa korkeimpaan hallinto-oikeuteen kuudenkymmenen päiwän kuluessa. Kun maaherra on uuden sukunimen hywäksynyt, on 
+            hakijan kuulutettawa hywäksymisestä wirallisissa lehdissä ja jossain paikkakunnan sanomalehdessä sekä ilmoitettawa sukunimi asianomaisen seurakunnan kirkonkirjoihin merkittäwäksi.</p>
+          <p>Tässä pääkohdat nimenmuuttoa koskewista säännöistä. Tarkemman tiedon näistä saa mainitusta sukunimilaista (hinta 50 p.), jonka saa tilata, mieluimmin postietuannilla, osoitteella: Waltioneuwoston julkaisuwirasto, Helsinki.</p>
+          <p className="captionStyle">Helsingissä, huhtik. 30 p. 1924.</p>
+          <p className="captionStyle">Suomalaisuuden Liiton toimisto.</p>
         </Article>
 
 
@@ -440,7 +494,7 @@ const Lukijoilta1924Page = () => {
     </Layout>
   );
 };
-export const Head = () => <title>Entinen Hämeenlinna - Kartta 1778</title> // metadata
+export const Head = () => <title>Entinen Hämeenlinna - Lukijoilta 1924</title> // metadata
 
 // Export product component
 export default Lukijoilta1924Page

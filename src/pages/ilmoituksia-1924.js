@@ -81,6 +81,9 @@ import img72 from "../images/content/hasa1924/img-72.jpg"
 import img73 from "../images/content/hasa1924/img-73.jpg"
 import img74 from "../images/content/hasa1924/img-74.jpg"
 import img75 from "../images/content/hasa1924/img-75.jpg"
+import img76 from "../images/content/hasa1924/img-76.jpg"
+import img77 from "../images/content/hasa1924/img-77.jpg"
+import img78 from "../images/content/hasa1924/img-78.jpg"
 
 const Ilmoituksia1924Page = () => {
   return (
@@ -132,9 +135,9 @@ const Ilmoituksia1924Page = () => {
           <Image className="columnImgStyle" src={img41} alt="Kuva 41"/>
           <Image className="columnImgStyle" src={img42} alt="Kuva 42"/>
           <Image className="columnImgStyle" src={img43} alt="Kuva 43"/>
+          <Image className="columnImgStyle" src={img44} alt="Kuva 44"/>
         </div>
         <div className="columnStyle">
-          <Image className="columnImgStyle" src={img44} alt="Kuva 44"/>
           <Image className="columnImgStyle" src={img45} alt="Kuva 45"/>
           <Image className="columnImgStyle" src={img46} alt="Kuva 46"/>
           <Image className="columnImgStyle" src={img47} alt="Kuva 47"/>
@@ -166,11 +169,14 @@ const Ilmoituksia1924Page = () => {
           <Image className="columnImgStyle" src={img73} alt="Kuva 73"/>
           <Image className="columnImgStyle" src={img74} alt="Kuva 74"/>
           <Image className="columnImgStyle" src={img75} alt="Kuva 75"/>
+          <Image className="columnImgStyle" src={img76} alt="Kuva 76"/>
+          <Image className="columnImgStyle" src={img77} alt="Kuva 77"/>
+          <Image className="columnImgStyle" src={img78} alt="Kuva 78"/>
         </div>
       </div>
     </Layout>
   )
 }
-export const Head = () => <title>Entinen Hämeenlinna - Ilmoituksia 1922</title> // metadata
+export const Head = () => <title>Entinen Hämeenlinna - Ilmoituksia 1924</title> // metadata
 
 export default Ilmoituksia1924Page

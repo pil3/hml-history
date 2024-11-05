@@ -52,6 +52,13 @@ h4 {
   text-align: center;
   margin: 20px 0 16px 0;
 }
+h5 {
+  font-size: 1rem;
+  text-align: center;
+  margin: 16px 0;
+  letter-spacing: 2px;
+  font-weight: 600;
+}
 
 /* Text styles
 ----------------------------------------------------------------------------------------------------- */

@@ -7,34 +7,180 @@ import "../styles/base/global.css"
 
 import Divider from "../assets/divider.svg"
 import SubDivider from "../assets/sub-divider.svg"
+import QuoteStart from "../assets/quotation-start.svg"
+import QuoteEnd from "../assets/quotation-end.svg"
 
 const HauhoPage = () => {
   return (
     <Layout titleText="Hauhon kirkon arkistosta">
+      <Article titleText="Nälkäwuodet 1695 - 97.">
+        <SubDivider className="dividerStyle" />
+        <h5>Kuwaus 1695-97 nälkäwuosista Hauholla kirkon arkistossa löytywän pahoin kuluneen irtonaisen paperin mukaan suomennettuna:</h5>
+        <QuoteStart className="symbolStyle"/>
+        <p>Wirkani welwoituksesta on minun todettawa, että koko isänmaamme, ja erittäinkin me, hallanarkojen seutujen asukkaat, olemme joutuneet olemaan Jumalan rangaistuksen alla, kun olemme saaneet kestää 
+          kolme kowaa katowuotta peräkkäin, nimittäin wuosina 1695, 96, 97, ja kestää sellaisen nälänhädän, että todennäköisesti ei toista sellaista ole maailman alusta asti ollut, johtuu tämä osittain runsaista 
+          sateista osittain kuiwuudesta ja kowista hallaöistä, niin että me wuosina 1695 ja 96 emme wuosikaswusta saaneet muuta korjata, kuin pahnoja josta oli seurauksena, että suurimmalla osalla maan asukkaista 
+          waimoineen ja lapsineen oli ainoana rawintonaan oljet ja tuo kowin turmiollinen niini, johon ei ollut lisätä suolaa eikä jauhoja, joka kaikki jo oli loppuun kulutettu. Wiimekuluneena talwena he sitten 
+          jättiwät kotinsa, rawinnon puutteen ajamina kuljeskeliwat, söiwät luonnotonta ruokaa, kuten raatojen lihaa, hewosia ja koiria sekä lisäksi sellaista, jota ei woi mainitakaan, sillä kaarna ei talwen kowuuden 
+          tähden irtaantunut, eikä sulan tultua jäkäläsammaltakaan saada woitu osaksi sentähden, että se edellisinä wuosina jo oli käytetty, osaksi oli mädäntynyt, ja wiljaa ei ollut maalla eikä kaupungeissa 
+          ostettawissa enempää siellä kuin täälläkään, ja jos sitä jostakin olisi saanutkin wähän ostaa, oli se niin kallista, 30—34 b.m., että kukaan ei sitä ostamaan kyennyt, ja kotieläimistä ja waatteistakaan ei 
+          enää tähteitä ollut käytettäwissä eikä niitä ostaakaan saanut, sillä kaikki tämä oli wiimeisinä kalliina wuosina 1695 ja 1696 jo mennyt elintarpeitten hankkimiseen. Tämän tähden monet menehtyiwät kauan 
+          kestettyyn nälänhätään, oliwat nähdä kuin haudoissa olewat ruumiit ja wihdoin syötyään tuota turmiollista niintä, mikä koko talwen oli pääruokana ollut, siitä turposiwat ja useimmassa tapauksessa 
+          kuoliwat nälänhätään toiset kylyssä, toiset teillä ja metsissä siinä määrin, että jälellejääneet eiwät kyenneet kaikkia hautaankaan toimittamaan, waan joutuiwat ne petoeläinten ruuaksi. Sydäntäwihlowaa 
+          oli tällaisissa tapauksissa nähdä pieniä lapsia, jotka oliwat jätettäwät kuolemaan, kyyneliä wuodattamatta ei woi tätä kertoa. Wuonna 1697 toimitti armollisin kuninkaamme, Kaarle XI, maahan tuhannen 
+          tynnyriä rukiinsiementä. Wuonna 1698 toimitti armollisin kuninkaamme Kaarle XII tänne niille kansan tähteille, jotka elämään jäiwät, muilta seuduilta runsaasti wiljan jäännöksiä kewät- ja syyswiljan 
+          siemeneksi ja ruuaksi, mutta wiljaa enempää kuin herneitäkään ja pellawan siementä ei sinä wuonna tässä maassa kylwetty, aniharwaa poikkeusta lukuunottamatta.</p>
+        <p className="captionStyle">Jonas Hirn. Kirkon isännöitsijä.</p>
+        <QuoteEnd className="symbolStyle"/>
+        <SubDivider className="dividerStyle" />
+        <p>Myöhemmistä katowuosista löytyy arkistossa seuraawia merkintöjä:</p>
+        <p>„Wuonna 1722 sattui maahamme kowa katowuosi, jota sitten jatkui 1723, 1724, 1725 ja 1726 aiheutuen milloin liiallisesta kosteudesta, milloin liiallisesta kuiwuudesta.”</p>
+        <p>„Wuonna 1731 rankaisi korkein maatamme ankaralla kadolla siten että halla 16 p:nä elokuuta ja sitä seuraawina öinä turmeli kaiken kewätkylwön ja rukiinkin monin paikoin.”</p>
+        <p>„Wuonna 1735 kesäkuun 18 päiwänä tuli rakeita, suurimpain haukan munain kokoisia, toiset pyöreitä toiset soikeita ja särmäisiä, puolen kyynärän wahwuudelta ja nämät eiwät wain särkeneet katot, katkoiwat 
+          latwat suuremmista puista, murtaneet wahwoja oksia niistä tehneet suuria sywennyksiä seiniin, hakanneet kuoliaaksi pikkukarjaa, waan myös turmeliwat kaiken wiljanlaswun sekä heinänkaswun niityillä Kokkilan, 
+          Köykän, Kelkkasen, Tulittulan, Hahkialan ja Hywikkälän kylissä, niin että nämä eiwät kaikesta kaswusta saaneet sinä wuonna jywääkään talteen korjata, waan koottiin sekasin lyödyt ja pahnoiksi hakatut oljet 
+          pelloille rukoihin, ja kun sitä ei karjankaan ruuaksi woitu käyttää, tehtiin siitä wain lantaa. Sama Herran witsa on kohdannut joitakin muitakin kyliä sekä tässä lähellä että etäämmälläkin olleissa pitäjissä.”</p>
+        <p>„Wuonna 1739 heinäkuun 19 päiwänä turmeltui wiljankaswu raekuuron kautta Aikkolan, Uudenkylän, Lehtelän ja Ilmolan kylissä.”</p>
+        <p>Palataksemme 1697 wuoden katoon on se, tallellaolewain historiakirjain mukaan, tehnyt Hauholla hirwittäwää jälkeä. Kuolleiden luettelo esimerkiksi osottaa, että kuolemantapausten luku, joka ennen tätä wuotta 
+          oli pysytellyt 100 waiheissa wuotta kohti, nousi wuonna 1697 kaikkiaan 828:aan, joka summa wastannee ainakin neljättä osaa koko seurakunnan wäkiluwusta. Että suuri kuolewaisuus johtui etupäässä rawinnon 
+          puutteesta, sitä todistaa m.m. kuolemantapausten jakautuminen wuoden eri kuukausille. Niiden lukumäärä kaswoi kuukausi kuukaudelta, kunnes on päästy kesään ja supistuu mitättömän pieneksi, kun pellot owat 
+          alkaneet jakaa antimiaan. Tammikuussa kuoli 41, helmikuussa 62, maaliskuussa 90, huhtikuussa 248, toukokuussa 181, kesäkuussa 117, heinäkuussa 48, elokuussa 14 j.n.e. Wuoden 828:sta kuolleesta tulee sen ensi 
+          puoliskolle 739. Suurin kuolinpäiwä oli huhtikuun 10 päiwä, jolloin ilmoitettiin 54 kuolemantapausta, joista 15 tulee yhden ainoan kylän, nimittäin Ilmoilan kylän osalle. Wertauksen wuoksi eri kylän wälillä 
+          mainittakoon, että runsain oli kuoleman saalis Hyömäen kylästä, joka menetti 77 asukastaan (yhtenä päiwänä toukokuun 15:nä 10), sitten tulee Witsiälä 66 kuolleineen, Eteläisistä 52, Ilmoilasta 49, Kirkonkylästä 
+          43, Portaasta 43, Torwoilasta 36 (josta 16/5 tuodaan hautaan kahden perheen ruumiit, toisesta 4 toisesta 3), Sotjalasta 35, Kokkilasta 30 j.n.e. Kuinka wähäiseksi seurakunta kuolinwuotena meni, näkyy m.m. siitä, 
+          että wuonna 1698 oli kuolemantapauksia koko wuonna 35 ja wuonna 1699 wain 18 ja wielä 1702 wain 19. Eikä ollut suuri syntyneidenkään luku. Vuonna 1695 oli niitä wielä ollut 75 ja w. 1696 50, mutta 1697 wain 14, 
+          1698 - 37, mutta esim. 60:een nousi se wasta wuonna 1711. Nämä numerot todistawat yllämainitun Jonas Hirnin kuwausten oikeaksi.</p>
+          <p>W. P.</p>
+      </Article>
+
+      <Divider className="dividerStyle" />
+
+      <Article titleText="Lukkarijupakka Tuuloksessa.">
+        <h5>Wuonna 1738 pidetyssä pitäjänkokouksessa tehdyn pöytäkirjan suomennos:</h5>
+        <QuoteStart className="symbolStyle"/>
+        <p>Koska lukkari tässä Tuuloksen kappelissa, Juho J:n, nyttemmin on käynyt niin wanhaksi ja raihnaiseksi, että häntä tämän tähden ja sen lisäksi siitä syystä, että hän kaikille tunnetulla wiinaanmenewäisyydellään saa 
+          aikaan pahennusta, kun yhtenään juo itsensä humalaan niin arki- kun pyhäpäiwinäkin, wieläpä wirkatoimissa ollessaankin, niinkun walitettawasti tässäkin tilaisuudessa selwästi woitiin todeta, ja koska hän sopimattomasti 
+          käsittelee kirkkowiiniä ja on niin lewäperäinen ja huolimaton Konsistoorion kiertokirjeiden perilletoimittamisessa, että monet niistä owat joutuneet aiwan hukkaan, ei enään mitenkään woida sietää eli toimessaan pitää, 
+          warsinkin koska hän ei ole ottanut kuulewiin korwiinkaan niitä monia oikaisuja ja parannuswaatimuksia, joita hänelle on siinä tarkotuksessa kerta toisensa perään tehty, waan, kaikesta huolimatta, wain pysynyt paheissaan, 
+          niin jätettiin nyt seurakunnan ratkastawaksi, eikö mainittu J:n, joka jo aikoja sitten olisi tunnettujen ja törkeiden rikkomustensa tähden ansainnut wirkaeron, nyt wihdoinkin olisi erotettawa, eritoten koska hän ei 
+          ainoastaan eilenkin, kun tässä Herran huoneessa kirkkomessua jumalanpalweluksella wietettiin, ollut pahoin juowuksissa, waan nytkin näkyy ilmeisesti olewan siinä tilassa?</p>
+        <p>Tämän johdosta oltiin kokouksessa aluksi hetkinen ääneti, mutta sitten esiintyi 4 tai 5 joukosta mahtipontisesti J:n puolesta, walittaen, että tämän, joka nyt on wanha ja köyhä, eikä mitenkään kykene muualta elatustaan 
+          hankkimaan, on siinä tapauksessa pakko wanhan eukkonsa kanssa kuolla nälkään. Erittäinkin teki kuudennusmies, Tuomas Lepistö, mielenosotuksellisesti pauhaten ja tarpeettomasti huutaen sen wäitteen, että J:lle, joka on 
+          wanha kirkon palwelija, tässä tehtäisiin kohtuuton wääryys, jos hänet nyt wanhoilla päiwillään työnnettäisiin syrjään ja että papitkaan tuskin hywäksyisiwät sellaista heidän hylkimistään, sittenkun owat wanhoiksi käyneet, 
+          mikä kaikki olisi otettawa huomioon, ynnä muuta sellaista. Tähän wastattiin, että paheissa eläwä pappi, olkoonpa nuori tai wanha, on asetusten mukaan armotta erotettawa wirastaan, ja samoin on myös meneteltäwä paheisiin 
+          wajonneen lukkarin kanssa. Ja kun tämä kuudennusmies Lepistökin, niinkun koko seurakunnalle on tunnettua, on kowin taipuwainen juoppouteen ja sen lisäksi on mainittu, siellä ja täällä tapahtuneitten, pienien warkauksien 
+          ja näpistelyjen tekijäksi, mikä kaikki on todistettawissa, niin kysyttiin seurakunnalta, sopiiko antaa tuollaisen kuudennusmiehen, joka ylipäänsä on huonomaineinen ja todettu syypääksi mainitunlaatuisiin pahennusta 
+          herättäwiin wirheisiin, ensinkään käyttää puhewaltaa asiassa, joka koskee toista rikollista, ja sopiiko häntä enää sietää edes kirkon kuudennusmiehenäkään, kun hän on tällaisten wirheitten alaiseksi joutunut, ja 
+          eiköhän hän, niinkuin puheenjohtaja oli jo ennemmin ajatellutkin kokoukselle esittää, olisi katsottawa kyllin ansiokkaaksi joutumaan wirastaan erotettawaksi, ja eikö hänen tilalleen olisi wirkaan walittawa toinen siihen 
+          sopiwampi ja paremmassa maineessa olewa henkilö? Tähän kokous yksimielisesti yhtyi, myöntäen olewan warsin paikallaan, että Tuomas Lepistö erotetaan kirkon kuudennusmiehen wirasta, ja nimitti heti yksimielisesti talollisen 
+          Kristeri Wähäkytilän Syrjäntaan kylästä, joka on raitis, siiwo ja paremmassa maineessa olewa mies, kuudennusmieheksi hänen tilalleen, mikä niinmuodoin kaikin puolin hywäksyttiin. Edelleen wastasi puheenjohtaja noille 
+          toisille, että, mitä heidän puheeseensa lukkarista tulee, J:n kylläkin on koyhä ja joutuisi waikeuksiin, mutta kun hän itse, rikollisen juoppoutensa tähden, on syypää sekä köyhyyteensä että näihin waikeuksiin, warsinkin 
+          kun tunnettua on, että hän, joka tähän asti on hoitanut sekä lukkarin että suntion wirkoja, ja niin muodoin saanut kantaa molempain palkatkin, on enimmäkseen kylissä kulkien pannut wäkijuomiin pienet tulonsa, ja siten itse 
+          saattanut itsensä köyhäksi, sekä että koska tuollainen, joka tuossa kulkee hoiperrellen sekä tänään, että melkeinpä aina ennemminkin, on katsottama arwottomaksi toimimaan tällaisessa seurakunnallisessa wirassa, niin olisi 
+          seurakunnan käsitettäwä, kuinka kohtuutonta on, että tahdotaan suosia henkilöä, joka jo muutenkin on toimeen kykenemätön ja sen lisäksi, monen rikoksen tekijänä, olisi jo aikoja sitten ollut katsottama wirkaoikeutensa 
+          menettäneeksi, kuitenkin ollakseen hänelle armelias hänen wanhoilla päiwillään, tahtoi puheenjohtaja ehdottaa, että J:n, waikkakin hän moninkertaisten rikkomustensa tähden ei mitenkään sitä ansaitse, sittenkin sallittaisiin 
+          elinaikansa, s.o. niinkauan kuin elää, pitää hywänään seurakunnasta tulewat suntiokapat, ja hänen seuraajansa saisi wain lukkarin tulot palkakseen, mutta hoitaisi silti molemmat wirat, niinkun J:kin tähän asti. Jos 
+          wastustajat eiwät tähän sowitteluun taipuisi, lupasi puheenjohtaja alistaa asian Konsistoriumin päätettäwäksi, ja oletti, että Konsistoriumi ei tulisi katselemaan hänen wirheitään läpi sormien, waan käwisi se asiaan wieläkin 
+          ankarammin käsiksi ja saattaisi J:kin maallisessa oikeudessa wastaamaan kirkkopahennuksistaan; jonka jälkeen J:kin puoltajat rupesiwat innokkaasti pyytämään, että hänen wirheitään ei toki sentään pidettäisi niin raskaina, 
+          että hänet saatettaisiin sakkotuomion alaiseksi, johon sitten muukin joukko yhtyi ja selwitti tyytywänsä puheenjohtajan ehdotukseen, koska eiwät sanoneet woiwansa esittää mitään pätewiä seikkoja J:nin puolustukseksi, waan 
+          oliwat hänen wikansa kaikille tunnetut, walittiwathan wain sitä surkeutta, mikä hänellä nyt edessään oli. Asian näin päätyttyä, ehdotti puheenjohtaja seurakunnalle nyt erotetun J:nin seuraajaksi Porwoon opistosta tänne 
+          tulleen ja kokouksessa saapuwilla olewan koululaisen, Samuel Palm-Barkin, joka ei ainoastaan ollut täällä muutamia kertoja tätä ennen laulanut, ja siten esittänyt tyydyttäwät näytteet taidostaan, waan myös oli 
+          ominaisuuksiltaan todettu sellaiseksi, kun Kuninkaallinen Kirkkolaki lukkarin edellyttää, sekä sitäpaitsi todistettiin raittiiksi, siiwoksi ja säwyisäksi mieheksi, ja tulisi seurakunnalla hänestä, koskapa hän oli puusepän 
+          työhön perehtynyt, olemaan sekin hyöty, että se woisi käyttää häntä awukseen sattuwissa kirkon rakennustöissä ja muulloinkin, tarwitsematta käydä muualta sellaista etsimään, ja kysyi, josko se tyytyisi ottamaan P:n 
+          lukkarikseen edellisen tilalle, warsinkin kun hän olisi halukas edellämainituilla ehdoilla ottamaan toimet täyttääkseen, tahtomatta silti ensinkään tyrkyttää tätä P:ia seurakunnan niskoille, waan olisi seurakunnalla täysi 
+          wapaus nimittää joku toinenkin toimeen, jos sillä on tiedossaan sellainen, jolla on yhtä hywät tai ehkäpä paremmatkin edellytykset siihen, kun tällä P:lla? Tähän wastattiin yksimielisesti, että heillä ei ollut mitään 
+          sanottawana P:ia wastaan, waan tunnustiwat hänet kylläkin kelpaawaksi tähän toimeen, kuitenkin arweliwat ne, jotka ennemminkin oliwat J:n puolesta esiintyneet, että tämän heikkouksia sittenkin pitäisi sääliä, jonkawuoksi 
+          puheenjohtaja lupasi selostaa asian Konsistoriumille, ja niin hajaannuttiin kokouksesta, uskossa jättäen toinen toisensa Jumalan huostaan.</p>
+        <p className="captionStyle">M. M.</p>
+        <SubDivider className="dividerStyle" />
+        <p>Seuraawana wuonna ilmoittaa puheenjohtaja seurakunnalle, että Konsistoriumi oli asian ratkaissut hänen wälitys-ehdotuksensa mukaan eli siis erottanut J:n wirasta jättäen hänelle eläkkeeksi suntion palkan, sekä nimittänyt 
+          hänen ehdokkaansa, Palmbarkin, Tuuloksen lukkariksi.</p>
+        <p className="captionStyle">W. P.</p>
+        <QuoteEnd className="symbolStyle"/>
+      </Article>
+
+      <Divider className="dividerStyle" />
+
+      <Article titleText="Miksi waiwastalon rakentaminen Hauholla wuonna 1777 oli pakosta jätettäwä?">
+        <h5>Pitäjänkokouksen pöytäkirja suomennettuna:</h5>
+        <QuoteStart className="symbolStyle"/>
+        <p>Kun ensin Hänen Majesteetinsa kaikkein armollisin kirjelmä 19 päiwältä lokakuuta 1775, joka koskee köyhäinhoitoa pitäjissä, ja joka korkia-arwoisesta Maaherranwirastosta oli saapunut Herra Ruununnimismiehelle, 
+          Axel Fredrik Faworinille, oli julkiluettu, ei seurakunta muuta woinut, kun alamaisimmassa kunnioituksessa ylistää kaikkein armollisimman Kuninkaansa korkeasti hellää huolenpitoa köyhistä ja sääliwäisyyttä niitä 
+          kohtaan, sitäkin suuremmalla syyllä, kun seurakunnan on jo pitkät ajat täytynyt kantaa rasitusta, jonka aiheuttawat wierasten kuntain täällä kuleksiwat köyhät, kun näitä on pitänyt kristillisestä 
+          sääliwäisyydestä awustaa antimilla ja wielä lisäksi raihnasempia heistä kyyditä pois luotaan usein aiwan kiireisimpänä työn aikana, kun se nyt sitäpaitsi, tämän korkean esiwaltansa määräyksessä saa kuuliaisimman 
+          alamaisen tehtäwäkseen kohdistaa kaiken huolenpitonsa ja hellyytensä entistäkin tuntuwammin omiin köyhiinsä ja puutteessa olewiin.</p>
+        <p>Tämän jälkeen johdatettiin mieliin, waikka se ei kellekään seurakunnan jäsenelle olekaan tuntematonta, kuinka nimittäin köyhäinhoitaminen täällä jo monet ajat on ollut sellaista, että maatilat emäseurakunnassa, 
+          samoinkuin Tuuloksen ja Luopioisten kappeleissakin, on jaettu määrättyihin ruotuihin, jotka sitten kukin kohdaltaan owat pitäneet huolen osalleen joutuneen köyhän rawinnosta, elatuksesta ja hoidosta, sekä että 
+          seurakunnan papisto, toimeenpanemissaan katkismus- ja kinkerikuulusteluissa, on joka kylässä tutkinut, miten tätä, pitäjän köyhien hoitamisesta tehtyä sopimusta on asianmukaisesti tarkoin noudatettu, ja on silloin, 
+          sopiwalla tawalla neuwoen, kehotettu sekä hoitolaista itseään että hoitajaansakin, kun owat saapuwilla olleet, tarkoin noudattamaan keskinäisiä welwollisuuksiaan, ja on myös walittelut, joita puolelta tai toiselta 
+          ehkä on tehty, rakkaudessa ja ystäwyydessä käsitelty ja oijottu, ja wielä on kirkon kuudennusmiehiä wakawasti kehotettu pitämään näitä silmällä ja, missä laiminlyöntiä huomaawat, antamaan siitä papistolle 
+          asianmukaisen ilmoituksen.</p>
+        <p>Tämän, ruoduissa tapahtuwan hoidon lisäksi on näille köyhille Rukousmessun aikaan kesällä ja Tuomaanmessun aikaan Joulun edellä, heitä ilahduttaakseen, jaettu rehellisen keräyksen kautta kokoonsaatuja raha- ja 
+          wiljalahjoja, mitkä mainittuina aikoina on papistolle lähetetty köyhille jaettawiksi sen lisäksi, mitä tuntemattomat lahjoittajat owat waiwastukkin panneet, josta wiime syksynäkin, kun se awattiin, löytyi ei wain 
+          hopea- ja waskirahoja, waan wielä lisäksi huomattawa määrä pankkiseteleitä, mitkä oli työnnetty tähän, raudasta tehtyyn ja lukolla warustettuun arkkuun (fattigbyssa). Jotta nämä kerääntyneet warat sitä 
+          kohtuudenmukaisemmin ja kristillisemmin tulisiwat kristillismielisten lahjoittajain tarkotuksen mukaan jaetuiksi, on köyhät luetteloissa jaettu kolmeen luokkaan, kukin raihnautensa mukaan, ja niin saaneet kukin 
+          tämän mukaisen suhteellisen osuutensa niistä.</p>
+        <p>Tällainen on hoito jo wuodesta 1737 ollut ja noudatetaan sitä yhä wieläkin kaikella lainkuuliaisuudella ja hellyydellä, niinkun tähän jäljennöisenä mukaanliitetty luettelokin kyllin selwästi osottaa, ja on 
+          luultawaa, waikkapa nyt ei ollutkaan siitä saatawissa warmaa tietoa, että hiippakunnan Piispa ja Konsistoriumi owat tällaiselle järjestelmälle aikanaan hankkineet korkeanwiranomaisten wahwistuksen.</p>
+        <p>Siitä huolimatta, ja kun Hänen Kuninkaallisen Majesteettinsä armollisin tahto kyllin selwästi näkyy olewan, että waiwastalo olisi rakennettawa kaikkialle, missä niitä ei wielä ole, ja täälläkään ei sellaista 
+          ole, neuwoteltiin nyt siitä, miten tämä, lakia kunnioittaen, woitaisiin ensi tilassa toteuttaa. Oli helposti ymmärrettäwissä, että tämä tarwe ei ollut wielä sillä tyydytetty, että wain tupa rakennettaisiin. 
+          Tähän tarwittaisiin niitä useampia, kuten ulkohuoneita ja keittiö, ehkä wielä muitakin. Palweluskuntaa tähän myöskin wälttämättömästi tarwittaisiin, ennenkuin kaikki olisi tarpeenmukaisessa kunnossa. Mutta, 
+          waikkakin jokainen wakuutti olewansa asiaan halukas, ei sittekään tässä neuwottelussa muuhun päästy, kun että täytyi käydä haikeasti walittamaan sitä, että suurelta osalta seurakuntaa puuttui metsää, joka oli 
+          seurauksena esi-isäin huolimattomasta metsänhoitamisesta ja myös useista, osittain menneinä osittain wiime aikoina, raiwonneista metsäpaloista, joiden alkuunpanijoista ei ollut woitu selkoa saada. Seurakuntalaisten 
+          kaikkein hartaimpana toiwona oli sen tähden, että Hänen Kuninkaallinen Majesteettinsa, joka näin korkean armollisesti ja näin suurella hellyydellä huolehtii alamaisistaan, ei ottaisi närkästyäkseen siitä, että he 
+          uskaltawat mainita tämän metsänpuutteen, warsinkin kun se metsä, mikä täällä mahdollisesti wielä jäljellä on, on kowin kaukana pitäjän emäkirkosta, minkä läheisyydessä, kun eri näkökohdat huomioon otetaan, sopiwin 
+          paikka rakennettawalle waiwastalolle olisi.</p>
+        <p>Lausuttiinpa tästä neuwoteltaessa wielä sellaistakin, että jos nyt, kaikista waikeuksista huolimatta tuollainen waiwastalo sittenkin tulisi rakennetuksi, niin olisi tämä paikkakunta aiwan liian kuiwaa seutua 
+          särwintarpeiden saamiseki siitä köyhille, koskapa nämät, jotka näihin asti owat tyytyneet siihen, mitä talon wäki itsekin on ruuakseen käyttänyt niinkun kaalia, nauriita ja nauriinnaatteja, nyt rupeisiwat waatimaan 
+          jotakin muuta; ja mitä palweluskuntaan tulee, niin olisipa melkein mahdotonta saada sitä ainakin tästä pitäjästä, jossa useilla talojaan hoitaessaankin on puute palweluswäestä, ja jossa suuri ellei suurinkin osa 
+          rengeistä on lähtenyt palwelemaan ruotuwäessä ja wärwätyissä rykmenteissä tai salpetterin walmistuspaikoissa ja, sittenkun näin neuwoin owat saawuttaneet itsenäisen aseman, owat he menneet naimisiin ja niin saaneet 
+          aikaan sen, että tuota toista sukupuolta nyt on palwelukseen saatawissa entistäänkin wähemmän, jättämättä tässä wielä mainitsematta sitäkään, että yksinkertaisessa kansassa on sellainen, kylläkin huonosti perusteltu 
+          katsantokanta, että olisi häpeäksi joutua nimitetyksi waiwasten pikentiksi samaan aikaan kun monen yksityisen taloudessa paikkakunnalla on puute palweluswäestä.</p>
+        <p>Tähän lisäsiwät wielä muutamat, että köyhät itsekään tuskin tulisiwat olemaan niinkään tyytywäisiä, jos heidät waiwastupaan sullottaisiin siitä syystä, että he, muista mukawuuksista mainitsemattakaan, joutuisiwat 
+          täällä eroon seurustelupiiristään, joka on heidän elämälleen kewennykseksi ollut, warsinkin omaisistaan he joutuisiwat erotetuiksi ja tuttawistaan, ja joutuisiwat he täällä sen sijaan peilailemaan itseään toinen 
+          toisensa kurjuudessa ja raihnaisuudessa, ja senkin ilon he täällä menettäisiwät, että sellainen pieni hywäntekijöittensä awustaminen, mihin he heikoilla woimillaan pystyisiwät, ei olisi täällä enään mahdollinen, ja 
+          kun tulee sairautta olisi täällä toinen toiselleen wain rasitukseksi y.m. sellaisia tilanteita, joita walistuneempien mielestä oli tarpeetonta tässä harkitakaan, koskapa nyt ei ollut kysymyskään siitä, kumpi 
+          hoitotapa on sopiwampi, sekä että köyhät hoidetaan ruoduissa, waiko että rakennetaan waiwastupa, sillä olihan tässä harkittawa wain tämän wiimeksimainitun toimeensaamisesta.</p>
+        <p>Siirryttiinkin sentähden pääasiaa lähemmäksi ja sowittiin siitä, että koska niin on Hänen Kuninkaallisen Majesteettinsa, armollisimman Kuninkaamme, tahto ja määräys alamaisilleen, että waiwastupia on rakennettawa, 
+          täälläkin on otettawa sydämen asiaksi että aiwan ensi tilassa on hankittawa paikalle tarpeelliset rakennusaineet ja hirret ja Jumalan armon awulla, minkäänlaisia kustannuksia tinkimättä, käytäwä täyttämään kaikki, 
+          mitä alamaiswelwollisuus waatii; mutta jos seurakunnalle sittenkin se erinomaisen korkea Kuninkaallinen armo suotaisiin että se saisi edelleenkin hoitaa köyhänsä tawallisessa ruotujärjestyksessä tai muulla sopiwalla 
+          tawalla, tarwitsematta rakentaa waiwastaloa tai koota köyhät yhteisasuntoon, joka tuskin on mahdollistakaan toteuttaa sen wuoksi, että on hirsistä puute y.m. ja erittäinkin kun tämä seurakunta on niin wesien hajottama, 
+          että kaiken sen kuljettaminen, mitä köyhät tarwitsewat, käy hywin waiwalloiseksi, ellei joinakin aikoina wuodessa suorastaan mahdottomaksikin niin olisi tämä sellainen asia, että siitä ei woitaisi kyllin korkeata 
+          ylistystä lausuakaan; jonkawuoksi seurakunnalla olikin täysi luottamus siihen, että korkea-arwoisa läänin hywä hallitusmies ja maaherra, luonnollisen hywäntahtoisuutensa ja helläsydämisyytensä wuoksi, ei jättäisi, 
+          mikäli asia hänen wirastonsa toimenpiteestä riippuu, tätä seurakunnan toiwomusta eteenpäin ajamatta, jossa tapauksessa seurakunnan jäsenet pidättäwät itselleen oikeuden itse sopia köyhäinsä hoitamistawasta ja ehdoista. 
+          Kuitenkin siinä tarkotuksessa, että köyhät entistäkin paremmin hoidettaisiin, hoidettiinpa heitä sitten kummalla tawalla hywänsä, ja että wiranomaisetkin tietäisiwät, kuinka paljon ne tulewat maksamaan, niin päätettiin 
+          wielä, että kunkin ruodun entisen jakotawan mukaan on maksettawa wähintäin 2 kappaa hywäksi puhdistettua wiljaa, mikä koko kirkkoherrakunnassa tekee 114 kappaa ja lisäksi särwintä, minkä werran sitä, wuodenaikoja myöten, 
+          Jumalan armosta saada woidaan. Jos jossakin niskottelua hawaittaisiin niin on kirkon kuudennusmiesten tai ruunun palwelusmiesten wirka-apua käyttäen, kultakin hänen maksettawansa osuus otettawa.</p>
+        <p>Näin päätettiin asia Jumalan siunaawan käden alla ja turwaten hänen apuunsa näin kristillisessä asiassa, ja tahdomme me tämän, mitä tapahtunut on, wahwistaa, panemalla nimemme ja puumerkkimme tämän alle.</p>
+        <QuoteEnd className="symbolStyle"/>
+        <p className="captionStyle">U. P.</p>
+      </Article>
+
+      <Divider className="dividerStyle" />
+
       <Article titleText="Huomattawia tapahtumia.">
         <SubDivider className="dividerStyle" />
         <h4>Ryssät Hauhon kirkossa wuonna 1713.</h4>
         <br></br>
-        <p className="firstLetterStyle">Syyskuun 29 päiwänä murtautui eräs, Hämeenlinnasta lähetetty, ryssäjoukkue Hauhon emäkirkkoon sakariston ikkunasta, kun heidän yrityksensä päästä sisään 
-          etelänpuoleisesta kirkon owesta ei ollut onnistunut, waikka owi oli, minkä wieläkin woi todeta, yritetty hakata rikki kirweellä. Samassa tilaisuudessa owat nuo jumalattomat iskeneet 
-          miekalla kirkon etelänpuoleisessa eteisessä seisowaa Bartimeus kuwaweistosta päähän, josta samoinkun owenmurtautumisyrityksestäkin, wielä merkit owat selwästi nähtäwissä.</p>
+        <p className="firstLetterStyle">Syyskuun 29 päiwänä murtautui eräs, Hämeenlinnasta lähetetty, ryssäjoukkue Hauhon emäkirkkoon sakariston ikkunasta, kun heidän yrityksensä päästä sisään etelänpuoleisesta kirkon owesta ei 
+          ollut onnistunut, waikka owi oli, minkä wieläkin woi todeta, yritetty hakata rikki kirweellä. Samassa tilaisuudessa owat nuo jumalattomat iskeneet miekalla kirkon etelänpuoleisessa eteisessä seisowaa Bartimeus 
+          kuwaweistosta päähän, josta samoinkun owenmurtautumisyrityksestäkin, wielä merkit owat selwästi nähtäwissä.</p>
         <SubDivider className="dividerStyle" />
         <h4>Hauho näihin aikoihin pitkät ajat ilman pappia.</h4>
         <br></br>
-        <p className="firstLetterStyle">Wuonna 1711 oli Hauhon seurakuntaan tullut kirkkoherraksi oman pitäjän poika, Mathias Martinius, joka oli syntyisin Tuuloksesta Pohjoisten Häppölästä 
-          ja joka, ennen tänne tulemistaan, oli ollut Wiipurin kimnaasin lehtorina ja sittemmin Säkkijärwen pastorina. Kun ryssä wuonna 1713 otti haltuunsa Hämeenlinnan, pakeni Martinius, 
-          samoinkun seurakunnan kappalainen Salomon Stichaeustin, Ruotsiin ja jäiwät sinne kappalainen ainaiseksi ja kirkkoherra wuoteen 1722, jolloin palasi takaisin ja, wanha kun oli, sai 
-          luowuttaa wirkatehtäwänsä pojalleen Martinius Martinille, josta sitten tuli hänen seuraajansa. Pappien ollessa täältä, samoinkun monesta muustakin Suomen seurakunnasta, pakosalla, 
-          toimitti Hauholla papillisia tehtäwiä yliopistolainen Cristoffer Roos. Tuuloksen kappalainen käwi myös auttamassa.</p>
+        <p className="firstLetterStyle">Wuonna 1711 oli Hauhon seurakuntaan tullut kirkkoherraksi oman pitäjän poika, Mathias Martinius, joka oli syntyisin Tuuloksesta Pohjoisten Häppölästä ja joka, ennen tänne tulemistaan, oli 
+          ollut Wiipurin kimnaasin lehtorina ja sittemmin Säkkijärwen pastorina. Kun ryssä wuonna 1713 otti haltuunsa Hämeenlinnan, pakeni Martinius, samoinkun seurakunnan kappalainen Salomon Stichaeustin, Ruotsiin ja jäiwät sinne 
+          kappalainen ainaiseksi ja kirkkoherra wuoteen 1722, jolloin palasi takaisin ja, wanha kun oli, sai luowuttaa wirkatehtäwänsä pojalleen Martinius Martinille, josta sitten tuli hänen seuraajansa. Pappien ollessa täältä, 
+          samoinkun monesta muustakin Suomen seurakunnasta, pakosalla, toimitti Hauholla papillisia tehtäwiä yliopistolainen Cristoffer Roos. Tuuloksen kappalainen käwi myös auttamassa.</p>
         <SubDivider className="dividerStyle" />
         <br></br>
         <p className="firstLetterStyle">Hauhon kaikkina aikoina luultawasti wanhin henkilö on ollut Torwoilan Wähäpään Yrjö isäntä, joka kuoli wuonna 1712 113 wuoden ikäisenä.</p>
         <SubDivider className="dividerStyle" />
         <h4>Penkkijaot.</h4>
         <br></br>
-        <p className="firstLetterStyle">Penkkijaot kirkossa owat Hauholla, niinkuin kaikkialla muuallakin, olleet melkein kaikkein tärkeimpiä asioita. Monet riidat on niistä pitänyt riidellä 
-          ja wähäwäliä on niitä pitänyt uudestaan toimittaa. Wuonna 1664 on sellainen toimitettu etupäässä maatilanomistajain arwon mukaan. Samoin wuonna 1733. Wuonna 1783 toimitetussa on 
-          manttaali otettu jaon perustukseksi ja tuli silloin penkkiä 2½ kyynärää manttaalia kohti. Wielä wuonna 1800 toimitettiin jako, ja tuli silloin penkkiä 2 kyynärää manttaalin osaksi.</p>
+        <p className="firstLetterStyle">Penkkijaot kirkossa owat Hauholla, niinkuin kaikkialla muuallakin, olleet melkein kaikkein tärkeimpiä asioita. Monet riidat on niistä pitänyt riidellä ja wähäwäliä on niitä pitänyt uudestaan 
+          toimittaa. Wuonna 1664 on sellainen toimitettu etupäässä maatilanomistajain arwon mukaan. Samoin wuonna 1733. Wuonna 1783 toimitetussa on manttaali otettu jaon perustukseksi ja tuli silloin penkkiä 2½ kyynärää manttaalia 
+          kohti. Wielä wuonna 1800 toimitettiin jako, ja tuli silloin penkkiä 2 kyynärää manttaalin osaksi.</p>
         <SubDivider className="dividerStyle" />
           <br></br>
           <a className="hyperLinkStyle" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389178?page=2">Linkki artikkeliin</a>
