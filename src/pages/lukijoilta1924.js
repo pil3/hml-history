@@ -42,6 +42,7 @@ const Lukijoilta1924Page = () => {
         <p className="captionStyle">Helsingissä joulukuun 31 p. 1923</p>
         <p className="captionStyle">Lawonius, Ingman - Keskinäinen henkiwakuutusyhtiö Suomi</p>
       </Article>
+
       <SubDivider className="dividerStyle" />
       <h3>Perjantai, 4.1.1924</h3>
       <Article titleText="Kiitos.">
@@ -50,6 +51,7 @@ const Lukijoilta1924Page = () => {
         <p className="captionStyle">Hämeenlinna 3. 1. 24.</p>
         <p className="captionStyle">Kumlin. Majuri ja w. a. Rykm. Komentaja.</p>
       </Article>
+
       <SubDivider className="dividerStyle" />
       <h3>Lauantai, 5.1.1924</h3>
       <Article titleText="Wastinetta Suomi Yhtiölle.">
@@ -77,6 +79,7 @@ const Lukijoilta1924Page = () => {
           waikka wakuutuskirjat jo on ollut asiamiehen hallussa, on tältä waadittu ja maksua tarjottu.</p>
         <p className="captionStyle">Suomi-yhtiössä wakuutettuja.</p>
       </Article>
+
       <SubDivider className="dividerStyle" />
       <h3>Sunnuntai, 6.1.1924</h3>
       <Article titleText="Pari nöyrää kysymystä Suomi-yhtiölle.">
@@ -97,6 +100,7 @@ const Lukijoilta1924Page = () => {
           alkuajoilta asti ollut säännös, joka kieltää asiamiestä wastaanottamasta wakuutusmaksua, jos wakuutuksen ottaja on sairastunut?</p>
         <p className="captionStyle">Myöskin Suomi-yhtiössä wakuutettu.</p>
       </Article>
+
       <SubDivider className="dividerStyle" />
       <h3>Lauantai, 12.1.1924</h3>
       <Article titleText="Tilitys Pelastusarmeijan joulupadoista.">
@@ -109,6 +113,7 @@ const Lukijoilta1924Page = () => {
         <p className="captionStyle">Kiitollisuudella Elin Bärlund, Rosa Nuotio.</p>
         <p className="captionStyle">Slummisisaret.</p>
       </Article>
+
       <SubDivider className="dividerStyle" />
       <h3>Perjantai, 18.1.1924</h3>
       <Article titleText="„Saa ansaitsemansa rangaistuksen”.">
@@ -130,367 +135,413 @@ const Lukijoilta1924Page = () => {
         <p>Pois lellittely ja wäärä „ihmisyys”, kuri ja järjestys maahan!</p>
         <p className="captionStyle">Cato.</p>
       </Article>
+
       <SubDivider className="dividerStyle" />
       <h3>Keskiviikko, 30.1.1924</h3>
       <Article titleText="Kaikille Pohjois- ja Etelä Hämeen Suojeluskuntapiirien Suojeluskunnille.">
         <p>Täten kutsutaan kaikkia Hämeen läänissä asuwia suojeluskuntalaisia ottamaan osaa „Hämeen Hiihtomestaruusmalja” -kilpailuihin, jotka allaolewa Suojeluskunta järjestää sunnuntaina 
           helmikuun 17 p:nä 1924 klo 9 a.p. matkalla Hämeenlinna Riihimäki (taikka päinwastoin; matkan pituus noin 45 km).</p>
-          <p>Woittaja saa haltuunsa wuodeksi Hämeenlinnan Kansallis Kerhon lahjoittaman komean, 2,500 markan arwoisen „Hämeen Hiihtomestaruus maljan”, jota ensimmäisen kerran puolustaa M. 
-            Talwia Kangasalan Sksta; useita yksityispalkintoja jaetaan.</p>
-          <p>Suojeluskunnat ilmoittawat osanottajien nimet allekirjoittaneelle 7. 2. 1924 mennessä. Lähemmät määräykset kilpailureitistä, majoituksesta y.m. annetaan myöhemmin.</p>
-          <p>Runsasta osanottoa toiwoen lausumme kaikki suojeluskuntalaiset terwetulleiksi yllämainittuihin kilpailuihin.</p>
-          <p className="captionStyle">Hämeenlinnan Suojeluskunta.</p>
-          <p className="captionStyle">Helkiö, Paikallispäällikkö.</p>
-          <p className="captionStyle">Juurewa, Urheilutoimik. puheenjoht.</p>
-        </Article>
-        <Article titleText="Wapaussodan inwalideille.">
-          <p>Yleinen Suomen wapaussodan inwalidien kokous pidetään Helsingissä, Säätytalolla sunnuntaina tulewan helmikuun 17:tenä päiwänä ja aloitetaan kokouksen pito sanottuna päiwänä klo 
-            12, mutta jos näyttää tarpeelliselta, niin jatketaan sitä wielä 18:tena eli maanantaipäiwänä. Kokouksessa tullaan keskustelemaan inwalidiyhdistyksen perustamisesta sekä monista 
-            muista esille tulewista tärkeistä asioista. Koska waltioneuwosto on myöntänyt kokoukseen osaaottawille inwalideille wapaaliput rautateillä, niin kehoitetaan täten kaikkia niitä 
-            wapaussodassa haawoittuneita sotureita, jotka katsotaan olewan oikeutettuja wapaalipun saantiin ja jotka haluawat ottaa osaa kokoukseen, lähettämään allekirjoittaneelle selwän 
-            osoitteensa ja sen aseman nimen, josta lähtö tapahtuu.</p>
-          <p>Koska käytettäwissämme on myös rajoitettu määräraha etupäässä majoitusta warten, niin ei walitettawasti woida maakyytejä korwata, jos osanottajia ilmaantuu paljon. Kuitenkin, 
-            mikäli warat antawat myöten, annetaan matkakyydeistäkin korwausta kiewaritaksan mukaan niille inwaliideille, jota eläwät huonommissa olosuhteissa ja joiden matka rautatieasemalle 
-            on peninkulmaa pidempi. Tästä maamatkan korwauksesta pyydetään niitä, jotka sellaisen saantiin katsowat itsensä oikeutetuiksi, tekemään eri anomus allekirjoittaneelle ja on 
-            kokoukseen sitten tuotawa mukana, jos mahdollista, kuitattu lasku kyydistä. Siltä waralta taas, että monilukuisuutemme tähden täytyisimme majoituksessa turwautua yhteisasuntoihin, 
-            niin kehoittaisimme kokoukseen saapuwia ottamaan mukaansa wiltin ja lakanat.</p>
-          <p className="captionStyle">A. Rosenberg.</p>
-          <p className="captionStyle">Os.: Selki (Hangon rata).</p>
-        </Article>
-        <Article titleText="Sokerijuurikaswiljelyksen edistäminen Etelä-Hämeessä.">
-          <p>Sanomalehdissä on kierrellyt uutinen, jonka mukaan Salon Raakasokeritehtaan toimesta äsken on pidetty neuwottelukokous, johon on kutsuttu edustajia eri seuduilta ja jossa on „todettu” 
-            erinäisiä sokerijuurikaswiljelystä koskewia ponsia. Ainoa „edustaja”, joka on nimeltä mainittu, on hra J. Torppa Hattulasta, joka oli walittu kokouksessa puhetta johtamaan.</p>
-          <p>Tämän johdosta täytyy kysyä, owatko todelliset sokerijuurikaswiljelijät Etelä-Hämeessä jo niin täydellisesti häwinneet, että heidän „edustajaksi” on täytynyt ottaa pohjalainen 
-            huwilanomistaja, jolla ei woi olla sanottawaa kokemusta asioista? Wai onko tahdottu antaa kokoukselle erityistä loistoa hankkimalla sille puheenjohtajaksi entinen suurlakkoajan 
-            kuwernööri? Ja owatko muut edustajat olleet pätewämpiä tekemään asiasta päätöksiä kuin puheenjohtaja?</p>
-          <p>Ilmoituksissaan Sokerijuurikastehdas edelleen wakuuttaa, että sokerijuurikaswiljelys antaa suurempaa woittoa hehtaaria kohti kuin muut wiljelyskaswit. Ainakin Etelä-Hämeessä owat 
-            tulokset kuitenkin yleensä olleet suorastaan masentawia. Luulisi, että yhtiökin käsittäisi sen, että, jos on mieli saada innostus asiaan uudestaan syntymään, siihen toki tarwitaan 
-            muita wakuutteluja kuin henkilöiden, jotka owat yhtiön warta wasten palkkaamat tahi joiden ansio korkeintaan nousee siihen, että osaawat eroittaa sokerijuurikkaan ja porkkanan 
-            toisistaan.</p>
-          <p className="captionStyle">Entinen sokerijuurikaswiljelijä.</p>
-        </Article>
+        <p>Woittaja saa haltuunsa wuodeksi Hämeenlinnan Kansallis Kerhon lahjoittaman komean, 2,500 markan arwoisen „Hämeen Hiihtomestaruus maljan”, jota ensimmäisen kerran puolustaa M. 
+          Talwia Kangasalan Sksta; useita yksityispalkintoja jaetaan.</p>
+        <p>Suojeluskunnat ilmoittawat osanottajien nimet allekirjoittaneelle 7. 2. 1924 mennessä. Lähemmät määräykset kilpailureitistä, majoituksesta y.m. annetaan myöhemmin.</p>
+        <p>Runsasta osanottoa toiwoen lausumme kaikki suojeluskuntalaiset terwetulleiksi yllämainittuihin kilpailuihin.</p>
+        <p className="captionStyle">Hämeenlinnan Suojeluskunta.</p>
+        <p className="captionStyle">Helkiö, Paikallispäällikkö.</p>
+        <p className="captionStyle">Juurewa, Urheilutoimik. puheenjoht.</p>
+      </Article>
+      <Article titleText="Wapaussodan inwalideille.">
+        <p>Yleinen Suomen wapaussodan inwalidien kokous pidetään Helsingissä, Säätytalolla sunnuntaina tulewan helmikuun 17:tenä päiwänä ja aloitetaan kokouksen pito sanottuna päiwänä klo 
+          12, mutta jos näyttää tarpeelliselta, niin jatketaan sitä wielä 18:tena eli maanantaipäiwänä. Kokouksessa tullaan keskustelemaan inwalidiyhdistyksen perustamisesta sekä monista 
+          muista esille tulewista tärkeistä asioista. Koska waltioneuwosto on myöntänyt kokoukseen osaaottawille inwalideille wapaaliput rautateillä, niin kehoitetaan täten kaikkia niitä 
+          wapaussodassa haawoittuneita sotureita, jotka katsotaan olewan oikeutettuja wapaalipun saantiin ja jotka haluawat ottaa osaa kokoukseen, lähettämään allekirjoittaneelle selwän 
+          osoitteensa ja sen aseman nimen, josta lähtö tapahtuu.</p>
+        <p>Koska käytettäwissämme on myös rajoitettu määräraha etupäässä majoitusta warten, niin ei walitettawasti woida maakyytejä korwata, jos osanottajia ilmaantuu paljon. Kuitenkin, 
+          mikäli warat antawat myöten, annetaan matkakyydeistäkin korwausta kiewaritaksan mukaan niille inwaliideille, jota eläwät huonommissa olosuhteissa ja joiden matka rautatieasemalle 
+          on peninkulmaa pidempi. Tästä maamatkan korwauksesta pyydetään niitä, jotka sellaisen saantiin katsowat itsensä oikeutetuiksi, tekemään eri anomus allekirjoittaneelle ja on 
+          kokoukseen sitten tuotawa mukana, jos mahdollista, kuitattu lasku kyydistä. Siltä waralta taas, että monilukuisuutemme tähden täytyisimme majoituksessa turwautua yhteisasuntoihin, 
+          niin kehoittaisimme kokoukseen saapuwia ottamaan mukaansa wiltin ja lakanat.</p>
+        <p className="captionStyle">A. Rosenberg.</p>
+        <p className="captionStyle">Os.: Selki (Hangon rata).</p>
+      </Article>
+      <Article titleText="Sokerijuurikaswiljelyksen edistäminen Etelä-Hämeessä.">
+        <p>Sanomalehdissä on kierrellyt uutinen, jonka mukaan Salon Raakasokeritehtaan toimesta äsken on pidetty neuwottelukokous, johon on kutsuttu edustajia eri seuduilta ja jossa on „todettu” 
+          erinäisiä sokerijuurikaswiljelystä koskewia ponsia. Ainoa „edustaja”, joka on nimeltä mainittu, on hra J. Torppa Hattulasta, joka oli walittu kokouksessa puhetta johtamaan.</p>
+        <p>Tämän johdosta täytyy kysyä, owatko todelliset sokerijuurikaswiljelijät Etelä-Hämeessä jo niin täydellisesti häwinneet, että heidän „edustajaksi” on täytynyt ottaa pohjalainen 
+          huwilanomistaja, jolla ei woi olla sanottawaa kokemusta asioista? Wai onko tahdottu antaa kokoukselle erityistä loistoa hankkimalla sille puheenjohtajaksi entinen suurlakkoajan 
+          kuwernööri? Ja owatko muut edustajat olleet pätewämpiä tekemään asiasta päätöksiä kuin puheenjohtaja?</p>
+        <p>Ilmoituksissaan Sokerijuurikastehdas edelleen wakuuttaa, että sokerijuurikaswiljelys antaa suurempaa woittoa hehtaaria kohti kuin muut wiljelyskaswit. Ainakin Etelä-Hämeessä owat 
+          tulokset kuitenkin yleensä olleet suorastaan masentawia. Luulisi, että yhtiökin käsittäisi sen, että, jos on mieli saada innostus asiaan uudestaan syntymään, siihen toki tarwitaan 
+          muita wakuutteluja kuin henkilöiden, jotka owat yhtiön warta wasten palkkaamat tahi joiden ansio korkeintaan nousee siihen, että osaawat eroittaa sokerijuurikkaan ja porkkanan 
+          toisistaan.</p>
+        <p className="captionStyle">Entinen sokerijuurikaswiljelijä.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Lauantai, 2.2.1924</h3>
+      <Article titleText="Uhkaako hedelmäwiljelyämme uusi tuho?">
+        <p>Jo pari wuosikymmentä on ulkomaalaisissa puutarha aikakauslehdissä, eritoten hedelmäwilelyä käsittelewissä, tuontuostakin näkynyt wakawalaatuisia uutisia eräästä uudesta 
+          hedelmäwiljelyn tuholaisesta, nimittäin omenahärmästä (Spherotheca leucotricha - Podosphaera leucotricha). Wiime wuosina owat selostukset naapurimaistamme käyneet yhä 
+          hälyyttäwimmiksi. Onpa jo sattunut esim. Ruotsissa hywin tuntuwia tämän tuhosienen aiheuttamia waurioita. Yleensä pidetään mahdollisena, että tämä tuhosieni wauhtiin päästyään 
+          woi aikaansaada suunnatonta tuhoa hedelmätarhoissa, etupäässä omena-, mutta myöskin päärynäpuille. Wieläpä siinä määrin, että muutamien tälle tuhosienelle alttiiden laatujen wiljely 
+          käy täysin mahdottomaksi. Koska allekirjoittanut on tawannut tämän tuhosienen jo ainakin yhdessä paikassa Suomessakin, joten woidaan todistaa sen maassamme olo, on syytä, että mekin 
+          ajoissa jo kiinnitämme huomiomme siihen ja ryhdymme niihin toimenpiteisiin, joita näin wakawalaatuisen tuhosienen maahantulo ehdottomasti waatii, sillä ottaen huomioon, että kotimaisen 
+          hedelmäwiljelymme tuotanto nousee nykyisin jo yli 100 miljoonan markan, ymmärrämme helposti kuinka suurta kansantaloudellista wahinkoa se woi wuosittain aikaansaada.</p>
+        <p>Ensinnäkin olisi saatawa selwillle, onko se esiintynyt jo useammissa puutarhoissa maassamme? Koska tässä on kysymyksessä yksi pahimpia puntarhawiljelyn tärkeimmän alan wihollisia, 
+          olisi kaikkien oltawa walmiit jo omankin etunsa kannalta jonkunwertaiseen waiwannäköön tämän witsauksen torjumiseksi ja pyytää allekirjoittanut sentähden, että jokainen 
+          hedelmänwiljelijä, joka on mainitun loissienen hedelmätarhassaan tawannut, antaisi siitä tiedon allekirjoittaneelle.</p>
+        <p>Jotta sen toteaminen olisi helpompaa, tahdon tässä muutamin sanoin selostaa sen esiintymisen ja tunnusmerkilliset ominaisuudet. Omenahärmä muistuttaa joka suhteessa karwiaismarjahometta. 
+          Se tawataan hedelmätarhoissa tawallisesti ensiksi siementaimissa tai nuoremmissa hedelmäpuissa, wasta laajemmin lewittyään se siirtyy wanhempiin puihin, esiintyen ensiksi wuosikaswaimien 
+          latwalehdillä ja kukilla siirtyen wasta myöhemmin wanhemmille lehdille, kuoren pinnalle ja hedelmille muuttaen ne kaikki wäriltään hohtawan harmaiksi, härmäpeittoisiksi. Omenahärmä lewiää 
+          nopeasti saman hedelmätarhan kaikkiin wähänkin wastustuskywyttömämpiin hedelmäpuu-laatuihin, joten torjumistoimenpiteisiin on ryhdyttäwä heti kun se tawataan. Ehdotonta, yksinkertaista 
+          häwityskeinoa ei tällekään loissienelle toistaiseksi tunneta, mutta wastustamalla sitä sitkeästi ja järkiperäisesti se wähitellen saadaan tyystin häwiämään hedelmätarhasta. Menettelytawat 
+          owat samat kuin muillekin waikeasti tuhottawille loissienille ja kaswitaudeille ja on tällöin erikoisesti kiinnitettäwä huomiota kaswien terweyshoidolliseen puoleen. ja järkiperäiseen 
+          torjumisaineitten käyttöön, joista seikoista on täydellinen selostus mm. 1923 - 1924 puutarhakalenterissa. </p>
+        <p className="captionStyle">Lepaan Puutarhaopistolla tammikuun 23 pnä 1924.</p>
+        <p className="captionStyle">Olawi Collan.</p>
+        <p className="captionStyle">Waltionpomologi.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Keskiviikko, 6.2.1924</h3>
+      <Article titleText="Sokerijuurikaswiljelyksen edistäminen Etelä-Hämeessä.">
+        <p>Eräs entinen sokerijuurikkaan wiljelijä on tämän lehden numerossa 25 halpamaisesti solwannut kunnallisneuwos F. Torppaa, ja samalla hän yritää antaa letkauksen Suomen Raakasokeritehtaan 
+          johdolle sekä wielä wälillisesti niille sokerijuurikkaan wiljelijöille, jotka ottiwat osaa kirjoituksessa mainittuun neuwottelukokoukseen Salon kauppalassa. </p>
+        <p>Kirjoituksen laatija näyttää olewan loukkaantunut siitä, ettei häntä oltu kutsuttu tuohon edellämainittuun kokoukseen osanottajaksi, sillä kaikesta päättäen hän olisi siellä tahtonut 
+          antaa oikean akateemisen neuwon ei ainoastaan sokerijuurikkaan wiljelemisessä waan myöskin muittenkin juurikaswien tuntemisessa. Tuntuu liewimmin sanoen rumalta kirjoittajan halu loukata 
+          yksityistä henkilöä sellaisten asioitten yhteydessä, joilla ei ole mitään tekemistä sokerijuurikkaan wiljelemisen kanssa. Kunnallisneuwos J. Torppa ei ole tuossa kokouksessa ollut 
+          erityisenä Etelä-Hämeen juurikaswiljelijäin edustajana - waikkakin hänet oli walittu kokouksen puheenjohtajaksi, enkä myöskään luule entisillä wiljelijöillä olewan mitään erityistä 
+          oikeutta tutkia meitä muita kokouksen osanottajia, olemmeko pätewiä arwostelemaan, kannattaako sokerijuurikkaan wiljelys Elelä-Hämeessä, wai eikö.</p>
+        <p>Tämän yhteydessä teen lyhyesti selkoa nykyisille sokerijuurikkaan wiljelijöille sekä muille asianharrastajille Salon kokouksen neuwottelujen tuloksista. Kokouspäiwänä, tammikuun 23 pnä, 
+          oli Raakasokeritehtaan kutsua noudattaen kokoontunut Salon palokunnan talolle noin 25 sokerijuurikkaan wiljelijää Hämeestä ja muualta Etelä-Suomesta. Pidemmän asiallisen keskustelun jälkeen 
+          kokous yksimielisesti katsoi, että sokerijuurikkaan wiljeleminen Etelä-Suomessa kannattaa seuuraawien näkökohtien perusteella:</p>
+        <p>1.) Kun wiljelijöille tehdas takaa sokerijuurikkaan hinnaksi 55 p. kilolta paitsi muita etuja.</p>
+        <p>2.) Jos wiljelmä ei sijaitse liian kaukana rautatieasemalta.</p>
+        <p>3.) Jos wiljelijä noudattaa niitä yleisiä menettelytapoja juurikasmaan lannoituiseen kylwön ja harwennuksen sekä maanmuokkauksen suhteen, mikä on tawallista.</p>
+        <p>Wielä todettiin, että sokerijuurikkaan naatti yhdessä tehtaalta edullisesti laadun leikkeleen kanssa wastaa suunnilleen sitä tuorerehumäärää, mitä samalta peltoalalta saataisiin esim. 
+          naurista wiljelemällä, minkä wuoksi lähellä asemaa asuwa sokerijuurikkaan wiljelijä woi wähentää rehujuurikkaan kaswattamista ja parhaassa tapauksessa woi sen kokonaan lopettaakin, 
+          tarwitsematta silti lypsykarjaltaan wähentää tuorerehunsyöttöä.</p>
+        <p>Kokouksessa wallitsi yleensä toiworikas mieliala sokerijuurikkaan uudelleen wiljelemisen puolesta eikä katsottu wielä olewan pätewää syytä lakata sen kaswattamisesta, sillä wiime kesä on 
+          antanut poikkeuksellisen huonon sadon yleensä muistakin wiljelyskasweista.</p>
+        <p>Lopuksi pyydän entiselle sokerijuurikkaan wiljelijälle huomauttaa, että, jos Teidän ei kannata eikä sowi kaswattaa sokerijuurikasta, nim. antakaa niitten maanwiljelijäin, joilla on edelleen 
+          halua ja ehkä parempia edellytyksiä kuin Teillä, sitä wiljellä, sillä ei ainakaan tätä kokeilua ole luettawa maanwiljelyksellemme taantumukseksi eikä kansantaloudellemme wahingoksi.</p>
+        <p className="captionStyle">T. J. Kupila.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Torstai, 7.2.1924</h3>
+      <Article titleText="Maalaisen mietteitä waaliliittoasiasta.">
+        <p>Täällä maaseudulla, jossa ei aiwan tarkkaan tunneta puoluekeskuselimien ja sanomalehtien wälisiä kahnauksia, tuntuu käsittämättömältä että ollenkaan tarwitsee keskustella porwaripuolueiden 
+          yhteisestä waaliliitosta. Wielä kummemmalta kuuluu, että sitä wastustetaan. Yhtymisen pidämme aiwan luonnollisena ja wälttämättömänä. Yksinkertaisuudessamme emme huomaa suurta eroa nykyisen 
+          ajan ja wuoden 1917 painostawien olojen wälillä. Silloin saiwat sosialistit tahtonsa läpiajetuksi ryssäin pistinten awulla; nyt ei heidän tarwitse muuta kuin sanella liewiä laittomuusuhkauksia, 
+          niin toiweensa toteutuwat. Kun waltiollisista oloista olemme saaneet noin lohduttoman käsityksen kunnallisasioista ja tunnemme tuon „weljeyden” ja „tasa-arwoisuuden” ikäwän irwikuwan, jonka 
+          hywänä seurauksena on ollut porwarillisten puoluerajain poistuminen useissa kunnissa ja yhteisen rintaman muodostuminen kumouksellisia wastaan, emmekä tunne todellista syytä, miksi kuulumme 
+          eri karsinoihin waltiollisissa waaleissa, niin itsestään syntyy kysymys: kuinkahan suuria ja waikeasti sowitettawia niitten puoluepääherrojen ja sanomalehtien erimielisyydet owat, kun ei niitä 
+          woida nytkään jättää syrjään ja puhaltaa yhteen hiileen, mistä syttyisi porwarillinen waaliliitto, jonka tunnusmerkkinä olisi: Isänmaanpetturit pois yhteiskuntarakennukseltamme!</p>
+        <p>Kysymykseen emme kukaan kykene tyydyttäwästi wastaamaan. Senpä johdosta herää toinen kysymys: eiköhän ole taas kärpäsistä tehty härkäsiä, joiden warjosta on joku yksityisetu päässyt määräämään 
+          yhteisedun edelle?</p>
+        <p>Pois kaikki siihen wiwahtawatkin! Maaseutulaisten puolesta pyydän Teidän herrain johtajain tarkistamaan kantanne, herkistämään hermonne tunteaksenne mitä isänmaallinen kansa eturiwin miehiltä 
+          odottaa: hywästä ystäwyydestä järjestettyä yhteistä rintamaa isänmaattomia wastaan! Yhteistyössä ja yhteisymmärryksellä pienet erimielisyydet kyllä tasottuwat!</p>
+        <p className="captionStyle">Huolestunut maalainen.</p>
+      </Article>
+      <Article titleText="Entisen sokerijuurikaswiljelijän kirjoituksen johdosta.">
+        <p>Tämän lehden 25 numerossa on „entinen sokerijuurikaswiljelijä” sala-ampujan tawalla hyökännyt allekirjoittaneen kimppuun ja samalla yrittänyt wahingoittaa Suomen Raakasokeritehtaan pyrkimyksiä; 
+          ja koska kirjoitus woipi johtaa asiaa tuntemattoman harhaan, niin muutama sana sen walaisemiseksi.</p>
+        <p>Kuten mainitussa kirjoituksessa sanotaan, oli Raakasokeritehtaan puolesta kutsuttu eri seudulta wiljelijöitä ja tehtaan asiamiehiä neuwottelemaan sokerijuurikaswiljelyksen 
+          edistämismahdollisuudesta. Etelä=Hämeestä oli kokouksessa saapuwilla wiljelijöistä maanwiljelijä T. Kupila Hattulasta.</p>
+        <p>Allekirjoittanut oli myöskin yhtiön asiamiehenä kehoituksesta kokouksessa ja yksimielisestä pyynnöstä toimi kokouksen puheenjohtajana, aawistamatta sen herättäwän kenessäkään mieskohtaista 
+          katkeruutta.</p>
+        <p>Kun olin kahtena syksynä tehtaan käyntiaikana seuraamassa sokerijuurikkaiden punnitusta ja pesua, niin tällöin olin tilaisuudessa tutustumaan juurikkaanwiljelijäin kokemuksiin, jotka oliwat 
+          toisistaan eriäwiä. Toiset sanoiwat, että juurikkaat kaswawat huonosti ja sen wuoksi niiden wiljeleminen ei kannata. Toiset myönsiwät, että jos iiden kaswattamiseen kiinnitetään tarpeellista 
+          huomiota, saadaan ne kyllä menestymään. Löytyi sellaisiakin wiljelijöitä, jotta wakuuttiwat wiime wuonnakin saaneensa parhaan maataloustulon ssokerijuurikkailla. Tämmöiset oliwat käsitykset 
+          tähänastisesta kokemuksesta wiljelijöillä ja tämän perusteella ei woi wielä lopullisesti tuomita meillä alkunnpantua sokerijuurikkaan wiljelemistä.</p>
+        <p>Kun ottaa huomioon sen suuren kansataloudellisen yrityksen ja ne pääomat, mitkä siihen on kiinnitetty, niin tulee saada warmempi käsiiys, kuin minkä lyhytaikainen kokemus on esiin tuonut, 
+          kotimaisen sokerituotannon kannattawaisuudesta meillä, ennenkuin siitä luowutaan. Suotuisimmissakaan oloissa ei waikeuksitta ole päästy tarkoitukseen. Meillä sitä wähemmin sillä sokerijuurikasta 
+          woidaan nimittää „kulttuurikaswiksi”, joka waatii wiljelijältään huolellista hoitoa hywin menestyäkseen. Mutta sen saatuaan palkitsee se myöskin wiljelijän waiwat arwokkaalla tuotteellaan ja 
+          jättää maan seuraawille kosweille paksumultaisena ja rawintorikkaana. On todettu, että yksin juurikkaiden naattien rehuarwo wastaa samankokoiselta peltoalalta saatua apila-nurmea.</p>
+        <p>Ottaessani edelläesitetyt näkökohdat huomioon, suostuin awustamaan tehtaan neuwojia wilselyssopimusten tekemisessä, enkä käsittänyt, että täten olisin pannut entisen wiljelijän leipään kiweä, 
+          sitä wähemmin että tällä toimenpiteellä tulisin anastamaan kadehdittua tointa.</p>
+        <p>Tähän asti käytyäni kymmenessä eri kunnassa neuwottelemassa wiljelijäin kanssa sokerijuurikkaiden wiljelys mahdollisuudesta, olen saanut heiltä samallaiset tiedot kokemuksistaan, kuin alussa 
+          kerroin aikaisemmista wiljelijäin mielipiteistä. Wieläpä wiljelijöistä osa, jotka owat epäonnistuneet suoraan ja awonaisesti tunnustawat, että sokerijuurikkaan wiljelys on heillä ollut wain 
+          siwuasiana ja sen wuoksi siihen ei ole kiinnitetty tarpeellista huolta. Sitä wastoin ne wiljelijät, jotka owat huolella ja järkiperäisesti hoitaneet juurikaswiljelyksensä, owat saaneet tyydyttäwiä, 
+          jopa loistawiakin tuloksia. Paimiossa m.m. tapasin erään pienwiljelijäperheen, jonka isäntä ja emäntä oliwat asiaan innostuneita ja kiitollisia saawutuksiinsa. Isäntä näytti wiime kesänä 
+          wiljelemänsä 27 aarin peltoalan ja Raakasokeritehtaan tilin, jonka mukaan oli saanut juurikkaistaan noin 5,000 markkaa. Tätä rahatuloa hän piti pienessä, 20 hehtaarin käsittäwässä peltowiljelyksessä, 
+          suurarwoisena. Tuon paljon walittelua herättäneen junrikasmaan harwennuksen ja perkauksen sanoi itse siwutöikseen suorittaneensa ja wakuutti sen helposti sujuwan, kun siihen tottuu.</p>
+        <p>Emäntä jutteli mieli lämpöisenä ja silmät kiitollisuudesta palawina sokerijuurikkaan wiljelemisen suurista eduista karjataloudessa. Hän sanoi heillä karjan tuotonnon uskomattomasti lisääntyneen 
+          siitä saakka, kun he sokerijuurikasta rupesiwat wiljelemään. Juurikkaiden naatit, muun rehun ohella, hän antaa syystalwella. Sen jälkeen melassia ja kewättalwella purmussa säilynyttä leikkelyä, 
+          joita pienestä hinnasta on tehtaalta saatu.</p>
+        <p>Tyytywäisyys ja yksimielisyys tuntui kodissa wallitsewan, jotka owatkin ihmiselämän suurin ja kallein rikkaus ja onni. Tämmöisestä kodista tuntui riittäwän ystäwyyttä ja wieraanwaraisuutta 
+          toispaikkakuntalaiselleken, sääty- y.m. ja arwoon katsomatta.</p>
+        <p>Oli todellakin nautinto tawata tällaisia wiljelijöitä ja tutustua heidän kokemuksiinsa. Olisi toiwottawa, että nämät kokemukset tulisiwat yleisemmin tunnetuiksi.</p>
+        <p className="captionStyle">Hattulassa helmik. 4 pnä 1924.</p>
+        <p className="captionStyle">Juho Torppa.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Torstai, 14.2.1924</h3>
+      <Article titleText="Wastalause.">
+        <p>Hämeen Sanomain numerossa 3 helmikuun 9 päiwänä olleen uutisen johdosta, koskewa syyttäjien ja poliisimestarien osuuksia kieltolakirikoksista tuomituista sakoista, saan täten yhtenä „osakkaana” 
+          panna wastalauseeni sen johdosta, että sanomalehdessä julkaistaan tietoja, jotka koskewat wirkatoimestani tulewia palkkioetuuksia. Sanomalehti ei liene sitä warten olemassa, että yleisö saisi 
+          tietää kuinka paljon minulla on ollut tuloja ja kieltämättä täytynee minulla olla oikeus waatia tässä suhteessa waitioloa. Miksi ei ilmoiteta nimeltä niitä lukuisia kieltolainrikkojia, wiinatrokareita, 
+          jotka lakia uhmaten ja ilkkuen lewittäwät myrkkyä laajoihin kansankerroksiin ja onnettomien ihmisten juomahimoa hywäkseen käyttäen hyötywät monin kerroin ja kun joutuwat lopulta oikeuteen wastaamaan 
+          rikoksestaan, edelleen saawat pysyä tuntemattomana suuren yleisön edessä ja harjoittaa ala-arwoista ammattiaan. Jos todella pantaisiin „salat julki”, niin ei minulla olisi mitään sitä wastaan, 
+          waikka ansioni tulisi wastakin suuren yleisön tietoon, mutta niin kauan kun kieltolakirikkoja saa esiintyä tuntemattomana, lienee minulla myös oikeus pysyä tuntemattomana. Lahti-lehdessä oli ollut 
+          myös painettuna uutinen, jonka otsikkona oli ollut „kieltolakitienistit”. Kuten jo otsikosta hywin näkyy, ei uutista parhaalla tahdollakaan woi ymmärtää muulla kuin yhdellä tawalla. Minut asetetaan 
+          pahempaan asemaan kuin lainrikkoja, joudun suuren yleisön eteen tekemään tiliä tuloistani. Minun syykseni ei suinkaan woida lukea sitä, että olen osuuteni saanut, sillä olenhan sen laillisella tawalla 
+          saanut. Yleisöllä lienee wähän mielenkiintoa minun yksityisiin tuloihini niin kauan kuin kieltolainrikkojat saawat rauhassa, ilman että heidän nimiään ilmastaan yleisölle, tehdä rikoksiaan ja heidän 
+          toimintaansa ei julkisesti puututa. Jos arw. Toimitus yksityisesti haluaa tietoja tuloistani, niin pyydän kääntymään suoraan minun puoleeni ja rohkenen lopuksi toiwoa, että minä tulojeni puolesta saan 
+          pysyä yhtä tuntemattomana kuin kieltolainrikkojakin.</p>
+        <p className="captionStyle">Koskella H.l. helmikuun 11 päiwänä 1924.</p>
+        <p className="captionStyle">Hannes Heinonen.</p>
+        <p className="captionStyle">Kärkölän piirin nimismies.</p>
         <SubDivider className="dividerStyle" />
-        <h3>Lauantai, 2.2.1924</h3>
-        <Article titleText="Uhkaako hedelmäwiljelyämme uusi tuho?">
-          <p>Jo pari wuosikymmentä on ulkomaalaisissa puutarha aikakauslehdissä, eritoten hedelmäwilelyä käsittelewissä, tuontuostakin näkynyt wakawalaatuisia uutisia eräästä uudesta 
-            hedelmäwiljelyn tuholaisesta, nimittäin omenahärmästä (Spherotheca leucotricha - Podosphaera leucotricha). Wiime wuosina owat selostukset naapurimaistamme käyneet yhä 
-            hälyyttäwimmiksi. Onpa jo sattunut esim. Ruotsissa hywin tuntuwia tämän tuhosienen aiheuttamia waurioita. Yleensä pidetään mahdollisena, että tämä tuhosieni wauhtiin päästyään 
-            woi aikaansaada suunnatonta tuhoa hedelmätarhoissa, etupäässä omena-, mutta myöskin päärynäpuille. Wieläpä siinä määrin, että muutamien tälle tuhosienelle alttiiden laatujen wiljely 
-            käy täysin mahdottomaksi. Koska allekirjoittanut on tawannut tämän tuhosienen jo ainakin yhdessä paikassa Suomessakin, joten woidaan todistaa sen maassamme olo, on syytä, että mekin 
-            ajoissa jo kiinnitämme huomiomme siihen ja ryhdymme niihin toimenpiteisiin, joita näin wakawalaatuisen tuhosienen maahantulo ehdottomasti waatii, sillä ottaen huomioon, että kotimaisen 
-            hedelmäwiljelymme tuotanto nousee nykyisin jo yli 100 miljoonan markan, ymmärrämme helposti kuinka suurta kansantaloudellista wahinkoa se woi wuosittain aikaansaada.</p>
-          <p>Ensinnäkin olisi saatawa selwillle, onko se esiintynyt jo useammissa puutarhoissa maassamme? Koska tässä on kysymyksessä yksi pahimpia puntarhawiljelyn tärkeimmän alan wihollisia, 
-            olisi kaikkien oltawa walmiit jo omankin etunsa kannalta jonkunwertaiseen waiwannäköön tämän witsauksen torjumiseksi ja pyytää allekirjoittanut sentähden, että jokainen 
-            hedelmänwiljelijä, joka on mainitun loissienen hedelmätarhassaan tawannut, antaisi siitä tiedon allekirjoittaneelle.</p>
-          <p>Jotta sen toteaminen olisi helpompaa, tahdon tässä muutamin sanoin selostaa sen esiintymisen ja tunnusmerkilliset ominaisuudet. Omenahärmä muistuttaa joka suhteessa karwiaismarjahometta. 
-            Se tawataan hedelmätarhoissa tawallisesti ensiksi siementaimissa tai nuoremmissa hedelmäpuissa, wasta laajemmin lewittyään se siirtyy wanhempiin puihin, esiintyen ensiksi wuosikaswaimien 
-            latwalehdillä ja kukilla siirtyen wasta myöhemmin wanhemmille lehdille, kuoren pinnalle ja hedelmille muuttaen ne kaikki wäriltään hohtawan harmaiksi, härmäpeittoisiksi. Omenahärmä lewiää 
-            nopeasti saman hedelmätarhan kaikkiin wähänkin wastustuskywyttömämpiin hedelmäpuu-laatuihin, joten torjumistoimenpiteisiin on ryhdyttäwä heti kun se tawataan. Ehdotonta, yksinkertaista 
-            häwityskeinoa ei tällekään loissienelle toistaiseksi tunneta, mutta wastustamalla sitä sitkeästi ja järkiperäisesti se wähitellen saadaan tyystin häwiämään hedelmätarhasta. Menettelytawat 
-            owat samat kuin muillekin waikeasti tuhottawille loissienille ja kaswitaudeille ja on tällöin erikoisesti kiinnitettäwä huomiota kaswien terweyshoidolliseen puoleen. ja järkiperäiseen 
-            torjumisaineitten käyttöön, joista seikoista on täydellinen selostus mm. 1923 - 1924 puutarhakalenterissa. </p>
-          <p className="captionStyle">Lepaan Puutarhaopistolla tammikuun 23 pnä 1924.</p>
-          <p className="captionStyle">Olawi Collan.</p>
-          <p className="captionStyle">Waltionpomologi.</p>
-        </Article>
+        <p><span className="boldStyle">Toimitus,</span> jota ylläolewan Herra Nimismiehen „vastalauseen” sekä säwy että sisältö suuresti kummastuttaa, pyytää huomauttaa, että kysymyksessä olewa uutinen kuuluu 
+        n.s. lääninhallituksen uutisiin ja on julkaistu samalla kuin meidän lehdessämme myöskin kaikissa niissä Hämeen läänin sanomalehdissä, jotka yleensä tulewat näistä uutisista osallisiksi. Herra 
+        Nimismiehen arwostelut ja wertailut woimme hywällä syyllä jättää omaan arwoonsa. Pyydämme kuitenkin herra Nimismiehelle huomauttaa, että otamme kiitollisina wastaan lehdessä uutisia julkaistawaksi 
+        kieltolain ammattirikkojista ja m.m. heidän tuloistaan, jos hän meille niitä woi toimittaa.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Lauantai, 16.2.1924</h3>
+      <Article titleText="Kaikki hämeenlinnalaiset!">
+        <p>Kuten tämän lehden eilispäiwän numerosta näimme, on rahankeräyksessä olympialaisia kisoja warten kerätty Hämeenlinnan piirissä noin 19.000 markkaa, josta summasta on Hämeenlinnan kaupunki antanut wain 
+          murto osan Riihimäen kerätessä yksistään toistakymmentä tuhatta markkaa. Mikä häpeä? Me tuhatlukuiset hämeenlinnalaiset urheilun ystäwät ja harrastajat, jotka aina kesäsin täytämme urheilukentän reunat, 
+          näyttäkäämme, että mekin woimme ja tahdomme lisätä suomalaisten olympiajoukkuetta yhdellä miehellä, kokoamalla niinkuin Riihimäkikin. Sillä mitä suuremman joukkueen Suomi woi lähettää olympialaisiin, 
+          sitä suuremmat owat woitonmahdollisuudet. Jotta tämä woisi toteutua, on jokaisen hämeenlinnalaisen yhdistyksen, seuran ja muodostuman otettawa asia esille kokouksissa ja oikein wakawasti autettawa summan 
+          karttumista, sillä jokainen siihen kyllä kykenee, ken tahtoo. Ehdottaisin sen tähden, että jokainen seura ja muodostuma lahjoittaisi olympiarahastoon alempana mainituista tilaisuuksista kertyneet tulot. 
+          Palloseura „Ilwes” woisi järjestää kewäällä joko jalka- tai pesäpallokilpailuja, W & A : seura „Tarmo” woimisteluiltaman ja kilpailuja, Uimaseura uimanäytöksiä, oppikoulut jääpallo otteluja, eri laitokset 
+          „puulaakiotteluja”, esim. Lääninhallitus, Kirjapainot, Skogster, Karisto j.n.e., raittiusseura ja W.P.K. iltamia tai kansanjuhlia, suojeluskunta ja Liik. apulaisyhdistys iltaman, Kerho-Kuoro, Kaj. Sissipatalj. 
+          soittokunta, W.P.K:n soittokunta ja seminaarin kuoro konsertteja, eläwät kuwat, yhden näyttännön kumpikin, Kansalliskerho ja metsästysseura määrätyn osan arpajaiswoitoistaan j.n.e. Toiwottawaa wielä olisi, 
+          että eri huoneustojen omistajat antaisiwat ilmaiseksi huoneustonsa mainittuihin tarkoituksiin. Eri yhdistykset woisiwat sitä paitsi esim. kauppayhdistys, tehtailija yhdistys j.n.e kerätä kokouksissaan 
+          jonkun summan. Luullakseni täten toteutuisi ajatus, mutta olisi sentähden ripeästi ajoissa ryhdyttäwä toimenpiteisiin ja jokaisen järjestettäwä kysymyksessä olewia tilaisuuksia. Ohjelmat eiwät tietenkään 
+          tarwitsisi olla mitään erikoisia, kyllä tarkoitus ja innostus toisiwat mainittuihin tilaisuuksiin yleisöä. Eikä ainoastaan Hämeenlinnan kaupungin, waan myöskin sen ympäristön yhdistysten olisi ryhdyttäwä 
+          samanlaisiin toimenpiteisiin. Siis näyttäkäämme hämeenlinnalaiset, että mekin saamme kootuksi ainakin yhtä paljon kuin riihimäkeläiset ja olkoon yhteinen päätöksemme Olympialaisjoukkueemme suuremmaksi ensi 
+          olympialaisiin kisoihin! Suomi woittoon!</p>
+        <p className="captionStyle">Hämeenlinna 14 p. helmik. 1924.</p>
+        <p className="captionStyle">Y. A. Wuori.</p>
+      </Article>
+      <Article titleText="Kieltolakia pidettäwä silmällä, asetettaessa edustajaehdokkaita.">
+        <p>Kun näinä päiwinä käydään asettamaan ehdokkaita waalipiirissämme, on syytä awoimin silmin jokaisen raittiutta harrastawan  kansalaisen seurata ehdokkaiden ajattelua ja koettaa wähäiseltä osaltaan 
+          waikuttaa niin, että ainoastaan todelliset raittiutta harrastawat kansalaiset asetettaisiin ehdokkaiksi. Aika jossa raittiusasian suhteen elämme on siksi merkityksellinen kysymyksessä olewalle asialle, 
+          että nyt emme saa sokeasti luottaa siihen, mitä erinäisten puolueiden taholta meille tyrkytetään. Mielestäni ei riitä tällä kertaa ehdokkaalta se, että hän sanoo kannattawansa raittiusasiaa. Kieltolain 
+          wastustamisyhdistyksenkin jäsenet owat muka tekewinään työtä kansamme terween elämän hywäksi raittiuskysymyksen suhteen. Mutta he melkein poikkeuksetta tekewät sitä, heidän mielestä tärkeätä isänmaallista 
+          työtään, wäkijuomalakien ääressä. Tässä piilee waara, ja on wakaumukseni se, että ehdokkaalta tulee tällä kertaa waatia sitä, että hän omassa elämässään noudattaa raittiutta. Käsitykseni mukaan hän silloin 
+          wasta tosiasiallisesti, tärkeällä edustajapaikallaan woi tehdä raittiusasian hywäksi tuloksellista työtä, olkoonpa sitte kysymyksessä joko nykyisen kieltolain tarkistus tai muunlainen raittiutta koskewa 
+          kysymys käsittelyn ja ratkaisun alaisena, kun hän omaa wakaumukseen perustuwan raittiusmielisen katsantokannan elämässään. Tähän meidän tällä kertaa on pyrittäwä ehdokaskysymyksen suhteen.</p>
+        <p className="captionStyle">Hauho, 10. 2. 1924.</p>
+        <p className="captionStyle">Aleksi Mattila.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Keskiviikko, 20.2.1924</h3>
+      <Article titleText="Entiselle sokerijuurikkaan wiljelijälle.">
+        <p>Wasta äsken näimme Hämeen Sanomien 25 numerossa „Entisen sokerijuurikaswiljelijän" sisunpurkauksen meitä ja kunnallisneuwos Juho Torppaa wastaan.</p>
+        <p>Sen johdosta pyydämme saada huomauttaa, että maanwiljelijä Kupila, joka oli saapunut Salossa pidettyyn neuwottelukokoukseen, on kai yhtä hywä „todellinen sokerijuurikaswiljelijä” kuin „entinenkin 
+          sokerijuurikaswiljelijä”. Muuten ei kokous Salossa ollut mikään „edustaja”-kokous, waan aiwan yksityinen, johon olimme persoonallisesti kutsuneet määrättyjä henkilöitä neuwottelemaan sokerijuurikkaan 
+          wiljelyksen edistämisestä myöskin Etelä-Hämeessä, sillä uskomme kaikista „Entisen sokerijuurikaswiljelijän” ja senaattori Kairamon wakuutteluista huolimatta, että sen wiljeleminen Hämeenlinnan tienoilla 
+          on erittäin kannattawaa ja samaa mieltä owat todelliset sokerijuurikkaan wiljelijätkin. Ne, jotka leikittelewät maanwilielijää, woiwat kyllä olla eri mieltä ja ne, joiden mielityönä on hywien asioitten 
+          nälwiminen, owat sitä warmasti.</p>
+        <p>Mitä kunnallisneuwos Torpan käyttämiseen meidän palweluksessamme tulee, niin huomautamme wain, että hän on ollut Maataloustuottajain Keskusliiton waltuuskunnassa alusta alkaen todellisten maanwiljolijöitten 
+          walitsemana ja heidän luottamusmiehenään. Emme siis usko, että heidän luottamustaan häneen woi sellainen sala-ampujan parjaus kuin „Entisen sokerijuurikaswiljelijän” wähimmässäkään määrässä horjuttaa.</p>
+        <p>Kuwaawaa „Entisen sokerijuurikaswiljelijän” joko tietämättömyydelle tai totuudenrakkaudelle on, että hän sanoo kunnallisneuwos Torpan olewan suurlakkoaikaisen kuwernöörin, waikka hän oli kauan sen jälkeen 
+          maaherrana. Tämä asiantuntemus on samaa laatua kuin erään suurfinanssimiehen, joka painetussa alustuksessa wiime maanwiljelysseurain edustajakokoukselle wäittää, että tekemällä poistoja kirjanpito-arwoissa 
+          panttiwelat suurenewat! Sitähän „Entisellä sokerijuurikaswiljelijällä” ja mainitulla finanssimiehellä olisi yhtä suuri syy kummallakin tarkistaa „asiantuntemustaan”.</p>
+        <p>Se luottamus, jonka meidän neuwojamme on saawuttanut Etelä-Hämeen sokerijuurikkaan keskuudessa, yhtä wähän kuin kunnallisneuwos Torpankaan ei horju sellaisista poikamaisista puheista sokerijuurikkaasta ja 
+          porkkanasta, johon „Entisen sokerijuurikaswiljelijän” sepustus loppuu.</p>
+        <p>Olemme aina walmiit asialliseen keskusteluun sokerijuurikkaan wiljelyksestä, mutta tuollaisiin asiattomiin kiukunpurkauksiin kuin „Entisen sokerijuurikaswiljelijän” wastaamiseen ei meillä ole aikaa. Woimme 
+          sen käyttää paljon positiiwisempaankin työhön.</p>
+        <p className="captionStyle">Salossa 14. 2. 1924.</p>
+        <p className="captionStyle">Suomen Raakasokeritehdas Osakeyhtiö.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Sunnuntai, 2.3.1924</h3>
+      <Article titleText="Mihin laululawa puistossamme olisi rakennettawa.">
+        <p>Jo aikaisemmin oli tässä lehdessä maisteri A. Th. Böökin kirjoitus laululawan paikasta puistossamme. Siinä ehdotti kirjoittaja, että se rakennettaisi siellä olewien linnaraunioiden yhteyteen.</p>
+        <p>Lawa rakennettuna edellämainittuun paikkaan, kirjoittajan ehdottamalla tawalla, tulisi olemaan kylläkin arwokkaan näköinen, mutta käytännössä se mielestäni ei wastaisi tarkoitustaan. Ensiksikin se olisi 
+          liian kaukana kentästä, jossa yleisö tawallisesti on, toiseksi en usko, että se siihen rakennettuna akustisessa suhteessa olisi juuri entistä parempi. Raunioiden phteyteen rakennettuna lawa wäkisinkin 
+          joutuisi luonnottoman korkealle, joten siltä esitetyt ääniaallot kaikuisiwat liian korkealle. Lawan paikkaa määriteltäessä on ehdottomasti huomioon otettawa, mitkä tuulet woimakkaimmin puhaltawat 
+          kysymyksessä olewaan paikkaan se sen läheisyyteen. Jokainenhan tietää miten waikeata on saada ääni kuulumaan wastatuuleen ja miten helppoa päinwastaisessa tapauksessa. Warsinkin musiikkiesityksissä 
+          wastatuuli häiritsee kiusallisesti hajoittaen yhteissoinnun ja tekee kuulumisen epätasaiseksi. Tuulet, jotka käywät kaupungista päin koskewat ehdottomasti woimakkaammin kuin muut tuulet puistossa olewan 
+          kentän ympärillä olewiin puihin saaden ne humisemaan. Jos lawa silloin on alla tuulen raunioiden yhteydessä, nün kentällä musiikkiesityksiä, warsinkin laulua, ei kuule juuri ollenkaan, tai jos kuuluukin, 
+          niin kuuluu se kowin waillinaiselta. Mutta jos lawa silloin on sillä puolen mistä tuuli puhaltaa, niin kaikuwat ääniaallot lawalta myötätuuleen siksi woimakkaina ja täyteläisinä ettei puiden humina esityksiä 
+          sanottawasti häiritse. Pohjoisista ilmansuunnista tulewat tuulet eiwät tule häiritsemään kentällä, koska kentän pohjoispuolella on siksi laaja ja korkea hawumetsä, etteiwät ne tuulet kysymyksessä olewaan 
+          paikkaan ollenkaan sowi.</p>
+        <p>Muistan wielä wallan hywin, jo pitempi aika siitä, kun lawa tilapäisesti silloisia juhlia warten, oli rakennettu kentän kaupungin sillan puoleiseen syrjään. Siltä lawalta kaikui musiikkiesitykset 
+          täydellisimmiltä kuin mitä minä puistossa milloinkaan olen kuullut.</p>
+        <p>Wielä huomioon otettawa on, erittäin tärkeä seikka se, että lawa rakennetaan lähelle sitä paikkaa missä yleisö tawallisesti on, ettei esittäjien tarwitse ensin huudella kuuliakuntaa luokseen ennen kuin 
+          woiwat sille mitään esittää.</p>
+        <p>Edellä olewia näkökohtia huomioon ottaen ehdottaisin, että laululawa rakennettaisi kentän kaupungin sillan puoleiseen syrjään. Tältä puolelta luulisin niin hywin puhe- kuin musiikkiesitysten kuuluwan 
+          parhaiten, kunhan waan lawan taustaa ei rakenneta kowin korkeata eikä aiwan suoraa, waan että sen yläosa kohtalaisesti kaareutuisi eteenpäin. Permanto ei saisi olla tarpeettoman korkealla eikä liian ulkonewa 
+          eteenpäin koska se siinä tapauksessa tulisi johtamaan ääniaallot ylös.</p>
+        <p>Jos lawa tälle puolelle wiitoittamaani suuntaan rakennetaan, silloin kentän ympärillä olewat kummut, wastapäätä olewat rauniot ja korkeiden puiden rungot tulisiwat antamaan esiintyjille täydentäwän kaijun.</p>
+        <p className="captionStyle">Aleksi Seppälä.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Tostai, 6.3.1924</h3>
+      <Article titleText="Hämeen Sanomain arw. Toimitukselta pyydän tilaa seuraawalle oikaisulle.">
+        <p>Tämän lehden 44 numerossa kerrotaan että allekirjoittanut on kieltäytynyt edustaja ehdokkuudesta, että kaikesta maalaisliittolaisesta toiminnasta esillä olewia waaleja warten sen takia, kun Maalaisliiton 
+          piirikokous Lahdessa wiime helmikuun 17 päiwänä hylkäsi Kansallisen kokoomus- ja Kansallisen edistyspuolueiden waaliliitto pyynnit.</p>
+        <p>Jo ennen tätä kokousta pyysi piiritoimikunta suostumustani edustaja ehdokkaaksi, johon wastasin kieltäwästi. Sama pyyntö uudistettiin mainitussa kokouksessa, jolloin wastaus oli sama kuin piiritoimikunnallekin.</p>
+        <p>Waaliliittokysymyksen kokouksessa alusti agron. Wäinö A. Rantala, joka suositteli waaliliittoa Kansallisen edistyspuolueen kanssa, waan asettui epääwälle kannalle Kansalliseen kokoomuspuolueeseen nähden. Asiasta 
+          keskusteltaessa yhdyin alustajaan, mikä käsitys ei tullut kokouksen päätökseksi. Tämä päätös ei waikuttanut ehdokkaaksi kieltäytymiseeni, sillä olin aikaisemmin sen jo ilmoittanut, eikä päätös ole esteenä 
+          maalaisliittolaiselle waalitoiminnallenikaan. </p>
+        <p>Kertojan samoin kuin lehdenkin pitää käsittämän että kuwiteltu menettely olisi tahditonta, niinkuin asian wääristeleminen on rumaa warsinkin julkisuutta warten painettuna.</p>
+        <p className="captionStyle">Hattulassa maalisk. 3 p:nä 1924.</p>
+        <p className="captionStyle">Juho Torppa.</p>
         <SubDivider className="dividerStyle" />
-        <h3>Keskiviikko, 6.2.1924</h3>
-        <Article titleText="Sokerijuurikaswiljelyksen edistäminen Etelä-Hämeessä.">
-          <p>Eräs entinen sokerijuurikkaan wiljelijä on tämän lehden numerossa 25 halpamaisesti solwannut kunnallisneuwos F. Torppaa, ja samalla hän yritää antaa letkauksen Suomen Raakasokeritehtaan 
-            johdolle sekä wielä wälillisesti niille sokerijuurikkaan wiljelijöille, jotka ottiwat osaa kirjoituksessa mainittuun neuwottelukokoukseen Salon kauppalassa. </p>
-          <p>Kirjoituksen laatija näyttää olewan loukkaantunut siitä, ettei häntä oltu kutsuttu tuohon edellämainittuun kokoukseen osanottajaksi, sillä kaikesta päättäen hän olisi siellä tahtonut 
-            antaa oikean akateemisen neuwon ei ainoastaan sokerijuurikkaan wiljelemisessä waan myöskin muittenkin juurikaswien tuntemisessa. Tuntuu liewimmin sanoen rumalta kirjoittajan halu loukata 
-            yksityistä henkilöä sellaisten asioitten yhteydessä, joilla ei ole mitään tekemistä sokerijuurikkaan wiljelemisen kanssa. Kunnallisneuwos J. Torppa ei ole tuossa kokouksessa ollut 
-            erityisenä Etelä-Hämeen juurikaswiljelijäin edustajana - waikkakin hänet oli walittu kokouksen puheenjohtajaksi, enkä myöskään luule entisillä wiljelijöillä olewan mitään erityistä 
-            oikeutta tutkia meitä muita kokouksen osanottajia, olemmeko pätewiä arwostelemaan, kannattaako sokerijuurikkaan wiljelys Elelä-Hämeessä, wai eikö.</p>
-          <p>Tämän yhteydessä teen lyhyesti selkoa nykyisille sokerijuurikkaan wiljelijöille sekä muille asianharrastajille Salon kokouksen neuwottelujen tuloksista. Kokouspäiwänä, tammikuun 23 pnä, 
-            oli Raakasokeritehtaan kutsua noudattaen kokoontunut Salon palokunnan talolle noin 25 sokerijuurikkaan wiljelijää Hämeestä ja muualta Etelä-Suomesta. Pidemmän asiallisen keskustelun jälkeen 
-            kokous yksimielisesti katsoi, että sokerijuurikkaan wiljeleminen Etelä-Suomessa kannattaa seuuraawien näkökohtien perusteella:</p>
-          <p>1.) Kun wiljelijöille tehdas takaa sokerijuurikkaan hinnaksi 55 p. kilolta paitsi muita etuja.</p>
-          <p>2.) Jos wiljelmä ei sijaitse liian kaukana rautatieasemalta.</p>
-          <p>3.) Jos wiljelijä noudattaa niitä yleisiä menettelytapoja juurikasmaan lannoituiseen kylwön ja harwennuksen sekä maanmuokkauksen suhteen, mikä on tawallista.</p>
-          <p>Wielä todettiin, että sokerijuurikkaan naatti yhdessä tehtaalta edullisesti laadun leikkeleen kanssa wastaa suunnilleen sitä tuorerehumäärää, mitä samalta peltoalalta saataisiin esim. 
-            naurista wiljelemällä, minkä wuoksi lähellä asemaa asuwa sokerijuurikkaan wiljelijä woi wähentää rehujuurikkaan kaswattamista ja parhaassa tapauksessa woi sen kokonaan lopettaakin, 
-            tarwitsematta silti lypsykarjaltaan wähentää tuorerehunsyöttöä.</p>
-          <p>Kokouksessa wallitsi yleensä toiworikas mieliala sokerijuurikkaan uudelleen wiljelemisen puolesta eikä katsottu wielä olewan pätewää syytä lakata sen kaswattamisesta, sillä wiime kesä on 
-            antanut poikkeuksellisen huonon sadon yleensä muistakin wiljelyskasweista.</p>
-          <p>Lopuksi pyydän entiselle sokerijuurikkaan wiljelijälle huomauttaa, että, jos Teidän ei kannata eikä sowi kaswattaa sokerijuurikasta, nim. antakaa niitten maanwiljelijäin, joilla on edelleen 
-            halua ja ehkä parempia edellytyksiä kuin Teillä, sitä wiljellä, sillä ei ainakaan tätä kokeilua ole luettawa maanwiljelyksellemme taantumukseksi eikä kansantaloudellemme wahingoksi.</p>
-          <p className="captionStyle">T. J. Kupila.</p>
-        </Article>
+        <p><span className="boldStyle">Toimitus</span> walittaen tapahtuneita erehdyksiä pyytää ylläaolewan johdosta huomauttaa, että kyseessäolewa uutinen perustui erään kokouksessa olleen maalaisliittolaisen kertomukseen, 
+          joten luulimme siihen woiwan luottaa.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Perjantai, 7.3.1924</h3>
+      <Article titleText="Requiem-kuoro!">
+        <p>Hämeen Maakuntajuhlain laulu- ja soittotoimikunnan keskuudessa on herännyt ajatus Cherubinin Requiemin esittämisestä juhlien aikana. Kun kaupungissamme on koko joukko henkilöitä, jotka owat ennen ottaneet osaa 
+          mainitun suursäwellyksen esittämiseen ja siis hywin tuntewat sen, pyydetään kaikkia entisiä Requiem-laulajia kokoontumaan Kerhon huoneustoon ensi lauantaina t.k. 8 pnä klo 6 i.p. keskustelemaan aiheen 
+          toteuttamismahdollisuudesta.</p>
+        <p className="captionStyle">Toimikunnan puolesta:</p>
+        <p className="captionStyle">A. Th. Böök.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Perjantai, 7.3.1924</h3>
+      <Article titleText="Kristilliset yhtymät Hämeenlinnassa tarwitsewat kodin.">
+        <p>Kristillisten yhtymäin toimintaa waikeuttaa ja suorastaan estääkin sopiwan kokoushuoneuston puuute. Yhtymät sellaiset kuin Nuorten naisten kr. yhdistys, Lähetysyhdistys ja Nuorten raamatunlukupiiri, jotka tahtowat 
+          toimia yhteisymmärryksessä luterilaisen seurakunnan kanssa, owat tässä suhteessa kaikkein waikeimmassa asemassa. Askettäin koetettiin kysymys toistaiseksi ratkaista siten, että päätettiin wuokrata waatimaton huoneusto 
+          ja sopimus siitä piti juuri tehtämän. Wäliin tulleet seikat tekiwät tämän tyhjäksi ja niin jäiwät harrastukset ja toiweet taas toteutumatta. Päätettiin ottaa asia keskusteltawaksi laajemmissa piireissä toiwossa saada 
+          yleisempää kannatusta, koska sen pikainen ja suotuisa ratkaisu tietäisi sinausta koko paikkakunnallemme.</p>
+        <p>Kaikkia tätä kysymystä harrastawia henkilöitä kehoitotaan sen tähden saapumaan yhteiseen kokoukseen, joka pidetään neiti Ahosen Raittiusrawintolassa torstaina t.k. 13 pnä klo 8 illalla.</p>
+        <p>Asia on Herran, tarkoittaen hänen waltakuntansa edistämistä. Siksipä saammekin olla wakuutettuja siitä, sillä hän on sen puolella ja on runsaasti siunaawa kaikkia, jotka koettawat myötäwaikuttaa todella hywän asian 
+          woitolle pääsemiseksi.</p>
+        <p className="captionStyle">Hämeenlinnassa 10. 3. 1924.</p>
+        <p className="captionStyle">Yksi monien puolesta.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Perjantai, 14.3.1924</h3>
+      <Article titleText="Asessorin waali Tampereen hiippakunnassa.">
+        <p>Maaliskuun 27 p. toimitetaan asessorin waali Tampereen hiippakunnassa poismuuttawan T. N. Pfalerin tilalle.</p>
+        <p>Muutamia ehdokkaita on julkisesti sanomalehdissä mainittu, mutta sopiwampaa miestä lienee tällä kerralla waikea löytää kuin on Hämeenlinnan ja Wanajan kirkkoherra, lääninromasti Ludwig Enkwist.</p>
+        <p>Ehdotan, että arw. wirkaweljet tulewissa waaleissa äänestäwät häntä. Hänen erinomainen tunnontarkkuutensa kansliatehtäwissä ja tunnettu kohteliaisuutensa seurakuntalaisia kohtaan kansliassaan takaa, että hän woisi 
+          opettaa samaa muillekin hiippakunnan papeille. Warsinkin nykyaikana, jolloin kansa wäkisinkin tahtoo wieraantua kirkosta, olisi juuri Ludwig Enkwistin kaltainen pappi saatawa hiippakunnan johtajien joukkoon.</p>
+        <p className="captionStyle">Walitsija.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Sunnuntai, 30.3.1924</h3>
+      <Article titleText="Nimimerkki „W. W:lle”.">
+        <p>T.k. 23 p:ssä Hämeen Sanomissa tekemänne kyselyjen johdosta haluan lyhyesti ilmoittaa seuraawaa:</p>
+        <p>Kansallisen kokoomuspuolueen waaliohjelmassa lausutaan m.m.: „Kansallinen kokoomuspuolue tahtoo säilyttää sen, mitä kansamme on aikaisemmilta sukupolwilta arwokasta perinyt, niinkuin kansan uskonnon, terwehenkisen 
+          perhe-elämän, elinwoimaisen talonpoikaiswiljelyksen ja säästäwäisyyden”. Ja sisäpoliittisessa ohjelmassa on m.m.: „Kirkon ja waltion wälisiä suhteita järjestettäessä on noudatettawa tarpeellista arkatuntoisuutta 
+          kansankirkkoa kohtaan. Uskonnonopetusta on yleisissä oppilaitoksissa annettawa”. Näihin ponsiin on supistettu pääasiassa se, mitä kokoomuspuolue uskonnollisissa kysymyksissä on tahtonut julkilausua.</p>
+        <p>Mielestäni sisältyy näihin ponsiin se tärkein, mitä mainituissa kysymyksissä on sanottawa. Luulen, että jokainen kokoomuspuolueen eduskuntaehdokkaaksi lupautunut pitää tärkeänä tämän ohjelmakohdan toteuttamisen. Itse 
+          puolestani katson sen erityisen tärkeäksi. Pidän myös luonnollisena, että waltion on awustettawa, ja samaten kuin kansanopistoja yleensä, myös kristillisiä kansanopistoja. Mitä kirkolliskokouksen päätöksiin tulee, pidän 
+          selwänä, että Eduskunta woi ewätä niiden toteuttamisen ainoastaan siinä tapauksessa, että ne olisiwat waltion päämääriä wastaan suuntautuwia, jommoisia ne tietenkään eiwät ole. Pidän siis uskonnollisen elämän kehittämiselle 
+          tärkeänä, että Eduskunta wahwistaa kirkolliskokouksen päätökset. </p>
+        <p className="captionStyle">Arwi A Karisto.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Perjantai, 18.4.1924</h3>
+      <Article titleText="Lain ja oikeuden kunnioittamistako?">
+        <p>Eräässä pitäjässä on werotuslautakunta merkinnyt käsityöläisten, liikemiesten, wirkailijain y.m. tuloista puolet ja jopa enemmänkin „maanwiljelystuloiksi”, waikka asianomaisilla ei ole maanwiljelystä, eiwätkä ole itse niitä 
+          siksi ilmoittaneetkaan. Tämän on werotuslautakunta tehnyt sentakia, että ei seurakunta eikä sen papisto woisi näitä werottaa kirkollisiin tarkotuksin koko werotettawalle pannusta weromäärästä. Kun kunnan waltuuston walitsema 
+          werotuslautakunta tämän tekee tietensä ja tarkotuksella, niin on se todistuksena kuinka alhaiset käsitykset wielä on monella laista ja oikeudesta, puhumattakaan heidän omasta kunniallisuuden ja rehellisyyden käsityksestään. 
+          Ja kuitenkin esiintywät samaiset henkilöt toisinaan laillisen yhteiskunnan oikeusjärjestelmän puolustajina, ettemme sanoisi sen woimakkaina suojelijoina. Muita miten woidaan puhuakaan laillisuudesta ja oikeudesta, kun wirallisissa 
+          toimissa, milloin niihin joudutaan, niitä tietoisesti rikotaan. Ennenkuin woi waatia muilta lakia ja oikeutta, täytyy itsekin niitä kunnioittaa. Joka ei sitä tee, on myös itse lewittämässä laittomuuden ja kurittomuuden henkeä. 
+          Ihmettelemmekö, että laittomuus ja kurittomuus kaswaa.</p>
+        <p>Mainitunlainen toiminta ei myöskään osoita asianomaisissa suurta omistusoikeuden kunnioitusta. Sillä omistusoikeus ei koske yksinomaan sitä omaisuutta, joka jo on hallussa, waan myös niitä oikeuksia, joita jollakin on. Jollemme 
+          nyt kuitenkaan kunnioita toisen oikeuksia, miten woimme waatia muita kunnioittamaan meidän oikeuksiamme. Ja jos taas oikeudet poljetaan niin silloin mieliwalta ja itsekkyys hallitsewat.</p>
+        <p>On pitäjälle arwaamattomaksi wahingoksi, kun sillä on toimissaan miehiä, joille laki ja oikeus eiwät mitään merkitse, joille kunniallisuus ja rehellisyys on tullut ala-arwoisiksi ja joille epärehellisyys ja lainrikkominen 
+          owat luwallisia, kun ei waan ole kysymyksessä oma itse. Tällainen henkinen rutto merkitsee pitäjän kurjuutta ja samalla suurta tappiota koko kansamme edistyksessä. Toiwottawasti tällaiset ilmiöt häwiäwät sitä myöten, kun siwistys 
+          ja walistus lewiäwät kaikkiin pitäjiin.</p>
+        <p className="captionStyle">X.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Lauantai, 3.5.1924</h3>
+      <Article titleText="Kehoitus.">
+        <p>Kuusi wuotta on kulunut wapaussodan päiwistä. Tämän ajan kauhut unohtuwat wähitellen, aika häwittää niiden katkerat muistot.</p>
+        <p>Mutta jälelle on jäänyt perintö, jota meidän sukupol
+          wemme ei woi niin täydellisesti lunastaa, että sen jäljet eiwät tuntuisi. Se on welwollisuutemme niitä kohtaan, joita kohtalo on kowiten koetellut ja jotka owat wapaudelle 
+          suurimman uhrin kantaneet. Se on welwollisuutemme inwaliideja kohtaan.</p>
+        <p>Heitä ei ole ainoastaan täällä meidän omassa maassamme, waan etäällä kowiakokeneen Saksanmaan tehtaissa, parantumattomien kodeissa, inwaliidien työsiirtoloissa ja katujen kerjäläisinä, noin 60 henkeä. Heidän elämänsä on 
+          herkeämätöntä taistelua nälkää ja puutetta wastaan ja heidän työnsä raskasta, usein woimia ylittäwää. Waikein on niiden asema, joilla on waimo ja lapset huolettawa. Se awustus, jonka hädänalainen Saksanmaa woi heille tarjota, 
+          ei riitä elämän tarpeisiin.</p>
+        <p>Suomesta Saksaan lähetetyt awustukset on etupäässä käytetty inwaliidien ja kaatuneiden perheiden auttamiseksi. Kun warat eiwät ole kaikille riittäneet, on ensi sijassa otettu huomioon lapset, nousewa sukupolwi. Perheettömiä, 
+          joita useimmat Finnlandkämpfrer-inwaliidit oliwat ja edelleen owat, ei ole yleensä katsottu woitawan ottaa huomioon.</p>
+        <p>Näinä päiwinä täyttäwät mielemme muistot tuosta wapauden kewäästä, jolloin saksalaiset maihinnousujoukot woitokkaina eteniwät maassamme.</p>
+        <p>Olemmeko nyt kuluneen kuuden wuoden aikana unohtaneet muukalaiset, jotka owat uhranneet terweytensä, tulewaisuutensa ja työkykynsä maamme wapauden puolesta? Tahi olemmeko jo mielestämme heille kiitollisuudenwelkamme maksaneet?</p>
+        <p>On olemassa alote kutsua noin 30 näitä „Suomenkäwijöitä” (Finnlandkämpfer) pariksi kesäkuukaudeksi maahamme wirkistymään. Heidät on tarkoitus sijoittaa maaseudulle sopiwaan paikkaan, minne myös warataan wapaapaikkoja meidän 
+          omille inwaliideillemme. Täällä annetaan wieraille wapaa hoito, asunto ja ruoka sekä se hywin tarpeellinen lepo, jota he eiwät kotimaassaan wallitsewan lamaannuksen wuoksi woi suotuisimmissakaan olosuhteissa saada.</p>
+        <p>Mutta hanke on toteutettawissa wain sikäli kuin yleisö ottaa sen sydämen asiakseen ja awustaa sitä kykynsä mukaan.</p>
+        <p>Niitä henkilöitä, joille Saksan w. 1918 antama woimakas apu on muistossa kallis ja jotka haluawat olla mukana suorittamassa osaamme kiitollisuudenwelasta Finnlandkämpfer-inwaliideille, kehoitetaan jättämään raha-awustuksensa 
+          tämän lehden toimitukselle, jollekin Lotta-Swärd-yhdistyksen paikallisosaston puheenjohtajalle tai lähettämällä ne osoitteella: Neiti Dagmar Ruin, Fredrikinkatu 71, Helsinki.</p>
+        <p>Maantuotteina annettawista lahjoista tehdään ilmoitus samoihin paikkoihin, jonka jälkeen ne lähetetään suoraan inwaliidien oleskelupaikalle, mistä myöhemmin sanomalehdissä ilmoitetaan.</p>
+        <p className="captionStyle">M. von Bonsdorff, K. Castren, Wald. Ruin, Dagmar Ruin, Richard Siewers, F. Langenskiöld, J. K. Paasikiwi, Jenny af Forselles, J. Gummerus, E. Suolahti.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Sunnuntai, 4.5.1924</h3>
+      <Article titleText="Sukunimen suomalaistuttamisesta.">
+        <p>Kun taas lähestyy suuren kansalaisemme Snellmanin syntymäpäiwä, toukokuun 12:s, joka on muodostunut erikoisesti siksi päiwäksi, jona wieraskielisiä sukunimiä muutetaan suomenkielisiksi, teemme lyhyesti selkoa siitä, miten nimen 
+          muuttaminen käytännössä tapahtuu.</p>
+        <p>Ennen sukunimilain säätämistä oli nimenmuutto warsin yksinkertainen asia, sillä siihen ei tarwittu juuri muuta kuin asianomainen ilmoittaminen toimeenpannusta muutoksesta. Silloin sopi warsin mukawasti järjestää suuria 
+          joukkonimenmuutoksia, joukkoilmoituksia, kuten Suomalaisuuden Liiton wälityksellä useana wuonna tehtiin. Joulukuun 23 pnä 1920 annetun sukunimilain woimaan tultua on nimenmuutto tullut siinä suhteessa mutkikkaammaksi, että 
+          tuollaiset joukkoilmoitukset eiwät enää helposti käy päinsä, sillä mainitun lain mukaan on nimenmuuttoanomus tehtäwä sen läänin maaherralle, jossa nimenmuuttaja on kirkonkirjoissa, ja owat niin ollen nimenmuuttoasiat hoidettawat 
+          eri läänien lääninhallituksissa sekä kunkin hakijan kotiseurakunnassa.</p>
+        <p>Anomus maaherralle tehdään tawallisessa järjestyksessä, itse tai asiamiehen kautta. Hakemukseen on liitettäwä papintodistus, joka osoittaa hakijan täydellisen nimen, syntymäpäiwän ja perhesuhteet. Toisella suwulla olewaa nimeä 
+          ei yleensä saa ottaa, elleiwät hakijan esi-isät ole nimeä laillisesti käyttäneet. Maaherran päätöksestä saa walittaa korkeimpaan hallinto-oikeuteen kuudenkymmenen päiwän kuluessa. Kun maaherra on uuden sukunimen hywäksynyt, on 
+          hakijan kuulutettawa hywäksymisestä wirallisissa lehdissä ja jossain paikkakunnan sanomalehdessä sekä ilmoitettawa sukunimi asianomaisen seurakunnan kirkonkirjoihin merkittäwäksi.</p>
+        <p>Tässä pääkohdat nimenmuuttoa koskewista säännöistä. Tarkemman tiedon näistä saa mainitusta sukunimilaista (hinta 50 p.), jonka saa tilata, mieluimmin postietuannilla, osoitteella: Waltioneuwoston julkaisuwirasto, Helsinki.</p>
+        <p className="captionStyle">Helsingissä, huhtik. 30 p. 1924.</p>
+        <p className="captionStyle">Suomalaisuuden Liiton toimisto.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Lauantai, 10.5.1924</h3>
+      <Article titleText="Awoin kysymys kaupungin Hra Rakennusmestarille.">
+        <p>Pyytäisimme kohteliaimmin kysyä kaupungin Hra Rakennusmestarilta, kenelle kuuluu lautakäytäwän alkuunpano silloin, kun wesi sulkee maantien kaupungin ja Linnanniemen wäliltä? Kun Linnanniemi osaltaan kuuluu kaupunkiin, niin me, 
+          joiden mainittua tietä monta kertaa päiwässä täytyy kulkea, kärsimme suurta ajanhukkaa kiertäessämme wanhan Linnantien kautta. Pyytäisimme ystäwällisesti, että, koska me kerran maksamme werot kaupungille, sen wiranomaiset 
+          huolehtiwat myös meidän etujemme walwomisesta yhtä hywin kuin muidenkin kaupunkilaisten.</p>
+        <p className="captionStyle">Joukko linnanniemeläisiä.</p>
         <SubDivider className="dividerStyle" />
-        <h3>Torstai, 7.2.1924</h3>
-        <Article titleText="Maalaisen mietteitä waaliliittoasiasta.">
-          <p>Täällä maaseudulla, jossa ei aiwan tarkkaan tunneta puoluekeskuselimien ja sanomalehtien wälisiä kahnauksia, tuntuu käsittämättömältä että ollenkaan tarwitsee keskustella porwaripuolueiden 
-            yhteisestä waaliliitosta. Wielä kummemmalta kuuluu, että sitä wastustetaan. Yhtymisen pidämme aiwan luonnollisena ja wälttämättömänä. Yksinkertaisuudessamme emme huomaa suurta eroa nykyisen 
-            ajan ja wuoden 1917 painostawien olojen wälillä. Silloin saiwat sosialistit tahtonsa läpiajetuksi ryssäin pistinten awulla; nyt ei heidän tarwitse muuta kuin sanella liewiä laittomuusuhkauksia, 
-            niin toiweensa toteutuwat. Kun waltiollisista oloista olemme saaneet noin lohduttoman käsityksen kunnallisasioista ja tunnemme tuon „weljeyden” ja „tasa-arwoisuuden” ikäwän irwikuwan, jonka 
-            hywänä seurauksena on ollut porwarillisten puoluerajain poistuminen useissa kunnissa ja yhteisen rintaman muodostuminen kumouksellisia wastaan, emmekä tunne todellista syytä, miksi kuulumme 
-            eri karsinoihin waltiollisissa waaleissa, niin itsestään syntyy kysymys: kuinkahan suuria ja waikeasti sowitettawia niitten puoluepääherrojen ja sanomalehtien erimielisyydet owat, kun ei niitä 
-            woida nytkään jättää syrjään ja puhaltaa yhteen hiileen, mistä syttyisi porwarillinen waaliliitto, jonka tunnusmerkkinä olisi: Isänmaanpetturit pois yhteiskuntarakennukseltamme!</p>
-          <p>Kysymykseen emme kukaan kykene tyydyttäwästi wastaamaan. Senpä johdosta herää toinen kysymys: eiköhän ole taas kärpäsistä tehty härkäsiä, joiden warjosta on joku yksityisetu päässyt määräämään 
-            yhteisedun edelle?</p>
-          <p>Pois kaikki siihen wiwahtawatkin! Maaseutulaisten puolesta pyydän Teidän herrain johtajain tarkistamaan kantanne, herkistämään hermonne tunteaksenne mitä isänmaallinen kansa eturiwin miehiltä 
-            odottaa: hywästä ystäwyydestä järjestettyä yhteistä rintamaa isänmaattomia wastaan! Yhteistyössä ja yhteisymmärryksellä pienet erimielisyydet kyllä tasottuwat!</p>
-          <p className="captionStyle">Huolestunut maalainen.</p>
-        </Article>
-        <Article titleText="Entisen sokerijuurikaswiljelijän kirjoituksen johdosta.">
-          <p>Tämän lehden 25 numerossa on „entinen sokerijuurikaswiljelijä” sala-ampujan tawalla hyökännyt allekirjoittaneen kimppuun ja samalla yrittänyt wahingoittaa Suomen Raakasokeritehtaan pyrkimyksiä; 
-            ja koska kirjoitus woipi johtaa asiaa tuntemattoman harhaan, niin muutama sana sen walaisemiseksi.</p>
-          <p>Kuten mainitussa kirjoituksessa sanotaan, oli Raakasokeritehtaan puolesta kutsuttu eri seudulta wiljelijöitä ja tehtaan asiamiehiä neuwottelemaan sokerijuurikaswiljelyksen 
-            edistämismahdollisuudesta. Etelä=Hämeestä oli kokouksessa saapuwilla wiljelijöistä maanwiljelijä T. Kupila Hattulasta.</p>
-          <p>Allekirjoittanut oli myöskin yhtiön asiamiehenä kehoituksesta kokouksessa ja yksimielisestä pyynnöstä toimi kokouksen puheenjohtajana, aawistamatta sen herättäwän kenessäkään mieskohtaista 
-            katkeruutta.</p>
-          <p>Kun olin kahtena syksynä tehtaan käyntiaikana seuraamassa sokerijuurikkaiden punnitusta ja pesua, niin tällöin olin tilaisuudessa tutustumaan juurikkaanwiljelijäin kokemuksiin, jotka oliwat 
-            toisistaan eriäwiä. Toiset sanoiwat, että juurikkaat kaswawat huonosti ja sen wuoksi niiden wiljeleminen ei kannata. Toiset myönsiwät, että jos iiden kaswattamiseen kiinnitetään tarpeellista 
-            huomiota, saadaan ne kyllä menestymään. Löytyi sellaisiakin wiljelijöitä, jotta wakuuttiwat wiime wuonnakin saaneensa parhaan maataloustulon ssokerijuurikkailla. Tämmöiset oliwat käsitykset 
-            tähänastisesta kokemuksesta wiljelijöillä ja tämän perusteella ei woi wielä lopullisesti tuomita meillä alkunnpantua sokerijuurikkaan wiljelemistä.</p>
-          <p>Kun ottaa huomioon sen suuren kansataloudellisen yrityksen ja ne pääomat, mitkä siihen on kiinnitetty, niin tulee saada warmempi käsiiys, kuin minkä lyhytaikainen kokemus on esiin tuonut, 
-            kotimaisen sokerituotannon kannattawaisuudesta meillä, ennenkuin siitä luowutaan. Suotuisimmissakaan oloissa ei waikeuksitta ole päästy tarkoitukseen. Meillä sitä wähemmin sillä sokerijuurikasta 
-            woidaan nimittää „kulttuurikaswiksi”, joka waatii wiljelijältään huolellista hoitoa hywin menestyäkseen. Mutta sen saatuaan palkitsee se myöskin wiljelijän waiwat arwokkaalla tuotteellaan ja 
-            jättää maan seuraawille kosweille paksumultaisena ja rawintorikkaana. On todettu, että yksin juurikkaiden naattien rehuarwo wastaa samankokoiselta peltoalalta saatua apila-nurmea.</p>
-          <p>Ottaessani edelläesitetyt näkökohdat huomioon, suostuin awustamaan tehtaan neuwojia wilselyssopimusten tekemisessä, enkä käsittänyt, että täten olisin pannut entisen wiljelijän leipään kiweä, 
-            sitä wähemmin että tällä toimenpiteellä tulisin anastamaan kadehdittua tointa.</p>
-          <p>Tähän asti käytyäni kymmenessä eri kunnassa neuwottelemassa wiljelijäin kanssa sokerijuurikkaiden wiljelys mahdollisuudesta, olen saanut heiltä samallaiset tiedot kokemuksistaan, kuin alussa 
-            kerroin aikaisemmista wiljelijäin mielipiteistä. Wieläpä wiljelijöistä osa, jotka owat epäonnistuneet suoraan ja awonaisesti tunnustawat, että sokerijuurikkaan wiljelys on heillä ollut wain 
-            siwuasiana ja sen wuoksi siihen ei ole kiinnitetty tarpeellista huolta. Sitä wastoin ne wiljelijät, jotka owat huolella ja järkiperäisesti hoitaneet juurikaswiljelyksensä, owat saaneet tyydyttäwiä, 
-            jopa loistawiakin tuloksia. Paimiossa m.m. tapasin erään pienwiljelijäperheen, jonka isäntä ja emäntä oliwat asiaan innostuneita ja kiitollisia saawutuksiinsa. Isäntä näytti wiime kesänä 
-            wiljelemänsä 27 aarin peltoalan ja Raakasokeritehtaan tilin, jonka mukaan oli saanut juurikkaistaan noin 5,000 markkaa. Tätä rahatuloa hän piti pienessä, 20 hehtaarin käsittäwässä peltowiljelyksessä, 
-            suurarwoisena. Tuon paljon walittelua herättäneen junrikasmaan harwennuksen ja perkauksen sanoi itse siwutöikseen suorittaneensa ja wakuutti sen helposti sujuwan, kun siihen tottuu.</p>
-          <p>Emäntä jutteli mieli lämpöisenä ja silmät kiitollisuudesta palawina sokerijuurikkaan wiljelemisen suurista eduista karjataloudessa. Hän sanoi heillä karjan tuotonnon uskomattomasti lisääntyneen 
-            siitä saakka, kun he sokerijuurikasta rupesiwat wiljelemään. Juurikkaiden naatit, muun rehun ohella, hän antaa syystalwella. Sen jälkeen melassia ja kewättalwella purmussa säilynyttä leikkelyä, 
-            joita pienestä hinnasta on tehtaalta saatu.</p>
-          <p>Tyytywäisyys ja yksimielisyys tuntui kodissa wallitsewan, jotka owatkin ihmiselämän suurin ja kallein rikkaus ja onni. Tämmöisestä kodista tuntui riittäwän ystäwyyttä ja wieraanwaraisuutta 
-            toispaikkakuntalaiselleken, sääty- y.m. ja arwoon katsomatta.</p>
-          <p>Oli todellakin nautinto tawata tällaisia wiljelijöitä ja tutustua heidän kokemuksiinsa. Olisi toiwottawa, että nämät kokemukset tulisiwat yleisemmin tunnetuiksi.</p>
-          <p className="captionStyle">Hattulassa helmik. 4 pnä 1924.</p>
-          <p className="captionStyle">Juho Torppa.</p>
-        </Article>
-        <SubDivider className="dividerStyle" />
-        <h3>Torstai, 14.2.1924</h3>
-        <Article titleText="Wastalause.">
-          <p>Hämeen Sanomain numerossa 3 helmikuun 9 päiwänä olleen uutisen johdosta, koskewa syyttäjien ja poliisimestarien osuuksia kieltolakirikoksista tuomituista sakoista, saan täten yhtenä „osakkaana” 
-            panna wastalauseeni sen johdosta, että sanomalehdessä julkaistaan tietoja, jotka koskewat wirkatoimestani tulewia palkkioetuuksia. Sanomalehti ei liene sitä warten olemassa, että yleisö saisi 
-            tietää kuinka paljon minulla on ollut tuloja ja kieltämättä täytynee minulla olla oikeus waatia tässä suhteessa waitioloa. Miksi ei ilmoiteta nimeltä niitä lukuisia kieltolainrikkojia, wiinatrokareita, 
-            jotka lakia uhmaten ja ilkkuen lewittäwät myrkkyä laajoihin kansankerroksiin ja onnettomien ihmisten juomahimoa hywäkseen käyttäen hyötywät monin kerroin ja kun joutuwat lopulta oikeuteen wastaamaan 
-            rikoksestaan, edelleen saawat pysyä tuntemattomana suuren yleisön edessä ja harjoittaa ala-arwoista ammattiaan. Jos todella pantaisiin „salat julki”, niin ei minulla olisi mitään sitä wastaan, 
-            waikka ansioni tulisi wastakin suuren yleisön tietoon, mutta niin kauan kun kieltolakirikkoja saa esiintyä tuntemattomana, lienee minulla myös oikeus pysyä tuntemattomana. Lahti-lehdessä oli ollut 
-            myös painettuna uutinen, jonka otsikkona oli ollut „kieltolakitienistit”. Kuten jo otsikosta hywin näkyy, ei uutista parhaalla tahdollakaan woi ymmärtää muulla kuin yhdellä tawalla. Minut asetetaan 
-            pahempaan asemaan kuin lainrikkoja, joudun suuren yleisön eteen tekemään tiliä tuloistani. Minun syykseni ei suinkaan woida lukea sitä, että olen osuuteni saanut, sillä olenhan sen laillisella tawalla 
-            saanut. Yleisöllä lienee wähän mielenkiintoa minun yksityisiin tuloihini niin kauan kuin kieltolainrikkojat saawat rauhassa, ilman että heidän nimiään ilmastaan yleisölle, tehdä rikoksiaan ja heidän 
-            toimintaansa ei julkisesti puututa. Jos arw. Toimitus yksityisesti haluaa tietoja tuloistani, niin pyydän kääntymään suoraan minun puoleeni ja rohkenen lopuksi toiwoa, että minä tulojeni puolesta saan 
-            pysyä yhtä tuntemattomana kuin kieltolainrikkojakin.</p>
-          <p className="captionStyle">Koskella H.l. helmikuun 11 päiwänä 1924.</p>
-          <p className="captionStyle">Hannes Heinonen.</p>
-          <p className="captionStyle">Kärkölän piirin nimismies.</p>
-          <SubDivider className="dividerStyle" />
-          <p><span className="boldStyle">Toimitus,</span> jota ylläolewan Herra Nimismiehen „vastalauseen” sekä säwy että sisältö suuresti kummastuttaa, pyytää huomauttaa, että kysymyksessä olewa uutinen kuuluu 
-          n.s. lääninhallituksen uutisiin ja on julkaistu samalla kuin meidän lehdessämme myöskin kaikissa niissä Hämeen läänin sanomalehdissä, jotka yleensä tulewat näistä uutisista osallisiksi. Herra 
-          Nimismiehen arwostelut ja wertailut woimme hywällä syyllä jättää omaan arwoonsa. Pyydämme kuitenkin herra Nimismiehelle huomauttaa, että otamme kiitollisina wastaan lehdessä uutisia julkaistawaksi 
-          kieltolain ammattirikkojista ja m.m. heidän tuloistaan, jos hän meille niitä woi toimittaa.</p>
-        </Article>
-        <SubDivider className="dividerStyle" />
-        <h3>Lauantai, 16.2.1924</h3>
-        <Article titleText="Kaikki hämeenlinnalaiset!">
-          <p>Kuten tämän lehden eilispäiwän numerosta näimme, on rahankeräyksessä olympialaisia kisoja warten kerätty Hämeenlinnan piirissä noin 19.000 markkaa, josta summasta on Hämeenlinnan kaupunki antanut wain 
-            murto osan Riihimäen kerätessä yksistään toistakymmentä tuhatta markkaa. Mikä häpeä? Me tuhatlukuiset hämeenlinnalaiset urheilun ystäwät ja harrastajat, jotka aina kesäsin täytämme urheilukentän reunat, 
-            näyttäkäämme, että mekin woimme ja tahdomme lisätä suomalaisten olympiajoukkuetta yhdellä miehellä, kokoamalla niinkuin Riihimäkikin. Sillä mitä suuremman joukkueen Suomi woi lähettää olympialaisiin, 
-            sitä suuremmat owat woitonmahdollisuudet. Jotta tämä woisi toteutua, on jokaisen hämeenlinnalaisen yhdistyksen, seuran ja muodostuman otettawa asia esille kokouksissa ja oikein wakawasti autettawa summan 
-            karttumista, sillä jokainen siihen kyllä kykenee, ken tahtoo. Ehdottaisin sen tähden, että jokainen seura ja muodostuma lahjoittaisi olympiarahastoon alempana mainituista tilaisuuksista kertyneet tulot. 
-            Palloseura „Ilwes” woisi järjestää kewäällä joko jalka- tai pesäpallokilpailuja, W & A : seura „Tarmo” woimisteluiltaman ja kilpailuja, Uimaseura uimanäytöksiä, oppikoulut jääpallo otteluja, eri laitokset 
-            „puulaakiotteluja”, esim. Lääninhallitus, Kirjapainot, Skogster, Karisto j.n.e., raittiusseura ja W.P.K. iltamia tai kansanjuhlia, suojeluskunta ja Liik. apulaisyhdistys iltaman, Kerho-Kuoro, Kaj. Sissipatalj. 
-            soittokunta, W.P.K:n soittokunta ja seminaarin kuoro konsertteja, eläwät kuwat, yhden näyttännön kumpikin, Kansalliskerho ja metsästysseura määrätyn osan arpajaiswoitoistaan j.n.e. Toiwottawaa wielä olisi, 
-            että eri huoneustojen omistajat antaisiwat ilmaiseksi huoneustonsa mainittuihin tarkoituksiin. Eri yhdistykset woisiwat sitä paitsi esim. kauppayhdistys, tehtailija yhdistys j.n.e kerätä kokouksissaan 
-            jonkun summan. Luullakseni täten toteutuisi ajatus, mutta olisi sentähden ripeästi ajoissa ryhdyttäwä toimenpiteisiin ja jokaisen järjestettäwä kysymyksessä olewia tilaisuuksia. Ohjelmat eiwät tietenkään 
-            tarwitsisi olla mitään erikoisia, kyllä tarkoitus ja innostus toisiwat mainittuihin tilaisuuksiin yleisöä. Eikä ainoastaan Hämeenlinnan kaupungin, waan myöskin sen ympäristön yhdistysten olisi ryhdyttäwä 
-            samanlaisiin toimenpiteisiin. Siis näyttäkäämme hämeenlinnalaiset, että mekin saamme kootuksi ainakin yhtä paljon kuin riihimäkeläiset ja olkoon yhteinen päätöksemme Olympialaisjoukkueemme suuremmaksi ensi 
-            olympialaisiin kisoihin! Suomi woittoon!</p>
-          <p className="captionStyle">Hämeenlinna 14 p. helmik. 1924.</p>
-          <p className="captionStyle">Y. A. Wuori.</p>
-        </Article>
-        <Article titleText="Kieltolakia pidettäwä silmällä, asetettaessa edustajaehdokkaita.">
-          <p>Kun näinä päiwinä käydään asettamaan ehdokkaita waalipiirissämme, on syytä awoimin silmin jokaisen raittiutta harrastawan  kansalaisen seurata ehdokkaiden ajattelua ja koettaa wähäiseltä osaltaan 
-            waikuttaa niin, että ainoastaan todelliset raittiutta harrastawat kansalaiset asetettaisiin ehdokkaiksi. Aika jossa raittiusasian suhteen elämme on siksi merkityksellinen kysymyksessä olewalle asialle, 
-            että nyt emme saa sokeasti luottaa siihen, mitä erinäisten puolueiden taholta meille tyrkytetään. Mielestäni ei riitä tällä kertaa ehdokkaalta se, että hän sanoo kannattawansa raittiusasiaa. Kieltolain 
-            wastustamisyhdistyksenkin jäsenet owat muka tekewinään työtä kansamme terween elämän hywäksi raittiuskysymyksen suhteen. Mutta he melkein poikkeuksetta tekewät sitä, heidän mielestä tärkeätä isänmaallista 
-            työtään, wäkijuomalakien ääressä. Tässä piilee waara, ja on wakaumukseni se, että ehdokkaalta tulee tällä kertaa waatia sitä, että hän omassa elämässään noudattaa raittiutta. Käsitykseni mukaan hän silloin 
-            wasta tosiasiallisesti, tärkeällä edustajapaikallaan woi tehdä raittiusasian hywäksi tuloksellista työtä, olkoonpa sitte kysymyksessä joko nykyisen kieltolain tarkistus tai muunlainen raittiutta koskewa 
-            kysymys käsittelyn ja ratkaisun alaisena, kun hän omaa wakaumukseen perustuwan raittiusmielisen katsantokannan elämässään. Tähän meidän tällä kertaa on pyrittäwä ehdokaskysymyksen suhteen.</p>
-          <p className="captionStyle">Hauho, 10. 2. 1924.</p>
-          <p className="captionStyle">Aleksi Mattila.</p>
-        </Article>
-        <SubDivider className="dividerStyle" />
-        <h3>Keskiviikko, 20.2.1924</h3>
-        <Article titleText="Entiselle sokerijuurikkaan wiljelijälle.">
-          <p>Wasta äsken näimme Hämeen Sanomien 25 numerossa „Entisen sokerijuurikaswiljelijän" sisunpurkauksen meitä ja kunnallisneuwos Juho Torppaa wastaan.</p>
-          <p>Sen johdosta pyydämme saada huomauttaa, että maanwiljelijä Kupila, joka oli saapunut Salossa pidettyyn neuwottelukokoukseen, on kai yhtä hywä „todellinen sokerijuurikaswiljelijä” kuin „entinenkin 
-            sokerijuurikaswiljelijä”. Muuten ei kokous Salossa ollut mikään „edustaja”-kokous, waan aiwan yksityinen, johon olimme persoonallisesti kutsuneet määrättyjä henkilöitä neuwottelemaan sokerijuurikkaan 
-            wiljelyksen edistämisestä myöskin Etelä-Hämeessä, sillä uskomme kaikista „Entisen sokerijuurikaswiljelijän” ja senaattori Kairamon wakuutteluista huolimatta, että sen wiljeleminen Hämeenlinnan tienoilla 
-            on erittäin kannattawaa ja samaa mieltä owat todelliset sokerijuurikkaan wiljelijätkin. Ne, jotka leikittelewät maanwilielijää, woiwat kyllä olla eri mieltä ja ne, joiden mielityönä on hywien asioitten 
-            nälwiminen, owat sitä warmasti.</p>
-          <p>Mitä kunnallisneuwos Torpan käyttämiseen meidän palweluksessamme tulee, niin huomautamme wain, että hän on ollut Maataloustuottajain Keskusliiton waltuuskunnassa alusta alkaen todellisten maanwiljolijöitten 
-            walitsemana ja heidän luottamusmiehenään. Emme siis usko, että heidän luottamustaan häneen woi sellainen sala-ampujan parjaus kuin „Entisen sokerijuurikaswiljelijän” wähimmässäkään määrässä horjuttaa.</p>
-          <p>Kuwaawaa „Entisen sokerijuurikaswiljelijän” joko tietämättömyydelle tai totuudenrakkaudelle on, että hän sanoo kunnallisneuwos Torpan olewan suurlakkoaikaisen kuwernöörin, waikka hän oli kauan sen jälkeen 
-            maaherrana. Tämä asiantuntemus on samaa laatua kuin erään suurfinanssimiehen, joka painetussa alustuksessa wiime maanwiljelysseurain edustajakokoukselle wäittää, että tekemällä poistoja kirjanpito-arwoissa 
-            panttiwelat suurenewat! Sitähän „Entisellä sokerijuurikaswiljelijällä” ja mainitulla finanssimiehellä olisi yhtä suuri syy kummallakin tarkistaa „asiantuntemustaan”.</p>
-          <p>Se luottamus, jonka meidän neuwojamme on saawuttanut Etelä-Hämeen sokerijuurikkaan keskuudessa, yhtä wähän kuin kunnallisneuwos Torpankaan ei horju sellaisista poikamaisista puheista sokerijuurikkaasta ja 
-            porkkanasta, johon „Entisen sokerijuurikaswiljelijän” sepustus loppuu.</p>
-          <p>Olemme aina walmiit asialliseen keskusteluun sokerijuurikkaan wiljelyksestä, mutta tuollaisiin asiattomiin kiukunpurkauksiin kuin „Entisen sokerijuurikaswiljelijän” wastaamiseen ei meillä ole aikaa. Woimme 
-            sen käyttää paljon positiiwisempaankin työhön.</p>
-          <p className="captionStyle">Salossa 14. 2. 1924.</p>
-          <p className="captionStyle">Suomen Raakasokeritehdas Osakeyhtiö.</p>
-        </Article>
-        <SubDivider className="dividerStyle" />
-        <h3>Sunnuntai, 2.3.1924</h3>
-        <Article titleText="Mihin laululawa puistossamme olisi rakennettawa.">
-          <p>Jo aikaisemmin oli tässä lehdessä maisteri A. Th. Böökin kirjoitus laululawan paikasta puistossamme. Siinä ehdotti kirjoittaja, että se rakennettaisi siellä olewien linnaraunioiden yhteyteen.</p>
-          <p>Lawa rakennettuna edellämainittuun paikkaan, kirjoittajan ehdottamalla tawalla, tulisi olemaan kylläkin arwokkaan näköinen, mutta käytännössä se mielestäni ei wastaisi tarkoitustaan. Ensiksikin se olisi 
-            liian kaukana kentästä, jossa yleisö tawallisesti on, toiseksi en usko, että se siihen rakennettuna akustisessa suhteessa olisi juuri entistä parempi. Raunioiden phteyteen rakennettuna lawa wäkisinkin 
-            joutuisi luonnottoman korkealle, joten siltä esitetyt ääniaallot kaikuisiwat liian korkealle. Lawan paikkaa määriteltäessä on ehdottomasti huomioon otettawa, mitkä tuulet woimakkaimmin puhaltawat 
-            kysymyksessä olewaan paikkaan se sen läheisyyteen. Jokainenhan tietää miten waikeata on saada ääni kuulumaan wastatuuleen ja miten helppoa päinwastaisessa tapauksessa. Warsinkin musiikkiesityksissä 
-            wastatuuli häiritsee kiusallisesti hajoittaen yhteissoinnun ja tekee kuulumisen epätasaiseksi. Tuulet, jotka käywät kaupungista päin koskewat ehdottomasti woimakkaammin kuin muut tuulet puistossa olewan 
-            kentän ympärillä olewiin puihin saaden ne humisemaan. Jos lawa silloin on alla tuulen raunioiden yhteydessä, nün kentällä musiikkiesityksiä, warsinkin laulua, ei kuule juuri ollenkaan, tai jos kuuluukin, 
-            niin kuuluu se kowin waillinaiselta. Mutta jos lawa silloin on sillä puolen mistä tuuli puhaltaa, niin kaikuwat ääniaallot lawalta myötätuuleen siksi woimakkaina ja täyteläisinä ettei puiden humina esityksiä 
-            sanottawasti häiritse. Pohjoisista ilmansuunnista tulewat tuulet eiwät tule häiritsemään kentällä, koska kentän pohjoispuolella on siksi laaja ja korkea hawumetsä, etteiwät ne tuulet kysymyksessä olewaan 
-            paikkaan ollenkaan sowi.</p>
-          <p>Muistan wielä wallan hywin, jo pitempi aika siitä, kun lawa tilapäisesti silloisia juhlia warten, oli rakennettu kentän kaupungin sillan puoleiseen syrjään. Siltä lawalta kaikui musiikkiesitykset 
-            täydellisimmiltä kuin mitä minä puistossa milloinkaan olen kuullut.</p>
-          <p>Wielä huomioon otettawa on, erittäin tärkeä seikka se, että lawa rakennetaan lähelle sitä paikkaa missä yleisö tawallisesti on, ettei esittäjien tarwitse ensin huudella kuuliakuntaa luokseen ennen kuin 
-            woiwat sille mitään esittää.</p>
-          <p>Edellä olewia näkökohtia huomioon ottaen ehdottaisin, että laululawa rakennettaisi kentän kaupungin sillan puoleiseen syrjään. Tältä puolelta luulisin niin hywin puhe- kuin musiikkiesitysten kuuluwan 
-            parhaiten, kunhan waan lawan taustaa ei rakenneta kowin korkeata eikä aiwan suoraa, waan että sen yläosa kohtalaisesti kaareutuisi eteenpäin. Permanto ei saisi olla tarpeettoman korkealla eikä liian ulkonewa 
-            eteenpäin koska se siinä tapauksessa tulisi johtamaan ääniaallot ylös.</p>
-          <p>Jos lawa tälle puolelle wiitoittamaani suuntaan rakennetaan, silloin kentän ympärillä olewat kummut, wastapäätä olewat rauniot ja korkeiden puiden rungot tulisiwat antamaan esiintyjille täydentäwän kaijun.</p>
-          <p className="captionStyle">Aleksi Seppälä.</p>
-        </Article>
-        <SubDivider className="dividerStyle" />
-        <h3>Tostai, 6.3.1924</h3>
-        <Article titleText="Hämeen Sanomain arw. Toimitukselta pyydän tilaa seuraawalle oikaisulle.">
-          <p>Tämän lehden 44 numerossa kerrotaan että allekirjoittanut on kieltäytynyt edustaja ehdokkuudesta, että kaikesta maalaisliittolaisesta toiminnasta esillä olewia waaleja warten sen takia, kun Maalaisliiton 
-            piirikokous Lahdessa wiime helmikuun 17 päiwänä hylkäsi Kansallisen kokoomus- ja Kansallisen edistyspuolueiden waaliliitto pyynnit.</p>
-          <p>Jo ennen tätä kokousta pyysi piiritoimikunta suostumustani edustaja ehdokkaaksi, johon wastasin kieltäwästi. Sama pyyntö uudistettiin mainitussa kokouksessa, jolloin wastaus oli sama kuin piiritoimikunnallekin.</p>
-          <p>Waaliliittokysymyksen kokouksessa alusti agron. Wäinö A. Rantala, joka suositteli waaliliittoa Kansallisen edistyspuolueen kanssa, waan asettui epääwälle kannalle Kansalliseen kokoomuspuolueeseen nähden. Asiasta 
-            keskusteltaessa yhdyin alustajaan, mikä käsitys ei tullut kokouksen päätökseksi. Tämä päätös ei waikuttanut ehdokkaaksi kieltäytymiseeni, sillä olin aikaisemmin sen jo ilmoittanut, eikä päätös ole esteenä 
-            maalaisliittolaiselle waalitoiminnallenikaan. </p>
-          <p>Kertojan samoin kuin lehdenkin pitää käsittämän että kuwiteltu menettely olisi tahditonta, niinkuin asian wääristeleminen on rumaa warsinkin julkisuutta warten painettuna.</p>
-          <p className="captionStyle">Hattulassa maalisk. 3 p:nä 1924.</p>
-          <p className="captionStyle">Juho Torppa.</p>
-          <SubDivider className="dividerStyle" />
-          <p><span className="boldStyle">Toimitus</span> walittaen tapahtuneita erehdyksiä pyytää ylläaolewan johdosta huomauttaa, että kyseessäolewa uutinen perustui erään kokouksessa olleen maalaisliittolaisen kertomukseen, 
-            joten luulimme siihen woiwan luottaa.</p>
-        </Article>
-        <SubDivider className="dividerStyle" />
-        <h3>Perjantai, 7.3.1924</h3>
-        <Article titleText="Requiem-kuoro!">
-          <p>Hämeen Maakuntajuhlain laulu- ja soittotoimikunnan keskuudessa on herännyt ajatus Cherubinin Requiemin esittämisestä juhlien aikana. Kun kaupungissamme on koko joukko henkilöitä, jotka owat ennen ottaneet osaa 
-            mainitun suursäwellyksen esittämiseen ja siis hywin tuntewat sen, pyydetään kaikkia entisiä Requiem-laulajia kokoontumaan Kerhon huoneustoon ensi lauantaina t.k. 8 pnä klo 6 i.p. keskustelemaan aiheen 
-            toteuttamismahdollisuudesta.</p>
-          <p className="captionStyle">Toimikunnan puolesta:</p>
-          <p className="captionStyle">A. Th. Böök.</p>
-        </Article>
-        <SubDivider className="dividerStyle" />
-        <h3>Perjantai, 7.3.1924</h3>
-        <Article titleText="Kristilliset yhtymät Hämeenlinnassa tarwitsewat kodin.">
-          <p>Kristillisten yhtymäin toimintaa waikeuttaa ja suorastaan estääkin sopiwan kokoushuoneuston puuute. Yhtymät sellaiset kuin Nuorten naisten kr. yhdistys, Lähetysyhdistys ja Nuorten raamatunlukupiiri, jotka tahtowat 
-            toimia yhteisymmärryksessä luterilaisen seurakunnan kanssa, owat tässä suhteessa kaikkein waikeimmassa asemassa. Askettäin koetettiin kysymys toistaiseksi ratkaista siten, että päätettiin wuokrata waatimaton huoneusto 
-            ja sopimus siitä piti juuri tehtämän. Wäliin tulleet seikat tekiwät tämän tyhjäksi ja niin jäiwät harrastukset ja toiweet taas toteutumatta. Päätettiin ottaa asia keskusteltawaksi laajemmissa piireissä toiwossa saada 
-            yleisempää kannatusta, koska sen pikainen ja suotuisa ratkaisu tietäisi sinausta koko paikkakunnallemme.</p>
-          <p>Kaikkia tätä kysymystä harrastawia henkilöitä kehoitotaan sen tähden saapumaan yhteiseen kokoukseen, joka pidetään neiti Ahosen Raittiusrawintolassa torstaina t.k. 13 pnä klo 8 illalla.</p>
-          <p>Asia on Herran, tarkoittaen hänen waltakuntansa edistämistä. Siksipä saammekin olla wakuutettuja siitä, sillä hän on sen puolella ja on runsaasti siunaawa kaikkia, jotka koettawat myötäwaikuttaa todella hywän asian 
-            woitolle pääsemiseksi.</p>
-          <p className="captionStyle">Hämeenlinnassa 10. 3. 1924.</p>
-          <p className="captionStyle">Yksi monien puolesta.</p>
-        </Article>
-        <SubDivider className="dividerStyle" />
-        <h3>Perjantai, 14.3.1924</h3>
-        <Article titleText="Asessorin waali Tampereen hiippakunnassa.">
-          <p>Maaliskuun 27 p. toimitetaan asessorin waali Tampereen hiippakunnassa poismuuttawan T. N. Pfalerin tilalle.</p>
-          <p>Muutamia ehdokkaita on julkisesti sanomalehdissä mainittu, mutta sopiwampaa miestä lienee tällä kerralla waikea löytää kuin on Hämeenlinnan ja Wanajan kirkkoherra, lääninromasti Ludwig Enkwist.</p>
-          <p>Ehdotan, että arw. wirkaweljet tulewissa waaleissa äänestäwät häntä. Hänen erinomainen tunnontarkkuutensa kansliatehtäwissä ja tunnettu kohteliaisuutensa seurakuntalaisia kohtaan kansliassaan takaa, että hän woisi 
-            opettaa samaa muillekin hiippakunnan papeille. Warsinkin nykyaikana, jolloin kansa wäkisinkin tahtoo wieraantua kirkosta, olisi juuri Ludwig Enkwistin kaltainen pappi saatawa hiippakunnan johtajien joukkoon.</p>
-          <p className="captionStyle">Walitsija.</p>
-        </Article>
-        <SubDivider className="dividerStyle" />
-        <h3>Sunnuntai, 30.3.1924</h3>
-        <Article titleText="Nimimerkki „W. W:lle”.">
-          <p>T.k. 23 p:ssä Hämeen Sanomissa tekemänne kyselyjen johdosta haluan lyhyesti ilmoittaa seuraawaa:</p>
-          <p>Kansallisen kokoomuspuolueen waaliohjelmassa lausutaan m.m.: „Kansallinen kokoomuspuolue tahtoo säilyttää sen, mitä kansamme on aikaisemmilta sukupolwilta arwokasta perinyt, niinkuin kansan uskonnon, terwehenkisen 
-            perhe-elämän, elinwoimaisen talonpoikaiswiljelyksen ja säästäwäisyyden”. Ja sisäpoliittisessa ohjelmassa on m.m.: „Kirkon ja waltion wälisiä suhteita järjestettäessä on noudatettawa tarpeellista arkatuntoisuutta 
-            kansankirkkoa kohtaan. Uskonnonopetusta on yleisissä oppilaitoksissa annettawa”. Näihin ponsiin on supistettu pääasiassa se, mitä kokoomuspuolue uskonnollisissa kysymyksissä on tahtonut julkilausua.</p>
-          <p>Mielestäni sisältyy näihin ponsiin se tärkein, mitä mainituissa kysymyksissä on sanottawa. Luulen, että jokainen kokoomuspuolueen eduskuntaehdokkaaksi lupautunut pitää tärkeänä tämän ohjelmakohdan toteuttamisen. Itse 
-            puolestani katson sen erityisen tärkeäksi. Pidän myös luonnollisena, että waltion on awustettawa, ja samaten kuin kansanopistoja yleensä, myös kristillisiä kansanopistoja. Mitä kirkolliskokouksen päätöksiin tulee, pidän 
-            selwänä, että Eduskunta woi ewätä niiden toteuttamisen ainoastaan siinä tapauksessa, että ne olisiwat waltion päämääriä wastaan suuntautuwia, jommoisia ne tietenkään eiwät ole. Pidän siis uskonnollisen elämän kehittämiselle 
-            tärkeänä, että Eduskunta wahwistaa kirkolliskokouksen päätökset. </p>
-          <p className="captionStyle">Arwi A Karisto.</p>
-        </Article>
-        <SubDivider className="dividerStyle" />
-        <h3>Perjantai, 18.4.1924</h3>
-        <Article titleText="Lain ja oikeuden kunnioittamistako?">
-          <p>Eräässä pitäjässä on werotuslautakunta merkinnyt käsityöläisten, liikemiesten, wirkailijain y.m. tuloista puolet ja jopa enemmänkin „maanwiljelystuloiksi”, waikka asianomaisilla ei ole maanwiljelystä, eiwätkä ole itse niitä 
-            siksi ilmoittaneetkaan. Tämän on werotuslautakunta tehnyt sentakia, että ei seurakunta eikä sen papisto woisi näitä werottaa kirkollisiin tarkotuksin koko werotettawalle pannusta weromäärästä. Kun kunnan waltuuston walitsema 
-            werotuslautakunta tämän tekee tietensä ja tarkotuksella, niin on se todistuksena kuinka alhaiset käsitykset wielä on monella laista ja oikeudesta, puhumattakaan heidän omasta kunniallisuuden ja rehellisyyden käsityksestään. 
-            Ja kuitenkin esiintywät samaiset henkilöt toisinaan laillisen yhteiskunnan oikeusjärjestelmän puolustajina, ettemme sanoisi sen woimakkaina suojelijoina. Muita miten woidaan puhuakaan laillisuudesta ja oikeudesta, kun wirallisissa 
-            toimissa, milloin niihin joudutaan, niitä tietoisesti rikotaan. Ennenkuin woi waatia muilta lakia ja oikeutta, täytyy itsekin niitä kunnioittaa. Joka ei sitä tee, on myös itse lewittämässä laittomuuden ja kurittomuuden henkeä. 
-            Ihmettelemmekö, että laittomuus ja kurittomuus kaswaa.</p>
-          <p>Mainitunlainen toiminta ei myöskään osoita asianomaisissa suurta omistusoikeuden kunnioitusta. Sillä omistusoikeus ei koske yksinomaan sitä omaisuutta, joka jo on hallussa, waan myös niitä oikeuksia, joita jollakin on. Jollemme 
-            nyt kuitenkaan kunnioita toisen oikeuksia, miten woimme waatia muita kunnioittamaan meidän oikeuksiamme. Ja jos taas oikeudet poljetaan niin silloin mieliwalta ja itsekkyys hallitsewat.</p>
-          <p>On pitäjälle arwaamattomaksi wahingoksi, kun sillä on toimissaan miehiä, joille laki ja oikeus eiwät mitään merkitse, joille kunniallisuus ja rehellisyys on tullut ala-arwoisiksi ja joille epärehellisyys ja lainrikkominen 
-            owat luwallisia, kun ei waan ole kysymyksessä oma itse. Tällainen henkinen rutto merkitsee pitäjän kurjuutta ja samalla suurta tappiota koko kansamme edistyksessä. Toiwottawasti tällaiset ilmiöt häwiäwät sitä myöten, kun siwistys 
-            ja walistus lewiäwät kaikkiin pitäjiin.</p>
-          <p className="captionStyle">X.</p>
-        </Article>
-        <SubDivider className="dividerStyle" />
-        <h3>Lauantai, 3.5.1924</h3>
-        <Article titleText="Kehoitus.">
-          <p>Kuusi wuotta on kulunut wapaussodan päiwistä. Tämän ajan kauhut unohtuwat wähitellen, aika häwittää niiden katkerat muistot.</p>
-          <p>Mutta jälelle on jäänyt perintö, jota meidän sukupol
-            wemme ei woi niin täydellisesti lunastaa, että sen jäljet eiwät tuntuisi. Se on welwollisuutemme niitä kohtaan, joita kohtalo on kowiten koetellut ja jotka owat wapaudelle 
-            suurimman uhrin kantaneet. Se on welwollisuutemme inwaliideja kohtaan.</p>
-          <p>Heitä ei ole ainoastaan täällä meidän omassa maassamme, waan etäällä kowiakokeneen Saksanmaan tehtaissa, parantumattomien kodeissa, inwaliidien työsiirtoloissa ja katujen kerjäläisinä, noin 60 henkeä. Heidän elämänsä on 
-            herkeämätöntä taistelua nälkää ja puutetta wastaan ja heidän työnsä raskasta, usein woimia ylittäwää. Waikein on niiden asema, joilla on waimo ja lapset huolettawa. Se awustus, jonka hädänalainen Saksanmaa woi heille tarjota, 
-            ei riitä elämän tarpeisiin.</p>
-          <p>Suomesta Saksaan lähetetyt awustukset on etupäässä käytetty inwaliidien ja kaatuneiden perheiden auttamiseksi. Kun warat eiwät ole kaikille riittäneet, on ensi sijassa otettu huomioon lapset, nousewa sukupolwi. Perheettömiä, 
-            joita useimmat Finnlandkämpfrer-inwaliidit oliwat ja edelleen owat, ei ole yleensä katsottu woitawan ottaa huomioon.</p>
-          <p>Näinä päiwinä täyttäwät mielemme muistot tuosta wapauden kewäästä, jolloin saksalaiset maihinnousujoukot woitokkaina eteniwät maassamme.</p>
-          <p>Olemmeko nyt kuluneen kuuden wuoden aikana unohtaneet muukalaiset, jotka owat uhranneet terweytensä, tulewaisuutensa ja työkykynsä maamme wapauden puolesta? Tahi olemmeko jo mielestämme heille kiitollisuudenwelkamme maksaneet?</p>
-          <p>On olemassa alote kutsua noin 30 näitä „Suomenkäwijöitä” (Finnlandkämpfer) pariksi kesäkuukaudeksi maahamme wirkistymään. Heidät on tarkoitus sijoittaa maaseudulle sopiwaan paikkaan, minne myös warataan wapaapaikkoja meidän 
-            omille inwaliideillemme. Täällä annetaan wieraille wapaa hoito, asunto ja ruoka sekä se hywin tarpeellinen lepo, jota he eiwät kotimaassaan wallitsewan lamaannuksen wuoksi woi suotuisimmissakaan olosuhteissa saada.</p>
-          <p>Mutta hanke on toteutettawissa wain sikäli kuin yleisö ottaa sen sydämen asiakseen ja awustaa sitä kykynsä mukaan.</p>
-          <p>Niitä henkilöitä, joille Saksan w. 1918 antama woimakas apu on muistossa kallis ja jotka haluawat olla mukana suorittamassa osaamme kiitollisuudenwelasta Finnlandkämpfer-inwaliideille, kehoitetaan jättämään raha-awustuksensa 
-            tämän lehden toimitukselle, jollekin Lotta-Swärd-yhdistyksen paikallisosaston puheenjohtajalle tai lähettämällä ne osoitteella: Neiti Dagmar Ruin, Fredrikinkatu 71, Helsinki.</p>
-          <p>Maantuotteina annettawista lahjoista tehdään ilmoitus samoihin paikkoihin, jonka jälkeen ne lähetetään suoraan inwaliidien oleskelupaikalle, mistä myöhemmin sanomalehdissä ilmoitetaan.</p>
-          <p className="captionStyle">M. von Bonsdorff, K. Castren, Wald. Ruin, Dagmar Ruin, Richard Siewers, F. Langenskiöld, J. K. Paasikiwi, Jenny af Forselles, J. Gummerus, E. Suolahti.</p>
-        </Article>
-        <SubDivider className="dividerStyle" />
-        <h3>Sunnuntai, 4.5.1924</h3>
-        <Article titleText="Sukunimen suomalaistuttamisesta.">
-          <p>Kun taas lähestyy suuren kansalaisemme Snellmanin syntymäpäiwä, toukokuun 12:s, joka on muodostunut erikoisesti siksi päiwäksi, jona wieraskielisiä sukunimiä muutetaan suomenkielisiksi, teemme lyhyesti selkoa siitä, miten nimen 
-            muuttaminen käytännössä tapahtuu.</p>
-          <p>Ennen sukunimilain säätämistä oli nimenmuutto warsin yksinkertainen asia, sillä siihen ei tarwittu juuri muuta kuin asianomainen ilmoittaminen toimeenpannusta muutoksesta. Silloin sopi warsin mukawasti järjestää suuria 
-            joukkonimenmuutoksia, joukkoilmoituksia, kuten Suomalaisuuden Liiton wälityksellä useana wuonna tehtiin. Joulukuun 23 pnä 1920 annetun sukunimilain woimaan tultua on nimenmuutto tullut siinä suhteessa mutkikkaammaksi, että 
-            tuollaiset joukkoilmoitukset eiwät enää helposti käy päinsä, sillä mainitun lain mukaan on nimenmuuttoanomus tehtäwä sen läänin maaherralle, jossa nimenmuuttaja on kirkonkirjoissa, ja owat niin ollen nimenmuuttoasiat hoidettawat 
-            eri läänien lääninhallituksissa sekä kunkin hakijan kotiseurakunnassa.</p>
-          <p>Anomus maaherralle tehdään tawallisessa järjestyksessä, itse tai asiamiehen kautta. Hakemukseen on liitettäwä papintodistus, joka osoittaa hakijan täydellisen nimen, syntymäpäiwän ja perhesuhteet. Toisella suwulla olewaa nimeä 
-            ei yleensä saa ottaa, elleiwät hakijan esi-isät ole nimeä laillisesti käyttäneet. Maaherran päätöksestä saa walittaa korkeimpaan hallinto-oikeuteen kuudenkymmenen päiwän kuluessa. Kun maaherra on uuden sukunimen hywäksynyt, on 
-            hakijan kuulutettawa hywäksymisestä wirallisissa lehdissä ja jossain paikkakunnan sanomalehdessä sekä ilmoitettawa sukunimi asianomaisen seurakunnan kirkonkirjoihin merkittäwäksi.</p>
-          <p>Tässä pääkohdat nimenmuuttoa koskewista säännöistä. Tarkemman tiedon näistä saa mainitusta sukunimilaista (hinta 50 p.), jonka saa tilata, mieluimmin postietuannilla, osoitteella: Waltioneuwoston julkaisuwirasto, Helsinki.</p>
-          <p className="captionStyle">Helsingissä, huhtik. 30 p. 1924.</p>
-          <p className="captionStyle">Suomalaisuuden Liiton toimisto.</p>
-        </Article>
+        <h4>Sunnuntai, 11.5.1924</h4>
+        <h5>Toimitukselta on pyydetty tilaa seuraawalle:</h5>
+        <p>Eilisessä lehdessänne yleisönosastossa olewan kirjoituksen johdosta saa kaupungin Rakennuskonttori, jolle kirjelmässä mainitunlaisten töiden suoritus kuuluu, täten kunnioittaen „Linnanniemeläisille” ilmoittaa, ettei konttori 
+          aio laittaa minkäänlaista porrasta tulwan alle joutuneen Kasarmikadun osalle, koska Kruunuportin tie on wielä kuiwilla.</p>
+        <p className="captionStyle">Kaupungin Rakennuskonttori.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Tiistai, 13.5.1924</h3>
+      <Article titleText="Kaupungin Rakennuskonttorille.">
+        <h5>Pyydämme arw. Toimitukselta tilaa wielä seuraawalle:</h5>
+        <p>Meitä ihmetyttää suuresti arw. Rakennuskonttorin säädytön ja siwistymätön „wastaus”, joka on samaa kuin „pitäkää suunne kiinni”. Luulisimme, että kun tällainen luonnoton tilanne kohtaa, kuin nyt tapahtunut weden nousu, eräitä 
+          kaupungin osan asukkaita, että kaupungin wiranomaiset todella huolehtisiwat kaikkien kaupunkilaisten eduista samalla tapaa kuin nyt kysymyksessäkin olewa tapaus on. -Kaupungilla on kyllä tietääksemme wälineitä, että se ei 
+          kaupungin menoihin olisi suurtakaan lowea tehnyt, jos olisikin mainittu silta laitettu.</p>
+        <p>Jos arw. Rakennuskonttorin herrat itse waiwautuisiwat paikalle näkemään, miten wesi nyt on noussut ja miten useat talot jo owat miltei weden ympäröimiä, niin eiköhän mainitulle Rakennuskonttorille sentään todella kuuluisi 
+          joihinkin toimenpiteisiin ryhtyminen, ettei tarwitsisi käwellä wedessä päästäkseen asioilleen.</p>
+        <p>Sillä kalliiksi se tulee yksityisille laittaa mainittuja lautakäytäwiä yleisille käytäwille.</p>
+        <p className="captionStyle">Joukko linnanniemeläisiä.</p>
+      </Article>
 
 
 
 
-        <SubDivider className="dividerStyle" />
-        <h3>Keskiviikko, 15.10.1924</h3>
-        <Article titleText="N.s. Peltokadun täyttö">
-          <p>Kuten tunnettua johtaa Myllymäen „torilta” wanhalle hautausmaalle Peltokatu. Tätä katua ei nykyään kuitenkaan pidetä awoinna liikenteelle waan on henkilöiden, joiden on tätä tietä kuljettawa 
-            suunnattawa matkansa joko liiankin wilkasliikkeistä Läntistä Wiertotietä myöten tai sitten oikaistawa Alasen kaupunginosan länsipuolella olewien wiljelysmaiden kautta siten turmellen näitä 
-            wiljelyksiä. Eikö siis olisi syytä awata liikenteelle siltä nykyään suljettu Peltokatu, jota myöden ihmiset taas mukawammin woisiwat kulkea kuin Läntistä Wiertotietä tai peltoja pitkin.</p>
-          <p className="captionStyle">Eräs tientarwitsija</p>
-        </Article>
-        <br></br>
-        <a className="hyperLinkStyle" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?year=1924">Linkki vuosikertaan 1924</a>
+
+
+      <SubDivider className="dividerStyle" />
+      <h3>Keskiviikko, 15.10.1924</h3>
+      <Article titleText="N.s. Peltokadun täyttö">
+        <p>Kuten tunnettua johtaa Myllymäen „torilta” wanhalle hautausmaalle Peltokatu. Tätä katua ei nykyään kuitenkaan pidetä awoinna liikenteelle waan on henkilöiden, joiden on tätä tietä kuljettawa 
+          suunnattawa matkansa joko liiankin wilkasliikkeistä Läntistä Wiertotietä myöten tai sitten oikaistawa Alasen kaupunginosan länsipuolella olewien wiljelysmaiden kautta siten turmellen näitä 
+          wiljelyksiä. Eikö siis olisi syytä awata liikenteelle siltä nykyään suljettu Peltokatu, jota myöden ihmiset taas mukawammin woisiwat kulkea kuin Läntistä Wiertotietä tai peltoja pitkin.</p>
+        <p className="captionStyle">Eräs tientarwitsija</p>
+      </Article>
+      <br></br>
+      <a className="hyperLinkStyle" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?year=1924">Linkki vuosikertaan 1924</a>
     </Layout>
   );
 };

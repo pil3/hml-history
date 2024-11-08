@@ -69,6 +69,7 @@
   color: var(--text-light);
   align-self: flex-end;
   opacity: 0.8;
+  font-size: 16px;
 }
 .logoStyle {
   height: 100%;

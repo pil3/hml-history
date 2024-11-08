@@ -5,7 +5,7 @@
   background-color: var(--color-bg);
   display: block;
   margin: 8px auto;
-  padding: 12px 12px 8px 12px;
+  padding: 10px 10px 6px 10px;
   box-shadow: 2px 2px 4px black;
   border-radius: 8px;
 }

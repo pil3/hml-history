@@ -205,7 +205,7 @@ const HauhoPage = () => {
       <Divider className="dividerStyle" />
       
       <Article titleText="Tuittupäinen lukkari Hauholla.">
-        <h4>Pöytäkirjan mukaan.</h4>
+        <h5>Pöytäkirjan mukaan.</h5>
         <SubDivider className="dividerStyle" />
         <p><span className="boldStyle">W. 1783:</span> Wiime syyskuun 12 pnä on kastetilaisuudessa rusthollari Poltin luona kirkonkylässä tapahtunut julkinen pahennus, joka on jo laajalti tunnetukin. 
           Apulainen Eric Ferrinin alettua aterian jälkeen wirren, oli lukkari Salomo Pihlman tarpeettomasti korottanut ääntänsä ja wenyttänyt laulua, ja oli apulainen silloin ruotsinkielellä huomauttanut 
@@ -261,7 +261,7 @@ const HauhoPage = () => {
       <Divider className="dividerStyle" />
       
       <Article titleText="Uuden kirkonkellon hankkiminen Tuulokseen.">
-        <h4>Wuonna 1771 tehdyn pöytäkirjan mukaan.</h4>
+        <h5>Wuonna 1771 tehdyn pöytäkirjan mukaan.</h5>
         <br></br>
         <p className="firstLetterStyle">Tuotiin julki usealta taholta lausuttu toiwomus, että seurakuntaan hankittaisiin uusi kirkonkello, suurempi kun mikään nykysistä, koskapa täällä ei ole sellaista 
           kelloa, joka kuuluisi lähimpäin kylien takana olewiin, wielä wähemmin kirkosta etäämmällä olewiin. Kokouksessa ei ollut ainoatakaan, joka ei olisi halusta sellaista toiwonut, mutta walittiwat 
@@ -278,7 +278,7 @@ const HauhoPage = () => {
       <Divider className="dividerStyle" />
       
       <Article titleText="Ruumisweisusta.">
-        <h4>Pöytäkirjan mukaan wuodelta 1791.</h4>
+        <h5>Pöytäkirjan mukaan wuodelta 1791.</h5>
         <br></br>
         <p className="firstLetterStyle">Ehdotettiin ruumisweisun toimittamiseen, joka täällä näihin asti on tapahtunut siten, että yksi tai useampi pappi käyden ruumissaaton edellä lukkarin kanssa, 
           laulawat jotakin kuoleman ajatuksiin johtawaa wirttä, mutta joka tapa on tarkotustaan wastaamaton, eikä ole omansa herättämään hartautta, koska kantajat ja surusaatto owat pitkän matkan päässä, 
@@ -293,7 +293,7 @@ const HauhoPage = () => {
       <Divider className="dividerStyle" />
       
       <Article titleText="Ankara riita saarnatuolin paikasta,">
-        <h4>jossa herrat ja talonpojat owat tiukasti wastakkain.</h4>
+        <h5>jossa herrat ja talonpojat owat tiukasti wastakkain.</h5>
         <SubDivider className="dividerStyle" />
         <br></br>
         <p className="firstLetterStyle">Kokouksessa <span className="boldStyle">8—3—1795</span> owat seurakuntalaiset yksimielisiä siitä, että saarnatuoli on uusittawa mutta kun joku herrasmiehistä ehdotti, että se 
@@ -358,7 +358,7 @@ const HauhoPage = () => {
       
       <Article titleText="Toimenpiteitä siweettömyyttä wastaan.">
         <SubDivider className="dividerStyle" />
-        <h4>Wuonna 1761 tehdyn pöytäkirjan mukaan:</h4>
+        <h5>Wuonna 1761 tehdyn pöytäkirjan mukaan:</h5>
         <br></br>
         <p className="firstLetterStyle">Kysyttiin seurakunnalta, miten on kyläkunnissa yhteisten rukousten pitämisen laita, noudatetaanko lukukinkereillä säädettyjä toimenpiteitä? Tähän wastattiin, 
           että ne hywin niukasti wetäwät kansaa puoleensa ja että nuoriso pyhäpäiwäkokouksissaan harjoittaa kortinlyöntiä, juopottelua, tanssia, tappelua, maanteillä räyhäämistä öisin ja muuta 
@@ -374,7 +374,7 @@ const HauhoPage = () => {
         nämä sakot heti, kun owat asiasta tiedon saaneet. Jos joku uskaltaisi asettua kuudennusmiehiä wastustamaan, jotka owat kuninkaallisten wirastojen suojeluksessa, niin ilmoitettakoon tämä heti 
         kruunun nimismiehelle, joka wiipymättä „ex nobili officio” asian korjannee. Sakot jaetaan kolmia, nim. kirkon, pitäjän köyhien ja kuudennusmiesten kesken. </p>
         <SubDivider className="dividerStyle" />
-        <h4>Wuonna 1778 päätti kirkkoneuwosto:</h4>
+        <h5>Wuonna 1778 päätti kirkkoneuwosto:</h5>
         <br></br>
         <p className="firstLetterStyle">Kirkooneuwosto katsoi tarpeelliseksi tämän paheen poistamiseksi määrätä sakot niille, jotka pahettaan jatkawat seuraawasti:</p>
         <p><span className="boldStyle">1:ksi.</span> Wanhemmat ja talolliset, jotka salliwat lastensa ja palwelijoittensa oman tahtonsa mukaan pyhä- ja juhlapäiwinä iltaisin lähteä syntistä ja 
@@ -385,7 +385,7 @@ const HauhoPage = () => {
         <p><span className="boldStyle">4:ksi.</span> Joka sallii huoneissaan pitää sopimattomia kokouksia tai luowuttaa ne juominkien, tanssien ja korttipeluun harjoittamiseksi, maksakoon sakkoa 
           yhden waltioriksin. Sakot haetaan rikkojilta ulos ja jos waroja ei ole, istukoon hän yhden sunnuntain jalkapuussa.</p>
         <SubDivider className="dividerStyle" />
-        <h4>Wuonna 1792 päätetään seuraawaa:</h4>
+        <h5>Wuonna 1792 päätetään seuraawaa:</h5>
         <br></br>
         <p className="firstLetterStyle">Kyläkuntiin asetetaan katsannusmiehiä walwomaan nuorison elämää ja annetaan näille seuraawat ohjeet:</p>
         <p><span className="boldStyle">1:o.</span> Heidän on kuljeskeltawa ympäri kylän kerran tai kahdesti kunakin juhlapäiwänä yhden talon isännän kanssa, wuoroonsa kunkin.</p>
@@ -419,7 +419,7 @@ const HauhoPage = () => {
       <Divider className="dividerStyle" />
       
       <Article titleText="Yhteinen julistus.">
-        <h4>1785</h4>
+        <h5>1785</h5>
         <p className="firstLetterStyle">Ehkä päälletarkoitus Krouwien asettamisen kanssa on se, että niissä löydyisi tarpellista ylöspitämistä erinomaittain matkustawaisille; osotta kuitengin joka 
           päiwäinen koettelemus, mikä häpiällinen wärinkäyttämys niissä harjoitetan juomisen ja spelamisen kautta, enimmäst Pyhäpäiwinä ja niissä Krouweissa, jotka makawat Kirkonkylisä.</p>
         <p>Samassa mitassa kuin yxi nijn Jumalatoin elämäkerta mutamina wuosina on tygökaswanut, on myös hawaittu ne suurimmat rikoxet ja pahattyöt hirmuttawalla tawalla ottawan ylikäden. 
@@ -470,18 +470,18 @@ const HauhoPage = () => {
       
       <Article titleText="Köyhyys Hauholla kroonillinen tauti.">
         <SubDivider className="dividerStyle" />
-        <h4>1798</h4>
+        <h5>1798</h5>
         <p className="firstLetterStyle">Wuonna 1798 on Turun Yliopistorakennuksissa toimitettu  korjaustöitä ja, waroja kun puuttuu, on Kunink. Majest. wedonnut seurakuntiin. Pitäjänkokouksessa 
           täällä wastataan, että seurakunnan kassat owat tyhjät. Kun wedottiin yksityisiin, niin „yleinen äänettömyys” ja sitten walittelut ajan kalleudesta osottiwat kyllin selwästi, että kukaan 
           ei ollut, waikka asia säälittikin ja tahtoakin olisi ollut, tilaisuudessa mitään lahjoittamaan.</p>
         <SubDivider className="dividerStyle" />
-        <h4>1806</h4>
+        <h5>1806</h5>
         <p className="firstLetterStyle">Wuonna 1806 olisi kirkko pitänyt Konsistorion kehotuksesta palowakuuttaa, mutta seurakunnan jäsenet eiwät tässä muuta woineet, kun nöyrimmässä alamaisuudessa 
           pitää ehdotusta todistuksena esiwallan isällisestä huolenpidosta, jonka he uskollisina alamaisina hywäksyiwätkin, mutta owat seurakunnan warat nykyään niin pienet, että ne eiwät korjaamatta 
           siedä mitään wähentelemisiä eiwätkä riitä edes siihen maksuun, mikä heti olisi suoritettawa, ja seurakunta ei nyt parhaalla tahdollakaan ole tilaisuudessa tuota puutetta keräyksillä poistamaan, 
           sillä sen on tänä wuonna ollut kestettäwänä kowa katowuosi.</p>
         <SubDivider className="dividerStyle" />
-        <h4>1827</h4>
+        <h5>1827</h5>
         <p className="firstLetterStyle">Wuonna 1827 olisi hallituksen kuulutuksen johdosta ollut päätettäwä kätilön palkkaamisesta kuntaan. Tähän antoiwat seurakuntalaiset seuraawan yksimielisen 
           wastauksen: Koska Majesteetti armollisesti jättää alamaistensa wapaan harkinnan waraan ottaa tai olla ottamatta kätilöä, niin toiwoisiwat Hauhon pitäjän miehet saada kieltäytyä tutkinnon
           suorittanutta kätilöä ottamasta, siksi että heillä on täällä, miltei joka kylässä, käytettäwinään joskaan ei tutkinnonsuorittaneita niin ainakin kokeneita ja luotettawia apulaismummoja 
@@ -497,7 +497,7 @@ const HauhoPage = () => {
       <Divider className="dividerStyle" />
       
       <Article titleText="Ensimmäinen yksityisen teettämä kiwirakennus Hauholla.">
-        <h4>Pöytäkirjassa 15. 10. 1801 luetaan:</h4>
+        <h5>Pöytäkirjassa 15. 10. 1801 luetaan:</h5>
         <br></br>
         <p className="firstLetterStyle">Koska werotilallinen täällä kirkonkylässä Aatami Heiskala omistamansa tilan hoitamisessa sekä maanwiljelykseen että rakennuksiin nähden, on osottanut 
           erinomaista tarmoa ja uutteruutta, on seurakunnan pastori katsonut täytywänsä esittää hänet Kunink. Suomen Talousseuralle ansiokkaana saamaan sellaisen palkinnon, jollaisia sanottu seura 
@@ -518,14 +518,14 @@ const HauhoPage = () => {
       
       <Article titleText="Lukutaidon edistämis-yrityksiä.">
         <SubDivider className="dividerStyle" />
-        <h4>Wuonna 1758 tehdyn pöytäkirjan mukaan:</h4>
+        <h5>Wuonna 1758 tehdyn pöytäkirjan mukaan:</h5>
         <br></br>
         <p className="firstLetterStyle">Reserwisotilas Juho Hannunpoika Uudenkylän Uotilasta, 27 wuoden ikäinen, tuomittiin Kuninkaallisen asetuksen mukaan sakkoihin senwuoksi, että hän on neljän wuoden 
           ajan, kehotuksista ja warotuksista huolimatta, laiminlyönyt sisäluwun opettelemisen, eikä osaa ulkoa kristinopin yksinkertaisimpia kappaleitakaan, jonka wuoksi häntä ei ole woitu laskea pyhälle 
           Ehtoolliselle, jota ei wielä ole kertaakaan nauttinut. Sakkomäärä oli kuusi taalaria kruununrahaa neljältä wuodelta, ja ostettiin näillä rahoilla 8 kappaletta katkismuksia, jotka jaettiin köyhille 
           lapsille.</p>
         <SubDivider className="dividerStyle" />
-        <h4>Wuonna 1762 pöytäkirjan mukaan:</h4>
+        <h5>Wuonna 1762 pöytäkirjan mukaan:</h5>
         <br></br>
         <p className="firstLetterStyle">Kun on joutunut mielipahakseen panemaan merkille, että useat kansanlapsista ja muistakin, huolimatta lukusioilla ja muissa tilaisuuksissa annetuista kehotuksista, hywin 
           myöhään, wasta kaksikymmenwuotisiksi jouduttuaan ja siitä ylikin, opettelewat lukemisen taitoa, elleiwät jätä sitä kokonaan tekemättäkin, josta kaikesta ei woi muuta seurata, kun että näiden 
@@ -536,7 +536,7 @@ const HauhoPage = () => {
           rangaistukseksi jalkapuussa istumista tai kahden taalerin rahasakko, kaikki riippuen asianhaaroista. Tätä wastaan ei seurakunnalla ollut mitään muistuttamista, waan oli se jokaisen mielestä kohtuullista 
           ja terweellistä.</p>
         <SubDivider className="dividerStyle" />
-        <h4>1771</h4>
+        <h5>1771</h5>
         <br></br>
         <p className="firstLetterStyle">Wuonna 1771 on sama asia esillä Tuuloksen pitäjänkokouksessa. Kun siinä on osin edelläolewa Hauhon kokouksen päätös malliksi luettu, niin jatkuu pöytäkirja seuraawaan tapaan: 
           „Tätä kuunneltiin tarkkaawina ja kaikkien läsnäolewien joukossa oli wain yksi ainoa, joka teki sellaisen wäitteen, että tässä on liian paljon waadittu kahdeksannella wuodellaan olewalta lapselta, warsinkin kun, 
@@ -563,7 +563,7 @@ const HauhoPage = () => {
           autuuttaan, eikä kellään upseerilla ole oikeutta heitä tästä wapauttaa, pitäjänkokous ei uskalla, koska se alamaisesti kunnioittaa näin selwää lakia, suostua herra v. Krämerin edellämainittuun ehdotukseen rakuuna 
           Kustaa Juhonpojan wapauttamiseksi jalkapuurangaistuksesta, waan on asianomaisen komppaniankin, jos tarwetta on, täytettäwä H.K.M:nsa armollisin tahto tässä kohti.”</p>
         <SubDivider className="dividerStyle" />
-        <h4>Pöytäkirjan mukaan wuodelta 1788:</h4>
+        <h5>Pöytäkirjan mukaan wuodelta 1788:</h5>
         <br></br>
         <p className="firstLetterStyle">Kun walitettawa kokemus lukusioilla on osottanut, että hywinkin monet nuorisosta, waikka owatkin päässeet siihen ikään, jolloin kristinoppi jo pitäisi olla opittu, siitä huolimatta on 
           hawaittu hywinkin taitamattomiksi sekä sisä- että ulkoluwussa, ja kun tämän epäkohdan korjaamiseksi on ryhdytty siihen toimenpiteeseen, että, sopiwan ajan tultua, näitä on kutsuttu tänne kirkonkylään saamaan opetusta 
@@ -577,18 +577,57 @@ const HauhoPage = () => {
       </Article>
 
       <Divider className="dividerStyle" />
+
+      <Article titleText="Järjestyksen walwonnasta Jumalanpalweluksissa.">
+        <SubDivider className="dividerStyle" />
+        <h5>Wuonna 1736 sattui Luopioisten kirkossa häiriö, josta pöytäkirja kertoo seuraawaa: </h5>
+        <br></br>
+        <p className="firstLetterStyle">Nimismies Melart ilmiantoi, että sotilas Yrjö Estman Miehoilan kylästä oli wiime Kynttilänpäiwänä, kun apulaispappi Ericus Procopaeus parhaillaan ripitti kansaa sakastissa, ollut juowuksissa, 
+          ja Luopioisten kirkon lehterillä saanut aikaan pahennusta sopimattomilla tempuilla ja huutamalla: „kamratit käytäis pois juoman, niin toist on, jo pappi meni pilon y.m.” jonka jälkeen hän meni ulos eikä enää Jumalanpalwelukseen 
+          tullut. Tämän johdosta kuultiin muita seurakuntalaisia ja erittäin niitä, jotka samassa tilaisuudessa oliwat olleet lehterillä, ja todistiwat nämä, että niin oli tapahtunut; ja kun asia oli sen laatuinen, että sitä ei woitu 
+          pitäjän kokouksessa päättää, otti seurakunnan pastori toimittaakseen, että kruununnimismies Anders Herkepaeus tulisi wiran puolesta ajamaan sen maallisessa oikeudessa, mikä sitten tapahtuikin, ja sai sotilas tästä rikoksestaan 
+          18 paria raippoja.</p>
+        <SubDivider className="dividerStyle" />
+        <h5>Hauhon pitäjänkokouksen pöytäkirjassa 10. 9. 1797 kerrotaan seuraawaa:</h5>
+        <br></br>
+        <p className="firstLetterStyle">Minulle on ilmoitettu, että Jumalanpalweluksessa kaksi wiikkoa sitten, talollisen poika Matti Jaakonpoika Humpolta ja torpan poika Erkki Antinpoika, molemmat Ilmoilan kylästä, oliwat heittäneet 
+          rahoja miesten lehteriltä naisten lehterille ja oliwat he tämän johdosta nyt kutsutut kuultawiksi. Nämä tunnustiwat tekonsa, mutta wäittiwät, että Aikkolan Innalan nuorin tytär, Anna, oli asian alkanut, minkä todistajatkin 
+          wakuuttiwat, ja päätettiin, että heidän on jonakin lähisunnuntaina, muille warotukseksi ja ojennukseksi, istuttawa jalkapuussa.</p>
+        <SubDivider className="dividerStyle" />
+        <h5>Luopioisten pöytäkirjassa 3. 9. 1770:</h5>
+        <br></br>
+        <p className="firstLetterStyle">Sen tawan wastustamiseksi, mikä joillakin nuorilla näyttää olewan, että he nimittäin Jumalanpalweluksen aikana, kun owat kirkkoon tulemisessaan myöhästyneet, ja etsiwät itselleen paikkaa, hyppiwät 
+          yli penkkien, päätettiin, että se, joka tästälähin uskaltaa näin tehdä, maksakoon sakkoa ensi kerralta 3 taalaria kuparirahaa, toiselta kerralta 6, mutta kolmannelta kerralta istukoon jo täydellä syyllä jalkapuussa.</p>
+        <SubDivider className="dividerStyle" />
+        <h5>Pöytäkirjassa 12. 3. 1780 luetaan:</h5>
+        <br></br>
+        <p className="firstLetterStyle">Kun on mielipahakseen pannut merkille ja siitä on walituksiakin tehty, että useat nuoresta sukupolwesta, poikia ja nuoria miehiä, owat niin ajattelemattomia ja huonotapaisia, että he miesten 
+          lehterillä tässä Herran huoneessa, Jumalanpalweluksen aikana parweilemat, ääneensä puhuwat ja käyttäytywät pahennusta aikaansaaden m.m. niin, että tuppautuwat ja työntäytywät ensimmäiseen lehteripenkkiin siinä määrin, että 
+          makaawat siinä kahdessa ja kolmessa kerroksessa toistensa päällä ja sen ohessa työntäwät ja kolhiwat toisiaan, saaden toiset näkijöistä syntiseen hymyyn, toiset tassen sopimattomasti kiiwastumaan; ja on tästä jo ollut 
+          seurauksena, että kaksi ensimmäisten jälessä olewaa penkkiä on särjetty ja kaadettu kumoon; niin ehdotettiin seurakunnan wanhimmille, että yksi kuudennusmies pantaisiin joka pyhä- ja juhlapäiwäksi lehterille 
+          Jumalanpalweluksen alusta sen loppuun asti pitämään silmällä, että täällä kukin kuuntelisi Jumalan sanaa hiljaisuudessa. Jos hän täällä huomaisi sellaisia joilla on jotakin sopimatonta tekeillä, ja warsinkin tahtowat tunkentua 
+          ensimmäiseen penkkiin senkinjälkeen kun se jo on niin täysi, että siihen ei enään useampia hywin sowi, niin olisi kuudennusmiesten ilmiannettawa ne papistolle jotka sitten saatetaan siihen rangaistukseen ja sakkoon, minkä 
+          heidän rikoksensa laatu ansaitsee. Ja kun seurakunnan wanhimmat yksimielisesti tähän ehdotukseen yhtyiwät, niin määrättiin kuudennusmiehille, että heidän on kaikella huolella tätä asiaa edistettäwä ja noudatettawa keskenään 
+          sellaista wuorottelua, että kukin täyden kuukauden ajan yhtämittaa joka pyhäpäiwänä saapuu lehterille ja walitsee itselleen siellä sellaisen paikan, että hän siitä woi, mikäli mahdollista, nähdä yli koko lehterin. Alkuun 
+          pankoon asian rustilallinen Matti Toppola kirkonkylästä j.n.e.</p>
+        <SubDivider className="dividerStyle" />
+        <br></br>
+        <a className="hyperLinkStyle" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389173?page=3">Linkki artikkeliin</a>
+      </Article>
+
+      <Divider className="dividerStyle" />
       
       <Article titleText="Kirkkohaudoista.">
         <p className="firstLetterStyle">Tapa haudata ruumiit kirkon permannon alle on Hauholla, niinkuin muuallakin, tuottanut monenlaisia waikeuksia. Näiden laatu selwiää seuraawista pöytäkirjanotteista:</p>
         <SubDivider className="dividerStyle" />
-        <h4>W. 1762</h4>
+        <h5>W. 1762</h5>
         <p className="firstLetterStyle">Koska kaikenkaltaiset ihmiset, kunhan heillä wain on wähän waroja, toimittawat ruumiinsa kirkkoon haudattawiksi, ja kun kirkon alusta jo on niin täyteen ahdettu, että ruumisarkut, melkeinpä 
           joka kohdalla, owat kolmessa ja neljässä kerroksessa toistensa päällä, ja wain hywin ohueen mullalla peitetyt, jonka wuoksi kirkko, warsinkin kesäaikana, on siinä määrässä ruumiinhajun eli löyhkän wallassa, että on mitä 
           tukalinta siellä istua, ja kun wielä kirkon penkit ja permanto hautausten tähden alituisesti siirretään paikoiltaan ja saatetaan epäjärjestykseen, niin esitettiin seurakunnalle, että, tähän kaikkeen nähden, määrättäisiin 
           kaikki muut ruumiit haudattawiksi kirkkomaahan, paitsi wanhain ja kunniallisten isäntäin ja emäntäin, kunnes, tätä ennen kirkkoon haudatut, ruumiit edes jossain määrin ennättäwät maatua. Tätä wastaan ei kellään ollut mitään 
           muistuttamista, waan oli ehdotus kaikkein, sekä herrain että kansanmiesten, mielestä hywä ja hyödyllinen.</p>
           <SubDivider className="dividerStyle" />
-          <h4>W. 1771</h4>
+          <h5>W. 1771</h5>
           <p className="firstLetterStyle">Seurakunnalle huomautettiin kirkkohautojen tilasta. Niiden joukossa oli Hahkialan hauta ainoa, joka on riittäwästi katettu. Muiden päällä on wain joitakin irtonaisia waatekappaleita, ja kun 
             tämä on wastoin asetuksia, niin huomautettiin seurakunnalle, että sen olisi tarkoin kiinnitettäwä huomiota tähän asiaan, koska tarkotuksena on yleisen terweyden tilan edistäminen. Päämäärä ei ole wielä sillä saawutettu, 
             että talollisia on kielletty hautaamasta ruumiitaan kirkkoon, elleiwät tahdo kaiwaa hautoja lain määräämään sywyyteen asti ja sitten peittää ne riittäwästi mullalla, waan on myös niiden, joilla on muurattuja hautoja, 
@@ -599,20 +638,20 @@ const HauhoPage = () => {
             tästä lukien ole sitä tehnyt, menettäköön oikeutensa kirkkohaudan omistamiseen ja tulkoon kirkko hänen sijaansa sen omistajaksi, ja olkoon se welwollinen omaksi hywäkseen tämän tehtäwän täyttämään. Tähän yhtyiwät kaikki 
             läsnäolleet.</p>
           <SubDivider className="dividerStyle" />
-          <h4>W. 1777</h4>
+          <h5>W. 1777</h5>
           <p className="firstLetterStyle">Otettiin käsiteltäwäksi tärkeä kysymys hautojen kunnostamisesta. Esitettiin, että Kunink. kirjeen mukaan 22. 3. 1740 kukaan ei saa haudata ruumiita kirkkoon, ellei hauta ole muurattu ja tiiwiillä 
             holwilla katettu. Nyt owat kyllä useat haudat tässä kirkossa muurattuja, mutta holwikatto puuttuu, eikä sitä useimmassa tapauksessa woida tehdäkään, koska siten tulisi tilan ahtautta toisille. Tämän wuoksi ehdotettiin, että 
             kaikkien, joilla on muurattu hauta kirkossa, olisi näytettäwä toteen omistusoikeutensa sellaiseen hautaan joko esittämällä asianomainen wahwistuskirja tai muulla tawalla, sitäkin suuremmalla syyllä, kun jo wuonna 1771 on 
             päätetty, että joka ei wuoden sisään ole pannut hautaansa lailliseen kuntoon, on oikeutensa siihen menettänyt ja on se joutunut kirkon wapaasti käytettäwäksi.</p>
           <SubDivider className="dividerStyle" />
-          <h4>W. 1770 Luopioisissa.</h4>
+          <h5>W. 1770 Luopioisissa.</h5>
           <p className="firstLetterStyle">Esitettiin, että koska Kunink. asetuksen mukaan ei enää ole lupa haudata ruumiita kirkkoon muuten kuin holwattuihin hautoihin, niin mihin toimenpiteisiin olisi ryhdyttäwä, että saataisiin korwatuksi 
             se tappio, mikä tästä huomattawien tulojen menettämisestä johtuu kirkolle, ja ehdotettiin, että koska hautaaminen holwattuihin hautoihin on sallittua, kun näin menetellen, jos haudat kunnollisesti tehdään, ei tuoteta huomattawampaa 
             haittaa eikä wahinkoa terweydelle, kirkko rakennuttaisi muutamia sellaisia, ja huolehtisi niistä määrättyä korwausta wastaan käytettäwiksi, ja päätettiin, että tämä ehdotus, koska se näytti korwaawan kirkolle muuten tulewan 
             wahingon, toteuttaa ainakin siinä määrin, että yksi hywin holwattu hauta rakennetaan kirkon waroilla ja luowutetaan se korwausta wastaan niiden käytettäwäksi, jotka sitä haluawat.</p>
           <SubDivider className="dividerStyle" />
-          <h4>Haudoista kirkolle tulewan korwauksen suuruus selwiää seuraawasta pöytäkirjasta:</h4>
-          <h4>W. 1739.</h4>
+          <h5>Haudoista kirkolle tulewan korwauksen suuruus selwiää seuraawasta pöytäkirjasta:</h5>
+          <h5>W. 1739.</h5>
           <p className="firstLetterStyle">Kirkon isännöitsijä, herra wänrikki Krämer ilmoitti, että hänellä ja aliluutnantti Otto Christoffer Schulmannilla oli aikomus lunastaa itselleen hautapaikka kirkossa herraswäen penkkien alla miesten 
             puolella, jonka hän mainitun luutnantin kanssa aikoi kaiwattaa ja muurauttaa, pyytäen, että seurakunta tähän suostuisi ja samalla määräisi, miten suuri korwaus heidän olisi tästä hautapaikasta kirkolle suoritettawa? Tähän wastattiin, 
             että näin kohtuulliseen pyyntöön ei woitu eikä tahdottukaan wastata kielteisesti, mutta tästä suoritettawan korwauksen suuruutta ei kansa sanonut osaawansa määrätä, waan jätti sen puolen asiassa puheenjohtajan harkinnan waraan. 
