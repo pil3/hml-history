@@ -89,6 +89,10 @@ import img80 from "../images/content/hasa1924/img-80.jpg"
 import img81 from "../images/content/hasa1924/img-81.jpg"
 import img82 from "../images/content/hasa1924/img-82.jpg"
 import img83 from "../images/content/hasa1924/img-83.jpg"
+import img84 from "../images/content/hasa1924/img-84.jpg"
+import img85 from "../images/content/hasa1924/img-85.jpg"
+import img86 from "../images/content/hasa1924/img-86.jpg"
+import img87 from "../images/content/hasa1924/img-87.jpg"
 
 const Ilmoituksia1924Page = () => {
   return (
@@ -148,13 +152,13 @@ const Ilmoituksia1924Page = () => {
           <Image className="columnImgStyle" src={img49} alt="Kuva 49"/>
           <Image className="columnImgStyle" src={img50} alt="Kuva 50"/>
           <Image className="columnImgStyle" src={img51} alt="Kuva 51"/>
-        </div>
-        <div className="columnStyle">
           <Image className="columnImgStyle" src={img52} alt="Kuva 52"/>
           <Image className="columnImgStyle" src={img53} alt="Kuva 53"/>
           <Image className="columnImgStyle" src={img54} alt="Kuva 54"/>
           <Image className="columnImgStyle" src={img55} alt="Kuva 55"/>
           <Image className="columnImgStyle" src={img56} alt="Kuva 56"/>
+        </div>
+        <div className="columnStyle">
           <Image className="columnImgStyle" src={img57} alt="Kuva 57"/>
           <Image className="columnImgStyle" src={img58} alt="Kuva 58"/>
           <Image className="columnImgStyle" src={img59} alt="Kuva 59"/>
@@ -182,6 +186,10 @@ const Ilmoituksia1924Page = () => {
           <Image className="columnImgStyle" src={img81} alt="Kuva 81"/>
           <Image className="columnImgStyle" src={img82} alt="Kuva 82"/>
           <Image className="columnImgStyle" src={img83} alt="Kuva 83"/>
+          <Image className="columnImgStyle" src={img84} alt="Kuva 84"/>
+          <Image className="columnImgStyle" src={img85} alt="Kuva 85"/>
+          <Image className="columnImgStyle" src={img86} alt="Kuva 86"/>
+          <Image className="columnImgStyle" src={img87} alt="Kuva 87"/>
         </div>
       </div>
     </Layout>

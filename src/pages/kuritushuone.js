@@ -9,7 +9,7 @@ import Divider from "../assets/divider.svg"
 
 const JailRulesPage = () => {
   return (
-    <Layout titleText="Järjestyssääntöjä wangeille Hämeenlinnan kuritushuoneessa">
+    <Layout titleText="Hämeenlinnan kuritushuoneen järjestyssäännöt">
       <div className="flexWrapper">
         <Image className="centeredImageStyle" src={imgFrontPage} alt="Matkailuoppaan etusivu"/>
       </div>
@@ -173,6 +173,6 @@ const JailRulesPage = () => {
     </Layout>
   )
 }
-export const Head = () => <title>Entinen Hämeenlinna - Vankien järjestyssäännöt</title> // metadata
+export const Head = () => <title>Entinen Hämeenlinna - Kuritushuoneen järjestyssäännöt</title> // metadata
 
 export default JailRulesPage

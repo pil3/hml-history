@@ -54,6 +54,14 @@ const Header = () => {
             </NavDropdown>
 
             <NavDropdownMenu title="Lehdistä" id="collasible-nav-dropdown">
+            <DropdownSubmenu title="1914">
+                <NavDropdown.Item>
+                  <Link to="/artikkeleita1914" className="nav-link" activeClassName="active">Artikkeleita</Link> 
+                </NavDropdown.Item>
+                <NavDropdown.Item>
+                  <Link to="/rikoksia1914" className="nav-link" activeClassName="active">Rikoksia</Link> 
+                </NavDropdown.Item>
+              </DropdownSubmenu>
               <DropdownSubmenu title="1924">
                 <NavDropdown.Item>
                   <Link to="/lukijoilta1924" className="nav-link" activeClassName="active">Yleisönosasto</Link> 
@@ -64,16 +72,8 @@ const Header = () => {
                 <NavDropdown.Item>
                   <Link to="/ilmoituksia-1924" className="nav-link" activeClassName="active">Ilmoituksia</Link> 
                 </NavDropdown.Item>
-                <NavDropdown.Item>
-                  <Link to="/hasa1924" className="nav-link" activeClassName="active">Artikkeleita 15.10</Link> 
-                </NavDropdown.Item>
               </DropdownSubmenu>
-              <NavDropdown.Item>
-                <Link to="/sanomalehti" className="nav-link" activeClassName="active">Sanomalehtiä</Link> 
-              </NavDropdown.Item>
-              <NavDropdown.Item>
-                <Link to="/mainoksia" className="nav-link" activeClassName="active">Mainoksia</Link> 
-              </NavDropdown.Item>
+
             </NavDropdownMenu >
 
             <NavDropdown title="Kuvia" id="collasible-nav-dropdown">
@@ -109,6 +109,9 @@ const Header = () => {
               </NavDropdown.Item>
               <NavDropdown.Item>
                 <Link to="/puhelinluettelo-1926" className="nav-link" activeClassName="active">Puhelinluettelo - 1926</Link> 
+              </NavDropdown.Item>
+              <NavDropdown.Item>
+                <Link to="/mainoksia" className="nav-link" activeClassName="active">Mainoksia</Link> 
               </NavDropdown.Item>
             </NavDropdown>
             

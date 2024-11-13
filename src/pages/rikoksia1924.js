@@ -13,7 +13,7 @@ import SubDivider from "../assets/sub-divider.svg"
 const Crimes1924Page = () => {
   return (
     <Layout titleText="Hämeen Sanomat, 1924">
-      <h2>Rikoksia Hämeenlinnasta ja lähiseudulta</h2>
+      <h2>Rikollista toimintaa Hämeenlinnassa ja lähiseuduilla</h2>
       
       <Divider className="dividerStyle" />
       <h3>Torstai, 3.1.1924</h3>
@@ -148,7 +148,7 @@ const Crimes1924Page = () => {
       <Article titleText="Warkauksia Riihimäellä.">
         <h5>Matkustajalta wiety matkalaukku tawaroineen.</h5>
         <p>Eilistä wastaan yöllä Helsingistä Rajajoelle matkalla olewan junan seisoessa Riihimäen asemalla warastettiin toisen luokan matkustajawaunusta Wiipurin pitäjästä kotoisin olewan tilallisen pojan Mauri Lagerstamin matkakalaukku 
-          ja naulasta harmaa pomppatakki, tawaroiden omistajan ollessa asemarawintolassa. Laukussa oli miehen puku, aluswaatteita ja laukkuja. Yhteensä nousee warastetun tawaran arwo 3,000 mk:aan. Varkaasta ei ole tietoa.</p>
+          ja naulasta harmaa pomppatakki, tawaroiden omistajan ollessa asemarawintolassa. Laukussa oli miehen puku, aluswaatteita ja laukkuja. Yhteensä nousee warastetun tawaran arwo 3,000 mk:aan. Warkaasta ei ole tietoa.</p>
         <h5>Nukkuwalta warastettu päällystakki ja lompakko.</h5>
         <p>Toissa iltana oli kauppias J. E. Anttila, kotoisin Wehkalahdelta, Riihimäen asemalla tawannut erään nuoren miehen, joka ryhtyi hänen kanssaan puheisiin ja Riihimäkeä tuntewana tarjoutui etsimään matkustajakotia, minne Anttila 
           woisi yöpyä. Kun yöhetki oli kuitenkin myöhäinen, wei maimittu mies Anttilan erääseen kauppakadun warrella olewaan saunaan, minkä pukuhuoneeseen he sitten jäiwät nukkumaan. Kun kauppias aamulla heräsi, huomasi hän miehen 
@@ -675,7 +675,7 @@ const Crimes1924Page = () => {
         <p>Eilen toimitetuissa kuulusteluissa on Nurminen kertonut mm. seuraawaa:</p>
         <p>Klo 9 aikan sanottuna iltana oli kapitulanttikersantti Ahonen tullut Nurmisen asuntoon, pyytäen saada jäädä yöksi eikä suostunut monista kehotuksista huolimatta poistumaan. N. oli wihdoin tähän suostunut. Kun asunnossa 
           olijat Ahonen, Nurminen sekä tämän waimo ja 10-wuotias tytär oliwat menneet nukkumaan, syntyi ½11 tienoissa jo wuoteessa olewien miesten kesken jostakin syystä riita, jolloin Ahonen oli noussut ylös tullen Nurmisen wuoteen 
-          wiereen sekä kehuttuaan olewansa „Vaasasta kotoisin eikä mitään pelkääwänsä” tarttunut Nurmista kurkkuun. Nurmisen waimo, joka nukkui miehensä kanssa samassa wuoteessa oli tällöin lähtenyt asunnosta pakoon. Miesten jonkun 
+          wiereen sekä kehuttuaan olewansa „Waasasta kotoisin eikä mitään pelkääwänsä” tarttunut Nurmista kurkkuun. Nurmisen waimo, joka nukkui miehensä kanssa samassa wuoteessa oli tällöin lähtenyt asunnosta pakoon. Miesten jonkun 
           aikaa wuoteessa kahakoitua, otti Ahonen pöydälle asettamansa rewolwerin ojentaen sen Nurmista kohti. Nurminen tarttui aseeseen molemmin käsin, jolloin se laukesi ja kuula tunkeutui, haawottaen ensin Nurmista wasemman käden 
           keskisormeen, Ahosen wasempaan kylkeen. Nurminen kieltää sanottuna aikana olleensa juowuksissa sekä ettei hänellä myöskään ole Ahosen kanssa ollut mitään wihaa luullen tämän, joka oli juowuksissa jonkun oikun tähden hyökänneen 
           hänen kimppuunsa.</p>
@@ -789,6 +789,457 @@ const Crimes1924Page = () => {
           juowuksissa. Helin, joka kuulusteluja warten on toistaiseksi pidätetty, suoritti wiime talwena autonohjaajakurssin ja on toiminut täällä autonkuljettajana kuluneen kewään aikana.</p>
         <p>Tapaturmassa surmansa saanut Karjalainen oli perheellinen mies ja iältään n. 45 wuoden ikäinen.</p>
       </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Tiistai, 3.6.1924</h3>
+      <Article titleText="Hämeenlinnassa pidätetty wekselinwäärentäjä.">
+        <h5>Tunnustanut tekonsa.</h5>
+        <p>Kuten olemme kertonneet, pidättiwät Hämeenlinnan poliisiwiranomaiset täällä joku aika sitten erään entisen kauppiaan epäiltynä wekseli- ja kassakreditiiwilainan nimikirjoituksien wäärentämisestä. Pidätetty, joka on nimeltään 
+          Wihtori Teeri, on nyttemmin tunnustanut wäärentäneensä nimet aikaisemmin mainittuihin kahteen paperiin, joilla sitten on Tampereen Osake-Pankista nostanut 23,000 mk.</p>
+        <p>Teeri passitettiin eilen lääninwankilaan ja tulee juttu häntä wastaan esille piakoin täkäl. raastuwanoikeudessa.</p>
+      </Article>
+      <Article titleText="Miesmurha Leppäkoskella.">
+        <h5>Mies ammuttu lähellä Leppäkosken asemaa.</h5>
+        <p>Wiime maanantain wastaisena yönä tapahtui Leppäkoskella n. 1½ km. Leppäkosken asemalta Ryttylään päin radan warrella murha, jonka uhriksi joutui työmies J. Stolt. Palattaessa Rauhaniemen Pirtillä pidetystä iltamasta syntyi 
+          tiellä pientä kinastelua mainitun Stoltin ja työm. T. Niinimäen wälillä, joka päättyi siten, että Niinimäki weti esiin rewolwerinsa ja ampui sillä Stoltia sillä seurauksella, että luoti, joka osui rintaan, lopetti 
+          silmänräpäyksessä Stoltin elämän.</p>
+        <p>Sekä murhattu että murhaaja oliwat kumpikin naimattomia nuoria miehiä ja oli murhattu, mikäli meille on ilmoitettu, jonkun werran juowuksissa, jotawastoin murhaaja oli aiwan selwä.</p>
+        <p>Murhaaja on pidätetty. Murhan syytä ei woida sanoa kun tutkimukset owat wielä kesken.</p>
+      </Article>
+      <Article titleText="Jälleen epäilyttäwä „seikkailijatar” liikkeellä.">
+        <p>Wiime lauantaina saapui Rengon majataloon hywin puettu nainen ilmoittaen tulleensa Lopelta wieraisilta ja majataloon jäämisensä syyksi autosta myöhästymisen sekä aikowansa jatkaa matkaansa sunnuntaina. Kun auto ei kuitenkaan 
+          sunnuntaisin kulje, jäi nainen majataloon sitä maanantaihin odottamaan. Sunnuntai-iltana nainen lähti käwelemään ilmoittaen aikowansa käydä hautausmaalla, mutta jäikin sille tielle. Samalla huomattiin majatalosta kadonneen rahaa, 
+          pukukankaita y.m. Nainen oli pitkähkö, tummatukkainen, puettu tummaan käwelypukuun ja tummaan hattuun, josta riippui kaksi nauhaa.</p>
+      </Article>
+      <Article titleText="Wanajan y. m. pitäjäin">
+        <h5>wälikäräjillä</h5>
+        <p>Hämeenlinnassa eilen tuomittiin Saima Aaltonen, joka oli warastanut kellon perineen 2-kertaisesta warkaudesta 9 kuukaudeksi kuritushuoneeseen. Kun Aaltonen aikaisemmin on tuomittu warkaudesta Helsingissä 10 kk. ja Hämeenlinnassa 
+          samoin 10 kk. wankeuteen, tuomittiin hänet pidettäwäksi kuritushuoneessa yhteensä 1 w. 10 kk. sekä olemaan 5 wuotta ilman kansalaisluottamusta.</p>
+        <p>Työm. F. A. Heinänen, joka wiime maaliskuun 2 pnä oli Ahlbackan lähellä maantiellä puukottanut kahta henkilöä, tuomittiin toisesta pahoinpitelystä 1 wuodeksi ja toisesta 1 wuodeksi 2 kk. wankeuteen sekä juopumuksesta 200 mk. 
+          sakkoon. Lisäksi tuomittiin hänet maksamaan pahoinpitelemilleen henkilöille kuluja, lääkärinpalkkioita y.m. yht. 4,420 mk.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Keskiviikko, 4.6.1924</h3>
+      <Article titleText="Leppäkoskella tapahtunut miesmurha.">
+        <h5>Poliisitutkinta toimitettu.</h5>
+        <p>Niinkuin eilen kerroimme, ampui Leppäkoskella wiime maanantain wastaisena yönä talollisenpoika T. Niinimäki työmies J. Stoltia rewolwerilla rintaan, niin että haawoitettu paikalla heitti henkensä.</p>
+        <p>Asian johdosta pidetyssä poliisitutkinnossa on käynyt ilmi seuraawaa, josta lähemmin selwiää tapahtuman kulku:</p>
+        <p>Kun mainittuna yönä muutamia Uhkoilan kylän nuoria oli palaamassa Leppäkosken Pirtillä pidetystä nuorisoseura Silmun iltamasta, oli työm. J. Stolt yrittänyt lyöttäytyä talollisenpoika T. Niinimäen sisaren seuraan tämän 
+          koettaessa tungettelijaa kartella. Jonkun ajan kuluttua oli T. Niinimäki pyytänyt, että Stolt lähtisi pois ja antaisi ihmisten kulkea rauhassa. Stolt olikin noudattanut kehoitusta ja lähtenyt pois, mutta kääntyi pian takaisin 
+          yhdessä weljensä kanssa juosten Uhkoilan nuorten perässä. Kun wiimeksimainitut Stoltin weljesten huudoista oliwat hawainneet, että kysymyksessä oli takaa-ajo, huusi T. Niinimäki, kun J. Stolt oli tullut n. 10 metrin päähän: 
+          „Pysähdy, ei sinulla ole täällä mitään asiaa.” J. Stolt ei kuitenkaan totellut kehoitusta, waan läheni lähenemistään, jolloin T. Niinimäki uudisti kehoituksensa. Tällöin tempasi J. Stolt rewolwerin ja ampui, mutta samalla weti 
+          T. Niinimäkikin aseen taskustaan ja laukasi kohti J. Stoltia sillä seurauksella, että luoti läwisti rinnan ja haawoittunut tuupertui kuoliaana maantielle. Stoltin kaatuessa laukesi hänen rewolwerinsa wielä kerran nähtäwästi 
+          tärähdyksen waikutuksesta.</p>
+        <p>Niinkuin jo eilen mainitsimme, oli ammuttu juowuksissa, mutta ampuja sitäwastoin aiwan selwä. Kumpikin oliwat nuoria naimattomia miehiä. Stolt syntynyt 1900 ja Niinimäki 1899.</p>
+        <p>Niinimäki, joka on tunnettu siiwoksi nuorukaiseksi, on pidätetty tutkintoa warten ja tulee asia käsiteltäwäksi wälikäräjillä t.k. 18 pnä.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Lauantai, 7.6.1924</h3>
+      <Article titleText="Pirtutakawarikko Forssassa.">
+        <h5>Helsinkiläinen ompelijatar kauppamatkalla.</h5>
+        <p>Wiime lauantai-illalla oli Forssaan saapunut Helsingistä ompelijatar Anna Hillenberg tarkoituksenaan harjoittaa paikkakunnalla pientä pirtukauppaa. Poliisiwiranomaiset saiwat kuitenkin wihiä asiasta ja ryhtyiwät ottamaan 
+          siitä selwää. Toissa iltana toimitettiin Raikonmäessä asuwan, ennestäänkin tämänkaltaisten asiain yhteydessä huomatuksi tulleen Amanda Ranssilan luona kotitarkastus. Tällöin hawaittiin, että mainittu Hillenberg piti täällä 
+          asuntoa sekä että nämä henkilöt joko oliwat ennättäneet myymään jonkun määrän pirtua taikka oliwat he piilottaneet sen. Hillenbergillä oli kuitenkin asemalla wielä eräs faneerilaatikko, joka joutui poliisiwiranomaisten käsiin. 
+          Tässä laatikossa oli 15 litraa pirtua. Mainittakoon tämän yhteydessä, että Amanda Ranssila aiwan hiljattain saapui kotipaikkakunnalleen Hämeenlinnasta, jossa hän lääninwankilassa oli ollut suorittamassa 5 kuukauden 
+          wankeusrangaistusta pirtukaupasta.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Torstai, 12.6.1924</h3>
+      <Article titleText="Werityö Hattulassa.">
+        <h5>Mies pistetty tikarilla kuoliaaksi.</h5>
+        <p>Helluntain aattona tapahtui Hattulassa Nihattulan kylässä miesmurha, jonka uhriksi joutui maalari Frans Halminen Porista. Sanottuna iltana klo ½11 ajoissa oli Halminen, joka oli wahwasti humalassa, käwellyt 3 sotamiehen kanssa 
+          Nihattulan maantietä pitkin eikä heidän wälillään näyttänyt olewan mitään riitaa. Wähän ajan kuluttua kuitenkin tawattiin Halminen werissään maantiellä Kupilan talon kohdalla sywä tikarin haawa rinnassa. Haawoittunut tuotiin 
+          heti Hämeenlinnan lääninsairaalaan, jossa hän sunnuntaiaamuna klo 4 ajoissa kuoli.</p>
+        <p>Iältään oli wainaja 30 wuoden waiheilla ja naimaton.</p>
+        <p>Kun toimitettawat tutkimukset owat wielä kesken, ei tapahtumasta anneta lähempiä tietoja.</p>
+      </Article>
+      <Article titleText="Surullisesti päättynyt helluntaimellakka Lammilla.">
+        <h5>Yksi mies saanut surmansa, toinen haawoittunut.</h5>
+        <p>Helluntaiaattoiltana sattui Lammilla ikäwä tapaus, josta oli seurauksena, että yksi mies menetti henkensä ja toinen sai haawan päähänsä.</p>
+        <p>Toimitetun poliisikuulustelun mukaan oli tapahtuman kulku seuraawa:</p>
+        <p>Mainittuna iltana saapui Lammin kirkonkylään Hämeenlinnasta auto, jossa oli 3 miestä ja 2 naista, joukossa weljekset Arwid ja Niilo Salminen, jotka kumpikin oliwat juowuksissa. Kirkolla nousiwat Salmisen weljekset autosta 
+          sukulaisensa seppä Lehtosen asunnon kohdalla ja meniwät Lehtosen asuntoon. Weljekset, joilla oli wanhaa wihaa Lehtosta kohtaan, ryhtyiwät ensin ahdistelemaan Lehtosen waimoa ja sitten Lehtosta itseään, sillä seurauksella, että 
+          Lehtosen wäki lähti pakoon, minkä jälkeen Salmisen weljekset rikkoiwat Lehtosen asunnon kaikki ikkunat sekä erilaista irtainta omaisuutta, jatkaen sitten autolla matkaansa.</p>
+        <p>Wiranomaiset lähtiwät heti ajamaan heitä autolla takaa, mutta kun eiwät saawuttaneet pakolaisia, palasiwat takaisin Lammin kirkolle. Saatuaan täällä kuulla, että toinen weljeksistä Niilo Salminen oli nähty kirkolla, lähtiwät he 
+          autolla hänen perässään saawuttaenkin Salmisen maantiellä n. 200 m. etäisyydellä kirkosta. Wiranomaisten auton äkkiä pysähtyessä Salmisen kohdalle lensi auton takaosassa istunut poliisikonstaapeli Wirtanen seisomaan noustessaan 
+          auton etuistuimen selkänojaa wastaan, sillä seurauksella, että hänen kädessään ollut rewolweri laukesi ja luoti osui Salmisen päähän. Saatuaan ensi awun Lammin kunnanlääkäriltä lähdettiin haawoittunutta kulettamaan Hämeenlinnan 
+          lääninsairaalaan, mutta matkalla tänne hän heitti henkensä.</p>
+        <p>Myöskin toinen Salmisen weljeksistä haawoittui. Lehtosen asunnossa mellakoidessaan löi nimittäin Lehtonen häntä jakoawaimella päähän, mutta haawa ei ole mikään waarallinen.</p>
+        <p>Salmisen weljekset owat joutomiehiä ja ainakin A. Salmista on useat kerrat rangaistu wiinarikoksista.</p>
+        <p>Milloin asia tulee oikeuden käsiteltäwäksi, siitä ei ole wielä tietoa.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Perjantai, 13.6.1924</h3>
+      <Article titleText="Suuri rahawarkaus Hauholla.">
+        <h5>Poliisi pidätetty epäluulonalaisena warkauteen.</h5>
+        <p>Helatorstaina tapahtui Hauholla suuri rahawarkaus, johon syyllisenä epäiltynä on pidätetty Witsiälän kylässä asuwa poliisikonstaapeli Toiwonen. Asia olisi tapahtunut siten, että mainitun päiwän iltana oliwat tilanomistaja 
+          Ilmari Laurila Hywämäestä ja mainittu Toiwonen tulleet Wäinölän kylästä iltamasta ja tällä tiellä oli Laurilalta kadonnut lompakko, jossa oli ollut rahaa 36,000 markkaa. Asiaa ryhdyttiin tutkimaan, mutta ei saatu siihen 
+          selwyyttä, ennenkuin wasta sitte, kun lompakko löydettiin Laurilan eräästä huoneesta sängyn alta, johon se siis oli tuotu. Kun huoneessa ei pitänyt käydä muita wieraita henkilöitä kuin poliisi Toiwonen, kohdistuiwat epäilyt 
+          häneen ja Toiwonesta tutkittua ilmeni seikkoja, joiden perusteella hänet pidätettiin. Juttu tullenee käsiteltäwäksi kesäk. 17 pnä pidettäwillä wälikärijillä. </p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Lauantai, 14.6.1924</h3>
+      <Article titleText="Hurja mustalaisnainen.">
+        <h5>Iskenyt miehen puukolla henkitoreisiin.</h5>
+        <p>Toissailtana tapahtui Pullerinmäen ja Hattulan wälisellä maantiellä werityö, joka woi waatia uhrikseen ihmishengen.</p>
+        <p>Hämeenlinnan markkinoita warten oli mainittuna päiwänä Rinkelinmäelle ja sen lähitienoille kerääntynyt harwinaisen paljon mustalaisia. Klo 8 aikaan illalla oli Rinkelinmäeltä lähtenyt Hattulaan päin ajamaan mustalaiskuorma, 
+          jossa oli 2 miestä ja 3 naista. Näistä oliwat kaikki muut paitsi toinen miehistä wahwasti humalassa. Heti mustalaiskuorman lähdettyä matkaan lähti Helmisen talosta sen perässä juoksemaan Nihattulassa asuwa maalari Kustaa 
+          Tamminen aikomuksessa päästä mustalaisten rattailla kotiinsa. Hänkin oli wahwasti juowuksissa. Waikka mustalaiset eiwät päästäneet Tammista rattaille, seurasi hän heitä kumminkin, kunnes Wiisarin ja Nihattulan wälillä sai 
+          mustalaisen puukosta ammottawan haawan rintaansa. Mustalaiset saatiin pian pidätetyiksi ja haawoittunut tuotiin lääninsairaalaan, jossa häntä edelleen hoidetaan. Täällä todettiin, että hänen rinnassaan oikealla puolella on 
+          3 sm. pituinen keuhkoihin ulottuwa, hengenwaarallinen haawa.</p>
+        <p>Tamminen on 30-wuotias, naimisissa ja usean lapsen isä.</p>
+        <p>Pidätettyjen mustalaisten kuulustelu alotettiin heti, mutta tarkkaa selkoa tapahtumasta on waikea saada, kun kukin mustalaisista tahtoo puhua wain omaan pussiinsa. Puukotuksen tekijä on kumminkin jo tiedossa ja on hän 
+          itsekin tunnustanut tekonsa. Hän on 27-wuotias mustalaisnainen Hilja Nyman, kotoisin Kouwolasta. Hän on kertonut, että Tamminen oli ensin wetänyt esiin puukkonsa. Peläten, että Tamminen käyttäisi puukkoaan, oli Hilja Nyman 
+          temmannut puukkonsa ja iskenyt sillä Tammista rintaan edelläkerrotulla seurauksella.</p>
+        <p>Kuinka paljon tämä Nymanin kertomus pitää paikkansa ja kuinka kaikki oikeastaan tapahtui, sen selwittänewät tutkimukset, joita edelleenkin jatketaan.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Tiistai, 17.6.1924</h3>
+      <Article titleText="Hattulan maantiellä tapahtunut puukotus.">
+        <h5>Puukottaja tunnustanut.</h5>
+        <p>Pullerinmäen ja Hattulan wälisellä maantiellä tapahtuneeseen puukotukseen, jonka uhriksi joutui Nihattulasta kotoisin olewa maalari Kustaa Tamminen, on jatkuwien kuulustelujen perusteella nyttemmin selwitetty, että 
+          mustalaisnainen Hilja Nyman on tunnustanut syyllisyytensä. Puukottaja on passitettu Hämeenlinnan lääninwankilaan. Tamminen on edelleen heikkona sairaana. Muita mustalaisia kuulustellaan wielä tänään.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Keskiviikko, 18.6.1924</h3>
+      <Article titleText="Katala murhayritys Padasjoella.">
+        <h5>Eläkemies yritetty murhata strykniinillä.</h5>
+        <p>Katala murhayritys tehtiin w.k. 24 pnä eläkemies Konstantin Långia wastaan Heikkilän torpassa Wirmailassa. Lång, joka poikansa kanssa asuu mainitussa torpassa omassa huoneessaan, oli työstä tultuaan keittänyt kahwia ja 
+          nauttinut sitä, sen kowin karwaasta mausta huolimatta, noin puoli kupillista, ja heti sen jälkeen saanut ankaria kouristuksia ja ylenannatuksia sekä kaatunut pitkäkseen lattialle. Paikalle kiireesti kutsutettu kunnanlääkäri 
+          epäili heti kysymyksessä olewan strykniini-myrkytyksen ja wastamyrkkyä saatuaan alkoi sairas wähitellen toipua. Lääkintöhallituksessa tehdyn analyysin mukaan sisälsi 25 gr. tätä kahwia siksi paljon strykniiniä, että se jo 
+          lähenteli kuolettawaa annosta.</p>
+        <p>Kuka tämä murhayrityksen on tehnyt, ei ole wielä paikallisten wiranomaisten tutkimuksista käynyt selwille.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Torstai, 19.6.1924</h3>
+      <Article titleText="Leppäkoskella tapahtunut miesmurha.">
+        <h5>Niinimäki wapautettu.</h5>
+        <p>Kuten muistettanee, tapahtui Leppäkoskella t.k. 2 p. miesmurha, jolloin talollisenpoika T. Niinimäki ampui työmies J. Stoltia rintaan, niin että tämä kuoli heti. J. Stolt oli nimittäin ryhtynyt ahdistelemaan J. Niinimäen 
+          sisarta, joka weljensä kanssa oli palaamassa Leppäkosken Pirtillä pidetystä iltamasta, ja oli kyllä Niinimäen waroituksen johdosta ensin lähtenyt omille teilleen, mutta oli jonkun ajan kuluttua palannut weljensä kanssa ja 
+          huolimatta N:n waroituksesta ja aseesta hyökännyt N:n ja tämän sisaren kimppuun kuitenkaan ehtimättä 4 askelta lähemmäs, ennenkuin N:n ampuman luodin kuolettawasti haawoittamana kaatui maahan heittäen miltei heti henkensä. 
+          Niinimäki pidätettiin ja oli asia eilen esillä Wanajan ym. muitten kuntain wälikäräjillä. Toimitetuissa tutkinnoissa tuli oikeus seuraawaan päätökseen:</p>
+        <p>Kihlakunnan oikeus katsoi selwitetyksi, että Toiwo Niinimäki oli tehnyt enemmän wäkiwaltaa, kuin hyökkäyksen torjumiseksi olisi ollut tarpeen, mutta katsoen pakoittawaan waaraan ei oikeus katsonut woiwansa tuomita Niinimäkeä 
+          tästä rangaistukseen. Kuitenkin määrättiin hänet suorittamaan hautauskuluja Stoltiin äidille 800 mk. sekä korwaamaan todistajapalwelut 120 mk. ja ruumiinawauskustannukset 298 mk. Niinimäki laskettiin wapaalle jalalle ja päätös 
+          alistettiin howioikeuden tarkastettawaksi.</p>
+        <p>Wastaaja Niinimäen awustajana oikeudessa toimi warat. Yrjö Kiwikari.</p>
+      </Article>
+      <Article titleText="Kapinanaikuiset joukkomurhat.">
+        <h5>Hauholainen Pulkki tuomittu Turun howioikeudessa 12 w. kuritushuoneeseen.</h5>
+        <p>Aikoinaan syytettiin Sääksmäen ja Kalwolan pitäjien ynnä Walkeakosken kauppalan kihlakunnanoikeudessa Hauhon pitäjän Tuittulan kylästä kotoisin olewaa talollista Juho Wihtori Edwardinpoika Pulkkia siitä, että hän oli huhtik. 
+          20 pnä 1918 kuljettaessaan yhdessä muiden kanssa kapinallisten wangitsemia kansalaisia murhannut toisten kanssa yhdessä 19 henkilöä sekä lisäksi ottanut osaa näiden ryöstämiseen. Kihlakunnanoikeus tuomitsi Pulkin osallisuudesta 
+          waltiopetokseen sekä sen kanssa yhteydessä olewista murhista elinkautiseen kuritushuonewankeuteen sekä suorittamaan erinäisiä korwauksia.</p>
+        <p>Tämä kihlakunnanoikeuden päätös alistettiin Turun howioikeuden tutkittawaksi. Howioikeus kumosi kihlakunnanoikeuden päätöksen, koska O. K. 8 Luw. 2 § mukaan ensimäinen oikeusaste waltiopetosjutuissa on howioikeus.</p>
+        <p>Juttua howioikeudessa käsiteltäessä tuli Pulkin syyllisyys täydellisesti toteen näytetyksi, jonka wuoksi howioikeus, ottaen huomioon kapinarikollisista annetut armahdusasetukset, harkitsi oikeaksi tuomita wastaajan 
+          kuritushuoneeseen 12 wuodeksi. Tästä rangaistuksesta wähennettiin kuitenkin kaksi kuukautta, koska Pulkki on ilman omaa syytään ollut kauan tutkintowankeudessa.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Perjantai, 20.6.1924</h3>
+      <Article titleText="Lopen y.m. pitäjäin wälikäräjillä">
+        <h5>eilen käsiteltiin m.m. seuraawat asiat:</h5>
+        <p>Kuten muistettaneen, tapahtui Lopen pitäjän Salon kylässä ensimäisenä pääsiäispäiwänä werityö, jonka uhriksi joutui työmies Otto Kanerwa. Eräässä tappelussa iski Hakalan torpan poika Kalle Ahlstedt Kanerwaan 4 puukonhaawaa 
+          joista yksi oli hengenwaarallinen, aina keuhkoihin asti ulottuwa. Juttu oli uudelleen käsiteltäwänä eilen, mutta ei oikeus kuitenkaan katsonut wieläkaan woiwan päätöstä antaa, koska Kanerwaa yhä edelleen hoidetaan 
+          lääninsairaalassa, eikä häntä niin ollen woida asiassa kuulustella. Oikeus lykkäsi jutun seuraawille wälikäräjille.</p>
+        <p>Pienwiljelijää Kalle Einari Kiwisaarta Lopen Sajaniemen kylästä syytettiin siitä, että hän kesäkuun alkupäiwinä oli erääseen welkakirjaan wäärentänyt takaajien nimet ja kun asia oli tullut ilmi oli Kiwisaari tunnustanut 
+          wäärennyksen tehneensä sekä nostaneensa wäärennetyllä welkakirjalla pankista Smk. 6,000:-, mitkä rahat hän oli käyttänyt ostamansa mäkitupa-alueen kauppahinnan suorittamiseen. Oikeus tuomitsi syytetyn 9 kk. 
+          kuritushuonerangaistukseen, ollen tuomio kuitenkin ehdollinen 4 wuoden koeajalla.</p>
+        <p>Palwelijatar Lempi Elwiira Heinonen tuomittiin sikiönsä surmaamisesta 6 kk. wankeuteen.</p>
+        <p>Spriin myynnistä tuomittiin eräs henkilö 1,875 mk. sakkoon.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Lauantai, 21.6.1924</h3>
+      <Article titleText="Hauholla tapahtunut rahawarkaus.">
+        <h5>Poliisi tuomittu 8 kuukauden ehdolliseen wankeusrangaistukseen.</h5>
+        <p>Kuten aikaisemmin kerroimme, pidätettiin Hauholla poliisikonstaapeli Toiwonen epäiltynä noin 36,000 markan rahawarkauteen syylliseksi. Mainittu summa oli kadonnut helatorstaina tilanomistaja Ilmari Laurilalta matkalla 
+          Wäinölän kylästä iltamasta ja jolloin Toiwonen oli ollut hänen mukanaan. Rahat löydettiin kuitenkin myöhemmin Laurilan erään sängyn alta, jonne ne oli kaikesta päättäen asian selwilletuloa peläten jätetty.</p>
+        <p>Asia oli esillä tiistaina Hauhon y.m. pitäjien wälikäräjillä. Wastaaja Toiwonen kielsi syyllisyytensä, mutta todistukset häntä wastaan oliwat siksi raskauttawat, että oikeus tuomitsi wastaajan warkaudesta 8 kk. wankeuteen, 
+          joka kuitenkin muutettiin 4 wuoden ehdonalaiseksi. Samalla tuomittiin Toiwonen menettämään wirkansa. Wastaaja määrättiin laskettawaksi wapaalle jalalle.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Torstai, 23.6.1924</h3>
+      <Article titleText="Urjalan ryöstömurhaajan loppu.">
+        <p>T.k. 17 pnä oli Sodankylän välikäräjillä jälleen esillä tunnettu Mannelinin murhajuttu, jonka johdosta owat olleet syytettyinä talollisenpojat Antti Teräs ja Aleksi Alariesto eli Ollila. Niinkuin aikaisemmin on kerrottu, 
+          löydettiin äskettäin Mannelinin ruumis Sodankylästä läheltä Wenäjän rajaa. Jutun käsittelyssä teki Alariesto täyden tunnustuksen. Murhan on suorittanut Teräs ampumalla Mannelinia eräällä yöpymäpaikalla haulikolla päähän. 
+          Yhdessä oliwat sitten miehet ryöstäneet hänen rahansa, joita oli ainoastaan toista tuhatta markkaa. Teräs ja Alariesto oliwat otaksuneet M:llä olewan rahaa enemmän, sillä tämä oli aina kehunut rahojaan. Rahaa hänellä oli 
+          paitsi mitä edellä sanottiin 20,000 Saksan markkaa. Juttu lykättiin wielä seuraawille wälikäräjille.</p>
+        <p>Murhattu Karl Einar Mannelin oli syntyisin Urjalasta, missä hän taannoin oli suorittanut kaksoisryöstömurhan. Sodankylässä on hän piileskellyt toista wuotta, kunnes wiime joulukuulla, jolloin hänet piti wangittaman, Mannelin 
+          yritti paeta Wenäjälle, pakoittaen Teräksen ja Alarieston Muteman kylästä oppaakseen. Nämä kuitenkin tappoiwat hänet erään kaukaisen kiweliön piilopirtillä, jossa siis päättyi ryöstömurhaajan mainen matka.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Lauantai, 28.6.1924</h3>
+      <Article titleText="Pirtua takawarikoitu Forssassa.">
+        <h5>70 litraa talteen.</h5>
+        <p>Pitemmän aikaa on Forssassa kuulunut puhetta, että lohkotilallinen Jalmari Koiwula Portaan kylässä Tammelassa olisi harjoittanut luwatonta wäkijuomien kauppaa. Asian jouduttua poliisiwiranomaisten tietoon toimitettiin 
+          Koiwulan asunnossa wiime lauantaina tarkastus ja etsintä ja tawattiin asuinrakennuksen winnillä suuri joukko tyhjiä astioita sekä täysinäisiäkin, joissa yhteensä oli 70 litraa pirtua, ja takawarikoitiin nämä kaikki. — 
+          Koiwulaa tullaan syyttämään käräjillä wäkijuomien myynnistä.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Tiistai, 8.7.1924</h3>
+      <Article titleText="Wanki karannut Lopella.">
+        <h5>Saanut puunkappaleella ristikkoikkunan murretuksi.</h5>
+        <p>Kuten w.k. 22 pnä kerroimme, oli juhannusaattona Lopen pitäjän Launosten kylässä takawarikoitu 360 litraa spriitä eräästä autosta, mutta oliwat salakuljettajat päässeet liwistämään. Myöhemmin kuitenkin pidätettiin heistä 
+          toinen, Toiwo Mäkelä, Tammelan Kydön kylästä Helsingissä ja passitettiin Lopelle wanginwartian luo siellä edelleen säilytettäwäksi kuulustelua warten. Wiime lauantain ja sunnuntain wälisenä yönä on pidätetty kuitenkin 
+          saanut jaloissaan olleet jalkaraudat murtumaan ja sen jälkeen onnistunut murtamaan jollakin puukapulalla koppinsa ristikkoikkunaan niin suuren aukon, että siitä tuskin luulisi miehen woiwan päästä läpi. Pidätettyä 
+          säilytettiin wanginwartian luona n.k. päiwystäjähuoneessa, kun ei wielä ollut ilmennyt häntä wastaan mitään erikoisen raskauttawaa. Heti kun pako aamulla huomattiin, aloitettiin takaa-ajo, joka wielä jatkuu. Mäkelan toweri 
+          Rantanen on edelleen karkuteillä. Mäkelän tuntomerkeistä mainittakoon, että hän on lyhyenläntä, hintelä mies. Erikoisena tuntomerkkinä on oikeassa poskessa olewa ammuttu hywin punanen, ruma arpi.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Keskiviikko, 9.7.1924</h3>
+      <Article titleText="Salaperäinen katoaminen Forssassa.">
+        <h5>Mies kadonnut ja löytynyt surmattuna joesta.</h5>
+        <p>Wiime juhannuspäiwäiltana katosi Forssassa herastuomari I. F. Laakson palwelija Toiwo Ratio. Etsiskelyistä huolimatta ei häntä löydetty, ennenkuin t.k. 2 p:nä tukkimiehet löysiwät noin 3 km. Forssasta Loimijoesta Haision 
+          kartanon luona wedessä jokusia päiwiä olleen miehen ruumiin, joka todettiin kadonneeksi Ratioksi. Wainajalla oli wasemman korwan wieressä reikä, josta werta oli walunut waatteille, ruumis oli mustunut. Kello oli seisahtanut 
+          klo ½1. Wainaja oli 22/6 saanut kuukausipalkkansa, ja oli hänellä kotoa lähtiessä ollut rahat lompakossa, mutta löydettäessä oliwat lompakko ja rahat poissa. Epäluulonalaisina on kuulusteluja warten toistaiseksi pidätetty 
+          pari henkilöä. Oikeuslääketieteellinen tutkimus selwittänee kuoleman syyn.</p>
+        <p>Wainaja ijältään 25 wuotta, oli kotoisin Somerolta, jätti jälkeensä waimon ja yhden lapsen. Isäntänsä kertoman mukaan oli wainaja hiljainen, siiwo, kotonapysywäinen ahkera mies.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Torstai, 10.7.1924</h3>
+      <Article titleText="Hattulan y.m. pitäjäin">
+        <h5>wälikäräjillä</h5>
+        <p>eilen käsiteltiin seuraawat asiat:</p>
+        <p>Mustalaisnaista Hilja Nymannia, kotoisin Kouwolasta, syytettiin siitä, että hän kesäk. 12 p:n iltana oli puukolla iskenyt Hattulan pitäjän Nihattulan kylästä kotoisin olewaa maalari Kustaa Tammista oikealle puolen rintaa 
+          keuhkoihin asti ulottuwan, hengenwaarallisen haawan, mainitun Tammisen päihtyneenä yrittäessä wäkisin tunkeutua rattaille, joilla syytetty ja muutamat muut mustalaiset oliwat palaamassa Hämeenlinnan markkinoilta. Juttu 
+          lykkääntyi elok. 8 pnä pidettäwille seuraawille wälikäräjille, koska lääkäri ei wielä woinut antaa lopullista lausuntoa haawoitetun Tammisen tilasta.</p>
+        <p>Syytettiin kers. W. Martikaista, kotoisin Mikkelin kaupungista, kuoleman tuottaneesta pahoinpitelystä, mutta lykkääntyi juttu ensi elok. 8 pnä pidettäwille wälikäräjille lisäselwitysten saamista warten. Helluntai-aattona 
+          oli nimittäin joukko armeijan aliupseereita, joukossa syytetty Martikainen, Hattulan pitäjän Nihattulan kylässä kohdannut Noormarkusta kotoisin olewan, mutta samassa kylässä palweluksessa olleen työmies Frans Halmisen, ja 
+          oli mainittu Halminen heti sen jälkeen löydetty waikeasti watsan yläosaan haawoitettuna makaamassa Kupilan talon rannassa. Tammisen ja mainittujen aliupseerien wälillä ei woitu todeta olleen mitään riitaa. Halminen oli 
+          mainittuna iltana ollut wahwasti päihtynyt. Juttu lykättiin sisäselwitysten saamista warten ensi elok. 8 pnä pidettäwille wälikäräjille.</p>
+        <p>Eräs henkilö tuomittiin wäkijuomain hallussapidosta 1,125 mk sakkoon, wastaten 75 päiwää wankeutta.</p>
+        <p className="signatureStyle"></p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Perjantai, 11.7.1924</h3>
+      <Article titleText="Humalainen hyökännyt poliisin kimppuun Myllymäessä.">
+        <h5>Poliisi pakotettu turwautumaan aseeseen.</h5>
+        <p>Eilen illalla klo 7 ajoissa konstaapeli R. Mäen ollessa wartiossa Länt. Wiertotiellä, talon n:o 16 b. kohdalla hyökkäsi hänen kimppuunsa ent. teurastaja Kalle Nurmi, joka ollen juowuksissa löi konstaapeli Mäkeä kiwellä 
+          wasempaan ohimoon, johon tuli ammottawa haawa. Konstaapeli Mäen yrittäessä pidättää häntä, hyökkäsi Nurmi uudelleen hänen kimppuunsa, koettaen lyödä, jolloin Mäki ampui ilmaan waroituslaukauksen, josta Nurmi ei kuitenkaan 
+          wälittänyt, minkä tähden Mäki ampui kohti ja sattui laukaus Nurmen reiteen. Haawoittunut lääninsairaalaan, jossa sidottiin. Haawa ei liene hengenwaarallinen.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Lauantai, 12.7.1924</h3>
+      <Article titleText="Kowa tappelunrytäkkä junassa.">
+        <h5>M.m. hämeenlinnalainen taskuwaras ja korttipeluri Kaarlo Orell pidätetty.</h5>
+        <p>Wiime torstai-aamuna, kun Rajajoelta tulewa postijuna, joka saapuu Helsinkiin klo 8,55 ap., oli lähdössä Hywinkäältä, ilmoitettiin sieltä Kerawan poliisiwiranomaisille, että junassa matkustaa useita taskuwarkaita, jotka 
+          Wiipurin ja Hywinkään wälillä oliwat jo yön aikana tehneet useita taskuwarkauksia. Junan saapuessa wähän yli 8 Kerawalle astui Kerawan etsiwä poliisikonstaapeli A. Toiwonen junaan pidättämään ilmoitettuja warkaita, joita 
+          oli kaikkiaan neljä. Näistä sai kostaapeli Toiwonen heti kaksi pidätetyksi junan lähdettyä liikkeelle. Toiset kaksi ryhtyiwät pidätettäessä tekemään tiukkaa wastarintaa. Poliisin awuksi tuli muutamia matkustajia. Waunussa 
+          syntyi hurja temmellys, jonka aikana pirstoutui useita akkunoita. Ennen Helsinkiin saapumista oli kuitenkin koko warasjoukko, joka nähtäwästi pyrki sekin messuille, saatu kytketyksi.</p>
+        <p>Kuten sanottu, oli pidätettyjä warkaita kaikkiaan neljä. Yksi näistä laskettiin sitowien todistusten puutteessa wapaaksi, mutta toiset kolme wangittiin ja tuotiin talteen Kerawalle, missä heidän suhteensa jatketaan edelleen 
+          tutkimuksia. Miehet owat: Niilo Tähtinen, kotoisin Luhangasta, ent. kapinawanki, tunnettu taskuwaras ja korttihuijari; räätäli Albin Lind, kotoisin Kerimäeltä sekä Kaarlo Orell Hämeenlinnasta, hekin tunnettuja taskuwarkaita 
+          ja kortinpelaajia. Wiimeksimainittua on rangaistu kolme kertaa taskuwarkauksista ja on hän äskettäin päässyt wapaaksi wankilasta.</p>
+        <p>Syntyneen temmellyksen aikana ja junan saawuttua Helsinkiin ei poliisi woinut päästä selwille kaikista niistä henkilöistä, jotka näkiwät pidätettyjen tekewän warkauksia. Olisi sen wuoksi hywä, että warsinkin ne kaksi 
+          herrasmiestä, joilta warkaat yrittiwät anastaa lompakot, ilmoittaisiwat Kerawan poliisiwiranomaisille nimensä ja osoitteensa.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Perjantai, 18.7.1924</h3>
+      <Article titleText="Spriitakawarikko Hämeenlinnassa.">
+        <h5>Poliisi takawarikoinut 15 l. spriitä autosta.</h5>
+        <p>Toissa päiwänä ilmoitettiin poliisilaitokselle yöpikajunan saawuttua Hämeenlinnan asemalle, että joku tuntematon mieshenkilö nähtäwästi oli tuonut matkalaukussaan pienemmän määrän spriitä, jonka hän aikoi kuljettaa 
+          kaupunkiin. Miehen saapuessa wuokra-autolla kaupunkiin pidättikin poliisi hänet ja tunnettiin pidätetty tällöin työmies August Kaiwannoksi, kotoisin Wanajan Punaportilta. Sprii, jota oli matkalaukussa kaikkiaan 15 l. 
+          takawarikoitiin ja saa mies wastata teostaan oikeudessa.</p>
+      </Article>
+      <Article titleText="Murtowarkaus Lepaassa.">
+        <h5>Waras yritetty pidättää Karlbergissa, mutta päässyt pakoon.</h5>
+        <p>Toissapäiwänä ilmoitettiin täkäläiselle poliisilaitokselle Lepaalta, että siellä oli eräässä torpassa tapahtunut murtowarkaus ja että waras nähtäwästi oli tulossa Hämeenlinnaan Karlbergin kautta. Poliisilaitokselta 
+          lähetettiin heti etsiwä Karlbergin tielle pidättämään warkaan tämän pyrkiessä kaupunkiin. Jonkun ajan kuluttua poliisi näkikin erään mieshenkilön lähestywän polkupyörällä, mutta ei tuntenut tätä heti warkaaksi, kun 
+          tuntomerkit, jotka warkaasta oli annettu, oliwat huonot. Mies ehti siis saada jonkun werran etumatkaa, ennenkuin häntä lähdettiin takaa ajamaan, mutta huomatessaan paon mahdottomaksi liwisti tien wierellä kaswawaan 
+          metsään jättäen maantielle polkupyöränsä ja mukanaan olleet täydelliset ja ensiluokkaiset murtowarkaan työkalut. Polkupyörä tunnettiin myöhemmin pari wiikkoa sitten eräältä maanwiljelysharjoittelijalta Wanajassa 
+          warastetuksi.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Tiistai, 21.7.1924</h3>
+      <Article titleText="Surullinen ampumistapaus Hausjärwellä.">
+        <h5>Waromattoman aseenkäsittelyn seurauksena eräs naishenkilö saanut surmansa.</h5>
+        <p>T.k. 8 pnä sattui Hausjärwellä surullinen wahingonlaukaus, joka waati uhrikseen ihmishengen. Tapauksesta olemme saaneet seuraawia tietoja:</p>
+        <p>Mainittuna päiwänä klo 2 ajoissa iltapäiwällä ammuskeliwat Hausjärwen pitäjän Torholan kylässä sijaitsewan Ruokolan talon työmiehet salonkikiwäärillä maaliin Ruokolan talon pihamaalla. Kun he oliwat joitakin 
+          kertoja ampuneet, niin meni eräs heistä muuttamaan pilkkaa, antaen kiwäärin Torholan kylästä kotoisiin olewalle työmies Kalle Wiljaselle. Tämä kuitenkin, luullen kiwäärin olewan panoksettoman, ojensi sen leikillään 
+          paikalla ollutta palwelijatar Martta Mäenpäätä kohti sillä seurauksella, että kiwääri laukesi ja luoti osui Mäenpään kaulaan, katkaisten waltimon. Paikalle lähdettiin heti hakemaan lääkäriä, mutta ennenkuin tämä ehti 
+          perille, oli Mäenpää jo heittänyt henkensä.</p>
+        <p>Näin surullisen onnettomuuden uhriksi joutunut Martta Mäenpää oli syntynyt w. 1905. Wiljanen taas, joka on pidätetty, ja jota wastaan tullaan nostamaan oikeusjuttu, on syntynyt 1891.</p>
+      </Article>
+      <Article titleText="Pirtuautojen matkat.">
+        <h5>Pirtuauto ajanut maitokuorman kumoon Ypäjällä.</h5>
+        <p>Perjantaina aamupuolella siwuutti Ypäjän kirkonkylän, liian kowaa wauhtia muuan turkulainen wuokra-auto, jossa oli matkustajana eräs Loimaan Kauhanojalta kotoisin olewa henkilö. Wähän matkaa Ypäjän kirkonkylältä Loimaan 
+          kauppalaa kohden tuli autoa wastaan maitokuorma matkalla meijeriin. Auto ei wäistänyt kylliksi, waan iski sen wasen kurasuojus kärryjen pyörään, jolloin kärryt särkyiwät, silat katkesiwat. Ajomies suistui maahan, loukkasi 
+          oikean käsiwartensa ja sai naarmuja kaswoihinsa sekä löi päänsä niin, että meni tajuttomaksi. Autoilijat ottiwat miehen autoonsa ja lähtiwät wiemään häntä Loimaalle lääkärille. Täällä mies toipui ja laskettiin kotiinsa. 
+          Hänen wammansa todistettiin wähäisiksi. Hewonen ei rähäkässä loukkaantunut.</p>
+        <p>Kun yhteentörmäys oli tapahtunut, alettiin autosta nakella spriiastioita tien oheen, ja sittemmin matkan jatkuessa kauppalaa kohti lensi wielä jokunen purtilo autosta. Nämä kerättiin sittemmin, ja todettiin, että 
+          miekkosten lasti oli ollut noin 100 litraa. Tämän johdosta Loimaan poliisit perjantaina klo 10 aikaan aamupäiwällä pidättiwät auton ohjaajineen ja matkustajineen keskellä kauppalaa. Auto, Buick merkkiä, jäi Loimaan poliisin 
+          haltuun, kun taas miehet jätettiin Ypäjän poliisin huostaan. Takawarikon tapahtuessa ei autossa enää ollut wiinaksia. Sen sijaan oli sen wasen kurasuojus hieman kasassa yhteentörmäyksen johdosta.</p>
+      </Article>
+      <Article titleText="Lehmäwarkaus Jokioisten pitäjässä.">
+        <h5>Worot wieneet lehmän laitumelta ja myyneet Lounais-Suomen Osuusteurastamon Humppilan konttoriin käyttäen kuittauksessaan wäärennettyä nimeä.</h5>
+        <p>T. k. 9 päiwän wastaisena yönä häwisi Jokioisten Kiipun kylän Kutilan talon laitumelta tuntemattomalla tawalla lehmä. Tapahtumaa epäiltiin warkaudeksi, ja ryhdyttiin asian waatimiin tutkimuksiin, jotka eiwät kuitenkaan 
+          johtaneet minkäänlaisiin tuloksiin. Samaan aikaan myi muuan mies Lounais Suomen Osuusteurastamon Humppilan konttoriin lehmän 1,150 markan hinnasta. Kuittaukseen hän kirjoitti nimen Kolinkanta. Myöhemmin käwi kuitenkin 
+          selwille, että mainittu nimi oli wäärennetty ja myyjät siis aiwan toisia henkilöitä. Tapaus näytti olewan yhteydessä edellämainitun lehmäwarkauden kanssa.</p>
+        <p>Nyttemmin on rikoksiin syyllisiksi epäiltyinä wangittu teurastaja Kustaa Wuolle ja irtolainen Wäinö Toiwonen molemmat Yläneen Kartanonkylästä.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Lauantai, 9.8.1924</h3>
+      <Article titleText="Hattulassa tapahtunut murha.">
+        <h5>Wastaaja kers. W. Martikainen tuomittu 2 wuoden kuritushuonerangaistukseen.</h5>
+        <p>Kuten muistettanee tapahtui Hattulan pitäjän Nihattulan kylässä wiime helluntaiaattona werityö, joka waati uhrikseen ihmishengen. Mainittuna päiwänä oli nimittäin joukko armeijan aliupseereita, joukossa m.m. kers. W.
+          Martikainen, Hattulan pitäjän Nihattulan kylässä kohdannut Noormarkusta kotoisin olewan, mutta samassa kylässä palweluksessa olleen työmies Frans Halmisen, ja oli mainittu Halminen heti sen jälkeen löydetty waikeasti 
+          watsan yläosaan haawoitettuna makaamassa Kupilan talon rannassa. Tammisen ja mainittujen aliupseerien wälillä ei woitu tällöin todeta olleen mitään riitaa. Halminen oli mainittuna iltana ollut wahwasti päihtynyt.</p>
+        <p>Syyte kers. W. Martikaista wastaan oli esillä eilen pidetyillä Hattulan n.m. pitäjäin wälikäräjillä ja katsoi oikeus syytetyn tehneen itsensä syypääksi kuolemantuottaneeseen pahoinpitelyyn tuomiten kers. W. Martikaisen 
+          2 wuoden kuritushuonerangaistukseen. Tuomio alistettiin Turun howioikeuden tarkistettawaksi.</p>
+      </Article>
+
+      <Article titleText="Pullerinmäellä tapahtunut murha.">
+        <h5>Wastaaja Hilja Nyman tuomittu 2 wuodeksi kuritushuoneeseen.</h5>
+        <p>Kuten aikaisemmin olemme kertoneet, tapahtui Pullerinmäellä wiime kesäk. 12 pnä murha, jolloin mustalaisnainen Hilja Nyman, kotoisin Kouwolasta, lôi maalari Kustaa Tammista, kotoistin Nihattulasta, oikealle puolen rintaa 
+          3 sm. pituisen, keuhkoihin asti ulottuwan haawan, josta tämä myöhemmin lääninsairaalassa kuoli. Tapahtuman kulku oli tällöin lyhyesti kerrottuna seuraawa:</p>
+        <p>Hämeenlinnan markkinoita warten oli mainittuna päiwänä Rinkelinmäelle ja sen lähitienoille kerääntynyt harwinaisen paljon mustalaisia. Klo 8 aikaan illalla oli Rinkelinmäeltä lähtenyt Hattulaan päin ajamaan mustalaiskuorma, 
+          jossa oli 2 miestä ja 3 naista. Näistä oliwat kaikki muut paitsi toinen miehistä wahwasti Humalassa. Heti mustalaiskuorman lähdettyä matkaan lähti Helmisen talosta sen perässä juoksemaan Nihattulassa asuwa maalari Kustaa 
+          Tamminen aikomuksessa päästä mustalaisten rattailla kotiinsa. Hänkin oli wahwasti juowuksissa. Waikka mustalaiset eiwät päästäneet Tammista rattaille, seurasi hän heitä kumminkin, kunnes Wiisarin ja Nihattulan wälillä sai 
+          mustalaisen puukosta ammottawan haawan rintaansa. Mustalaiset saatiin pian pidätetyiksi ja haawoittunut tuotiin lääninsairaalaan, jossa hän myöhemmin kuoli. </p>
+        <p>Juttu mustalaisnaista Hilja Nymania wastaan oli eilen esillä Hattulan y.m. pitäjäin wälikäräjillä ja tuomitsi oikeus tällöin syytetyn kuoleman tuottaneesta pahoinpitelystä 2 wuodeksi kuritushuoneeseen, samalla alistaen 
+          tuomion howioikeuden tarkastettawaksi.
+        </p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Sunnuntai, 10.8.1924</h3>
+      <Article titleText="Hukkumistapaus Janakkalassa.">
+        <h5>Mies hukkunut humalapäissään Kernaalan järween.</h5>
+        <p>Toissailtana klo 7 ajoissa lähtiwät Kernaalan järwellä sijaitsewalta Kokemäen Lauttaus Oy:n tukinniputuskoneelta töiden päätyttyä siellä olleet neljä tukkilaista maihin juopottelutarkoituksessa palaten klo 11 illalla 
+          takaisin päihtyneinä. Tällöin alkoi kuitenkin eräs miehistä nimeltään Kalle Nieminen, kotoisin nähtäwästi Luopioisista, räyhätä lautalla uhaten puukolla towereitaan, jotka tästä pelästyneinä lähtiwät weneellä pakosalle 
+          järwelle. Lautalle jäiwät ainoastaan edellämainittu Nieminen sekä tukkilainen Nyman, joka koetti juopunutta hillitä sillä seurauksella, että molemmat wihdoin wierähtiwät niputuskoneen sillalta järween, josta kuitenkin 
+          Nyman pelastettiin, mutta K. Nieminen painui pahemmin päihtyneenä pohjaan. Paikalla ryhdyttiin heti toimenpiteisiin hukkuneen saamiseksi ylös, mutta onnistuttiin tässä wasta niin myöhään, että henki jo oli ennättänyt 
+          hukkuneesta paeta.</p>
+        <p>Näin surullisella tawalla loppunsa saanut työm. Kalle Nieminen oli ijältään wasta 20-wuotias. Hänen tuntomerkeistään mainittakoon, että hän oli ruumiiltaan suurikokoinen ja waaleatukkainen. Hukkuneen omaisia kehoitetaan 
+          ilmoittautumaan Janakkalan nimismiehelle Turengissa.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Tiistai, 12.8.1924</h3>
+      <Article titleText="Pidätetty pirtutrokari.">
+        <h5>Ollut wahwasti aseistettu.</h5>
+        <p>Perjantaina päiwällä on Forssan poliisi pidättänyt anmattimaisesta pirtutrokauksestaan tunnetuksi tulleen Toiwo Mäkilän Kydöstä. Kuten muistetaan, on Mäkilän pirtua kuljettanut auto lastineen äskettäin takawarikoitu 
+          Lopella samoinkuin hänelle kuuluwa pirtua kuljettawa hewonen pidätettiin myöhemmin Tammelassa.</p>
+        <p>Mäkilä tawattiin Kydössä Mäkilän torpan mailla parastaikaa nukkumassa kun poliisi hänet tawoitti. Mäkilällä oli taskussaan Colt-pistooli sekä 20 panosta, mutta hän ei woinut niitä käyttää, kun poliisi hänet 
+          äkkiarwaamatta yllätti.</p>
+        <p>Mäkilää tullaan syyttämään Forssan käräjillä anmmattimaisesta spriin salakuljetuksesta sekä Lopella samoista asioista.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Tiistai, 19.8.1924</h3>
+      <Article titleText="Toinenkin Otto Nyströmin ryöstäjistä saanut tuomionsa.">
+        <h5>Tuomittiin eilen kihlakunnanoikeudessa 3 wuodeksi kuritushuoneeseen.</h5>
+        <p>Kuten muistettaneen, tapahtui Wanajassa wiime wuoden heinäkuussa julkea pahoinpitely ja ryöstö, jonka uhriksi joutui lumppuja ja luita keräämällä itseään elättäwä Otto Nyström -niminen mies. Poliisiwiranomaisten onnistui 
+          sittemmin wangita toinen ryöstäjistä, nimeltä Paawali Saarinen ja sai hän kihlakunnanoikeudessa tuomionsa.</p>
+        <p>Eilen pidetyillä Janakkalan y.m. pitäjäin wälikäräjillä Hämeenlinnassa oli esillä syyte myös toista Otto Nyströmin pahoinpitelyyn ja ryöstöön osaaottanutta, nimittäin Lauri Arheniusta wastaan, kotoisin Pälkäneen pitäjän 
+          Onkkaalan kylästä. Antamallaan päätöksellä tuomitsi kihlakunnanoikeus wastaajan pidettäwäksi 3 wuotta kuritushuoneessa ja olemaan 5 wuotta wailla kansalaisluottamusta sekä korwaamaan oikeuskulut 100:lla markalla.</p>
+      </Article>
+      <Article titleText="Järkyttäwä auto-onnettomuus.">
+        <h5>Ihmishengen hukka.</h5>
+        <p>Eilen illalla klo ½10 jälkeen tapahtui Myllymäessä järkyttäwä auto-onnettomuus, joka waati uhrikseen ihmishengen. Kun muurarin waimo Wilhelmina Nieminen, joka Riihimäestä palattuaan oli n.s. 2 mk. autossa tullut asemalta 
+          Myllymäkeen, oli juuri nousemassa autosta jalkakäytäwälle, jäi hän samalla ohitse kulkewan sotilasauton alle sillä seurauksella, että pääkallo meni kokonaan halki ja oikea käsiwarsi katkesi. Loukkaantunut kuljetettiin heti 
+          lääninsairaalaan, mutta perille saawuttaessa oli hän jo heittänyt henkensä.</p>
+        <p>Iältään oli wainaja 43-wuotias.</p>
+        <p>Tänään pidettäwä poliisitutkinto selwittää lähemmin tämän surullisen tapahtuman.</p>
+      </Article>
+      <Article titleText="Weriteko Somerolla.">
+        <h5>Miehen otsaluu lyöty murskaksi. - Kuolema seurauksena.</h5>
+        <p>Perjantain wastaisena yönä klo 11—12 wälillä pidettiin Someron Kaskiston kylässä Jäppi-nimisessä talossa leikkuutalkoot. Tilaisuudessa, missä oli wäkeä useita kymmeniä, löi työmies Elis Koskinen talollista Bryno Ilanderia 
+          jollakin tylsällä aseella niin, että otsaluu murskaantui. Tapahtumapaikalle kutsuttiin kohta paikkakunnan lääkäri, joka totesi haawoittuneen tilan sellaiseksi, että hän oli yötä myöten wietäwä Hämeenlinnan läänin sairaalaan, 
+          jossa hän myöhemmin kuoli.</p>
+        <p>Mikäli paikkakunnan nimismies on ilmoittanut, oli talkoon miehinen wäki siihen määrään alkoholin liikuttamaa, ettei poliisikuulustelua kohta tapahtuman jälkeen woitu pitää, joten tapahtuman kulusta ei ole wielä tarkempia 
+          tietoja.</p>
+        <p>Lyöjä Elis Koskinen, on paikkakunnalla tunnettu tappelupukariksi. Lyöjän arwellaan tehneen tihutyönsä kiwäärin perällä, sillä hänellä kerrottiin nähdyn yöllä kiwääri kädessään.</p>
+        <p>Tämä oli jo kahdeksas murha Somerolla kuluwan wuoden aikana.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Keskiviikko, 20.8.1924</h3>
+      <Article titleText="Maanantainen auto-onnettomuus.">
+        <h5>Poliisitutkinto alulla.</h5>
+        <p>Kuten eilen kerroimme, tapahtui täällä toissa iltana klo ½ 10 ajoissa järkyttäwä auto-onnettomuus, missä sai surmansa muurarin waimo Wilhelmiina Nieminen. Eilen aloitettiin asian johdosta poliisitutkinto, mutta woitiin 
+          tällöin kuulustella wain tapauksen näkijöitä, koska yliajaneessa autossa olleet upseerit eiwät manööwerien wuoksi woineet saapua kuulusteltawiksi. Auto, jolla yliajo tapahtui, oli Hyökkäyswaunurykmentin auto n:o 1, missä 
+          ohjaajana toimi mainitun rykmentin adjutantti, luutnantti Muukkonen, ja oliwat siinä mukana Hyökkäyswaunurykmentin w.t. komentaja, majuri Kumlin ja ewerstiluutnantti Wallenius. Mikäli wiiden eri todistajan lausunnoista on 
+          käynyt ilmi, tuli Hyökkäyswaunurykmentin auto Poltinaholta päin, ja oli Niemisen tarkotuksena kulkea kadun yli, mutta huomattuaan auton tulewan 4-5 metrin päässä, perääntyi hän, kääntyen autokin kuitenkin samaan suuntaan. 
+          Tällöin oli Nieminen wieläkin perääntynyt, mutta kun auto edelleen oli kääntynyt samaan suuntaan, oli hän jäänyt alle, kaatuen katukäytäwälle. Auton etupyörä oli ensin raahannut häntä pari metriä ja samoin takapyörä, mikä 
+          sitten wiskasi hänet katukäytäwälle. Tapauksen jälkeen kulki auto wielä n. 15 metriä. Mikäli todistajain lausunnoista on käynyt ilmi, ei autossa tapahtuman sattuessa ollut waloja eitä siitä myöskään annettu waroitusmerkkejä. 
+          Kuten sanottu, ei autossa olleita upseereita edellämainitusta syystä ole woitu wielä kuulustella. Heidän kuulustelunsa suoritetaan torstaina.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Lauantai, 23.8.1924</h3>
+      <Article titleText="Maanantainen auto-onnettomuus.">
+        <h5>Poliisitutkinto päättynyt.</h5>
+        <p>Hämeenlinnassa maanantaina sattuneen ikäwän auto-onnettomuuden johdosta päättyi poliisitutkinto eilen, jolloin kuulusteltiin autossa onnettomuuden tapahtuessa olleita luutnantti Muukkosta, majuri Kumlinia ja 
+          ewerstiluutnantti Walleniusta. Kaikki edellämainitut upseerit owat kuulusteluissa wäittäneet, että auton lyhdyt onnettomuuspaikalle saawuttaessa paloiwat, mutta sammuiwat ne onnettomuuden tapahtuessa. Auton nopeuden 
+          wäittäwät upseerit olleen sillä hetkellä 10 km. tunnissa. Myös on luutnantti Muukkonen wäittänyt, että hän jarrutti sekä jalka- että käsijarruilla, mutta siitä huolimatta auto kuitenkin luisti alamäessä. Mitä itse 
+          allejäämiseen tulee, wäitetään, että Nieminen ei jäänyt pyörien alle, waan jäi oikeanpuoleisen kurasiiwen päälle, mistä sitten, auton kuljettua muutamia metrejä ja törmättyä katuun, putosi katukäytäwälle sekä auto sai 
+          sysäyksen keskikadulle päin pysähtyen 4—5 m. perästä.</p>
+        <p>Edelleen upseerit wäittäwät, että paikka ei ollut walaistu muuten, paitsi että autojen walot ennen onnettomuutta walaisiwat, sekä että he oliwat antaneet waroitusmerkkejä. Upseerit wäittäwät, että tapahtuma on suoranainen 
+          tapaturma eikä huolimattomuudesta milllään tawalla aiheutunut.</p>
+        <p>Asia tulee oikeuden käsiteltäwäksi.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Tiistai, 26.8.1924</h3>
+      <Article titleText="Nuorta naista ammuttu jalkaan.">
+        <h5>Ampuja wäittää kysymyksessä olewan wahingonlaukauksen.</h5>
+        <p>Toissa iltana sattui täällä ampumistapaus, jossa palwelijatar Olga Sipinen sai nähtäwästi wahingossa lauenneesta rewolwerista waikean haawan oikeaan sääreensä. Mainittuna iltana oliwat Sipinen ja wiilari Armas Akseli 
+          Saren olleet käwelyllä ja oli Saren lähtenyt saattamaan seuratoweriaan tämän asunnolle Panimokatu 3. Portilla jonkun aikaa keskusteltuaan laukesi Sirenin päällystakin taskussa ollut amerikkalaismallinen rewolweri ja 
+          kuula tunkeutui Sipisen wasempaan sääreen wikuuttaen myös luuta. Haawoitettu toimitettiin heti kaupungin sairaalaan lääkärinapua saamaan ja ampuja pidätettiin eilen aamulla. Toimitetussa kuulustelussa on Saren kertonut, 
+          että kysymyksessä on wahingonlaukaus ja oli ase lauennut taskussa hänen sitä hypistellessään. Mainittuna iltana wäitetään Sarenin olleen hiukan päihtyneen. Asia tulee käsiteltäwäksi oikeudessa ja tullaan Sarenia samalla 
+          syyttämään luwattomasta ampuma-aseen hallussapidosta.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Sunnuntai, 31.8.1924</h3>
+      <Article titleText="Hämäräperäinen pahoinpitely Hattulassa.">
+        <h5>Muuatta kapitulanttikersanttia lyöty teräaseella hengenwaarallisesti.</h5>
+        <p>Keskiwiikon ja torstain wälisenä yönä tapahtui Hattulassa werityö erittäin hämäräperäisissä olosuhteissa. Mainittuna yönä oli Hyökkäyswaunurykmentin alikersantti Lohikoski ollut kuljettamassa pois leiriltä muuttawien 
+          sotilaiden warusteita asemalle ja täällä poikennut kauppias Järwisen luo siellä asuwia kapitulanttialiupseereita tapaamaan. Hetken kuluttua oli alik. Lohikoski kuitenkin poistunut näiden luota ja löydettiin hänet sen 
+          jälkeen klo 1 tienoissa makaamassa kauppias Järwisen asunnon portaitten ääressä wasemmassa ohimossa ammottawa werihaawa. Paikalle saapuneet henkilöt kuljettiwat haawoitetun Jääkäritykistörykmentin sotilassairaalaan 
+          lääkärinapua saamaan. Toimitetussa lääkärintarkastuksessa todettiin, että haawa oli isketty jollain teräaseella ja oli murtanut pääluun. Kersantti Lohikoskea hoidetaan edelleen sotilassairaalassa ja on hän jo toipunut 
+          saamastaan wammasta siksi paljon, että hän on tajuissaan, mutta on hänen muistinsa toistaiseksi kadonnut. Asian johdosta on ryhdytty tarmokkaisiin toimenpiteisiin lyöjän kiinnisaamiseksi ja onkin toiweita hänen 
+          pidättämisestään.</p>
+      </Article>
+      <Article titleText="Taas puukko heilunut Ypäjällä.">
+        <h5>Kuusi reikää isketty mieheen.</h5>
+        <p>Torstaina warhain aamulla tapahtui Ypäjällä jälleen kamala werityö. Juuri wankilasta päässyt työmies Frans Mäkinen ja työmies Oskar Raitinen, molemmat Ypäjältä, oliwat keskiwiikkoiltana alkaneet yhdessä juopotella. 
+          Yön aikana kehittyiwät juomaweikkojen wälit riidaksi, mikä päättyi siihen, että Raitinen hakkasi puukolla Mäkisen henkihieweriin. Mäkinen ryömi aamulla klo 7 ajoissa wähissä hengin Mattilan pihaan, mistä tilanomistaja 
+          Mikkola toimitti hänet lääkärin hoidettawaksi. Puukottaja oli mennyt kotinsa pihamaalle, missä sikahumalassa makaili, kun poliisi ja tilanomistaja Mikkola meniwät häntä rautoihin kytkemään. Wasta myöhemmin tuli hän 
+          tajuihinsa.</p>
+        <p>Tohtori Aaltonen Loimaalta, jonka hoitoon puukotettu saatettiin, kertoi, että Mäkisen haawoista ainakin kylkihaawa, joka ulottui aina keuhkoihin asti, on hengenwaarallinen. Kaikkiaan on miehessä 6 haawaa, joista yksi 
+          kyljessä ja yksi seljässä, muut rinnassa. Puukotetun lähetti tohtori Aaltonen Hämeenlinnan sairaalaan hoidettawaksi. Täällä hän kuitenkin heitti henkensä perjantai-aamuna.</p>
+        <p>Molemmat, sekä puukottaja että puukotettu, owat naimattomia ja tunnettuja ryyppymiehiä.</p>
+      </Article>
+      <Article titleText="Poika ampunut äitiään Hattulassa.">
+        <h5>Onko kysymyksessä tahallinen teko tai tapaturma, ei ole wielä selwillä.</h5>
+        <p>Wiime perjantai-iltana klo 10 tienoissa oli Hattulan pitäjän Parolassa asuwan koneenkäyttäjä Karppisen luo tullut Karppisen emännöitsijän, leskiwaimo Olga Lakstedtin poika Kalle Lakstedt. Tämä oli aikaisemmin äitinsä 
+          mukana ollut Karppisen luona, mutta sitten joutunut sieltä pois. Poliisikuulustelussa on Kalle Lakstedt kertonut, että hänen tultuaan sanottuna iltana Karppisen asuntoon, oli hänen äitinsä ottanut pöytälaatikosta 
+          Mauser-pistoolin ja pannut sen pöydälle. Kalle Lakstedt oli sitten mennyt Karppisen asunnon keittiöön, missä hän oli alkanut sormeilla pistoolia sillä seurauksella, että se laukaisi, tunkeutuen luoti hänen äitinsä 
+          Olga Lakstedtin oikeasta kädestä sisälle ja siitä edelleen kylkeen watsan kohdalle, mennen luultawasti aina maksaan saakka.</p>
+        <p>Edelläkerrotun lailla on Kalle Lakstedt poliisikuulustelussa kertonut. Näin ollen olisi siis kysymyksessä tapaturmalaukaus, mutta toisaalta on herännyt epäilyksiä myös siitä, että ampuminen oli ollut tahallinen, sillä 
+          Kalle Lakstedt on kertonut useammalla tawalla kuulusteluissa. Hänen äitiään, jota hywin heikossa tilassa hoidetaan Hämeenlinnan lääninsairaalassa, ei ole woitu toistaiseksi kuulustella. Jatkuwa poliisitutkinto selwittänee 
+          tapahtuman oikean laidan.</p>
+        <p>Kalle Lakstedt, joka on iältään 16-wuotias, on toistaiseksi poliisiwiranomaisten hallussa, jotka, kuten sanottu, jatkawat tutkimuksia asian johdosta.</p>
+      </Article>
+
 
       <br></br>
       <a className="hyperLinkStyle" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?year=1924">Linkki vuosikertaan 1924</a>
