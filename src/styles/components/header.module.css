@@ -19,6 +19,9 @@
 .logoStyle:active {
   filter: none;
 }
+.subMenuStyle {
+  line-height: 2;
+}
 @media screen and (max-width: 768px) {
   .navBarStyle {
     background-image: url("../../images/headerImage.jpg");

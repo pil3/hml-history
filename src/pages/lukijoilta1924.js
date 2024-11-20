@@ -739,11 +739,112 @@ const Lukijoilta1924Page = () => {
         <p className="signatureStyle">Wirkistyneet äidit.</p>
       </Article>
 
+      <SubDivider className="dividerStyle" />
+      <h3>Tiistai, 9.9.1924</h3>
+      <Article titleText="Katujen kunnossapito.">
+        <p>Wähän selwitystä lauantaina syysk. 6 pnä arw. lehdessänne olleeseen kirjoitukseen, mikä muun muassa käsitteli kaupungin talonomistajain waatimusta katujen kunnosapitämisestä.</p>
+        <p>Kaupunkien talonomistajat, mitäli yleisissä kokouksissa on ilmennyt, owat yleensä sitä mieltä, että kadunpitowelwollisuus olisi siirrettäwä kunnan haltuun eikä waltiolle, kuten sanotussa kirjoituksessa mainitaan. Niin 
+          tapahtui talonomistajayhdistyksien wuosikokouksessa tänä kesänä Oulussa ja edellisenä kesänä Lahdessa pidetyssä kokouksessa. Ensin mainitussa kokouksessa tuli yksimieliseksi päätökseksi se, että koska nykyinen katurasitus 
+          muuttuneissa liikenneoloissa talonomistajille tietää uusia haittoja ja on tontinomistukseen liian suuressa määrässä kohdistuwana rasituksena, kadunpitowelwollisuus olisi kokonaan siirrettäwä kunnan haltuun.</p>
+        <p>Kirjoituksessa mainittu asemakaawalakiehdotus esittää kadunpitowelwollisuuden ratkaisua tawalla, joka tietää kaupunkitalonomistajille mitä suurinta pettymystä. Tässä lakiehdotuksessa edelleen kehitetään woimassa olewaa 
+          katurasitusta erikoisesti talon- ja tontinomistajille kuuluwana welwollisuutena ja se ehdotetaan entistään laajempana ja raskaimmassa muodossa talon- ja tontinomistajien hartioilla pysytettäwäksi, siis aiwan päinwastaiseen 
+          suuntaan kuin muuttuneissa taloudellisissa ja liikenneoloissa on oikein ja kohtuullista.</p>
+        <p>Mikäli katuliikenne on yleistynyt ja etenkin wiime aikoina saanut entisestä suuresti muuttuneen sisällyksen, sikäli kadunpitowelwollisuus on talonomistajain rasituksena suuresti muuttunut, mutta siitä huolimatta tätä 
+          laajennettua kadunpitowelwollisuutta yritetään jatkuwasti pysyttää yksistään talon- ja tontinomistajain rasituksena. Edellä mainittu Oulun kokous asettui lainwalmistelukunnan lakiehdotusta tältä osalta wastustamaan 
+          yksimielisesti hywäksyen ponnen, että kadunpitowelwollisuus olisi kokonaan siirrettäwä kunnan haltuun.</p>
+        <p className="signatureStyle">Kokouksessa ollut.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Torstai, 25.9.1924</h3>
+      <Article titleText="Kanadaan aikowille.">
+        <p>Suomesta lähtee nykyisin yhä useampia henkilöitä ja perheitä Kanadaan, mutta useimmillakaan ei ole edes alkeellisimpia tietoja siitä, mitä waaditaan, ennenkuin maihin pääsee. Siksi on, etenkin wiime aikoina, kymmenittäin 
+          suomalaisia käännytetty Halifax'ista, y.m. satamakaupungeista, takaisin kotimaahan. Viimeisen kahden wiikon ajalla on kotiin lähetettyjen suomalaisten luku noussut 31:een. Useimmilla on ollut syynä se, etteiwät ole merkinneet 
+          ketään wastaanottajaksi täällä Kanadassa, tai se, että heillä on läheisiä sukulaisia Yhdyswalloissa. Ja se juuri onkin pahimpia kohtia. Jos siis jollakin, joka aikoo lähteä Kanadaan, on Yhdyswalloissa mies, waimo, isä, äiti, weli 
+          tai sisar, niin on parasta jättää tulo, tai sitten olla mainitsematta sukulaisistaan mitään. Jos awiopuolisoista esim. toinen lähtee matkalle tänne, on parasta sanoa, että toinenkin tulee heti jäljessä, muutoin ei maihin lasketa.</p>
+        <p>Suomessa puhutaan, että Kanadaan matkustettaessa ei ole lääkärintarkastuksia, mutta niin ei ole asia. Ruotsin ja Norjan kautta tultaessa on 2 ankaraa tarkastusta, ja Englannin kautta matkustawat saawat kestää kokonaista 7 
+          tarkastusta! </p>
+        <p>Kun siis Suomesta lähtee, pitää olla terwe, paitsi ulkomaanpassia, tulee hänellä olla maihinnousuraha, 25 dollaria, sekä tarkka ilmoitus siitä, kenen luokse matkustaa, onko työpaikka jo walmiina. Siitä, minkä Suomessa 
+          laiwakonttorissa ilmoittaa, ei saa missään tapauksessa poiketa laiwalla, eikä määräpaikassa kyseltäessä. Kun näin on paperit kunnossa, pääsee kyllä maihin warmasti.</p>
+        <p>Mielestäni laiwayhtiöiden pitäisi antaa tarkkoja neuwoja matkustawille, ettei ihmisten tarwitsisi tehdä tätä kallista ja pitää matkaa, turhan tähden.</p>     
+        <p className="centeredStyle">Torontossa, 26. 8. -24.</p>
+        <p className="signatureStyle">Hugo Kettunen</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Perjantai, 26.9.1924</h3>
+      <Article titleText="Wanha palotorni hautakappeliksi.">
+        <p>Useammalta taholta on H:linnan kaupungin Rahatoimikamarille tehty kyselyjä kohta joutilaaksi jääwän wakinaisen palolaitoksen Tähtipuistossa olewan rakennuksen myynnistä ja kuntalaisten taholta on lausuttu toiwomus, että 
+          mainittu rakennus olisi, muuttamalla se kaupungin hautausmaalle sopiwin korjauksin järjestettäwä hautauskappeliksi, johon se olisi erittäin sopiwa ja jota tarkoitusta warten paikkakin hautausmaalla on warattu. Ei liene enää 
+          montaa, ei ainakaan kaupunkiseurakuntaa, jonka hautausmaalla ei olisi ruumiinsiunausta warten hautauskappelia, sillä sen tarpeellisuuden owat muualla paitsi Hämeenlinnassa huomanneet ne, jotka talwiaikana wilustuneina 
+          palaawat hautajaisista tuntimäärin seistyään haudan ääressä pakkasessa.</p>
+        <p>Ei myöskään liene liian aikaista, että Hämeenlinnan seurakunta ja sen kirkkoneuwosto ryhtyisiwät toimenpiteisiin asian aloittamiseksi ja toteuttamiseksi, kun kerran näin sopiwa tilaisuus on olemassa. Voihan toiwoa, että 
+          kaupunginwaltuusto, joka lopullisesti rakennuksen myynnin ratkaisee, asettuu asiassa myös suopealle kannalle, kunhan wain ne, joille asian alkamispano wirallisesti kuuluu, ryhtywät toimeen.</p>
+        <p>On myös huomattawa, että hautakappelia warten on olemassa säätiöwaroja lähes parikymmentä tuhatta markkaa.</p>
+        <p className="signatureStyle">-r</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Tiistai, 7.10.1924</h3>
+      <Article titleText="Onko">
+        <p>huhuissa perää että Hämeenlinnan kaupunki ei olisi niitten 26 kaupunkikunnan joukossa mitkä owat hankkineet Amerikasta edullisen lainan. Jos todella niin olisi, olemme siwuuttaneet ainutlaatuisen tilaisuuden ja on kuntamme 
+          korkotappio kyseessäolleelle 5 miljoonan markan lainalle pyörein luwuin ainakin 150,000 markkaa wuodessa.</p>
+        <p className="centeredStyle">Asiassa selwitystä kaipaa</p>
+        <p className="signatureStyle">Veronmaksaja.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Keskiviikko, 8.10.1924</h3>
+      <Article titleText="Eläwien kuwien teatteri kunnalliseksi laitokseksi.">
+        <h5>Kaupungin tontti n:o 62 tarkoitukseen sopiwa.</h5>
+        <p>Kaksi wuotta takaperin kaupunki osti toisen puolen 15. korttelissa sijaitsewasta tontista n:o 62. Tarkoitus oli tälle tontille rakentaa uusi talo wakinaista palokuntaa warten ja myöntää täytyykin, että tuo tontti olisi 
+          siihen tarkoitukseen erittäin hywin sopinut. Mutta palokunnantalon rakennuskysymys sai sittemmin kokonaan toisen käänteen. Kun rakennuskustannukset olisiwat nousseet werrattain kalliiksi eikä talosta olisi ollut mitään 
+          suoranaista tuloa kaupungille, ehdotti palomestari, että wakinainen palokunta majoitettaisiin W.P.K:n taloon, minne molemmat palokunnat hywin sopisiwat, jos taloa hiukan laajennettaisiin ja muutettaisiin. Tämän ehdotuksen 
+          kaupunginwaltuusto hywäksyikin ja, kuten tunnettua, on W.P.K:n taloa päättyneen kesän kuluessa laajennettu ja järjestelty.</p>
+        <p>Palolaitoksen asemaksi ostettu tontti on siis nyt wapaa käytettäwäksi toisiin tarkoituksiin. Myymällä siitä tuskin saadaan sitä hintaa, minkä se kaupungille maksaa. Kaupungin on senwuoksi itsensä koetettawa käyttää se 
+          toisiin tarpeisiin ja rakennettawa tontille sellainen laitos, josta kaupungilla on tuloja, mitkä korwaawat tonttiin sekä sille rakennettawiin rakennuksiin käytetyn pääoman.</p>
+        <p>Sopiwammin woinee tuskin ajatella tonttia käytettäwäksi kuin rakentamalla sinne eläwien kuwien teatteri. Puheenaolewa tontti sijaitsee kaupungin keskustassa, lähellä liikkeen pääwäyliä. Se on pituudeltaan 44,55 metriä ja 
+          leweydeltään 19,60 metriä. Tontti on siis sekä asemansa että muotonsa puolesta teatterirakennuksen paikaksi kuin luotu.</p>
+        <p>Wäitettäneen kai, että kaupungissamme on jo entuudestaan kaksi toistensa kanssa kilpailewaa eläwien kuwien teatteria ja että laitos kunnan hoitamana ei kannattaisi. Mutta jos uusi teatteri rakennetaan entisiä ehommaksi ja 
+          täysin ajan waatimuksia wastaawaksi, en luule sen kannattawaisuutta tarwittawan epäillä. Tällaiset teatterirakennukset owat werrattain yksinkertaisia eiwätkä ne kysy warsin suuria rakennustustannuksia. Teatterin 
+          hoitokustannuksetkaan eiwät nouse warsin kalliiksi. Sitäpaitsi olisi kunnallisen teatterin käyttäminen jokaisen weroamaksawan kuntalaisen etu ja suoranainen welwollisuus ja mielellään jokainen kaupunkilainen kai 
+          ohjaisikin askeleensa omaan laitokseen, jonka tulojen tietäisi juoksewan yhteiseen kukkaroon ja kewentäwän nykyisin jo liian raskaaksi paisuwaa werotaakkaa.</p>
+        <p>Kunnan omistamasta eläwien kuwien teatterista muodostuisi samalla yhä huomattawampi kulttuuritekijä. Siellä woitaisiin järjestää mahdollisimman usein näytäntöjä kansakoulun ja oppikoulujen oppilaille alhaisesta maksusta, 
+          kenties maksuttakin. Kun nämä näytännöt lähemmin liitettäisiin historian, maantiedon, luonnontieteiden y.m. aineiden opetukseen ja kun filmeistä huolehtimaan ja niitä walitsemaan asetettaisiin sopiwista ja pätewistä 
+          henkilöistä asetettu toimikunta, tulisi laitos suorittamaan huomattawan osansa paikkakunnan nousewan nuorison kaswatus- ja siwistystyössä. Onhan paikkakunnalla sitäpaitsi silloin tällöin toimeenpantu luentoja aikuisille. 
+          Niiden pitämiseen ja kuwilla walaisemiseen olisi teatterin huoneusto sopiwa ja mahdollisesti pantaisiin näin alku wastaiselle työwäen- tai kansalaisopistolle, jonka perustaminen tällekin paikkakunnalle kai piankin astuu 
+          päiwäjärjestykseen.</p>
+        <p>Toiwoakseni kysymys tulee lähemmän pohdinnan alaiseksi. Ainakin maksanee waiwan laatia kustannusarwio rakennuskustannuksista ja laskelmat teatterin mahdollisesta kannattawaisuudesta.</p>
+        <p className="signatureStyle">A. E. Koponen.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Perjantai, 10.10.1924</h3>
+      <Article titleText="Hattulan hautausmaa.">
+        <p>Hattulan seurakunnan Hautausmaa on täysi ja komitea on hommannut sille uuden paikan. Waltioneuwostolta on saatu pakkolunastuslupa erääseen alueeseen aiwan Hattulan wanhan kirkon koillispuolella. Tätä paikkaa eiwät kaikki 
+          pitäjäläiset pidä onnistuneena, erittäinkin lähikylän asukkaat, jotka eiwät kernaasti halua saada hautausmaata aiwan asuntojensa ja ikkunoittensa eteen pellolle. Sitäpaitsi on paikka muutenkin ahdas, rauhaton ja suojaton; 
+          wanha kirkko ei täällä hautausmaata kaipaa eikä wälttämättömältä tunnu olewan sitä tänne kylän keskuuteen ahtaa jos waan halutaan muualta paikkoja etsiä. Kun lisäksi kulkuyhteydet eiwät täältä ole yhtä hywät pitäjän eri 
+          puoliin kuin esim. pappiloihin, - paikka siirtyy entiseen hautausmaahan nähden wain pitäjänrajaa kohti, - tuntuu mielestämme pakkotoimenpiteisiin ryhtyminen tällaisessa asiassa harha-askeleelta ja tahdomme mielipiteemme 
+          tällä tawoin saattaa julkisuuteen.</p>
+        <p className="signatureStyle">Paikkakuntalaisia.</p>
+      </Article>
+
+      <SubDivider className="dividerStyle" />
+      <h3>Sunnuntai, 12.10.1924</h3>
+      <Article titleText="Kirjelaatikko Lahdensiwuun!">
+        <p>Nopeasti kaswanut Hämeenlinnan „uusi kaupunginosa”, Lahdensiwu, on monessa suhteessa jäänyt lapsipuolen asemaan. Puhumattakaan syksyisistä kurjista teistä ja osittain riittämättömästä katuwalaistuksesta, katuojien ja 
+          rumpuputkien puutteesta, on lahdensiwulaisille tuottanut hankaluutta se seikka, että lähin kirjelaatikko on niinkin kaukana kuin Suomen kasarmien portilla sekä reitin warrella, jota Lahdensiwulaaiset harwoin käyttäwät. 
+          Sattuupa wielä usein, warsinkin sunnuntaisin, niinkin hullusti, että kirjelaatikko on sotilaitten suuren, luonnollisen kirjeenwaihdon wuoksi niin tupaten täynnä, että kirjettä ei enää mitenkään tahdo saada laatikkoon 
+          mahtumaan ja että ylimmällä olewat kirjeet kuka tahansa waiwatta woi laatikosta ottaa. Haluaisin postiwiranomaistemme huomiota kiinnittää tähän seikkaan sekä ehdottaa, että nykyinen Suomen kasarmien portilla olewa 
+          kirjelaatikko korwattaisiin suuremmalla laatikolla ja että nykyinen siellä olewa laatikko siirrettäisiin Lahdensiwulaisten tarwetta tyydyttämään, asettamalla se waikkapa n.s. Sokoloffin kulmaan, missä kirjelaatikolla 
+          olisi keskeinen paikka. Tämän uuden laatikon tyhjentäminen kahdesti päiwässä ei tuota suurtakaan ajanhukkaa — warsinkaan, jos Lahdensiwuun asetettu postiljooni saisi tuon tyhjentämisen toimekseen. Lahdensiwulaiset 
+          odottawat kysymyksen myönteistä ja pikaista järjestämistä.</p>
+        <p className="signatureStyle"></p>
+      </Article>
+
+      
+
     
-
-
-
-
       <SubDivider className="dividerStyle" />
       <h3>Keskiviikko, 15.10.1924</h3>
       <Article titleText="N.s. Peltokadun täyttö">

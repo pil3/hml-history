@@ -11,7 +11,7 @@ import Nav from "react-bootstrap/Nav";
 import NavDropdown from "react-bootstrap/NavDropdown";
 import { DropdownSubmenu, NavDropdownMenu} from "react-bootstrap-submenu";
 
-import {navBarStyle, logoStyle} from "../styles/components/header.module.css";
+import {navBarStyle, logoStyle, subMenuStyle} from "../styles/components/header.module.css";
 
 import vaakuna from "../images/hml-vaakuna-old.png" 
 
@@ -54,7 +54,7 @@ const Header = () => {
             </NavDropdown>
 
             <NavDropdownMenu title="Lehdistä" id="collasible-nav-dropdown">
-            <DropdownSubmenu title="1914">
+            <DropdownSubmenu className={subMenuStyle} title="1914">
                 <NavDropdown.Item>
                   <Link to="/artikkeleita1914" className="nav-link" activeClassName="active">Artikkeleita</Link> 
                 </NavDropdown.Item>
@@ -62,7 +62,7 @@ const Header = () => {
                   <Link to="/rikoksia1914" className="nav-link" activeClassName="active">Rikoksia</Link> 
                 </NavDropdown.Item>
               </DropdownSubmenu>
-              <DropdownSubmenu title="1924">
+              <DropdownSubmenu className={subMenuStyle} title="1924">
                 <NavDropdown.Item>
                   <Link to="/lukijoilta1924" className="nav-link" activeClassName="active">Yleisönosasto</Link> 
                 </NavDropdown.Item>
