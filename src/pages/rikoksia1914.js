@@ -2,13 +2,11 @@ import * as React from "react"
 
 import Layout from "../components/layout"
 import Article from "../components/article"
+import DateDivider from "../components/dateDivider"
 
 import "../styles/base/global.css"
 
 import Divider from "../assets/divider.svg"
-import SubDivider from "../assets/sub-divider.svg"
-
-
 
 const Crimes1914Page = () => {
   return (
@@ -16,7 +14,7 @@ const Crimes1914Page = () => {
       <h2>Rikoksia</h2>
       
       <Divider className="dividerStyle" />
-      <h3>Lauantai, 3.1.1914</h3>
+      <p className="centeredStyle boldStyle" style={{margin:"8px 0"}}>Lauantai, 3.1.1914</p>
       <Article titleText="Ankara tappelu Muolassa">
         <h5>20 henkeä haawoittunut.</h5>
         <p>Tapaninpäiwän iltana wietti Muolan Punnustien nuorisoseura iltaman sikäläisellä palokunnantalolla. Heti iltaman alkaessa nosti joukko juopuneita hirweän tappelun. Tappelun 
@@ -26,8 +24,7 @@ const Crimes1914Page = () => {
             myöten ja löydettiin se tappelun jälkeen lattialta. Paikalla ollut Muolan apulaisnimismies 4 poliisin kera oli aiwan woimaton. Nyttemmin on 4 pahinta pukaria wangittu.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Torstai, 8.1.1914</h3>
+      <DateDivider date="Torstai, 8.1.1914" />
       <Article titleText="Kaksoisryöstömurha Tuusulassa.">
         <h5>Werityöntekijä todettu.</h5>
         <p>Nyttemmin on saatu todistetuksi, että Forssassa pidätetty Robert Merinen on Tuusulan kamalan werityön tekijä, waikka hän wiimeisiin asti itse on julman työnsä kieltänyt. Tuusulan 

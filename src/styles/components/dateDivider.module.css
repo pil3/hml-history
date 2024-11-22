@@ -1,0 +1,16 @@
+@import "../base/global.css";
+
+.svgStyle {
+  display: block;
+  width: 60%;
+  max-width: 576px;
+  height: auto;
+  margin: 8px auto;
+  opacity: 0.8;
+}
+.textStyle {
+  font-size: 1rem;
+  text-align: center;
+  margin: 8px 0;
+  font-weight: 600;
+}

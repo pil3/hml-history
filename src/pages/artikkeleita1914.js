@@ -2,13 +2,11 @@ import * as React from "react"
 
 import Layout from "../components/layout"
 import Article from "../components/article"
+import DateDivider from "../components/dateDivider"
 
 import "../styles/base/global.css"
 
 import Divider from "../assets/divider.svg"
-import SubDivider from "../assets/sub-divider.svg"
-
-
 
 const Articles1914Page = () => {
   return (
@@ -16,7 +14,7 @@ const Articles1914Page = () => {
       <h2>Artikkeleita</h2>
       
       <Divider className="dividerStyle" />
-      <h3>Torstai, 8.1.1914</h3>
+      <p className="centeredStyle boldStyle" style={{margin:"8px 0"}}>Torstai, 8.1.1914</p>
       <Article titleText="Nuorison kasvatuksesta käytännölliseen elämään.">
         <p>Tänä wuonna on ympäri suomea wietetty kotimaisen työn wiikkoa. Osanotto juhliin on kaikkialla ollut melkoinen ja yleisön innostus suuri. Epäilemättä juhlatilaisuuksissa pidetyt 
             puheet ja esitelmät owat olleet omiaan awaamaan ihmisten silmiä ymmärtämään kansallisen teollisuuden arwoa ja merkitystä. Ainakin on kuulunut, että eräitten kotoisten 
@@ -58,7 +56,7 @@ const Articles1914Page = () => {
           <p className="signatureStyle">Mikko W. Erich</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
+      <DateDivider date="" />
 
 
      

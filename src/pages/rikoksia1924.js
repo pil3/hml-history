@@ -2,6 +2,7 @@ import * as React from "react"
 
 import Layout from "../components/layout"
 import Article from "../components/article"
+import DateDivider from "../components/dateDivider"
 
 import "../styles/base/global.css"
 
@@ -14,9 +15,8 @@ const Crimes1924Page = () => {
   return (
     <Layout titleText="Hämeen Sanomat, 1924">
       <h2>Rikollista toimintaa Hämeenlinnassa ja lähiseuduilla</h2>
-      
-      <Divider className="dividerStyle" />
-      <h3>Torstai, 3.1.1924</h3>
+      <Divider className="dividerStyle"/>
+      <p className="centeredStyle boldStyle" style={{margin:"8px 0"}}>Torstai, 3.1.1924</p>
       <Article titleText="Tappelu Lammilla.">
         <h5>Kolme miestä saanut haawoja.</h5>
         <p>Kun toisena joulupäiwänä Lammin Porraskosken työwäenyhdistys piti iltamaansa Porraskosken työwäentalolla, syntyi siellä kahden miesjoukon wälillä tappelu, missä käytettiin aseina puukkoja ja halkoja. Wanhoja wihoja 
@@ -25,8 +25,7 @@ const Crimes1924Page = () => {
         <p>Tappelun johdosta on toimitettu poliisitutkinto, jota ei wielä ole päättynyt. Toistaiseksi ei myöskään ole ketään pidätetty.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Perjantai, 4.1.1924</h3>
+      <DateDivider date="Perjantai, 4.1.1924"/>
       <Article titleText="Jokiniemen murha Jokioisissa.">
         <h5>Murhaaja Koiwula tuomittu 3 w:ksi kuritushuoneeseen.</h5>
         <p>Kuten olemme kertoneet, tapahtui joulukuun 12 p:nä Jokioisten Latowainiossa raaka murha, jonka uhriksi joutui talollisenpoika Siwart Jokiniemi. Murhajuttu oli keskiwiikkona esillä Humppilan wälikäräjillä. Oikeus tuomitsi 
@@ -34,8 +33,7 @@ const Crimes1924Page = () => {
           kullekin niin kauan kuin he täyttäwät 17 wuotta.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 5.1.1924</h3>
+      <DateDivider date="Lauantai, 5.1.1924"/>
       <Article titleText="Miestappo Urjalassa.">
         <h5>Eräs palstatilallinen isketty puukolla kuoliaaksi.</h5>
         <p>Uuden wuoden päiwän iltana tapahtui Urjalassa lähellä Annulan kylää pahoinpitely, jonka uhriksi joutui palstatilallinen Wihtori Saari. Saari oli erään Kalle Ahon (Perhon-Kallen) seurassa, ja jostakin syystä oli miesten 
@@ -44,8 +42,7 @@ const Crimes1924Page = () => {
         <p>Saari jätti jälkeensä waimon ja 4 lasta, joista nuorin on wasta 3 kk. Aho, joka on pidätetty, on sen sijaan naimaton.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 8.1.1924</h3>
+      <DateDivider date="Tiistai, 8.1.1924"/>
       <Article titleText="Tammelan wälikäräjät.">
         <SubDivider className="dividerStyle" />
         <p>Tammelan wälikäräjillä tuomittiin työm. Wihtori Ruoko Forssasta kotirauhan rikkomisesta, pahoinpitelystä ja wäkisin makaamisesta 3 wuodeksi 4 kuukaudeksi kuritushuoneeseen. Osallisena edellämainittuihin rikoksiin tuomittiin 
@@ -61,8 +58,7 @@ const Crimes1924Page = () => {
         <SubDivider className="dividerStyle" />
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Sunnuntai, 13.1.1924</h3>
+      <DateDivider date="Sunnuntai, 13.1.1924"/>
       <Article titleText="Raaka puukotus.">
         <h5>Juopunut roisto puukottanut eilen illalla kahta iäkästä miestä.</h5>
         <p>Raaka puukotus tapahtui eilen illalla klo ½ 6 tienoissa Lääninsairaalan kohdalla. Kun ent. pika-ajuri W. Mollberg ja kruununluotsi Oksanen kulkiwat mainitun sairaalan kohdalla tuli heitä wastaan juopunut huligaani, joka 
@@ -72,8 +68,7 @@ const Crimes1924Page = () => {
         <p> Kumpikaan puukotetuista, jotka owat jo iäkkäitä miehiä, eiwät tunne puukottajaa. Poliisi on kuitenkin hänen jäljillään ja toiwottawasti roisto saa raakalaisteostaan ansaitsemansa rangaistuksen.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 15.1.1924</h3>
+      <DateDivider date="Tiistai, 15.1.1924"/>
       <Article titleText="Huligaanit jatkawat mellastustaan kaupungissamme.">
         <h5>Jälleen rauhalliset matkaajat hengenwaarassa.</h5>
         <p>Wiime sunnuntai-iltana läksi kaksi hämeenlinnalaista herrasmiestä pika-ajurilla kaupungista tarkoituksella kulkea Ojoisten wirkatalon ohitse Hämeenlinnan maalaiskunnan Wuorentaan kylään. Linnanniemellä hyökkäsi heidän 
@@ -133,8 +128,7 @@ const Crimes1924Page = () => {
           nauttinut, mutta aina kohtuullisessa määrässä eikä nyt pidempään aikaan.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Keskiviikko, 16.1.1924</h3>
+      <DateDivider date="Keskiviikko, 16.1.1924"/>
       <Article titleText="Myllymäen werityö.">
         <h5>Uhrien tila.</h5>
         <p>Maanantain wastaisena yönä Myllymäessä kaamean werityön uhreiksi joutuneitten tilan eilen illalla lääninsairaalasta tiedustellessamme saimme tietää, että Ekholmin tyttö Ester edelleenkin on tajuttomassa tilassa. Sen sijaan 
@@ -143,8 +137,7 @@ const Crimes1924Page = () => {
         <p>Eilen passitettiin Ekholm, jota on säilytetty täkäläisessä etsiwässä osastossa, Hämeenlinnan lääninwankilaan odottamaan jutun oikeudellista käsittelyä. Juttu tulee esille Hämeenlinnan raastuwanoikeudessa ensi wiikolla.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Perjantai, 18.1.1924</h3>
+      <DateDivider date="Perjantai, 18.1.1924"/>
       <Article titleText="Warkauksia Riihimäellä.">
         <h5>Matkustajalta wiety matkalaukku tawaroineen.</h5>
         <p>Eilistä wastaan yöllä Helsingistä Rajajoelle matkalla olewan junan seisoessa Riihimäen asemalla warastettiin toisen luokan matkustajawaunusta Wiipurin pitäjästä kotoisin olewan tilallisen pojan Mauri Lagerstamin matkakalaukku 
@@ -166,8 +159,7 @@ const Crimes1924Page = () => {
         <p>Muuten mainittakoon, että wuoden kuluessa on Syyrin suwusta kuollut sisar ja äiti, sitten ampui 15-wuotias poika itsensä, ennen joulua kuoli poika sotawäkeen ja nyt ampui ylläminittu Syyri itsensä.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 19.1.1924</h3>
+      <DateDivider date="Lauantai, 19.1.1924"/>
       <Article titleText="Myllymäessä tapahtunut weriteko.">
         <h5>Uhrien tila.</h5>
         <p>Eilen illalla lääninsairaalasta tiedustellessamme Ekholmin waimon ja lasten tilaa, ilmoitettiin meille waimon ja pojan olewan parempaan päin. Tyttö on edelleenkin tajuttomassa tilassa.</p>
@@ -177,8 +169,7 @@ const Crimes1924Page = () => {
           ei Flinckman sanonut tuntevansa.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Sunnuntai, 20.1.1924</h3>
+      <DateDivider date="Sunnuntai, 20.1.1924"/>
       <Article titleText="Hattulan maantiellä ryöstetty hewonen tawattu Kärkölässä.">
         <h5>Ryöstäjiä ei ole saatu kiinni.</h5>
         <p>Kuten sanomalehdissä on kerrottu, ryöstettiin t.k. 12 pnä Hattulan maantiellä klo 9 aikaan illalla eräältä Kalle Heikkilä-nimiseltä hewonen ajopeleineen ja tawaroineen. Ryöstön suoritti kaksi mieshenkilöä ja 1 nainen siten, 
@@ -187,16 +178,14 @@ const Crimes1924Page = () => {
         <p>Ryöstön tehneistä henkilöistä ei poliisilla wielä liene tietoa.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 22.1.1924</h3>
+      <DateDivider date="Tiistai, 22.1.1924"/>
       <Article titleText="Myllymäen weriteon uhrit.">
         <h5>Heidän tilansa ennallaan.</h5>
         <p>Eilen illalla Hämeenlinnan lääninsairaalasta tiedustellessamme Myllymäen werityön uhrien Ekholmin waimon ja lasten tilaa, ilmoitettiin heidän tilansa olewan ennallaan. Tyttö on edelleenkin tajuttomassa tilassa.</p>
         <p>Juttu Ekholmia wastaan tulee huomenna esille Hämeenlinnan raastuwanoikeudessa.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Keskiviikko, 23.1.1924</h3>
+      <DateDivider date="Keskiviikko, 23.1.1924"/>
       <Article titleText="Hattulassa tapahtunut hewosryöstö.">
         <h5>Yksi ryöstäjistä saatu pidätetyksi.</h5>
         <p>Kuten jo on kerrottu, ryöstettiin t.k. 12 pnä Hattulassa Hauhon pitäjästä kotoisin olewalta maanwiljelijä Kalle Rauhalahdelta hewonen, minkä ryöstön suoritti kaksi miestä ja eräs naishenkilö, jotka oliwat pyytäneet 
@@ -215,8 +204,7 @@ const Crimes1924Page = () => {
           hengenwaarallisia. Hilden pakeni tekoansa tehtyään, eikä häntä wielä ole saatu kiinni.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Torstai, 24.1.1924</h3>
+      <DateDivider date="Torstai, 24.1.1924"/>
       <Article titleText="Myllymäessä tapahtunut murha.">
         <h5>Juttu Ekholmia wastaan ollut eilen esillä Hämeenlinnan raastuwanoikeudessa, mutta lykätty helmikuun 6:een päiwään.</h5>
         <p>Eilen oli Hämeenlinnan raastuwanoikeudessa ensi kerran esillä syyte muurari Kalle Konstantin Ekholmia wastaan, joka wiime wiikon maanantain wastaisena yönä wasaralla ruhjoi Hämeenlinnan Myllymäessä Torikadun 11:ssä 
@@ -231,8 +219,7 @@ const Crimes1924Page = () => {
         <p>Mikäli olemme saaneet kuulla, lienee kysymyksessä n. 9,000 mk. suuruinen summa.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 26.1.1924</h3>
+      <DateDivider date="Lauantai, 26.1.1924"/>
       <Article titleText="Ryöstö Forssassa.">
         <h5>Wiinakauppias myy pirtua puukon awulla.</h5>
         <p>Tiistai-iltana tapahtui Forssan Kuuston kylässä rohkea ryöstö. Muuan Wille Nybom-niminen irtolainen tarjosi eräälle Koiwula-nimiselle henkilölle pirtua 40 markan hinnasta limonaadipullollinen. Kun Koiwula kieltäntyi 
@@ -241,8 +228,7 @@ const Crimes1924Page = () => {
           kärsinyt rangaistuksia warkaudesta.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Sunnuntai, 27.1.1924</h3>
+      <DateDivider date="Sunnuntai, 27.1.1924"/>
       <Article titleText="Humppilan werityö.">
         <h5>Syyrin ampuma mies kuollut.</h5>
         <p>Kuten aikoinaan kerroimme, ampui Humppilassa t.k. 1 päiwän iltana U. Syyri -niminen mies sukulaistaan O. Eskolaa rintaan. Eskolaa hoidettiin Forssan sairaalassa ja on hän nyttemmin kuollut. Häneltä jäi waimo ja kaksi lasta. 
@@ -257,15 +243,13 @@ const Crimes1924Page = () => {
           hätäwarjeluksessa.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Keskiviikko, 30.1.1924</h3>
+      <DateDivider date="Keskiviikko, 30.1.1924"/>
       <Article titleText="Myllymäessä tapahtunut werityö.">
         <h5>Toinenkin werityön uhreista kuollut.</h5>
         <p>Eilen kuoli Hämeenlinnan lääninsairaalassa Myllymäessä muurari Ekholmin asunnossa tapahtuneen werityön uhreista toinen, muurari Ekholmin 7-wuotias tyttö.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Keskiviikko, 6.2.1924</h3>
+      <DateDivider date="Keskiviikko, 6.2.1924"/>
       <Article titleText="Tappelu Hattulassa.">
         <h5>Kolme miestä saanut puukonhaawoja.</h5>
         <p>Wiime lauantai-iltana oli Sattulan työwäentalolla Idänpään woimisteluseura „Toiween” wierailuiltama, mihin oli saapunut myös joukko huligaaneja. Näiden kesken syntyi työwäentalon pihamaalla riita sillä seurauksella, että 
@@ -275,8 +259,7 @@ const Crimes1924Page = () => {
         <p>Tappeluun osaaottaneista oliwat muutamat jonkun werran humalassa.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Torstai, 7.2.1924</h3>
+      <DateDivider date="Torstai, 7.2.1924"/>
       <Article titleText="Myllymäessä tapahtunut murha.">
         <h5>Juttu Ekholmia wastaan ollut eilen esillä Hämeenlinnan raastuwanoikeudessa, mutta lykätty helmikuun 20 päiwään.</h5>
         <p>Eilen oli Hämeenlinnan raastuwanoikeudessa toisen kerran esillä syyte muurari Kalle Konstantin Ekholmia wastaan, joka muutama wiikko sitten eräänä yönä wasaralla ruhjoi Myllymäessä Torikadun 11:ssa waimoaan ja kolmea 
@@ -284,8 +267,7 @@ const Crimes1924Page = () => {
         <p>Raastuwanoikeus lykkäsi jutun enemmän käsittelyn helmikuun 20 päiwään lääninwankilan lääkärin lausunnon saantia warten Ekholmin mielentilasta.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Torstai, 14.2.1924</h3>
+      <DateDivider date="Torstai, 14.2.1924"/>
       <Article titleText="Wiialassa tapahtunut puukotus.">
         <h5>Toinenkin konst. Heikkilän puukottaja pidätetty.</h5>
         <p>Niinkuin aikoinaan kerroimme, puukotettiin Wiialassa joitakin aikoja sitten poliisikonstaapeli Heikkilää, hänen ollessaan wirantoimituksessa, melko pahasti, niin että hänen oli turwauduttawa lääkärinhoitoon. Toinen 
@@ -294,8 +276,7 @@ const Crimes1924Page = () => {
           wankilassa sowittamassa entisiä kolttosiaan.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Torstai, 21.2.1924</h3>
+      <DateDivider date="Torstai, 21.2.1924"/>
       <Article titleText="Myllymäessä tapahtunut murha.">
         <h5>Raastuwanoikeus määrännyt Ekholmin toimitettawaksi mielisairaalaan hänen mielentilansa selwille saamiseksi.</h5>
         <p>Hämeenlinnan raastuwanoikeuden eilisessä istunnossa oli kolmannen kerran esillä syyte muurari Kalle Konstantin Ekholmia wastaan tunnetusta Myllymäessä tapahtuneesta werityöstä. Lääninwankilan lääkäriltä, tri Sahlbergilta 
@@ -305,8 +286,7 @@ const Crimes1924Page = () => {
           johonkin waltion mielisairaalaan, jotta hänen mielentilastaan saadaan lausunto.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Sunnuntai, 2.3.1924</h3>
+      <DateDivider date="Sunnuntai, 2.3.1924"/>
       <Article titleText="Puukotus Riihimäellä.">
         <h5>Humalainen iskenyt poliisia puukolla.</h5>
         <p>Eilen aamupäiwällä ilmoitettiin Riihimäen poliisilaitokselle, että Riihimäen lasitehtaalla pari humalaista miestä hieroi riitaa, minkä wuoksi poliisilaitokselta lähetettiin kaksi poliisia paikalle. Poliisien saawuttua paikalle 
@@ -344,8 +324,7 @@ const Crimes1924Page = () => {
         <SubDivider className="dividerStyle" />
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Keskiviikko, 5.3.1924</h3>
+      <DateDivider date="Keskiviikko, 5.3.1924"/>
       <Article titleText="Puukotus Hattulassa.">
         <h5>Kahta miestä lyöty, joista toista hengenwaarallisesti.</h5>
         <p>Wiime sunnuntaina tapahtui Hattulan Pekolassa puukotus, jossa 2 miestä sai haawoja. Maantiellä oliwat kirwesmies Einari Heinonen ja työmies Eemeli Lundahn tawanneet työmies F. A. Heinosen, joka oli ollut päihtyneessä tilassa. 
@@ -355,8 +334,7 @@ const Crimes1924Page = () => {
         <p>Niin puukotetut kuin puukottajakin owat kotoisin Hattulasta.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Torstai, 6.3.1924</h3>
+      <DateDivider date="Torstai, 6.3.1924"/>
       <Article titleText="Syyte kunnankirjuri Wanhalaa wastaan.">
         <h5>Wastaaja tuomittu 1 w:ksi 9 kk:ksi kuritushuoneeseen.</h5>
         <p>Hämeenlinnan raastuwanoikeuden eilisessä istunnossa oli kolmannen kerran esillä juttu Wanajan entistä kunnankirjuria Arwi Wanhalaa wastaan. Wastaaja oli oikeuteen tuotu lääninwankilasta ja awusti häntä howioik. ausk. J. 
@@ -381,8 +359,7 @@ const Crimes1924Page = () => {
         <p>Kuulusteluja jatketaan.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Perjantai, 7.3.1924</h3>
+      <DateDivider date="Perjantai, 7.3.1924"/>
       <Article titleText="Itsemurha Hämeenlinnassa">
         <h5>Nainen päättänyt päiwänsä myrkyttämällä itsensä.</h5>
         <p>Eilen klo 2 ajoissa päiwällä päätti Hämeenlinnassa aseman takana olewassa Tuomelan huwilassa päiwänsä tarjoilijatar Lyyli Laine, nauttimalla lykooli- ja rikkihapposekoitusta. Kun tapaus huomattiin, toimitettiin hänet 
@@ -403,8 +380,7 @@ const Crimes1924Page = () => {
         <p>Niin ammuttu kuin ampujakin owat wielä nuoria miehiä. Lilja on tunnettu siiwoksi mieheksi, kun sen sijaan Snellman on tunnettu räyhääjä.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 8.3.1924</h3>
+      <DateDivider date="Lauantai, 8.3.1924"/>
       <Article titleText="Hämeenlinnassa pidätetty ullakkowaras.">
         <h5>Satimeen joutunut onkin oikea ammattimies alallaan.</h5>
         <p>Niinkuin torstaina kerroimme, pidätettiin Hämeenlinnassa keskiwiikkona Inkeristä kotoisin olewa Paawo Penniö syyllisenä täällä edellisenä yönä tekemiinsä ullakkomurtoihin. Paitsi silloin mainitsemiamme tawaroita, joita 
@@ -423,8 +399,7 @@ const Crimes1924Page = () => {
         </p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 18.3.1924</h3>
+      <DateDivider date="Tiistai, 18.3.1924"/>
       <Article titleText="Jännittäwä pirtutrokarin takaa-ajo Janakkalan Saloisilla.">
         <h5>Laukausten waihdossa haawoittunut yksi takaa-ajajista ja kaksi hewosta.</h5>
         <p>Wiime lauantaina päiwällä lähti pari metsätyönjohtajaa Janakkalan pitäjän Salosten kylästä takaa-ajamaan erästä tunnettua pirtutrokaria, nimeltä Olli Numminen Wanajan Mallinkaisilta. Lyhentääkseen pirtutrokarin saawuttamaa 
@@ -443,8 +418,7 @@ const Crimes1924Page = () => {
           on hän harjoittanut pitkän aikaa pirtukauppaa, ollen tunnettu oikeaksi huligaaniksi paikkakunnallaan. Näistä kaikista samoinkuin luwattomasta aseenkannostakin joutuu hän wastaamaan kihlakunnanoikeudessa.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Torstai, 20.3.1924</h3>
+      <DateDivider date="Torstai, 20.3.1924"/>
       <Article titleText="Suuri pirtutakawarikko Hausjärwellä.">
         <h5>300 litraa „ainetta” joutunut poliisiwiranomaisten käsiin.</h5>
         <p>Eilen takawarikoiwat Riihimäen poliisiwiranomaiset Hausjärwen Wantaan kylässä ennestään poliisille tunnetun pirtutrokarin Sakeus Mäkisen tallirakennuksesta 300 l. pirtua. Tawara oli kätketty heiniin ja oli se maanteitse 
@@ -462,8 +436,7 @@ const Crimes1924Page = () => {
         <p>Hilden ja Nieminen passitettiin lääninwankilaan, mutta Kataja päästettiin toistaiseksi wapaalle jalalle.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Perjantai, 21.3.1924</h3>
+      <DateDivider date="Perjantai, 21.3.1924"/>
       <Article titleText="Kaksi kuolemantuottanutta pahoinpitelytapausta.">
         <h5>Howioikeus wahwistanut alistetut tuomiot.</h5>
         <p>Aikoinaan tuomitsi Urjalan y. m. pitäjien käräjäkunnan kihlakunnanoikeus lohkotilallisenpojan Kalle A. Yrjölän Urjalasta kuolemantuottaneesta pahoinpitelystä erittäin liewentäwien asianhaarain wallitessa pidettäwäksi 
@@ -476,8 +449,7 @@ const Crimes1924Page = () => {
         <p>Howioikeus on nyttemmin tuominnut Lindgrenin samansuuruiseen rangaistukseen kuin raastuwanoikeuskin, joskin jossain määrin eri perustein.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Torstai, 27.3.1924</h3>
+      <DateDivider date="Torstai, 27.3.1924"/>
       <Article titleText="Riihimäellä tapahtunut poliisin pahoinpitely.">
         <h5>Wastaaja tuomittu wuodeksi kuritushuoneeseen.</h5>
         <p>Kuten aikaisemmin olemme kertoneet, tapahtui Riihimäen lasitehtaalla joku aika sitten pahoinpitely, minkä alaiseksi joutui eräs humalaisia rauhoittamaan lähetetty poliisikonstaapeli. Tällöin iski nimittäin työmies T. A. 
@@ -486,8 +458,7 @@ const Crimes1924Page = () => {
           rangaistuksen yhdistettyinä tuomittiin wastaaja pidettäwäksi 1 w. 7 p. kuritushuoneessa.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Perjantai, 28.3.1924</h3>
+      <DateDivider date="Perjantai, 28.3.1924"/>
       <Article titleText="Tshekan urkkija murtowarkaana Suomessa.">
         <h5>Inkeriläinen Pönniö saanut eilen tuomionsa lukuisista murtowarkauksista Hämeenlinnassa.</h5>
         <p>Lempäälän pitäjästä Inkerinmaalta kotoisin olewa torpparin poika Paawo Pönniö tuomittiin eilisessä Hämeenlinnan raastuwanoikeuden istunnossa jatkuwasta murtowarkaudesta 1:ksi wuodeksi 2:ksi kuukaudeksi kuritushuoneeseen, 
@@ -505,8 +476,7 @@ const Crimes1924Page = () => {
           wäkijuomain hallussapidosta ja tällöin ilmoittanut nimekseen Kalle Walkama.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Sunnuntai, 30.3.1924</h3>
+      <DateDivider date="Sunnuntai, 30.3.1924"/>
       <Article titleText="Roswot ryöstäneet pikajunan Hikiän ja Riihimäen wälillä.">
         <h5>Joukko entisiä punakaartilaisia ja irtipäästettyjä wankeja tuhotöissä.</h5>
         <p>Riihimäen Samomat kertowat:</p>
@@ -518,8 +488,7 @@ const Crimes1924Page = () => {
           ei kannata ryhtyä. Tällaisia uutisia woimme saada tulewaisuudessa lukea, ellemme ensi tiistaina ja keskiwiikkona toimitettawissa eduskuntawaaleissa käy wetämässä wiiwamme Kansallisen Kokoomuspuolueen listoihin!</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Sunnuntai, 13.4.1924</h3>
+      <DateDivider date="Sunnuntai, 13.4.1924"/>
       <Article titleText="Petollisia pirtukauppiaita.">
         <h5>Myyneet Hämeenlinnassa ostajalleen wettä pirtun asemasta.</h5>
         <p>Eilen aamulla ilmotti H:linnassa ajawa kuorma-ajuri Oskari Yliseppä, että hän sanottuna aamuna klo ½9 ajoissa oli Hämeenlinnan kauppatorilta ostanut parilta mieheltä 20 litraa pirtua, joka oli 4:ssä 5:n litran kanisterissa, 
@@ -529,8 +498,7 @@ const Crimes1924Page = () => {
         <p>Mainittakoon, että petos pirtukaupassa oli tapahtunut siten, että kanistereihin oli pantu torwet, joissa oli n. 200 grammaa pirtua, kun sen sijaan muu osa oli wettä.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 15.4.1924</h3>
+      <DateDivider date="Tiistai, 15.4.1924"/>
       <Article titleText="Hämeenlinnan kapinallispatsasjuttu.">
         <h5>Howioikeus wahwistanut raastuwanoikeuden päätöksen.</h5>
         <p>Hämeenlinnan raastuwanoikeudessa waadittiin aikoinaan toimittaja Henrif Harald Toiwolalle, liikeapulaiselle Jalmari Stefanias Kuuselalle, sanomalehtimies Kaarlo Myllymäelle ja työmies K. W. B. Aleniukselle Hämeenlinnasta, 
@@ -542,8 +510,7 @@ const Crimes1924Page = () => {
           muutosta.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Torstai, 17.4.1924</h3>
+      <DateDivider date="Torstai, 17.4.1924"/>
       <Article titleText="Tappelurähäkkä Toijalassa.">
         <h5>Mies saanut pirtutrokareilta parikymmentä puukon y.m. haawaa.</h5>
         <p>Wiime sunnuntaina tapahtui Toijalan työwäentalon lähistöllä tappelumetakka, jonka aikana työmies Yrjö Selniä hakattiin puukoilla ja nyrkkiraudoilla. S. oli riitaantunut jostain syystä paikkakunnalla tunnettujen pirtutrokarien 
@@ -551,8 +518,7 @@ const Crimes1924Page = () => {
         <p>Tulkoon mainituksi, että Toijalan asemaseudulla on elämä wiime aikoina kaikenlaisten hulikaanien ja pirtutrokarien ansiosta käynyt rauhallisille ihmisille aiwan sietämättömäksi.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Perjantai, 18.4.1924</h3>
+      <DateDivider date="Perjantai, 18.4.1924"/>
       <Article titleText="Surullinen wahinkolaukaus Forssassa.">
         <h5>Aiheuttanut 18-wuotiaan tytön kuoleman.</h5>
         <p>Wiime maanantai-iltana klo 7 ajoissa tapahtui Forssassa surullinen onnettomuus. Mainittuna aikana ryhtyi nimismies Waltosen 18-wuotias tytär puhdistamaan isänsä rewolweria. Neiti Waltosen yrittäessä purkaa asetta, laukesi 
@@ -571,8 +537,7 @@ const Crimes1924Page = () => {
           tällaiset tapaukset eiwät ole wain yksityisten turwallisuuden, waan myös lain julkisen polkemisen kannalta paheksuttawia.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Perjantai, 24.4.1924</h3>
+      <DateDivider date="Perjantai, 24.4.1924"/>
       <Article titleText="Waltiopetosjutut.">
         <h5>Talollinen Pulkki Hauholta syytteessä howioikeudessa.</h5>
         <p>Turun howioikeuden kolmannella osastolla, jonka puheenjohtajana on howioikeuden neuwos G. Hawu, oli eilen käsiteltäwänä Hauholta kotoisin olewaa talollista J. W. Pulkkia wastaan nostettu syyte waltiopetoksesta. Pulkki on 
@@ -583,8 +548,7 @@ const Crimes1924Page = () => {
           jutun käsittely heidän kuulemistaan warten toukokuun 9:nteen päiwään.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 29.4.1924</h3>
+      <DateDivider date="Tiistai, 29.4.1924"/>
       <Article titleText="Miehen ruumis löydetty Wanajawedestä.">
         <h5>Ruumista arwellaan wiime joulukuussa Hattulasta kadonneen Lahden ruumiiksi.</h5>
         <p>Eilen klo ½7 ajoissa ip. ilmoitti täkäläiselle poliisilaitokselle eräs henkilö, että hän, ollessaan kokemassa rysiään Wanajawedessä, Hämeenlinnan Rantapuiston wastaisella puolella, oli tawannut siellä mätänemistilassa olewan 
@@ -606,8 +570,7 @@ const Crimes1924Page = () => {
         <p> Eilen toimittiwat poliisiwiranomaiset asiasta tutkimuksen.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 3.5.1924</h3>
+      <DateDivider date="Lauantai, 3.5.1924"/>
       <Article titleText="Joulumarkkinoilla tapahtunut hewosenryöstö.">
         <h5>Toinenkin ryöstäjistä pidätetty.</h5>
         <p>Kuten aikoinaan kerroimme, ryöstettiin Hauholta kotoisin olewalta maanw. Rauhalahdelta Hattulaan wiewällä maantiellä hänen palatessaan Hämeenlinnan joulumarkkinoilta hewonen rekineen. Ryöstön suorittiwat kaksi miestä ja yksi 
@@ -620,8 +583,7 @@ const Crimes1924Page = () => {
         <p>Kolmas ryöstöön osaaottanut, nainen Martta Tourunen eli Kakkinen, kotoisin Kuopiosta, on edelleen karkutiellä.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Sunnuntai, 4.5.1924</h3>
+      <DateDivider date="Sunnuntai, 4.5.1924"/>
       <Article titleText="Puukotus Lempäälässä.">
         <h5>„Liikemies” turwautunut tikariin „liikeasioista” keskusteltaessa.</h5>
         <p>Wiime keskiwiikkona oliwat „liikemiehet” E. Salminen ja Toiwo Mäkinen ryhtyneet juopottelemaan ensinmainitun asunnossa Lempäälän ja Akaan rajalla. Jostain syystä tuli kuitenkin herroille riita „liikeasioista” keskustellessa 
@@ -629,8 +591,7 @@ const Crimes1924Page = () => {
           Mäkinen Tampereelle yleiseen sairaalaan, jossa häntä hoidetaan. Salminen on pidätetty.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 6.5.1924</h3>
+      <DateDivider date="Tiistai, 6.5.1924"/>
       <Article titleText="Pidätetty seikkailijanainen.">
         <h5>Wuoden ajan ympäri maata „wieraillut” nainen pidätetty Janakkalassa.</h5>
         <p>Wiime huhtikuun 23 pnä pidättiwät Janakkalan poliisiwiranomaiset mainitun pitäjän Wiralan kylässä erään naishenkilön syystä, että tämä oli palstatilallisen Mikko Salosen luona tehnyt anastuksen ja myös samanlaisen teon 
@@ -645,8 +606,7 @@ const Crimes1924Page = () => {
         <p>Raition on Janakkalan nimismies passittanut irtolaisena wankilaan.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Torstai, 8.5.1924</h3>
+      <DateDivider date="Torstai, 8.5.1924"/>
       <Article titleText="Hattulan Katinalassa tapahtunut miestappo.">
         <h4>Talollisen pojan Kustaa Mäkelän todettu toimineen itsepuolustuksessa.</h4>
         <h5>Joutomies Arwo Enqwist saanut surmansa omasta puukostaan.</h5>
@@ -662,8 +622,7 @@ const Crimes1924Page = () => {
           edeswastuusta. Kulut määrättiin waltion kustannettawiksi lukuunottamatta erinäisiä wähäisempiä, jotka owat asianomaisten suoritettawat.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 10.5.1924</h3>
+      <DateDivider date="Lauantai, 10.5.1924"/>
       <Article titleText="Werityö Myllymäessä.">
         <h5>Jääkäritykistön kersanttia ammuttu hengenwaarallisesti.</h5>
         <p>Wiime perjantain wastaisena yönä klo  ½12 aikan tuli Myllymäessä Läntisellä Wiertotiellä passissa olleen wartiokonstaapelin luo eräs mies ilmoittaen, että hänen asunnossaan oli haawoittunut sotilas, joka olisi toimitettawa 
@@ -701,8 +660,7 @@ const Crimes1924Page = () => {
           Seppälältä yhden kanisterin spriitä. Petkuttajat tuomittiin kumpikin puoleksitoista wuodeksi wankeuteen ja wiinanomistaja hallussapidosta 1,125 markan sakkoihin.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 13.5.1924</h3>
+      <DateDivider date="Tiistai, 13.5.1924"/>
       <Article titleText="Myllymäen ampumistapaus.">
         <h5>Kersantti Ahonen kuollut.</h5>
         <p>Jääkäritykistörykmentin kersantti Ahonen, joka wiime perjantain wastaisena yönä joutui Myllymäessä teurastaja Kalle Nurmisen asunnossa nähtäwästi wahingonlaukauksen uhriksi, kuoli saamansa waikean ampumahaawan johdosta täkäl. 
@@ -710,8 +668,7 @@ const Crimes1924Page = () => {
         <p>Wainaja, joka oli syntynyt 1899, oli kotoisin Wesannon pitäjästä.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Torstai, 15.5.1924</h3>
+      <DateDivider date="Torstai, 15.5.1924"/>
       <Article titleText="Raaka weriteko Urjalassa.">
         <h5>Eräs 17-wuotias talollisenpoika joutunut pahoinpitelyn uhriksi.</h5>
         <p>Eilen aamulla klo 4 ajoissa tapahtui Urjalassa raaka pahoinpitely, mistä olemme saaneet seuraawat tiedot:</p>
@@ -722,8 +679,7 @@ const Crimes1924Page = () => {
         <p>Asian johdosta pidettiin eilen poliisitutkinto. Lehtonen on toistaiseksi pidätettynä.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 20.5.1924</h3>
+      <DateDivider date="Tiistai, 20.5.1924"/>
       <Article titleText="Wekseliwäärennyksestä pidätetty.">
         <h5>Kysymyksessä on kaikkiaan n. 23,000 mk.</h5>
         <p>Mikäli olemme saaneet tietää, on Hämeenlinnan poliisin toimesta pidätetty täällä eräs entinen kauppias, joka tehdyn ilmoituksen mukaan olisi tehnyt itsensä syypääksi 13,150 mk. suuruiseen wekseliwäärennykseen ja 10,000 mk. 
@@ -731,8 +687,7 @@ const Crimes1924Page = () => {
         <p>Edelläolewan tietomme johdosta käännyimme eilen illalla Hämeenlinnan etsiwän osaston puoleen, mutta ilmoitettiin meille, ettei poliisi wielä asian nykyisellä asteella ollessa woi antaa siitä mitään tietoja.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Perjantai, 23.5.1924</h3>
+      <DateDivider date="Perjantai, 23.5.1924"/>
       <Article titleText="Miestappo Lammilla.">
         <h5>Tuuloslainen työmies ammuttu.</h5>
         <p>Wiime sunnuntai-iltana klo 8 aikaan tapahtui Lammilla Mommilan tukkityömaalla werityö, jonka uhriksi joutui työmies Jussi Hakala Tuuloksen pitäjän Teuron kylästä. Pidetyssä poliisitutkinnossa on käynyt ilmi seuraawaa:</p>
@@ -745,8 +700,7 @@ const Crimes1924Page = () => {
         <p>Molemmat oliwat nuoria naimattomia miehiä. Laine on kotoisin Lammin pitäjän Riikosten kylästä ja toiminut erään puutawarayhtiön apulaistyönjohtajana.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 24.5.1924</h3>
+      <DateDivider date="Lauantai, 24.5.1924"/>
       <Article titleText="Koulupoika ampunut ikäistään Lopella.">
         <h5>Ammuttu kuollut eilen.</h5>
         <p>T.k. 20 pnä ampui Lopella Pilpalan kansakoululla Paawo Ekholm Tauno Wiitalaa mauserpistoolilla watsaan. Haawoittunutta lähdettiin heti junalla wiemään Helsinkiin lääkärinapua saamaan. Ampuja kuten ammuttukin oliwat 
@@ -774,8 +728,7 @@ const Crimes1924Page = () => {
           tuomittiin wastaaja pidettäwäksi 8 kk. wankeudessa sekä menettämään takawarikoitun pistoolin ja pirtun waltiolle ja suorittamaan todistajapalkkioita 574 mk.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 31.5.1924</h3>
+      <DateDivider date="Lauantai, 31.5.1924"/>
       <Article titleText="Surullisesti päättynyt automatka.">
         <h5>Janakkalan kunnan ulosottoapulainen I. Karjalainen saanut tapaturmassa surmansa.</h5>
         <p>Helatorstain wastaisena yönä tapahtui Hämeenlinnan lähistöllä Hattelmalan harjulla surullinen tapaturma, jossa Janakkalan kunnan ulosottoapulainen, ent. nimismies Iiwari Karjalainen sai surmansa. Tapahtumasta on pidetyssä 
@@ -790,8 +743,7 @@ const Crimes1924Page = () => {
         <p>Tapaturmassa surmansa saanut Karjalainen oli perheellinen mies ja iältään n. 45 wuoden ikäinen.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 3.6.1924</h3>
+      <DateDivider date="Tiistai, 3.6.1924"/>
       <Article titleText="Hämeenlinnassa pidätetty wekselinwäärentäjä.">
         <h5>Tunnustanut tekonsa.</h5>
         <p>Kuten olemme kertonneet, pidättiwät Hämeenlinnan poliisiwiranomaiset täällä joku aika sitten erään entisen kauppiaan epäiltynä wekseli- ja kassakreditiiwilainan nimikirjoituksien wäärentämisestä. Pidätetty, joka on nimeltään 
@@ -819,8 +771,7 @@ const Crimes1924Page = () => {
           sakkoon. Lisäksi tuomittiin hänet maksamaan pahoinpitelemilleen henkilöille kuluja, lääkärinpalkkioita y.m. yht. 4,420 mk.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Keskiviikko, 4.6.1924</h3>
+      <DateDivider date="Keskiviikko, 4.6.1924"/>
       <Article titleText="Leppäkoskella tapahtunut miesmurha.">
         <h5>Poliisitutkinta toimitettu.</h5>
         <p>Niinkuin eilen kerroimme, ampui Leppäkoskella wiime maanantain wastaisena yönä talollisenpoika T. Niinimäki työmies J. Stoltia rewolwerilla rintaan, niin että haawoitettu paikalla heitti henkensä.</p>
@@ -835,8 +786,7 @@ const Crimes1924Page = () => {
         <p>Niinimäki, joka on tunnettu siiwoksi nuorukaiseksi, on pidätetty tutkintoa warten ja tulee asia käsiteltäwäksi wälikäräjillä t.k. 18 pnä.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 7.6.1924</h3>
+      <DateDivider date="Lauantai, 7.6.1924"/>
       <Article titleText="Pirtutakawarikko Forssassa.">
         <h5>Helsinkiläinen ompelijatar kauppamatkalla.</h5>
         <p>Wiime lauantai-illalla oli Forssaan saapunut Helsingistä ompelijatar Anna Hillenberg tarkoituksenaan harjoittaa paikkakunnalla pientä pirtukauppaa. Poliisiwiranomaiset saiwat kuitenkin wihiä asiasta ja ryhtyiwät ottamaan 
@@ -846,8 +796,7 @@ const Crimes1924Page = () => {
           wankeusrangaistusta pirtukaupasta.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Torstai, 12.6.1924</h3>
+      <DateDivider date="Torstai, 12.6.1924"/>
       <Article titleText="Werityö Hattulassa.">
         <h5>Mies pistetty tikarilla kuoliaaksi.</h5>
         <p>Helluntain aattona tapahtui Hattulassa Nihattulan kylässä miesmurha, jonka uhriksi joutui maalari Frans Halminen Porista. Sanottuna iltana klo ½11 ajoissa oli Halminen, joka oli wahwasti humalassa, käwellyt 3 sotamiehen kanssa 
@@ -872,8 +821,7 @@ const Crimes1924Page = () => {
         <p>Milloin asia tulee oikeuden käsiteltäwäksi, siitä ei ole wielä tietoa.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Perjantai, 13.6.1924</h3>
+      <DateDivider date="Perjantai, 13.6.1924"/>
       <Article titleText="Suuri rahawarkaus Hauholla.">
         <h5>Poliisi pidätetty epäluulonalaisena warkauteen.</h5>
         <p>Helatorstaina tapahtui Hauholla suuri rahawarkaus, johon syyllisenä epäiltynä on pidätetty Witsiälän kylässä asuwa poliisikonstaapeli Toiwonen. Asia olisi tapahtunut siten, että mainitun päiwän iltana oliwat tilanomistaja 
@@ -882,8 +830,7 @@ const Crimes1924Page = () => {
           häneen ja Toiwonesta tutkittua ilmeni seikkoja, joiden perusteella hänet pidätettiin. Juttu tullenee käsiteltäwäksi kesäk. 17 pnä pidettäwillä wälikärijillä. </p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 14.6.1924</h3>
+      <DateDivider date="Lauantai, 14.6.1924"/>
       <Article titleText="Hurja mustalaisnainen.">
         <h5>Iskenyt miehen puukolla henkitoreisiin.</h5>
         <p>Toissailtana tapahtui Pullerinmäen ja Hattulan wälisellä maantiellä werityö, joka woi waatia uhrikseen ihmishengen.</p>
@@ -899,16 +846,14 @@ const Crimes1924Page = () => {
         <p>Kuinka paljon tämä Nymanin kertomus pitää paikkansa ja kuinka kaikki oikeastaan tapahtui, sen selwittänewät tutkimukset, joita edelleenkin jatketaan.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 17.6.1924</h3>
+      <DateDivider date="Tiistai, 17.6.1924"/>
       <Article titleText="Hattulan maantiellä tapahtunut puukotus.">
         <h5>Puukottaja tunnustanut.</h5>
         <p>Pullerinmäen ja Hattulan wälisellä maantiellä tapahtuneeseen puukotukseen, jonka uhriksi joutui Nihattulasta kotoisin olewa maalari Kustaa Tamminen, on jatkuwien kuulustelujen perusteella nyttemmin selwitetty, että 
           mustalaisnainen Hilja Nyman on tunnustanut syyllisyytensä. Puukottaja on passitettu Hämeenlinnan lääninwankilaan. Tamminen on edelleen heikkona sairaana. Muita mustalaisia kuulustellaan wielä tänään.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Keskiviikko, 18.6.1924</h3>
+      <DateDivider date="Keskiviikko, 18.6.1924"/>
       <Article titleText="Katala murhayritys Padasjoella.">
         <h5>Eläkemies yritetty murhata strykniinillä.</h5>
         <p>Katala murhayritys tehtiin w.k. 24 pnä eläkemies Konstantin Långia wastaan Heikkilän torpassa Wirmailassa. Lång, joka poikansa kanssa asuu mainitussa torpassa omassa huoneessaan, oli työstä tultuaan keittänyt kahwia ja 
@@ -918,8 +863,7 @@ const Crimes1924Page = () => {
         <p>Kuka tämä murhayrityksen on tehnyt, ei ole wielä paikallisten wiranomaisten tutkimuksista käynyt selwille.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Torstai, 19.6.1924</h3>
+      <DateDivider date="Torstai, 19.6.1924"/>
       <Article titleText="Leppäkoskella tapahtunut miesmurha.">
         <h5>Niinimäki wapautettu.</h5>
         <p>Kuten muistettanee, tapahtui Leppäkoskella t.k. 2 p. miesmurha, jolloin talollisenpoika T. Niinimäki ampui työmies J. Stoltia rintaan, niin että tämä kuoli heti. J. Stolt oli nimittäin ryhtynyt ahdistelemaan J. Niinimäen 
@@ -941,8 +885,7 @@ const Crimes1924Page = () => {
           kuritushuoneeseen 12 wuodeksi. Tästä rangaistuksesta wähennettiin kuitenkin kaksi kuukautta, koska Pulkki on ilman omaa syytään ollut kauan tutkintowankeudessa.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Perjantai, 20.6.1924</h3>
+      <DateDivider date="Perjantai, 20.6.1924"/>
       <Article titleText="Lopen y.m. pitäjäin wälikäräjillä">
         <h5>eilen käsiteltiin m.m. seuraawat asiat:</h5>
         <p>Kuten muistettaneen, tapahtui Lopen pitäjän Salon kylässä ensimäisenä pääsiäispäiwänä werityö, jonka uhriksi joutui työmies Otto Kanerwa. Eräässä tappelussa iski Hakalan torpan poika Kalle Ahlstedt Kanerwaan 4 puukonhaawaa 
@@ -955,8 +898,7 @@ const Crimes1924Page = () => {
         <p>Spriin myynnistä tuomittiin eräs henkilö 1,875 mk. sakkoon.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 21.6.1924</h3>
+      <DateDivider date="Lauantai, 21.6.1924"/>
       <Article titleText="Hauholla tapahtunut rahawarkaus.">
         <h5>Poliisi tuomittu 8 kuukauden ehdolliseen wankeusrangaistukseen.</h5>
         <p>Kuten aikaisemmin kerroimme, pidätettiin Hauholla poliisikonstaapeli Toiwonen epäiltynä noin 36,000 markan rahawarkauteen syylliseksi. Mainittu summa oli kadonnut helatorstaina tilanomistaja Ilmari Laurilalta matkalla 
@@ -965,8 +907,7 @@ const Crimes1924Page = () => {
           joka kuitenkin muutettiin 4 wuoden ehdonalaiseksi. Samalla tuomittiin Toiwonen menettämään wirkansa. Wastaaja määrättiin laskettawaksi wapaalle jalalle.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Torstai, 23.6.1924</h3>
+      <DateDivider date="Torstai, 23.6.1924"/>
       <Article titleText="Urjalan ryöstömurhaajan loppu.">
         <p>T.k. 17 pnä oli Sodankylän välikäräjillä jälleen esillä tunnettu Mannelinin murhajuttu, jonka johdosta owat olleet syytettyinä talollisenpojat Antti Teräs ja Aleksi Alariesto eli Ollila. Niinkuin aikaisemmin on kerrottu, 
           löydettiin äskettäin Mannelinin ruumis Sodankylästä läheltä Wenäjän rajaa. Jutun käsittelyssä teki Alariesto täyden tunnustuksen. Murhan on suorittanut Teräs ampumalla Mannelinia eräällä yöpymäpaikalla haulikolla päähän. 
@@ -976,8 +917,7 @@ const Crimes1924Page = () => {
           yritti paeta Wenäjälle, pakoittaen Teräksen ja Alarieston Muteman kylästä oppaakseen. Nämä kuitenkin tappoiwat hänet erään kaukaisen kiweliön piilopirtillä, jossa siis päättyi ryöstömurhaajan mainen matka.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 28.6.1924</h3>
+      <DateDivider date="Lauantai, 28.6.1924"/>
       <Article titleText="Pirtua takawarikoitu Forssassa.">
         <h5>70 litraa talteen.</h5>
         <p>Pitemmän aikaa on Forssassa kuulunut puhetta, että lohkotilallinen Jalmari Koiwula Portaan kylässä Tammelassa olisi harjoittanut luwatonta wäkijuomien kauppaa. Asian jouduttua poliisiwiranomaisten tietoon toimitettiin 
@@ -985,8 +925,7 @@ const Crimes1924Page = () => {
           Koiwulaa tullaan syyttämään käräjillä wäkijuomien myynnistä.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 8.7.1924</h3>
+      <DateDivider date="Tiistai, 8.7.1924"/>
       <Article titleText="Wanki karannut Lopella.">
         <h5>Saanut puunkappaleella ristikkoikkunan murretuksi.</h5>
         <p>Kuten w.k. 22 pnä kerroimme, oli juhannusaattona Lopen pitäjän Launosten kylässä takawarikoitu 360 litraa spriitä eräästä autosta, mutta oliwat salakuljettajat päässeet liwistämään. Myöhemmin kuitenkin pidätettiin heistä 
@@ -996,8 +935,7 @@ const Crimes1924Page = () => {
           Rantanen on edelleen karkuteillä. Mäkelän tuntomerkeistä mainittakoon, että hän on lyhyenläntä, hintelä mies. Erikoisena tuntomerkkinä on oikeassa poskessa olewa ammuttu hywin punanen, ruma arpi.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Keskiviikko, 9.7.1924</h3>
+      <DateDivider date="Keskiviikko, 9.7.1924"/>
       <Article titleText="Salaperäinen katoaminen Forssassa.">
         <h5>Mies kadonnut ja löytynyt surmattuna joesta.</h5>
         <p>Wiime juhannuspäiwäiltana katosi Forssassa herastuomari I. F. Laakson palwelija Toiwo Ratio. Etsiskelyistä huolimatta ei häntä löydetty, ennenkuin t.k. 2 p:nä tukkimiehet löysiwät noin 3 km. Forssasta Loimijoesta Haision 
@@ -1007,8 +945,7 @@ const Crimes1924Page = () => {
         <p>Wainaja ijältään 25 wuotta, oli kotoisin Somerolta, jätti jälkeensä waimon ja yhden lapsen. Isäntänsä kertoman mukaan oli wainaja hiljainen, siiwo, kotonapysywäinen ahkera mies.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Torstai, 10.7.1924</h3>
+      <DateDivider date="Torstai, 10.7.1924"/>
       <Article titleText="Hattulan y.m. pitäjäin">
         <h5>wälikäräjillä</h5>
         <p>eilen käsiteltiin seuraawat asiat:</p>
@@ -1023,8 +960,7 @@ const Crimes1924Page = () => {
         <p className="signatureStyle"></p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Perjantai, 11.7.1924</h3>
+      <DateDivider date="Perjantai, 11.7.1924"/>
       <Article titleText="Humalainen hyökännyt poliisin kimppuun Myllymäessä.">
         <h5>Poliisi pakotettu turwautumaan aseeseen.</h5>
         <p>Eilen illalla klo 7 ajoissa konstaapeli R. Mäen ollessa wartiossa Länt. Wiertotiellä, talon n:o 16 b. kohdalla hyökkäsi hänen kimppuunsa ent. teurastaja Kalle Nurmi, joka ollen juowuksissa löi konstaapeli Mäkeä kiwellä 
@@ -1038,8 +974,7 @@ const Crimes1924Page = () => {
         </p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 12.7.1924</h3>
+      <DateDivider date="Lauantai, 12.7.1924"/>
       <Article titleText="Kowa tappelunrytäkkä junassa.">
         <h5>M.m. hämeenlinnalainen taskuwaras ja korttipeluri Kaarlo Orell pidätetty.</h5>
         <p>Wiime torstai-aamuna, kun Rajajoelta tulewa postijuna, joka saapuu Helsinkiin klo 8,55 ap., oli lähdössä Hywinkäältä, ilmoitettiin sieltä Kerawan poliisiwiranomaisille, että junassa matkustaa useita taskuwarkaita, jotka 
@@ -1053,8 +988,7 @@ const Crimes1924Page = () => {
           herrasmiestä, joilta warkaat yrittiwät anastaa lompakot, ilmoittaisiwat Kerawan poliisiwiranomaisille nimensä ja osoitteensa.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Perjantai, 18.7.1924</h3>
+      <DateDivider date="Perjantai, 18.7.1924"/>
       <Article titleText="Spriitakawarikko Hämeenlinnassa.">
         <h5>Poliisi takawarikoinut 15 l. spriitä autosta.</h5>
         <p>Toissa päiwänä ilmoitettiin poliisilaitokselle yöpikajunan saawuttua Hämeenlinnan asemalle, että joku tuntematon mieshenkilö nähtäwästi oli tuonut matkalaukussaan pienemmän määrän spriitä, jonka hän aikoi kuljettaa 
@@ -1070,8 +1004,7 @@ const Crimes1924Page = () => {
           warastetuksi.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 21.7.1924</h3>
+      <DateDivider date="Tiistai, 21.7.1924"/>
       <Article titleText="Surullinen ampumistapaus Hausjärwellä.">
         <h5>Waromattoman aseenkäsittelyn seurauksena eräs naishenkilö saanut surmansa.</h5>
         <p>T.k. 8 pnä sattui Hausjärwellä surullinen wahingonlaukaus, joka waati uhrikseen ihmishengen. Tapauksesta olemme saaneet seuraawia tietoja:</p>
@@ -1099,8 +1032,7 @@ const Crimes1924Page = () => {
         <p>Nyttemmin on rikoksiin syyllisiksi epäiltyinä wangittu teurastaja Kustaa Wuolle ja irtolainen Wäinö Toiwonen molemmat Yläneen Kartanonkylästä.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 9.8.1924</h3>
+      <DateDivider date="Lauantai, 9.8.1924"/>
       <Article titleText="Hattulassa tapahtunut murha.">
         <h5>Wastaaja kers. W. Martikainen tuomittu 2 wuoden kuritushuonerangaistukseen.</h5>
         <p>Kuten muistettanee tapahtui Hattulan pitäjän Nihattulan kylässä wiime helluntaiaattona werityö, joka waati uhrikseen ihmishengen. Mainittuna päiwänä oli nimittäin joukko armeijan aliupseereita, joukossa m.m. kers. W.
@@ -1123,8 +1055,7 @@ const Crimes1924Page = () => {
         </p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Sunnuntai, 10.8.1924</h3>
+      <DateDivider date="Sunnuntai, 10.8.1924"/>
       <Article titleText="Hukkumistapaus Janakkalassa.">
         <h5>Mies hukkunut humalapäissään Kernaalan järween.</h5>
         <p>Toissailtana klo 7 ajoissa lähtiwät Kernaalan järwellä sijaitsewalta Kokemäen Lauttaus Oy:n tukinniputuskoneelta töiden päätyttyä siellä olleet neljä tukkilaista maihin juopottelutarkoituksessa palaten klo 11 illalla 
@@ -1136,8 +1067,7 @@ const Crimes1924Page = () => {
           ilmoittautumaan Janakkalan nimismiehelle Turengissa.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 12.8.1924</h3>
+      <DateDivider date="Tiistai, 12.8.1924"/>
       <Article titleText="Pidätetty pirtutrokari.">
         <h5>Ollut wahwasti aseistettu.</h5>
         <p>Perjantaina päiwällä on Forssan poliisi pidättänyt anmattimaisesta pirtutrokauksestaan tunnetuksi tulleen Toiwo Mäkilän Kydöstä. Kuten muistetaan, on Mäkilän pirtua kuljettanut auto lastineen äskettäin takawarikoitu 
@@ -1147,8 +1077,7 @@ const Crimes1924Page = () => {
         <p>Mäkilää tullaan syyttämään Forssan käräjillä anmmattimaisesta spriin salakuljetuksesta sekä Lopella samoista asioista.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 19.8.1924</h3>
+      <DateDivider date="Tiistai, 19.8.1924"/>
       <Article titleText="Toinenkin Otto Nyströmin ryöstäjistä saanut tuomionsa.">
         <h5>Tuomittiin eilen kihlakunnanoikeudessa 3 wuodeksi kuritushuoneeseen.</h5>
         <p>Kuten muistettaneen, tapahtui Wanajassa wiime wuoden heinäkuussa julkea pahoinpitely ja ryöstö, jonka uhriksi joutui lumppuja ja luita keräämällä itseään elättäwä Otto Nyström -niminen mies. Poliisiwiranomaisten onnistui 
@@ -1175,8 +1104,7 @@ const Crimes1924Page = () => {
         <p>Tämä oli jo kahdeksas murha Somerolla kuluwan wuoden aikana.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Keskiviikko, 20.8.1924</h3>
+      <DateDivider date="Keskiviikko, 20.8.1924"/>
       <Article titleText="Maanantainen auto-onnettomuus.">
         <h5>Poliisitutkinto alulla.</h5>
         <p>Kuten eilen kerroimme, tapahtui täällä toissa iltana klo ½ 10 ajoissa järkyttäwä auto-onnettomuus, missä sai surmansa muurarin waimo Wilhelmiina Nieminen. Eilen aloitettiin asian johdosta poliisitutkinto, mutta woitiin 
@@ -1188,8 +1116,7 @@ const Crimes1924Page = () => {
           Kuten sanottu, ei autossa olleita upseereita edellämainitusta syystä ole woitu wielä kuulustella. Heidän kuulustelunsa suoritetaan torstaina.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 23.8.1924</h3>
+      <DateDivider date="Lauantai, 23.8.1924"/>
       <Article titleText="Maanantainen auto-onnettomuus.">
         <h5>Poliisitutkinto päättynyt.</h5>
         <p>Hämeenlinnassa maanantaina sattuneen ikäwän auto-onnettomuuden johdosta päättyi poliisitutkinto eilen, jolloin kuulusteltiin autossa onnettomuuden tapahtuessa olleita luutnantti Muukkosta, majuri Kumlinia ja 
@@ -1202,8 +1129,7 @@ const Crimes1924Page = () => {
         <p>Asia tulee oikeuden käsiteltäwäksi.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 26.8.1924</h3>
+      <DateDivider date="Tiistai, 26.8.1924"/>
       <Article titleText="Nuorta naista ammuttu jalkaan.">
         <h5>Ampuja wäittää kysymyksessä olewan wahingonlaukauksen.</h5>
         <p>Toissa iltana sattui täällä ampumistapaus, jossa palwelijatar Olga Sipinen sai nähtäwästi wahingossa lauenneesta rewolwerista waikean haawan oikeaan sääreensä. Mainittuna iltana oliwat Sipinen ja wiilari Armas Akseli 
@@ -1213,8 +1139,7 @@ const Crimes1924Page = () => {
           syyttämään luwattomasta ampuma-aseen hallussapidosta.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Sunnuntai, 31.8.1924</h3>
+      <DateDivider date="Sunnuntai, 31.8.1924"/>
       <Article titleText="Hämäräperäinen pahoinpitely Hattulassa.">
         <h5>Muuatta kapitulanttikersanttia lyöty teräaseella hengenwaarallisesti.</h5>
         <p>Keskiwiikon ja torstain wälisenä yönä tapahtui Hattulassa werityö erittäin hämäräperäisissä olosuhteissa. Mainittuna yönä oli Hyökkäyswaunurykmentin alikersantti Lohikoski ollut kuljettamassa pois leiriltä muuttawien 
@@ -1246,8 +1171,7 @@ const Crimes1924Page = () => {
         <p>Kalle Lakstedt, joka on iältään 16-wuotias, on toistaiseksi poliisiwiranomaisten hallussa, jotka, kuten sanottu, jatkawat tutkimuksia asian johdosta.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 2.9.1924</h3>
+      <DateDivider date="Tiistai, 2.9.1924"/>
       <Article titleText="Hattulassa tapahtunut ampumistapaus.">
         <h5>Wahingonlaukauksen uhriksi joutunut leskiwaimo Olga Lackstedt kuollut.</h5>
         <p>Kuten kerroimme tapahtui Hattulassa wiime perjantai-iltana ampumistapaus, jossa leskiwaimo Olga Lackstedtin poika Kalle Lackstedt ampui äitiään niin, että tämä wiime lauantain ja sunnuntain wälisenä yönä kuoli täkäläisessä 
@@ -1255,8 +1179,7 @@ const Crimes1924Page = () => {
           kuolemaansa kertoi, että ampuminen oli tapahtunut wahingossa. Asiassa kuullut todistajat kertowat myös ampujan olleen teon tapahtuessa erittäin hermostuneessa mielentilassa.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 9.9.1924</h3>
+      <DateDivider date="Tiistai, 9.9.1924"/>
       <Article titleText="Pirtutakawarikko Hausjärwellä.">
         <h5>Auto ja 310 l. spriitä poliisin huostaan.</h5>
         <p>Wiime sunnuntaiaamuna klo 5 ajoissa oli eräs pirtuauto matkalla Helsingistä Hämeenlinnaan päin. Hausjärwen pitäjässä olewan Ryttylän kaswatuslaitoksen kohdalla sattui auto kuitenkin rikkoutumaan, jolloin autossa olleet 
@@ -1266,8 +1189,7 @@ const Crimes1924Page = () => {
         <p>Miehet joutuwat pirtunkuljetuksesta wastaamaan kihlakunnanoikeudessa.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Keskiviikko, 10.9.1924</h3>
+      <DateDivider date="Keskiviikko, 10.9.1924"/>
       <Article titleText="Hämeenlinnalaiset huligaanit mellastelleet Hattulassa.">
         <h5>Autonkuljettaja Ylistä lyöty syntyneessä kahakassa pullolla päähän.</h5>
         <p>Wiime lauantai-iltana klo 4 ajoissa oliwat muutamat myllymäkeläiset huligaanit lähteneet kaupungista juopottelumatkalle kahdella autolla, joita ohjasiwat autonkuljettajat Ylinen ja Salminen Hämeenlinnasta. „Retkeilijät” 
@@ -1276,8 +1198,7 @@ const Crimes1924Page = () => {
           johon tuli waikea werihaawa. Myöhemmin pidätettiin mellastelijat ja joutuwat he teostaan wastaamaan oikeudessa.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 13.9.1924</h3>
+      <DateDivider date="Lauantai, 13.9.1924"/>
       <Article titleText="Salaperäinen ryöstö Hämeenlinnan lähistöllä.">
         <h5>Eräs pika-ajuri lyöty tajuttomaksi, minkä jälkeen häneltä ryöstetty hewonen ajopeleineen ja rahat. - Hewonen ja ajopelit löydetty myöhemmin metsästä.</h5>
         <p>Toissa yönä aamuyöstä tapahtui Hämeenlinnan maalaiskunnan ja Hattulan pitäjien rajalla ryöstö, mikä toistaiseksi on wielä hämärän peitossa. Hämeenlinnalainen pika ajuri n:o 42 Kustaa Aalto oli ½ 12 junalta sanottuna yönä 
@@ -1294,8 +1215,7 @@ const Crimes1924Page = () => {
         <p>Poliisiwiranomaiset jatkawat tapahtuman johdosta tutkimuksia.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Keskiviikko, 17.9.1924</h3>
+      <DateDivider date="Keskiviikko, 17.9.1924"/>
       <Article titleText="Hurja kotinäytelmä Hattulassa.">
         <h5>Ehdonalaisuuteen laskettu mies riehunut kotonaan kirwes kourassa.</h5>
         <p>Maanantaiaamuna tuotiin lääninsairaalaan sidottawaksi työm. Martti Rossi Hattulan pitäjän Hurttalan kylästä. Hänellä oli leuwassa liewänlainen ampumahaawa. Rossi oli sunnuntaiyön juopotellut ja aamulla kohmeloa 
@@ -1305,8 +1225,7 @@ const Crimes1924Page = () => {
           juopottelewaa elämää, joten on kyseenalaista, aiheuttaako tämä mellastelu hänen ehdonalaisen wapautensa loppumisen.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Perjantai, 19.9.1924</h3>
+      <DateDivider date="Perjantai, 19.9.1924"/>
       <Article titleText="Padasjokelainen murhattu ja ryöstetty lähellä Lappeenrantaa.">
         <h5>Ryöstämisen ja murhan jälkeen ruumis heitetty radalle.</h5>
         <p>T.k. 9 päiwän wastaisena yönä löydettiin radalta n. 4 km. päässä Lappeenrannasta miehen ruumis, jolta weturin pyörät oliwat irroittaneet pään ja wasemman käden kokonaan irti ruumiista. Miehen taskuista löydetyistä 
@@ -1321,8 +1240,7 @@ const Crimes1924Page = () => {
         <p>Surmansa saaneesta Saarisesta ja hänen omaisistaan ei ole mitään lähempiä tietoja.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Sunnuntai, 21.9.1924</h3>
+      <DateDivider date="Sunnuntai, 21.9.1924"/>
       <Article titleText="Tappelu Myllymäessä.">
         <h5>Kahta miestä isketty puukolla.</h5>
         <p>Eilen illalla klo 7 tienoissa tapahtui Hämeenlinnassa Myllymäessä werityö, missä kahta miestä lyötiin puukolla. Eräs juopottelewa joukko, mihin kuuluiwat kuorma-ajuri Kalle Salmi, ajuri Kalle Henriksson ja eräs kolmas 
@@ -1332,8 +1250,7 @@ const Crimes1924Page = () => {
         <p>Poliisitutkinto selwittänee tarkemmin, miten puukotus on tapahtunut ja ketkä siinä owat toisiaan lyöneet.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 23.9.1924</h3>
+      <DateDivider date="Tiistai, 23.9.1924"/>
       <Article titleText="Myllymäen werityö.">
         <h5>Ajuri K. Henriksson kuollut.</h5>
         <p>Niinkuin sunnuntaina kerroimme, iskettiin lauantai-iltana Myllymäen kalliolla ajuri Kalle Henrikssonia puukolla rintaan melkein sydämen kohdalle ammottawa haawa. Heikossa tilassa kuletettiin haawoitettu lääninsairaalaan, 
@@ -1354,8 +1271,7 @@ const Crimes1924Page = () => {
           mikä wuoksi hänet tuomittiin löydetyn tawaran salaamisesta 750 mk. sakkoon. Wastaaja ilmoitti tyytymättömyyttä päätökseen.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Sunnuntai, 28.9.1924</h3>
+      <DateDivider date="Sunnuntai, 28.9.1924"/>
       <Article titleText="Werityö Hattulassa.">
         <h5>Mies surmattu ampumalla Parolan aseman läheisyydessä.</h5>
         <p>Eilen iltapäiwällä klo 3 tienoissa tapahtui Hattulan Parolan aseman läheisyydessä werityö, joka waati uhrikseen ihmishengen. Mainittuun aikaan ampui nimittäin toistaiseksi tuntemattomissa olosuhteissa torpparin poika 
@@ -1363,8 +1279,7 @@ const Crimes1924Page = () => {
           tähden emme kuitenkaan eilisiltaan mennessä onnistuneet saamaan murhasta lähempiä tarkistettuja tietoja.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 30.9.1924</h3>
+      <DateDivider date="Tiistai, 30.9.1924"/>
       <Article titleText="Hattulassa tapahtunut werityö.">
         <h5>Ampuja kieltää syyllisyytensä.</h5>
         <p>Kuten kerroimme tapahtui Hattulassa wiime lauantaina iltapäiwällä klo 3 tienoissa werityö, joka waati uhrikseen ihmishengen. Nyttemmin pidetyssä poliisitutkinnossa on käynyt ilmi seuraawaa:</p>
@@ -1377,8 +1292,7 @@ const Crimes1924Page = () => {
           ei hän huonokuuloisena ollut edes kuullutkaan laukausta. Murhattu työmies Juho Heikki Koskinen oli kotoisin Pälkäneen pitäjän Rukkolan kylästä.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Torstai, 2.10.1924</h3>
+      <DateDivider date="Torstai, 2.10.1924"/>
       <Article titleText="Hattulassa tapahtunut werityö.">
         <h5>Ampuja K. Johansson passitettu lääninwankilaan.</h5>
         <p>Poliisitutkinto Hattulassa wiime lauantaina iltapäiwällä tapahtuneen werityön johdosta, jossa kuten muistettanee torpparinpoika Kyösti Johansson ampui työm. Juho Heikki Koskisen, kotoisin Pälkäneeltä, on nyttemmin 
@@ -1388,8 +1302,7 @@ const Crimes1924Page = () => {
           käsiteltäwäksi.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 4.10.1924</h3>
+      <DateDivider date="Lauantai, 4.10.1924"/>
       <Article titleText="Juopumus ja kieltolakirikkomukset Hämeenlinnassa.">
         <h5>Hämeenlinnassa wiime kuukauden aikana pidätetty 97 henkilöä juopumuksesta ja 32 luwattomasta wäkijuomien hallussapidosta.</h5>
         <p>Hämeenlinnassa pidätettiin wiime syyskuun aikana juopumuksesta 97 henkilöä ja luwattomasta wäkijuomain hallussapidosta 32 henkilöä. Kumpikin on suurin määrä, mitä Hämeenlinnassa koskaan on juopumus- ja 
@@ -1402,8 +1315,7 @@ const Crimes1924Page = () => {
           mitkä oliwat hänen päällänsä, hänen tullessaan ammutuksi, oliwat warastetut eräältä Hauhon isännältä.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Lauantai, 11.10.1924</h3>
+      <DateDivider date="Lauantai, 11.10.1924"/>
       <Article titleText="Irtolaisuus Hämeen läänissä.">
         <h5>Jälleen lisääntymässä.</h5>
         <p>Niinkuin tunnettua, on yleensä tunnusmerkillistä, että syksyn tullen irtolaisuus aina suuresti lisääntyy. Mikäli meille on ilmoitettu, on tämä ilmiö jälleen tänäkin syksynä ollut hawaittawissa myöskin Hämeen läänissä, sillä 
@@ -1420,8 +1332,7 @@ const Crimes1924Page = () => {
         <p>Poliisitutkinta onnettomuuden johdosta toimitetaan tänään. Ruumis kuljetettiin eilen illalla lääninsairaalan ruumishuoneelle.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Sunnuntai, 12.10.1924</h3>
+      <DateDivider date="Sunnuntai, 12.10.1924"/>
       <Article titleText="Hämeenlinnan asemalla tapahtunut yliajo.">
         <h5>Tapaturman uhri työm. G. Jokinen todennäköisesti päihtyneenä joutunut junan alle.</h5>
         <p>Kuten eilen kerroimme ajoi wiime perjantai-iltana Turusta tulewa matkustajajuna n.k. sahan waihteen kohdalla työm. Gabriel Jokisen yli, sillä seurauksella, että hänen molemmat jalkansa ruhjoutuiwat ja hän sai niin pahoja 
@@ -1433,8 +1344,7 @@ const Crimes1924Page = () => {
         <p>Tapaturman uhriksi joutunut työm. Gabriel Jokinen oli syntynyt w. 1893 ja oli hän kotoisin Hämeenlinnan maalaiskunnasta Parolan kylästä.</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
-      <h3>Tiistai, 14.10.1924</h3>
+      <DateDivider date="Tiistai, 14.10.1924"/>
       <Article titleText="Werityö Hämeenlinnan maalaiskunnan työwäentalolla.">
         <h5>Miestä isketty puukolla hengenwaarallisesti.</h5>
         <p>Wiime sunnuntai-iltana klo 9 ajoissa tapahtui Hämeenlinnan maalaiskunnan työwäentalolla raaka puukotus, minkä uhriksi joutui sepän poika Aarne Luoma Hämeenlinnan maalaiskunnan Pullerinmäeltä. Toimitetussa alustawassa 
@@ -1471,6 +1381,196 @@ const Crimes1924Page = () => {
         <p>Ruumis on wiety Wanajan leikkuuhuoneelle.</p>
       </Article>
 
+      <DateDivider date="Torstai, 16.10.1924"/>
+      <Article titleText="Janakkalan, Wanajan, y.m. pitäjäin">
+        <h5>syyskäräjillä</h5>
+        <p>eilen tuomittiin työmies Ewert Hattin Hausjärwen Tenholasta ilmiannosta, saman pitäjän Rutajärweltä kotoisin olewa talollinen H. Maaranta pahoinpitelystä 1,000 mk. sakkoon ja suorittamaan erinäisiä korwauksia ja kuluja.</p>
+        <p>Samoin tuomittiin Janakkalan Hakoisista kotoisin olewa renki Konstantin Seppälä näpistelystä ja eläimille määrätyn spriin wäärinkäyttämisestä yht. 600 mk. sakkoon.</p>
+        <SubDivider className="dividerStyle"/>
+        <p><span className="boldStyle">Humalapäissään mellasteli</span> eilistä wastaan yöllä klo 12 ajoissa Hattulassa Metsänkylän kartanossa työmiehen poika Lauri Aaltonen. Hän oli rautalapiolla rikkonut kaksi ikkunaa ja lisäksi kolmannen jollakin muulla aseella. 
+          Asiasta sukeutunee oikeusjuttu.</p>
+      </Article>
+      <Article titleText="Janakkalassa tapahtunut raaka puukotus.">
+        <h5>Puukottaja wangittu ja tunnustanut tekonsa.</h5>
+        <p>Niinkuin tiistaina mainitsimme, tapahtui Janakkalan Mallinkaisilla wiime sunnuntai iltana raaka puukotus, jonka uhriksi joutui lohkotilallinen Kristian Niemi samasta kylästä. Mainittuna iltana oli Niemi tullut maantiellä 
+          lohkotilallisen poikaa Wilho Mannista wastaan, joka ilman mitään syytä oli iskenyt Niemeä puukolla wasemmalle puolelle rintaa.</p>
+        <p>Niemi toimitettiin heti Janakkalan sairaalaan, jossa häntä edelleenkin hoidetaan ja on hänen tilansa hengenwaarallinen.</p>
+        <p>Heti teon tehtyään lähti Manninen pakoon, mutta pidättiwät poliisiwiranomaiset hänet tiistai-iltana Janakkalan Wenosta. Toimitetussa kuulustelussa tunnusti hän tekonsa, mutta wäitti, että Niemi oli ensin käynyt kiinni hänen 
+          kurkkuunsa. Tämä wäite ei kuitenkaan pidä paikkaansa.</p>
+        <p>Puukottaja Manninen passitetaan tänään lääninwankilaan odottamaan asian käsittelyä kihlakunnanoikeudessa.</p>
+      </Article>
+      <Article titleText="Hämeenlinnan maalaiskunnassa tapahtunut werityö.">
+        <h5>Puukottaja O. Salin passitettiin eilen lääninwankilaan.</h5>
+        <p>Kuten aikaisemmin kerroimme, tapahtui Hämeenlinnan maalaiskunnan työwäentalolla wiime sunnuntai-iltana klo 9 ajoissa raaka puukotus, jonka uhriksi joutui sepänpoika Aarne Luoma Hämeenlinnan Pullerinmäeltä. Puukottaja, 
+          työm. Onni Salin Hämeenlinnasta pidätettiin heti teon tehtyään. Poliisitutkintoa asian johdosta on jatkettu edelleen ja on siinä kuulustelujen lausunnoista käynyt ilmi, että puukotus on tapahtunut ilmeisesti tahallisesti 
+          puukottajan ollessa juowuspäissään ja on puukottaja O. Salin tämän nojalla eilen passitettu lääninwankilaan. Mikäli asiassa kuultujen lausunnoista woidaan päättää on puukotus tapahtunut siten, että puukottaja oli 
+          juowuspäissään asettunut työwäentalon owelle seisomaan ja järjestysmiehenä esiintyen koettanut estää iltamassa olijoita sisään pääsemästä. Puukotettu ei kuitenkaan ollut wälittännyt tästä, waan aikonut mennä Salinin ohi 
+          suoraan sisään, jolloin kuitenkin Salin oli häntä iskenyt puukolla rintaan keuhkoihin asti ulottuwan haawan.</p>
+        <p>Puukotetun Luoman tila on edelleenkin hywin huono, mutta toiweita hänen henkiin jäämisestään kuitenkin on.</p>
+      </Article>
+
+      <DateDivider date="Tiistai, 21.10.1924"/>
+      <Article titleText="Myllymäessä tapahtunut werityö.">
+        <h5>Salonen tuomittu 4:ksi wuodeksi kuritushuoneeseen.</h5>
+        <p>Kuten muistettaneen, tapahtui Myllymäessä joku wiikko sitten werityö, minkä seurauksista ajuri K. Henriksson heitti henkensä. Kuten aikainaan kerroimme, oli työmies Wieno Johannes Salonen yhdessä ajurien Henrikssonin ja K. 
+          Salmen kanssa kalliolla juopottelemassa. Täällä oli syntynyt Henrikssonin ja Salosen wälillä riita sillä seurauksella, että kumpikin tempasi esiin puukkonsa. Kahakassa sai Salonen oikeaan käteensä 2 haawaa ja samoin Henriksson 
+          haawan kumpaankin käsiwarteen. Toinen Salosen antamista iskuista katkaisi waltimon, mistä oli seurauksena niin ankara werenwuoto, että Henriksson sen johdosta heitti lääninsairaalassa henkensä.</p>
+        <p>Syyte Salosta wastaan oli eilen Hämeenlinnan raastuwanoikeudessa esillä. Antamallaan päätöksellä tuomitsi raastuwanoikeus wastaajan pahoinpitelystä, mistä oli kuolema seurauksena, pidettäwäksi 4 wuotta kuritushuoneessa ja 
+          maksamaan erinäisiä kuluja 1575 mk.</p>
+      </Article>
+      <Article titleText="Hattelmalan harjulla tapahtunut auto-onnettomuus.">
+        <h5>Autonkuljettaja Eino Helin tuomittu waromattomasta ja huolimattomasta ajosta sakkoihin.</h5>
+        <p>Kuten muistettanee tapahtui Hattelmalan harjulla wiime helatorstain wastaisena yönä auto-onnettomuus, jossa Janakkalan kunnan ulosottoapulainen Iiwari Karjalainen menetti henkensä autonkuljettajan waromattoman ajon wuoksi. 
+          Juttu autonkuljettajaa Eino Akseli Heliniä wastaan oli eilen esillä Hausjärwen y.m. pitäjien syyskäräjillä ja tuomittiin hänet kuoleman aiheuttaneesta waromattomasta ja huolimattomasta ajosta 50 päiwäsakkoon, yht. 1,000 mk. 
+          sekä korwaamaan wainajan leskelle Hilma Karjalaiselle hautauskuluja 2,500 mk. sekä maksamaan wainajan wiidelle alaikäiselle lapselle elatusapua 100 mk. kuukaudessa sekä korwaamaan asianomaisen oikeudenkäyntikulut.</p>
+      </Article>
+
+      <DateDivider date="Keskiviikko, 22.10.1924"/>
+      <Article titleText="Wiinakauppiaat mellastelleet Lammilla.">
+        <p>Wiime perjantaina wietettiin Yläneen kylässä Maasillan talossa häitä. Huolimatta siitä, että kuokkawieraille oli etukäteen tehty tiettäwäksi, ettei heillä ole häätaloon asiaa, oli näitä kerääntynyt suuri joukko talon 
+          läheisyyteen, joukossa useita wiinatrokareita, jotka aiwan julkisesti harjoittiwat kauppaa. Kun elämä ulkona rupesi käymään kowin riwoksi, meni Asikkalasta kotoisin olewa Eino Sawola kuokkawieraiden joukkoon palauttamaan 
+          järjestystä. Tästä suuttuneena eräs trokareista, Wäinö Äijälä sieppasi esiin taskuaseensa ja alkoi ampua. Kuula ei kuitenkaan sattunut Sawolaan, waan lähellä olewaan W. Saarinkoon, jonka päätä kuula sipaisi, tehden siihen 
+          naarmun. Syntyneessä rytäkässä lyötiin Eino Sawolaa aika pahasti. Äijälä saatiin pidätetyksi, mutta toiset trokarit, m.m. eräs Malin, pääsiwät karkuun. Kun oliwat näin joutuneet alakynteen, särkiwät trokarit taloon wiewän 
+          sillan. Tästä olisi woinut olla hywinkin wakawat seuraukset, jos yön pimeässä joku olisi sattunut ajamaan esim. autolla, tietämättä, että silta oli poissa. Kaikeksi onneksi ei trokarien ilkityöstä tällä kertaa kuitenkaan 
+          suurempia wahinkoja koitunut.</p>
+      </Article>
+      <Article titleText="Spriitakawarikko Leppäkoskella.">
+        <h5>Junan pakaasijarrumies ottamassa osaa kuljetukseen.</h5>
+        <p>Matkustajajunan n:o 203:n saapuessa wiime maanantai-iltana klo 8,50 Leppäkosken asemalle hawaitsi raittiuswalwoja, kansak. op. U. Airisto mitenkä junan pysähtyessä asemalle hyppäsi heti eräs samassa junassa matkustawa 
+          mieshenkilö siitä kiiruhtaen pakaasiwaunun luo ja n.k. pakkaasijarrumiehen awattua mainitun waunun wastakkaisella puolella asemaa olewan owen ja yrittäen antaa tälle henkilölle kaksi hywin suurikokoista pakettia, tullen 
+          kuitenkin tässä yrityksessään estetyksi. Mies, huomaten aikeensa epäonnistuneen hyppäsi jälleen junaan ja päästen siten pakenemaan.</p>
+        <p>Paketteja lähemmin tarkastettaessa huomattiin niissä toisessa olewan osoitteena „Larsen, Leppäkoski” ja toisen „Larson, Leppäkoski”. Sisällyksenä niissä kummassakin oli kaksi kymmenen litran kanisteria, siis yhteensä 
+          neljäkymmentä litraa „ainetta”. Epäilemättä oli näitä lähetyksiä aikomus kuljettaa saman junan matkustajawaunussa wielä eteenpäin. Mainittakoon wielä, että Leppäkoskella on ennenkin tapahtunut samantapaisia takawarikoita.</p>
+      </Article>
+
+      <DateDivider date="Torstai, 30.10.1924"/>
+      <Article titleText="Myllymäen huligaanit jälleen ilkitöissä.">
+        <h5>Tällä kertaa heittäneet kissan erään asunnon ikkunan läpi sisään.</h5>
+        <p>Eilen iltapäiwällä klo ½ 3 tienoissa oli pari Myllymäen huligaania juopotteluretkellään suunnannut matkansa Punaportille ja täällä ohimennen heittäneet eläwän kissan läpi ikkunoiden waimo Mathilda Oksasen asuntoon. Näin 
+          pahan kohtelun alaiseksi joutunut kissa oli lentomatkallaan saanut werihaawoja ruumiiseensa. Eläinrääkkääjät lähtiwät teon tehtyään täydessä rauhassa Myllymäkeen juopotteluaan jatkamaan. Heidät kuitenkin tunnetaan ja tullaan 
+          heitä syyttämään eläinrääkkäyksestä ja kotirauhan rikkomisesta.</p>
+      </Article>
+
+      <DateDivider date="Perjantai, 31.10.1924"/>
+      <Article titleText="Kuolemalla päättynyt itsemurha.">
+        <h5>Itseään partaweitsellä wiileskellyt kiwenhakkaaja J. Salo kuollut saamiinsa haawoihin.</h5>
+        <p>Kuten aikaisemmin kerroimme, yritti Hämeenlinnan maalaiskunnasta Pullerinmäeltä kotoisin olewa kiwenhakkaaja Jalmari Salo wiime wiikon maanantaina surmata itsensä wiileskelemällä kaulaansa ja käsiinsä partaweitsellä 
+          ammottawia haawoja. Mies toimitettiin tällöin lääninsairaalaan hoitoa saamaan ja osoittikin hän jo wiime wiikolla toipumisen merkkejä. Toissailtana hänen tilansa yhtäkkiä huononi ja haawoista aiheutunut werenmyrkytys 
+          aiheutti kuoleman.</p>
+      </Article>
+
+      <DateDivider date="Lauantai, 1.11.1924"/>
+      <Article titleText="Janakkalan, Wanajan, y.m. pitäjäin">
+        <h5>syyskäräjillä</h5>
+        <p>eilen käsiteltiin m.m. seuraawat asiat:</p>
+        <p>Ent. poliisikonstaapelin poika O. W. Wuorinen Janakkalan Leppäkoskelta tuomittiin ammattimaisesta alkoholipitoisten aineiden myynnistä 6:ksi kuukaudeksi wankeuteen, korwaamaan waltiolle saamansa hyödyn 500:lla markalla, 
+          maksamaan todistajapalkat ja menettämään takawarikoidut 13 litraa spriitä waltiolle. Wastaaja ilmoitti tyytymättömyyttä päätökseen.</p>
+        <p>Joutomies O. Tilder Hämeenlinnasta tuomittiin ammattimaisesta alkoholipitoisten aineiden myynnistä 6:ksi kuukaudeksi wankeuteen, eläinrääkkäyksestä 1:ksi kuukaudeksi wankeuteen eli rangaistukset yhdistettyinä pidettäwäksi 
+          6 kk. 20 p. wankeudessa, minkä lisäksi hänet wielä tuomittiin juopumuksesta 20 päiwäsakkoon wastaten 400 mk., korwaamaan wiinanmyynnistä saamansa hyödyn waltiolle 500:lla markalla ja maksamaan todistajapalkkioita 310 mk. Tilder 
+          pidätettiin heti ja passitettiin lääninwankilaan. Mainittu Tilder oli, kuten joku päiwä sitten kerroimme, heittänyt kissan sisään erään talon akkunasta, minkä johdosta hänet tuomittiin mainittuun 1 kk. wankeusrangaistukseen.</p>
+        <p>Tehtaalainen P. A. Koskinen Terwakoskelta tuomittiin wiinanmyynnistä 75:een päiwäsakkoon ja korwaamaan waltiolle saamansa hyödyn 50:llä markalla.</p>
+        <p>Sekatyömies W. E. Jokinen Terwakoskelta tuomittiin juopumuksesta 40:een päiwäsakkoon ja pahoinpitelystä 15:een päiwäsakkoon.</p>
+        <p>Syyte Lyydia Sulosta wastaan, joka asuu n.k. Pilwilinnassa, alkoholipitoisten aineiden myynnistä lykkäytyi, koska eräs todistaja ei ollut saapunut oikeuteen. Mainittu todistaja tuomittiin 250 mk. sakkoon ja welwoitettiin 
+          saapumaan ensi kerralla oikeuteen 500 mk. sakon uhalla.</p>
+        <p>Joutomies T. Lehtinen Hausjärwen Karhin kylästä tuomittiin murrosta 6:ksi kuukaudeksi wankeuteen. Wastaaja oli murtautunut mm. P. Lundellin asuntoon, tullen kuitenkin warkausyrityksessään estetyksi.</p>
+      </Article>
+
+      <DateDivider date="Torstai, 6.11.1924"/>
+      <Article titleText="Hämeenlinnan maalaiskunnassa tapahtunut werityö.">
+        <h5>O. Salin tuomittu törkeästä pahoinpitelystä wuodeksi wankeuteen.</h5>
+        <p>Kuten aikoinaan kerroimme, tapahtui Hämeenlinnan maalaiskunnan työwäentalolla joku aika sitten puukotus, jonka uhriksi joutui sepänpoika Aarne Luoma Hämeenlinnan Pullerinmäeltä. Puukottaja oli työm. Onni Salin Hämeenlinnasta 
+          ja pidätettiin hänet heti teon tehtyään.</p>
+        <p>Syyte Salinia wastaan oli eilen esillä Hattulan wälikäräjillä. Antamallaan päätöksellä tuomitsi kihlakunnanoikeus wastaajan juopumuksesta 20:een päiwäsakkoon, wastaten 200 mk., luwattomasta wäkijuomain hallussapidosta 
+          15:een päiwäsakkoon ja törkeästä pahoinpitelystä yhdeksi wuodeksi wankeuteen eli kaksi wiimemainittua rangaistusta yhdistettynä pidettäwäksi 1 wuosi 10 päiwää wankeudessa. Samalla tuomittiin wastaajalta tawattu sprii 
+          waltiolle menetetyksi.</p>
+      </Article>
+      <Article titleText="J. H. Koskisen tappo.">
+        <h5>Wastaaja Kyösti Johansson tuomittu taposta 3:ksi wuodeksi kuritushuoneeseen.</h5>
+        <p>Kuten kerroimme, tapahtui Hattulassa joku aika sitten werityö, joka waati uhrikseen ihmisen. Eräänä iltapäiwänä oli työmies Juho Heikki Koskinen Pälkäneeltä saapunut Parolan aseman läheisyydessä sijaitsewalle leskiwaimo 
+          Johanssonin mökille, jossa mainittu leskiwaimo asustaa lastensa kanssa. Äkkiä oliwat ulkona olijat kuulleet sisältä laukauksen ja rientäessään sisään katsomaan tapasiwat Koskisen makaamassa werissään tuwan lattialla, otsassa 
+          wasemmalla puolen ammottawa ampumahaawa ja kirwes kourassa. Asiasta ilmoitettiin heti poliisille, joka saapui paikalle ja pidätti ampujan. Pidätetty kertoi, että hän oli ampunut hätäwarjeluksessa suojellessaan itseään kirwes 
+          kourassa päälle hyökkääwää Koskista wastaan.</p>
+        <p>Hattulan wälikäräjillä eilen Hämeenlinnassa tuomittiin Johansson taposta pidettäwäksi 3 w. kuritushuoneessa ja luwattomasta ampuma-aseen hallussapidosta 12:een päiwäsakkoon eli rangaistukset yhdistettyinä pidettäwäksi 
+          kaikkiaan 3 w. 5 p. kuritushuoneessa.</p>
+      </Article>
+      <Article titleText="Miestä lyöty halolla päähän.">
+        <h5>Kauppias Oksanen Teurolta saanut hengenwaarallisen iskun.</h5>
+        <p>Viime perjantaina, kun kauppias Swante Oksanen Tammelan Teurolta wei markkinawäkeä kuorma-autollaan kotiin Forssasta, riitaantuiwat kauppias Oksanen ja talollisen poika Lauri Yli-Tuomola. Oksanen ajoi autonsa kauppansa eteen, 
+          jolloin wäki siitä poistui. Wähän ajan kuluttua palasi Lauri Yli-Tuomola kuitenkin takaisin hakemaan autoon jäänyttä hattuaan. Tällöin hänen riitansa kauppias Oksasen kanssa jatkui, ja kiihtyi Yli-Tuomola niin, että hän löi 
+          kauppias Oksasta halolla päähän. Kauppias Oksanen sai niin pahan aiwotärähdyksen, että hän heti meni tajuttomaksi. Hänet tuotiin Hämeenlinnan lääninsairaalaan hoidettawaksi.</p>
+      </Article>
+      <Article titleText="Puukotus Rengossa.">
+        <h5>Muuatta talollisenpoikaa puukotettu keskellä maantietä.</h5>
+        <p>Toissailtana klo ½ 6 tienoissa tapahtui Rengon pitäjän Kuittilan kylässä puukotus, joka wielä toistaiseksi on hämärän peitossa. Mainittuun aikaan oli nimittäin kolme samassa kylässä asuwaa nuorta mieshenkilöä kohdannut 
+          maentiellä talollisen pojan Heikki Karttisen ja lyöneet häntä puukolla selkään kolme haawaa. Haawoittunut toimitettiin heti lääninsairaalaan apua saamaan ja on hänen tilansa ainakin toistaiseksi hywä, joten hengenwaaraa ei ole. 
+          Puukottajia ei wielä eilisiltaan mennessä oltu pidätetty, mutta tunnetaan heidät.</p>
+      </Article>
+
+      <DateDivider date="Lauantai, 8.11.1924"/>
+      <Article titleText="Tammelan Teurolla tapahtunut pahoinpitely.">
+        <h5>Kauppias Oksanen edelleen puolitajuttomassa tilassa.</h5>
+        <p>Kuten kerroimme, lyötiin kauppias Swante Oksasta Tammelan Teurolla toissa perjantaina niin pahasti päähän, että hänet tajuttomassa tilassa oli tuotawa Hämeenlinnan lääninsairaalaan.</p>
+        <p>Eilen tiedustelimme sairaalasta hänen tilaansa ja ilmoitettiin sieltä, että hän edelleen on puolitajuttomassa tilassa ja että hänen toipumisestaan on waikea mennä mitään sanomaan. Lääkärit luulewat, että Oksanen on saanut 
+          jonkinlaisen werenwuodon aiwoihinsa.</p>
+        <p>Lauri Yli-Tuomolan suhteen on nyt pidetty poliisikuulustelu ja on siinä käynyt ilmi, että Oksanen ei ollut erikoisemmin härnäillyt Yli-Tuomolaa, waan että hän on itse ollut syyllinen. Yli-Tuomola on pidätetty ja tultanee 
+          häntä syyttämään myös ammattimaisesta wiinanmyynnistä.</p>
+      </Article>
+
+      <DateDivider date="Keskiviikko, 12.11.1924"/>
+      <Article titleText="Tappelu Idänpään seuratalolla.">
+        <h5>Erästä iltamawierasta ammuttu lantiolihaksiin.</h5>
+        <p>Wiime lauantai-iltana Idänpään seuratalolla wietettäessä W.P.K:n iltamaa alkoi iltamaan saapunut kersantti Koskela tikari kädessä mellastella iltamahuoneessa. Kun mellasteljia poistettiin iltamahuoneesta alkoi hän ulkona 
+          ammuskella sillä seurauksella, että muuan luodeista tunkeutui Hämeenlinnan maalaiskunnasta kotoisin olewan työm. R. Enkwistin lantioon wahingoittaen kuitenkin ainoastaan lihaksia. Poliisin saapuessa paikalle oli ampuja jo 
+          ehtinyt lähteä pois. Enkwistin haawa sidottiin lääninsairaalassa. Kun asianomaisia ei wielä ole tawattu ei poliisitutkintoa asiassa wielä ole pidetty.</p>
+      </Article>
+
+      <DateDivider date="Torstai, 20.11.1924"/>
+      <Article titleText="Wiralan hiiwatehtaalla tapahtunut kawallus.">
+        <h5>Rosenqwist tuomittu toiskertaisesta warkaudesta 6:ksi kk:si kuritushuoneeseen ja jatketusta kawalluksesta 2:ksi kk:ksi wankeuteen. - Rosenqwistiä tullaan syyttämään myös Hämeenlinnan ja Helsingin raastuwanoikeuksissa.</h5>
+        <p>Kuten lehdessämme on aikaisemmin kerrottu, pidätettiin poliisiwiranomaisten toimesta joku aika sitten Janakkalassa sijaitsewan Wiralan hiiwatehtaan konttoristi Georg Rosenqwist syylliseksi epäiltynä warkauksiin ja 
+          kawalluksiin, joiden yhteisen määrän laskettiin nousewan 12,000:een markkaan.</p>
+        <p>Syyte Rosenqwistia wastaan oli wiime tiistaina esillä Janakkalan y.m. pitäjien wälikäräjillä Hämeenlinnassa. Antamallaan päätöksellä tuomitsi kihlakunnanoikeus wastaajan pidettäwäksi toiskertaisesta warkaudesta 6 kk. 
+          kuritushuoneessa ja jatketusta kawalluksesta 2 kk. wankeudessa sekä maksamaan korwauksia 2,750 mk. Mikäli asia koskee kolmen postiwekselin wäärennystä, siirrettiin se siltä osaltaan käsiteltäwäksi Hämeenlinnan ja Helsingin 
+          raastuwanoikeuksiin. Wastaaja passitettiin lääninwankilaan.</p>
+      </Article>
+      <Article titleText="Otto Nyströmin ryöstöjuttu.">
+        <h5>Howioikeus palauttanut jutun Arrheniukseen nähden takaisin kihlakunnanoikeuteen.</h5>
+        <p>Kuten muistettaneen, joutui Hämeenlinnassa wiime wuonna lumppujen keruulla itseään elättäwä Otto Nyström-niminen mies Wanajassa pahoinpitelyn ja ryöstön uhriksi. Tekoon syylliseksi epäiltynä pidätettiin sittemmin paria 
+          miestä, joista molemmat kihlakunnanoikeus tuomitsi rangaistukseen. Nyttemmin on kuitenkin howioikeus palauttanut toista syytettyä, nimittäin Lauri Arrheniusta, kotoisin Pälkäneeltä, koskewan jutun takaisin kihlakunnanoikeuteen. 
+          Juttu olikin jälleen esillä wiime tiistaina Janakkalan y.m. pitäjien wälikäräjillä, mutta lykättiin se mälikäräjiin.</p>
+      </Article>
+      <Article titleText="Ruma teko.">
+        <h5>Hirwi ammuttu Pälkäneellä.</h5>
+        <p>Wiime wiikolla oli eräs salametsästäjä Pälkäneen pitäjän Kostamon takamailla ampunut upean, n. 400 kg. painoisen naarashirwen. Syystä tai toisesta oli salametsästäjä kuitenkin ollut pakoitettu jättämään riistansa metsään, 
+          mistä se sitten löydettiin. Tekoon syylliseksi epäilewät poliisiwiranomaiset erästä itsellistä, joka kylläkin kieltää syyllisyytensä, mutta jota wastaan oli sitowia todistuksia. Jäljissä nimittäin hawaittiin erikoisia naulojen 
+          merkkejä, jotka sopiwat mainitun itsellisen kotona löydettyihin saappaisiin.</p>
+      </Article>
+
+      <DateDivider date="Sunnuntai, 23.11.1924"/>
+      <Article titleText="Kauppias Oksasen pahoinpitely Tammelassa.">
+        <h5>Oksanen kuollut sairaalassa.</h5>
+        <p>Kuten aikanaan kerroimme, löi wiime lokakuun 31 pnä Tammelan Teuron kylässä talollisenpoika Lauri Yli-Tuomola kauppias Swante Oksasta mainitusta kylästä halolla päähän. Oksanen tuotiin heti Hämeenlinnan lääninsairaalaan 
+          hoidettawaksi. Täällä kuoli Oksanen saamansa wamman johdosta keskiwiikkoa wasten yöllä klo 3. Ali-Tuomola on passitettu wankilaan ja tullaan häntä wastaan nostamaan syyte kuoleman aiheuttaneesta pahoinpitelystä.</p>
+        <p>Oksanen jätti jälkeensä waimon ja yhden lapsen.</p>
+      </Article>
+
+      <DateDivider date="Keskiviikko, 26.11.1924"/>
+      <Article titleText="Rauhaton yö Riihimäellä.">
+        <h5>Hurjistunut mies pommittanut Elantolan akkunoita kattotiilillä. — Humalainen pudonnut toisesta kerroksesta Käräjäkatu 6:ssa.</h5>
+        <p>Wiime sunnuntain wastaimen yö oli Riihimäen kauppalassa tawallista rauhattomampi. Poliisilaitoksen kirjoihin tuli sen tapahtumista pitkät kertomukset, joita seuraawassa lyhyesti selostamme. Lewottomuuksien sarja alkoi 
+          noin klo 12 ajoissa yöllä, jolloin muuan „wirolaisen” wiljelemisestä hurjalle päälle tullut mies, Riihimäeltä kotoisin olewa työmies Johan Walter Salminen kiipesi Elantolan tiiliaidan yli mainitun talon pihaan ja sieltä 
+          sitten piharakennuksen katolle. Talonmies heräsi kiipeilijän aiheuttamaan rapinaan ja riensi katsomaan, kuka siellä keskellä yötä liikehti. Huomattuaan Salmisen katolla hän kehoitti tätä tulemaan alas, mutta S. wastasi 
+          kehoitukseen tiilikiwellä, jonka oli irroittanut rakennuksen katosta. Tämä ei kuitenkaan osunut. Paikalle kertyi sitten pian muitakin ihmisiä, joiden kehoituksiin Salminen wastasi kattotiiliannoksilla. Tällöin syntyi 
+          todellinen tiilisade, jota jatkui pitemmän aikaa. Paitsi ihmisiä kohti, paiskeli S. kattotiilejä myös Elantolan päärakennuksen seiniin ja akkunoihin, jotka meniwät säpäleiksi. Onneksi eiwät kiwet kuitenkaan wahingoittaneet 
+          ketään. Paikalle hälyytettiin poliiseja, jotka ampumalla parisenkymmentä warotuslaukausta, wihdoin saiwat hurjistuneen miehen alas katolta, minkä jälkeen hänet wietiin putkaan rauhoittumaan. Kaikiaan lienee mies 
+          heittänyt katolta n. 40—50 kattotiiltä, jotka särkyiwät. Päärakennuksen ensimmäisen ja toisen kerroksen pihanpuoleisista akkunoista meni suuri osa rikki. Mellastelijalle koituu näin ollen siewänlainen lasku huwittelustaan.</p>
+        <p>Lujasti päissään oli samana yönä työmies Otto Seweri Hietaharjukin, joka klo 12,45 putosi Käräjätatu 6:ssa toisesta kerroksesta rappukäytäwään kaswot edellä, jotka osuiwat kohdalla olleeseen akkunapenkkiin sillä 
+          seurauksella, että huulet ja osa nenää ruhjoutuiwat pahoin. Paikalle kutsuttu lääkäri määräsi loukkaantuneen wietäwäksi sairaalaan, koska hänen tilansa näytti kowin heikolta. Sairaalasta ilmoitettiin kuitenkin myöhemmin yöllä, 
+          että H. oli ruwennut siellä mellastamaan ja hieromaan tappelua, jonka wuoksi hänet oli tuotawa yöllä putkaan selwiämään, jonka jälkeen hän aamulla pääsi lähtemään tiehensä.</p>
+        <p>Pahalla tuulella oli myös suutari Waldemar Lehtinen, joka samana yönä klo 4,15 korjattiin putkaan. Hän oli särkenyt asuntonsa akkunat ja pidellyt pahoin waimoaan, minkä jälkeen oli horjunut kadulle, jossa joutui poliisin 
+          apajaan. Tämäkin „lasimestari” joutuu oikeudessa antamaan „meriselityksensä”.</p>
+        <p>„Wäsyneitä” korjattiin edellämainittuna yönä poliisikamarin pahnoille kaikkiaan 8 kpl. Yö oli siis ainakin poliiseille warsin wilkas ja rauhaton.</p>
+        </Article>
       
 
 
