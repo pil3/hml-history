@@ -879,10 +879,42 @@ const Lukijoilta1924Page = () => {
         <p className="signatureStyle">G. E. Palm</p>
       </Article>
 
+      <DateDivider date="Keskiviikko, 3.12.1924"/>
+      <Article titleText="Kuntalaiset!">
+        <p>Huomenna on meidän jälleen käytäwä waaliuurnille walitsemaan kuntamme waltuuston 10 jäsentä.</p>
+        <p>Kuten jo sanomalehdissä on mainittu on useampia listoja walmistettu. Näistä tahtoisimme kuitenkin suositella wain kokoomuspuolueen listoja, joiden nimiluettelot sisältäwät kokeneitten ja kypsyneiden kunnallismiesten nimiä.</p>
+        <p>Ei ole suinkaan yhdentekewää kuka on waltuustossa istumassa silloin kuin tärkeistä asioista päätetään. Muistakaamme wain kuinka käwi alkusyksyllä, kun kaupunkimme jäi ulkopuolelle sen ulkomaisen lainan, johon useimmat kaupungit 
+          yhtyiwät ja joka meiltä olisi säästänyt korkomenoja noin 150,000 mk. wuosittain. Jos tässäkin olisi noudatettu kokeneiden waltuusmiesten kantaa, olisi laina otettu ja siten tuntuwa werohuojennus meille jokaiselle saatu. Tässä 
+          wain yksi pieni esimerkki, samanlaatuisia woi jatkuwasti tapahtua.</p>
+        <p>Tältä kannalta katsoen on jokaiselle weronmaksajalle tärkeätä huolehtia, että waltuustoon tulee taloudellisiin asioihin perehtyneitä miehiä. Sellaisia owat kaikki N:o 1 listassa olewat nimet. Antakaa wiiwanne tähän listaan ja 
+          kehoittakaa naapureitannekin samoin tekemään - silloin tiedätte, että äänioikeutenne on tullut käytetyksi parhaimmalla tawalla.</p>
+        <p>Wirkamiehet, liikemiehet, y.m., kaikkien Teidän on kohdistettawa wiiwanne allaolewaan listaan.</p>
+        <p className="boldStyle">Yhteinen hywä kaiken yläpuolelle!</p>
+        <p className="boldStyle">Wiiwanne listaan N:o 1!</p>
+        <p className="signatureStyle">Kuntalaisia.</p>
+      </Article>
 
-
-
-      <br></br>
+      <DateDivider date="Lauantai, 20.12.1924"/>
+      <Article titleText="Kaikille hewosten omistajille maassamme.">
+        <p>Helsingin Eläinsuojelusyhdistys on huomauttanut, että Suomen Karjakeskuskunta nykyään harjoittaa suurta hewosten wientiä Neuwosto-Wenäjälle; nytkin juuri on 226 hewosta wiety yli rajan. Yhdistys on sentähden katsonut wakawaksi 
+          welwollisuudekseen, estääkseen semmoista kuljetusta, sanomalehtien kautta kääntyä kaikkien hewosten omistajain puoleen maassamme anomuksella, että he jokainen puolestaan tekisiwät woitawansa, ettei heidän hewosiaan wietäisi 
+          Wenäjälle, jossa sangen epäwarma, jopa julmakin kohtalo niitä odottaa. Kun wuosi sitten Ruotsissa nostettiin kysymys hewosten wiennistä Wenäjälle, kääntyi eräs henkilö, joka liikemiehenä monta wuotta oli oleskellut eri paikoissa 
+          Wenäjää, oikeuden ja inhimillisyyden nimessä yleisön puoleen kehoituksella, että kysymyksessä olewa hewosten wienti kiellettäisiin. Hänen lausunnostaan lainaamme seuraawan otteen:</p>
+        <p>„Allekirjoittanut, joka monta wuotta on asunut Wenäjällä, on siellä nähnyt mitä julminta, sydämettömintä eläinrääkkäystä, juuri mitä wanhoihin työhewosiin tulee. Ilman että tässä käyn mainitsemaan erityisiä tapauksia tai 
+          kidutustapoja, joita Wenäjällä näkee, tahdon waan wedota jokaiseen, mieheen tai naiseen, jotka pitemmän aikaa owat Wenäjällä olleet, ja pyytää heitä todistamaan, että esittämäni hawainnot owat totuudenmukaisia. Olen warma siitä, 
+          ettei yksikään heistä woisi muuta kuin myöntää, että hewosten kohtelu Wenäjällä on kauhistuttawa. Enkä usko, että kukaan, joka on nähnyt miten hewosia siellä kohdellaan, woisi myydä hewostaan Wenäjälle. Kuta wanhemmaksi 
+          hewosparka tulee, sitä wähemmän arwoinen se on. Se menee kauppatawarana kädestä käteen yhä pienemmästä summasta, ja saa kokea yhtä kowempaa kohtelua. Kun ne sitten lopulta joutuwat semmoisiin käsiin, jotka ajattelewat, että he 
+          wielä woiwat wuoden ajan lyömällä ja ruoskimalla pusertaa tuosta juhdasta jotakin woimaa, silloin woi ymmärtää, että ne owat joutuneet ihmisten käsiin, jotka owat hywin alhaisella siwistystasolla. He eiwät ollenkaan pidä hewosta 
+          tuntewana ja kärsiwänä olentona, waan ainoastaan kuluwana koneena, jonka kuoliaaksi ruoskiminen ei maksa heille montataan ruplaa. Meidän welwollisuutemme ihmisinä puolustaa eläimiä, kun aiwan hywin woimme aawistaa, että ne 
+          joutuwat kauhistuttawan kohtelun alaiseksi, jota myöhemmin emme enää woi auttaa.”</p>
+        <p>Olisi kaunis todistus kansamme liikemoraalista, samoin kuin siwistyksestä, joka tähtää pintaa sywemmälle, jos hewosten wienti lakkaisi Neuwosto-Wenäjälle halukkaiden myyjien puutteessa. Älköön kukaan panko laastaria sairaalle 
+          omalletunnolleen siten, että hän wälittäjien kautta myy hewosensa - joka sitten joutuu Wenäjälle.</p>
+        <p>Eläinsuojelusyhdistys Helsingissä wetoo täten kansamme kunniantuntoon. Älkää luowuttako uskollista palwelijaanne tuntemattomiin kohtaloihin, waikkakin sen kautta kärsitte tilapäistä aineellista wahinkoa.</p>
+        <p className="centeredStyle">Helsingissä, 30 pnä lokak. 1924.</p>
+        <p className="signatureStyle">Helsingin Eläinsuojelusyhdistys.</p>
+      </Article>
+      <br />
+      <Divider className="dividerStyle" />
       <a className="hyperLinkStyle" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?year=1924">Linkki vuosikertaan 1924</a>
     </Layout>
   );

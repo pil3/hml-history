@@ -61,12 +61,12 @@ import img51 from "../images/content/address1915/addr-51.jpg"
 
 const Osoitteita1915Page = () => {
   return (
-    <Layout titleText="Osoitteita vuodelta 1915">
+    <Layout titleText="Osoitteita - 1915">
       <ImageSlider imgArray={imageArray} showDots={false} wide={false}></ImageSlider>
       <br></br>
       <p className="captionStyle">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan kaupunginkirjasto, Osoitekalenteri 1915</p>
       <br></br>
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/de8bc2c3d2b360870dd8bcb7cc789fe0.pdf">Linkki alkuperäiseen dokumenttiin</a>
+      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/de8bc2c3d2b360870dd8bcb7cc789fe0.pdf">Lähde</a>
     </Layout>
   )
 }

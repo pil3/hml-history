@@ -57,7 +57,7 @@ import img42 from "../images/content/phonebook1926/phone-42.jpg"
 
 const Puhelin1926Page = () => {
   return (
-    <Layout titleText="Puhelinluettelo vuodelta 1926">
+    <Layout titleText="Puhelinluettelo - 1926">
       <ImageSlider imgArray={imageArray} showDots={false} wide={false}></ImageSlider>
       <Divider className="dividerStyle" />
 
@@ -172,7 +172,7 @@ const Puhelin1926Page = () => {
  
       <p className="captionStyle">Hämeenlinnan kaupunginkirjasto 1926, Hämeenlinnan puhelinosakeyhtiö </p>
       <br></br>
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/a055024005299ac22e01e536c059dc7a.pdf">Linkki alkuperäiseen dokumenttiin</a>
+      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/a055024005299ac22e01e536c059dc7a.pdf">Lähde</a>
     </Layout>
   )
 }

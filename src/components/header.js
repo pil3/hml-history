@@ -30,6 +30,12 @@ const Header = () => {
 
             <NavDropdown title="Tekstejä" id="collasible-nav-dropdown">
               <NavDropdown.Item>
+                <Link to="/kunnallis-historia" className="nav-link" activeClassName="active">Kunnallis-historia</Link> 
+              </NavDropdown.Item>
+              <NavDropdown.Item>
+                <Link to="/tulipalo" className="nav-link" activeClassName="active">Kaupungin palo 1831</Link> 
+              </NavDropdown.Item>
+              <NavDropdown.Item>
                 <Link to="/hauho" className="nav-link" activeClassName="active">Hauhon kirkon arkistosta</Link> 
               </NavDropdown.Item>
               <NavDropdown.Item>
@@ -59,7 +65,7 @@ const Header = () => {
                   <Link to="/artikkeleita1914" className="nav-link" activeClassName="active">Artikkeleita</Link> 
                 </NavDropdown.Item>
                 <NavDropdown.Item>
-                  <Link to="/rikoksia1914" className="nav-link" activeClassName="active">Rikoksia</Link> 
+                  <Link to="/rikoksia1914" className="nav-link" activeClassName="active">Arveluttavia tapahtumia</Link> 
                 </NavDropdown.Item>
               </DropdownSubmenu>
               <DropdownSubmenu className={subMenuStyle} title="1924">
@@ -92,6 +98,9 @@ const Header = () => {
             </NavDropdown>
 
             <NavDropdown title="Luetteloita" id="collasible-nav-dropdown">
+            <NavDropdown.Item>
+                <Link to="/kalenteri-1895" className="nav-link" activeClassName="active">Kunnallis-Kalenteri - 1895</Link> 
+              </NavDropdown.Item>
               <NavDropdown.Item>
                 <Link to="/osoitteita-1887" className="nav-link" activeClassName="active">Osoitteita - 1887</Link> 
               </NavDropdown.Item>

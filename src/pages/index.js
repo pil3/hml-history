@@ -19,6 +19,7 @@ const HomePage = () => {
   return ( 
     <Layout titleText="Palasia entisestä Hämeenlinnasta">
       <ImageSlider imgArray={carouselArray} showDots={false} auto={false} wide={true}></ImageSlider>
+      <br />
       <Divider className="dividerStyle" />
       <QuoteStart className="symbolStyle"/>
       <p className="firstLetterStyle">
@@ -180,10 +181,10 @@ const carouselArray = [
   },
   {
     key: "imageid2",
-    imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.6E1065AF9F74977AEC291F049F3FEB74&index=0&size=large",
-    org: "Museovirasto - Historian kuvakokoelma - Nyblin, Daniel, kuvaaja",
-    caption: "Näkymä Kaupunginpuistosta kohti linnaa.",
-    title: "1893"
+    imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.62b7d93e-1e24-4ef7-a38f-5107e2c9e3da&index=0&size=large",
+    org: "Museovirasto - Rytkönen, Enok, kuvaaja - CC BY 4.0",
+    caption: "Talonpoikaismarssin autokaravaani Hämeenlinnassa matkalla Helsinkiin 7.7.1930.",
+    title: "1930"
   },
   {
     key: "imageid3",
@@ -204,7 +205,7 @@ const carouselArray = [
     imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=lahdenmuseo.lkm-259858&index=0&size=large",
     org: "Lahden museot - Böök A. Th - CC BY 4.0",
     caption: "Kaksi herrasmiestä ja puinen pitkäsilta.",
-    title: "n. 1900"
+    title: "n. 1907"
   },
   {
     key: "imageid6",
@@ -691,10 +692,10 @@ const carouselArray = [
 },
 {
   key: "imageid75",
-  imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.D7BFA6F4FE2D0BFDB45BCFC40FD6EA99&index=0&size=large",
-  org: "Museovirasto - Historian kuvakokoelma - Kanerva, Teuvo, kuvaaja - CC BY 4.0",
-  caption: "Raatihuoneenkadun ja Kasarmikadun kulmassa sijainneen liikekorttelin sisäpihaa.",
-  title: "1975"
+  imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=srm.166931506899500&index=0&size=large",
+  org: "Suomen Rautatiemuseo - Suomen Rautatiemuseon kuvakokoelma - CC BY-NC-SA 4.0",
+  caption: "Hämeenlinnan ensimmäisen asemarakennuksen suunnitteli C. A. Edelfelt ja rakennus valmistui v. 1862. Rakennus tuhoutui sisällissodan aikana v. 1918.",
+  title: "n. 1910"
 },
 {
   key: "imageid76",
@@ -775,10 +776,10 @@ const carouselArray = [
 },
 {
   key: "imageid87",
-  imgSrc: "https://museovirasto.finna.fi/Cover/Show?source=Solr&id=museovirasto.03ED54CBBD8B3A3F4B30C0FAF7FED770&index=0&size=large",
-  org: "Museovirasto - Historian kuvakokoelma - Veljekset Karhumäki, kuvaaja - CC BY 4.0",
-  caption: "Lentäjäveljekset Niilo, Valto ja Uuno rakensivat Jyväskylän maalaiskunnan Keljossa 1920-luvulla neljä lentokonetta: Karhu 1, Karhu 2, Karhu 3 ja Tiira. Harrastus laajeni pian ilmailualan yritykseksi, jonka toimintaan kuuluivat 1930-luvulla lentokoulutus, yleisölennätykset, lentokoneiden korjaus ja ilmavalokuvaus sekä tilauslennot.",
-  title: "1930"
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/d1bca46e7988727c9481ca4bf480258a.jpg",
+  org: "Hämeenlinnan kaupunginkirjasto - Julkaistu painettuna: Suomalainen kirjakauppa Oy. - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
+  caption: "Hämeenlinnan keskustan mittavia rakennushankkeita 1920-1930-lukujen vaihteessa olivat mm. Kariston kustannusliikkeen uusi toimitalo, suojeluskuntatalo Hämeen Suoja sekä Paavonkulman viisikerroksinen asuin- ja liikerakennus. Etelärannalla sijaitsi kaupungin uimalaitos, joka oli otettu käyttöön vuonna 1911.",
+  title: "1930-luku"
 },
 {
   key: "imageid88",
@@ -786,5 +787,40 @@ const carouselArray = [
   org: "Museovirasto - Historian kuvakokoelma - Saxelin, Carl Otto, kuvaaja - CC BY 4.0",
   caption: "Hämeenlinnan palokunnantalon vihkiäiset. Palokunnantalo valmistui VPK:n rakentamana 1893 silloisen Rantatorin varteen VPK:n juhlataloksi. Talossa toimi vuosien 1924-1984 aikana Hämeenlinnan vakinainen palokunta.",
   title: "1893"
+},
+{
+  key: "imageid89",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/207aadd0c9434417dd13be1f712beb53.jpg",
+  org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
+  caption: "Hämeenlinnan Rantapuistoa alettiin kaunistaa istutuksilla vuonna 1889 kaupunginlääkäri Carl Henrik Bartramin aloitteesta. Vuonna 1904 perustettu ja lehtori A. Th. Böökin johtama puistovaliokunta täydensi puiston istutuksia mm. tilaamalla ulkomailta asti koristepensaita ja -kasveja.",
+  title: "n. 1905"
+},
+{
+  key: "imageid90",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/1a8ca81d73ffaeaf723323444b7aef5c.jpg",
+  org: "Hämeenlinnan kaupunginkirjasto - Suomalainen kirjakauppa, Hämeenlinna",
+  caption: "Kevättulva on vallannut myös Keinusaaren ja lähes peittänyt Pikkujärven ja Vanajaveden välisen alueen veden alle. Vasemmalla Keinusaaren puoleisella rannalla näkyy kruununmakasiinin kattoa, kaupungin pesuhuone, Verkatehtaan savupiippu ja molemmat Pinellan huvilat.",
+  title: "1930-luku"
+},
+{
+  key: "imageid91",
+  imgSrc: "https://digi.kirjastot.fi/files/fullsize/a31913da87aa7d06cb6902e8b421eae2.jpg",
+  org: "Hämeenlinnan kaupunginkirjasto - Julkaistu painettuna: Hämeenlinna - Tavastehus : Enok Rytkönen - Hämeenlinnan postimerkkikerho ry. (Matti Parkkosen yksityiskokoelma)",
+  caption: "Kaupunginpuiston länsilaidan kiviaitaa Tampereelle johtavan tien laidassa ns. Pikku-Parkin kohdalla olevassa ylämäessä. Pikku-Parkiksi kutsuttiin Tampereentien länsipuolelle jäävää aluetta, johon jo 1800-luvun lopulla syntyi harvahkoa esikaupunkiasutusta puiston kohdalle. Nykyään alue kuuluu Puistonmäen kaupunginosaan.",
+  title: "n. 1900"
+},
+{
+  key: "imageid92",
+  imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.AE9FAABDB6117157420559D2B2B921D4&index=0&size=large",
+  org: "Museovirasto - Historian kuvakokoelma - CC BY 4.0",
+  caption: "Hämeenlinnan suojeluskunnan pesäpallojoukkue vanhalla urheilukentällä.",
+  title: "1923"
+},
+{
+  key: "imageid93",
+  imgSrc: "https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.5DAEF966400AADB0E4430D68A2AD982A&index=0&size=large",
+  org: "Museovirasto - Historian kuvakokoelma - M. L. Carstensin kokoelma - CC BY 4.0",
+  caption: "",
+  title: "1909"
 },
 ];

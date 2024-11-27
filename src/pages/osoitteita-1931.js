@@ -103,12 +103,12 @@ import img93 from "../images/content/address1931/addr-93.jpg"
 
 const Osoitteita1931Page = () => {
   return (
-    <Layout titleText="Osoitteita vuodelta 1931">
+    <Layout titleText="Osoitteita - 1931">
       <ImageSlider imgArray={imageArray} showDots={false} wide={false}></ImageSlider>
       <br></br>
       <p className="captionStyle">Hämeenlinnan kaupunginkirjasto, Hämeenlinnan osote-kalenteri, 1931-1932 </p>
       <br></br>
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/8a033502580f3ce2fc4272106a6097e4.pdf">Linkki alkuperäiseen dokumenttiin</a>
+      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/8a033502580f3ce2fc4272106a6097e4.pdf">Lähde</a>
     </Layout>
   )
 }

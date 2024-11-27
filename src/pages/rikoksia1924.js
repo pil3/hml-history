@@ -1495,8 +1495,8 @@ const Crimes1924Page = () => {
       </Article>
       <Article titleText="Miestä lyöty halolla päähän.">
         <h5>Kauppias Oksanen Teurolta saanut hengenwaarallisen iskun.</h5>
-        <p>Viime perjantaina, kun kauppias Swante Oksanen Tammelan Teurolta wei markkinawäkeä kuorma-autollaan kotiin Forssasta, riitaantuiwat kauppias Oksanen ja talollisen poika Lauri Yli-Tuomola. Oksanen ajoi autonsa kauppansa eteen, 
-          jolloin wäki siitä poistui. Wähän ajan kuluttua palasi Lauri Yli-Tuomola kuitenkin takaisin hakemaan autoon jäänyttä hattuaan. Tällöin hänen riitansa kauppias Oksasen kanssa jatkui, ja kiihtyi Yli-Tuomola niin, että hän löi 
+        <p>Viime perjantaina, kun kauppias Swante Oksanen Tammelan Teurolta wei markkinawäkeä kuorma-autollaan kotiin Forssasta, riitaantuiwat kauppias Oksanen ja talollisen poika Lauri Ali-Tuomola. Oksanen ajoi autonsa kauppansa eteen, 
+          jolloin wäki siitä poistui. Wähän ajan kuluttua palasi Lauri Ali-Tuomola kuitenkin takaisin hakemaan autoon jäänyttä hattuaan. Tällöin hänen riitansa kauppias Oksasen kanssa jatkui, ja kiihtyi Ali-Tuomola niin, että hän löi 
           kauppias Oksasta halolla päähän. Kauppias Oksanen sai niin pahan aiwotärähdyksen, että hän heti meni tajuttomaksi. Hänet tuotiin Hämeenlinnan lääninsairaalaan hoidettawaksi.</p>
       </Article>
       <Article titleText="Puukotus Rengossa.">
@@ -1512,7 +1512,7 @@ const Crimes1924Page = () => {
         <p>Kuten kerroimme, lyötiin kauppias Swante Oksasta Tammelan Teurolla toissa perjantaina niin pahasti päähän, että hänet tajuttomassa tilassa oli tuotawa Hämeenlinnan lääninsairaalaan.</p>
         <p>Eilen tiedustelimme sairaalasta hänen tilaansa ja ilmoitettiin sieltä, että hän edelleen on puolitajuttomassa tilassa ja että hänen toipumisestaan on waikea mennä mitään sanomaan. Lääkärit luulewat, että Oksanen on saanut 
           jonkinlaisen werenwuodon aiwoihinsa.</p>
-        <p>Lauri Yli-Tuomolan suhteen on nyt pidetty poliisikuulustelu ja on siinä käynyt ilmi, että Oksanen ei ollut erikoisemmin härnäillyt Yli-Tuomolaa, waan että hän on itse ollut syyllinen. Yli-Tuomola on pidätetty ja tultanee 
+        <p>Lauri Ali-Tuomolan suhteen on nyt pidetty poliisikuulustelu ja on siinä käynyt ilmi, että Oksanen ei ollut erikoisemmin härnäillyt Ali-Tuomolaa, waan että hän on itse ollut syyllinen. Ali-Tuomola on pidätetty ja tultanee 
           häntä syyttämään myös ammattimaisesta wiinanmyynnistä.</p>
       </Article>
 
@@ -1549,7 +1549,7 @@ const Crimes1924Page = () => {
       <DateDivider date="Sunnuntai, 23.11.1924"/>
       <Article titleText="Kauppias Oksasen pahoinpitely Tammelassa.">
         <h5>Oksanen kuollut sairaalassa.</h5>
-        <p>Kuten aikanaan kerroimme, löi wiime lokakuun 31 pnä Tammelan Teuron kylässä talollisenpoika Lauri Yli-Tuomola kauppias Swante Oksasta mainitusta kylästä halolla päähän. Oksanen tuotiin heti Hämeenlinnan lääninsairaalaan 
+        <p>Kuten aikanaan kerroimme, löi wiime lokakuun 31 pnä Tammelan Teuron kylässä talollisenpoika Lauri Ali-Tuomola kauppias Swante Oksasta mainitusta kylästä halolla päähän. Oksanen tuotiin heti Hämeenlinnan lääninsairaalaan 
           hoidettawaksi. Täällä kuoli Oksanen saamansa wamman johdosta keskiwiikkoa wasten yöllä klo 3. Ali-Tuomola on passitettu wankilaan ja tullaan häntä wastaan nostamaan syyte kuoleman aiheuttaneesta pahoinpitelystä.</p>
         <p>Oksanen jätti jälkeensä waimon ja yhden lapsen.</p>
       </Article>
@@ -1571,10 +1571,139 @@ const Crimes1924Page = () => {
           apajaan. Tämäkin „lasimestari” joutuu oikeudessa antamaan „meriselityksensä”.</p>
         <p>„Wäsyneitä” korjattiin edellämainittuna yönä poliisikamarin pahnoille kaikkiaan 8 kpl. Yö oli siis ainakin poliiseille warsin wilkas ja rauhaton.</p>
         </Article>
+
+      <DateDivider date="Sunnuntai, 30.11.1924"/>
+      <Article titleText="Hattulan y.m. pitäjäin käräjät.">
+        <h5>Päättyneet eilen.</h5>
+        <p>Hattulan y.m. pitäjäin warsinaiset käräjät pättyiwät eilen. Mitään suurempia juttuja ei käräjillä tällä kertaa ollut, koska ne jo aikaisemmin owat tulleet käsitellyiksi wälikäräjillä.</p>
+        <p>Juopumus ja wäkijuomain hallussapitojuttuja oli käräjillä kaikkiaan n. 60 ja waihteliwat sakot juopumuksesta 200 - 500 mk. sekä hallussapidosta 200 - 1,500 markkaan.</p>
+        <p>Alkoholipitoisten aineiden luwattomasta kaupasta tuomittiin lohkotilallisen poika Willehad Laakso 80 päiwäsakkoon à 5 mk. sekä hallussapidosta 75 päiwäsakkoon samaten à 5 mk. sekä menettämään häneltä tawatut 8 l. spriitä 
+          waltiolle.</p>
+        <p>Lohkotilallinen Juho Aukusti Seppälä Takajärweltä tuomittiin jatketusta wiinakaupasta 80 päiwäsakkoon à 10 mk. sekä korwaamaan todistajapalkkiot 250 markalla.</p>
+        <p>Kotirauhan rikkomisesta tuomittiin työm. K. A. Saarinen Sattulasta 3 kk. wankeuteen ja 400 mk. juopumussakkoon. S. oli wiime syksynä juopuneena tunkeutunut Sattulan Naskilan taloon, missä oli seipäällä lyönyt owia säpaleiksi 
+          ja puukolla uhannut talon isäntää.</p>
+        <p>Pelkolasta kotoisin olewa Otto Myllymäki tuomittiin samoin kotirauhan rikkomisesta 40 päiwäsakkoon à 40 mk. M. oli wiime juhannusyönä tunkeutunut Pelkolassa asuwan lohkotilallisen Sawimäen pihamaalle lyöden seipäällä 
+          ikkunoita rikki.</p>
+        <p>Näpistelystä tuomittiin palwelijatar Iida Saimi Rantanen Ojoisilta 200 mk. sakkoon. R. oli ottanut eräältä mäkitupalaiselta erinäistä waatetawaraa.</p>
+        <p>Syytejuttuja oli kaikkiaan 70, joista pienempiä juopumus- ja mellastelujuttuja kymmenkunta. Spriin myynnistä tuomittujen sakot waihteliwat 750 - 1,500 mk.</p>
+        <p> Käräjät kestiwät kaikkiaan 6 päiwää.</p>
+      </Article>
+
+      <DateDivider date="Tiistai, 2.12.1924"/>
+      <Article titleText="Warkaita liikkeellä kaupungissamme.">
+        <h5>Yleisöllä syytä warowaisuuteen.</h5>
+        <p>Eilen päiwällä klo 12 ja 1 wälillä oliwat warkaat suomalaisella yhteiskoululla anastaneet opettajahuoneen eteisestä naulakosta miehen talwitakin ja hatun sekä erään oppilaan willapaidan ja housut. Warkaudesta ilmoitettiin 
+          heti poliisille, joka onkin ryhtynyt warkaista selwää ottamaan.</p>
+        <p>Mikäli meille on wiranomaisten taholta ilmoitettu on kaupungissa taas alkanut ilmestyä tawallista enemmän epäilyttäwää huligaani-ainesta. Tämä ilmiö onkin jokasyksyinen ja nähtäwästi työttömyydestä johtuwa. Yleisön on siis 
+          syytä tarkoin pitää silmällä, että owet huolellisesti yöksi suljetaan ja muutenkin ryhdytään tarpeellisiin warowaisuustoimenpiteisiin warkaiden waralta.</p>
+      </Article>
+
+      <DateDivider date="Keskiviikko, 3.12.1924"/>
+      <Article titleText="Pahoinpitely Riihimäellä.">
+        <h5>Mies löydetty tiedottomassa tilassa Lopentien warrelta.</h5>
+        <p>Sunnuntai-iltana klo 8,45 ilmoitettiin puhelimella läkkiseppä Markkaselta Riihimäen poliisilaitokselle, että heidän asuntonsa kohdalla Lopentien warrella oli löydetty eräs mies ammuttuna. Poliisilaitokselta lähti tällöin 3 
+          poliisikonstaapelia paikalle, jossa he tapasiwatkin miehen makaamassa näköjään kuolleena. Jonkun ajan kuluttua mies kuitenkin toipui. Samalla todettiin, ettei häntä oltu ammuttu, waan sen sijaan lyöty jollain tylsällä esineellä 
+          päähän. Mies wietiin tri Kahelinin sidottawaksi. Pahoinpidelty on lasitehtaan työläinen Teudor Edward Lehtonen. Hän on syntynyt Janakkalassa 1907 mutta kirjoilla Riihimäen Herajoella. Lyöjää ei wielä toistaiseksi tunneta, mutta 
+          toiweita pidättämisestä on, sillä tielle on jäänyt eräitä todistuskappaleita, joista woidaan päätellä kuka pahoinpitelijä on.</p>
+      </Article>
+
+      <DateDivider date="Perjantai, 5.12.1924"/>
+      <Article titleText="Kauppias Oksasen murha.">
+        <h5>Murhaaja saanut tuomionsa.</h5>
+        <p>Kuten muistettanee tapahtui lokak. 31 pnä Tammelan Teurolla pahoinpitely, jossa talollisenpoika Lauri Ali-Tuomola löi kauppias Swante Oksasta halolla päähän niin pahoin, että Oksanen Hämeenlinnan lääninsairaalassa kuoli 
+          lyönnin aiheutuksesta.</p>
+        <p>Oikeusjuttu lyöjä Ali-Tuomolaa wastaan oli esillä wiime maanantai-iltana Tammelan käräjäkunnan syyskäräjillä ja tuomittiin hänet murhasta 5 wuodeksi kuritushuoneeseen, sekä maksamaan murhatun leskelle 5,000 mk., lesken 
+          alaikäiselle lapselle 150 mk. kk. siksi kunnes hän itse kykenee elättämään itsensä sekä lisäksi hautaus y.m. kuluja.</p>
+        <p>Kuten muistetaan, oli tähänkin surulliseen tapaukseen osuus myöskin wäkijuomilla.</p>
+      </Article>
+
+      <DateDivider date="Tiistai, 9.12.1924"/>
+      <Article titleText="Myllymäessä tapahtunut yliajo.">
+        <h5>Kanne kumottu.</h5>
+        <p>Kuten muistettaneen, ajoi Hyökkäyswaunurykmentin auto n:o 1 wiime elokuun 17 päiwän illalla Myllymäessä muurarinwaimo Wilhelmina Niemisen yli sillä seurauksella, että hän heti kuoli.</p>
+        <p>Wainajan miehen, muurari Niemisen nostama juttu kuolemantuottamuksesta luutnantti Muukkosta, majuri Kumlinia ja ewerstiluutnantti Walleniusta wastaan oli eilen kolmannen kerran Hämeenlinnan raastuwanoikeuden käsiteltäwänä.</p>
+        <p>Kantaja Nieminen ei ollut itse saapuwilla, waan awusti häntä kuten aikaisemminkin waratuomari Arwi Kiwikari. Vastaajien Muukkosen ja Kumlinin awustajana oli edelleen samoin waratuomari T. Hyrkki. Ewerstiluutnantti Walleniusta 
+          ei ollut saatu nytkään haastetuksi.</p>
+        <p>Asiasta kuultiin tällä kerralla wielä yhtä uutta todistajaa.</p>
+        <p>Antamallaan päätöksellä katsoi raastuwanoikeus selwitetyksi, että kysymyksessä on ollut suoranainen tapaturma, minä wuoksi kanne wastaajia wastaan kumottiin.</p>
+      </Article>
+
+      <DateDivider date="Keskiviikko, 10.12.1924"/>
+      <Article titleText="Murtowarkaus Leppäkoskella.">
+        <h5>Waras käynyt „wieraisilla” kahdesti anastaen 900 mk.</h5>
+        <p>Wiime perjantaina iltapäiwällä oli waras tunkeutunut Leppäkoskella työmies Heikki Jokisen asuntoon tämän ollessa poissa kotoa ja anastanut kaapinlaatikosta 700 mk. Illalla kotiin palattuaan ilmoitti Jokinen asiasta poliisille, 
+          joka ryhtyi asiaa tutkimaan. Seuraawana päiwänä waras kuitenkin saapui uudelleen asuntoon ja murtauduttuaan samaan laatikkoon, josta oli edellisenä päiwänä rahat anastanut, wei sieltä löytämänsä 200 mk. Poliisi tutkii asiaa, 
+          mutta tietoa warkaasta ei wielä ole.</p>
+      </Article>
+      <Article titleText="Rohkea ryöstö Turengissa?">
+        <h5>Humalaiselta mieheltä anastettu 1,150 mk. rahaa ja litra spriitä.</h5>
+        <p>Viime perjantaina iltapäiwällä ilmoitti taloll. Kustaa Toffela Turengin kylässä joutuneensa röyhkeän ryöstön uhriksi. Mainittuun aikaan oli ilmoituksen tekijä kylän läpi johtaneella maantiellä kohdannut itsellisen pojan Sulo 
+          Ilmarisen, joka sen pitemmittä puheitta oli päihdyksissä olleen Toffelan taskusta anastanut 1,150 mk. rahaa ja litran spriitä. Pidätetty Ilmarinen on tutkisteluissa tunnustanut anastaneensa kadonneen spriilitran, mutta kieltää 
+          jyrkästi anastaneensa rahoja. Mahdollista onkin, mikäli poliisikuulustelussa on käynyt selwille, että anastajia on ollut useampia.</p>
+      </Article>
+
+      <DateDivider date="Perjantai, 12.12.1924"/>
+      <Article titleText="Werityö Hämeenlinnassa.">
+        <h5>Kiwityömies E. Lainetta Wanajasta ammuttu kadulla toissa yönä hengenwaarallisesti.</h5>
+        <p>Toissa yönä ½ 12 aikaan tapahtui Hämeenlinnassa Birger-Jarlinkadun ja Saaristenkadun kulmassa werityö, minkä uhriksi joutui kiwityömies Ewert Laine Wanajan Kankaantakaa. Laine oli mainittuun aikaan palaamassa Hämeenlinnan 
+          työwäentalolta jostakin näytännöstä eräiden muiden miesten kanssa. Sanotussa kulmauksessa kohtaasiwat miehet sitten parturintyöntekijä Fredrik Teodor Serginin, joka oli tulossa Häme-yhtiöltä, minne hän oli ollut saattamassa 
+          erästä toweriaan. Miesten kesken ei aikaisemmin ollut mitään riitaa, mutta on Sergin kuulustelussa kertonut, että miehet oliwat pyytäneet häneltä pirtua, jolloin hän oli wastannut, ettei hän ole mitään pirtukauppias. Lisäksi 
+          on hän maininnut, että oli tällöin näkemässä jonkun tulewan puukko kädessä itseään kohti, minkä wuoksi hän oli taskuaseella ampunut kaksi laukausta, joista toinen oli osunut Lainetta oikeaan kupeeseen. Teon tehtyään oli Sergin 
+          lähtenyt pakenemaan, mutta pidätettiin hänet myöhemmin. Laine toimitettiin Hämeenlinnan lääninsairaalaan hoidettawaksi. Miehet oliwat jonkun werran juowuksissa tapahtuman sattuessa.</p>
+        <p>Laineen saama haawa on hengenwaarallinen.</p>
+        <p>Sekä Laine että Sergin owat kumpikin nuoria miehiä.</p>
+        <p>Poliisitutkinto asiasta jatkuu tänään.</p>
+      </Article>
+
+      <DateDivider date="Lauantai, 13.12.1924"/>
+      <Article titleText="Owela petkuttaja Hämeenlinnassa.">
+        <h5>Esiintynyt Rautatiekirjakauppa Oy:n wähittäismyyjänä, yrittäen nostaa rahoja, mutta kuitenkin tuloksetta. - Petkuttaja päässyt pakoon.</h5>
+        <p>Wiime keskiwiikkona ilmaantui Rautatiekirjakauppa Oy:n täkäläiseen haarakonttoriin eräs hywinpuettu mies, joka esitti tilauslistat, joiden mukaan hän Hämeenlinnassa kaikkiaan kahdeksalle eri henkilölle olisi myynyt kirjoja 
+          wähittäismaksuehdoilla yhteensä 10,000 mk. arwosta. Ehtojen mukaan olisi hänen tullut näistä saada palkkiota kaikkiaan lähes 1,000 mk. Kun kuitenkin kirjakaupan johtajassa heräsi epäilyksiä, että mies mahdollisesti ei 
+          ollutkaan mainittuja tilauksia saanut, päätti hän tiedustella listoihin merkityiltä tilaajilta, oliwatko nämä todellakin tilaukset tehneet, pyytäen samalla miestä tulemaan iltapäiwällä uudelleen nostamaan rahat. Kun tällainen 
+          tiedustelu sitten tehtiin, käwikin ilmi, ettei kukaan kysymyksessä olewista henkilöistä ollut mitään tilauksia tehnyt. Kun asia sai nyt tämän käänteen, kutsuttiin paikalle etsiwiä pidättämään mies, jos tämä ilmaantuisi rahoja 
+          nostamaan. Huomattuaan kuitenkin, että hänen petosyrityksensä oli tullut ilmi, ei miestä enää kuulunut eikä hänestä sen jälkeen ole mitään tietoa saatu.</p>
+        <p>Tilauslistoihin oli mainittu „asiamies” merkinnyt nimekseen W. Tolonen, mikä tietystikin on tekaistu nimi. Kaikkiaan oli hän wäärentänyt, kuten sanottu, kahdeksan henkilön nimikirjoitukset. Tulkoon wielä mainituksi, että 
+          mies oli sanonut aikaisemmin jättäneensä jo erääseen täkäläiseen kirjakauppaan myös tilauksia, mutta ei ollut sitä kuitenkaan tehnyt.</p>
+        <p>Petkuttaja oli ulkomuodosta päättäen n. 30 wuoden ikäinen.</p>
+      </Article>
       
+      <DateDivider date="Tiistai, 16.12.1924"/>
+      <Article titleText="Hämeenlinnassa esiintynyt petkuttaja.">
+        <h5>Käyttänyt useita eri nimiä. — Porissa onnistunut petkutuksessaan.</h5>
+        <p>Kuten kerroimme, yritti täkäläisestä rautatiekirjakaupan haarakonttorista eräs W. Toloseksi itseään nimittäwä mies nostaa eräistä wäärennetyistä kirjatilauksista kaikkiaan lähes 1,000 mk., tässä kuitenkaan onnistumatta. 
+          Samainen mies on käyttänyt useita eri nimiä, kuten L. A. Puolamäki, Toiwo Päiwärinne, Arwi Palomaa, K. A. Koponen, W. Wikman ja K. D. Paulasmäki. Porissa hän onkin onnistunut petkutuksessaan, nostaen sikäläisestä 
+          rautatiekirjakaupasta tekaistuilla tilauksilla 1,006 mk. 85 p. Miestä ei toistaiseksi ole saatu pidätetyksi.</p>
+      </Article>
 
+      <DateDivider date="Torstai, 18.12.1924"/>
+      <Article titleText="Pirtukanisteri aiheuttanut laajanlaisen oikeusjutun.">
+        <h5>Kaikkiaan 7 henkilöä tuomittu.</h5>
+        <p>Kuten olemme kertoneet, ilmoitti parisen wiikkoa sitten talollinen Kustaa Toffela Janakkalan Turengista joutuneensa ryöstön uhriksi. Toffela ilmoitti Turengin kylän läpi johtawalla maantiellä kohdanneensa itsellisen pojan Sulo 
+          Ilmarisen, joka ilman muuta olisi päihtyneen Toffelan taskusta anastanut 1,150 mk. rahaa ja pirtukanisterin.</p>
+        <p>Poliisiwiranomaiset tutkiwat sittemmin asiaa, ollen juttu, paitsi Ilmarista, myös eräitä muita siihen osallisia wastaan eilen esillä Janakkalan y.m. pitäjäin kihlakunnanoikeudessa. Antamallaan päätöksellä tuomitsi 
+          kihlakunnanoikeus Sulo Uljas Ilmarisen pirtukanisterin anastamisesta, törkeästä warkaudesta nuorena henkilönä pidettäwäksi 2 kk. wankeudessa ja olemaan 3 w. wailla kansalaisluottamusta ja juopumuksesta 225 mk. sakkoon, hyläten 
+          oikeus kuitenkin syytteen rahojen ryöstöstä. Samaan juttuun sekaantuneista tuomittiin kirwesmies Juho Hakala, Janakkalasta, warastetun tawaran kätkemisestä 450 mk., juopumuksesta 300 mk. ja eläimille määrätyn spriin 
+          nauttimisesta kahwilassa 450 mk. sakkoon, lohkotilallisen poika Niilo Nestor Siren, Janakkalasta, juopumuksesta 300 mk. ja wäkijuomain nauttimisesta kahwilassa 375 mk. sakkoon sekä warastetun tawaran uudestaan kätkemisestä 6 
+          kk:ksi wankeuteen eli kaksi wiimemainittua rangaistusta yhdistettynä pidettäwäksi 6 kk. 15 päiwää wankeudessa, itsellisen poika Juho Kustaa Sihwonen, Janakkalasta, näpistelystä 300 mk., warastetun tawaran kätkemisestä 300 mk., 
+          wäkijuomain nauttimisesta kahwilassa 375 mk. ja juopumuksesta 300 mk. sakkoon, työmies Hugo Ilmari Holm, Janakkalasta, juopumuksesta 30 mk., wäkijuomien nauttimisesta kahwilassa 375 mk. ja warastetun tawaran kätkemisestä 300 mk. 
+          sakkoon ja itsellisen poika Toiwo Sihwonen, Janakkalasta, warastetun tawaran kätkemisestä 300 mk. sakkoon. Sitä paitsi tuomittiin asianomistaja Toffela juopumuksesta 600 mk., wäkijuomien nauttimisesta kahwilassa 750 mk. ja 
+          wäkijuomien luwattomasta kuljetuksesta 2,250 mk. sakkoon.</p>
+        <p>Wastaajat oliwat ensin ryypiskelleet eräässä kahwilassa Turengissa, lähtien sieltä pois. Matkalla oliwat he tawanneet Toffelan, jolta Ilmarinen oli taskusta ottanut kanisterin, minkä sisällön miehet sitten myöhemmin oliwat 
+          keskenään jakaneet.</p>
+      </Article>
 
-      <br></br>
+      <DateDivider date="Tiistai, 30.12.1924"/>
+      <Article titleText="Puukotuksia Riihimäellä.">
+        <h5>Eräs nainen saanut kolme puukonhaawaa.</h5>
+        <p>Ensimäisenä joulupäiwänä tapahtui Riihimäellä puukotus, minkä uhriksi joutui tehtaalainen Ida Karoliina Nieminen Hywinkäältä. Hän oli aikaisemmin asunut yhdessä maalari Yrjö Lindbergin kanssa Hywinkäällä, mutta sitten jättänyt 
+          tämän, pakoillen häntä. Lindberg oli saanut wihiä Niemisen oleskelusta Riihimäellä ja tullut häntä etsimään, ollen tällöin humalassa. Erään Riihimäen lasitehtaan asumuksen pihamaalla olikin Lindberg sitten Niemisen tawoittanut, 
+          iskien tätä puukolla kolmasti. Nieminen wietiin sairaalaan hoidettawaksi, kun taas Lindberg, joka saatiin pidätetyksi, on poliisin huostassa.</p>
+        <p> Kuten sanottu, oli Lindberg teon tapahtuessa humalassa. Sen lisäksi häntä ei woida pitää myöskään selwänä täysin normaalina.</p>
+        <p>Toinenkin puukotus tapahtui Riihimäellä. Tapaninpäiwänä iskettiin nimittäin Hämeenkadulla erästä henkilöä käsiwarteen pienellä weitsellä. Poliisi tutkii asiaa.</p>
+      </Article>
+      <br />
+      <Divider className="dividerStyle"/>
       <a className="hyperLinkStyle" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?year=1924">Linkki vuosikertaan 1924</a>
     </Layout>
   )

@@ -30,12 +30,12 @@ import img20 from "../images/content/address1887/addr-20.jpg"
 
 const Osoitteita1887Page = () => {
   return (
-    <Layout titleText="Osoitteita vuodelta 1887">
+    <Layout titleText="Osoitteita - 1887">
       <ImageSlider imgArray={imageArray} showDots={false}></ImageSlider>
       <br></br>
       <p className="captionStyle">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan Osoite Ja Ilmoitus Kalenteri, 1887 </p>
       <br></br>
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/be90385db46c505089d930315803cadb.pdf">Linkki alkuperäiseen dokumenttiin</a>
+      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/be90385db46c505089d930315803cadb.pdf">Lähde</a>
     </Layout>
   )
 }

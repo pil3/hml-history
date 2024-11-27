@@ -99,6 +99,12 @@ const AulankoPage = () => {
         copyright="Museovirasto - Historian kuvakokoelma - Brander, Signe - CC BY 4.0"
         caption="Kuvassa Karlbergin kartanon puistoja ja peltoja nykyisen golf-kentän tienoilla."
       ></ImageCard>
+      <ImageCard
+        imgPath="https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.CB9F851F151E1E4AE69925DFEBC0B9D4&index=0&size=large"
+        title="1912"
+        copyright="Museovirasto - Historian kuvakokoelma - Brander, Signe - CC BY 4.0"
+        caption="Karlbergin kartanon päärakennukseen tehtiin 1890-luvulla muutoksia torneilla ja ulokkeilla. Päärakennus tuhoutui tulipalossa vuonna 1928."
+      ></ImageCard>
       <div className="interTitleStyle">1920-luku</div>
       <ImageCard
         imgPath="https://digi.kirjastot.fi/files/fullsize/3b3500a7d8fd7afb5427f678bf4ad6c8.jpg"

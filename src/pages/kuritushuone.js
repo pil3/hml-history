@@ -10,9 +10,7 @@ import Divider from "../assets/divider.svg"
 const JailRulesPage = () => {
   return (
     <Layout titleText="Hämeenlinnan kuritushuoneen järjestyssäännöt">
-      <div className="flexWrapper">
-        <Image className="centeredImageStyle" src={imgFrontPage} alt="Matkailuoppaan etusivu"/>
-      </div>
+      <Image className="centeredImageStyle" src={imgFrontPage} alt="Matkailuoppaan etusivu"/>
       <p className="captionStyle">Brofeldt, P. A.</p>
       <p className="captionStyle">Hämeenlinna 1877, A. W. Lingrenin kirjapaino</p>
       <p className="captionStyle">Hämeenlinnan Kaupunginkirjasto</p>
@@ -165,10 +163,10 @@ const JailRulesPage = () => {
       <p className="firstLetterStyle">Jos wanki rikkoo sitä wastaan kuin tässä yllä on säädetty, joutuu hän rangaistukseen, ja on welwollinen palkitsemaan 
         kaiken wahingon kuin hänen kauttansa on syntynyt.</p>
       
-      <h4>Hämeenlinnan kuritushuoneesta 15 p. Marraskuuta 1877.</h4>
-      <h4>P. A. Brofeldt</h4>
+      <p className="centeredStyle">Hämeenlinnan kuritushuoneesta 15 p. Marraskuuta 1877.</p>
+      <p className="signatureStyle">P. A. Brofeldt</p>
 
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/6fb33012db610211b7cfcb04071180a1.pdf">Linkki alkuperäiseen dokumenttiin</a>
+      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/6fb33012db610211b7cfcb04071180a1.pdf">Lähde</a>
     
     </Layout>
   )

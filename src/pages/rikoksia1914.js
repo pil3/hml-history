@@ -11,7 +11,7 @@ import Divider from "../assets/divider.svg"
 const Crimes1914Page = () => {
   return (
     <Layout titleText="Hämeen Sanomat, 1914">
-      <h2>Rikoksia</h2>
+      <h2>Arveluttavia tapahtumia</h2>
       
       <Divider className="dividerStyle" />
       <p className="centeredStyle boldStyle" style={{margin:"8px 0"}}>Lauantai, 3.1.1914</p>
@@ -34,6 +34,15 @@ const Crimes1914Page = () => {
             wastaamaan Hämeenlinnan raastuwanoikeudessa kaksi wuotta sitten tekemästään, nyt ilmisaadusta rahawarkaudesta.</p>
         <p>Tämä tunnettu pahantekijä on kotoisin Nurmijärweltä, ja on hän 39-wuotias irtolainen, jota jo ennen on kolme kertaa rangaistu, nim. kahdesti murtowarkaudesta ja kerran 
             pahoinpitelystä. Hän on tunnettujen pahantekijöiden Sinisalon ja Lepän hywiä tuttawia.</p>
+      </Article>
+
+      <DateDivider date="Tiistai, 13.1.1914"/>
+      <Article titleText="Mies paleltunut kuoliaaksi.">
+        <p>Keskiwiikkona iltapäiwällä lähti palstatil. poika Janne Malin Wanajan pit. Kappolan kylästä kyyditsemään metsäkoulun oppilasta Kaarlo Kallioo hewosella Ewolle. Kuljettuaan noin 5 km. oli Malin kieltäytynyt edemmäksi 
+          lähtemästä, josta tuli pieni riita. Tällöin saawuttiwat 2 saman koulun oppilasta Kallion, jolloin tämä pyysi päästä Syrjäntaka. Malin jäi hewosineen tielle. Wähän ajan kuluttua ajoi Malin ohi sekä taas wastaan, jonka jälkeen 
+          ei Kallio nähnyt Malinta. Kun Malinia ei seuraawan päiwän iltana kuulunut kotiin, alkoi kotiwäki kaiwata ja saadakseen tietoa, soittiwat Ewon opistolle, missä Kallio kertoi, mitä hän asiasta tiesi. Tämän jälkeen lähtiwät Malinin 
+          isä ja konstaapeli Mäkinen lauantai-aamuna Syrjäntaan majataloon ja saiwat kuulla, että puolenpäiwän aikaan mies heiniä hakiessaan oli tawannut irtonaisen hewosen lähellä sitä paikkaa, johon Malin ajoi. Hewonen, joka oli sidottu 
+          puuhun, tunnettiin M. omaksi. Malin itse löydettiin tien suusta, metsästä kuolleena. Kumpikin sekä kyyditsijä että kyydittäwä lienewät olleen humalassa.</p>
       </Article>
 
      

@@ -415,7 +415,7 @@ const Conditions1809Page = () => {
       <p className="infoStyle">Anders Emil (Antti) Favén (1841-1913) oli Hämeenlinnan normaalilyseon ja lyseon historian ja maantieteen opettaja, joka toimi myös lyseon rehtorina ja kansakoulujen 
         tarkastajana. Favén oli myös Hämeen Sanomien alkuperäinen nimimerkki Antti.</p>
 
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/693a20485a37e67054e5cbfdad4455f4.pdf">Linkki alkuperäiseen dokumenttiin</a>
+      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/693a20485a37e67054e5cbfdad4455f4.pdf">Lähde</a>
     
     </Layout>
   )

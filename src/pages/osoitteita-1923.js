@@ -63,12 +63,12 @@ import img53 from "../images/content/address1923/addr-53.jpg"
 
 const Osoitteita1923Page = () => {
   return (
-    <Layout titleText="Osoitteita vuodelta 1923">
+    <Layout titleText="Osoitteita - 1923">
       <ImageSlider imgArray={imageArray} showDots={false} wide={false}></ImageSlider>
       <br></br>
       <p className="captionStyle">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan osote-kalenteri, 1923-1924 </p>
       <br></br>
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/97dec9a4e859cf2719c5b529de25cd91.pdf">Linkki alkuperäiseen dokumenttiin</a>
+      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/97dec9a4e859cf2719c5b529de25cd91.pdf">Lähde</a>
     </Layout>
   )
 }
