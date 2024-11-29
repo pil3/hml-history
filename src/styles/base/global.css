@@ -87,6 +87,15 @@ h5 {
 .quotationStyle {
   font-style: italic;
 }
+.quote {
+  font-style: italic;
+}
+.quote::before {
+  content: "„"
+}
+.quote::after {
+  content: "”"
+}
 .hyperLinkStyle {
   display: block;
   text-align: right;
