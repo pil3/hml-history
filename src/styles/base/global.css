@@ -149,7 +149,7 @@ article {
 }
 .symbolStyle {
   display: block;
-  height: 40px;
+  height: 30px;
   margin: 4px auto;
 }
 .centeredImageStyle {
@@ -157,7 +157,7 @@ article {
   max-width: 100%;
   margin: 16px auto;
   box-shadow: 2px 2px 4px black;
-  border-radius: 10px 16px;
+  border-radius: 6px;
 }
 .dividerStyle {
   display: block;

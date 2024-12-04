@@ -45,6 +45,21 @@ const Crimes1914Page = () => {
           puuhun, tunnettiin M. omaksi. Malin itse löydettiin tien suusta, metsästä kuolleena. Kumpikin sekä kyyditsijä että kyydittäwä lienewät olleen humalassa.</p>
       </Article>
 
+      <DateDivider date="Tosrstai, 22.1.1914"/>
+      <Article titleText="Kuolemanrangaistuksen käytäntöönottamista">
+        <h5>törkeistä murhista tuomitessa suosittelee nimim. T. M. K. „U. Aurassa".</h5>
+        <p>Kirjoittaja huomauttaa ensin, että törkeät wäkiwallanteot eiwät ole meillä wiime wuosina wähentyneet, waan päinwastoin lisääntyneet. Hänen mielestään waikuttaa tähän osaltaan myös se, että rangaistuksia liian liewästi 
+          sowelletaan -  Mitä merkitsee tätä nykyä murhamiehelle elinkautinen kuritushuone? Werraten mukawaa oleskelua waltion kustannuksella näinä taloudellisesti waikeina aikoina.</p>
+        <p>Toista on, jos näistä rikollisen toiweista tehdään lyhyt loppu: asetetaan hänen silmäinsä eteen mahdollisuus, että teosta woi mennä henki ja elämä. Täytyy olla jo parantumattoman paatunut, joka henkensä jättää ainoastaan 
+          sen uskon waraan, ettei joudu teostaan kiinni.</p>
+        <p>Se siweellinen willintyminen, jota Tuusulan kaksoismurha ja monet muut yhtä pöyristyttäwät kalmantyöt osoittawat, waatiwat woimakasta wastawaikutusta. Taliooniperiaate: <span className="quote">joka weljensä weren wuodattaa, 
+          hänen werensä pitää myöskin wuodatettaman</span>, on otettawa käytäntöön. Sitä waatii paitsi turwallisuus, murhatun omaisten ja yhteiskunnan oikeutettu sowituksen tunnekin.</p>
+        <p>Kuolemantuomiotakin on taidolla käytettäwä. Asetta ei saa kuluttaa. Mutta törkeät murhat owat kuolemalla sowitettawat. Tieto yhdenkin kuolemantuomion täytäntöönpanosta on herättäwä terweellistä kauhua uusien hirmutöiden 
+          suunnittelijoissa, sen sijaan että kuoleman-rangaistuksenuhka, jota ei koskaan toteuteta, on wain omansa lewittämään käsitystä lain woimattomuudesta. Senwuoksi, tuomarit, soweltakaa kuolemanrangaistusta törkeissä murhissa. 
+          Sitä waatii tätä nykyä yleinen oikeuskäsitys.</p>
+        
+      </Article>
+
      
 
       <br></br>

@@ -30,7 +30,7 @@ const Header = () => {
 
             <NavDropdown title="Tekstejä" id="collasible-nav-dropdown">
               <NavDropdown.Item>
-                <Link to="/kunnallis-historia" className="nav-link" activeClassName="active">Kunnallis-historia</Link> 
+                <Link to="/kunnallishistoria" className="nav-link" activeClassName="active">Kunnallishistoria</Link> 
               </NavDropdown.Item>
               <NavDropdown.Item>
                 <Link to="/tulipalo" className="nav-link" activeClassName="active">Kaupungin palo 1831</Link> 
