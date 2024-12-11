@@ -17,7 +17,7 @@ const Kartta1892Page = () => {
       <p className="firstLetterStyle">Hämeenlinnan kaupungin kartta noin vuodelta 1892 esittelee tarkasti Hämeenlinnan keskustan 1800-luvun lopun rakennuskannan. 
         Karttaan on erilaisilla väreillä merkitty kivi- ja puurakennukset. Myös rakennusten kattomateriaali selviää kartasta, esim. turvekatot on merkitty omalla 
         värillään. Kadunnimet on kirjoitettu karttaan suomen kielellä. Kartan tekijästä ei ole tietoa. Alkuperäinen kartta on Hämeenlinnan kaupunginarkistossa.</p>
-      <p className="captionStyle">Julkaisija: Hämeenlinnan kaupunginkirjasto / Hämeenlinnan kaupunginarkisto (HKA 26a)</p>
+      <p className="caption">Julkaisija: Hämeenlinnan kaupunginkirjasto / Hämeenlinnan kaupunginarkisto (HKA 26a)</p>
 
     </Layout>
   )

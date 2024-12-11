@@ -106,9 +106,9 @@ const Osoitteita1931Page = () => {
     <Layout titleText="Osoitteita - 1931">
       <ImageSlider imgArray={imageArray} showDots={false} wide={false}></ImageSlider>
       <br></br>
-      <p className="captionStyle">Hämeenlinnan kaupunginkirjasto, Hämeenlinnan osote-kalenteri, 1931-1932 </p>
+      <p className="caption">Hämeenlinnan kaupunginkirjasto, Hämeenlinnan osote-kalenteri, 1931-1932 </p>
       <br></br>
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/8a033502580f3ce2fc4272106a6097e4.pdf">Lähde</a>
+      <a className="hyperLink" href="https://digi.kirjastot.fi/files/original/8a033502580f3ce2fc4272106a6097e4.pdf">Lähde</a>
     </Layout>
   )
 }

@@ -55,8 +55,8 @@ const HousingConditionsPage = () => {
 
       <Image className="centeredImageStyle" src={imgFrontPage} alt="Etusivu"/>
 
-      <p className="captionStyle">Manner, Viktor</p>
-      <p className="captionStyle">Hämeenlinnan Kaupunginkirjasto</p>
+      <p className="caption">Manner, Viktor</p>
+      <p className="caption">Hämeenlinnan Kaupunginkirjasto</p>
       <Divider className="dividerStyle" />
 
       <h2>Johdanto</h2>
@@ -382,7 +382,7 @@ const HousingConditionsPage = () => {
       <h4>Hämeenlinnassa Tammikuussa 1909</h4>
       <h4>Viktor Manner</h4>
 
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/f5238f7f5373773db133c01db3f6598a.pdf">Lähde</a>
+      <a className="hyperLink" href="https://digi.kirjastot.fi/files/original/f5238f7f5373773db133c01db3f6598a.pdf">Lähde</a>
     
     </Layout>
   )

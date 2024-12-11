@@ -11,9 +11,9 @@ const JailRulesPage = () => {
   return (
     <Layout titleText="Hämeenlinnan kuritushuoneen järjestyssäännöt">
       <Image className="centeredImageStyle" src={imgFrontPage} alt="Matkailuoppaan etusivu"/>
-      <p className="captionStyle">Brofeldt, P. A.</p>
-      <p className="captionStyle">Hämeenlinna 1877, A. W. Lingrenin kirjapaino</p>
-      <p className="captionStyle">Hämeenlinnan Kaupunginkirjasto</p>
+      <p className="caption">Brofeldt, P. A.</p>
+      <p className="caption">Hämeenlinna 1877, A. W. Lingrenin kirjapaino</p>
+      <p className="caption">Hämeenlinnan Kaupunginkirjasto</p>
       <Divider className="dividerStyle" />
 
       <h2>1 § </h2>
@@ -164,9 +164,9 @@ const JailRulesPage = () => {
         kaiken wahingon kuin hänen kauttansa on syntynyt.</p>
       
       <p className="centeredStyle">Hämeenlinnan kuritushuoneesta 15 p. Marraskuuta 1877.</p>
-      <p className="signatureStyle">P. A. Brofeldt</p>
+      <p className="signature">P. A. Brofeldt</p>
 
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/6fb33012db610211b7cfcb04071180a1.pdf">Lähde</a>
+      <a className="hyperLink" href="https://digi.kirjastot.fi/files/original/6fb33012db610211b7cfcb04071180a1.pdf">Lähde</a>
     
     </Layout>
   )

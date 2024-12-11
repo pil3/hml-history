@@ -69,12 +69,12 @@ h5 {
   font-weight: normal;
   padding-right: 4px;
 }
-.captionStyle {
+.caption {
   font-size: 0.8rem;
   margin: 0;
   text-align: center;
 }
-.signatureStyle {
+.signature {
   letter-spacing: 2px;
   text-align: center;
 }
@@ -96,7 +96,7 @@ h5 {
 .quote::after {
   content: "”"
 }
-.hyperLinkStyle {
+.hyperLink {
   display: block;
   text-align: right;
   font-size: 12px;
@@ -106,11 +106,11 @@ h5 {
   font-size: 0.8rem;
   padding: 4px;
 }
-.copyrightStyle {
+.copyright {
   font-size: 0.7rem;
   text-align: center;
 }
-.interTitleStyle {
+.interTitle {
   position: relative;
   margin: 24px 0;
   padding: 8px 0;
@@ -127,6 +127,9 @@ h5 {
   font-size: 1.4rem;
   text-align: center;
   margin: 8px 0; 
+}
+.accent {
+  letter-spacing: 3px;
 }
 /* Other styles
 ----------------------------------------------------------------------------------------------------- */
@@ -194,7 +197,7 @@ article {
 /* Media Queries
 ----------------------------------------------------------------------------------------------------- */
 @media screen and (max-width: 576px) {
-  .interTitleStyle {
+  .interTitle {
     font-size: 26px;
     margin: 8px 0;
   }

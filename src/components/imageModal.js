@@ -13,7 +13,7 @@ import {modalHeaderStyle,
         buttonStyle,
         iconStyle,
         fsImgStyle,
-        copyRightStyle
+        copyright
       } from "../styles/components/imageModal.module.css"
 import "../styles/base/global.css"
 
@@ -54,7 +54,7 @@ const ImageModal = ({imageStyle, imagePath, titleText, copyrightText}) => {
               </React.Fragment>
             )}
           </TransformWrapper>
-          <div className={copyRightStyle}>{copyrightText}</div>
+          <div className={copyright}>{copyrightText}</div>
         </Modal.Body>
       </Modal>
     </>

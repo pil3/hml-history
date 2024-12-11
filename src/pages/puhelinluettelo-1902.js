@@ -46,9 +46,9 @@ const Puhelin1902Page = () => {
     <Layout titleText="Puhelinluettelo - 1902">
       <ImageSlider imgArray={imageArray} showDots={false} wide={false}></ImageSlider>
       <br></br>
-      <p className="captionStyle">Hämeenlinnan kaupunginkirjasto 1902, Telefooni luettelo Hämeenlinnan kaupungista ja sen ympäristöstä.</p>
+      <p className="caption">Hämeenlinnan kaupunginkirjasto 1902, Telefooni luettelo Hämeenlinnan kaupungista ja sen ympäristöstä.</p>
       <br></br>
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/c259ddc92fdab82be816aad497c27765.pdf">Lähde</a>
+      <a className="hyperLink" href="https://digi.kirjastot.fi/files/original/c259ddc92fdab82be816aad497c27765.pdf">Lähde</a>
     </Layout>
   )
 }

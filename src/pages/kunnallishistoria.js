@@ -35,8 +35,8 @@ const KunnallisHistoriaPage = () => {
   return (
     <Layout titleText="Kunnallis-historiallinen kertomus">
       <Image className="centeredImageStyle" src={front} alt="Etusivu"/>
-      <p className="captionStyle">Hagman, Tyko</p>
-      <p className="captionStyle">Hämeenlinnan kaupunginkirjasto, 1900</p>
+      <p className="caption">Hagman, Tyko</p>
+      <p className="caption">Hämeenlinnan kaupunginkirjasto, 1900</p>
       <Divider className="dividerStyle"/>
       
       <p className="tocHeader">Piirteitä Hämeenlinnan kaupungin historiasta.</p>
@@ -567,16 +567,16 @@ const KunnallisHistoriaPage = () => {
 
       <p className="tocHeader">XIII</p>
       <Article titleText="Asukastilastoa 1700-luvun loppupuoliskolta.">
-        <p className="captionStyle">Väkiluku Hämeenlinnan kaupungissa vv. 1749 - 1800.</p>
+        <p className="caption">Väkiluku Hämeenlinnan kaupungissa vv. 1749 - 1800.</p>
         <Image className="centeredImageStyle" style={{marginTop: "4px"}} src={img1} alt="Väkiluvun kehitys"/>
         <SubDivider className="dividerStyle"/>
-        <p className="captionStyle">Syntyneet.</p>
+        <p className="caption">Syntyneet.</p>
         <Image className="centeredImageStyle" style={{marginTop: "4px"}}  src={img2} alt="Syntyneet"/>
         <SubDivider className="dividerStyle"/>
-        <p className="captionStyle">Kuolleet.</p>
+        <p className="caption">Kuolleet.</p>
         <Image className="centeredImageStyle" style={{marginTop: "4px"}}  src={img3} alt="Kuolleet"/>
         <SubDivider className="dividerStyle"/>
-        <p className="captionStyle">Hämeenlinnan kaupungin käsityöläiset jaettuina ammattinsa mukaan sekä kauppiaat.</p>
+        <p className="caption">Hämeenlinnan kaupungin käsityöläiset jaettuina ammattinsa mukaan sekä kauppiaat.</p>
         <Image className="centeredImageStyle" style={{marginTop: "4px"}}  src={img4} alt="Ammatit"/>
       </Article>
       <SubDivider className="dividerStyle"/>
@@ -719,34 +719,34 @@ const KunnallisHistoriaPage = () => {
           päivänäkin, kuten ennen, lähettää vähäinen linnakaupunki Wanajaveden rannalla toisen nuorukaisparven toisensa perästä ulos Suomen suurille tiloille taistelemaan saman uskon ja saman viljelyksen puolesta. Sallittakoon meidän tätä 
           muistellessamme päättää nämät yksinkertaiset sivut erään myöskin syntyperäisen hämäläisen, runoilija-vainaja Antti Törneroosin eli Tuokon sointoisilla säkeillä:</p>
         <h4>Birger Jaarlin linna.</h4>
-        <p className="captionStyle">Jo luonto, kuljettua kesä-illan,<br />Yö vaipan ylleen oli heittänyt<br /> Ja liepeellänsä Hämeenlinnan sillan<br />Himmeesen varjohon jo peittänyt.<br />Siell' yksin seisoin, silloin nuorukainen,<br />
+        <p className="caption">Jo luonto, kuljettua kesä-illan,<br />Yö vaipan ylleen oli heittänyt<br /> Ja liepeellänsä Hämeenlinnan sillan<br />Himmeesen varjohon jo peittänyt.<br />Siell' yksin seisoin, silloin nuorukainen,<br />
           Seuduilla näillä vieras, matkalainen.</p>
         <br />
-        <p className="captionStyle">Kun katsolin siell' luonnon ihanuutta,<br />Outoihin vaivuin ajatuksihin,<br />Hempeetä kesä-yön mä hiljaisuutta<br />Sydämmin ihaelin sykkivin.<br />Siell' oli näky mitä ihaninta.<br />Maa tyyni oli, 
+        <p className="caption">Kun katsolin siell' luonnon ihanuutta,<br />Outoihin vaivuin ajatuksihin,<br />Hempeetä kesä-yön mä hiljaisuutta<br />Sydämmin ihaelin sykkivin.<br />Siell' oli näky mitä ihaninta.<br />Maa tyyni oli, 
           tyyni järven pinta.</p>
         <br />
-        <p className="captionStyle">Vaan mikä tuolla luonnon suloutta<br />Jylhällä muodollansa varjostaa?<br />Se kohoutuen kohden korkeutta<br />Ylpeesti ympärilleen katsastaa.<br />Syvästi järveen kuvauu sen muuri,<br />Sisässä maan 
+        <p className="caption">Vaan mikä tuolla luonnon suloutta<br />Jylhällä muodollansa varjostaa?<br />Se kohoutuen kohden korkeutta<br />Ylpeesti ympärilleen katsastaa.<br />Syvästi järveen kuvauu sen muuri,<br />Sisässä maan 
         kuin oisi sillä juuri.</p>
         <br />
-        <p className="captionStyle">Hengille luonnon liekö hennommille<br />Se peljättävä, paha kummitus?<br />Ilmoittavalta tuntuneeko sille<br />Yörauhassansa seudun kauneus,<br />Kun uhaten näin katsoo kaikkialle,<br />Järvelle, maalle 
+        <p className="caption">Hengille luonnon liekö hennommille<br />Se peljättävä, paha kummitus?<br />Ilmoittavalta tuntuneeko sille<br />Yörauhassansa seudun kauneus,<br />Kun uhaten näin katsoo kaikkialle,<br />Järvelle, maalle 
           sekä taivahalle?</p>
         <br />
-        <p className="captionStyle">Ei, hengeksi sen mieleni vaan houraa,<br />Olento on se tosi itsestään.<br />Se muistuttaapi miestä, rautakouraa,<br />Jok' ennen voimakkaalla kädellään<br />Sen rakensi ja nimess' uskon uuden<br /> Sen 
+        <p className="caption">Ei, hengeksi sen mieleni vaan houraa,<br />Olento on se tosi itsestään.<br />Se muistuttaapi miestä, rautakouraa,<br />Jok' ennen voimakkaalla kädellään<br />Sen rakensi ja nimess' uskon uuden<br /> Sen 
           kautta sorti Hämeen vapauden.</p>
         <br />
-        <p className="captionStyle">Ei ihme, että tätä miettiessä<br />Povessa tunsin tunteen katkeran:<br />Myös syntynyt mä olen Hämehessä<br />Ja synnyinmaana sitä rakastan.<br />Ken orjuuteen ja sortoon sitä sallis,<br />Jok' ain' on 
+        <p className="caption">Ei ihme, että tätä miettiessä<br />Povessa tunsin tunteen katkeran:<br />Myös syntynyt mä olen Hämehessä<br />Ja synnyinmaana sitä rakastan.<br />Ken orjuuteen ja sortoon sitä sallis,<br />Jok' ain' on 
           ollut sydämelle kallis?</p>
         <br />
-        <p className="captionStyle">Näin miettiess' on huomannut ma aamun<br />Taas taivaan kannelle jo astuneen,<br />Kun jylhältä näin linnalt' öisen haamun<br />Ja synkeyden kaiken kadonneen.<br />Se kirkastumia seisoi aamukoissa<br />
+        <p className="caption">Näin miettiess' on huomannut ma aamun<br />Taas taivaan kannelle jo astuneen,<br />Kun jylhältä näin linnalt' öisen haamun<br />Ja synkeyden kaiken kadonneen.<br />Se kirkastumia seisoi aamukoissa<br />
           Ja peljätys kaikk' oli siltä poissa.</p>
         <br />
-        <p className="captionStyle">En peljästy stil luonnossakaan muussa<br />Sen lähellä mä nähnyt ollenkaan.<br />Pelotta lintu likimmässä puussa<br />Ilolla lauloi aamulauluaan.<br />Ja itse jylhän linnan räystähässä<br />Näin pienen 
+        <p className="caption">En peljästy stil luonnossakaan muussa<br />Sen lähellä mä nähnyt ollenkaan.<br />Pelotta lintu likimmässä puussa<br />Ilolla lauloi aamulauluaan.<br />Ja itse jylhän linnan räystähässä<br />Näin pienen 
           pääskysen mä pesimässä.</p>
         <br />
-        <p className="captionStyle">Mielestä haihtui haikeus; nyt vasta<br />Ma muistin, aamukoissahan sen näin,<br />Ett' uskon sätehet se taivahasta<br />Johdatti kerta Hämeesenkin päin,<br />Ja poistaessaan meiltä pakanuuden,<br />Ehk' 
+        <p className="caption">Mielestä haihtui haikeus; nyt vasta<br />Ma muistin, aamukoissahan sen näin,<br />Ett' uskon sätehet se taivahasta<br />Johdatti kerta Hämeesenkin päin,<br />Ja poistaessaan meiltä pakanuuden,<br />Ehk' 
           ankarast', toi oikeen vapauden.</p>
         <br />
-        <p className="captionStyle">Maamiehen kun ma kuulin sitte siellä<br />Kulkeissaan työhön riemull' laulavan,<br />Yömatkan päästä matkamiehen vielä<br />Kun tervesnä näin tietään kulkevan,<br />Niin vielä muistin, pait sen 
+        <p className="caption">Maamiehen kun ma kuulin sitte siellä<br />Kulkeissaan työhön riemull' laulavan,<br />Yömatkan päästä matkamiehen vielä<br />Kun tervesnä näin tietään kulkevan,<br />Niin vielä muistin, pait sen 
           muinaisuuden,<br />Sen suojass' olevan maan rauhaisuuden.</p>
       </Article>
       <SubDivider className="dividerStyle"/>
@@ -986,7 +986,7 @@ const KunnallisHistoriaPage = () => {
       <SubDivider className="dividerStyle"/>
 
       <Article titleText="Kunnan rahastoja ja laitoksia.">
-        <p className="signatureStyle">Vaivaistalo- ja vaivaishoito. Stichceuksen vaivais- ja työhuone-rahasto.</p>
+        <p className="signature">Vaivaistalo- ja vaivaishoito. Stichceuksen vaivais- ja työhuone-rahasto.</p>
         <br />
         <p className="firstLetterStyle">Se lahjoituskirja toukok. 20 p:ltä 1834, jolla silloinen maaherra Joh. Fr. Stichaeus perusti tämän nyttemmin suuren rahaston, on osoitettu kirkkoherra Math. Churbergille ja kuuluu suomennettuna 
           näin:</p>
@@ -1007,7 +1007,7 @@ const KunnallisHistoriaPage = () => {
           vaivais- ja työhuonelaitos, pysyen kunnioittaen ja ystävyydellä</p>
         <p className="centeredStyle">Kunnianarvoisan ja korkeasti-oppineen herra kirkkoherran nöyrimpänä palvelijana</p>
         <p className="centeredStyle">H:linnassa toukok. 20 p. 1834.</p>
-        <p className="signatureStyle">Joh. Fr. Stichaeus.</p>
+        <p className="signature">Joh. Fr. Stichaeus.</p>
         <QuoteEnd className="symbolStyle"/>
         <p>Tämän lahjoituksen nojassa järjestettiin ja pantiin toimeen vaivais- ja työhuonelaitos v. 1836. Mutta jo 1837 vuoden alussa, tammik. 8 p:nä päätettiin kirkonkokouksessa että ne harvat vaivaiset, joita vaivais- ja työhuoneessa 
           ylläpidettiin, olisivat maaliskuun 1 p:stä samana vuonna annettavat elätettäviksi vähimmän vaativalle. Tämä siitä syystä, että <span className="quote">kaupungin maksuvelvolliset asukkaat olivat saaneet kärsiä kalliita 
@@ -1055,7 +1055,7 @@ const KunnallisHistoriaPage = () => {
           maitoon keitettyä ryynivelliä; maanantaina, keskiviikkona ja perjantaina: ruisjauhovelliä ja maitoa; tiistaina, torstaina ja lauvantaina: maitoon keitettyä ohraräätijauho-velliä. Joka ateriaksi sitä paitsi leipää ja kaljaa 
           mielin määrin sekä joka sunnuntai 3 luotia voita henkilöä kohti.</p>
         <br />
-        <p className="signatureStyle">Carl J. Kellroos'in lahjoitusrahasto.</p>
+        <p className="signature">Carl J. Kellroos'in lahjoitusrahasto.</p>
         <br />
         <p className="firstLetterStyle">Kauppakonttoristi Kaarlo Johana Kellroos määräsi huhtik. 28 p. 1897 päivätyn testamentin kautta että, sittenkun pääperilliset, tehtailija G. A. Fältmars puolisoineen, lapsineen ja veljineen, olivat 
           määrätyt osansa saaneet, mahdollinen jäännös hänen omaisuudestaan olisi tuleva köyhille Hämeenlinnan kaupungissa, <span className="quote">näiden hyväksi käytettäväksi sillä tapaa kuin G. A. Fältmars määrää</span>. — Tehtailija 
@@ -1069,7 +1069,7 @@ const KunnallisHistoriaPage = () => {
         <p>Käteistä rahaa: 36: 29</p>
         <p>Yhteensä: 19,036: 39</p>
         <br />
-        <p className="signatureStyle">Rosenqvistin rahasto.</p>
+        <p className="signature">Rosenqvistin rahasto.</p>
         <br />
         <p className="firstLetterStyle">Sepänleski Karolina Vilhelmina Rosenqvist testamenttasi syysk. 23 p. 1870 jälkeen-jäävästä omaisuudestaan <span className="quote">kaupungin köyhille</span> 2,000 markkaa, jotka hänen kuoltuansa 
           tammik. 2 p. 1872 jätettiin vaivaisrahastoon. Varoista muodostettiin testamentin toimeenpanijan ehdoituksesta erityinen rahasto vaivaishoito-hallituksen hoidettavaksi, ja olisivat korot vuosittain käytettävät osaksi 
@@ -1079,7 +1079,7 @@ const KunnallisHistoriaPage = () => {
         <p>Käteistä rahaa: 110:-</p>
         <p>Yhteensä: 2,110:-</p>
         <br />
-        <p className="signatureStyle">Jeremejeffin rahasto.</p>
+        <p className="signature">Jeremejeffin rahasto.</p>
         <br />
         <p className="firstLetterStyle">Kauppias Pietarissa Afanasii Jeremejeff oli eräällä matkallaan Hämeenlinnassa — arvattavasti lopussa v. 1842 tai 1843 vuoden alussa — selittänyt tahtovansa kaupungin köyhille lahjoittaa 500 ruplaa 
           hopeassa, jonka summan käyttämisestä seurakunnan kirkkoherra saisi määrätä. Kirkkoherra Mathias Churberg, joka siihen aikaan myöskin oli vaivaishoito-johtokunnan esimies, päätti nyt yksissä neuvoin johtokunnan muiden jäsenten 
@@ -1092,7 +1092,7 @@ const KunnallisHistoriaPage = () => {
         <p>Yhteensä: 7,503: 49</p>
         <p>V. 1898 nautti tästä rahastosta 5 henkeä apua 80 markalla kukin.</p>
         <br />
-        <p className="signatureStyle">Jenny Costianderin rahasto.</p>
+        <p className="signature">Jenny Costianderin rahasto.</p>
         <br />
         <p className="firstLetterStyle">Kirjelmässä kaupungin valtuusmiehille elokuun 4 p:ltä 1891 lahjoittivat kuvernööri Torsten Costiander ja hänen puolisonsa Jenny Costiander, muistoksi hopeahäistään samana päivänä, ja jättivät 
           valtuustolle 6,000 markkaa <span className="quote">köyhien hyväksi</span> seuraavalla määräyksellä: sopankeittolaitos perustetaan, jossa köyhimmät ja työhön kykenemättömät yhteiskuntalaiset voisivat huokeasta maksusta, ja 
@@ -1109,7 +1109,7 @@ const KunnallisHistoriaPage = () => {
         <p>Yhteensä: 20,852: 45</p>
         <p>Helmikuun 8 p. 1899 luovutettiin lahjoittajani määräysten mukaan rouvasväen seuralle yhden vuoden korot 852 markalla 45 p.</p>
         <br />
-        <p className="signatureStyle">Kaupungin sairashuone. Sairashuonerahasto ja muut sairaanhoitoa koskevat rahastot.</p>
+        <p className="signature">Kaupungin sairashuone. Sairashuonerahasto ja muut sairaanhoitoa koskevat rahastot.</p>
         <br />
         <p className="firstLetterStyle">Kirjelmässä Vaivaishoitohallitukselle Hämeenlinnassa jouluk. 11 p:ltä 1868 esiintuo silloinen kuvernööri H. Molander pääasiassa seuraavaa: Samana päivänä pidetyssä kaupunkilaisten kokouksessa 
           päätettiin, kuvernöörin ehdoituksesta, että äskeisenä kovana katovuonna täällä perustetun vaivaismajan (fattigherberge) toiminnasta jälelle jääneet 647 markkaa 80 penniä sekä majan lakattua myytyjen tarvekalujen arvo 
@@ -1142,7 +1142,7 @@ const KunnallisHistoriaPage = () => {
           että ostokset ruoanpitoon, joka siis ei ole urakalle annettu.</p>
         <br />
 
-        <p className="signatureStyle">Charlotta Valdstedtin rahasto.</p>
+        <p className="signature">Charlotta Valdstedtin rahasto.</p>
         <br />
         <p className="firstLetterStyle">Apteekarinleski Charlotte Valdstedt määräsi lokakuun 27 p. 1893 päivätyn testamentin kautta, että hänen jälkeenjäävästä omaisuudestaan m. m. luovutettaisiin Hämeenlinnan kaupungille 30,000 markkaa, 
           joka pääoma jäisi koskematta. Korot käytetään vuosittain niin, että kaupungissa olevassa taikka vastedes perustettavassa sairashoitolaitoksessa kustannetaan vapaavuode varattomille henkilöille, kernaimmin naisille säätyluokasta. 
@@ -1153,7 +1153,7 @@ const KunnallisHistoriaPage = () => {
         <p>Lainassa olevaa rahaa: 30,000:-</p>
         <br />
 
-        <p className="signatureStyle">Joh. Gust. ja Albertina Grönforsin vapaavuoderahasto.</p>
+        <p className="signature">Joh. Gust. ja Albertina Grönforsin vapaavuoderahasto.</p>
         <br />
         <p className="firstLetterStyle">Kauppias Joh. Gust. Grönforsin ja hänen puolisonsa Albertinan tytär, katteininleski Mathilda Zilliacus lahjoitti v. 1898 parantumattomain sairasten vapaavuoderahastoksi 5,000 m:kaa.</p>
         <p>Rahaston kanta tammik. 1 p. 1899:</p>
@@ -1161,7 +1161,7 @@ const KunnallisHistoriaPage = () => {
         <p>Tähän summaan on rouva Zilliacus huhtik. 17 p. 1899 lisännyt 1,000 markkaa.</p>
         <br />
 
-        <p className="signatureStyle">Fredrika Zittingin vapaavuoderahasto.</p>
+        <p className="signature">Fredrika Zittingin vapaavuoderahasto.</p>
         <br />
         <p className="firstLetterStyle">Vuonna 1889 lahjoitti tirehtööri C. Zitting 2,000 markkaa rahastoksi, joka hänen tätinsä Fredrika Zittingin muistoksi tulisi kantamaan nimeä <span className="quote">Fredrika Zittingin vapaavuoderahasto 
           lapsia varten</span> ja josta korot käytettäisiin tämmöiseen tarkoitukseen.</p>
@@ -1171,7 +1171,7 @@ const KunnallisHistoriaPage = () => {
         <p>Yhteensä: 2,110:-</p>
         <br />
 
-        <p className="signatureStyle">Kansakoululaitos. Sen rahastoja.</p>
+        <p className="signature">Kansakoululaitos. Sen rahastoja.</p>
         <br />
         <p className="firstLetterStyle">Ensimäisen oppilaitoksen kansan lapsia varten Hämeenlinnassa avasi v. 1856 paikkakunnan rouvasväen-seura. Siinä annettiin kuitenkin opetusta ainoastaan tytöille. V. 1859 pani sitten kaupungin 
           vaivaishoitokunta toimeen alemman kansakoulun poikiakin varten. Nämä koulut olivat vaikuttamassa vuoteen 1871, jolloin kaupunkiseurakunta järjesti varsinaiset kansakoulut. Niille laaditut säännöt määräsivät toimeen-pantavaksi 
@@ -1230,7 +1230,7 @@ const KunnallisHistoriaPage = () => {
           palokunnan entisessä talossa.</p>
         <br />
 
-        <p className="signatureStyle">Käsityöläiskoulu ja sen talous.</p>
+        <p className="signature">Käsityöläiskoulu ja sen talous.</p>
         <br />
         <p className="firstLetterStyle">Armollisella julistuksella käsityöläiskouluista marrask. 25 p:ltä 1885 muutettiin vanhat sunnuntaikoulut maassa käsityöläiskouluiksi. Hämeenlinnan sunnuntaikoulurahastossa oli v. 1876 4,886 m. 43 
           p., joista 500 m. valtioapua. Sittenkun palkkauksiin y. m. menoihin samana vuonna oli suoritettu 1,141 markkaa, siirrettiin loput eli 3,745: 43 kaupungin kassaan, josta sittemmin sunnuntaikoulun menot suoritettiin. 
@@ -1245,13 +1245,13 @@ const KunnallisHistoriaPage = () => {
         <p>Koulun ylläpitämistä varten maksaa valtio noin puolet opettajain palkoista eli keskimäärin 1,095 markkaa vuodessa. Loput kustannuksista suorittaa kaupunki, ja nousi tämä kustannus v. 1898 1,490 markkaan 10 p:iin.</p>
         <br />
 
-        <p className="signatureStyle">Käsityöläisten ja tehdastelijain yhdistyksen stipendirahasto</p>
+        <p className="signature">Käsityöläisten ja tehdastelijain yhdistyksen stipendirahasto</p>
         <br />
         <p className="firstLetterStyle">on syntynyt siten, että vv. 1889 ja 1890 viinavoittorahoista tähän tarkoitukseen siirrettiin yhteensä 12,000 markkaa. Korot käytetään vuosittain stipendeihin, joita puheenalainen yhdistys jakaa 
           ammatti-opillisia matkoja varten.</p>
         <br />
 
-        <p className="signatureStyle">Sähkövalaistusrahasto ja sähkövalaistuslaitos.</p>
+        <p className="signature">Sähkövalaistusrahasto ja sähkövalaistuslaitos.</p>
         <br />
         <p className="firstLetterStyle">Kaupungin sähkövalaistus-rahasto syntyi 1888 ja 1889 vuosien viinavoitto-varoista siirretyllä 20,000 markan suuruisella summalla, ja oli rahaston kanta tammik. 1 p. 1899:</p>
         <p>Lainassa olevaa rahaa: 25,000:-</p>
@@ -1274,7 +1274,7 @@ const KunnallisHistoriaPage = () => {
         
         <h5>Muita rahastoja.</h5>
 
-        <p className="signatureStyle">Aleksanteri Ilsen stipendirahasto.</p>
+        <p className="signature">Aleksanteri Ilsen stipendirahasto.</p>
         <br />
         <p className="firstLetterStyle">Hämeenlinnan kaupungin asukkaat jättivät helmikuun 15 p. 1883 päivätyn lahjoituskirjan kautta 6,000 Suomen markkaa kaupungin kunnallishallituksen huostaan, hartaasti toivoen että tätä pääomaa, 
           Aleksanteri II:n stipendirahaston nimellisenä, huolellisesti ja varovaisesti hoidettaisiin, niin että tulevatkin sukupolvet saisivat aihetta siunaamaan sitä armasta hallitsijaa, jonka muistoksi tämä rahasto oli koottu, ja 
@@ -1290,7 +1290,7 @@ const KunnallisHistoriaPage = () => {
         <p>Yhteensä: 8,069: 27</p>
         <br />
 
-        <p className="signatureStyle">Työväenyhdistyksen sairas- ja hautausapurahasto.</p>
+        <p className="signature">Työväenyhdistyksen sairas- ja hautausapurahasto.</p>
         <br />
         <p className="firstLetterStyle">Vuosina 1888 ja 1889 siirrettiin tämän rahaston perustamista varten viinavoitto-varoista 10,000 markkaa, ja oli rahaston kanta tammik. 1 p. 1899:</p>
         <p>Lainassa olevaa rahaa: 10,000:-</p>
@@ -1298,7 +1298,7 @@ const KunnallisHistoriaPage = () => {
         <p>Yhteensä: 10,505:-</p>
         <br />
 
-        <p className="signatureStyle">Svahnin lääkerahasto.</p>
+        <p className="signature">Svahnin lääkerahasto.</p>
         <br />
         <p className="firstLetterStyle">Anders Svahn, apteekari Hämeenlinnassa 1757—1795, testamenttasi m. m. kahta sairasvuodetta varten Uudenmaan--Hämeenläänin lasaretissa 4,000 riksiä, palkkarahastoksi kaupungin-lääkäriä varten 
           Hämeenlinnassa 2,000 r., Hämeenlinnan kirkolle ja koululle 5,000 r., kuudelle köyhälle leskelle Hämeenlinnan seurakunnassa vuotuiset korot 500 riksistä sekä kirkon urkuja varten vielä 1,000 r.</p>
@@ -1307,7 +1307,7 @@ const KunnallisHistoriaPage = () => {
           ja urkuri yhtä paljon. Kirkkoherra, 2 kolleegaa, urkujen polkija sekä kuusi köyhää leskeä saavat kaikki erityiset eränsä.</p>
         <br />
 
-        <p className="signatureStyle">Blanckin rahasto.</p>
+        <p className="signature">Blanckin rahasto.</p>
         <br />
         <p className="firstLetterStyle">Kaupungin valtuuston arkistossa löytyvien asiakirjain mukaan testamenttasi kauppa-oikeuksilla Hämeenlinnassa varustettu kauppias Karl Ivanowitsh Blanck, joka kuitenkaan ei asunut eikä kauppaa 
           harjoittanut täällä, vaan Pietarissa, kesäkuun 16 p. 1876 — sukulaisille ja omaisille eri osuudet melkoisesta omaisuudestaan sekä — erityisiä arvopapereita <span className="quote">kasvatuslaitoksen tai turvakodin perustamista 
@@ -1321,7 +1321,7 @@ const KunnallisHistoriaPage = () => {
           huolimatta.</p>
         <br />
 
-        <p className="signatureStyle">Waihelmin rahasto.</p>
+        <p className="signature">Waihelmin rahasto.</p>
         <br />
         <p className="firstLetterStyle">Carl Walheim, <span className="quote">Bureau Chef och förste Expeditions Sekreterare i Kongl. Svenska regeringens Justitiedepartement"</span> (Toimistopäällikkö ja ensimäinen sihteeri kunink. 
           Ruotsin hallituksen Oikeusosastossa), testamenttasi Hämeenlinnassa syysk. 23 p. 1843 tekemällään testamentilla täkäläisiin tarkoituksiin yhteensä 5,000 ruplaa, joista 4,000 ruplaa pääomana stipendien jakamista varten 
@@ -2071,7 +2071,7 @@ const KunnallisHistoriaPage = () => {
       </Article>
       <SubDivider className="dividerStyle"/>
 
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/e1b4670159cbca4f0346f6b9ef7f93da.pdf">Lähde</a>
+      <a className="hyperLink" href="https://digi.kirjastot.fi/files/original/e1b4670159cbca4f0346f6b9ef7f93da.pdf">Lähde</a>
     </Layout>
   )
 }

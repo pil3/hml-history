@@ -17,8 +17,8 @@ const Conditions1809Page = () => {
 
       <Image className="centeredImageStyle" src={imgFrontPage} alt="Etusivu"/>
 
-      <p className="captionStyle">Favén, A. E.</p>
-      <p className="captionStyle">Hämeenlinnan Kaupunginkirjasto 1879</p>
+      <p className="caption">Favén, A. E.</p>
+      <p className="caption">Hämeenlinnan Kaupunginkirjasto 1879</p>
       <Divider className="dividerStyle" />
       <h2>I</h2>
       <h3>Hämeenlinnan Ensimmäinen Koulu v. 1639—1690.</h3>
@@ -415,7 +415,7 @@ const Conditions1809Page = () => {
       <p className="infoStyle">Anders Emil (Antti) Favén (1841-1913) oli Hämeenlinnan normaalilyseon ja lyseon historian ja maantieteen opettaja, joka toimi myös lyseon rehtorina ja kansakoulujen 
         tarkastajana. Favén oli myös Hämeen Sanomien alkuperäinen nimimerkki Antti.</p>
 
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/693a20485a37e67054e5cbfdad4455f4.pdf">Lähde</a>
+      <a className="hyperLink" href="https://digi.kirjastot.fi/files/original/693a20485a37e67054e5cbfdad4455f4.pdf">Lähde</a>
     
     </Layout>
   )

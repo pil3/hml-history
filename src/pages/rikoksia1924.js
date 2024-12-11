@@ -957,7 +957,7 @@ const Crimes1924Page = () => {
           oli mainittu Halminen heti sen jälkeen löydetty waikeasti watsan yläosaan haawoitettuna makaamassa Kupilan talon rannassa. Tammisen ja mainittujen aliupseerien wälillä ei woitu todeta olleen mitään riitaa. Halminen oli 
           mainittuna iltana ollut wahwasti päihtynyt. Juttu lykättiin sisäselwitysten saamista warten ensi elok. 8 pnä pidettäwille wälikäräjille.</p>
         <p>Eräs henkilö tuomittiin wäkijuomain hallussapidosta 1,125 mk sakkoon, wastaten 75 päiwää wankeutta.</p>
-        <p className="signatureStyle"></p>
+        <p className="signature"></p>
       </Article>
 
       <DateDivider date="Perjantai, 11.7.1924"/>
@@ -1704,7 +1704,7 @@ const Crimes1924Page = () => {
       </Article>
       <br />
       <Divider className="dividerStyle"/>
-      <a className="hyperLinkStyle" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?year=1924">Linkki vuosikertaan 1924</a>
+      <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?year=1924">Linkki vuosikertaan 1924</a>
     </Layout>
   )
 }

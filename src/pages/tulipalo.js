@@ -33,7 +33,7 @@ const FirePage = () => {
           Kaksitoista tuntia oli kyllin tehdä yli tuhannen ihmistä asunnottomiksi, ja vielä tätä kirjettä lähetettäessä nousee savu kaikkialla raunioista. Tarkemman kertomuksen saan kunnian huomispäivän postissa lähettää.</p>
         <p className="centeredStyle">Hämeenlinnassa Syyskuun 15 p:nä 1831.</p>
         <p className="centeredStyle"> Maistraatin puolesta:</p>
-        <p className="signatureStyle">G. A. Lagerblad</p>
+        <p className="signature">G. A. Lagerblad</p>
       </Article>
 
       <SubDivider className="dividerStyle" />
@@ -74,7 +74,7 @@ const FirePage = () => {
           Tullen Maistraatti sittemmin, kun tutkinto, jota jo on alotettu, sekä piakkoin jatketaan, on päättynyt, Maaherralle ilmoittamaan syyn tähän suureen onnettomuuteen.</p>
         <p className="centeredStyle">Hämeenlinnassa Syyskuun 22 p:nä 183l.</p>
         <p className="centeredStyle">Maistraatin puolesta</p>
-        <p className="signatureStyle">G. A. Lagerblad.</p>
+        <p className="signature">G. A. Lagerblad.</p>
       </Article>
       <SubDivider className="dividerStyle" />
       <Article titleText="Nöyrä ilmoitus.">
@@ -120,12 +120,12 @@ const FirePage = () => {
         <p>Väsyneenä viikon rasituksista sekä tavallisimpien kirjoitusneuvojen puutteessa, ne kun ovat hävinneet, en ole voinnut jättää raporttia siinä muodossa kuin olisi pitänyt mutta toivon, ettei tätä asiain nykyisessä tilassa, lueta 
           minulle syyksi.</p>
         <p className="centeredStyle">Hämeenlinnassa Syyskuun 19 p:nä 183l.</p>
-        <p className="signatureStyle">J. Fryxell.</p>
+        <p className="signature">J. Fryxell.</p>
       </Article>      
       <SubDivider className="dividerStyle" />
       <p>Mikäli poliisitutkinnossa sittemmin saatiin selville oli kaupp. Juselius'en renki Mikko Mikonpoika kl. 6 tienoissa tullut kotia juopuueena sekä otaksuttiin varomattomasti pidelleen tulta ullakolla ja jääneen sinne liekkeihin.</p>
       <Image className="centeredImageStyle" src={imgJuselius} alt="Juseliuksen talo"/>
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/f9a4c69de27ec602332aa8c4a1c32fb4.pdf">Lähde</a>
+      <a className="hyperLink" href="https://digi.kirjastot.fi/files/original/f9a4c69de27ec602332aa8c4a1c32fb4.pdf">Lähde</a>
     </Layout>
   )
 }

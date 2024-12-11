@@ -41,7 +41,7 @@ const Lukijoilta1924Page = () => {
           oikein lukijoillensa selittää, mitä hän jo on saanut tietoonsa. Jos arw. lehtenne kirjoittajalla olisi tätä wastuuntunnetta ollut, olisi häneltä arwatenkin jäänyt kynä musteeseen 
           kastamatta.</p>
         <p className="centeredStyle">Helsingissä joulukuun 31 p. 1923</p>
-        <p className="signatureStyle">Lawonius, Ingman - Keskinäinen henkiwakuutusyhtiö Suomi</p>
+        <p className="signature">Lawonius, Ingman - Keskinäinen henkiwakuutusyhtiö Suomi</p>
       </Article>
 
       <DateDivider date="Perjantai, 4.1.1924"/>
@@ -49,7 +49,7 @@ const Lukijoilta1924Page = () => {
         <p>Hyökkäyswaunurykmentin puolesta lausun parhaimmat kiitokseni Hämeenlinnan Sotilaskotiyhdistykselle, sen rykmentin miehistölle toimeenpanemasta hauskasta Joulujuhlasta lahjoineen ja kestityksineen sekä Kustannusliike Arwi A. Karistolle suurenmoisesta kirjalahjasta 
           ja samalla kiitän kaikkia niitä yksityisiä ja liikkeitä, jotka owat lähettäneet lahjoja jaettawaksi Jouluna. </p>
         <p className="centeredStyle">Hämeenlinna 3. 1. 24.</p>
-        <p className="signatureStyle">Kumlin. Majuri ja w. a. Rykm. Komentaja.</p>
+        <p className="signature">Kumlin. Majuri ja w. a. Rykm. Komentaja.</p>
       </Article>
 
       <DateDivider date="Lauantai, 5.1.1924"/>
@@ -76,7 +76,7 @@ const Lukijoilta1924Page = () => {
           edullisempaa suorittaa suhteellisesti pieni wakuutusmaksu säästyen siten oikeutetulta moitteelta. Selityskirjelmässä huomauttaa yhtiö edelleen puoltawansa sellaisen käytännön 
           aikaansaantia, että wakuutus olisi katsottawa tulleen woimaan jo wakuutuksen hywäksymisellä yhtiön puolelta. Esilläolewassa tapauksessa ei yhtiö ole halukas suorittamaan wakuutusmaksua, 
           waikka wakuutuskirjat jo on ollut asiamiehen hallussa, on tältä waadittu ja maksua tarjottu.</p>
-        <p className="signatureStyle">Suomi-yhtiössä wakuutettuja.</p>
+        <p className="signature">Suomi-yhtiössä wakuutettuja.</p>
       </Article>
 
       <DateDivider date="Sunnuntai, 6.1.1924"/>
@@ -96,7 +96,7 @@ const Lukijoilta1924Page = () => {
         <p>Nyt pyydän nöyrimmästi kysyä, milloin Suomi-yhtiön wakuutusehtoihin on wakuutuksen woimaanastumisesta tehty yllämainittu sananmuodonmuutos ja miten tätä muutosta on perusteltu. Onko 
           muutos ollut waan sananmuodonmuutos, wai onko tahdottu todellakin tehdä myös tärkeä wakuutuksen haltijan etua rajoittawa ajallinen muutos? Ja wielä. Onko asiamiesohjesäännöissä yhtiön 
           alkuajoilta asti ollut säännös, joka kieltää asiamiestä wastaanottamasta wakuutusmaksua, jos wakuutuksen ottaja on sairastunut?</p>
-        <p className="signatureStyle">Myöskin Suomi-yhtiössä wakuutettu.</p>
+        <p className="signature">Myöskin Suomi-yhtiössä wakuutettu.</p>
       </Article>
 
       <DateDivider date="Lauantai, 12.1.1924"/>
@@ -108,7 +108,7 @@ const Lukijoilta1924Page = () => {
           keskuudessa kuin myöskin ompeluseuran tarmokkaille jäsenille. Jumalan siunaus on palkkanne olewa „Hywää tehdessänne älkäät wäsykö”.</p>
         <p className="centeredStyle">H:linna tammik. 11 pnä 1924.</p>
         <p className="centeredStyle">Kiitollisuudella</p>
-        <p className="signatureStyle zeroMargin">Elin Bärlund, Rosa Nuotio.</p>
+        <p className="signature zeroMargin">Elin Bärlund, Rosa Nuotio.</p>
         <p className="centeredStyle">Slummisisaret.</p>
       </Article>
 
@@ -130,7 +130,7 @@ const Lukijoilta1924Page = () => {
           wankien työn awulla ja säästäwäisyydellä asiat niin, että jokainen Suomen wanki tuottaisi waltiolle waikkapa waan 1 markan hyödyn wuorokaudessa sen sijaan, että nyt waltio hänen 
           työnsä lisäksi saa maksaa 15 á 16 mk. wuorokaudessa hänen elättämisekseen.</p>
         <p>Pois lellittely ja wäärä „ihmisyys”, kuri ja järjestys maahan!</p>
-        <p className="signatureStyle">Cato.</p>
+        <p className="signature">Cato.</p>
       </Article>
 
       <DateDivider date="Keskiviikko, 30.1.1924"/>
@@ -142,9 +142,9 @@ const Lukijoilta1924Page = () => {
         <p>Suojeluskunnat ilmoittawat osanottajien nimet allekirjoittaneelle 7. 2. 1924 mennessä. Lähemmät määräykset kilpailureitistä, majoituksesta y.m. annetaan myöhemmin.</p>
         <p>Runsasta osanottoa toiwoen lausumme kaikki suojeluskuntalaiset terwetulleiksi yllämainittuihin kilpailuihin.</p>
         <p className="centeredStyle">Hämeenlinnan Suojeluskunta.</p>
-        <p className="signatureStyle zeroMargin">Helkiö.</p>
+        <p className="signature zeroMargin">Helkiö.</p>
         <p className="centeredStyle">Paikallispäällikkö.</p>
-        <p className="signatureStyle zeroMargin">Juurewa.</p>
+        <p className="signature zeroMargin">Juurewa.</p>
         <p className="centeredStyle">Urheilutoimik. puheenjoht.</p>
       </Article>
       <Article titleText="Wapaussodan inwalideille.">
@@ -158,7 +158,7 @@ const Lukijoilta1924Page = () => {
           on peninkulmaa pidempi. Tästä maamatkan korwauksesta pyydetään niitä, jotka sellaisen saantiin katsowat itsensä oikeutetuiksi, tekemään eri anomus allekirjoittaneelle ja on 
           kokoukseen sitten tuotawa mukana, jos mahdollista, kuitattu lasku kyydistä. Siltä waralta taas, että monilukuisuutemme tähden täytyisimme majoituksessa turwautua yhteisasuntoihin, 
           niin kehoittaisimme kokoukseen saapuwia ottamaan mukaansa wiltin ja lakanat.</p>
-        <p className="signatureStyle zeroMargin">A. Rosenberg.</p>
+        <p className="signature zeroMargin">A. Rosenberg.</p>
         <p className="centeredStyle">Os.: Selki (Hangon rata).</p>
       </Article>
       <Article titleText="Sokerijuurikaswiljelyksen edistäminen Etelä-Hämeessä.">
@@ -171,7 +171,7 @@ const Lukijoilta1924Page = () => {
           tulokset kuitenkin yleensä olleet suorastaan masentawia. Luulisi, että yhtiökin käsittäisi sen, että, jos on mieli saada innostus asiaan uudestaan syntymään, siihen toki tarwitaan 
           muita wakuutteluja kuin henkilöiden, jotka owat yhtiön warta wasten palkkaamat tahi joiden ansio korkeintaan nousee siihen, että osaawat eroittaa sokerijuurikkaan ja porkkanan 
           toisistaan.</p>
-        <p className="signatureStyle">Entinen sokerijuurikaswiljelijä.</p>
+        <p className="signature">Entinen sokerijuurikaswiljelijä.</p>
       </Article>
 
       <DateDivider date="Lauantai, 2.2.1924"/>
@@ -194,7 +194,7 @@ const Lukijoilta1924Page = () => {
           owat samat kuin muillekin waikeasti tuhottawille loissienille ja kaswitaudeille ja on tällöin erikoisesti kiinnitettäwä huomiota kaswien terweyshoidolliseen puoleen. ja järkiperäiseen 
           torjumisaineitten käyttöön, joista seikoista on täydellinen selostus mm. 1923 - 1924 puutarhakalenterissa. </p>
         <p className="centeredStyle">Lepaan Puutarhaopistolla tammikuun 23 pnä 1924.</p>
-        <p className="signatureStyle zeroMargin">Olawi Collan.</p>
+        <p className="signature zeroMargin">Olawi Collan.</p>
         <p className="centeredStyle">Waltionpomologi.</p>
       </Article>
 
@@ -220,7 +220,7 @@ const Lukijoilta1924Page = () => {
           antanut poikkeuksellisen huonon sadon yleensä muistakin wiljelyskasweista.</p>
         <p>Lopuksi pyydän entiselle sokerijuurikkaan wiljelijälle huomauttaa, että, jos Teidän ei kannata eikä sowi kaswattaa sokerijuurikasta, nim. antakaa niitten maanwiljelijäin, joilla on edelleen 
           halua ja ehkä parempia edellytyksiä kuin Teillä, sitä wiljellä, sillä ei ainakaan tätä kokeilua ole luettawa maanwiljelyksellemme taantumukseksi eikä kansantaloudellemme wahingoksi.</p>
-        <p className="signatureStyle">T. J. Kupila.</p>
+        <p className="signature">T. J. Kupila.</p>
       </Article>
 
       <DateDivider date="Torstai, 7.2.1924"/>
@@ -236,7 +236,7 @@ const Lukijoilta1924Page = () => {
           yhteisedun edelle?</p>
         <p>Pois kaikki siihen wiwahtawatkin! Maaseutulaisten puolesta pyydän Teidän herrain johtajain tarkistamaan kantanne, herkistämään hermonne tunteaksenne mitä isänmaallinen kansa eturiwin miehiltä 
           odottaa: hywästä ystäwyydestä järjestettyä yhteistä rintamaa isänmaattomia wastaan! Yhteistyössä ja yhteisymmärryksellä pienet erimielisyydet kyllä tasottuwat!</p>
-        <p className="signatureStyle">Huolestunut maalainen.</p>
+        <p className="signature">Huolestunut maalainen.</p>
       </Article>
       <Article titleText="Entisen sokerijuurikaswiljelijän kirjoituksen johdosta.">
         <p>Tämän lehden 25 numerossa on „entinen sokerijuurikaswiljelijä” sala-ampujan tawalla hyökännyt allekirjoittaneen kimppuun ja samalla yrittänyt wahingoittaa Suomen Raakasokeritehtaan pyrkimyksiä; 
@@ -268,7 +268,7 @@ const Lukijoilta1924Page = () => {
           toispaikkakuntalaiselleken, sääty- y.m. ja arwoon katsomatta.</p>
         <p>Oli todellakin nautinto tawata tällaisia wiljelijöitä ja tutustua heidän kokemuksiinsa. Olisi toiwottawa, että nämät kokemukset tulisiwat yleisemmin tunnetuiksi.</p>
         <p className="centeredStyle">Hattulassa helmik. 4 pnä 1924.</p>
-        <p className="signatureStyle">Juho Torppa.</p>
+        <p className="signature">Juho Torppa.</p>
       </Article>
 
       <DateDivider date="Torstai, 14.2.1924"/>
@@ -285,7 +285,7 @@ const Lukijoilta1924Page = () => {
           toimintaansa ei julkisesti puututa. Jos arw. Toimitus yksityisesti haluaa tietoja tuloistani, niin pyydän kääntymään suoraan minun puoleeni ja rohkenen lopuksi toiwoa, että minä tulojeni puolesta saan 
           pysyä yhtä tuntemattomana kuin kieltolainrikkojakin.</p>
         <p className="centeredStyle">Koskella H.l. helmikuun 11 päiwänä 1924.</p>
-        <p className="signatureStyle zeroMargin">Hannes Heinonen.</p>
+        <p className="signature zeroMargin">Hannes Heinonen.</p>
         <p className="centeredStyle">Kärkölän piirin nimismies.</p>
         <SubDivider className="dividerStyle" />
         <p><span className="boldStyle">Toimitus,</span> jota ylläolewan Herra Nimismiehen „vastalauseen” sekä säwy että sisältö suuresti kummastuttaa, pyytää huomauttaa, että kysymyksessä olewa uutinen kuuluu 
@@ -310,7 +310,7 @@ const Lukijoilta1924Page = () => {
           samanlaisiin toimenpiteisiin. Siis näyttäkäämme hämeenlinnalaiset, että mekin saamme kootuksi ainakin yhtä paljon kuin riihimäkeläiset ja olkoon yhteinen päätöksemme Olympialaisjoukkueemme suuremmaksi ensi 
           olympialaisiin kisoihin! Suomi woittoon!</p>
         <p className="centeredStyle">Hämeenlinna 14 p. helmik. 1924.</p>
-        <p className="signatureStyle">Y. A. Wuori.</p>
+        <p className="signature">Y. A. Wuori.</p>
       </Article>
       <Article titleText="Kieltolakia pidettäwä silmällä, asetettaessa edustajaehdokkaita.">
         <p>Kun näinä päiwinä käydään asettamaan ehdokkaita waalipiirissämme, on syytä awoimin silmin jokaisen raittiutta harrastawan  kansalaisen seurata ehdokkaiden ajattelua ja koettaa wähäiseltä osaltaan 
@@ -321,7 +321,7 @@ const Lukijoilta1924Page = () => {
           wasta tosiasiallisesti, tärkeällä edustajapaikallaan woi tehdä raittiusasian hywäksi tuloksellista työtä, olkoonpa sitte kysymyksessä joko nykyisen kieltolain tarkistus tai muunlainen raittiutta koskewa 
           kysymys käsittelyn ja ratkaisun alaisena, kun hän omaa wakaumukseen perustuwan raittiusmielisen katsantokannan elämässään. Tähän meidän tällä kertaa on pyrittäwä ehdokaskysymyksen suhteen.</p>
         <p className="centeredStyle">Hauho, 10. 2. 1924.</p>
-        <p className="signatureStyle">Aleksi Mattila.</p>
+        <p className="signature">Aleksi Mattila.</p>
       </Article>
 
       <DateDivider date="Keskiviikko, 20.2.1924"/>
@@ -342,7 +342,7 @@ const Lukijoilta1924Page = () => {
         <p>Olemme aina walmiit asialliseen keskusteluun sokerijuurikkaan wiljelyksestä, mutta tuollaisiin asiattomiin kiukunpurkauksiin kuin „Entisen sokerijuurikaswiljelijän” wastaamiseen ei meillä ole aikaa. Woimme 
           sen käyttää paljon positiiwisempaankin työhön.</p>
         <p className="centeredStyle">Salossa 14. 2. 1924.</p>
-        <p className="signatureStyle">Suomen Raakasokeritehdas Osakeyhtiö.</p>
+        <p className="signature">Suomen Raakasokeritehdas Osakeyhtiö.</p>
       </Article>
 
       <DateDivider date="Sunnuntai, 2.3.1924"/>
@@ -365,7 +365,7 @@ const Lukijoilta1924Page = () => {
           parhaiten, kunhan waan lawan taustaa ei rakenneta kowin korkeata eikä aiwan suoraa, waan että sen yläosa kohtalaisesti kaareutuisi eteenpäin. Permanto ei saisi olla tarpeettoman korkealla eikä liian ulkonewa 
           eteenpäin koska se siinä tapauksessa tulisi johtamaan ääniaallot ylös.</p>
         <p>Jos lawa tälle puolelle wiitoittamaani suuntaan rakennetaan, silloin kentän ympärillä olewat kummut, wastapäätä olewat rauniot ja korkeiden puiden rungot tulisiwat antamaan esiintyjille täydentäwän kaijun.</p>
-        <p className="signatureStyle">Aleksi Seppälä.</p>
+        <p className="signature">Aleksi Seppälä.</p>
       </Article>
 
       <DateDivider date="Tostai, 6.3.1924"/>
@@ -378,7 +378,7 @@ const Lukijoilta1924Page = () => {
           maalaisliittolaiselle waalitoiminnallenikaan. </p>
         <p>Kertojan samoin kuin lehdenkin pitää käsittämän että kuwiteltu menettely olisi tahditonta, niinkuin asian wääristeleminen on rumaa warsinkin julkisuutta warten painettuna.</p>
         <p className="centeredStyle">Hattulassa maalisk. 3 p:nä 1924.</p>
-        <p className="signatureStyle">Juho Torppa.</p>
+        <p className="signature">Juho Torppa.</p>
         <SubDivider className="dividerStyle" />
         <p><span className="boldStyle">Toimitus</span> walittaen tapahtuneita erehdyksiä pyytää ylläaolewan johdosta huomauttaa, että kyseessäolewa uutinen perustui erään kokouksessa olleen maalaisliittolaisen kertomukseen, 
           joten luulimme siihen woiwan luottaa.</p>
@@ -390,7 +390,7 @@ const Lukijoilta1924Page = () => {
           mainitun suursäwellyksen esittämiseen ja siis hywin tuntewat sen, pyydetään kaikkia entisiä Requiem-laulajia kokoontumaan Kerhon huoneustoon ensi lauantaina t.k. 8 pnä klo 6 i.p. keskustelemaan aiheen 
           toteuttamismahdollisuudesta.</p>
         <p className="centeredStyle">Toimikunnan puolesta:</p>
-        <p className="signatureStyle">A. Th. Böök.</p>
+        <p className="signature">A. Th. Böök.</p>
       </Article>
 
       <DateDivider date="Perjantai, 7.3.1924"/>
@@ -403,7 +403,7 @@ const Lukijoilta1924Page = () => {
         <p>Asia on Herran, tarkoittaen hänen waltakuntansa edistämistä. Siksipä saammekin olla wakuutettuja siitä, sillä hän on sen puolella ja on runsaasti siunaawa kaikkia, jotka koettawat myötäwaikuttaa todella hywän asian 
           woitolle pääsemiseksi.</p>
         <p className="centeredStyle">Hämeenlinnassa 10. 3. 1924.</p>
-        <p className="signatureStyle">Yksi monien puolesta.</p>
+        <p className="signature">Yksi monien puolesta.</p>
       </Article>
 
       <DateDivider date="Perjantai, 14.3.1924"/>
@@ -412,7 +412,7 @@ const Lukijoilta1924Page = () => {
         <p>Muutamia ehdokkaita on julkisesti sanomalehdissä mainittu, mutta sopiwampaa miestä lienee tällä kerralla waikea löytää kuin on Hämeenlinnan ja Wanajan kirkkoherra, lääninromasti Ludwig Enkwist.</p>
         <p>Ehdotan, että arw. wirkaweljet tulewissa waaleissa äänestäwät häntä. Hänen erinomainen tunnontarkkuutensa kansliatehtäwissä ja tunnettu kohteliaisuutensa seurakuntalaisia kohtaan kansliassaan takaa, että hän woisi 
           opettaa samaa muillekin hiippakunnan papeille. Warsinkin nykyaikana, jolloin kansa wäkisinkin tahtoo wieraantua kirkosta, olisi juuri Ludwig Enkwistin kaltainen pappi saatawa hiippakunnan johtajien joukkoon.</p>
-        <p className="signatureStyle">Walitsija.</p>
+        <p className="signature">Walitsija.</p>
       </Article>
 
       <DateDivider date="Sunnuntai, 30.3.1924"/>
@@ -425,7 +425,7 @@ const Lukijoilta1924Page = () => {
           puolestani katson sen erityisen tärkeäksi. Pidän myös luonnollisena, että waltion on awustettawa, ja samaten kuin kansanopistoja yleensä, myös kristillisiä kansanopistoja. Mitä kirkolliskokouksen päätöksiin tulee, pidän 
           selwänä, että Eduskunta woi ewätä niiden toteuttamisen ainoastaan siinä tapauksessa, että ne olisiwat waltion päämääriä wastaan suuntautuwia, jommoisia ne tietenkään eiwät ole. Pidän siis uskonnollisen elämän kehittämiselle 
           tärkeänä, että Eduskunta wahwistaa kirkolliskokouksen päätökset. </p>
-        <p className="signatureStyle">Arwi A Karisto.</p>
+        <p className="signature">Arwi A Karisto.</p>
       </Article>
 
       <DateDivider date="Perjantai, 18.4.1924"/>
@@ -441,7 +441,7 @@ const Lukijoilta1924Page = () => {
         <p>On pitäjälle arwaamattomaksi wahingoksi, kun sillä on toimissaan miehiä, joille laki ja oikeus eiwät mitään merkitse, joille kunniallisuus ja rehellisyys on tullut ala-arwoisiksi ja joille epärehellisyys ja lainrikkominen 
           owat luwallisia, kun ei waan ole kysymyksessä oma itse. Tällainen henkinen rutto merkitsee pitäjän kurjuutta ja samalla suurta tappiota koko kansamme edistyksessä. Toiwottawasti tällaiset ilmiöt häwiäwät sitä myöten, kun siwistys 
           ja walistus lewiäwät kaikkiin pitäjiin.</p>
-        <p className="signatureStyle">X.</p>
+        <p className="signature">X.</p>
       </Article>
 
       <DateDivider date="Lauantai, 3.5.1924"/>
@@ -463,7 +463,7 @@ const Lukijoilta1924Page = () => {
         <p>Niitä henkilöitä, joille Saksan w. 1918 antama woimakas apu on muistossa kallis ja jotka haluawat olla mukana suorittamassa osaamme kiitollisuudenwelasta Finnlandkämpfer-inwaliideille, kehoitetaan jättämään raha-awustuksensa 
           tämän lehden toimitukselle, jollekin Lotta-Swärd-yhdistyksen paikallisosaston puheenjohtajalle tai lähettämällä ne osoitteella: Neiti Dagmar Ruin, Fredrikinkatu 71, Helsinki.</p>
         <p>Maantuotteina annettawista lahjoista tehdään ilmoitus samoihin paikkoihin, jonka jälkeen ne lähetetään suoraan inwaliidien oleskelupaikalle, mistä myöhemmin sanomalehdissä ilmoitetaan.</p>
-        <p className="signatureStyle">M. von Bonsdorff, K. Castren, Wald. Ruin, Dagmar Ruin, Richard Siewers, F. Langenskiöld, J. K. Paasikiwi, Jenny af Forselles, J. Gummerus, E. Suolahti.</p>
+        <p className="signature">M. von Bonsdorff, K. Castren, Wald. Ruin, Dagmar Ruin, Richard Siewers, F. Langenskiöld, J. K. Paasikiwi, Jenny af Forselles, J. Gummerus, E. Suolahti.</p>
       </Article>
 
       <DateDivider date="Sunnuntai, 4.5.1924"/>
@@ -479,7 +479,7 @@ const Lukijoilta1924Page = () => {
           hakijan kuulutettawa hywäksymisestä wirallisissa lehdissä ja jossain paikkakunnan sanomalehdessä sekä ilmoitettawa sukunimi asianomaisen seurakunnan kirkonkirjoihin merkittäwäksi.</p>
         <p>Tässä pääkohdat nimenmuuttoa koskewista säännöistä. Tarkemman tiedon näistä saa mainitusta sukunimilaista (hinta 50 p.), jonka saa tilata, mieluimmin postietuannilla, osoitteella: Waltioneuwoston julkaisuwirasto, Helsinki.</p>
         <p className="centeredStyle">Helsingissä, huhtik. 30 p. 1924.</p>
-        <p className="signatureStyle">Suomalaisuuden Liiton toimisto.</p>
+        <p className="signature">Suomalaisuuden Liiton toimisto.</p>
       </Article>
 
       <DateDivider date="Lauantai, 10.5.1924"/>
@@ -487,13 +487,13 @@ const Lukijoilta1924Page = () => {
         <p>Pyytäisimme kohteliaimmin kysyä kaupungin Hra Rakennusmestarilta, kenelle kuuluu lautakäytäwän alkuunpano silloin, kun wesi sulkee maantien kaupungin ja Linnanniemen wäliltä? Kun Linnanniemi osaltaan kuuluu kaupunkiin, niin me, 
           joiden mainittua tietä monta kertaa päiwässä täytyy kulkea, kärsimme suurta ajanhukkaa kiertäessämme wanhan Linnantien kautta. Pyytäisimme ystäwällisesti, että, koska me kerran maksamme werot kaupungille, sen wiranomaiset 
           huolehtiwat myös meidän etujemme walwomisesta yhtä hywin kuin muidenkin kaupunkilaisten.</p>
-        <p className="signatureStyle">Joukko linnanniemeläisiä.</p>
+        <p className="signature">Joukko linnanniemeläisiä.</p>
         <SubDivider className="dividerStyle" />
         <h4>Sunnuntai, 11.5.1924</h4>
         <h5>Toimitukselta on pyydetty tilaa seuraawalle:</h5>
         <p>Eilisessä lehdessänne yleisönosastossa olewan kirjoituksen johdosta saa kaupungin Rakennuskonttori, jolle kirjelmässä mainitunlaisten töiden suoritus kuuluu, täten kunnioittaen „Linnanniemeläisille” ilmoittaa, ettei konttori 
           aio laittaa minkäänlaista porrasta tulwan alle joutuneen Kasarmikadun osalle, koska Kruunuportin tie on wielä kuiwilla.</p>
-        <p className="signatureStyle">Kaupungin Rakennuskonttori.</p>
+        <p className="signature">Kaupungin Rakennuskonttori.</p>
       </Article>
 
       <DateDivider date="Tiistai, 13.5.1924"/>
@@ -505,7 +505,7 @@ const Lukijoilta1924Page = () => {
         <p>Jos arw. Rakennuskonttorin herrat itse waiwautuisiwat paikalle näkemään, miten wesi nyt on noussut ja miten useat talot jo owat miltei weden ympäröimiä, niin eiköhän mainitulle Rakennuskonttorille sentään todella kuuluisi 
           joihinkin toimenpiteisiin ryhtyminen, ettei tarwitsisi käwellä wedessä päästäkseen asioilleen.</p>
         <p>Sillä kalliiksi se tulee yksityisille laittaa mainittuja lautakäytäwiä yleisille käytäwille.</p>
-        <p className="signatureStyle">Joukko linnanniemeläisiä.</p>
+        <p className="signature">Joukko linnanniemeläisiä.</p>
       </Article>
 
       <DateDivider date="Sunnuntai, 1.6.1924"/>
@@ -520,7 +520,7 @@ const Lukijoilta1924Page = () => {
           asianajotoimintaa.</p>
         <p>Tarkastellessa hra Leikarin ansioluetteloa ja kun tuntee hänet tarmokkaaksi toiminnan mieheksi, joka järjestelykykyisenä osaa hoitaa asiat, niin mielellään yhtyy äänellään kannattamaan hänen waaliansa. Toiwomme, että 
           kaupunkilaiset yksimielisesti ensi keskiwiikkona laskewat waaliuurnaan hra Teikarin nimellä warustettuja äänestyslippuja.</p>
-        <p className="signatureStyle">Kaupunkilaisia.</p>
+        <p className="signature">Kaupunkilaisia.</p>
       </Article>
       <Article titleText="Oikeusneuwosmiehen waali.">
         <h5>Kuka walittawa?</h5>
@@ -534,7 +534,7 @@ const Lukijoilta1924Page = () => {
           Heinonen on ehdottomasti raitis mies, joka ominaisuus on kieltolakimaan tuomioistuimen jäsenelle ehdottoman wälttämätön kansalaishywe. Kun lisäksi otamme huomioon, että tuomari Heinonen on Hämeenlinnan lapsi, täällä käynyt 
           koulunsa ja ponnistelullaan kohonnut kansan riweistä, rehdistä ja raittiista suomalaisesta kodista, niin emme woi tulla muuhun johtopäätökseen kuin että hämeenlinnalaisten asiana on nyt suljetuin riwein mentäwä waaliin ja 
           walittawa oikeusneuwosmieheksi Hannes Heinonen, jonka ehdokkaakseen on asettanut</p>
-        <p className="signatureStyle">Hämeenlinnan järjestynyt raittiuswäki ja walitsijoita eri yhteiskuntapiireistä.</p>
+        <p className="signature">Hämeenlinnan järjestynyt raittiuswäki ja walitsijoita eri yhteiskuntapiireistä.</p>
       </Article>
 
       <DateDivider date="Tiistai, 3.6.1924"/>
@@ -552,7 +552,7 @@ const Lukijoilta1924Page = () => {
           wastuunalainen toimi kaupunkikuntamme yleiseksi tyydytykseksi. Hänen lainopillinen pätewyytensä on kiistämätön ja ylittää ehdottomasti lähimmän kanssakilpailijansa. Hänen kansalaiskuntonsa on taattu. Hänellä on kiistämättä 
           kaikki ne ominaisuudet, joita waaditaan kaupunkimme oikeusmieheltä. Kehoitamme siis kaupunkilaisia suljetuin riwein käymään ensi keskiwiikkona waaliin ja laskemaan waaliuurnaan lipun, jossa on wiran hakijoista pätewimmän, 
           waratuomari Kalle Teikarin nimi.</p>
-        <p className="signatureStyle">Kaupunkilaisia.</p>
+        <p className="signature">Kaupunkilaisia.</p>
       </Article>
       <Article titleText="Oikeusneuwosmiehen waali.">
         <p>„Hämeenlinnan Liikewäen” äskettäin julkaiseman kehoituksen johdosta ilmoitamme, että emme katso olewan aihetta hakemaan itsellemme ehdokasta muualta silloin kun kyseessä olewaan wirkaan pyrkiwien joukossa on omalla 
@@ -561,7 +561,7 @@ const Lukijoilta1924Page = () => {
           wirkatehtäwissä on osoittautunut tarmokkaaksi ja huolelliseksi, olemme „Liikewäen” kehoitusta huomioonottamatta päättäneet t.k. 4 pnä suoritettawassa oikeusneuwosmiehen waalissa äänestää J. A. Heinosta ja täten kehoittaa 
           kaikkia toisiakin äänioikeutettuja antamaan hänelle äänensä.</p>
         <p className="centeredStyle">Kunnioittaen</p>
-        <p className="signatureStyle">Ryhmä hämeenlinnalaisia kauppiaita y.m. liikkeenharjoittajia.</p>
+        <p className="signature">Ryhmä hämeenlinnalaisia kauppiaita y.m. liikkeenharjoittajia.</p>
       </Article>
       <Article titleText="Raatimieskinastelua.">
         <p>„Hämeenlinnan järjestynyt raittiuswäki” on Hämeen Sanomain sunnuntainumerossa ilmaissut oikeusneuwosmiesehdokkaansa. Tätä ryhmäkuntaa, joka kaupungissamme haluaa nykyään esiintyä jonkinlaisena waltiollisena ja 
@@ -572,7 +572,7 @@ const Lukijoilta1924Page = () => {
           lempiehdokkaan, joka nyt triumfisaatossa pitäisi yhteisesti kannettaman raatipöydän taakse. Wai muutako on ollut näkökulmassa?</p>
         <p>Yleinen ehdokas, jonka pätewyydellekin antaa arwoa kaupungin asianajajain arwostelu, waratuomari K. Teikari, on ulkopuolella ryhmä- ja henkilöintressien. Allekirjoittaneet kuitenkin niin ristiriitaista kuin se onkin ylläolewan 
           kanssa — haluawat häntä suositella persoonallisestikin, sillä tuntewat hänet luonnolliseksi ja tasaiseksi mieheksi.</p>
-        <p className="signatureStyle">Muutamia.</p>
+        <p className="signature">Muutamia.</p>
       </Article>
 
       <DateDivider date="Keskiviikko, 4.6.1924"/>
@@ -585,7 +585,7 @@ const Lukijoilta1924Page = () => {
           lähintä kanssahakijaansa suuremmiksi samalla kuin jälkimmäisenkin sopiwuus wiran hoitamiseen kyllä myönnetään. Raittiusnäkökannalta ehdokkaita arwostellen owat kummatkin ehdokkaat tasawertaiset.</p>
         <p>Harkitsewa, siwu- ja ryhmäwaikutteista wapaa kaupunkilainen tekee siis helposti walintansa.</p>
         <p>Oikeusneuwosmieheksi on walittawa waratuomari Kalle Teikari, hakijoista kaupunkikuntamme yhteistä etua silmälläpitäen pätewin!</p>
-        <p className="signatureStyle">Kaupunkilaisia.</p>
+        <p className="signature">Kaupunkilaisia.</p>
       </Article>
       <Article titleText="Wieläkin oikeusneuwosmiehen waalista.">
         <h5>„Raatimieskinastelua”</h5>
@@ -599,7 +599,7 @@ const Lukijoilta1924Page = () => {
           asettama ehdokas on sen sijaan kaupungissamme yleisesti tunnettu ja tiedetään awoinna olewaan wirkaan myöskin täysin kelpoiseksi. Kun hän, paitsi niitä ominaisuuksia, mitä oikeuswaltio on welwollinen wirkamiehelleen asettamaan, 
           omaa myöskin raittiuswakaumuksen ja on tehnyt ehdottoman raittiuslupauksen, ei kukaan woine wäittää, että raittiuswäki on asettanut ehdokkaakseen sopimattoman hakijan kun se on siksi walinnut Johan Aukusti Heinosen.</p>
         <p>Yhteiskunnan yleisetu silmämääränä äänestäkäämme siis tänään oikeusneuwosmieheksi hänet.</p>
-        <p className="signatureStyle">Raittiuswäkeä.</p>
+        <p className="signature">Raittiuswäkeä.</p>
       </Article>
       <Article titleText="Arwotonta menettelyä.">
         <p>Tänään toimitettawa raatimiehen waali on jälleen nostanut pikkukaupunkimme eräiden piirien intohimot liikkeelle, kuten parikin tämän päiwän lehdessä ollutta kirjoitusta osoittaa. Ei tyydytä siihen, että kehuttaisiin sitä 
@@ -616,7 +616,7 @@ const Lukijoilta1924Page = () => {
         <p>Olemme tarttuneet kynään torjuaksemme sen matalamielisen katsantokannan mikä warsinkin eräässä t.p. kirjoituksessa on ilmennyt. Sellaisilla kirjoituksilla ei ymmärtääksemme asiaa edistetä, päinwastoin luulemme kirjoittajan 
           tehneen sillä karhunpalweluksen omalle asialleenkin, mutta yleisestikin katsoen tuollainen aiheeton syyttely ja epämääräiset wiittaukset on wastenmielisiä, repiwät enempi kuin rakentawat, eiwätkä siis ansaitsisi tulla 
           painomusteen kautta monistetuiksi.</p>
-        <p className="signatureStyle">Kuntalaisia.</p>
+        <p className="signature">Kuntalaisia.</p>
       </Article>
       <Article titleText="Muutama sana nimimerkille „Kaupunkilaisia” ja „Muutamia”.">
         <p>Eilisessä lehdessä hyökkääwät ylläolewat nimimerkit niitä walitsijoita wastaan, jotka owat asettaneet ehdokkaakseen toisen kuin heidän ehdottamansa. Kaikki kunnia nimimerkki „Kaupunkilaisten” kirjoitukselle siitä, että se 
@@ -633,7 +633,7 @@ const Lukijoilta1924Page = () => {
         <p>Nimimerkki „Muutamien” kirjoitus on siksi arwoton, ja suotakoon anteeksi jos käytän sanaa: „nulikkamainen” sisunpurkaus sitä ryhmää wastaan jota he todennäköisesti wihaawat, mutta joka tässä kaupungissa on tehnyt kaupungin 
           ja warsinkin sen sywien riwien hywäksi epäitsekästä ja monesti hywinkin epäkiitollista työtä, että moiseen kirjoitukseen ei kannata edes wastata. Täytyy wain merkille panna, että kyllä se on laiha ja lapsellinen suositus 
           lakimiehelle, kun „Muutamilla” ei ole waratuom. Teikarille antaa muuta omakohtaista suositusta, kuin että hän on „luonnollinen (?) ja tasainen mies”! Eiköhän asianomaista itseäänkin hymyilytä tuollainen „armolause”?</p>
-        <p className="signatureStyle">Walitsija.</p>
+        <p className="signature">Walitsija.</p>
       </Article>
 
       <DateDivider date="Sunnuntai, 29.6.1924"/>
@@ -643,7 +643,7 @@ const Lukijoilta1924Page = () => {
           toisinaan puolen minuutin ajan kuin merihädässä olewa. Satamamestaria ei sen tarwitse huutaa, sillä hän näkee laiwan tulon konttoristaan ja ajureitakaan ei tarwitse huhuilla, sillä ne owat jo laiturin wieressä odottamassa 
           ja toisia saadaan puhelimella tilaten.</p>
         <p>Joku wuosi sitten poistettiin lähtöpuhallukset. Poistakaa nyt nämä tulomerkitkin ja ottakaaa huomioon nekin kauhut, mitä monet esim. sairashuoneessa wiruwat saawat sen johdosta kärsiä.</p>
-        <p className="signatureStyle">Kiusaantunut.</p>
+        <p className="signature">Kiusaantunut.</p>
       </Article>
 
       <DateDivider date="Keskiviikko, 2.7.1924"/>
@@ -653,7 +653,7 @@ const Lukijoilta1924Page = () => {
           yksilön siis muuttaminen. Jos joku tahtoo saada niihin muutosta aikaan niin on hänen parasta kääntyä täällä Hämeenlinnassa paikallisen satamamestarin puoleen pyynnöllä, että hän esittäisi sen kaupungin maistraatille, jota 
           taasen woi joko hywäksyä tai hyljätä nimim. „Kiusaantuneen” pyynnön. Jos tämä ei auta, niin woi wielä wedota asiassa merenkulkuhallitukseen, joka kenties woi olla asiassa myöntywäisempi. Luultawaa kuitenkin on, että 
           merenkulkuhallituskin on asiassa kielteisellä kannalla mitä tulee signaalipuhallusten lopettamiseen.</p>
-	      <p className="signatureStyle">Yksi monien puolesta.</p>
+	      <p className="signature">Yksi monien puolesta.</p>
       </Article>
 
       <DateDivider date="Perjantai, 4.7.1924"/>
@@ -668,7 +668,7 @@ const Lukijoilta1924Page = () => {
           - lakki. Niin että ellei nyt tässä kaupungissa todellakaan löydy sellaista miestä, joka kykenisi sen asian järjestämään, niin mylwilkää päälle waan, täytyyhän sitä täällä Hämeenkin wesillä olla jotain „kansainwälistä”. 
           Mutta olen wakuutettu, että jos sattuisitte sairaana makaamaan parhaan kesäkauden tuossa wastapäätä satamaa olewassa walkoisessa tallossa - sillä niiden puolesta olen kirjoittanut - joka hermo wawisten kuulemaan noita 
           kamalia ääniä, niin luulen, että kiiwaasti waatisitte sellaiset turhanpäiwäiset signaalit poistettawiksi. Se on nytkin täynnä sellaisia, minä olen parantunut, enkä ole enään</p>
-	      <p className="signatureStyle">Kiusaantunut.</p>
+	      <p className="signature">Kiusaantunut.</p>
       </Article>
 
       <DateDivider date="Sunnuntai, 6.7.1924"/>
@@ -678,7 +678,7 @@ const Lukijoilta1924Page = () => {
           kunnossa se on, kuoppainen ja loukkuinen, ajosillat sywällä maan sisällä ja rikkinäiset niin, että keskelle siltaa pystytetyillä seipäillä on osotettawa matkustajille mikä kohta on hengenwaarallinen. Kaiken kaikkiaan sangen 
           surullinen kuwa meistä hämäläisistä.</p>
         <p>Löytyykö ketään henkilöä, wirastoa tahi wirkamiestä, jolla olisi mitään woimaa asian korjaamiseksi? Jos on, niin täyttäkää toki welwollisuutenne. Säälikää edes matkustajia.</p>
-	      <p className="signatureStyle">Matkustaja.</p>
+	      <p className="signature">Matkustaja.</p>
       </Article>
 
       <DateDivider date="Lauantai, 9.8.1924"/>
@@ -689,7 +689,7 @@ const Lukijoilta1924Page = () => {
           keskuudessa alettaisiin kaiwata seuran perustamista, jonka ainoana ohjelma numerona ei olisi waan tanssi, waan että tämän seuran kokouksissa ja illanwietoissa myös muulla henkisellä ohjelmapuolella olisi täysi arwonsa. 
           Mutta yksi „mutta” on wielä esteenä, nimittäin se, että seuran alkuunpanijana pitäisi olla joku wanhempi, nuorison pyrkimyksiä ja elämää ymmärtäwä mieshenkilö, joka jos mahdollista olisi jo nuoruudessaan ollut 
           nuorisoseuroissa toimihenkilönä. Siis Te, Hämeenlinnan nuorisoseuramiehet, ryhtykää toimeen seuran perustamiseksi.</p>
-        <p className="signatureStyle">Muuan asiaan innostunut.</p>
+        <p className="signature">Muuan asiaan innostunut.</p>
       </Article>
 
       <DateDivider date="Lauantai, 16.8.1924"/>
@@ -705,7 +705,7 @@ const Lukijoilta1924Page = () => {
         <p>Sydämellinen kiitos uhrautuwalle emännöitsijälle kaikesta hywyydestä, jota saimme osaksemme siirtolassa ollessamme. Suurimmat kiitokset kaupungin waltuustolle, siirtolatoimikunnalle ja kaikille, jotka owat 
           myötäwaikuttaneet tämän hywän tarkoituksen eteenpäin wiemiseksi. Hartain toiwomus on, että tämä siirtola edelleenkin woisi ottaa suojiinsa monia rasittuneita äitejä lapsineen wirkistymään pieneksi ajaksi.</p>
         <p className="centeredStyle">Kiitollisin mielin.</p>
-        <p className="signatureStyle">Wirkistyneet äidit.</p>
+        <p className="signature">Wirkistyneet äidit.</p>
       </Article>
 
       <DateDivider date="Tiistai, 9.9.1924"/>
@@ -720,7 +720,7 @@ const Lukijoilta1924Page = () => {
         <p>Mikäli katuliikenne on yleistynyt ja etenkin wiime aikoina saanut entisestä suuresti muuttuneen sisällyksen, sikäli kadunpitowelwollisuus on talonomistajain rasituksena suuresti muuttunut, mutta siitä huolimatta tätä 
           laajennettua kadunpitowelwollisuutta yritetään jatkuwasti pysyttää yksistään talon- ja tontinomistajain rasituksena. Edellä mainittu Oulun kokous asettui lainwalmistelukunnan lakiehdotusta tältä osalta wastustamaan 
           yksimielisesti hywäksyen ponnen, että kadunpitowelwollisuus olisi kokonaan siirrettäwä kunnan haltuun.</p>
-        <p className="signatureStyle">Kokouksessa ollut.</p>
+        <p className="signature">Kokouksessa ollut.</p>
       </Article>
 
       <DateDivider date="Torstai, 25.9.1924"/>
@@ -735,7 +735,7 @@ const Lukijoilta1924Page = () => {
           laiwakonttorissa ilmoittaa, ei saa missään tapauksessa poiketa laiwalla, eikä määräpaikassa kyseltäessä. Kun näin on paperit kunnossa, pääsee kyllä maihin warmasti.</p>
         <p>Mielestäni laiwayhtiöiden pitäisi antaa tarkkoja neuwoja matkustawille, ettei ihmisten tarwitsisi tehdä tätä kallista ja pitää matkaa, turhan tähden.</p>     
         <p className="centeredStyle">Torontossa, 26. 8. -24.</p>
-        <p className="signatureStyle">Hugo Kettunen</p>
+        <p className="signature">Hugo Kettunen</p>
       </Article>
 
       <DateDivider date="Perjantai, 26.9.1924"/>
@@ -747,7 +747,7 @@ const Lukijoilta1924Page = () => {
         <p>Ei myöskään liene liian aikaista, että Hämeenlinnan seurakunta ja sen kirkkoneuwosto ryhtyisiwät toimenpiteisiin asian aloittamiseksi ja toteuttamiseksi, kun kerran näin sopiwa tilaisuus on olemassa. Voihan toiwoa, että 
           kaupunginwaltuusto, joka lopullisesti rakennuksen myynnin ratkaisee, asettuu asiassa myös suopealle kannalle, kunhan wain ne, joille asian alkamispano wirallisesti kuuluu, ryhtywät toimeen.</p>
         <p>On myös huomattawa, että hautakappelia warten on olemassa säätiöwaroja lähes parikymmentä tuhatta markkaa.</p>
-        <p className="signatureStyle">-r</p>
+        <p className="signature">-r</p>
       </Article>
 
       <DateDivider date="Tiistai, 7.10.1924"/>
@@ -755,7 +755,7 @@ const Lukijoilta1924Page = () => {
         <p>huhuissa perää että Hämeenlinnan kaupunki ei olisi niitten 26 kaupunkikunnan joukossa mitkä owat hankkineet Amerikasta edullisen lainan. Jos todella niin olisi, olemme siwuuttaneet ainutlaatuisen tilaisuuden ja on kuntamme 
           korkotappio kyseessäolleelle 5 miljoonan markan lainalle pyörein luwuin ainakin 150,000 markkaa wuodessa.</p>
         <p className="centeredStyle">Asiassa selwitystä kaipaa</p>
-        <p className="signatureStyle">Veronmaksaja.</p>
+        <p className="signature">Veronmaksaja.</p>
       </Article>
 
       <DateDivider date="Keskiviikko, 8.10.1924"/>
@@ -779,7 +779,7 @@ const Lukijoilta1924Page = () => {
           Niiden pitämiseen ja kuwilla walaisemiseen olisi teatterin huoneusto sopiwa ja mahdollisesti pantaisiin näin alku wastaiselle työwäen- tai kansalaisopistolle, jonka perustaminen tällekin paikkakunnalle kai piankin astuu 
           päiwäjärjestykseen.</p>
         <p>Toiwoakseni kysymys tulee lähemmän pohdinnan alaiseksi. Ainakin maksanee waiwan laatia kustannusarwio rakennuskustannuksista ja laskelmat teatterin mahdollisesta kannattawaisuudesta.</p>
-        <p className="signatureStyle">A. E. Koponen.</p>
+        <p className="signature">A. E. Koponen.</p>
       </Article>
 
       <DateDivider date="Perjantai, 10.10.1924"/>
@@ -789,7 +789,7 @@ const Lukijoilta1924Page = () => {
           wanha kirkko ei täällä hautausmaata kaipaa eikä wälttämättömältä tunnu olewan sitä tänne kylän keskuuteen ahtaa jos waan halutaan muualta paikkoja etsiä. Kun lisäksi kulkuyhteydet eiwät täältä ole yhtä hywät pitäjän eri 
           puoliin kuin esim. pappiloihin, - paikka siirtyy entiseen hautausmaahan nähden wain pitäjänrajaa kohti, - tuntuu mielestämme pakkotoimenpiteisiin ryhtyminen tällaisessa asiassa harha-askeleelta ja tahdomme mielipiteemme 
           tällä tawoin saattaa julkisuuteen.</p>
-        <p className="signatureStyle">Paikkakuntalaisia.</p>
+        <p className="signature">Paikkakuntalaisia.</p>
       </Article>
 
       <DateDivider date="Sunnuntai, 12.10.1924"/>
@@ -801,7 +801,7 @@ const Lukijoilta1924Page = () => {
           kirjelaatikko korwattaisiin suuremmalla laatikolla ja että nykyinen siellä olewa laatikko siirrettäisiin Lahdensiwulaisten tarwetta tyydyttämään, asettamalla se waikkapa n.s. Sokoloffin kulmaan, missä kirjelaatikolla 
           olisi keskeinen paikka. Tämän uuden laatikon tyhjentäminen kahdesti päiwässä ei tuota suurtakaan ajanhukkaa — warsinkaan, jos Lahdensiwuun asetettu postiljooni saisi tuon tyhjentämisen toimekseen. Lahdensiwulaiset 
           odottawat kysymyksen myönteistä ja pikaista järjestämistä.</p>
-        <p className="signatureStyle"></p>
+        <p className="signature"></p>
       </Article>
 
       <DateDivider date="Keskiviikko, 15.10.1924"/>
@@ -809,7 +809,7 @@ const Lukijoilta1924Page = () => {
         <p>Kuten tunnettua johtaa Myllymäen „torilta” wanhalle hautausmaalle Peltokatu. Tätä katua ei nykyään kuitenkaan pidetä awoinna liikenteelle waan on henkilöiden, joiden on tätä tietä kuljettawa suunnattawa matkansa joko 
           liiankin wilkasliikkeistä Läntistä Wiertotietä myöten tai sitten oikaistawa Alasen kaupunginosan länsipuolella olewien wiljelysmaiden kautta siten turmellen näitä wiljelyksiä. Eikö siis olisi syytä awata liikenteelle siltä 
           nykyään suljettu Peltokatu, jota myöden ihmiset taas mukawammin woisiwat kulkea kuin Läntistä Wiertotietä tai peltoja pitkin.</p>
-        <p className="signatureStyle">Eräs tientarwitsija</p>
+        <p className="signature">Eräs tientarwitsija</p>
       </Article>
 
       <DateDivider date="Sunnuntai, 19.10.1924"/>
@@ -822,7 +822,7 @@ const Lukijoilta1924Page = () => {
           ryhtyisiwät tätä asiaa tarmokkaasti ajamaan, sillä hautakappeli on Hämeenlinnan hautausmaalle wälttämätön ja sen kokonaan uudestaan rakentaminen on kuitenkin lähiwuosien tehtäwä ja werotuksella suoritettawa. Emme myöskään luule 
           rahatoimikamarin olewan tätä toiwomusta wastaan, joka tietääksemme on seurakuntalaisten keskuudessa hywin yleinen.</p>
         <p>Ehdotamme siis, että wanha palotorni siirretään sopiwasti muutettuna hautakappeliksi hautausmaalle.</p>
-        <p className="signatureStyle">Hämeenlinnan seurakuntalaisia.</p>
+        <p className="signature">Hämeenlinnan seurakuntalaisia.</p>
       </Article>
       <Article titleText="Arw. Hämeenlinnan kaupunginwaltuustolle.">
         <p>Tuntuu kerrassaan merkilliseltä se hoppu, jolla kaupunkimme wanhan paloaseman kohtalo on ratkaistu. Asiaa ei oltu ennätetty wielä läheskään tarpeeksi kypsyttää, kun waltuusto wiime kokouksessaan päätti, että rakennus on 
@@ -834,13 +834,13 @@ const Lukijoilta1924Page = () => {
         <p>Me pyydämme kuitenkin kysyä, eikö asia olisi wielä korjattawissa. Mikä kiire on wanhan paloaseman maahan jaoittamisella? Se woisi kunniallisesti seisoa paikallaan waikka muistomerkkinä, kappaleena wanhaa Hämeenlinnaa. Eikä 
           Tähtipuisto sitäpaitsi kaipaa mitään laajennusta. Toiwomuksemme siis on, että waltuusto wielä muuttaisi päätöksensä ja wuokraisi wanhan paloaseman kaupungin kristillisille yhdistyksille, jotka kipeästi owat kokoushuoneen 
           tarpeessa ja joiden siunausta tuottawa toiminta woisi suuresti wilkastua, jos ne saisiwat mainitun rakennuksen kokoushuoneekseen.</p>
-        <p className="signatureStyle">Joukko kaupunkilaisia.</p>
+        <p className="signature">Joukko kaupunkilaisia.</p>
       </Article>
       <Article titleText="Kaupunkimme wiranomaiset">
         <p>näkywät jättäneen muutamien katujen ja teiden käyttökelpoisuudesta huolehtimisen. Esim. Eteläinen Niittykatu ei ole muutamilta kohdiltaan lainkaan siedettäwässä kunnossa. Waikea sinne on enään ajurikyytiäkään saada. Tämä katu 
           huonosti walaistuna on suorastaan hengenwaarallinen siellä olewine sudenkuoppineen. On tapahtunut pahoja lankeemistapauksia. Miksei asematiellä käytetä hienorakeista soraa? Tällaista näkyy olewan saatawissa, koska sitä on 
           rantatorillekin tuotu. Asematie on näin jokasella ajalla melkein mahdoton jalkamiehen kulkea, warsinkin autojen siwuuttamaan antaman kuraryöpyn wuoksi.</p>
-        <p className="signatureStyle"></p>
+        <p className="signature"></p>
       </Article>
 
       <DateDivider date="Tiistai, 21.10.1924"/>
@@ -848,7 +848,7 @@ const Lukijoilta1924Page = () => {
         <p>Lahdensiwulla asuwien kiusallista huomiota on jo pitemmän aikaa herättänyt pyykkilaiturinsa huono kunto tai paremmin sanoen kunnottomuus. Mainitun laiturin kunnossapito kuuluu tietääkseni kaupungille, mutta on laituri ainakin 
           tällä hetkellä useimmille Lahdensiwun asukkaille pääsemätön päämäärä, sillä warsinaiselle laiturille johtawasta sillasta ei paljoakaan kannata puhua siksi huonossa kunnossa se on. Olisi siis suotawaa, että asianomaiset kaupungin 
           rakennuswiranomaiset kiinittäisiwät huomionsa tähän epäkohtaan ja sen mitä pikaisemmin korjaisiwat.</p>
-        <p className="signatureStyle">Eräs lahdensiwulainen.</p>
+        <p className="signature">Eräs lahdensiwulainen.</p>
       </Article>
 
       <DateDivider date="Torstai, 23.10.1924"/>
@@ -862,7 +862,7 @@ const Lukijoilta1924Page = () => {
         <p>Jos kansamme on raaistumiseen kulkemassa on sitä kowasti kohdeltawa, sillä kuri se on, joka raakalaisen komennossa pitää. Pelko linnaan joutumisesta, sen kowan kurin alainen järjestys, sotapoikiamme huonommalle ruualle 
           joutuminen, raskaan työn alaisuus, warmasti panewat tuumimaan wankilassa olon mukawuuden ja niin kulkeutuu tieto tällaisen „kenttätuomioistuimen” kowuudesta kansaan, jota kurin pelko kaswattaa.</p>
         <p>Siwistyskansat puhuwat kaswatuksesta, raakalaiskansat kurista. Ikäwä kyllä täytynee meidän turwautua tähän jälkimäiseen järjestyksen ylläpitämiseksi kansassamme.</p>
-        <p className="signatureStyle">-a -a</p>
+        <p className="signature">-a -a</p>
       </Article>
 
       <DateDivider date="Perjantai, 31.10.1924"/>
@@ -876,7 +876,7 @@ const Lukijoilta1924Page = () => {
         <p>Olen itsekin kewyiksi hawaittujen hakijain joukossa, odotan mielenkiinnolla tuleeko kaupungin waltuusto ilman muuta antamaan siunauksensa terweyshoitolautakunnan edesottamiselle, wai tuleeko se ehkä wielä kiinnittämään 
           huomiotaan syrjäytettyjenkin hakijain pätewyyteen.</p>
         <p className="centeredStyle">Joka elää, se näkee</p>
-        <p className="signatureStyle">G. E. Palm</p>
+        <p className="signature">G. E. Palm</p>
       </Article>
 
       <DateDivider date="Keskiviikko, 3.12.1924"/>
@@ -891,7 +891,7 @@ const Lukijoilta1924Page = () => {
         <p>Wirkamiehet, liikemiehet, y.m., kaikkien Teidän on kohdistettawa wiiwanne allaolewaan listaan.</p>
         <p className="boldStyle">Yhteinen hywä kaiken yläpuolelle!</p>
         <p className="boldStyle">Wiiwanne listaan N:o 1!</p>
-        <p className="signatureStyle">Kuntalaisia.</p>
+        <p className="signature">Kuntalaisia.</p>
       </Article>
 
       <DateDivider date="Lauantai, 20.12.1924"/>
@@ -911,11 +911,11 @@ const Lukijoilta1924Page = () => {
           omalletunnolleen siten, että hän wälittäjien kautta myy hewosensa - joka sitten joutuu Wenäjälle.</p>
         <p>Eläinsuojelusyhdistys Helsingissä wetoo täten kansamme kunniantuntoon. Älkää luowuttako uskollista palwelijaanne tuntemattomiin kohtaloihin, waikkakin sen kautta kärsitte tilapäistä aineellista wahinkoa.</p>
         <p className="centeredStyle">Helsingissä, 30 pnä lokak. 1924.</p>
-        <p className="signatureStyle">Helsingin Eläinsuojelusyhdistys.</p>
+        <p className="signature">Helsingin Eläinsuojelusyhdistys.</p>
       </Article>
       <br />
       <Divider className="dividerStyle" />
-      <a className="hyperLinkStyle" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?year=1924">Linkki vuosikertaan 1924</a>
+      <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?year=1924">Linkki vuosikertaan 1924</a>
     </Layout>
   );
 };

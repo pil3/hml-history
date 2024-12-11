@@ -151,11 +151,11 @@ const HomePage = () => {
       </div>
       <ReadMore buttonText={showMore ? "Näytä vähemmän" : "Näytä enemmän..."} onClick={() => setShowMore(!showMore)}/>
       <QuoteEnd className="symbolStyle"/>
-      <p className="copyrightStyle">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan Osoite ja Ilmoitus Kalenteri, 1887 </p>
+      <p className="copyright">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan Osoite ja Ilmoitus Kalenteri, 1887 </p>
       <Divider className="dividerStyle" />
       <Image className="centeredImageStyle" src={img1} alt="Maalaus vanhasta Hämeenlinnasta"/>
-      <p className="copyrightStyle">Cordier de Bonneville, Louis-Joseph-Anger, taiteilija - valmistusaika ajoittamaton</p>
-      <p className="copyrightStyle">Kansallisgalleria / Sinebrychoffin taidemuseo- CC0 </p>
+      <p className="copyright">Cordier de Bonneville, Louis-Joseph-Anger, taiteilija - valmistusaika ajoittamaton</p>
+      <p className="copyright">Kansallisgalleria / Sinebrychoffin taidemuseo- CC0 </p>
     </Layout>
   );
 }

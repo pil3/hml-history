@@ -8,7 +8,7 @@ import "../styles/base/global.css"
 const AulankoPage = () => {
   return (
     <Layout titleText="Kuvia Aulangolta">
-      <div className="interTitleStyle">1890-luku</div>
+      <div className="interTitle">1890-luku</div>
       <ImageCard
         imgPath="https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.EA21A3DAC0F61DB0FC589EB508AAF748&index=0&size=large"
         title="1890"
@@ -57,7 +57,7 @@ const AulankoPage = () => {
         copyright="Museovirasto - Historian kuvakokoelma - Richter, Vivi, kuvaaja"
         caption="Näkymä Aulangon harjulta."
       ></ImageCard>
-      <div className="interTitleStyle">1900-luku</div>
+      <div className="interTitle">1900-luku</div>
       <ImageCard
         imgPath="https://digi.kirjastot.fi/files/fullsize/4a48bc1b9b1f41f2f65f0e8ad6deb6e5.jpg"
         title="n. 1900"
@@ -82,7 +82,7 @@ const AulankoPage = () => {
         copyright="Museovirasto - M. L. Carstensin kokoelma - CC BY 4.0"
         caption="Karlbergin kartanon tiluksia. Taustalla talousrakennuksia ja kartano."
       ></ImageCard>
-      <div className="interTitleStyle">1910-luku</div>
+      <div className="interTitle">1910-luku</div>
       <ImageCard
         imgPath="https://digi.kirjastot.fi/files/fullsize/19547f337fe86add58ba7ff7ebdaef43.jpg"
         title="1912"
@@ -105,7 +105,7 @@ const AulankoPage = () => {
         copyright="Museovirasto - Historian kuvakokoelma - Brander, Signe - CC BY 4.0"
         caption="Karlbergin kartanon päärakennukseen tehtiin 1890-luvulla muutoksia torneilla ja ulokkeilla. Päärakennus tuhoutui tulipalossa vuonna 1928."
       ></ImageCard>
-      <div className="interTitleStyle">1920-luku</div>
+      <div className="interTitle">1920-luku</div>
       <ImageCard
         imgPath="https://digi.kirjastot.fi/files/fullsize/3b3500a7d8fd7afb5427f678bf4ad6c8.jpg"
         title="1920"
@@ -152,7 +152,7 @@ const AulankoPage = () => {
         caption="Suunnilleen Karlbergin kartanon päärakennuksen kohdalla Vanajaveden rannassa sijaitsi pieni uimahuone, jonne päästiin kaitein koristeltua siltaa pitkin. Uimahuone oli rakennettu jo 1800-luvun 
         lopulla eversti Standertskjöldin aikana silloisen barokkikartanon edustapuiston rantaan."
       ></ImageCard> 
-      <div className="interTitleStyle">1930-luku</div>
+      <div className="interTitle">1930-luku</div>
       <ImageCard
         imgPath="https://digi.kirjastot.fi/files/fullsize/a38f130c1dd0fcb984a37cd56c83a1aa.jpg"
         title="n. 1930"

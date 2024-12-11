@@ -12,7 +12,7 @@ import {titleStyle,
         buttonStyle,
         arrowStyle, 
         sliderImgStyle, 
-        sliderCaptionStyle,
+        slidercaption,
         sliderStyle
       } from "../styles/components/imageSlider.module.css"
 import "slick-carousel/slick/slick.css";
@@ -61,8 +61,8 @@ const ImageSlider = ({imgArray, showDots, auto, wide}) => {
             <div>
               <div className={titleStyle}>{_img.title}</div>
               <ImageModal imageStyle={sliderImgStyle} imagePath={_img.imgSrc} key={_img.key} titleText={_img.title} copyrightText={_img.org} ></ImageModal>
-              <div className={sliderCaptionStyle}>{_img.caption}</div>
-              <div className="captionStyle">{index + 1} / {imgArray.length}</div>
+              <div className={slidercaption}>{_img.caption}</div>
+              <div className="caption">{index + 1} / {imgArray.length}</div>
             </div>
           )
         }

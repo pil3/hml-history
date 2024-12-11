@@ -21,9 +21,9 @@ const MatkailuopasPage = () => {
 
       <Image className="centeredImageStyle" src={imgFrontPage} alt="Matkailuoppaan etusivu"/>
 
-      <p className="captionStyle">H:linnan Matkailijayhdistys</p>
-      <p className="captionStyle">Hämeenlinna 1915, Arvi A. Karisto</p>
-      <p className="captionStyle">Hämeenlinnan Kaupunginkirjasto</p>
+      <p className="caption">H:linnan Matkailijayhdistys</p>
+      <p className="caption">Hämeenlinna 1915, Arvi A. Karisto</p>
+      <p className="caption">Hämeenlinnan Kaupunginkirjasto</p>
       
       <Divider className="dividerStyle" />
 
@@ -345,7 +345,7 @@ const MatkailuopasPage = () => {
       <p>Päästyämme Oitin kärjen ohi sivuutamme tohtori A. V. Blomqvistin omistaman Helkavuoren tilan kauniine huvilan muotoon rakennettuine asuinrakennuksineen Ritvalan harjun länsi rinteellä ja saavumme saman harjun 
         pohjoisessa päässä sijaitsevaan Hakalan taloon, jota aikaisemmin on omistanut ruununvouti Georg Nordenswan.</p>
 
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/9bec0ea75c19b7e3eab7874300fb11e0.pdf">Lähde</a>
+      <a className="hyperLink" href="https://digi.kirjastot.fi/files/original/9bec0ea75c19b7e3eab7874300fb11e0.pdf">Lähde</a>
     </Layout>
   )
 }

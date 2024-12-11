@@ -36,9 +36,9 @@ const MatkailuopasPage = () => {
 
       <Image className="centeredImageStyle" src={imgFrontPage} alt="Matkailuoppaan etusivu"/>
 
-      <p className="captionStyle">Laatinut A. TH. BÖÖK</p>
-      <p className="captionStyle">Hämeenlinna 1927, Arvi A. Karisto osakeyhtiön kirjapaino</p>
-      <p className="captionStyle">Hämeenlinnan Kaupunginkirjasto</p>
+      <p className="caption">Laatinut A. TH. BÖÖK</p>
+      <p className="caption">Hämeenlinna 1927, Arvi A. Karisto osakeyhtiön kirjapaino</p>
+      <p className="caption">Hämeenlinnan Kaupunginkirjasto</p>
 
       <Divider className="dividerStyle" />
       
@@ -661,7 +661,7 @@ const MatkailuopasPage = () => {
         Tyrvännön reitti kääntyy Ruskeenkärjen vastapäätä olevan kallioisen Vanajaniemen kohdalta oikealle, sivuuttaa kauniin Puisniemen kärjen ja kulkee siitä kapean 
         salmen kautta, jonka rannoilla sijaitsee huviloita, Suotaalan kylään. Kylän läheisyydessä on Tyrvännön puukirkko (v. 1803). Reitin varrella ovat edelleen Siukolan, 
         Retulan, Monaalan ja Mälkiäisten laiturit. Reitti loppuu Hakalan talon kohdalla.</p>
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/d2f951bf18d0a4e7bef22331d4525422.pdf">Lähde</a>
+      <a className="hyperLink" href="https://digi.kirjastot.fi/files/original/d2f951bf18d0a4e7bef22331d4525422.pdf">Lähde</a>
     </Layout>
   )
 }

@@ -25,13 +25,13 @@ const Kalenteri1895Page = () => {
     <Layout titleText="Kunnallis-Kalenteri - 1895">
       <ImageSlider imgArray={imageArray} showDots={false} wide={false}></ImageSlider>
       <br></br>
-      <p className="captionStyle">Hämeenlinnan kaupunginkirjasto 1895.</p>
+      <p className="caption">Hämeenlinnan kaupunginkirjasto 1895.</p>
       <br></br>
       <p>Hämeenlinnan ensimmäisen kunnalliskalenterin toimitti lääninrahastonhoitaja, asessori Anders Leonard Petterson (1841-1905), joka toimi 1800-luvun lopulla monissa luottamustehtävissä Hämeenlinnassa, mm. valtuustossa vuosina 
         1883-1898. Kunnalliskalenteri on luettelo eri tehtävissä toimivista henkilöistä. Siinä luetellaan valtuuston ja mm. rahatoimikamarin ja vaivaishoitohallituksen jäsenet, mutta myös monien kaupungissa toimivien yhteisöjen ja 
         järjestöjen, kuten raittiusseuran tai rouvasväenyhdistyksen toimihenkilöt.</p>
       
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/114864acbe570c8cbc55f5781e75a05b.pdf">Lähde</a>
+      <a className="hyperLink" href="https://digi.kirjastot.fi/files/original/114864acbe570c8cbc55f5781e75a05b.pdf">Lähde</a>
     </Layout>
   )
 }

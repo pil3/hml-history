@@ -168,11 +168,11 @@ const Puhelin1926Page = () => {
       <p>Vaadittaessa toistamiseen, on tilaaja velvollinen maksamaan perimishyvitystä 5% laskumäärästä kumminkin vähintäin 1 mk. ja enintäin 10 mk.</p>
       <p>Kaupunkienvälinen yhtiö on oikeutettu harkinnan mukaisesti vaatimaan takuumaksun muodossa etumaksua.</p>
 
-      <p className="captionStyle">Etelä-Suomen Kaukopuhelin Osakeyhtiö.</p>
+      <p className="caption">Etelä-Suomen Kaukopuhelin Osakeyhtiö.</p>
  
-      <p className="captionStyle">Hämeenlinnan kaupunginkirjasto 1926, Hämeenlinnan puhelinosakeyhtiö </p>
+      <p className="caption">Hämeenlinnan kaupunginkirjasto 1926, Hämeenlinnan puhelinosakeyhtiö </p>
       <br></br>
-      <a className="hyperLinkStyle" href="https://digi.kirjastot.fi/files/original/a055024005299ac22e01e536c059dc7a.pdf">Lähde</a>
+      <a className="hyperLink" href="https://digi.kirjastot.fi/files/original/a055024005299ac22e01e536c059dc7a.pdf">Lähde</a>
     </Layout>
   )
 }
