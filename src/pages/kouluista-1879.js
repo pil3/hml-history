@@ -408,7 +408,7 @@ const Conditions1809Page = () => {
       <p>Se suuri oppilasmäärä, joka tällä triv. koululla seuraavan luettelon mukaan usein on ollut, todistaa koulun nauttineen yleisön luottamusta. Vaihk'ei moni siinä opetusta saaneista nuorukaisista mieheksi tultuaan ole yhteiskunnan kukkuloille 
         noussut, valmisti tämä oppilaitos kuitenkin pitkän vaikutuksensa ajalla melkoisen joukon isänmaan palvelukseen kelvollisia ja uutteria miehiä. Niistä harvoista Hämeenlinnan koulun entisistä oppilaista, jotka ovat kohonneet korkiampaan 
         asemaan yhteiskunnassa tai muuten tulleet hyödyllisistä toimistaan huomatuiksi, mainittakoon tässä ainoastaan seuraavat:</p>
-      <p>Tuomioprovasti J. A. Edman, Professori A. G. Sjöström, Valtioneuvos Fredr. Cygnaeus, Kansakoulujen Ylitarkastaja U. Cygnaeus, Professori K. S. Sirelius, Kunnallisneuvos A. Meurman.</p>
+      <p className="signatureSmall">Tuomioprovasti J. A. Edman, Professori A. G. Sjöström, Valtioneuvos Fredr. Cygnaeus, Kansakoulujen Ylitarkastaja U. Cygnaeus, Professori K. S. Sirelius, Kunnallisneuvos A. Meurman.</p>
 
 
       <Divider className="dividerStyle" />

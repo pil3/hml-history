@@ -119,6 +119,12 @@ const PeoplePage = () => {
         caption="Arvi Aleksanteri Karisto (sukunimi vuoteen 1905 asti Karlsson) syntyi 31. elokuuta 1879 ja kuoli 23. toukokuuta 1958 Hämeenlinnassa. Hän oli suomalainen kirjankustantaja ja hämeenlinnalaisen kustannusliike Arvi A. Karisto Oy:n perustaja."
       ></ImageCard>
       <ImageCard
+        imgPath="https://upload.wikimedia.org/wikipedia/commons/d/d9/Armas_Launis.jpg"
+        title="Armas Launis"
+        copyright="CC BY-SA 3.0, via Wikimedia Commons"
+        caption="Armas Emanuel Launis (vuoteen 1900 Lindberg) syntyi 22. huhtikuuta 1884 Hämeenlinnassa ja kuoli 7. elokuuta 1959 Nizzassa, Ranskassa. Hän oli suomalainen säveltäjä, kansanmusiikintutkija, musiikinopettaja, kirjailija ja toimittaja."
+      ></ImageCard>
+      <ImageCard
         imgPath={kummila}
         title="Hilpi Kummila"
         copyright=""

@@ -31,8 +31,8 @@ const FirePage = () => {
         <p>Yleisistä rakennuksista, joutuivat, ikävä kyllä, maaherran asunto ja koulurakennus hävityksen uhriksi, sillä ainoastaan neljäs osa talojen luvusta pelastui. Allekirjoittanut sai monen muun kanssa 
           jakaa onnetonta kohtaloa, mutta Raastuvanoikeuden ja Maistraatin arkisto, joka säilytettiin allekirjoittaneen talossa, pelastui häiriöstä samaten kuin kaupungin kirkkokin, vaikka se oli suuressa vaarassa sekä jo syttyi tuleen. 
           Kaksitoista tuntia oli kyllin tehdä yli tuhannen ihmistä asunnottomiksi, ja vielä tätä kirjettä lähetettäessä nousee savu kaikkialla raunioista. Tarkemman kertomuksen saan kunnian huomispäivän postissa lähettää.</p>
-        <p className="centeredStyle">Hämeenlinnassa Syyskuun 15 p:nä 1831.</p>
-        <p className="centeredStyle"> Maistraatin puolesta:</p>
+        <p className="signatureSmall">Hämeenlinnassa Syyskuun 15 p:nä 1831.</p>
+        <p className="signatureSmall"> Maistraatin puolesta:</p>
         <p className="signature">G. A. Lagerblad</p>
       </Article>
 
@@ -72,8 +72,8 @@ const FirePage = () => {
           ja että palaneiden rakennusten arvo oli yhteensä 375,000 ruplaa, siihen laskettuna palovakuutettujen rakennusten arvo, sekä yksityisten hävinnyt irtain omaisuus noin 100,000 ruplaa; kuin myöskin että kauppias J. A. Juselius'en 
           Mikko niminen renki, jonka huhu sanoo syypääksi tulipaloon, palon jälkeen on ollut kadoksissa ja hyvin luultava on, että hän on jäänyt liekkeihin, mutta ettei muita henkilöitä hengen tahi ruumiin puolesta ole loukkaantunut. 
           Tullen Maistraatti sittemmin, kun tutkinto, jota jo on alotettu, sekä piakkoin jatketaan, on päättynyt, Maaherralle ilmoittamaan syyn tähän suureen onnettomuuteen.</p>
-        <p className="centeredStyle">Hämeenlinnassa Syyskuun 22 p:nä 183l.</p>
-        <p className="centeredStyle">Maistraatin puolesta</p>
+        <p className="signatureSmall">Hämeenlinnassa Syyskuun 22 p:nä 183l.</p>
+        <p className="signatureSmall">Maistraatin puolesta</p>
         <p className="signature">G. A. Lagerblad.</p>
       </Article>
       <SubDivider className="dividerStyle" />
@@ -119,7 +119,7 @@ const FirePage = () => {
           auttamaan sammutustyössä.</p>
         <p>Väsyneenä viikon rasituksista sekä tavallisimpien kirjoitusneuvojen puutteessa, ne kun ovat hävinneet, en ole voinnut jättää raporttia siinä muodossa kuin olisi pitänyt mutta toivon, ettei tätä asiain nykyisessä tilassa, lueta 
           minulle syyksi.</p>
-        <p className="centeredStyle">Hämeenlinnassa Syyskuun 19 p:nä 183l.</p>
+        <p className="signatureSmall">Hämeenlinnassa Syyskuun 19 p:nä 183l.</p>
         <p className="signature">J. Fryxell.</p>
       </Article>      
       <SubDivider className="dividerStyle" />

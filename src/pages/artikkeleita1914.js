@@ -489,6 +489,243 @@ const Articles1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
+      <div className="interTitle">24.2.1914</div>
+      <Article titleText="Tango-tanssin „epäsiweellisyys”">
+        <p>Walitukset muotiin tulleen tango-tanssin epäsiweellisyydestä owat nykyään yleisesti tunnetut. Parisilainen lehti <span className="quote">La fleur de lys</span> kirjoittaa artikkelissaan w. 
+          1824, wanhasta <span className="quote">siweellisestä walssista</span> seuraawaa:</p>
+        <p><span className="quote">Eräs tanssi, nimeltään Walssi, joka niinkuin luulemme, on saapunut Saksasta, saawuttaa yhä enemmän suosiota arwossapidetyissä seurapiireissa. Lyhyesti sanottuna on 
+          aristokraattisissa salongeissa pidetty tanssiaista, joissa kristilliset naiset, ja m. m. useat äidit, owat tanssineet walssia herrojen käsiwarsien warassa ja owat nämä herrat olleet heille 
+          aiwan wieraita. Miehet saiwat näinollen katsoa päältä, kuinka naista, jota he mitä hellemmin rakastiwat ja kunnioittiwat, puristi henkilö, joka ei ollut heidän miehensä. Emme tosiaankaan 
+          uskalla kuwailla tätä epäsiweellistä tanssia, joka sydämemme suruksi ja epätoiwoksi näyttää yhä enemmän ja enemmän woittawan miesten suosion ja ennenkaikkea naisten, joiden yksinomainen 
+          welwollisuus olisi näyttää kansalle hywää esimerkkiä sopiwaisuudesta ja kainoudesta. Papit owat saaneet määräyksen tuomita tämä walssi pirun keksinnöksi, koska se saa aikaan häiriötä aiwoissa, 
+          saattaa sydämet pois tasapainosta ja turmelee sielut</span>.</p>
+        <p>Kuten näkyy, tuomittiin walssi 90 wuotta sitten wähintäänkin yhtä ankarasti kuin nykyään tango.</p>
+        <p>Niiden joukossa, jotka kiihkeimmin lausuwat pannajulistuksen tangosta, on eturiwissä pyhä isä ja kardinaalit Roomassa. Nyt kuitenkin puhuwat italialaiset lehdet eräästä arwoisasta kardinaalista, 
+          joka, langettaaksensa puolueettoman tuomion tangosta, oli kutsunut erään balettimestarin ja yhden tanssijattaren oopperasta palatsiinsa, jotta nämä esittäisiwät tämän pahuuden hänelle. Keskellä 
+          näytöstä huomautti tämä arwoisa prelaatti aiwan ihastuneena:</p>
+        <p><span className="quote">Mutta tämähän on sulawin tanssi, mitä milloinkaan olen nähnyt</span>.</p>
+        <p>Woimme näinollen olla warmoja että tango aikaa myöten tulee olemaan yhtä arwossapidetty ja paljon käytetty kuin kerran niin siweettömäksi tuomittu walssi, puhumattakaan polkasta, joka 
+          keskiwaiheilla wiimeistä wuosisataa tuli käytäntöön yli koko Europan ja katsottiin yhteiskunnalle joksikin waaralliseksi kulkutaudiksi.</p>
+      </Article>
+
+      <div className="interTitle">26.2.1914</div>
+      <Article titleText="Uusiin oloihinko totutaan?">
+        <p>Suomen kansan kohtalo näyttää entistään synkemmältä. Juuri kun eduskuntamme on osoittanut nykyisen hallitussuunnan Suomelle tuottamat turmiolliset waikutukset ja tuonut ilmi, kuinka 
+          wälttämätöntä on, että tästä mitä suurimmassa määrässä kansallemme wahingollisesta järjestelmästä luowutaan, on julkisuuteen päässyt outoja tietoja Suomen senaatin uudelleen järjestämisestä 
+          ja erityisen poliisidepartementin perustamisesta Suomeen. Wanhat suunnittelut, kuten Wiipurin läänin kuntien erottaminen, Suomessa tehtyjen poliittisten rikosten alistaminen keisarikunnan 
+          tuomioistuinten alaisiksi, tullien yhdistäminen, hewosasewelwollisuuden woimaan saattaminen, wenäjänkielen käytön lisääminen y. m. owat Wenäjällä tapahtuneen pääministerin waihdoksen tapahduttua 
+          saaneet tuulta purjeisiinsa.</p>
+        <p>Nykyisen hallitusjärjestelmän johtajat ja toimeenpanijat eiwät anna mitään arwoa Suomen laeille, kun ne joutuwat esteeksi heidän pyrkimystensä toteuttamiselle. Sekä suuremmissa että pienimmissä 
+          asioissa tulee tämä tawan takaa ilmi. Meille wihamieliset ainekset Wenäjällä, kuten ministeriwaltiosihteeri Markow äskettäin lausui, lewittelewat kiihkomielisyydessään sellaisia kokonaan 
+          totuudesta poikkeawia lausuntoja, että Suomen wäestö muka on <span className="quote">alkanut tottua uusiin oloihin</span>.</p>
+        <p>Kansamme on kyllä rauhallinen, mutta <span className="quote">tottumisesta</span> ei woi olla puhettakaan. Wai sitäkö osoittawat Krestyn wankilassa wiruwat lakien puoltajat, eduskunnan 
+        toimenpiteet ja kansan mieliala? Ministeriwaltiosihteerin lausunto ei pidä wähimmässäkään määrässä paikkaansa. Surullista, että edustajamme H. M. Keisarin waltaistuimen juurella katsoo arwolleen 
+        sopiwaksi tällaisia perättömyyksiä lewitellä kansasta, jonka oikeuksia hänen tulisi suojella ja warjella.</p>
+      </Article>
+
+      <div className="interTitle">7.3.1914</div>
+      <Article titleText="Kysymys wenäjänkielen saattamisesta Suomen wiralliseksi kieleksi.">
+        <h5>Kenraalikuwernöörin ehdotus, johon senaatti on yhtynyt.</h5>
+        <p>Pietarin toimisto ilmoittaa:</p>
+        <p>Pietarissa, maalisk. 8 p. Suomen kenraalikuwernööri on jättänyt ministerineuwoston tarkastettawaksi laatimansa ehdotuksen wenäjänkielen käyttöönottamisesta Suomen hallintolaitosten ja 
+          wirkamiesten wälistä kirjeenwaihtoa koskewassa kysmyksessä. Lakiehdotus sisältää seuraawaa:</p>
+        <p>Senaatin ja sen prokuraattorin lähettämät asiakirjat alam. esityksiä warten owat alkuperäisesti laadittawat wenäjänkielellä. Samalla kielellä ilmoitetaan Suomen kenraalikuwernöörille ja 
+          senaatille korkeimmasta paikasta tulewat asiakirjat. Wenäjänkieli otetaan käytäntöön Suomen hallintolaitosten ja wirkamiesten kirjeenwaihdossa kenraalikuwernöörin, hänen kansliansa ja kaikkien 
+          keisarikunnan wiranomaisten kanssa, jolloin keisarikunnan ja Suomen laitosten wälillä säädetään muutamilla poikkeuksilla kirjeenwaihto. Suomen wiranomaisten wälinen kirjeenwaihto tapahtuu 
+          wenäjän tai paikallisilla kielillä, taikka wenäjänkielellä liittämällä käännös paikalliselle kielelle. Wenäjänkielen käyttäminen asiain käsittelyssä säädetään waltiosihteerin wirastossa ja 
+          Suomen passitoimistossa heti, senaatin talousosastossa ja prokuraattorin toimituskunnassa wiimeistään kolmen wuoden kuluttua, keskushallituksissa ja kuwernööriwirastoissa sekä kuwernöörien 
+          luona, wiimeistään wiiden wuoden kuluttua. Niiden wirkojen piiriä, jotka woidaan täyttää ainoastaan wenäjänkieltä taitawilla henkilöillä, laajennetaan melkoisesti. Muihin wirkoihin 
+          nimittämisessä on wenäjänkielen taitoisille annettawa etuoikeus. Seitsemän wuoden kuluttua eiwät yleensä woi tulla nimitetyiksi wirkoihin, elleiwät osaa wenäjänkieltä.</p>
+        <p>Lisäksi tulisi: 1) perustaa siellä, missä se on wälttämätöntä, wäliaikaisia kielenkääntäjien, esittelijäin ja muita wirkoja; 2) määrätä säännökset wirkamiesten tai sellaisiksi pyrkiwäin 
+          wenäjänkielen sekä paikallisten kielten taidon osoituksista; 3) järjestää wenäjänkielen opintoja henkilöille, jotka walmistautuwat ei- luokkawirkoja warten; 4) näiden toimenpiteiden 
+          toteuttamisesta aiheutuwien menojen peittämiseksi ottaa wuosittain warsinaiseen meno-sääntöön summittaisia määrärahoja waltionrahaston suoritettawaksi.</p>
+        <p>Senaatti on käsitellyt näitä ehdotuksia ja pääasiassa hywäksynyt ne.</p>
+      </Article>
+
+      <Article titleText="Todenpuhuja ei saa yösijaa.">
+        <h5>Pakinaa.</h5>
+        <p>Tunnettu sosialisti, maisteri Timo Korpimaa julkaisi äskettäin kirjasen „Maamme sosialidemokratia, Mietteitä ja arwosteluja”, jossa hän paljasti kursailematta maamme sosialidemokratian 
+          warjopuolet, johtokoplan, warsinkin „siltasaarelaisten” humpuukipelin, jota harjoitetaan köyhälistön nimessä. Kirjanen ei ole antanut pahaakaan rauhaa sosialistiemme pomomiehille. Pesässä on 
+          ollut aika pörinä. Ensin he koettiwat nolata „toweri” Korpimaata lehdessään, mutta tämäpä sanoikin „eduskunnan klouwnille”, piirisihteeri Jaloselle y. m. suolaset sanat. Sitten kutsuiwat 
+          „towerit” „herrasmies” Korpimaan, joksi häntä kirjasen ilmestyttyä on sosialistien piireissä alettu karahteerata, H:linnan sos.dem. kunnallisjärjestön eteen wastaamaan wäitteistään. 
+          Ensimäiseksi pidettiin Korpimaan walitsemaa julkaisumuotoa sopimattomana. Hänen olisi pitänyt esittää mietelmänsä „towerien” kokouksessa tahi heidän lehdessään. Nyt hän on lähtenyt puhtoista 
+          sosialistipuoluetta „mustaamaan” po-po-por-bor-warrr-ien edessä! Sitä eiwät „wilpin sankarit” ja „walheentietoiset opettajat” ole jaksaneet sulattaa. „Altawastaaja”, „syytettyjen” penkille 
+          lykätty Korpimaa pysyi wäitteessään, että sosialistien waltiopäiwämiehet Manner ja Kuusinen owat „wilpin ja walheen sankareita”. Muutamin paikoin teki syytetty myönnytyksiä, mutta pääasiassa 
+          jäi edelleen kirjansa kannalle. Pahasti oli „towereihin” koskenut syytös, että sosialistien iltamissa „puukon heilutus korwaa muun ohjelman” ja syytökset sosialistilehtien alistumisesta 
+          pakkokappalejutuissa ja moitteet „laimeasta walistusharrastuksesta”. „Toweri” Korpimaa piti „suurena liiotteluna niiden mielipidettä, jotka sosialidemokratian kannalta eiwät näe porwariston 
+          suhtautumisessa taantumukseen mitään hywää ja kannatusta ansaitsewaa”. Tätä koettiwat „tuomareiksi” asettuneet myös „alas lyödä”.</p>
+        <p>Tuloksena „kunnallisjärjestön" kokouksesta oli se, että Timo Korpimaalle annettiin paheksumislausunto „puoluetta loukkaawan kirjasensa johdosta”. Tämän kuultuaan ilmoitti Korpimaa eroawansa 
+          kunnallistoimikunnasta. Järjestön päätöstä wastaan pani „toweri” A. Mäkelä wastalauseensa. „Wilpinsankarit” eiwät woineet tietystikään päätöstään maailmaan saattaa todellisessa walossa, 
+          jonka takia „tuomittu” Korpimaa ilmoittaa wiimeisessä „Häm. Woimassa”, että 15 kunnalisjärjestön jäsentä ei ottanut äänestykseen osaa. „Häm. W.”, jonka toimittajat oliwat paheksumislauseen 
+          antajina, ei hiiskunut tästä mitään, waan kertoi Aatami Mäkelän yksin olleen paheksumislausuntoa wastaan. Näistä 15 owat useat „paheksumislausuntoa” wastaan samoin kuin monet järjestön 
+          jäsenet, jotka oliwat kokouksesta poissa. Wielä ilmoittaa maist. K., että hän on usealta paikkakunnan sosialistilta saanut tunnustusta kirjasensa johdosta ja katsoo sentähden olewansa 
+          oikeutettu julkisesti ilmoittamaan, että paikkakunnan sosialisteista ainakaan suuri wähemmistö ei kannata tehtyä „paheksumislausuntoa”.</p>
+        <p>„Häm. W:n” torstaisessa numerossa panee toistakymmentä sosialistia wastalauseensa kunnallisjärjestön „paheksumislausuntoa” wastaan ja katsowat, että Korpimaa kirjasessaan on pysynyt hywänä 
+          sosialidemokratina” ja pitäwät puolueelle „terweellisenä” ja ojentawana” sitä arwostelua, jonka hän kirjasessaan on antanut.</p>
+        <p>„Häm. W”. antaa ylen Aatami Mäkelänkin, jota se nimittelee „humoristiseksi” kokouspuhujaksi ja „Steffan Walleeniksi”. Sellaista se on sosialistien itsewaltius. Ei heidän piirissään sallita 
+          arwostelu- ja sananwapautta. Siitä on Korpimaan juttu hywänä esimerkkinä. Mätä ja wilppi ei siedä kohentelua.</p>
+      </Article>
+
+      <div className="interTitle">14.3.1914</div>
+      <Article titleText="Sawukkeista.">
+        <p><span className="accent">H. Borgströmin</span> tupakkatehdas Helsingistä onnellistutti eilen toimitustamme oiwallisilla tuotteillaan. Parhaana todisteena niiden erinomaisuudesta on siitä 
+          lähtien toimitushuoneen täyttäwä yhä laajenewa sawupilwi, jonka keskeltä kuuluu enään wain ylistelewiä huudahduksia. „Borkkarilla” onkin jo wakiintunut maine täällä Etelä-Hämeessä kuten 
+          muuallakin. Erityisesti tahdomme tällä kertaa huomauttaa hienosta turkkilaisesta tupakasta walmistetusta <span className="accent">Kosmos</span>-sawukkeista, jonka pitäisi tyydyttää kuinka 
+          kehittynyttä tupakkamiehen „makua” tahansa. Suurta suosiota owat saawuttaneet erinomaiset <span className="accent">Tilaus</span>-sawukkeet, jotka jo alkawat käydä miltei kansanomaiksi. 
+          Uutuutena on tehdas hiljattain laskenut liikkeeseen puuimukkeella poltettawan erinomaisesta tupakasta walmistetun <span className="accent">Walio-Tilaus</span> sawukkeen, joka halpahintaisena 
+          on tarkoitettu wastapainoksi paljon lewinneelle Työmies-paperossille, johon kulutetut rahat menewät elleiwät suorastaan ulkomaille niin ainakin muukalaiselle miehelle. Saatamme mielihywällä 
+          wakuuttaa <span className="accent">Walio-Tilaus</span> sawukkeen loistawasti wetäwän wertoja „Työmiehelle”, jopa ehdottomasti wiewän siitä woitonkin.</p>
+        <p>Tiedämmehän, että kotimaista tupakkateollisuuttamme uhkaa nykyään ulkomaiselta taholta suuri waara. Sen wuoksi onkin jokaisen kunnon suomalaisen tupakkamiehen tarmolla ruwettawa 
+          kannattamaan kotimaista tupakkateollisuuttamme. Ensimäisten joukossa on tälöin muistettawa <span className="accent">Borgströmin tupakkatehtaan</span> oiwallisia walmisteita.</p>
+      </Article>
+
+      <div className="interTitle">17.3.1914</div>
+      <Article titleText="Wenäläistyttäjäin hommia.">
+        <h5>Pakinaa.</h5>
+        <p>Uusia wenäläistyttämistoimenpiteitä joka päiwä. Wastustajaimme ruokahalulla ei näy olewan mitään rajoja. Kaikki waan mulin mallin, ison isänmaan kaawaan.</p>
+        <p>Paraillaan suunnitellaan koululaitoksemme ja yliopiston wenäläistyttämistä. Wenäjänkieli wiralliseksi senaattiin ja keskuswirastoihin. Seitsemän wuoden päästä ei enään muita otetakaan 
+          wirkoihin, kuin wenäjän kielen taitoisia. Wirkamiesten erottamattomuudesta tehdään loppu. Uudenkirkon ja Kiwennawan lohkaiseminen muun Suomen yhteydestä aijotaan kursailematta suorittaa. 
+          Kaikellaiset hewos y. m. asewelwollisuudet ulotetaan rajamaahan. Noin niinkuin wälipalaksi on hallitustamme onnellistutettu uudella täysiwerisellä wenäläisellä senaattorilla. 
+          Warakuwernöörejä on Wenäjällä ja niitä pitää saada tännekin.</p>
+        <p>Kuwaawaa rettelöimishalua on senaatti osoittanut silläkin, että se äskettäin eroitti etewän suojeluskaswatusasiain tarkastajan, wphra Bonsdorffin toimestaan. Wphra B:n rikos oli siinä, 
+          että hän erinäisiin toimiin oli ehdottanut 2 henkilöä, jotka owat istuneet yhdenwertaisuuslain wastustamisesta Krestyssä.</p>
+        <p>Wielä eräs pikkujuttu. Senaatti toimitti erään „poistokysymyksen”. Porsas ja nukkuwa yöwartija owat saattaneet waltakunnan arwon suureen waaraan. Joku korkea wiranomainen oli jollakin 
+          koulujemme tarkastusmatkalla koulun seinällä nähnyt wanhoja Wenäjän kyläoloja kuwaawan idyllimäisen kuwan, jossa m.m. oli kuwattu tila ja nukkuwa yöwartija. Seurauksena oli senaatin 
+          määräys kouluylihallitukselle poistaa mainittu kuwa kouluista.</p>
+        <p>Jutussa on hullunkurisinta se, että tämä kuwa kuuluu niihin siwistyshistoriallisiin kuwiin, joita Venäjällä wiranomaisten puolesta lewitetään kouluihin.</p>
+        <p>Touhua on siis tawattoman paljon. „Uudistusten” etunenässä kulkee kenraalikuwernööri, joka toimittaa hallinnolisia uudistuksia hywin pikaisesti käyntiin. Hywänä apuna on hänellä senaatin 
+          uusi wenäläinen warapuheenjohtaja, joka ei woi kärsiä senaatin wahtimestarien suomalaismallisia pukujakaan.</p>
+        <p>Warakuwernöörien tarpeettomuudesta on tässäkin lehdessä aikaisemmin huomautettu. Lääninhallitusten kokoonpanossa lienee korjaamista, mutta warakuwernöörit eiwät tätä pysty tekemään. 
+          Kuwernööreiksi olisi nimitettäwä ei-sotilashenkilöitä ja jos ei asioita saada läänin hallituksissa kyllin nopeasti käsitellyiksi, olisi lisättäwä pystywien työntekijöiden lukua, sillä turhaa 
+          on perustaa kallispalkkaisia wirkoja yksistään sitä warten, että pelkiksi poliisipääliköiksi muodostuwat kuwernöörit pääsisiwät „työtaakkansa wähenemiseksi” piirtämästä nimeänsäkään 
+          siwiilipaperiensa alle. Huomio on kohdistettawa itse kuwernöörien asiantuntemukseen tai sitten alempien wirkamiesten pätewyyteen. Warakuwernöörien hommaaminen on joutawaa mullistusta, 
+          waltion warojemme haaskausta ja turhaa yhdenmukaisuuden matkimista.</p>
+        <p>Lopuksi kuwaawa juttu eräästä maan-waaristamme. Lääninhallituksen esittelijä löi wetoa siitä, että saisi kuwernöörinsä tunnustamaan suuren welkakirjan. Pisti 100,000 mk:n welkakirjan 
+          muiden asiapaperien joukkoon ja kuwernööri kirjoitti nimensä kaikkiin papereihin tietämättä hölynpölyä siitä mitä ne sisälsiwät.</p>
+      </Article>
+
+      <div className="interTitle">21.3.1914</div>
+      <Article titleText="Waltiopäiwiltä.">
+        <h5>Tärkeä päätös.</h5>
+        <p>Eduskunnan wiime tiistainen istunto oli tärkeimpiä mitä pitkiin aikoihin on pidetty. Siellä tehty päätös, jonka mukaan ehdotus asetukseksi <span className="accent">pientiloista</span> ja 
+          asetukseksi Suomen <span className="accent">maalaiswäestön asutusrahastosta</span> kolmannessa käsittelyssä lopullisesti hywäksyttiin, on sangen kauas kantawa; tämän hywän päätöksen 
+          tulokset tulewat ulottumaan moniin sukupolwiin wielä meidän jälkeemme. Mutta kyllä kowalle ottikin, monta estettä ja koukkua koettiwat „towerit” tielle rakentaa ja nähtäwasti wiimeisenä 
+          keinona koettiwat „wäsyttää” eduskunnan muita puolueita, jotka yksituumaisesti owat tätä tärkeätä asiata ajaneet. Onhan sosialistien puhetulwa mainitun asian käsittelyssä ollut wallan 
+          tawaton ja luonnollisesti on toiselta taholta myös täytynyt wastata heille ja oikaista heidän asiattomia wäitteitään. Sattuwasti huomauttikin eräs edustaja, että tämän asian esillä ollessa 
+          on siihen tuhlattu niin paljon aikaa, waiwaa y. m., niin että jos tämä kaikki laskettaisiin rahaksi, sillä summalla oslisi jo monelle tilattomalle saatu hankituksi oma palsta.</p>
+        <p>Mutta minkätähden sosialistit niin kiihkeästi owat wastustaneet sitä, että tilattomille hankittaisiin maata ja että saataisiin asutus maassamme lewiämään yhä laaemmille aloille? 
+          Minkätähden juuri ne, jotka äänekkäästi ja suurisuisesti selittäwät ajawansa wähäwäkisten asiaa, wiimeistä miestä ja naista myöten kynsin hampain owat tätä asiata wastustaneet, kun heillä 
+          päinwastoin juuri olisi ollut hywä tilaisuus kerrankin käytännössä toteuttaa „aatteitaan”. He owat eduskunnassa kyllä sanomattoman laajasanaisesti puhuneet kaikenlaisesta „orjuuttamisesta” 
+          ja muusta senkaltaisesta, mutta keskustelujen kuluessa on wähitellen yhä selwemmin käynyt ilmi, että se on waan kaikki ollut „taktiikkaa”, tuota ijänikuista taktiikkaa ja agitatsionia, joka 
+          on heille paljon tärkeämpää kuin konsanaan tilattomien etu. Käwihän esim. „toweri” Gyllingin lausunnosta wiime tiistaina sangen selwästi ilmi, että sosialisteille ja heidän 
+          luokkataistelulleen on sitä edullisempaa kuta kauemmin tilattomien tila pysyy niin kurjana kuin mahdollista. Mainittu edustaja koetti muuten - oppineena miehenä - oikein tieteellisesti 
+          selittää sosialistien kantaa, mutta toiset oppineet ja ehkäpä wielä oppineemmatkin kumosiwat hänen kamariwiisautensa. Niin esim. edustaja Tuulenheimo asiallisessa lausunnossaan sekä 
+          tieteen että käytännön kannalta osoitti Gyllingin wäitteet mahdottomiksi. Muun muassa huomautti ed. Tulenheimo wastalauseessaan, että „maataloudelliset lait eiwät ole luonnonlakeja waan 
+          kokemusperäisiä lakeja, joissa päätelmä on se, että samojen edellytysten wallitessa yleensä seuraukset taloudellisen elämän alalla owat samat, mutta että jos edellytykset muuttuwat, 
+          seurauksetkin tulewat olemaan toiset”. Tämä on järkewää puhetta, mutta tietysti - hulluutta sosialisteille.</p>
+        <p>Kun monituntinen keskustelu kolmannessa käsittelyssä wihdoinkin oli päättynyt, käytiin äänestämään. Ensin pantiin toimeen huutoäänestys, ja se oli todellakin huutamista. Asetusehdotusten 
+          kannattajat huusiwat „jaa” ja wastustajat - siis „towerit” „ei”. Oli melkein niinkuin yhtäkkiä olisi joutunut Turkin sotaan; niin kowa huuto siinä käwi, että „Heimolan” seinät melkein 
+          huojuiwat. Warsinkin oll sosialistien „ei” huudoissa julman paljon ääntä, waikka heitä olikin jonkun werran wähemmän kuin „porwareita”. Oikein selkäpiitä karmi, kun kuuli tuon 
+          itsepintaisen, mahdottoman „ei”-huudon; tulin ajatelleeksi, että ei, ei millään ehdolla suostuta sillä taholla oikeuden ja kohtuuden mukaisiin parannuksiin. Lippuäänestyksessä sitten 
+          ehdotukset hywäksyttiin 14 äänen enemmistöllä. Jännittäwää oli seurata äänten laskemista. Olihan kyllä tiettyä, että „jaa” tulisi woittamaan, mutta sittenkin! Jos wielä joitakuita 
+          ehdotusten kannattajia olisi ollut poissa istunnosta, niin waaraan se olisi woinut joutua. Onhan kyllä totta, etteiwät kyseessä olewat ehdotukset ole likimainkaan täydelliset, paljonhan 
+          niidenkin yhteydessä olisi wielä parannettawaa, niinkuin keskustelujen aikana on huomautettu, mutta sittenkin tulee niillä ainakin alustawana toimenpiteenä olemaan suuri merkitys 
+          tilattoman wäestön aseman parantamiseksi.</p>
+        <SubDivider className="dividerStyle" />
+        <p>Toinenkin tärkeä asia oli esillä samassa istunnossa. Tarkoitan <span className="accent">kieltolakikysymystä</span>. Onhan eduskunta jo useita wuosia sitten tehnyt päätöksen, jonka mukaan 
+          Suomeen olisi saatawa yleinen wäkijuomien kieltolaki. Mutta asia on siitä huolimatta wielä samalla asteella, ei ole wielä saatu kieltolakia. Nyt on kysymys taas otettu esille ja näyttää 
+          syntywän erimielisyyttä siitä, onko taaskin yritettäwä täydellistä kieltolakia, waiko askel askeleelta siihen pyrittäwä. Koko raitis kansa maassamme luonnollisesti toiwoo edellistä, mutta 
+          jos se on mahdotonta, niin hywäähän on, että edes wähitellen saadaan woittoja tällä tärkeällä alalla. - Koska aika oli jo pitkälle kulunut, keskeytettiin eduskunnan istunto sen jälkeen, 
+          kun asiasta oli jo useita puheenwuoroja käytetty. Onpa mieltäkiinnitttäwää nähdä, tuinka tämä asia, joka myös on kansamme elinkysymyksiä, ratkaistaan.</p>
+        <p className="signature">Eppu.</p>
+      </Article>
+
+      <div className="interTitle">24.3.1914</div>
+      <Article titleText="Hämäläisiä kysymyksiä.">
+        <p>Eräs „Matkailija" on puhutellut läänimme kuwernööriä ja kertoo „U. S:ssa” haastattelunsa tuloksista. Kaikesta päättäen ratkeaa lääninhallitus Tampereen hywäksi, kuwernöörin tietämän 
+          mukaan. Kun Tampereelle sijoitetaan sotawäkeäkin, on muutto jo siltäkin kannalta suotawa mahdollisten hankausten estämiseksi paikallisen wäestön ja wenäläisen sotawäen wälillä. 
+          Hämeenlinna ei woi kuwernöörin mielestä koskaan saawuttaa suurempaa nousua eikä siitä woi tulla suurempaa teollisuuskaupunkia, mutta pysyy se sinä, mikä se on, werrattain wilkkaana 
+          ympäristöpitäjien liikekeskuksena. Matkailijakeskus siitä woi tulla kauniin asemansa ja ihanan ympäristönsä takia. Ja woisipa Hämeenlinna, halpoine wuokrineen, terweellisine, kauniine 
+          asemineen tulla tyyssijaksi eläkettä nauttiwille ja pikku kapitalisteille, jotka täällä woisiwat wiettää päiwänsä herttaisesti ja wähemmin menoin kuin esim. pääkaupungissa.</p>
+        <p>Wielä huomautti kuwernööri Spåre, kuinka suotawaa olisi, että waltio ajoissa ostaisi Karlbergin alueen ja muuttaisi sen kansallispuistoksi.</p>
+        <p>Eipä näytä arw. kuwernöörillämme olewan suuria toiweita tämän wanhan Birger Jaarlin kaupungin tulewaisuudesta ja wastaisesta kehityksestä. Haastattelusta päättäen tuntuu kuwernööri 
+          käsittäwän lääninhallituksen päätehtäwäksi wain wenäläisen sotawäen suojelemisen. M. m. Tampereen syrjäiseen asemaan pääkaupunkina ei kuwernööri näy kiinnittäwän mitään huomiota. 
+          Tampereen kehityksestä on kuwernöörillä sitä wastoin hywät toiweet. Se tulee kaswamaan Pispalan etukaupunkiin, jonne O. Y. Nokian tehdas on saanut walmiiksi sähköwoima-aseman.</p>
+      </Article>
+
+      <div className="interTitle">31.3.1914</div>
+      <Article titleText="„Hämetär” ja raittiusharrastus.">
+        <h5>Hämetär jälleen kunnostautunut.</h5>
+        <p>Raittiuden Ystäwien äänenkannattaja „Kylwäjä” kirjoittaa wiimeksi ilmestyneessä numerossaan otsikolla „Hämetär jälleen kunnostautunut” seuraawaa:</p>
+        <p>Hämeenlinnassa ilmestyy eräs lehtipahanen, joka kantaa suloista nimeä Hämetär. Tämä lehti on tullut kuuluisaksi erittäinkin niitten ansioittensa wuoksi, joita sillä on raittiudesta 
+          rääpimisessä. Kun muutama wuosi sitten wietettiin yleistä raittiuskokousta, kunnioitti Hämetär tätä tapausta lewittämällä perättömiä juttuja kokouksen osanottajista. Pari wuotta sitten 
+          pukeutui Hämetär sotisopaan sen johdosta, että Hämeenlinnan raittiusseuran toimesta oli saatettu julkisuuteen eräitä törkeitä wäärinkäytöksiä eräässä kaupungin matkailijakodissa. Kun 
+          Hämeenlinnan raittiusseura tuonnoin yksityisille henkilöille lähettämillään kirjelmillä pyysi niitä liittymään seuran jäseneksi, yritti Hämetär saattaa epäluulonalaiseksi raittiusseuran 
+          tarkoitukset.</p>
+        <p>Äskettäin wietti Hämeenlinnan raittiusseura 30 wuotista juhlaansa. Tässä juhlassa piti tohtori Helenius-Seppälä juhlapuheen ja siinä muun muassa puhui Amerikan kieltolakitaistelusta. 
+          Tästä puheesta on Hämettären alakerran Turo saanut aihetta omien mielipiteittensä esittämiseen Amerikan kieltolaeista ja niiden waikutuksista. Kun nyt nämä esitykset tästä raittiuskannalta 
+          erittäin mielenkiintoisesta kysymyksestä owat ainakin suomenkielisessä sanomalehdistössä ainoanlaatuisia, ei niitä woi waitiololla siwuuttaa. </p>
+        <p>Kerrottuaan ensin, että kysymyksessäolewa juhlapuhuja kosketteli myöskin Amerikan kieltolakia omalla tunnetulla tawallaan kuwatessaan sen olewan laajenemassa ja kohtaamassa koko Yhdyswallat 
+          sekä kaikkien sikäläisten raittiusmiesten mielestä olewan seurauksiltaan erinomaisen, jatkaa kirjoittaja: „Meidän monien muiden tuosta kieltolaista saamat tiedot owat kuitenkin suuresti 
+          toisenlaiset. Me tiedämme, että kieltolakia Amerikassa käytetään waltiollisena agitaatiokeinona, että sen tehokkuus siellä wiime wuosina on ollut suuresti heikkenemään päin. Me tiedämme 
+          myöskin, että kieltolaki sellaisena kuin se on woimassa Mainessa, Kansasissa y. m. waltioissa ei tiedetä wäkijuomain käytön wähenemistä kieltolakialueilla, waan suurta laittoman salakaupan 
+          rehoittamista, jonka seuraukset siwellisessä suhteessa owat wallan surkeat”.</p>
+        <p>Eiwätkö todellakin Turon tiedot Amerikan kieltolaeista erinomaisella tawalla kuwasta Hufwudstadsbladetin kirjoituksia tästä kysymyksestä ja wiinatehtailijain Amerikan lähetettiläiden 
+          tunnettua esityistä sikäläisistä kieltolakioloista. Jos Turo olisi wähänkään seurannut wiimeaikaisia tapahtumia Amerikan Yhdyswaltain raittiusliikkeessä, niin hän olisi tullut huomaamaan, 
+          että juuri ne erinomaisen kehottawat esimerkit kieltolakien siunauksellisista waikutuksista, joita sikäläiset kieltolakiwaltiot tarjoawat, owat innostaneet Amerikan raittius- ja 
+          kieltolakijärjestöjä yhä innokkaampaan taisteluun yleisen koko waltioliittoa käsittäwän kieltolain aikaansaamiseksi. Se seikka, että kieltolakiwaltioihinkin owat yksityiset henkilöt 
+          saaneet juowutusjuomia tuottaa muista waltioista, joissa ei wielä kieltoa ole, on tietysti aiheuttanut salakauppaa, mutta ei kuitenkaan siinä määrässä, että sen seuraukset siweellisessä 
+          suhteessa olisiwat „wallan surkeat”, kuten Hämettären Turo luulee tietäwänsä. Päinwastoin. Wertasipa kieltolakiwaltioitten oloja taloudellisessa ja siweellisessä suhteessa mihin muuhun 
+          Yhdyswaltain waltioista tahansa, niin owat nämä waltiot asetettawat aina etusijalle. Kun esim. Kansas-waltiossa wiime aikoina wankilat owat suureksi osaksi käyneet tarpeettomaksi sentähden 
+          että rikollisuus on wähentynyt, niin tarjoaa se siweellisessä suhteessa kuwan, joka on toisenmoinen kuin Turon esittämä. Luuleeko Turo, että hänen lukijansa uskowat hänen sanojansa? 
+          Silloin täytyy hänellä olla sangen huono käsitys lukijoistansa.</p>
+        <h5>*</h5>
+        <p>Tohtori Helenius-Seppälän puheessa oli toinenkin kohta, jota hra Turo ei ole woinut tyyneenä siwuuttaa. Puhuja oli lausunut tyytywäisyytensä sen johdosta, että eräät lääninhallitukset 
+          owat osottaneet huomattawaa raitiusharrastusta, muun muassa sulkemalla wäkijuomaliikkeet sellaisiksi juhla-ajoiksi, jolloin wäkijuomain käyttö on yleisintä ja jolloin wäkijuomien waikutus 
+          esiintyy tawallista tuntuwampana. Tätä ei Turon mielestä olisi saatu sanoa.</p>
+        <p>Puhuja on käyttänyt tilaisuutta hywäkseen ja raittiusasian edistämiseksi. Kun tässä juhlassa oli saapuwilla muun muassa Hämeenläänin kuwernööri ja muita Hämeenlinnan kunnallisia ja 
+          hallinnollisia wirkamiehiä, niin oli siinä aiwan paikallaan huomauttaa sitä, että näillä henkilöillä on asemansa puolesta erinomainen tilaisuus edistää raittiusasiaa niillä keinoilla, 
+          mitkä woimassaolewat asetukset heille antawat. Ja tunnustuksen antaminen siitä, että näitä keinoja on käytetty, se ei ole moitittawaa, waan pikemmin, kuten sanottu, kiitettäwää. Mainittu 
+          kirjoitus on siksi tyhjentäwä, ettei se kaipaa mitään lisäyksiä.</p>
+      </Article>
+
+      <Article titleText="„Isien” neuvostosta.">
+        <p>Kaupungin „isillä” oli torstaina tuikeanlainen täysi-istunto. Esityslistalla oli wain 8 kuiwahkoa asiaa, joten astelin tyytywäisenä kaupungintaloa kohti siinä lujassa uskossa, että kokous 
+          kestää puolisen tuntia. Ennustukseni lyötiin kuitenkin säpäleiksi. Jo ensimäinen kysymys wei melkein tunnin ja jälelle jääneet toisen. Sanalla sanoen „suupruukkia” jauhettiin kuin wiimeistä 
+          päiwää. Pääkaupungissa käsitellään wäliin 50 asiaa tunnissa, mutta meillä ne käännetään, wäännetään pitkin ja poikin, ettei tule puolikypsää, kuten siellä Helsingissä kait.</p>
+        <p>Suurkysymykseksi muodostui tanssilawan rakentaminen Puistoon. Siitä piisasi juttua. Keskustelun alotti „isä” Sjöstedt puhuen wakawia sanoja tanssikuumetta ja lawan ratentamista wastaan. 
+          Huomautti lisäksi nykyisestä wakawasta ajasta, jolloin pitäisi huwitulwalle tehdä sulkuja. „Isä” Karisto ei pitänyt lawaa tarpeen waatimana ja katsoi laulujuhlain muistoa loukattawaksi, 
+          jos lawasta tehdään tanssipaikka. „Isä” Tarjanne huomautti, ettei pakkokeinolla woida ihmistä parantaa. Puoisi lawan rakentamista. Nousipa jälleen ylös „isä” Sjöstedt ja antoi 
+          wirkaweljelleen mitä kuului sekä lisäsi, ettei hän ymmärrä tämän ajatuksia. „Isä” Böök: Meillä tanssitaan 9 kk. seinien sisällä, joten pitäisi hywin woitaman olla 3 kk. luonnon helmassa 
+          tanssimatta. Nuorisoyhdistykset owat muodostuneet pelkiksi tanssiseuroiksi. „Isä” Tarjanne pani wastalauseensa „isä” Böökin lausuntoa wastaan, että nuorisoseurat olisiwat pelkkiä 
+          tanssiyhdistyksiä. Hra B. huomautti, että hän ei sellaista ole nuorisoseuroista tarkoittanutkaan sanoa. „Isä” Laurela ei tahtonut rajoittaa nuorison wapautta, muistuttaen „isiä”, että hekin 
+          owat kerran olleet nuoria ja „pyörähdelleet”. Tätä hänen ei olisi pitänyt sanoa, sillä „Isä” Sjöstedt opetti mitä kirkkoraadin jäsenelle sopii ja ei sowi. „Isä” Laurela puolusti lausuntoa 
+          sillä, että raamatussakin puhutaan tanssista. Joku huomautti tanssilawasta muodostuwan tappelupaikan, jossa on waikeata pitää järjestystä. „Isä” Alanko olisi antanut luwan sillä ehdolla, 
+          ettei se tuottaisi pahennusta. Mentiin siinä wielä walssit, masurkat ja tangot ennenkuin lähdettiin Linnanniemelle wilwoittelemaan. Erityistä tanssilawaa ei päätetty rakentaa, mutta siinä 
+          muodossa, laitetaanko laululawasta tanssipaikka, jäi asia pöydälle.</p>
+        <p>Katukäytäwän rakentaminen Linnanniemelle johtawalle tielle sai hiljaisemmatkin „isät” puhetuulelle. Hiljaiset „isät” waatiwat kustannusarwiota koko tien kohottamisesta. „Isä” Tarjanne 
+          wastusti käytäwän laittamista, paitsi jos parkkimäkeläisetkin ottaisiwat kustannuksiin osaa, pyytäen „isä” Björkbomia toimimaan tähän suuntaan. „Isä” Laurelan mielestä olisi kaupungin 
+          pidettäwä kaduistaan huoli, koskapa ollaan kowin kärkkäitä kowistamaan yksityisiä talonomistajia. Ihmetteli että Hattulan nimismies kärsii niin huonoa tietä kuin puheenaolewa. Mainittua 
+          tietä käytetään käwelytienä, tuumi „isä” Sjöstedt, kehoittaen wirkistystä hakewia kiertämään wanhaa tietä, jos mieliwät Puistoon.</p>
+        <p>Käytäwäjuttu lykättiin takaisin rahatoimikamariin, jonka tulee laatia uusi kustannusarwio.</p>
+        <p>Mitä pitemmälle päästiin, sitä tuikeammaksi käwiwät isät. Heti tohtori Mannerin luowuttua rahatoimikamarin puheenjohtajantoimesta ja pankinjohtaja Breitholtzin walittua tilalle, 
+          ehdotettiin kamarin sääntöihin sellainen muutos, että waltuusto walitsee rahatoimikamarille puheenjohtajan. Asiasta päätettiin pyytää kamarin lausuntoa, joka nyt saatiinkin, mutta sepä 
+          saattoikin eräiden isien haiwenet pystyyn. Kamari piti entistä järjestystä hywänä, kun se itse paraiten tietää, kuka joukosta on pätewin puheenjohtajaksi. „Herran poika ja Kaitarannan 
+          Kustaa”. Nyt iskettiin ja maa ja taiwas tärisi! kuten ennen Jukolan weljesten tapellessa. „Isä” Tarjanne iski halko aseena: Rahatoimikamari ei ymmärrä kirjelmiä ja lörpöttelee joutawia, 
+          jonka takia sille on annettawa <span className="accent">paheksumislausunto</span> ja muistutettawa, että rahatoimikamarin miehet owat waltuuston alaisia. Ja minä kun olen pitänyt kamarin 
+          puheenjohtajaa ja jäsentä Andersinia, Sundgrenia, Bindqwistejä lukutaitoisina miehinä. Ihminen on erehtywäinen, kuten minäkin. „Isä” Tötterman ei nyt sentään lähetetä paheksumislausuntoa, 
+          waan kirjelmän. „Isä” Karisto katsoi rahatoimikamarin täyttäneen welwollisuutensa ja piti luonnollisena, että kamari saa esitää oman mielipiteensä. Jos herrat eiwät „tykkää” kamarin 
+          puheenjohtajasta, woihan ensi kerralla hänen tilalleen walita uuden eikä pitää sellaista mutinaa selwästä asiasta. Paheksumislausuntoa ei päätettykään antaa. Armeliaisuus woitti. Eräs 
+          „isä” porstuassa wakuutteli, että hra Manneria wastaan ei „isä” Tarjannekaan olisi uskaltanut nousta. Huomautettiin myös, että kansakoulun, sairashuoneen y. m. toimikunnat walitsewat itse 
+          puheenjohtajansa.</p>
+        <p>Toinenkin kelwoton wirasto löydettiin. Se on sairashuoneen johtokunta, jonka puheenjohtajana on tri Bartram. Mainittu johtokunta tekee kypsymättömiä päätöksiä, johtaa asiat päin hongikkoa 
+          j. n. e., tuumiwat „isät”. Sairashuoneen korjaukset maksoiwat 83,000 mk., jolla summalla jo olisi rakentanut aiwan uuden sairaalan.</p>
+        <p>„Isä” Böökiä ei koko suukopu miellyttänyt. Hän ehdotti, että istuntoja pidettäisiin wain kerran kuukaudessa, eikä kahdesti, kuten nyt. Se auttoi. Tappi pantiin kiinni ja isät lähtiwät 
+          mietteissään pois.</p>
+        <p className="signature">Siwullinen.</p>
+      </Article>
+
+
       <br></br>
       <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>
     </Layout>

@@ -71,10 +71,14 @@ h5 {
 }
 .caption {
   font-size: 0.8rem;
-  margin: 0;
   text-align: center;
 }
 .signature {
+  letter-spacing: 2px;
+  text-align: center;
+}
+.signatureSmall {
+  font-size: 0.8rem;
   letter-spacing: 2px;
   text-align: center;
 }
@@ -98,7 +102,7 @@ h5 {
 }
 .hyperLink {
   display: block;
-  text-align: right;
+  text-align: left;
   font-size: 12px;
   color: darkblue;
 }
@@ -134,7 +138,8 @@ h5 {
 /* Other styles
 ----------------------------------------------------------------------------------------------------- */
 article {
-  margin: 8px;
+  margin: 8px auto;
+  max-width: 650px;
   padding: 16px;
   background-color: var(--color-bg-light);
   border-radius: 6px;
@@ -202,8 +207,8 @@ article {
     margin: 8px 0;
   }
   article {
+    margin: 8px;
     padding: 10px;
-    margin: 8px 0;
   }
 }
 
