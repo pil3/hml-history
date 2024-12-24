@@ -25,12 +25,12 @@ const HomePage = () => {
       <p className="firstLetterStyle">
         Noin samaan aikaan kuin Ruotsin mahtava valtiourho Birger Jaarli Bjelbosta päätti rakentaa
         Tukholman kaupungin noita sotaisia virolaisia vastaan, vaivasivat pakanalliset hämäläiset tuhotöillään ajoin ja usein
-        Itämaan (niinkuin Suomea silloin kutsuttiin) kristillista seurakuntaa.
+        Itämaan (niinkuin Suomea silloin kutsuttiin) kristillistä seurakuntaa.
       </p>
       <p> 
         Suuressa hädässään kääntyi papisto Suomessa Birger Jaarlin puoleen, pyytäen häneltä apua romalais-katolilaiselle seurakunnalle,
         jonka olemassa olo oli uhattu arveluttavassa määrässä. Ja heidän rukouksensa ei tullutkaan kuuroille korville. Wuonna 1249 laskettiin nimittän "Hämäläisten valkamaan" 
-        - Pohjan pitäjän lahteen - voimakas sotajoukko maalle itse jaarlin johtamana ja samana vuonna rakennettiin Wanajaveden ihannille rannoille Ruunuporin linna eli Hämeenlinna.
+        - Pohjan pitäjän lahteen - voimakas sotajoukko maalle itse jaarlin johtamana ja samana vuonna rakennettiin Wanajaveden ihanille rannoille Ruunuporin linna eli Hämeenlinna.
       </p>
       <div style={{display: showMore ? "inherit" : "none"}}>
         <p>
@@ -39,12 +39,12 @@ const HomePage = () => {
           paikkoihin. 
         </p>
         <p>
-          Ruunuporin linna, jonka kolmelta puolelta Wanajavesi ympäröitsi, tuli sittemmin vielä suurennetuksi ja vahvistetuksi valleilla ja juoksukaivoksilla. Aikaajoin annettiin se 
-          läänityksenä valtakunnan suurille miehille, aikaajoin palveli se Kuninkaallisen Majesteetin ja Valtakunnan käskynhaltijan olopaikkana.
+          Ruunuporin linna, jonka kolmelta puolelta Wanajavesi ympäröitsi, tuli sittemmin vielä suurennetuksi ja vahvistetuksi valleilla ja juoksukaivoksilla. Aika-ajoin annettiin se 
+          läänityksenä valtakunnan suurille miehille, aika-ajoin palveli se Kuninkaallisen Majesteetin ja Valtakunnan käskynhaltijan olopaikkana.
         </p>
         <p>
-          Tulipalo hävitti linnarakennuksen 15 p. Tammikuuta 1659 melkein perustuksia myöten. Senjälkeen rakennettiin se uudelleen Suomalaisen sotaväen asesäilytyspaikaksi. Sotaaikana 
-          palveli se tukeena ja turvapaikkana ruotsalais-suomalaiselle sotajoukolle, olematta milloinkaan vihollisen piirittämänä.
+          Tulipalo hävitti linnarakennuksen 15 p. Tammikuuta 1659 melkein perustuksia myöten. Senjälkeen rakennettiin se uudelleen Suomalaisen sotaväen asesäilytyspaikaksi. Sota-aikana 
+          palveli se tukena ja turvapaikkana ruotsalais-suomalaiselle sotajoukolle, olematta milloinkaan vihollisen piirittämänä.
         </p>
         <p>
           Kahdella tornillaan ja vanhoilla muureillaan on Ruunuporin linna yksi kauneimpia muinaismuistoja ja ajan kaikki syöpä hammas on vuosien vieriessä säälivästi käytellyt tuota 
@@ -60,10 +60,10 @@ const HomePage = () => {
           Suomen kenraalikuvernöörinä, sai kaupungin oikeudet.
         </p>
         <p>
-          Kohta sen jälkeen, Toukokuun 3 päivänä 1639, perusti hän kirjeellänsä Turun linnasta tänne lasten koulun ("barne schola") eli "paedagogium", tämän ensimmäiseksi johtajaksi 
-          nimitti hän pappismiehen Johannes Mannin, jonka samalla tuli olla linnansaarnaajana ja saada näistä toimistaan palkaksi kruunun kymmenykset kolmesta likinnä kaupunkia olevasta 
-          kuninkaan latokartanosta, sekä teiniveron Pälkäneen pitäjästä. Tästä likemmin eräässä v. 1879 täällä ulostulleessa kirjassa nimeltä "Hämeenlinnan vanhemmista kouluista, 
-          kirjoitti A. E. Faven".
+          Kohta sen jälkeen, Toukokuun 3 päivänä 1639, perusti hän kirjeellänsä Turun linnasta tänne lasten koulun (<span className="quote">barne schola</span>) 
+          eli <span className="accent">paedagogium</span>, tämän ensimmäiseksi johtajaksi nimitti hän pappismiehen Johannes Mannin, jonka samalla tuli olla linnansaarnaajana ja saada 
+          näistä toimistaan palkaksi kruunun kymmenykset kolmesta likinnä kaupunkia olevasta kuninkaan latokartanosta, sekä teiniveron Pälkäneen pitäjästä. Tästä likemmin eräässä v. 1879 
+          täällä ulostulleessa kirjassa nimeltä <span className="quote">Hämeenlinnan vanhemmista kouluista, kirjoitti A. E. Faven</span>.
         </p>
         <p>
           Likinnäseuraavina vuosina kaupungin perustamisesta oli ravintolanpito asukasten paraana elinkeinona ja josta heillä oli niukka elantonsa, kuin eräs vanha tilastollinen 
@@ -71,7 +71,7 @@ const HomePage = () => {
         </p>
         <p>
           Mutta se ei ollut ainakaan tähdissä kirjoitettu, että asukkaat tuossa vanhassa hyvässä maakaupungissa saisivat iäti häiritsemätä viettää huomiota herättämätöntä elämäänsä. 
-          Sillä koittipa sekin päivä, jolloin heidän täytyi "korkeain asianomaisten käskystä" muuttaa huonejumalansa toiseen paikkaan.
+          Sillä koittipa sekin päivä, jolloin heidän täytyi <span className="quote">korkeain asianomaisten käskystä</span> muuttaa huonejumalansa toiseen paikkaan.
         </p>
         <p>
           Vuonna 1775 kunnioitti nimittäin kuningas Kustaa III käynnillänsä kaupunkia, ja antoi täältä säännöksen jonka mukaan Waasan hovioikeus perustettiin, jotapaitsi Suomi 
@@ -108,27 +108,27 @@ const HomePage = () => {
         <p>
           Joka sitten jatkaa matkaansa pitkin Helsingin maantietä eteenpäin tulee myöskin käymään tuolla suuresta näköalastaan ylistetyllä Hattelmalan harjulla joka jatkuu 
           kaupungin lounaspuolelle. Tämän huipulla on yksi patteri eli umpilinnoitus, joka vuoden 1808 sodassa luotiin. Tässä seisoi tappeluvalmiina ja varmalla päätöksellä 
-          joko voittaa tahi kuolla Suomen sotaväki, 6,000 miestä, ja odotti päästä koettelemaan voimiansa vihollisen kanssa. "Mutta silloin saapui Klingspor, otti arvollansa 
-          komennon, antoi käskyjä kuin Klercker, mutta käski pakohon"
+          joko voittaa tahi kuolla Suomen sotaväki, 6,000 miestä, ja odotti päästä koettelemaan voimiansa vihollisen kanssa. <span className="quote">Mutta silloin saapui Klingspor, 
+          otti arvollansa komennon, antoi käskyjä kuin Klercker, mutta käski pakohon.</span>.
         </p>
         <p>
           Ja maaliskuun 7 p. 1808, alkoi Vanhan Klerckerin ja Adlercreutz'in vastustuksista huolimatta suomalaisen sotajoukon häpeällinen paluumatka pohjoista kohti.
         </p>
         <p>
           Puoli peninkulmaa Hämeenlinnasta luoteeseen on Parolan kenttä, suuri lakeus, jossa 100,000 miestä tykkineen mukavasti saattaa harjoitella. Kustaa III määräsi lakeuden 
-          suomalaisen sotaväen harjoituskentäksi. Tässä taittoi "nerokuningas" vuonna 1782 pudotessaan hevosen selästä jalkansa eräissä harjoituksissa ja samassa paikassa piti 
-          keisari-suuriruhtinas Alexander II yleistarkastuksen suomalaisesta ruotuväestä, jonka muistoksi mainitun väen upseerit pystyttivät paikalle pronssisen leijonan (Parolan 
-          leijona). 
+          suomalaisen sotaväen harjoituskentäksi. Tässä taittoi <span className="quote">nerokuningas</span> vuonna 1782 pudotessaan hevosen selästä jalkansa eräissä harjoituksissa 
+          ja samassa paikassa piti keisari-suuriruhtinas Alexander II yleistarkastuksen suomalaisesta ruotuväestä, jonka muistoksi mainitun väen upseerit pystyttivät paikalle 
+          pronssisen leijonan (Parolan leijona). 
         </p>
         <p>
-          Vuoden 1850 alussa teetti läänin silloinen kuvernöri vapaaherra Rehbinder linnan pohjoispuolelle vankien avulla tuon kauniin kaupungin parkin, joka taidokkailla 
-          "raunioillaan", huvimajoillaan, varjokkailla metsillään ja hienolla juomalallaan on rakas pakopaikka kaupunkilaisille, kun kesän helle ja kuumuus on kovimmillaan. 
-          Korkeammilta huipuilta parkissa on viehättävä näköala yli linnan, kaupungin ja ihanan ympäristön.
+          Vuoden 1850 alussa teetti läänin silloinen kuvernöri vapaaherra Rehbinder linnan pohjoispuolelle vankien avulla tuon kauniin kaupungin parkin, joka 
+          taidokkailla <span className="quote">raunioillaan</span>, huvimajoillaan, varjokkailla metsillään ja hienolla juomalallaan on rakas pakopaikka kaupunkilaisille, kun kesän 
+          helle ja kuumuus on kovimmillaan. Korkeammilta huipuilta parkissa on viehättävä näköala yli linnan, kaupungin ja ihanan ympäristön.
         </p>
         <p>
           Järven, joka tässä muodostaa ainoastaan muutaman sylen levyisen salmen, toisella puolella on läpi hakometsän tehty tie tuolle jyrkälle Aulangon vuorelle, jonka juurella 
-          ympäröittynä viheriöillä puilla, makaa varjokas järvi, niin ihanan viehättävä, että käyttääkseen runoilian Z. Topeliuksen lausetta siitä, semmoista "ainoastaan löytää 
-          Skottlandissa ja Suomessa".
+          ympäröittynä viheriöillä puilla, makaa varjokas järvi, niin ihanan viehättävä, että käyttääkseen runoilian Z. Topeliuksen lausetta siitä, <span className="quote">semmoista 
+          ainoastaan löytää Skottlandissa ja Suomessa</span>.
         </p>
         <p>
           Täällä Aulangolla ottaa Hämeen luonto voiton, vaikka mailman melu on niin lähellä, kaupungissa. Yksinäisyyden valtava vaikutus leviää täällä vuorten ja metsäin, kirkkaan 

@@ -243,90 +243,6 @@ const Articles1914Page = () => {
         <p className="signature">Dö</p>
       </Article>
 
-      <div className="interTitle">12.2.1914</div>
-      <Article titleText="Hämeenlinnan kirje.">
-        <h5>Salakapakoiminen.</h5>
-        <h5>Muuan raittiuskomitean ehdotus. </h5>
-        <h5>Waltuustolle.</h5>
-        <h5>Ilmat</h5>
-        <h5>Poliisijärjestyksen 96 §.</h5>
-        <h5>Muistettawa tilaisuus.</h5>
-        <SubDivider className="dividerStyle" />
-        <p>Salakapakoiminen on hywässä Hämeenlinnassamme wiime aikoina hirwittäwässä määrässä lewinnyt. Monet trokarit harjoittawat luwatonta <span className="quote">afääriään</span> melko rohkeasti. 
-          Ulottawatpa sitä muuallekin. Eihän ole pitkä aika siitä, kun eräs täkäläinen <span className="quote">liikemies</span> muistaakseni Kajaaniin matkaessaan poikkesi suurta wiinawarastoaan 
-          tyhjentämään Lahteen, mutta joutuikin siellä kiinni ja warasto otettiin takawarikkoon. Äskettäin on tässäkin lehdesssä kerrottu useiden salakapakoitsijoitten oikeusjutuista. Toisia juttuja on 
-          tulossa. Muuankin nuorukainen kertoi oikeudessa wiime markkinoilla myyneensä 42 pulloa pirtua. Tämä kauppa on niin julkista, että muutamat warakkaat henkilötkin Myllymäessä owat antautuneet 
-          myrkyn myyjiksi.</p>
-        <p>Eiwät taida raittiuskahwilatkaan olla mallikelpoisella kannalla, koskapa muutamissa humalaiset saawat mellastella ja pullotella. Kuulin pienen jutelman eräästä juomingista. Pari 
-          palwelustyttöä oli ollut lystäilemässä eräiden wiinurien seurassa. Lopulta oliwat tytöt juopuneet siinä määrin, etteiwät tahtoneet pystyssä pysyä. Herrasmiehet oliwat wieneet 
-          piikaset <span className="quote">Tähti</span>-rawintolaan klo 4 ajoissa aamulla. Kohmelo oli pahasti sekoittanut matkustawaisten meiningit ja he jäiwät edelleen rawintolaan, jossa kertoiwat 
-          olewansa <span className="quote">ompelijattaria Turusta</span>. Kun tyttöjä ei kuulunut kotiin, tuliwat herraswäet kauhuihinsa katoamisen johdosta ja ilmoittiwat siitä poliisille. Pelättiin 
-          tapaturmaa tahi jotain rikosta. Kuinka olikaan. Poliisit löysiwät tytöt rawintolasta ja toimittiwat heidät palweluspaikkoihinsa, josta heidät sittemmin lienee wiety sairaalaan. Siis perin 
-          surullinen seikkailu, jonka seurauksia saawat katkerasti katua.</p>
-        <p>Monta muuta mustaa juttua olen kuullut, mutta jätän niiden kertomisen. Kaiken tämän johdosta olisi poliisiwiranomaisten pantawa niin wiinatrokarit kuin heidän <span className="quote">
-          hyysääjänsäkin</span> kireelle. Yksityisten kansalaisten on poliisia tässä toimessa awustettawa. Rawintoloita myöskin on pidettäwä tarkasti silmällä, ettei uusia <span className="quote">
-          Höglundin juttuja</span> pääse syntymään. Oireet siihen suuntaan jo käywät. Salakapakoiminen on kowin pitkälle kehittynyt. Sille on ajoissa saatawa sulku ja trokarit armotta kiinni. 
-          Ilmiantamiseen waaditaan luonnollisesti <span className="quote">siweellistä rohkeutta</span>, mutta kuitenkin on jokaisen kunnon kansalaissen welwollisuus saattaa julkisuuteen tunnetut 
-          rikokset, sanoo lahjomaton moraali, ja ennakkoluuloa on toisin wäittää.</p>
-        <p>Poliiseilta on waadittawa raittiutta. Muuten woi käydä, kuten äsken, että järjestyksen walwojakin tyydyttää juomahimoaan salakapakoitsijan warastosta.</p>
-        <SubDivider className="dividerStyle" />
-        <p>Ruotsin hallituksen joku wuosi sitten asettama suuri raittiuskomitea, on nyttemmin saanut walmiiksi ehdotuksen kunnalliseksi kieltolaiksi. W. k. 14 p. jätti komitea hallitukselle 
-          mietintönsä; se käsittää 400 painosiwua.</p>
-        <p>Seuraawassa kerron mietinnön pääkohdista. Ehdotuksessaan on komitea koettanut</p>
-        <p>1) asettaa kaikki erilaiset wäkijuomat samanlaisen käsittelyn alaisiksi;</p>
-        <p>2) kunnille walmistaa niiden päättäwien elinten ja täysiwaltaisten asukasten kautta ratkaisewa walta juowutusjuomaliikkeen supistuksiin tahi kieltämiseen nähden sekä luoda suurempaa 
-          tehoisuutta kuntien päätöksiin tässä suhteessa;</p>
-        <p>3) estää niin paljon kuin se on mahdollista wäkijuomain wäärinkäyttäjiä saamasta näitä aineita</p>
-        <p>Tämän lain alaisiksi lukee komitea kaikki juomat, joiden alkoholipitoisuus on suurempi kuin 2 1/4 wolyymiprosenttia. Wäkijuomien ja wiinien wälinen raja on alennettu 25:stä 21:een 
-          wolyymiprosenttiin. Juowutusjuomain kauppaa ei saa harjottaa muun liikkeen yhteydessä.</p>
-        <p>Mietinnön tärkein kohta on ehdotus kunnalliseksi äänestykseksi wäkijuomain wähittäiskaupan sallimisesta. Äänestys koskee kaikkia wäkijuomalajeja eikä sitä saa toimeenpanna useammin kuin 
-          aina kolmen wuoden kuluttua. Äänioikeutettu tässä äänestyksessä on jokainen kunnan kirjoissa olewa hywämaineinen 21 wuotta täyttänyt Ruotsin mies ja nainen, joka ei ole holhouksen tai 
-          waiwaishoitohallituksen edusmiehyyden alainen. Kullakin äänestäjällä on yksi ääni. Anomus kunnallisen äänestyksen toimittamisesta on kirjallisesti tehtäwä kuninkaan käskynhaltijalle ja 
-          täytyy sen olla wähintään kahdenkymmenennen osan kunnan manttaalikirjoissa olewista allekirjoittama. Jos kaksi kolmasosaa äänestäjistä äänestää juowutusjuomain wähittäiskaupan poistamisesta, 
-          astuu kielto woimaan. Tällaisen kiellon peruuttamiseen waaditaan niinikään kaksikolmasosan enemmistö.</p>
-        <p>Tämän ohessa herättäwät mielenkiintoa ne rajoitukset, joita komitea ehdottaa wäkijuomain wähittäismyyntiin ja jotka tietenkin owat woimassa siinä tapauksessa, ettei kieltoa kunnassa saataisi. 
-          Oikeus juowutusjuomain ostamiseen on nimittäin ehdotuksen mukaan ainoastaan sillä, joka kirjallisesti sitä pyydettyään ja annettuaan tarpeelliset tiedot henkilöstään ja saa wastakirjan 
-          määrätyssä wähittäiskaupassa tehtäwiä wäkijuomaosotuksiaan warten. Wäkijuomia ei saa myydä sille</p>
-        <p>joka ei ole täyttänyt 21 wuotta,</p>
-        <p>joka on tuomittu juopumuksesta kahden edellisen wuoden aikana,</p>
-        <p>joka wiimeisen kolmen wuoden kuluessa on tuomittu rikoslain säätämiin rangaistuksiin, jos oikeus on hawainnut rikoksen tapahtuneeksi wäkijuomien waikutuksen alaisena,</p>
-        <p>joka wiimeisen kolmen wuoden aikana on ollut kuritushuoneessa tai wankilassa,</p>
-        <p>joka wiimeisen kolmen wuoden aikana on tuomittu luwattomasta juowutusjuomain myynnistä tai luwattomasta juomain hankkimisesta toiselle,</p>
-        <p>joka kuninkaan käskynhaltijan määräyksen nojalla on otettawa alkoholistihoitolaan tai on wiimeisen kolmen wuoden aikana yleisessä tai yksityisessä laitoksessa ollut hoidettawana 
-          juoppohulluuden eli jonkun muun alkoholipsykoosin wuoksi, sekä se</p>
-        <p>jolta kunnan raittiusneuwoston päätöksen nojalla on kielletty wäkijuomain ostaminen.</p>
-        <p>Wiinaa ei saa kenellekään myydä enempää kuin 1 litra kalenteriwiikon aikana.</p>
-        <p>Wäkijuomain wähittäismyynti on kielletty yleisölle awoimissa puistoissa ja niiden wälittömässä läheisyydessä. Ei liioin saa niitä tarjoilla julkisen näytöksen tahi sirkuksen, warietèn tai 
-          tanssitilaisuuden yhteydessä. Anniskelua ei saa tapahtua sellaisessa huoneustossa, joka on wälittömässä yhteydessä tanssi- tai näyttelyhuoneuston kanssa.</p>
-        <p>Wähittäismyyntiaika on ehdotukssessa määrätty korkeintaan seitsemäksi tunniksi kello 9 aamulla kello 5 iltapäiwällä arkipäiwinä. Wiinan anniskelu saa alkaa aikaisintaan kello 12 päiwällä. 
-          Wiinin ja oluen anniskelu saa alkaa aikaisintaan kello 9 aamupäiwällä, kuitenkin niin että ennen klo 3 ip. saadaan anniskella ainoastaan ruoka-aikoina ja wain ruokaa nauttiwille wieraille. 
-          Wiimemainittu määräys on woimassa sunnuntaisin ja pyhäpäiwinä. Päiwäjumalanpalweluksen aikana on kaikki anniskelu kielletty. Anniskelu on lopetettawa kello 10 i.p.</p>
-        <p>Kieltolaki, jota kohti me pyrimme ja jonka eduskuntamme on jo kahdesti hywäksynyt, näkyy wiipywän ties kuinka kauan. Toimettomia emme saa kuitenkaan olla. Raittiuden harrastajille antaa 
-          naapurimaan kunnallinen kieltolaki paljon ajattelemisen aihetta. Siksi olen siitä tahtonut kertoa.</p>
-        <SubDivider className="dividerStyle" />
-        <p>Kun olen tässä raittiusasiasta näin pitkälle puhunut, tahdon lopuksi kiinnittää herrain waltuusmiesten huomiota siihen anomukseen, jonka täkäläinen raittiuswäki on tehnyt wäkijuomain 
-          anniskelun rajoittamiseksi. Raittiuswäki ei ole liikoja waatinut, joten sen anomus on otettawa huomioon. Muistakoot waltuusmiehet pääkaupungin isäin tekemiä rajotuksia.</p>
-        <p>Tänään päätetään siitä, monetko anniskeluoikeudet myönnetään. Nykyiseltä waltuustolta ei woi tietysti suuria toiwoa. Suomalaisen puolueen waltuusmiehet owat kuitenkin ehdottaneet, että yhdet 
-          oikeudet otettaisiin pois ja tehtäisiin kaupunginhotellista raitis matkustajarawintola. Tätä kohtuullista waatimusta owat ruotsalais-nuorsuomalaiset ruwenneet wastustamaan, jonka takia eräs 
-          suomalainen waltuusmies on ehdottanut sellaista rajoitusta, että mainitussa hotellissa tarjottaisiin yksinomaan matkustajille wäkijuomia.</p>
-        <SubDivider className="dividerStyle" />
-        <p>Ilmat owat wallan merkillisiä. On kowin pakkasaika, helmikuun puoliwäli, mutta luonto leikittelee, wiskelee wettä kuin huhtikuun lopulla. Mitä tästä enää tuleekaan, jos tällaista pitemmälti 
-          jatkuu. Lumi on mennyt kaiken maailman tietä ja jäätkin käywät heikoiksi. Kelirikko kukoistaa, käyttääkseni
-           kewätkieltä. Kärryillä ajetaan kuin toukokuussa. Ihmiset kummittelewat 
-          talwitamineissa. Paljon huolta ja wahinkoa tällainen talwi tekee jokaiselle, mutta warsinkin maamiehelle ja rahdinajajalle. Wanhat ennustawat, että maaliskuussa kylwetään ja toukokuussa 
-          ajetaan reellä. Se näkee, joka elää. Jos koskaan, niin nyt pitää paikkansa sananlasku: <span className="quote">Kewättä kynttelistä j. n. e.</span>.</p>
-        <SubDivider className="dividerStyle" />
-        <p>Poliisijärjestyksen 96 §:ä kummittelee ja tekee häiriötä edelleen. Mainittu pykälä kieltää jälleenmyyjiä ostamasta ennen määräaikaa, jonka johdosta he owat walitelleet senaattiin ja 
-          kuwernöörinwirastoon sillä seurauksella, että sakkotuomiot on kumottu ja 96 § selitetty ristiriitaiseksi elinkeinolain kanssa. Asian pitäisi siis olla selwä ja maistraatin muuttaman pykälä, 
-          kun se kerran on lainwastainen, niin tarpeellinen kuin se kaupunkilaisten mielestä olisikin. Mutta kuinka onkaan. Torikauppioille mätkitään uusia sakkoja, waikka entiset owat korkeimmissa 
-          wirastoissa kumotut. Ihmekö, että moinen menettely jälleen myyjiä harmittaa. He owat hakeneet oikeutta ja saaneet, mutta wain paperilla. Tuo on tosiaan kiusantekoa ja lain halweksimista.</p>
-        <p>Asia tulee tänään esille waltuustossa. Ristiriitaisuusnäytelmä on jo tarpeeksi kauan kestänyt. Toiwottawasti siitä jo tehdään loppu.</p>
-        <SubDivider className="dividerStyle" />
-        <p>H:linnan Suomal. Seuralla on sunnuntaina wuosikokous klo 7 ip. talollaan. Siellä keskustellaan ja päätetään tärkeistä asioista. Jäsenet, naiset ja miehet, rientäkääpä kokoukseen alkamaan 
-          uutta, reipasta, woitoista rikasta toimintawuotta! Miten innokkaaksi toiminta woitaisikaan saada, jos yhä useammat tulisiwat mukaan.</p>
-        <p className="signature">Tiitus.</p>
-      </Article>
-
       <div className="interTitle">14.2.1914</div>
       <Article titleText="Kaupunginvaltuuston kokouksessa">
         <p>wiime torstaina käsiteltiin m. m. seuraawat asiat:</p>
@@ -406,87 +322,6 @@ const Articles1914Page = () => {
         <p>Tahtoisimme siis sanoa: wähemmän ulkolaista, enemmän kotoista, rahansaantiehdot maanwiljelijöille edullisemmiksi, jotta joutilaina olewat työwoimat woitaisiin käyttää maanwiljelyksen 
           parantamiseen.</p>
         <p className="signature">Maalainen.</p>
-      </Article>
-
-      <div className="interTitle">21.2.1914</div>
-      <Article titleText="Hämeenlinnan kirje.">
-        <h5>200-wuotismuisto.</h5>
-        <h5>Kotoisen puolesta.</h5>
-        <h5>Naapurin pärskähdykset.</h5>
-        <h5>Suomen Pankki.</h5>
-        <p>T. k. 19 päiwä oli 200 wuotta kulunut onnettomasta Napuen taistelusta. Häwittyään Kostian wirralla oli Suomen armeija nälkää ja puutetta kärsien, ryysyisenä, huonosti asestettuna, mutta 
-          alituisesti taistellen askel askeleelta wäistynyt yliwoimaisen wihollisen tieltä. Syksyn routa oli hetkeksi keskeyttänyt sotatoimet, mutta talwen tultua alkoi wihollinen jälleen edetä.</p>
-        <p>Napuen kylän aukeilla, jonne Suomen armeija silloin jo oli ehtinyt, päätti Armfelt wielä kerran ryhtyä wastarintaan. Lumessa ja pakkasessa seisoi suomalaisten urhea joukko kolme päiwää 
-          täydessä taistelujärjestyksessä wihollista odottaen. Melkoinen määrä Pohjanmaan uljaita talonpoikia oli saapunut armeijan awuksi kotikontuaan puolustamaan.</p>
-        <p>Helmik. 19 pnä hyökkäsi wihdoin wihollinen. Sankka lumipyry sokasi suomalaisten silmät, mutta siitä huolimatta he pitiwat urheasti puoliaan. Taistelu oli wimmattua ja ennen pitkää se muuttui 
-          täydelliseksi käsikähmäksi. Iskettiin miekoilla, musketinperillä ja nyrkeillä. Kaatuneetkin koettiwat wielä tarttua wihollisensa jalkoihin ja wetää hänet maahan. Rintamassa taistelewat 
-          talonpojat käyttäytyiwät urheimpain sotamiesten lailla. Vihollisen yliwoima oli kuitenkin kolmikertainen ja wihdoin sankarillisen wastarinnan jälkeen sortui Suomen wiimeinen kowia kokenut 
-          armeija. Kun taistelu oli päättynyt, lepäsi suurin osa siitä jäisellä hangella, wain wähäinen jäännös oli lyöttäytynyt wihollisen läwitse painautuen Laihian tiettömiin metsiin.</p>
-        <p>Napuen taistelu on isänmaamme historian synkimpiä muistoja. Mutta samalla se kertoo kansasta, joka welwollisuutensa täyttäen uhrasi kaikki isänmaansa hywäksi ja joka epätoiwoon waipumatta 
-          on noussut kowimmankin kohtalon alta. Ja sellaisessa muistossa saattaa nykyisenä aikana olla paljon opettawaa.</p>
-        <SubDivider className="dividerStyle" />
-        <p>Suomalainen wiikko on wain muisto, mutta mielenkiinnolla sitä wieläkin ajattelee. Se ei ole kuitenkaan tarpeeksi kannustanut kotimaisten tuotteiden käyttämiseen. Senpä takia pidetäänkin 
-          täällä tänään kokous, jossa suunnitellaan mihin olisi ryhdyttäwä, jotta kotimaisen työn tuotteet Hämeenlinnassakin saawuttaisiwat kysyntää ulkomaisen edellä. Siltä waralta lienee sekä 
-          opettawaista että kehoittawaista kiinnittää huomiota siihen, mitä kaikkea tänne Suomeen tuodaan ulkomailta sellaistakin, jota omassa maassa on saatawana. Esitän tässä luettelon sellaisista 
-          tawaroista. Se ei suinkaan ole <span className="quote">tyhjentäwä</span>, eikä kaikki, mitä siinä on mainittu, ole <span className="quote">epäterweelliseen</span> tuontiin kuuluwaa.</p>
-        <p>Lintuja tuodaan tänne metsästyksen maahan 22,641 mkan edestä. - Hewosia tuotiin Wenäjältä w. 1910 176,187 mkn edestä. Näistä hewosista owat monet olleet alkuperäisesti suomalaista, joita 
-          wenäläiset owat aikoinaan ostaneet Suomen markkinoilta, sitten ajaneet ne loppuun Wenäjällä ja tuoneet takaisin Suomen markkinoille. - Luonnon woita tuotiin w. 1910 meille Wenäjältä 3,562,744 
-          mkan edestä ja m. m. Tanskasta 876,118 mkn edestä. - Munia on Wenäjältä tuotu wuosittain yli 2 milj. mkn edestä. - Kalat, ulkomaalaiset, weiwät wiime wuonna maastamme 4,745,186 mk. - Wiime 
-          wuonna meni rahaa ulkomaiseen wiljaan 87,346,151 mk. - Piparikakkuihin on tuhlattu 1,230,078 mk. - Hedelmiin on mennyt 8,685,428 mk. - Sieniä (syötäwiä) tuotiin maahamme w. 1910 yhteensä 
-          88,490 mkn edestä aina Ranskasta asti. - Siirtomaantawaroihin, joihin luetaan kahwi, sokeri, suola, tupakka y. m., meni w. 1912 yht. 57,948,895 mk. - Juomatawaroiden tilauksiin kului 10,595,832 
-          mk. - Sarwia ja sorkkia on tuotettu Wenäjältä ja Saksasta. - Jalkineita tuotiin eri maista 2,302,140 mkn edestä. - Lakinlippuja Saksasta 1,410 mksta. - Karjanrehua (heiniä, liiseitä ja kakkuja) 
-          tuotiin maahamme w. 1910 11,142,597 mkn edestä. - Olkia tuotiin ulkomailta 298,324 mkn edestä. - Lattiamattoja on tuotu 8,664 markan edestä. - Witsoja on tuotu ulkomailta 424,748 markan 
-          edestä. - Takkiaiset, etupäässä Saksasta ja Ranskasta tuodut, maksawat 2,448 mk. - Harjanwarret on tuotawa ulkomailta. Ei kaiketi osata meillä walmistaa. Niihin menetettiin 51,802 mk. - 
-          Piipunwarret (pajusta), mitkä nykyään owat muodissa, owat Saksassa walmistetut, eikä suomalaisista pajuista. Niissä on mennyt ulkomaille noin 10,000 mk. - Hammastikut tuodaan enimmäkseen 
-          Ranskasta ja Saksasta. - Paperia ja teoksia niistä tuodaan meille, warsinaiseen paperiwalmistusmaahan yhteensä 2,850,896 mk edestä. Tästä erästä wiewät esim. nimiliput 137,774 mk. Nimilippuja 
-          on tuotettu Turkin Aasiasta asti. - Nauhat ja hipsut owat maksaneet meille wiime wuonna 1,410,026 mk. - Pitseissä lähetettiin ulkomaille, etupäässä Ranskaan, 699,028 mk. Kalawerkkoja on tuotu 
-          meille 545,172 mk edestä. - Palttinaan on pantu wiime wuonna rahoja 424,440 mk. - Naisten hatut owat wieneet ulkomaille 998,808 mk. Hattujen ja lakkien ostossa on lähetetty ulkomaille 
-          655,377 mk. Housunkannattimet ja sulkanauhat owat maksaneet meille 413,009 mk. - Sateen- ja päiwänwarjot owat maksaneet 46,589 mk. - Vuodewaatteita on tuotu 57,833 mk:n arwosta. - Terwaa ei 
-          kaiketi Suomessä enää polteta. Tawallisen terwan tuontimäärä oli w. 1912 147,184 mk:n arwosta. - Saippuaa tuotiin wiime wuonna 107,964 mk:n arwosta. Kaunottawia aineita, mihin ryhmään 
-          luetaan kaikenlaiset ruusu- lawenteli- y. m. öljyt, hywänhajuiset pumaadat ja puuterit, tuotiin maahamme 1,092,233 mkn edestä. Sawea (ei tulen kestäwää) 434,691 mkn arwosta. - Tiiliä (muuri, 
-          ja kattotiiliä) tuotiin maahamme 785,601 markalla. Norjalaisista tiilistä on rakennettu m. m. Lahden ja Joensuun kaupungintalot. - Walokuwauskoneissa on mennyt ulkomaille 136,368 mk. - Pianot 
-          owat wieneet ulkomaille 989,593 mk. - Soittimet ja niihin kuuluwat wälineet weiwät yli puolen milj. mk ulkomaille. - Taskukelloja on meille tuotu aina Amerikasta asti ja maksettu niistä 
-          1,299,128 mk. — Ajoneuwoja (nelipyöräisiä) tuotiin 1,198,208 mk:n arwosta. - Rekiä on tuotu Wenäjältä 17,044 mk:n edestä ja Ruotsista ja Saksasta 1,250 mk:n arwosta. - Lastenwaunuja 
-          tuotiin 98,654 mk:n edestä. - Työkärriä, joita on tuotu aina Alankomaista asti, on tuotu neljännesmilj. mk:n arwosta. - Kirjankansia on ostettu 81,736 mk:n arwosta. - Konttorikirjoja tuotiin 
-          41,111 mk:n arwosta. - Lastenlelut weiwät maasta w. 1912 614,504 mk. Niitä tuotiin aina Yhdyswalloista asti. - Ongenkoukkuja on meille tullut Italiasta asti. Niistä on mennyt ulkomaille 
-          44,631 mk.</p>
-        <p>Kuten edelläolewasta luettelosta näkyy, on siinä paljon sellaisia tawaroita, joiden ulkomailta tuottaminen on suorastaan kansallisen alennuksen ja saamattomuuden todistus. On todella syytä 
-          tehdä mitä suinkin woidaan, että tämänlaatuinen luettelo wastaisuudessa hywäsestään lyhenisi.</p>
-        <SubDivider className="dividerStyle" />
-        <p>Kateus ei ole kehuttawa ominaisuus. Päinwastoin. Sitä sairastaa naapurilehti <span className="quote">Hämetär</span>. No miksi? Naapuria harmittaa <span className="quote">Häm. 
-          S:ain</span> lewiäminen, eli kuten se sanoo, <span className="quote">lewikin hankinta</span>. Johan sitä wähemmästäkin sappi kiehuu. Minkäs me sille mahdamme, 
-          ettei <span className="quote">Hämetär</span> lewiä. <span className="quote">Hämettären</span> mielestä on tämä lehti wuoden lopulla <span className="quote">kiekunut ja kehunut</span> lauantaisin 
-          ilmestywänsä tämän wuoden alusta 8 siwuisena. Tästä on naapurin mieli käynyt sangen apeaksi. Olen minäkin tuota <span className="quote">kiekumista</span> seurannut, mutta en ole sellaista 
-          lupausta huomannut kuin <span className="quote">Hämetär</span> wäittää. Tässä lehdessä on luwattu tarpeen tullen julkaista lauwantaisin 8 siwuisia numeroita. Minusta naapuri on siis puhunut 
-          wastoin parempaa tietoaan <span className="accent">waletta</span>.</p>
-        <p>Muut lehden huomautukset käywat samaan suuntaan. Maatalous- ja Riihimäen osastot owat paljon harmia tuottaneet naapurille. Ja syystäkin. <span className="quote">Hämetärtä</span> lähetettiin 
-          wuoden waihteessa ilmaiseksi m. m. Riihimäen ja Lopen suomenmielisille - muitahan ei niissä kunnissa juuri olekaan -, joiden luultiin wastapalkaksi tilaawan kutsumattoman wieraan kuluwaksi 
-          wuodeksi, mutta lehden kauniit toiweet raukesiwat tyhjiin. Onhan siis syytä harmiin. Maataloutta sentään muuan suomalainen agronoomi antaa wirkansa puolesta samalla 
-          kertaa <span className="quote">Hämettärelle</span> kuin tälle lehdelle, josta lehti ratkeaa riemuhuutoon. Sen awun lehdelle suomme. Ainahan me suomenmieliset olemme tasapuolista ja muistamme 
-          panettelijoitammekin.</p>
-        <p>No niin. Olen liiankin paljon puuttunut tästä lehdestä <span className="quote">hellästi</span> huolehtiwan naapurin pärskähdyksiin. Naapuri on unohtanut, että tuomaripöydän taa asettuwalta 
-          henkilöltä waaditaan wakaata mieltä ja rehellisyyttä. Jollei näitä ominaisuuksia ole, käy kuin <span className="quote">Hämettären</span> wäitteiden. Omien asioittensa hoitamisessa näkyy 
-          naapurilla olewan kyllin työtä, joten on tarpeetonta sekaantua toisten asioihin. Olisthan minullakin yhtä ja toista naapurin suhteen huomautettawana, mutta <span className="quote">parempi 
-          laiha sowinto kuin lihawa riita</span>.</p>
-        <SubDivider className="dividerStyle" />
-        <p>Taksoituslautakunta on jälleen saanut työnsä loppuunsuoritetuksi, jonka jälkeen taksoitusluettelo on pantu nähtäwäksi Raatihuoneen eteiseen. Täällä saawat weronmaksajat käydä katsomassa, 
-          kuinka kohtuullisesti lautakunta on kullekin weroäyrejä tuominnut, wai onko syytä walitukseen. Ennen oli sanomalehtien tapana säästää heiltä tämä waiwa julkaisemalla wiikkokaupalla 
-          taksoituslautakunnan kuiwia numerosarjoja, mutta parina wiime wuotena owat ne kuitenkin tästä tawasta luettelon laajentumisen takia luopuneet, tyytyen antamaan wain enimmin werotetuille 
-          tiedon heidän äyrimäärästään.</p>
-        <p>Mielestäni tapahtuu tässä kuitenkin kohtuuttomuus. Enimmin werotetut, joilla tawallisesti on myöskin enimmin aikaa ja jotka myöskin parhaiten kykenisiwät maksamaan, waikka heidän tulonsa 
-          olisiwatkin arwioidut liian suuriksi, saawat täten yhä edelleen mukawasti, askeltakaan ottamatta tiedon heitä kohdanneesta werotuksesta, jota wastoin wähempiwaraiset, joilla useimmiten on 
-          edellämainittuja mahdollisuuksia paljon wähemmässä määrässä, saawat, elleiwät itse sitä ole huomanneet hankkia, werotuksestaan tiedon wasta werolipun muodossa, jolloin on myöhäistä ryhtyä 
-          walituksiin, waikka werotus olisi kuinka harhaantunut tahansa.</p>
-        <p>On kuitenkin kohtuutonta waatia sanomalehtiä wähäisestä tilastaan uhraamaan palstamääriä pitkille werotusluetteloille. Mutta eikö sen sijaan kaupunki saattaisi ryhtyä niitä painattamaan ja 
-          jakamaan kullekin weronmaksajalle. Jo pelkän kohteliaisuuden werotettuja kohtaan luulisi tätä waatiwan.</p>
-        <p>Tänä wuonna on kuitenkin liian myöhäistä ryhtyä asian waatimiin toimiin, mutta ehkä olisi syytä harkita, eikö jo ensi wuonna woitaisi sitä toteuttaa.</p>
-        <SubDivider className="dividerStyle" />
-        <p>Puoluelaitokseksi tahdotaan tehdä Suomen Pankin Hämeenlinnan konttori, jonka diskonttokomitean jäseneksi on walittu yksinomaan ruotsalaisia ja heidän kannattajiaan huolimatta siitä, että 
-          suomalainen wäestö muodostaa täällä waltawan enemmistön. Yksi muutos on tapahtunut, warat. Idestamin sijaan on walittu ent. lääninsihteeri Chydenius. Mitenkä yksipuolisesti asiat tulee 
-          hoidettua ja suomalainen liikemiessääty lapsipuolen asemaan, sen tietää sanomattakin. Pankin täkäl. konttorin johtajana on ruotsinmielinen mies, samaan joukkoon kuuluwat muutkin wirkailijat. 
-          Siis puhdasta, walittua wäkeä.</p>
-        <p>Yksityisetkin pankit yrittäwät olla tasapuolisia, mutta waltion pankki ei wain siitä näy wälittäwän.</p>
-        <p className="signature">Tiitus.</p>
       </Article>
 
       <div className="interTitle">24.2.1914</div>
@@ -576,7 +411,7 @@ const Articles1914Page = () => {
           on tarkoitettu wastapainoksi paljon lewinneelle Työmies-paperossille, johon kulutetut rahat menewät elleiwät suorastaan ulkomaille niin ainakin muukalaiselle miehelle. Saatamme mielihywällä 
           wakuuttaa <span className="accent">Walio-Tilaus</span> sawukkeen loistawasti wetäwän wertoja „Työmiehelle”, jopa ehdottomasti wiewän siitä woitonkin.</p>
         <p>Tiedämmehän, että kotimaista tupakkateollisuuttamme uhkaa nykyään ulkomaiselta taholta suuri waara. Sen wuoksi onkin jokaisen kunnon suomalaisen tupakkamiehen tarmolla ruwettawa 
-          kannattamaan kotimaista tupakkateollisuuttamme. Ensimäisten joukossa on tälöin muistettawa <span className="accent">Borgströmin tupakkatehtaan</span> oiwallisia walmisteita.</p>
+          kannattamaan kotimaista tupakkateollisuuttamme. Ensimäisten joukossa on tällöin muistettawa <span className="accent">Borgströmin tupakkatehtaan</span> oiwallisia walmisteita.</p>
       </Article>
 
       <div className="interTitle">17.3.1914</div>
@@ -695,7 +530,7 @@ const Articles1914Page = () => {
           päiwää. Pääkaupungissa käsitellään wäliin 50 asiaa tunnissa, mutta meillä ne käännetään, wäännetään pitkin ja poikin, ettei tule puolikypsää, kuten siellä Helsingissä kait.</p>
         <p>Suurkysymykseksi muodostui tanssilawan rakentaminen Puistoon. Siitä piisasi juttua. Keskustelun alotti „isä” Sjöstedt puhuen wakawia sanoja tanssikuumetta ja lawan ratentamista wastaan. 
           Huomautti lisäksi nykyisestä wakawasta ajasta, jolloin pitäisi huwitulwalle tehdä sulkuja. „Isä” Karisto ei pitänyt lawaa tarpeen waatimana ja katsoi laulujuhlain muistoa loukattawaksi, 
-          jos lawasta tehdään tanssipaikka. „Isä” Tarjanne huomautti, ettei pakkokeinolla woida ihmistä parantaa. Puoisi lawan rakentamista. Nousipa jälleen ylös „isä” Sjöstedt ja antoi 
+          jos lawasta tehdään tanssipaikka. „Isä” Tarjanne huomautti, ettei pakkokeinolla woida ihmistä parantaa. Puolsi lawan rakentamista. Nousipa jälleen ylös „isä” Sjöstedt ja antoi 
           wirkaweljelleen mitä kuului sekä lisäsi, ettei hän ymmärrä tämän ajatuksia. „Isä” Böök: Meillä tanssitaan 9 kk. seinien sisällä, joten pitäisi hywin woitaman olla 3 kk. luonnon helmassa 
           tanssimatta. Nuorisoyhdistykset owat muodostuneet pelkiksi tanssiseuroiksi. „Isä” Tarjanne pani wastalauseensa „isä” Böökin lausuntoa wastaan, että nuorisoseurat olisiwat pelkkiä 
           tanssiyhdistyksiä. Hra B. huomautti, että hän ei sellaista ole nuorisoseuroista tarkoittanutkaan sanoa. „Isä” Laurela ei tahtonut rajoittaa nuorison wapautta, muistuttaen „isiä”, että hekin 
@@ -723,6 +558,174 @@ const Articles1914Page = () => {
         <p>„Isä” Böökiä ei koko suukopu miellyttänyt. Hän ehdotti, että istuntoja pidettäisiin wain kerran kuukaudessa, eikä kahdesti, kuten nyt. Se auttoi. Tappi pantiin kiinni ja isät lähtiwät 
           mietteissään pois.</p>
         <p className="signature">Siwullinen.</p>
+      </Article>
+
+      <div className="interTitle">7.4.1914</div>
+      <Article titleText="Hämeenlinnan maistraatti.">
+        <p>Kun Hämeenlinnan maistraatin muut jäsenet, paitsi w. t. puheenjohtaja, how. ausk. H. W. Rauler, on wäkiwaltaisesti wiety Pietarin wankilaan, ei maistraatti ja raastuwanoikeus woinut wiime 
+          lauantaina määräaikana alkaa istuntoaan, jonka takia w. t. puheenjohtaja ilmoitti asiasta lääninkuwernöörille ja pyysi tätä määräämään toisen raatimiehen, kun ylioppilas G. Salmi oli 
+          suostunut kunnallisraatimieheksi. Kuwernööri määräsikin samana päiwänä ylioppilas G. Salmen ja lääninregistraattori G. Karhin toistaiseksi raatimiehiksi.</p>
+      </Article>
+
+      <div className="interTitle">18.4.1914</div>
+      <Article titleText="Kaupungin „isien” neuvostosta.">
+        <p>Isien torstainen kokous oli kuiwanlainen, johon ei tahdottu saada mitään waihtelua. Waihdoksia kokouksessa tapahtui. Sihteerilleen antoiwat isät lyhyen kewätloman, ja hywäksyiwät w. t. 
+          sihteeriksi wankien johtajan B. Andersinin. Aina waan wankilan miehet ohjaksissa. Wakinainen sihteeri on wankilan miehiä ja isien puheenjohtaja on entinen wankilanjohtaja. Siiwollisuudesta 
+          ja säädyllisyydestä ei siis ole hywä poiketa. Hra sihteeri antoi näytteen sisäluwussa, mutta kirjelmä lienee ollut epäselwä, kun puheenjohtajan täytyi edesauttaa „louhimista”.</p>
+        <p>Isiä itseä ei kuiwat kysymykset ikäwystytä siitä päättäen, että hylkäsiwät isä Böökin ehdotuksen istuntojen pitämisestä wain kerran kuussa.</p>
+        <p>Isä Laurelan ehdotus terweys- ja sairastenhoitoa koskewien ohjesääntöjen uusimisesta ei miellyttänyt isä Tarjannetta, jonka mielestä ehdotuksen tekijän olisi pitänyt esittää kirjallinen 
+          ja perusteltu anomus.</p>
+        <p>Kansakoululääkärin palkanmaksutapaan isät tarrasiwat innolla kiinni. Lääkäri Manner oli nostanut palkkansa 9 kertaa wuodessa á 100 mk. Tämän johdosta saiwat isät aiheen huomauttaa, että 
+          wuodessa on 12 kuukautta y. m. yhtä uutta. Isä Sjöstedt piti wirkaa „koruwirkana”, jota nimitystä wastaan isä Tarjanne pani wastalauseen. Palkka päätettiin wastedes maksaa kuukausittain.</p>
+        <p>Kysymysten kuiwuus ja kewään wäkewä wetreys alkoi waikuttaa isiimme. Hra Tarjanne aikoi wiedä heidät puiston rantaan uimaan, mutta isä Laurela pani wastaan, pitäen Tarjanteen ehdotusta 
+          uimahuoneen rakentamisesta huonosti perusteltuna ja tarkoituksena olewan saada „uimahuone ryssille”. Isät totteliwat Laurelan warotusta ja tappoiwat koko uimajutun. Kun uiminen onnistui näin 
+          huonosti, yritettiin mennä saunaan, mutta sitä ennen waati kunnallissaunan johtokunta wihta- ja saippuarahaksi 5,000 mk. nyt ja saman määrän wastedes wuosittain. Eräitä isiä tällainen 
+          nylkeminen harmitti. Isä Karisto wastusti saunaanmenoa. Laitoksen suhteen on tehty laskuwirheitä ja hoito on ollut puutteellista. Ne kymmenettuhannet, mitä saunaa warten on uhrattu, saawat 
+          riittää. Saunan tulewaisuus on mahdoton, kun johtokunta lupaa wastedeskin tappiota. Tehköön yhtiö konkurssin tai myyköön saunan yksityiselle, kun yksityiset kerran kykenewät pitämään 
+          saunansa kannattawina. Isä Sjöstedt arweli hoidon olewan puutteellista, jonka takia yleisö ei käytä saunaa. Epäkohtia löytyy, waatetushuoneet owat hikisiä ja erottaa niitä toisistaan wain 
+          pienet lautaseinät. Toiwoi yhtiölle tulewaisuutta, mutta wastusti 5,000 mkn kenkkäämistä. Isä Wartia mainitsi tappioiden wähentyneen 7,000:sta 4,000:een ja arweli liikkeen wielä tuottawan 
+          woittoakin. Isä Laurela tiesi liikettä hywin hoidettawan, mutta ihmiset owat wesijohdon saatuaan rakentaneet kylpyhuoneita, joten saunan tarwitsijain luku on wähentynyt.</p>
+        <p>Olihan siellä isän neuwostossa wielä muitakin juttuja, mutta niistä toisessa paikassa lehteä.</p>
+        <p className="signature">Justus.</p>
+      </Article>
+
+      <div className="interTitle">21.4.1914</div>
+      <Article titleText="„Harhateillä.”">
+        <p>Wiime aikoina owat sanomalehdet tietäneet kertoa, että senaatin asettama waliokunta ottaa wiimeinkin, wiiden wuoden odotuksen jälkeen eduskunnan hywäksymän kieltolain käsitelläkseen ja 
+          antaa siitä lausuntonsa. Raittiusjärjestöt owat tämän johdosta ilmituoneet kansan hartaan toiwon olewan, että asia ratkaistaisiin myönteiseen suuntaan. Eri puolilta maatamme owat 
+          raittiuswäen lähestystöt käyneet senaatissa ja sen puheenjohtajan, kenraalikuwernöörin luona ja suorin ja rehellisin sanoin huomauttaneet, miten kansamme waltawa enemmistö tämän lain 
+          wahwistusta odottaa ja kuinka H. M. Keisari jo 5 wuotta sitten on kehoittanut senaattia laatimaan kieltolain. Aiwan äskettäin on H. M. Keisari käskenyt Wenäjän rahaministeriä 
+          työskentelemään raittiusystäwälliseen suuntaan, joten sekin on raittiuswäkeä kannustanut uusiin ponnistuksiin.</p>
+        <p>Ruotsinkieliset lehdet, jotka aina owat esiintyneet kieltolain wastustajina - koskeehan asia heidän taloudellisia etujaan -, owat rientäneet leimaamaan raittiuswäen äskeiset toimenpiteet 
+          tuomittawaksi, epäisänmaaliseksi teoksi. Käynti hallitusmiesten puheilla on ollut muka „epäterwettä liehakoimista”, häpeällistä ja korwaamattomia elämänarwoja repiwää työtä, 
+          raittiushumalasta johtunutta, j. n. e. „Dagens Press” puhuu lisäksi iwallisin sanoin kenraalikuwernöörin suosiollisesta kädenpuristuksesta, lähetystön uskosta isälliseen hallitukseen y. m. 
+          Lehti wiittaa wielä kaupunkikuntain tekemiin wäkijuomakauppain rajoituksiin, jotka lupaawat mitä parhaita tuloksia.</p>
+        <p>Perin tuttua puhetta. Samaan nuottiin owat kieltolain wastajat ennenkin wiserrelleet!</p>
+        <p>Näin kirjoitti ruotsalainen lehti torstaina. Esimerkki on tarttunut nuorsuomalaisiin lehtiin. Perjantainen „Hels S.” lyö lähetystöä, jossa oli edustajia kaikista suomalaisista puolueista, 
+          oikein olan takaa. Lähetystö on muka unohtanut, että wetoaminen kenraalikuwernööriin muuttuu jonkinlaiseksi „luottamuksenosoitukseksi sortowallan edustajalle” ja nykyiselle järjestelmälle. 
+          Turwautuminen häneen käännetään aseeksi meitä itseämme wastaan waikeassa oikeustaistelussamme. Onpa kaiken päälle poikettu „todellisesta kansanwaltaisesta ajatustawastakin”! Lehti wiittaa 
+          lopuksi, Krestyyn wietyihin wirkamiehiin. Sekä lausuu wielä, että täten on hämmennetty kotioloissa oikeustajuntaa ja käsitystä wainowallan tarkoituksista ja „sortajan luo ei niin mennä” 
+          eikä oteta wastaan hänen kädenpuristuksiansakaan.</p>
+        <p>„Tamp. S.” lyö isoa rumpua ja „edistysmielisyydessään" wäittää, että kieltolain toteuttaminen nykyisissä oloissa aiheuttaisi mitä arweluttawinta sekasortoa. Tuntuu siltä kuin tämä 
+          nuorsuomalainen lehti ei olisi niin huolissaan lähetystöstä kuin kieltolain hywäksymisestä. „Hbl:n” tawoin opettaa lehti hallitusmiehille finanssipolitiikkaa, huomauttaen kieltolain 
+          woimaansaattamisen lakkauttawan palowiinaweron ja malassuostunnan sekä wähentäwän tullituloja. Lehti ei näy tietäwän, etteiwät waltiotaloudelliset seikat pane esteitä kieltolain 
+          toteuttamiselle, kuten eräs hallituksen jäsen on lähetystölle maininnut. „Hbl.” ja „Tamp. S.” jääwät nyt yksin näitä taloudellisia waikeuksia murehtimaan.</p>
+        <p>Pääasiallisin syy, joka on mainittu epäilyttäwän kieltolain toteuttamista, on mahdollinen luwattoman wäkijuomaliikkeen entistäänkin suurempi esiintyminen.</p>
+        <p>Kun ruotsalaiset owat tawan takaa salakähmäisesti rawanneet hallituksen portaita, asettuwat heidän lehtensä hywinkin hiljaisiksi, mutta kun raittiuswäki koettaa waikuttaa asiansa 
+          hywäksi awoimesti, huutawat samat lehdet „epäeterweellisestä liehakoimisesta” ja „harhateistä”. Ruotsalaiset owat lukemattomat kerrat wedonneet nykyisen wirkawallan edustajiin saadakseen 
+          kumoon eduskunnan hywäksymän kieltolain, kätelleet ja kumarrelleet heitä sekä unohtaneet „jäykän epäwirallisuuden”. He owat pyrkineet waikuttamaan ulkowaltoihin, m. m. Ranskaan, jotta 
+          sieltäpäin asetettaisiin esteitä kieltolaille ja Hallitsijan päätökselle. Pienistäkin rajoituksista owat he walitelleet. Hallituksessa, jota „perustuslailliset” niin hirweästi kammowat, 
+          on enemmistö ruotsalais-nuorsuomalaisen puolueen luottamusta nauttiwia miehiä, jotka tekewät alkutyöt ja esittelewät asiat senaattoreille. Kieltolakiasiankin tulee esittelemään eräs 
+          huomattu ruotsalaisen puolueen mies, jota lähetystä myös puhutteli. Miksi ei waadita näiltä miehiltä jäykkää wirallisuutta? Jäykkyyttä ei ole liioin waadittu rautatielähetystöiltä ja 
+          arpajaisten anojilta eikä monilta muilta lähetystöiltä.</p>
+        <p>Nämä raittiuswäen lähetystöstä pahentuneet „perustuslailliset” joutuwat nyt omituiseen waloon. Eräs pääkaupungin lehti kertoo lauantaina, että Pietarin teitä kulkemalla on koetettu tehdä 
+          mitättömäksi Helsingin waltuuston päätös, jonka mukaan ei kesäk. 1 pstä myönnetä mitään erikoisia wiinien ja muiden miedompain wäkijuomain wähittäismyyntioikeuksia yksityisille. Tästä 
+          hywästä päätöksestä walittiwat wiinikauppiaat kuwernööriin. Sen jälkeen owat nämä „isänmaallisuudestaan” kerskuwat „sankarit” tulleet Pietarin teitä ja sitä warten käyttäneet wielä jonkun 
+          ulkomaalaisen konsulinkin apua. Konsuli aikookin käyttää waikutustaan epäterweelisten sekoitusten, „holipompelien myymäläin” oikeuksien jatkamiseksi, waikka nämä kauppiaat tuskin 
+          nimeksikään owat käyneet kauppaa alkuperäisillä ulkomaan wiineillä. Neuwottelut owat jatkuneet kuwernöörin ja sen yläpuolella olewien wiranomaisten wälillä. Senaatin enemmistökin lienee 
+          asettunut wiinikauppiaiden puolelle. </p>
+        <p>On kuin kohtalon iwaa, että tieto tästä salakähmäisyydestä ja kuntaimme itsehallintoa uhkaawasta iskusta tuli tietoon juuri samaan aikaan, jolloin raittiuswäkeä on yksitoistatuumaisilla 
+          paukutettu ja prikattu yksityisiä lähetystön jäseniä.</p>
+        <p>Miksi syyttäjäin ääni on käynyt hiljaisemmaksi? Miksi ruotsalaiset lehdet waikenewat? Wiinamiesten hommat owat wain „arwelluttawia”, mutta raittiuswäki on tehnyt itsensä syypääksi 
+          epäterweeseen liehakoimiseen! Miksi on näin äkkiä unohdettu Krestyn wangit, „sortowallan edustajat”, itsehallintomme ja oikeusjärjestyksemme häwittäminen, „luottamuksenosoitus sortowallan 
+          edustajille”? Tuomitsijat, oletteko nukkuneet?</p>
+        <p>Wiinikauppiaat owat wääristelleet kansan mielipidettä, toimineet salakähmäisesti, koettaneet saada kumoon waltuuston päätöksen, järkyttäneet kuntain itsehallintoa ja hääräileet itsekkäissä 
+          ja yksityisissä pyyteissä. Raittiuswäki taas on toiminut wallan awoimesti, walwonut kansan etuja ja onnea ja pyytänyt eduskunnan lailiselle päätökselle suotuisaa tulosta ja kehoittanut 
+          säätämään kansalle kerran mieluisenkin lain.</p>
+        <p>Kumpi lähetystö on häpäissyt itsensä ja kumpi on tehnyt epäisänmaallisemman teon?</p>
+        <p className="signature">Minä.</p>
+      </Article>
+
+      <div className="interTitle">23.4.1914</div>
+      <Article titleText="Rengon mäkien alentaminen.">
+        <h5>Wangit töitä tekemään.</h5>
+        <p>Mikäli olemme kuulleet, on Hämeenlinnan ja Rengon waltamaantiellä olewien mäkien tasoittamista pohtiwissa piireissä herännyt ajatus saada käyttää täkäläisen lääninwankilan wankeja 
+          mainittuun työhön ja on tästä anomukstakin jo tehty. Wankien tasoitettawaksi jäisi ainakin maantien Hämeenlinnan puoleisessa päässä olewat suurimmat mäet.</p>
+        <p>Anomus on jo jätetty wankeinhoitohallitukseen. Waltiolta aijotaan anoa työkaluja tasoitustöitä warten.</p>
+        <p>Wangit owat aikoinaan mainitun maantien rakentaneetkin. Suotawaa olisikin, että wangit toimitettaisiin tällaiseen waatiwampaan yleishyödylliseen työhön.</p>
+        <p>Kuten tunnettua, on kysymys Rengon mäkien tasoittamisesta saanut alkunsa maanwiljelysneuwos Bremer-wainajan tarkoitukseen tekemän testamenttilahjoituksen johdosta.</p>
+        <p>Wiime sunnuntaina pidetyssä kokouksessa päätettiin ottaa insinööri O. Nero töiden asiantuntijaksi ja silmämääräisen tutkimuksen toimittajaksi.</p>
+        <p>Töitä tehdään ensin kolme wuotta.</p>
+      </Article>
+
+      <div className="interTitle">28.4.1914</div>
+      <Article titleText="Isorokko maaseudulla.">
+        <p>Työm. Mikkola, joka oli jonkun aikaa isoonrokkoon sairastumisensa wuoksi hoidettawana Hollolan kulkutautisairaalassa lähellä Lahtea, on nyttemmin toipuneena päästetty sairaalasta.</p>
+        <p>Kaupustelija Kilpinen, Hollolan Lahdenkylästä, on kaupustelumatkoillaan sairastunut isoonrokkoon. Hänen oli jäätäwä Walkealassa sairaalaan hoidettawaksi.</p>
+        <p>Wiides Riihimäellä isoonrokkoon sairastunut on työläinen Tyyne Aalto Jokikylästä. Yleistä rokotusta paikkakunnalla jatketaan. Tyyne Aalto eristettiin t. k. 20 päiwä ja on wiety 
+          wäliaikaiseen sairaalaan. Hän työskenteli höyrysahalla. Sahan työmiehistö on rokotettu t. k. 21 p. Rokotettujen lukumäärä on 185 sahalla. Kunnallislautakunta on määrännyt yleisen 
+          rokotuksen. Poisjääneet on määrätty tuotawaksi poliisiwoimalla.</p>
+        <p>Warowaisuutta taudin suhteen on muistettawa!</p>
+        <p>Kuusjoen pitäjässä on sairastunut kokonainen perhe isoonrokkoon.</p>
+        <p>Epäiltyjä tapauksia on sattunut Koskella (T. l.) ja Tampereella.</p>
+      </Article>
+
+      <div className="interTitle">5.5.1914</div>
+      <Article titleText="Sotaa sodan vuoksi.">
+        <p>Eräs meikäläinen politiikko huomautti kerran, että jos meillä olisi taisteltawa todellista, järjestelmällistä sortopolitiikkaa wastaan, olisi meidän paljoa helpompi ehättää edelle ja 
+          tehdä sille tokeita, mutta wenäläisten politiikka tässä maassa ei ole mitään politiikkaa, heidän pyrkimystensä piiri el ole millään tawoin rajoitettu, he eiwät itsekään tiedä mitä 
+          kaikkia he tahtowat, ja heidän menettelytapansa on joka kerta erilainen. Ei ole näin ollen mitään erikoinen ihme, että yksin tuo kaikki mahdolliseksi tekewä „yhdenwertaisuus”-lakikin on 
+          jo useamman kerran tullut heille itselleen kompastuskiweksi.</p>
+        <p>Tämä käsitys on warmaankin pilkusta pilkkuun oikea. Wenäläiset wakuuttawat yhtä ja tekewät toista. Säännöllisesti. Heidän waikuttimistaan on yksi ainoa meille täysin selwä ja warma, ja 
+          se on se, että he tekewät kaiken woitawansa saadakseen aikaan ja ylläpitääkseen hämminkiä ja sekasortoa tässä „rajamaassa”.</p>
+        <p>Tuoreimpana todistuskappaleena tästä on se, että eduskunnan wiime waltiopäiwillä hywäksymät asetusehdotukset wenäläisten elinkeino- ja kunnallisista oikeuksista sekä ehdotus uudeksi 
+          elinkeinolaiksi owat, tultuaan ensin ministerineuwostossa, nyt korkeimmassakin paikassa tulleet hyljätyiksi. Syynä on ilmoitettu, että nämä asiat kuuluwat yleiswaltakunnallisen 
+          lainsäädännön piiriin ja owat jo „yhdenwertaisuus” -lain awulla järjestetyt.</p>
+        <p>Suomen eduskunta oli näillä asetusehdotuksillaan tahtonut ojentaa sowinnon käden, se oli tahtonut osottaa, että meillä ollaan alttiita ja walmiita uhrauksiin sopusoinnun ja 
+          yhteisymmärryksen aikaansaamiseksi. Wenäjällä on tämä kyllä käsitetty, on tajuttu, minkä raskaan kuorman kansamme uupuneilta hartioilta nyt olisi ollut helppo wierittää pois, mutta sitä 
+          ei ole tahdottu wierittää. On edelleenkin haluttu pitää wireillä tätä ristiriitaa, joka jo nyt on waatinut meiltä niin monta uhria ja, joka edelleenkin ja yhä taajempaan tulee raskaita 
+          uhreja waatimaan.</p>
+        <p>Me olemme siis edelleen umpilujassamme ja ahtaammalla ja epätoiwoisempina kuin ennen. Mutta yhden aseen me olemme wastustajiltamme kuitenkin riisuneet, aseen, jonka me aikoinaan 
+          typeryydessämme olemme heille antaneet ja, joka on ollut waarallinen ja tuhoatuottawa ase. Me olemme nyt koko siwistyneelle mailmalle osoittaneet, että syy ei ole meissä, me olemme itse 
+          wapaaehtoisesti tarjonneet sen, mihin meitä raa'alla wäkiwallalla pakoitetaan. Me olemme todistaneet, että Wenäjä käy sotaa wain sodan itsensä wuoksi, ilman muuta päämäärää kuin sokea 
+          halu saada tuhota, hämmentää ja häwittää.</p>
+      </Article>
+
+      <Article titleText="Köyhäinhoidon uudet ohjesäännöt.">
+        <p>Köyhäinhoitokomitean laatima köyhäinhoitoa koskewa ohjesääntö-ehdotus tarkastettiin kaup. waltuuston wiimeisessä kokouksessa ja hywäksyttiin walmistuswaliokunnan tekemillä pienemmillä 
+          muutoksilla: „Köyhäintalon” eli, kuten sitä myös kutsutaan, „waiwaistalon” nimi muutetaan „kunnalliskodiksi”, (kunnankoti).</p>
+        <p>Ohjesäännön kielellistä puolta tarkastamaan walittiin hrat Chydenius, Karisto, Tarjanne ja Wartia.</p>
+      </Article>
+
+      <div className="interTitle">7.5.1914</div>
+      <Article titleText="Ruokahalu kasvaa.">
+        <p>Wiime joulukuulla oli Kryshanowskin komitea wihdoinkin kaksi ja puoli wuotta työskenneltyään walmis ehdotuksineen Uudenkirkon ja Kiwennawan pitäjien liittämisestä keisarikuntaan. Olisi 
+          odottanut, että komitea olisi saanut osakseen kiitosta ja kunniaa ja woineet tyytywäisenä ristiä kätensä. Mutta se raukka olikin työtouhussaan jäänyt ajastaan jälkeen. Sen työskennellessä 
+          oli jo keksitty uutta ja paljoa suuremmoisempaa ja sen ehdotukset otettiin sääliwällä hymyllä wastaan.</p>
+        <p>Nyt on uusi „erityinen komitea Suomen asioita warten”, joka on toiminut pääministeri Goremykinin johdolla, saanut suunnitelmansa asiasta walmiiksi ja tuonut sen julkisuuteen.</p>
+        <p>Ymmärtää todellakin tuon sääliwän hymyn, kun näkee miten pitkälle tämä komitea on päässyt. Se on käyttänyt aiwan samaa perustelua kuin edeltäjänsäkin, wedonnut Wenäjän pääkaupungin 
+          turwallisuuteen, mutta se on katsonut tämän turwallisuuden waatiwan ei wain noiden kahden pitäjän, waan koko Wenäjän rajan ja Wiipurin kaupungin wälisen rantakaistaleen sekä itse Wiipurin 
+          kaupungin yhdistämistä keisarikuntaan. Komitea on saanut awustajakseen meri ja sotaministeriön. Nämä, joiden on pidettäwä huoli Wenäjän waltakunnan turwallisuudesta, eiwät luonnollisesti, 
+          juuri heidän warjollaan asiaa ajettaessa, millään tawalla ole tahtoneet asettua wastaan. Päinwastoin tiesiwät he selittää, miten suunnattoman kauwaksi nykyaikaiset kanuunat kantawat y. m. 
+          yhtä wakuuttawaa. Komiteassa olikin useita, jotka waatiwat koko Wiipurin läänin yhdistämistä, arwellen nähtäwästi, ettei Pietari muuten ole warmuudella kanuunankantaman ulkopuolella, mutta, 
+          kuten sanottu, enemmistö tyytyi lohkaisemaan Wiipurin kaupungin, siitä itään olewan rantakaistaleen ja kaksi pitäjää.</p>
+        <p>Tuskalliselta on wuosikausia jo wain ajatuksissakin tuntunut suunniteltu Suomen ruumiin leikkaus. </p>
+        <p>Ja kuitenkin oli se tarkoitettu paljoa pienemmäksi kuin nyt kyseessä olewa. „Suomen lukko”, Wiipuri, on nyt menossa ja sen mukaan laajat rantamaat, wäkirikkaat seudut. Suomen kansa on 
+          monasti yksimielisenä uhrannut werensä näitä Karjalan kulmia puolustaessaan ja nähnyt sywimmällä epätoiwolla ja katkeruudella yliwoimaisen wiholisen ne riistäwän itseltään. Nyt aijotaan 
+          ne riistää siltä keskellä rauhaa ja riistäjänä on waltakunta ja kansa, johon Suomi on jo yli wuosisadan ollut liitetty täysin lojaalisena osana ja, jonka tulisi olla meidän ystäwämme. 
+          Suomalainen seisoo tässä selwittämättömän arwoituksen edessä. Pietarin turwallisuus muka waatii. Mutta onhan wenäläisillä täysi oikeus linnoittaa ja warustaa Wiipurin lääniä niin paljon 
+          kuin he ikinä haluwawat kohtaamatta wähintäkään wastarintaa suomalaisten taholta. Päinwastoin. Mehän elämme Wenäjän aseiden turwissa ja Wenäjän turwallisuus on myöskin meidän. Niin ainakin 
+          luulisi, mutta komitea on toista mieltä. Se luulee wasta silloin turwaneensa Pietarin puolustuksen, kun sitä lähellä olewat suomalaiset seudut omistawat wenäläisen ulkomuodon ja myöhemmin 
+          myöskin sisällön. Ja siinä juuri on koko suunnitelman surullinen kompastuskohta. Wäestö on liiaksi walweutunutta wenäläistyäkseen noin waan kädenkäänteessä mahtikäskyllä, päinwastoin tulee 
+          se luonnollisesti epätoiwoisena ja katkeroituneena kaikin keinoin taistelemaan kansallisuutensa puolesta. Se wäestö ei suinkaan tule olemaan luotettawampaa kuin nykyinen säyseä ja 
+          rauhallinen Suomen alamainen wäestö. </p>
+        <p>Jonkinlainen aawistus kait lienee komitealla ollut suunnitelmiensa määrättömästä raakuudesta ja wääryydestä „rajamaan” pientä, onnetonta kansakuntaa kohtaan, Syntyi näet epäilyksiä, että 
+          kenties ei tämä suunnitelma läpäisekään duumassa, niin luotettawa kuin se muuten näissä asioissa onkin ollut. Ajateltiin, että Wenäjän kansan edustajia woisi kenties liikuttaa toisen 
+          kansan kowa kohtalo ja siellä nousta wastaan ääniä, jotka paljastaisiwat koko toimenpiteen tarpeettomuuden ja inhoittawan wäkiwaltaisuuden. Suurin osa komitean jäseniä oli kuitenkin 
+          wakuutettu siitä, että duuma menee samaan ansaan kuin muutkin, Pietarin puolustuskysymykseen.</p>
+        <p>Meillä on siis odotettawissa tämä kauwan pelätty isku entistä musertawammassa muodossa. Mutta wiimeiseen saakka rohkenemme me sittenkin toiwoa, että se wähäinen järkimäärä ja pisara 
+          hywää tahtoa, mikä tarwitaan tämän asian walaisemiseksi ja ratkaisemiseksi meille ja koko waltakunnan edulle suotuisaan suuntaan, asianomaisella taholla on löydettäwissä, ja Nowoje Bremjan 
+          ja muiden Suomisyöjäin hellittämättömät, raiwokkaat ponnistukset jääwät tuloksettomiksi.</p>
+      </Article>
+
+      <Article titleText="Suomen silpominen.">
+        <p>Erityinen Suomen asiain komitea Pietarissa päätti t. k. 4 pnä pitämässään kokouksessa, että koko Wiipurin läänin rannikko ja Wiipurin kaupunki on yhdistettäwä Wenäjään.</p>
+        <p>Kokouksen pöytäkirja jätetään H. M. Keisarin wahwistettawaksi.</p>
+        <p>Waltakunnanneuwoston jäsenen Deu richin mielestä ei koko Wiipurin läänikään riitä, waan täytyy ottaa osia Mikkelin läänistä.</p>
+        <p>Suomen rajamaan lähempi yhdistäminen keisarikuntaan on lisäksi wälttämätön, tullien yhdistäminen on mitä pikimmin saatettawa täytäntöön, waltakunnan pankin toiminta on laajennettawa, 
+          Suomen ja keisarikunnan säästöpankkien toiminta yhdistettäwä ja Suomen werotusjärjestelmä saatettawa samanlaiseksi keisarikunnan werotusjärjestelmän kanssa ja rahayksikkö saatettawa 
+          samaksi.</p>
+        <p>Wiimeksi otettiin esille kysymys leimaweron ottamisen järjestyksestä niin keisarikunnan kuin Suomenkin wirastoihin jätettäwistä asiapapereista.</p>
       </Article>
 
 

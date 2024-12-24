@@ -3,6 +3,8 @@ import * as React from "react"
 import Layout from "../components/layout"
 import Article from "../components/article"
 
+import SubDivider from "../assets/sub-divider.svg"
+
 import "../styles/base/global.css"
 
 const Crimes1914Page = () => {
@@ -83,7 +85,7 @@ const Crimes1914Page = () => {
 
       <div className="interTitle">3.3.1914</div>
       <Article titleText="Pasternackin wangitseminen.">
-        <p>Kun kauppias Isak Pasternak, joka wiime maanantaina saapui Tampereelle, oli mennyt Procopén asianajotoimistoon neuwotellakseen asiamiehensä kanssa, saapui sinne kohta 2 etsiwää poliisia ja 
+        <p>Kun kauppias Isak Pasternak, joka wiime maanantaina saapui Tampereelle, oli mennyt Procopèn asianajotoimistoon neuwotellakseen asiamiehensä kanssa, saapui sinne kohta 2 etsiwää poliisia ja 
           wangitsiwat Pasternakin, sanoen sen tekewänsä kuwernöörin käskystä ilmoittamatta kuitenkaan syytä wangitsemiseen. Keskiwiikkona tuotiin P. sitte wanginwartijan saattamana Hämeenlinnaan, missä 
           hänet kuletettiin lääninwankilaan.</p>
         <p>Hämeen läänin kuwernööri on, kuten, muistetaan, aikaisemmin kieltänyt Pasternackia oleskelemasta Hämeen läänissä sen wuoksi, että hän on Mooseksen uskolainen. Myöhemmin on P. kuitenkin 
@@ -109,7 +111,7 @@ const Crimes1914Page = () => {
           erinäisiin rikoksiin, hän on ollut pidätettynä, hänen luonaan on pidetty kotietsintä y.m. Apulaisnimismies Kaarlo Koskinen todisti, että suurlakon jälkeisinä wuosina muodostui Härmässä 
           rikollinen joukkue, jonka johtajana on eräs paikkakunnalta pois muuttanut henkilö. Tämän henkilön kanssa on Hyrsky ollut läheisissä tuttawuussuhteissa.</p>
         <p>Julistamallaan päätöksellä tuomitsi kihlakunnanoikeus Lepän, Sinisalon ja Friskin törkeästä ryöstöstä 10 wuodeksi kuritushuoneeseen, Lepän ja Sinisalon menettämään kansalaisluottamuksensa 
-          myöhemmin määrättämäksi ajaksi ja Friskin 15 wuodeksi. Tuomitut welwoitettiin korwaamaan kanttori F. G. Hellénille ryöstetyt meijeri-rahat 6,665 mk., yksityiset rahat 70mk. ja kultakellon 
+          myöhemmin määrättämäksi ajaksi ja Friskin 15 wuodeksi. Tuomitut welwoitettiin korwaamaan kanttori F. G. Hellènille ryöstetyt meijeri-rahat 6,665 mk., yksityiset rahat 70mk. ja kultakellon 
           arwon 400 mk. sekä kruunun maksettawiksi aikaisemmin tuomitut todistajanpalkkiot. Syyte Hyrskyä ja Hagsbergia wastaan kumottiin toteennäyttämättömänä. Asian laatuun nähden passitettiin 
           Hyrsky kuitenkin Hämeen lääninwankilaan, kunnes howioikeus, jonka tutkittawaksi päätös alistettiin, on sen tarkastanut. Leppä ja Sinisalo passitettiin Uudenmaan ja Frisk Hämeen 
           lääninwankilaan.</p>
@@ -130,13 +132,208 @@ const Crimes1914Page = () => {
           tempuissaan ja keksii yhä uusia ja uusia petkutustapoja.</p>
       </Article>
 
-     
+      <div className="interTitle">4.4.1914</div>
+      <Article titleText="Yhdenvertaisuuslaki ja Hämeenlinnan maistraatti.">
+        <h5>Neuwosmiehet Idestam ja Lindberg wiety Pietariin.</h5>
+        <p>Wiime torstaina klo 4 ajoissa wangittiin yhdenwertaisuuslain wastustamisesta tuomitut Hämeenlinnan maistraatin jäsenet, oikeusneuwosmies L. Idestam ja kunnallisneuwosmies W. A. Lindberg, 
+          kuten lisälehdissä kaupungilla ilmoitimme. Neuwosmies J. E. Selin on jo aikaisemmin kärsinyt wankeusrangaistuksen.</p>
+        <p>Tuomittujen on istuttawa wankilassa 4 kuukautta, mutta jos istuwat yksinäisessä kopissa, pääsewät 3 kuukaudella. Wankeuden jälkeen owat hrat J. ja L. 2 wuotta kelpaamattomia hoitamaan 
+          waltion tai kunnan wirkoja.</p>
+        <p>Warat. Idestamin wangitsemisen toimitti poliisimestari O. Siikanen tämän asunnossa ylikonstaapeli D. Salon seuraamana.</p>
+        <p>Herra Lindbergin wangitsi asunnossaan komisario E. Ahlgrèn konstaapeli T. Jokinen mukanaan.</p>
+        <p>He lukiwat Pietarissa julistetun tuomion ja ilmoittiwat, että hrain Idestamin ja Lindbergin on seurattawa heitä. Hrat Idestam ja Lindberg ilmoittiwat wastalauseensa mieliwaltaista ja 
+          laitonta wangitsemista wastaan. Poliisimestari luki tällöin wielä Hämeen läänin kuwernöörinwiraston wangitsemismääräyksen.</p>
+        <p>Hra L. oli warat. Idestamia wangittaessa ollut wieraisilla perheineen hänen kodissaan, josta lähti omaan asuntoonsa poliisien seuraamana.</p>
+        <p>Ennen lähtöä saiwat omaiset ja ystäwät käydä hywästelemässä warat. Idestamia, mutta raatimies Lindbergin asuntoon ei päästetty edes todistajaksi kutsuttua faktori M. Itkosta. Hra L. ei 
+          sallittu waihtaa waatteitakaan poliisin olematta läsnä.</p>
+        <p>Hewosten liikkeelle lähtiessä lauloi paikalle kokoontunut yleisö „Maamme”-laulun. Wangitut wiettin klo 5:ltä kestikiewarin hewosilla Harwialan pysäkille. Hewoset oli poliisikamari 
+          tilannut muka Renkoon.</p>
+        <p>Wähän ennen klo 6 saapuiwat wangitut Harwialaan. Matkalla oli saattajiksi liittynyt m. m. wangittujen puolisot sekä joukko kansalaisia. Ensimäisessä reessä istui tuomari Idestam ja 
+          ylikonstaapeli Salo, toisessa raatimies Lindberg ja komisario Ahlgrèn. Paikalle saapunut tilanhoitaja, maisteri Lindeberg sanoi komisario Ahlgrènin huonetta pyytäessä antawansa sen wain 
+          sillä ehdolla, että wangittujen omaiset saisiwat olla heidän kanssaan. Neuwoteltuaan asiasta puhelimitse suostui komisario Ahlgrèn tähän, jonka jälkeen wangitut sijoitettiin tilanhoitajan 
+          asuntoon.</p>
+        <p>Saattajat kutsuttiin kartanon päärakennukseen odottamaan junan tuloa. Odottajille tarjottiin kahwia. Tällä wälin saapui kaupungista lisää poliiseja, kahdessakin erässä. Näiden läsnäolo oli 
+          kuitenkin tuiki tarpeetonta, sillä saattajain käytös oli koko ajan tyyntä ja arwokasta.</p>
+        <p>Wähän yli klo 7 tuotiin wangitut pysäkille. Pysäkki sijaitsee kowin harwaan asutulla paikkakunnalla, joten wäkeä oli ehtinyt kokoontua wain wähän. ½ 8 tienoissa saapui juna. 
+          Matkustajawaunujen jälkeen oli liitetty useampia tawarawaunuja ja wiimeiseksi Hämeenlinnassa yhdistetty toisen ja kolmannen luokan waunu. Nopeasti saiwat wangitut nousta waunuun, jonka 
+          waununsillalla poliisimestari Liikanen otti heidät wastaan. He sijoitettiin waunun kolmannenluokan osastoon. Paitsi poliisimestaria seurasi wangittuja Pietariin ylikonstaapeli Salo ja 
+          konstaapeli Jokinen.</p>
+        <p>Useimmat hewosilla saattajista nousiwat junaan ja Hämeenlinnasta oli sillä saapunut runsaasti yleisöä saattamaan wangittuja Riihimäelle. Junan lähtiessä liikkeelle kohotti paikalle 
+          saapunut wähäinen wäkijoukko eläköön-huudon sekä junassa olijat lauloiwat „Hämäläisten laulusta” säkeen „Jos miestä missä tarwitaan”.</p>
+        <h5>Väliasemilla.</h5>
+        <p>Turengissa oli runsaasti wäkeä, joka kohotti eläköön huutoja lain wartijoille. Junassa ollut kööri lauloi „Porilaisten marssin”. Leppäkoskella oli myös werrattain runsaasti yleisöä. Junan 
+          saapuessa kajahutettiin „Suomen laulu”. Ryttyläänkin oli tieto kerinnyt. Täälläkin laulettiin.</p>
+        <p>Riihimäelle saawuttaessa oli asemalla mustanaan wäkeä sekä joukko paikkakunnan poliisikonstaapeleita. Kun waunu oli liitetty Pietarin junaan, kokoontui yleisö sen eteen. Kööri lauloi 
+          „Suomen laulun”, „Syttynyt on sota julma”, „Hämäläisten laulun”, „Jumala ompi linnamme” ja „Maamme”. Junan lähtiessä kajahtiwat woimakkaat eläköön huudot. Yleisöä kiitti raatimies 
+          Lindbergin puoliso. Maistraatin jäsenten puolisot saapuiwat iltajunalla takaisin Hämeenlinnaan.</p>
+        <h5>Kunnianosotus Lahdessa.</h5>
+        <p>Klo 10,42 saapui juna Lahden asemalle. Wangittujen waunu oli kohta junan pysähtyessä poliisien ja santarmien ympäröimä ja asemasillalle pääsiwät ainoastaan ne, jotka ostiwat piletit, joten 
+          suuri osa yleisöä lunasti piletin lähiasemalle. Yleisöä oli myöhäisestä ajasta huolimatta saapunut noin pari sataa henkilöä. „Maamme”-laulu laulettiin kun kolmannen kerran soitettiin, 
+          ensimmäinen ja wiimeinen wärssy kaksi kertaa kumpikin. Sen jälkeen kohotettiin woimakkaat eläköönhuudot lainkuuliaisille wirkamiehille. Poliisi ei kumma kyllä häirinnyt järjestystä.</p>
+      </Article>
+
+      <div className="interTitle">9.4.1914</div>
+      <Article titleText="Warkaus Riihimäellä.">
+        <p>T. k. 3 pnä warastettiin työmies W. Koskelta aiwan uusi puku sekä uudet kengät. Samoin wietiin Jalmari Lindgreniltä palttoo sekä lakki. Waras oli kowin rohkea päättäen siitä, että warkaus 
+          tapahtui keskellä päivää ja wilkasliikkeisellä paikalla olewassa talossa. Warkaaksi epäillään Wäinö Lainetta, joka on Kerawalta tai Malmilta kotoisin. Sielläkin hänellä pitäisi olla tehtynä 
+          luwattomia riistoja. Warkaus on aika kolaus työmiehelle, joka pienestä palkasta on säästänyt sen werran, että sai puwun päällensä. Pitäkää silmät auki reissumiesten suhteen.</p>
+      </Article>
+      <Article titleText="Sikiönsä surmaamisesta">
+        <p>Wangitsi Pälkäneen nimismies t. k. 7 p. taloll. lesken Tilda Lemmenlahden Onkkaalan kylästä. Lemmenlahti oli tultuaan luwattomasta sekaannuksesta raskaaksi, oman kertomuksensa mukaan, 
+          wiime tammik. 4 p. synnyttänyt tyttölapsen ja jättänyt sen awuttomaan tilaan, niin että se oli kuollut.
+        </p>
+      </Article>
+
+      <div className="interTitle">16.4.1914</div>
+      <Article titleText="Hämeenlinnan yhdenvertaisuuslakirettelöt">
+        <h5>Toimittaja Palmio saanut jälleen haasteen.</h5>
+        <p>Eilen puolenpäiwän tienoissa saapui toimittaja Palmion asuntoon komisario E. Ahlgrèn mukanaan pari poliisikonstaapeliä kysyen hra Palmiota. Kun toimittaja Palmio ei kuitenkaan ollut 
+          kotona, meniwät mainitut poliisimiehet Hämettären toimitukseen. Tawattuaan täällä hra P:n tahtoi komisario Ahlgrèn „todistajain läsnäollessa” jättää hänelle joukon papereita pyytäen 
+          saada niistä kuitin. Hra P. kieltäytyi kuitenkin jyrkästi wastaanottamasta papereita sekä kirjoittamasta minkäänlaista kuittia. Komisario Ahlgrèn luki tällöin hänelle Pietarin 
+          piirioikeuden haasteen saapua touk. 2 p:nä mainitun oikeuden I osastoon wastaamaan yhdenwertaisuuslain rikkomisesta. Juttu koskee Barawikoffin elinkeinoanomuksen hylkäämistä wiime elok. 18 
+          p:nä. Kuten muistettaneen, oli Barawikoffin juttu maistraatissa esillä samana päiwänä, kuin Wasiljeffinkin elinkeinoanomus, jonka hylkäämisestä toimittaja P. äskettäin sai haasteen.</p>
+        <p>Hra P. ilmoitti, ettei asia hänen puoleltaan anna aihetta mihinkään toimenpiteisiin. Komisario Ahlgrèn tarjosi wielä kerran papereita ja kun toimittaja P. yhä kieltäytyi niitä 
+          wastaanottamasta jätti hän ne eräälle pöydälle ja poistui sen jälkeen.</p>
+        <p>Kuten Wasiljeffinkin jutussa oli maistraatin muina jäseninä Barawikoffin juttua käsiteltäessä w. t. pormestari, how. ausk. Herman Henriksson sekd w. t. raatimies, yliopp. Lauri Kämäri.</p>
+        <h5>W. t. pormestari H. Henriksson saanut haasteen.</h5>
+        <p>Tiistai-aamuna klo 8 tienoissa saapui kaksi siwiilipukuista poliisia warat. Herman Henriksonin asuntoon Turussa pyytäen saada tawata hra H:ia. Kun palwelustyttö ilmoitti, että hra H. ei 
+          wielä ollut noussut ylös, selittiwät poliisimiehet aikomuksensa olewan odottaa. Puolen tunnin kuluttua astui hra Henriksson makuuhuoneestaan, jolloin poliisit - pyytäen anteeksi että 
+          oliwat tulleet niin aikaisin - antoiwat hra Henriksonille haasteen saapua ensi toukok. 2 p:nä Pietarin piirioikeuden I osastoon wastaamaan yhdenwertaisuuslain wastustamisesta, sen 
+          H:linnan maistraatin päätöksen johdosta, jolla wiime elok. 18 p:nä hylättiin Wenäjän alamaisten Mikael Wasiljeffin ja Mikael Borowikoffin elinkeinoanomukset. Poliisimiehet jättiwät 
+          asiakirjat pöydälle ja pyysiwät hra Henriksonilta saada todistuksen, että ne hänelle on jätetty. Tällaista todistusta ei hra Henriksson kuitenkaan ollut halukas antamaan ja niine hywineen 
+          poistuiwat poliisit.</p>
+        <h5>W. t. raatimies Kämäri haastettu.</h5>
+        <p>Eilen iltapäiwällä tapasiwat Helsingin poliisit myöskin w. t. raatimiehen, lakit. ylioppilas Lauri Kämärin hänen asunnossaan Helsingissä ja jättiwät hänelle haasteen saapua Pietarin 
+          piirioikeuteen samana päiwänä ja samoista yhdenwertaisuuslain rikkomuksista kuin warat. Henrikssonkin. Hra Kämäri kieltäytyi antamasta kuittia, minkä jälkeen poliisit jättiwät asiakirjat 
+          ja poistuiwat.</p>
+      </Article>
+      <Article titleText="Siveettömyyden ryöppy.">
+        <p>Kawallukset, petkutukset, ryöstöt ja murhat owat wiime aikoina pelottawassa määrässä lisääntyneet. Wäkiwallan ja pahanteon henki ohjaa ihmisten käsiä. Awiositeet owat höltyneet, juoppous 
+          ja siweettömyys kohonneet. Uutiset murhapoltoista owat käyneet jokapäiwäisiksi.</p>
+        <p>Tarwitaanto esimerkkejä? Parin wiime päiwän sanomalehdet kertowat: Sundströmin noin sadantuhannen kawallus Helsingissä, Airolan kawallus Wiipurissa, nuoren tytön wekselinwäärennys 
+          Turussa, Itämaisen tupakkatehtaan konttoristin kawallus Helsingissä, Rosengrenin wekselihuijaukset Wöyrissä, Woutilaisen kawallus Helsingissä, Lagerqwistin murhapoltto ja itsemurha Karjan 
+          asemalla, kolme wääränwalantekoa Mikkelissä, nti Borgenströmin murhapolttoyritys Järwelässä, neiti Roosin 20,000 mkn petkutukset ja murhapoltto Perniössä, raiskaus Helsingissä, Lumpeen 
+          itsemurha, waimonsa ja lapsensa tappo Helsingissä! Ehkä riittää! Poiminnot owat ainoastaan parin päiwän lehdistä! Miten hirwittäwäksi tämä tilasto wuoden kuluessa nouseekaan!</p>
+        <p>Idmanin parinkymmenen miljoonan kawallusten jälkeen on wäärennysten luku nopeasti kaswanut. Yksin Helsinsingissä owat lyhyenä aikana tehneet kawalluksia tuomarit, arkkitehdit, insinöörit, 
+          kaupunginpalwelijat, notariot, kaupungin kasöörit, wahtimestarit ja mitä he kaikki lienewätkään. Aiwan äskettäin on pääkaupungin oikeuden jäsenkin, tuomari af Frosterus, joka jakoi 
+          oikeutta muille ja tuomitsi pahantekijöitä, tehnyt itsensä syypääksi moniin wäärennyksiin. Kun kolttosista saatiin selwä, pakeni hra neuwosmies „muille maille wierahille” eikä häntä 
+          erikoisemmin ole etsittykään. Rumaan waloon on joutunut eräs Helsingin sielunpaimenkin, joka on raitiotiellä kulkenut wäärillä keinoilla.</p>
+        <p>Missä on ennen kehuttu suomalainen rehellisyys? Missä Topeliuksen kuwaamat „suomalaiset Matit”? Wallattomuuden ja intohimon kuohu owat kait temmanneet ne mukaansa. Epärehellisyys on 
+          muuttunut kulkutaudiksi, joka todistaa siweellisten käsitteiden höltymistä ja kansamme elimistön rappeutumista.</p>
+        <p>Kun haemme syitä kawalluksiin, wastataan ensimäiseksi: „yli warojenia eläminen ja epäsäännöllinen elämä”. Perniössä murhapoltosta ja suurista kawalluksista wangittu neiti Roos tahtoi 
+          „elää hienosti” ja oli hän sitäpaitsi „alkoholisti”. Samaan suuntaan käywät kertomukset muista kawaltajista ja wäärentäjistä.</p>
+        <p>Epäsäännöllinen elämä, tuhlaawaisuus ja koristeluhalu onkin temmannut suuren osan kansastamme mukaansa. Hotellit, rawintolat, huwihuoneet, tanssipaikat, operetit, naamiaiset, eläwät 
+          kuwat, tingel-tangelit hallitsewat pääkaupunkia. Maaseutukaupungit kulkewat kykynsä mukaan perässä. Wähät wakawista ajoista, wähät uhkaawista waaroista. Me juomme, mässäämme, koristelemme 
+          itseämme ja tanssimme tangoa! Kun rahat loppuwat, lainataan, tehdään wekseleitä... Säästäwäisyydelle, kirkossa käwijöille nauretaan, samoin niille, jotka pysywät syrjässä tanssipaikoista, 
+          joissa monet „maan toiwot” tuhlaawat suunnattomasti wanhempiensa hiellä, työllä ja waiwalla koottuja waroja.</p>
+        <p>Pistäytykäämme pikkukaupungin naamiaisiin. Siellä wallitsee elämän rentous, tanssimusiikki helähtää, huomisesta ei ole surua, wiini waluu wirtanaan... Sitä naisetkin maistelewat. 
+          Kaikellaiset keikarit siellä „paremman kansan” kanssa huwittelewat. Harmaahapsisia wanhuksiakin on mukana. Wenäläiset owat huwittelijoiden hywiä ystäwiä. Joku herraskekkuli tanssii 
+          upseerinlakki päässä. „Yhdenwertaisuudella” ei ole rajoja. Narrit ja keikarit, tuhlarit ja tyhjäntoimittajat, joilla on welkapuku, kowat korwiin, mutta pää tyhjä kuin paperipussi, siellä 
+          juhlan ohjaajina, päämestareina hääriwät. Ja näiden narrien „isänmaalisuuteen” pitäisi luottaa!</p>
+        <p>Kansallistunnolle, siweellisyydelle, rehellisyydelle, itsekieltäymiselle nämä maitopartaiset poikanulkit ja muodikkaat tyttöletukat naurawat, waikka he kunnianmiehiä Krestyyn wietäessä 
+          woiwatkin ehkä juosta heidän jälessään ja isänmaallisuutensa pukea „hurraahuutoihin”. Mutta Wänrikki Stoolin sankarien, Snellmanin, Runebergin, Lönnrotin, Topeliuksen, Yrjö-Koskisen 
+          ihanteelliset elämänarwot owat heille pelkkää ilmaa.</p>
+        <p>Wuosien kuluessa tuhotaan nämä narrit, tuhlailewat, siewistelewät hupsut konkursseilla, itsemurhilla, kuritushuonewankeudella, maasta karkaamisella j. n. e.</p>
+        <p>Hukassa me olemme, jollei tälle wallattomuudelle aseteta sulkuja. Irstaan huwihaluisen kansan woi wainolainen helposti tuhota ja waikkapa waltiollisilla wiekotuksilla kiehtoa. Siksi on 
+          ihmisten mieli suunnattawa toisaalle. Isänmaanrakkaus, kansallistunne, aatteelliset elämänarwot, säästäwäisyys, työn rakkaus, welwollisuuden tunne, uhrautuwaisuus ja wanha suomalainen 
+          rehellisyys on nostettawa arwoon ja kunniaan! Rehellisyys sittenkin maan perii.</p>
+        <p>Lukija, heitä halweksumisen waippa yli keikarien ja tuhlarien! Älkäämme katsolo pintakiiltoa, waan etsikäämme ihmisten rehellisiä pyrkimyksiä!</p>
+        <p>Kansamme alaspäin luisuminen siweellisessä suhteessa on otettawa wakawan pohdinnan alaiseksi. Olemassa olomme on muutenkin uhattu, joten on punnittawa, miten tästä waikeasta ajasta 
+          kunnolla selwiydytään.</p>
+        <p>Joka tapauksessa olisi tähän siweelliseen alennustilaan suurempi huomio kiinnitettäwä kuin yleensä on tehty. Se waatii wähintäin yhtä wakawaa pohtimista kuin surkeat waltiolliset olomme. 
+          Tässä työssä tarwitaan kaikki rehelliset ihmiset, oikeuden ja totuuden etsijät! Tarwitaan koulunkäyneet ja jokapäiwäiset ihmiset!</p>
+        <p className="signature">Minä.</p>
+      </Article>
+
+      <div className="interTitle">21.4.1914</div>
+      <Article titleText="H:linnan yhdenvertaisuuslakijutut.">
+        <h5>Herra Palmiolta waadittu 600 ruplan takaussumma.</h5>
+        <p>Lauwantaina klo 1,45 päiwällä kun toimittaja Pertti Palmio oli tulossa Hämeenlinnan raastuwanoikeuden istunnosta Hämeenlinnan raatihuoneelta, oli portaissa odottamassa konstaapeli T. 
+          Jokinen ja poliisikamarin sisäänkäytäwän luona pysäytti hänet, käskien seuraamaan poliisikamariin poliisimestarin puheille. Kun hra P. ei aikonut totella, astui konstaapeli hänen eteensä, 
+          waatien jyrkästi seuraamaan. Poliisikamariin saawuttua ilmoitti poliisimestari Liikanen kuwernööriltä saapuneen määräyksen, että Palmion wapautensa menettämisen uhalla oli suoritettawa 
+          kummastakin yhdenwertaisuuslakijutusta 300 ruplan takaussumma, eli yht. 600 ruplaa. Tähän huomautti hra P, ettei hänellä ollut niin paljon rahoja mukanaan, mutta että kauppias A. G. 
+          Skogster olisi suostuwainen takaamaan sen hänelle. Poliisimestari soitti sitten kauppias Skogsterille, pyytäen tätä tulemaan poliisikamariin jonkun tärkeän asian wuoksi. Kun hra Skogster 
+          sitten saapui poliisikamariin järjestetiin takuu siten, että S. ja hra Joh. Lindqwist takasiwat sanotun 600 ruplaa. Tämän jälkeen ilmoitettiin hra Palmiolle, että hän sai poistua. Tätä 
+          ennen hra Palmio pani wastalauseensa häntä kohdanneen laittoman menettelyn johdosta.</p>
+      </Article>
+      <Article titleText="Hämeenlinnasta ja lähiseudulta.">
+        <h5>Jumalan sanan pilkasta</h5>
+        <p> tuomitsi H:linnan raastuwanoikeus wiime lauantaina „Häm. Woiman" wastaawan toimittajan H. Wälisalmen 50 mkn sakkoon lehdessä wiime jouluk. 23 p:nä julaistun „Joulu”-nimisen kirjoituksen 
+          johdosta.</p>
+        <SubDivider className="dividerStyle" />
+        <h5>Puukotuksesta</h5>
+        <p>syytettiin täkäl. raastuwanoik. eilen puutyömies R. I. Niemistä, joka oli pääsiäislauwantaina lyönyt linkkuweitsellä leipuri A. I. Nylundia, kuten aikaisemmin olemme kertoneet. Nieminen 
+          wäitti R. Lahtisen ensin lyöneen häntä, jonka jälkeen syntyneessä tappelussa Nylund oli „pamputtanut”, jolloin Nieminen puolustuksekseen löi weitsellä takaa ajanutta Nylundia. Nylund 
+          kertoi menneensä puolustamaan Lahtista, kun luuli Niemisen puukottaneen häntä. Kantaja Nylund on päässyt pois sairaalasta, mutta on wielä lääkärin hoidossa. Todistajat kertoiwat samaan 
+          suuntaan kuin Nieminen.</p>
+        <p>Juttu lykättiin toukok. 16 p:ään.</p>
+        <SubDivider className="dividerStyle" />
+        <h5>Juopumuksesta</h5>
+        <p>tuomittiin lauantaina 1 henkilö ja eilen 4 henkilöä kukin 20 mkn ja 1 henkilö 30 mkn sakkoihin sekä luwattomasta puukonkantamisesta 3 henkilöä kukin 50 mkn sakkoihin. Eräs ilkiwallasta 
+          nostettu juttu hylättiin samoin muuan juopumus- ja poliisinpahoinpitelyjuttu. Oluen juonnista toisen pihamaalla tuomittiin 2 henkilöä kumpikin 5 mkn sakkoon.</p>
+        <SubDivider className="dividerStyle" />
+        <h5>Luwattomasta wiinanmyynnistä</h5>
+        <p>tuomittiin täkäl. raastuwanoikeudessa työmiehet Helenius ja Silmenius Lopelta kumpikin 100 mkn sakkoihin sekä maksamaan kaupungille 20 mk.</p>
+        <p>Samasta syystä tuomittiin nuorukainen A. F. Aalto 100 mkn sakkoon ja maksamaan kaupungille 20 mk.</p>
+        <SubDivider className="dividerStyle" />
+        <h5>Itsemurha Rengossa.</h5>
+        <p>Wiime sunnuntai-iltana päätti Rengossa Oinaalan kylässä talollisen poika Kustaa Seppälä päiwänsä ampumalla haulikolla ohimoonsa. S., jossa oli huomattu jotain mielenwikaisuuden oireita 
+          ja päänsärkyä, oli syntynyt 1890. Yleensä oli wainaja tunnettu siiwoksi ja uskonnolliseksi.</p>
+        <SubDivider className="dividerStyle" />
+        <h5>Tapaturmalaukaus Rengossa.</h5>
+        <p>Rengon Muurilassa tarkasteliwat kylän nuoret miehet perjantaina rewolweria, joka oli asetettu „arpajaiswoitoksi”. Nahkurityöntekijä Y. Lönnqwistin katsellessa rewolweria, laukesi se ja 
+          panos lensi renki August Lehtimäen watsaan. L. hoidetaan täkäl. lääninsairaalassa ja on hänen tilansa arweluttawa.</p>
+        <p>Kumpikin owat tunnetut siiwoiksi miehiksi.</p>
+        <SubDivider className="dividerStyle" />
+        <h5>Rewolwerin pauketta nurkkatansseissa.</h5>
+        <p> Parolan n. k. pikkuleirillä pitiwät nuoret wiime sunnuntai-iltana tanssiaisia, joita piirin nimismies F. Lehtonen meni kahden konstaapelin kanssa hajoittamaan. Paikalla oli syntynyt aika 
+          rähäkkä. Nimismies oli ampunut paikalla useampia kertoja ilmaan rewolwerilla, sekä sitä ennen ottanut penkiltä harmonikan. Kentällä oli pyöritty piiriä nimismiehen saapuessa, jolloin wäki 
+          oli hajaantunut. Nimismies oli käskenyt wangitsemaan pakenewia.</p>
+        <p>Kentältä oli juossut pois leipuri Tammisen 15-wuotias poika, jota nimismies seurasi kotiin ja aikoi wiedä hänet putkaan.</p>
+        <p>Tanssijat owat moittineet nimismiehen käyttäytymistä, mutta, mikäli olemme saaneet tietää, on nimismies toiminut paikkakunnan wakawamman wäen walitusten johdosta. Joutilaswäkeä, m. m. 
+          Myllymäen wiinatrokareita on kokoontunut paikalle, jossa owat myöhään yöhön hoilottaneet ja häirinneet lähistöllä asuwien rauhaa sekä hätyytelleet rauhallisia ihmisiä pois tullessaan. 
+          Sotilaswiranomaiset owat jo kerran maimitunlaiset tanssit lopettaneet ja owat asian johdosta walittaneet kunnanpääriin ja pyytäneet poliisia lopettemaan tanssit ja tulien polttamisen.</p>
+        <p>Viime päiwinä on mainitulla paikalla laulettu ja tanssittu joka ilta.</p>
+        <SubDivider className="dividerStyle" />
+        <h5>Juttu wäärästä walasta.</h5>
+        <p>Lokak. 3 pnä 1913 tuomitsi Humppilan y. m. pitäjäin käräjäkunnan kihlakunnanoikeus itsellisen Juho Kustaa Matinpoika Kallioisen Humppilan Huhtaan kylästä wäärästä walasta pidettäwäksi 2 
+          wuotta kuritushuoneessa, mistä rangaistuksesta kuitenkin armahduskirjan nojalla wähennettiin kolmasosa, sekä menettämään kansalaisluottamuksensa 8 wuodeksi. Kihlakunnan oikeus näet katsoi 
+          kallioisen eräässä lapsenelatusta koskewassa jutussa kanteesta wapautuakseen walallaan wahwistaneen perättömän lausunnon.</p>
+        <p>Turun howioikeus, ei täysien todistusten puutteessa ole woinut tuomita Kallioista syypääksi sanottuun rikokseen. Samalla on Hämeen läänin kumernöörille annettu määräys, että Kallioinen on 
+          heti laskettawa wapaalle jalalle.</p>
+        <SubDivider className="dividerStyle" />
+        <h5>Murha Somerolla.</h5>
+        <p> Pitkäperjantaina iski suutari J. Oksanen Someron Pajulassa rekiseipäällä työmies Aug. Sandbergia päähän sillä seurauksella, että tämä Forssan sairaalassa kuoli seuraawana päiwänä. 
+          Sandberg ja torppari K. Kujala oliwat samana päiwänä tapelleet, jolloin S. iski K:ta kolme kertaa puukolla. Wäitetään S:n aikoneen lyödä Oksastakin. O. on passitettu Hämeenlinnan 
+          lääninwankilaan.</p>
+      </Article>
+
+      <div className="interTitle">5.5.1914</div>
+      <Article titleText="Tuomittujen wirkamiesten kohtalo.">
+        <p>Hämeen läänin kuwernööri on wirallisissa lehdissä julkaissut seuraawan kuulutuksen:</p>
+        <p>Keisarillisen Suomen Senaatin Oikeustoimituskunnan kirjeessä toukokuun 30 päiwältä 1913 N:o 419 antamaa määräystä noudattaen saan Teille tiedoksi täten ilmoittaa, että Pietarin 
+          Piirituomioistuin päätöksellään 26 päiwältä huhtikuuta (9 päiwältä toukokuuta) on tuominnut Hämeenlinnan kaupungin Raastuwanoikeuden ja Maistraatin oikeusneuwosmiehen Leonard Gustaf 
+          Idestamin ja kunnallismiehen Werner Agaton Lindbergin rikosrangaistuksia koskewan lain 13 ja 14 23(1) pykälien nojalla pidettäwäksi 4 kuukautta wankeudessa sekä eroitetuksi wirastaan ja 
+          kahden wuoden ajaksi menettämään oikeuden olla waltionwiroissa ja palwelemaan waltion tai yksityissopimuksen perusteella Keisarikunnan, siihen luettuna myös Suomen Suuriruhtinaskunta, 
+          waltio- ja kunnallisissa laitoksissa, minkä tuomion sittemmin Pietarin Oikeushowi päätöksellään saman wuoden syyskuun 6/19 päiwältä sekä Hallitsewan Senaatin Rikosasiain Departementti 
+          päätöksellään seuranneen marraskuun 20 päiwältä joulukuun 3 päiwältä owat wahwistaneet.</p>
+        <p>H:linnassa, Lääninkansliassa, huhtik. 24 p:nä 1914.</p>
+        <p className="signature">R. Spåre.</p>
+        <p className="signature">J. Schurigin.</p>
+      </Article>
+
+      <div className="interTitle">7.5.1914</div>
+      <Article titleText="Kamala itsemurha Hattulassa.">
+        <p>Toissapäiwänä leikkasi Hattulan pitäjän Hurttalan kylässä Kalliolan muonarenki Ewert Lahtinen suurella puukolla kaulansa miltei erilleen poikki. Henki tietysti pakeni heti. Lahtinen oli 
+          noin 40-wuotias ja naimisissa. Syynä lienee äkkinäinen mielenhäiriö, jonka oireita hänessä oli aikaisemmin tawattu.
+        </p>
+      </Article>
 
       <br></br>
       <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>
     </Layout>
   )
 }
-export const Head = () => <title>Entinen Hämeenlinna - Rikoksia 1914</title> // metadata
+export const Head = () => <title>Entinen Hämeenlinna - Tapahtumia 1914</title> // metadata
 
 export default Crimes1914Page 

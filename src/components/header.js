@@ -65,6 +65,9 @@ const Header = () => {
                   <Link to="/artikkeleita1914" className="nav-link" activeClassName="active">Artikkeleita</Link> 
                 </NavDropdown.Item>
                 <NavDropdown.Item>
+                  <Link to="/hml-kirje-1914" className="nav-link" activeClassName="active">Hämeenlinnan kirje</Link> 
+                </NavDropdown.Item>
+                <NavDropdown.Item>
                   <Link to="/rikoksia1914" className="nav-link" activeClassName="active">Arveluttavia tapahtumia</Link> 
                 </NavDropdown.Item>
               </DropdownSubmenu>
