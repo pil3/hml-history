@@ -663,7 +663,7 @@ const Articles1914Page = () => {
       <div className="interTitle">5.5.1914</div>
       <Article titleText="Sotaa sodan vuoksi.">
         <p>Eräs meikäläinen politiikko huomautti kerran, että jos meillä olisi taisteltawa todellista, järjestelmällistä sortopolitiikkaa wastaan, olisi meidän paljoa helpompi ehättää edelle ja 
-          tehdä sille tokeita, mutta wenäläisten politiikka tässä maassa ei ole mitään politiikkaa, heidän pyrkimystensä piiri el ole millään tawoin rajoitettu, he eiwät itsekään tiedä mitä 
+          tehdä sille tokeita, mutta wenäläisten politiikka tässä maassa ei ole mitään politiikkaa, heidän pyrkimystensä piiri ei ole millään tawoin rajoitettu, he eiwät itsekään tiedä mitä 
           kaikkia he tahtowat, ja heidän menettelytapansa on joka kerta erilainen. Ei ole näin ollen mitään erikoinen ihme, että yksin tuo kaikki mahdolliseksi tekewä „yhdenwertaisuus”-lakikin on 
           jo useamman kerran tullut heille itselleen kompastuskiweksi.</p>
         <p>Tämä käsitys on warmaankin pilkusta pilkkuun oikea. Wenäläiset wakuuttawat yhtä ja tekewät toista. Säännöllisesti. Heidän waikuttimistaan on yksi ainoa meille täysin selwä ja warma, ja 
@@ -726,6 +726,75 @@ const Articles1914Page = () => {
           Suomen ja keisarikunnan säästöpankkien toiminta yhdistettäwä ja Suomen werotusjärjestelmä saatettawa samanlaiseksi keisarikunnan werotusjärjestelmän kanssa ja rahayksikkö saatettawa 
           samaksi.</p>
         <p>Wiimeksi otettiin esille kysymys leimaweron ottamisen järjestyksestä niin keisarikunnan kuin Suomenkin wirastoihin jätettäwistä asiapapereista.</p>
+      </Article>
+
+      <div className="interTitle">12.5.1914</div>
+      <Article titleText="Sota Suomea vastaan.">
+        <p>Tällä otsikolla kuwailee Frankfurt am Mainissa ilmestywä „Kleine Presse” t. k. 5 p:n numeronsa pääkirjoituksessa sortopolitiikkaa Suomessa. Ensinnä tehdään selwää Venäjän sisäisestä 
+          tilasta ja ennustetaan, ettei kansan sywien riwien kuohuntaa kyetty suinkaan lopullisesti tyynnyttämään wuoden 1904 weriwirtoihin, waan kuohahtaa se wielä kerran yli äyräittensä. Venäjän 
+          hallituksen sortopolitiikka ei ole rajoittunut ainoastaan omaan maahan, waan owat sen alaiset wieraat kansakunnatkin saaneet tuntea sen musertawaa painostusta. Ennen kaikkia on Suomi 
+          saanut kokea kowia. Huolimatta tälle maalle myönnetyistä ja walalla wahwistetuista oikeuksista ja wapauksista, on wenäläinen sortopolitiikka alkanut tunkeutua sinne tehdäkseen tästä 
+          kukoistawasta, eteenpäin pyrkiwästä ja korkealle kehittyneestä kulttuurikansasta „joukon orjia, yhtä kurjia, yhtä siwistymättömiä ja poljetuita kuin nuo lukemattomat kansakunnat owat, 
+          joiden ylitse Pietarin hallituksen isällinen armonaurinko paistaa”.</p>
+        <p>Suomalaiset owat yksimielisesti ja ihailtawalla sitkeydellä ryhtyneet pitämään puoliansa, mutta tähän asti huonolla menestyksellä. Ei yksikään niistä tunteellisista sieluista, jotka 
+          Pariisissa ja Lontoossa „wuodattawat krokotiilin kyyneleitä” Saksan alaisten wieraiden kansakuntien kowan kohtalon tähden, ole tuhlannut sanaakaan Suomen puolesta, jota uhkaa mitä raain 
+          barbarismi. Venäjän duuma ja waltakunnan neuwosto laatiwat lakeja, joille hallitsijan allekirjoitus antaa pätewyyden. Ja kun suomalaiset wirkamiehet, uskollisina wirkawalalleen, asettuwat 
+          wastarintaan, raastetaan heitä tusinoittain wenäläisiin wankikomeroihin. Heiltä riistetään oikeus astua waltion wirkoihin ja tilalle tulee wenäläisiä ja kaikenlaista onnenonkijoita.</p>
+        <p>Wiimeksi on duuman käsiteltäwäksi jätetty kaksi lakiehdotusta — toinen, joka pyrkii yhdistämään osan Wiipurin lääniä Wenäjään, toinen, jolla tahdotaan wenäjänkielestä tehdä yksinomainen 
+          wirastokieli — ja epätoiwo ja katkeruus on Suomessa kohonnut äärimmilleen. Jos suomalaiset wirkamiehet kieltäytywät tottelemasta näitä lakeja, wangitaan ja erotetaan heitä sadoittain ja 
+          tilalle tulee tunnetun wenäläisen koulun kaswatteja, joiden innokkaimpana tehtäwänä on „muuttaa tuhansien järwien maa kyynelmereksi.”</p>
+        <p>„Mikä on tämän loppu olewa?” kysyy lehti ja wastaa itse, että: „olipa mitä tahansa: Wenäjän hallituksen yritys riistää awuttomalta Suomelta sen wiimeinenkin wapaus on waroittawa merkki 
+          Europalle, että sillä on täysi syy kaiwaa wallihaudat itäistä rajaa wastaan kyllin leweiksi ja sywiksi.”</p>
+      </Article>
+      <Article titleText="Nimenmuutoksia.">
+        <p>Tänään, J. W. Snellmanin muistopäiwänä owat seuraawat kansalaiset H:linnan Suomal. Seuran ja „Jäämien” nimenmuuttotoimikunnan wälityksellä waihtaneet muukalaiset nimensä suomalaisiin:</p>
+        <h5>Hämeenlinna:</h5>
+        <p>E. A. Gutzén ja perhe = Talpo.</p>
+        <p>Aukusti Edward Henriksson = Heiniö.</p>
+        <p>Laura Henriksson = Heiniö.</p>
+        <p>Hjalmar Henriksson = Jalmari Hämesalo.</p>
+        <p>Karl Wiktor Tikander = Kaarlo Wihtori Tiiro.</p>
+        <h5>Hattula:</h5>
+        <p>Johan Leonard Majander = Mantere.</p>
+        <h5>Hausjärwi:</h5>
+        <p>Hugo Adolf Eklund = Sinisalo.</p>
+        <p>Silja Eklund = Sinisalo.</p>
+        <h5>Wanaja:</h5>
+        <p>Hugo Ewert Lampén ja perhe = Lainesalo.</p>
+      </Article>
+      <Article titleText="Uusi auto.">
+        <p>Auto n:o 8 on saapunut. Se on lähtöjään Helsingistä ja oma sukuaan N. A. G., nykyinen omistaja on hra Jalmari Kämäri. Sunnuntaiaamuna klo 9 kokoontui arwostelijalautakunta sen ympärille ja 
+          alkoi tutkimuksensa. Autojen pituus lasketaan kait tawallisesti „jaloissa”, mutta kun tämä oli niin ylettömän pitkä, ei kukaan arwostelijoista wiitsinyt ruweta jalkojansa waiwaamaan. 
+          Tyydyttiin siis ylimalkaisesti määrittelemään, että se oli Hämeenlinnan suurin auto. Woimiaan ei kukaan myöskään sen kanssa ryhtynyt mittelemään, mutta omistaja ilmoitti, että sillä oli 
+          28 hewosen woimat, ja siihen sanoi eräs siwullinen, että muilla autoilla täällä on waan 18 hewosen woimat.</p>
+        <p>Sitten sitä lähdettiin. Tilaa olisi wielä ollut toinen mokoma. Eräässä kulmauksessa tuli neitonen wäylälle ja auto päästi miellyttäwän, wienon lienon toitotuksen. Sattui sitten mies 
+          hollille ja auto mörähti kuin Jukolan härkä. Kysyin syytä eroitukseen. „Kullekin omalla pillillään”, selitettiin kohteliaasti. - Ja niin sitä mentiin hirwittäwällä wauhdilla. Ei kertaakaan 
+          tarwinnut sisäänpäin hengittää, muuta kuin koittaa puhaltaa ulos sen kuin kerkisi, sillä ilmanpaine oli kowa. Puistossa lensiwät puut ohitse. Tie mutkitteli, nousi ja laski, mutta auto 
+          kiiti eteenpäin kertaakaan erehtymättä.</p>
+        <p>Meidät kyydittiin kotia. Se ei maksanut mitään ja sanottiin, ettei toistekaan suuria pyydetä, ei meiltä eikä muilta. - Se auto on juuri sellainen kuin pitääkin!</p>
+        <p className="signature">Samuli.</p>
+      </Article>
+
+      <div className="interTitle">30.5.1914</div>
+      <Article titleText="Kesää kohden.">
+        <h5>Pakinaa.</h5>
+        <p>Tässä me nyt wielä tohisemme. Koululaisia, pikkulapsia ja rouwia liikkuu kaupungilla wielä yllin kyllin, mutta nuorten jalat liikehtiwät niin riemukkaan lewottomasti ja rouwien silmissä 
+          on hermostuttawan huolestunut ja touhukas time. Tuo kaikki ei ennusta hywää! Minä tunnen sen wanhastaan, me tunnemme sen kaikki, se on monesti tullut meidän miesparkojen ylitse. Se ennustaa 
+          kuumuutta, kärpäsiä ja kesäleskeyttä.</p>
+        <p>Siinä ne taas owat kaikki kolme! Päiwän, parin perästä on tämä kaupunki kuin Rooma ennen sabinitarten ryöstöä - naisista tyhjä. Me miehet kuljemme sandaaleissa, wähennämme päiwä päiwältä 
+          waatekappaleita, hermostumme ja laihdumme. Kynä rapisee, hikipisarat putoilewat ja kärpänen kiertää kuin sädekehä päämme ympärillä. Kodin ja wiraston wälillä tapaa korkeintaan jonkun yhtä 
+          masentuneen ja ikäwystyneen onnettomuustowerin ja joukon herpaantuneita ajureita kietoutuneena pörisewään kärpäspilween. Muuten on tyhjää ja hiljaista kuin Kerimäen Matin kalakontissa.</p>
+        <p>Ja mitä me syömme ja juomme? Jos kaikkien tohtorien ja rohtomiesten uhallakin uskallan sanoa oman mielipiteeni, niin melkein kaikki watsakatarrit saawat alkunsa kesäleskeydestä. Meidät 
+          syöstään yhtäkkiä kodin koeteluilta puuropadoilta ruokalain monikirjawille herkuille, jotka panewat meidät yökaudet kieristelemään wuoteessamme ikäänkuin makaisimme hehkuwan hellan päällä. 
+          Ja jos joku, niinkuin minä, päättää ruweta omaan leipäänsä, ei hänen olonsa eikä elämänsä suuresti huojennu. Panet primus-keittiöön tulen, siihen perunapadan päälle ja alat miehen mahdilla 
+          kuurata weistä siinä wieressä, ja kas - tuossa tuokiossa on sekä kiehuwa perunapata että pihisewä primus sylissäsi. Ja tiskaaminen käy aina ehdottomasti yli woimiesi. Miten hennosti ja 
+          rakastawalla kädellä koitatkin pidellä lautasia, laseja ja teewateja, aina ne sattuwat jotain kowaa wastaan ja särkywät kertaakaan säästymättä. Kun syksy kerran koittaa, ei sinulla ole 
+          waimollesi näyttää koko serwiisistä muuta kuin „jäännökset muistoistamme kallehista”. Ja aijai silloin!</p>
+        <p>Sellaista se kesä meille miehille todellisuudessa on. Owathan muutamat irwihampaat keksineet kaikellaisia kaskuja kesäleskeyden paratiisista ja kesäleskien autuaalisista 
+          nuorenmiehenpäiwistä, mutta ne owat kaikki harhaanjohdetun mielikuwituksen epäsiweellisiä tuotteita. Tosiasiassa me olemme jo aikaa unohtaneet kaikki wapaat nuorenmiehenpäiwät, kuten 
+          kauan häkissä ollut lintu unohtaa wapautensa, wihreät metsät ja maat, me emme muuta kaipaa kuin kahleitamme. Ja siksi tuntuu meistä niin epätoiwoiselta tuo nuorison riemukas lewottomuus 
+          ja tuo touhukas ilme rouwien silmissä: se tietää maallemuuttoa, se ennustaa kuumuutta, kärpäsiä ja kesäleskeyttä.</p>
+        <p className="signature">Samuli.</p>
       </Article>
 
 

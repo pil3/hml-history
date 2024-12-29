@@ -68,7 +68,7 @@ const Header = () => {
                   <Link to="/hml-kirje-1914" className="nav-link" activeClassName="active">Hämeenlinnan kirje</Link> 
                 </NavDropdown.Item>
                 <NavDropdown.Item>
-                  <Link to="/rikoksia1914" className="nav-link" activeClassName="active">Arveluttavia tapahtumia</Link> 
+                  <Link to="/rikoksia1914" className="nav-link" activeClassName="active">Oikeus- ja poliisiasioita</Link> 
                 </NavDropdown.Item>
               </DropdownSubmenu>
               <DropdownSubmenu className={subMenuStyle} title="1924">
@@ -76,7 +76,7 @@ const Header = () => {
                   <Link to="/lukijoilta1924" className="nav-link" activeClassName="active">Yleisönosasto</Link> 
                 </NavDropdown.Item>
                 <NavDropdown.Item>
-                  <Link to="/rikoksia1924" className="nav-link" activeClassName="active">Rikoksia</Link> 
+                  <Link to="/rikoksia1924" className="nav-link" activeClassName="active">Oikeus- ja poliisiasioita</Link> 
                 </NavDropdown.Item>
                 <NavDropdown.Item>
                   <Link to="/ilmoituksia-1924" className="nav-link" activeClassName="active">Ilmoituksia</Link> 

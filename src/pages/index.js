@@ -372,7 +372,7 @@ const carouselArray = [
     key: "imageid29",
     imgSrc: "https://digi.kirjastot.fi/files/fullsize/07a391d5517feefb150681a8344e147c.jpg",
     org: "Hämeenlinnan kaupunginkirjasto - Hämeenlinnan postimerkkikerho ry. (yksityiskokoelma)",
-    caption: "Hämeenlinnan ensimmäinen tavatalo (Skogster) avattiin silloisten Raastuvankadun ja Kirkkokadun kulmaan vuonna 1907.",
+    caption: "Hämeenlinnan ensimmäinen tavaratalo (Skogster) avattiin silloisten Raastuvankadun ja Kirkkokadun kulmaan vuonna 1907.",
     title: "n. 1910"
   },
   {

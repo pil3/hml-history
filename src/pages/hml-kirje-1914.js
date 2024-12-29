@@ -6,6 +6,7 @@ import Article from "../components/article"
 import "../styles/base/global.css"
 
 import SubDivider from "../assets/sub-divider.svg"
+import Divider from "../assets/divider.svg"
 
 const Letter1914Page = () => {
   return (
@@ -96,6 +97,8 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
+      <Divider className="dividerStyle" />
+
       <Article titleText="21.2.1914">
         <h5>200-wuotismuisto.</h5>
         <h5>Kotoisen puolesta.</h5>
@@ -178,6 +181,8 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
+      <Divider className="dividerStyle" />
+
       <Article titleText="25.4.1914">
         <h5>Säästöpankkien woittowarat.</h5>
         <h5>Nimet suomalaisiksi.</h5>
@@ -230,6 +235,8 @@ const Letter1914Page = () => {
         <SubDivider className="dividerStyle" />
         <p className="signature">Tiitus.</p>
       </Article>
+
+      <Divider className="dividerStyle" />
 
       <Article titleText="9.5.1914">
         <h5>Waltuustolle.</h5>
@@ -297,6 +304,254 @@ const Letter1914Page = () => {
           nainen, jonka lehdet äskettäin tiesiwät pukeutuneen mieheksi ja äkkirynnäköllä häwittäneen paikkakunnalla paljon pahennusta tuottaneen korpirojutehtaan. „Naiswaltikka on murheellinen 
           merkki”, sanoo Aleksis Kiwi, mutta ennemmin sentään sekin kuin korpirojun ja trokarien waltikka.</p>
         <SubDivider className="dividerStyle" />
+        <p className="signature">Tiitus.</p>
+      </Article>
+
+      <Divider className="dividerStyle" />
+
+      <Article titleText="26.5.1914">
+        <h5>Papinwaali.</h5>
+        <h5>Lääkärin waaliin!</h5>
+        <h5>Kaunistakaa kotinne!</h5>
+        <SubDivider className="dividerStyle" />
+        <p>Tässä kaupungissa owat nämä päiwät muodostuneet waalien ajaksi. Wiime sunnuntaina suoritettiin kappalaisen waali ja tänään on edessä kaupunginlääkärin waali. Kesäkuun puoliwälissä on 
+          walittawa pormestari. Siis waali, tärkeä waali toisensa jälkeen.</p>
+        <p>Innokkaimmin owat ihmiset täällä, kuten tawallisesti, ottaneet osaa papin waaliin. Jo wiikkoja ennen on asiasta pidetty paljon ääntä ja ihmiset olleet wilkkaassa toiminnassa. Weljeni 
+          „Minä” kirjoitti äskettäin tässä lehdessä papinwaalista kirjoituksen „Waalitouhua”, jonka kirkollis-yhteiskunnallisen wiikkolehden „Herättäjän” „Waeltaja” sanoo olleen aiwan kuin häntä 
+          warten kirjoitetun ja julkaisee sen kokonaisuudessaan lehdessään. Jo pitkän aikaa sanoo „Waeltaja” olleensa äärimmäiseen asti pahoillaan siitä touhusta, parjauksesta ja 
+          suuntakilwoittelusta, jota nykyään pidetään miltei joka-ainoassa papin waalissa. Seurakuntalaiset koettawat omassa keskuudessaan siksi paljon maalata kaikkia kysymyksessä olewia 
+          pappeja, yhdet yhtä ja toiset toista, että jos niitä maalauksia uskoisi, niin täytyisi luulla, että seurakunta on sattunut saamaan hakijoiksi oikean lurjussakin, jossa ei ole yhtään 
+          kunnon miestä. Ja sitten usein kiertelewät saarnamiehet, erittäinkin maallikot uskottelewat olewansa oikeutettuja sekaantumaan asiaan, lisäämään wäriä tai tekemään sitä wähän helakammaksi.</p>
+        <p>Warsinkin, jos seurakunta syystä tai toisesta haluaa neljättä waalisaarnaajaa, pannaan usein maailma seisomaan päälaelleen. Ei siinä tule kysymykseen, oliwat hakijat ketä tahansa; kaikki 
+          he maalataan. Ja, mikä pahinta, on neljänneksi toiwoja itse usein parhaana hierimenä puurossa — niin wälisti siihen määrään asti, että hän on miltei hermostumisesta kipeä hommissaan.</p>
+        <p>Semmoisessa taistelussa kelpaawat sitten minkälaiset keinot tahansa. Hurskaasta käypä ja itseään hurskaana pitäwä liittoutuu silloin weljesliittoon toisten kanssa. Ja mitä ihmeellisimpiä 
+          juttuja uskotaan todeksi. Milloin muka joku waalipapeista aikoo hoitaa seurakuntaansa samaan tapaan kuin keskiaikuiset tuomarit läänejään, itse pitäen wirkoja kaupungeissa ja palkaten 
+          apulaista. Milloin joku waalipappi on muka ennen waalia kerskunut, että „siinä seurakunnassa on seurakunnallinen työ alettawa ihan alusta” y. m. yhtä koreata ja kaunista.</p>
+        <p>Tuntuu wallan siltä, kuin olisi ensimäisen yksikamarisen waalin kauhistuttawa taistelutapa walheineen, parjauksineen ja iwakuwineen nyt siirtynyt papinwaaleihin. Se ei ole seurakunnille 
+          eikä niiden kristillismielisille aineksille kunniaksi. Papinwaaliin, jos mihin, olisi seurakuntien käytäwä rukousmielessä ja jos siinä mielessä käydään, niin kyllä parjaukselta suu 
+          tukkeutuu ja käywät mahdottomiksi ne monenlaiset liittoutumat kristillismielisten ja kirkonwihollisten wälillä, mitkä nykyisin owat niin tawallisia.</p>
+        <p>Parannusta huutaa tämä asian tila. Ulkopuolinen waikutus on suorastaan rikollista ja omiaan lisääwästi tekemään papinwaalit oikeutetun iwan alaiseksi kaikkien kirkollemme kylmämielisten 
+          puolelta, huudahtaa „Waeltaja”, jonka kanssa olen aiwan samaa mieltä.</p>
+        <p>Waalissa käytettiin jos jotain keinoja. Waalin toimittajalle, jolle on annettawa tunnustus reippaasta toiminnastaan, oli lähetetty nimetön moitekirje.</p>
+        <p>Nyt on papinwaali ohi. Kappalaiseksi saatiin se, jota enemmistö kannatti. Waalissa woittiwat kirkkoherra Auteron kannattajat. Hänestä toiwotaan waikuttawaa, kokoowaa ja innostawaa 
+          seurakuntapaimenta. Toiwottawasti hän on sitä. Onneksi siis olkoon!</p>
+        <h5>* * *</h5>
+        <p>Lääkärin waaliin on meidän käytäwä yksimielisinä ja tietoisina siitä, että meidän ehdokkaamme kunnolla täyttää sen sijan, johon hänet asetamme. Minä en tahdo kilpahakijoita parjata, 
+          kuten „Hämetär” on tehnyt. Se on m. m. umpimähkään mennyt leimaamaan erään helsinkiläisen lääkärin, joka wirkaa on myös hakenut, wenäläismieliseksi ja mitä kaikkia hänestä „Hämettären” 
+          pääkirjoituksessa on kirjoitettukaan. En tahdo moittia hämettäreläisten ehdokasta, tohtori Skogströmiäkään. Hywä mies kuuluu olewan hänkin, kuten moni muukin, mutta suuri joukko 
+          kaupunkilaista, suomalainen puolue, joukko muihin puolueisiin kuuluwia ja sosialidemokraatteja owat asettaneet ensimäiseksi wiran nykyisen hoitajan, toht. Herwan, joka on pystywä lääkäri 
+          ja sairashuonetapoihin Helsingissä perin pohjin tutustunut. Mitä syytä siis olisi walita tänne joku muu lääkäri, kun kerran on saatawissa mies, joka on kaupunkiin ja kaupunginlääkärin 
+          wiran hoitoon, sairaalaan y. m. hywin perehtynyt. Hän on lääketieteen professorien ja etewien lääkärien mielestä henkilö, joka sopii hywin juuri kaupunginlääkärin wirkaan, - hän kun on 
+          tutustunut uudempiin lääkäritapoihin Helsingissä, jota wastoin kilpahakija, tri Skogström on toiminut monet wuodet maaseudulla. Toht. Herwa on herttainen, ystäwällinen ihminen, jonka 
+          silmissä rikas on samallainen kuin köyhäkin. Hän on lisäksi suomalainen, kuten nimensäkin osoittaa, eikä ole mikään puoluemies. Tohtori Skogström sitä wastoin lienee nytkin Urjalan 
+          poliittisen yhdistyksen puheenjohtaja. Tohtori Herwaa on siis käytäwä äänestämään. Häntä on wirkaweljeni „Turokin” kehunut ja luwannut äänestää. Liekö sitten sanansa mittainen.</p>
+        <p>Wälinpitämättömille ja hiljaisille pitää huomauttaa, että tärkeimpiä kansalaisoikeuksia on se oikeus, joka meille on myönnetty siinä, että me kukin omasta puolestamme saamme näihin 
+          asiohin waikuttaa, waikutaa äänemme kautta. Mutta tämä kansalaisoikeus ei ole ainoastaan oikeus, se on myös tärkeä kansalaiswelwollisuus, sellainen, joka welwoittaa jokaisen aikansa 
+          tasalla olewan henkilön ottamaan warman kannan waalin alaiseen kysymykseen nähden. Tämän waalioikeuden kautta owat kaikki äänestyskelpoiset kansalaiset yhteisesti wastuussa niistä 
+          tuloksista, jotka waalien kautta ratkaistaan. Luulisi, että jokaisella olisi täysin selwillä tämä wastuunalaisuus. Ja kuitenkin huomaa hywin usein, että niin ei ole laita. Mainitaksemme 
+          wain eduskuntawaalit, osoittawat nekin ilmeisesti miten wäärin suuret kansalaisjoukot owat käsittäneet sen welwoituksen, jonka äänioikeus heille asettaa.</p>
+        <p>Mutta me saamme paljon useammin nähdä kirkollisissa ja kunnallisissa waaleissa, että silloinkin, kun ratkaistawat kysymykset hywinkin läheltä koskewat meitä, suuret joukot wetäytywät 
+          syrjään joko wälinpitämättömyydestä tai kywyn puutteesta muodostaa itselleen warmaa käsitystä siitä, mille puolelle asiassa asettuisi. On myöskin sellaisia, jotka pidättämällä äänensä 
+          luulewat pääsewänsä wapaaksi wastuusta, luulewat siirtäneensä sen kokonaan niiden niskoille, jotka welwollisuudentuntoisina rohkeasti waikuttawat siihen suuntaan, mikä heidän mielestään 
+          on oikea. Olkoon näistä syistä mikä tahansa waikuttamassa, ne, jotka siten tekewät ja ajattelewat, eiwät osottaudu waalioikeutta ansainneeksi.</p>
+        <p>Lukijat, suorat suomalaiset, menkää siis tänään klo 5—8 ip. sankoin joukoin lääkärinwaaliin ja wiekäämme ehdokkaamme woittoon! Jos waan innolla otamme waaliin osaa, niin woitto on meidän. 
+          Muistakaa tämä ja walitkaamme tohtori Herwa kaupunginlääkäriksi! Waaliin jokainen, jolla waan waalioikeus on!</p>
+        <h5>* * *</h5>
+        <p>Kun kulkee maaseudulla ylt'ympäriinsä, tulee usein itseksensä hymähtäneeksi: „Nätti mökki, mutta kalju katsella!” Tapaa näet tuon tuostakin taloja ja töllejä, jotka siisteydellään 
+          hywäilewät silmää, joiden ympärillä lainehtiwat wiljawat wainiot ja aiwan wierellä wälkehtii järwi. Mutta sittenkin on niissä jotain kalseata, ja kun lähemmin ajattelee, huomaa, että 
+          syynä on kotipuiden puute. Ne seisowat siinä, nuo talot ja töllit, aiwan alastomina, yhdenkään lehden lepattamatta ja yhdenkään latwan luomatta warjoa kesähelteellä ja suojelematta 
+          talwituiskuilta. Siitä se johtuu, että ohikulkijasta tuntuu kuin puuttuisi niiltä kotoinen lämpö ja lepo.</p>
+        <p>On todellakin ihmeellistä tuo puiden pelko. Kartanoitahan meillä yleensä ympäröiwät puut ja puutarhat, mutta pienempiä taloja wain ani harwoin. Warmaankin on woimakas, wastahakoinen metsä 
+          muinaisina aikoina pelottanut tämän maan raatajat niin ankarasti, etteiwät jälkipolwet wieläkään ole tuosta säikkymisestään selwinneet. Metsää wastaan on tässä maassa käyty sitkeätä sotaa, 
+          moni wahwa warsi on kirween käytössä koukistunut, ja wuossadat owat kuluneet, ennenkuin metsä on loitonnut etäämmälle. Kun se kerran on kynnykseltä saatu karkoitetuksi, on se etäällä 
+          pidettäwä eikä enään takaisin tuotawa.</p>
+        <p>Niin kait arwellaan. Mutta nyt on jo totisesti aika rauhoittua metsän suhteen, on jo aika ruweta sitä kartuttamaankin. Ei ainakaan paria kaunistus- ja hedelmäpuuta kannata säikkyä 
+          kotinurkallaan. Runoilija sanoo: „Kaunis on ihminen kun työn hikihelmet hällä on otsaluilla, kauniimpi koska koti aidattu on linnun laulupuilla”. Ja siinä hän on oikeassa. Kotinurkka 
+          kaipaa pyhäistä pihlajaansa ja tuoksuwaa tuomeansa, ja akkunain alla, etelän puolella, on sija omenapuiden olla. Ilman niitä on talo autio ja kaikkien taiwaan tuulien työnnettäwä.</p>
+        <p>Kewät on paras puiden istutusaika. Vanhemmat siihen eiwät kait niin kewätkiireiltään jouda, mutta nuorilla on aikaa yllin kyllin. Ottaa suomättäältä tai pellonpientareelta mieleisensä 
+          puunwesan, kaiwaa kuopan sopiwaan paikkaan ja istuttaa puun siihen, jonkun kerran kastelee runsaasti ja jättää luonnon haltuun. Puu kaswaa kilpaa istuttajansa kanssa, tuuhenee wuosi 
+          wuodelta ja pian tulewat pikkulinnut pitämään siinä iloaan ja rakentamaan pesiään. Silloin on talon ympäristö muuttunut eläwälliseksi ja wilkkaaksi ja ohikulkija pysähtyy sitä mielihywin 
+          katselemaan.</p>
+        <p>Nuoriso, ryhtykää „aitaamaan kotianne linnun laulupuilla”!</p>
+        <SubDivider className="dividerStyle" />
+        <p className="signature">Tiitus.</p>
+      </Article>
+
+      <Divider className="dividerStyle" />
+
+      <Article titleText="6.6.1914">
+        <h5>Olympialaiset kisat.</h5>
+        <h5>Kumarrusmatka.</h5>
+        <h5>Eläkkeet.</h5>
+        <h5>Kaupunginlääkärin waali.</h5>
+        <h5>Taas merionnettomuus.</h5>
+        <h5>Edustajakokous.</h5>
+        <h5>Hauskaa kesää!</h5>
+        <p>Mitä äärimmäiseen pikkumaisuuteen wenäläiseltä taholta woidaan pahansuopaisuudessa ja kateudessa tätä „rajamaata” kohtaan mennä, siitä antaa kysymys suomalaisten osanotosta 
+          olympialaisiin kisoihin tuoreimman ja hywän esimerkin. Jo wuosia sitten annettiin määräys, että suomalaisille woittajille ei saa wetää heidän oman maansa lippua lipputankoon, waan 
+          Wenäjän lipun, ja Lontoon olympialaisissa saiwat suomalaiset kulkea liputtomina muiden kansallisuuksien kantaessa lippuaan. Nyt on Wenäjän ministerineuwostossa ollut esillä ehdotus, 
+          että Suomelta kiellettäisiin oma edustajansa olympialaisten kisojen kansainwälisestä komiteasta ja etteiwät Suomen edustajat saisi kisoissa esiintyä erikseen.</p>
+        <p>Tämä ehdotus, jonka takana ja innokkaimpana asianajajana on kenraalikuwernööri Seyn, on tietysti kautta koko maamme, sekä urheilijoissa, että siwullisissa, nostattanut oikeutetun 
+          suuttumuksen myrskyn. Suomi suoriutui Tukholman olympialaisista neljäntenä maana ja riemu kotimaassa oli rajaton. Entistä innokkaimmin käytiin urheilemaan, entistä kiihkeämmin ryhdyttiin 
+          warustautumaan Berlinin kisoja warten ja wanhempi polwikin oli nyt paljon alttiimpi kuin ennen aineellista awustustaan antamaan. Ei siis ihme, jos meihin tämä isku sattuu kipeästi ja 
+          että me emme häikäile nimittää sitä oikeilla nimillään, mutta ulkomaillakin on kiinnitetty asiaan huomiota ja useat sanomalehdet eri maissa owat rientäneet leimaamaan tämän aijotun 
+          toimenpiteen sen oikealla leimalla. Niinpä kirjoittaa Englannin wenäläis-mielisinkin lehti „The Standard” otsikolla: „Wenäjä käskee Suomen urheilijat esiintymään wenäläisinä” sangen 
+          tiukasti, huomauttaen m. m. pitkällisesti, että: „Jos Berlinin komitea asettuu samalle kannalle kuin Parisin kansainwälinen keskuskomitea, niin on waikea käsittää, miten suomalaiset 
+          woidaan muuten estää lähtemästä Berlinin kisoihin kuin wangitsemalla heidät ja kuljettamalla linnoitusten turwiin, sekä ottamalla Suomen olympialaisen komitean warat takawarikkoon”. Ja 
+          „Standardkin” laskee kielto-yrityksen kateudesta johtuwaksi, sillä lehti päättää selontekonsa huomautukseen: „Suomi oli Tukholmassa neljäs kansallisuus, Wenäjä wiidentenätoista”.</p>
+        <p>Suuri englantilainen urheilulehti „Sporting Life” lopettaa tuomitsewan kirjoituksensa sanoilla „on enemmän kuin luultawaa, että ainoana seurauksena Wenäjän hallituksen ukasista tulee 
+          olemaan se, että ei ainoastaan Kolehmainen, waan myöskin muut suuret suomalaiset tulewat edustamaan uutta maailmaa Berlinissä. Miksi eiwät poliitikot jätä urheilua rauhaan? Olympialaiset 
+          leikit herätettiin uudelleen henkiin siksi, että saataisiin aikaan kansojen wälille parempi yhteistunne, ei sentakia, että synnytettäisiin kansallista wihaa. Ansaitsee mainitsemista, 
+          että suomalaisten ei sallittu wetää ylös kansallista lippuaan juhlakulkueen marssiessa stadionille (Lontoossa) w. 1908; tästä wiheliäisyydestä ei tule loppua, jos kansallinen kateus 
+          estää tämän edistywän pikku kansakunnan esiintymästä Berlinissä, mutta siltä melkein näyttää”.</p>
+        <p>Niin - siltä se näyttää! Turhaa on kait nyt, niinkuin monasti ennenkin, muiden kansojen wäliintulo; me saamme jäädä kotia istumaan, sillä ei kait Wenäjälläkään olla niin yksinkertaisia, 
+          että uskotaan suomalaisten urheilijain tämän jälkeen lähtewän wenäläisille pisteitä keräämään. Wenäjä ei koko tästä hommasta saa saaliikseen muuta kuin siwistyskansain säälin ja 
+          surkuttelun.</p>
+        <h5>* * *</h5>
+        <p>Rautateiden päätirehtööri Ahonen on käynyt senaatin wenäläisen warapuheenjohtajan puheilla „pyytämässä hänen suosiollista myötäwaikutustaan rautatieläisten palkkauskysymyksen 
+          onnelliseen ratkaisuun”. Tällöin oli warapuheenjohtaja ilmoittanut, että uusi palkkaussääntö esitetään syksyllä ja että hän kannattaa sen sowelluttamista kokonaisuudessaan tämän wuoden 
+          alusta alkaen. Saamme siis tietää, että rautateiden ylipäällikkö on käynyt kumarrusmatkalla palkkojen, m. m. oman palkkansa korotusasiassa.</p>
+        <p>Äskettäin käwiwät maan raittiusjärjestöjen lähetystöt pyytämässä puolustawia toimenpiteitä kieltolain hywäksymiseksi. Sitä asettuiwat ankarasti moittimaan Helsingin perustuslailliset” 
+          lehdet, mutta nyt owat ne waiti.</p>
+        <p>Kumarrusmatka tällä kertaa tehtiin senaatin warapuheenjohtajan luo ja raittiuswäki käwi senaatin puheenjohtajan luona.</p>
+        <p>Nyt on siis kysymyksessä jokseenkin samanlaatuinen tapaus kuin raittiuslähetystön. Ero asiassa on wain siinä, että tällä kertaa on kyseessä waltion wirkamiesten palkkojen korotus, 
+          edellisellä kerralla kieltolaki; niin ikään siinä, että tällä kertaa on kumarrusmatkalla käynyt yksityisetujen, edellisessä tapauksessa kansan etujen nimessä.</p>
+        <p>Rautatieläisten palkkausasiaa en tietystikään wastusta, mutta olen tämän kertonut esimerkkinä siitä, miten eri tawalla asioita arwostellaan.</p>
+        <h5>* * *</h5>
+        <p>„U. S:tar” kirjoitti äskettäin „asetusten mukaisesta eläkkeistä”. Tuon tuostakin näkee lehdissä uutisia, joissa kerrotaan, että sille ja sille wirkamiehelle on hakemuksesta myönnetty 
+          ero sekä niin ja niin suuri „asetusten mukainen eläke”. Nämä uutiset owat usein warsin merkillistä laatua.</p>
+        <p>Pääsäännökset siwiliwirkamiesten eläkeoikeudesta ja eläkkeistä owat julistuksissa 28 p:ltä heinäk. 1826 ja 12 p:ltä kesäk. 1866. Näiden asetusten mukaan ainoastaan n. s. täysinpalwellut, 
+          s. o. 63 wuoden ikäinen 35 wuotta nuhteettomasti palwellut wirkamies on oikeutettu saamaan eläkkeen riippumatta siitä, mistä syystä hän wirastaan eroaa, ja on hänen eläkkeensä olewa yhtä 
+          suuri kuin se wakinainen palkka, joka hänellä erotessa on. Sitä wastoin wirkamies - lukuunottamatta joitakuita eri asetuksissa säädettyjä poikkeustapauksia, jotka tässä eiwät tule 
+          kysymykseen - jos hän aikaissemmin eroaa wirastaan, ei ole asetusten mukaan oikeutettu saamaan mitään eläkettä muuta kuin siinä tapauksessa, että hän sairauden tähden taikka jostakin 
+          muusta pätewästä syystä on tullut kykenemättömäksi enää hoitamaan wirkaansa. Tämmöiseen tilaan tulleelle wirkamiehelle wakuuttawat asetukset, jos hänellä on 35 ikä- ja 15 wirkawuotta, 
+          eläkkeen, joka, riippuen asianomaisen ijästä ja wirkawuosista, on 3/4, 1/2 tai 1/4 wakinaisesta palkasta.</p>
+        <p>Niissä uutisissa, joista tässä puhumme, on nyt kuitenkin hywin usein kysymys sellaiselle wirkamiehelle annetusta eläkkeestä, joka tunnetusti ei ole täysin palwellut eikä myöskään ole 
+          tullut mainitulla tawalla kykenemättömäksi olemaan edelleen wirassaan. He owat täydessä miehuuden woimassa olewia henkilöitä, jotka itsekin katsowat olewansa niin kaukana 
+          työkywyttömyydestä, että usein eroawat wirastaan wain siirtyäkseen johonkin yksityiseen toimeen, joka on ainakin yhtä paljon työtä ja terweyttä kysywä kuin konsanaan heidän 
+          waltiowirkansa.</p>
+        <p>Hämeenlinnassakin on tällaisia eläkkeitä myönnetty miehille, jotka wirasta erotessaan owat yht'äkkiä täydellisesti „parantuneita”, siirtyneet hywäpalkkaisiin yksityisiin toimiin j. n. e.</p>
+        <p>Edellisestä käy ilmi, että kun tällaiset wirkamiehet erotessaan pyytäwät ja saawat eläkkeen, eläke ei ole niinkuin waakuutetaan, asetusten mukainen. Se on ilmaus siitä kohtuuttomasta 
+          wirkawaltaisesta katsantotawasta, joka näissä asioissa on maassamme päässyt syntymään. Se on yhtä lainwastaista kuin asiallisesti tuomittawaa waltiowarain käyttämistä yksityisten 
+          henkilöiden epälojaalisten pyyteiden hywäksi, jotka tarkoittawat oikeudetonta hyötymistä kokonaisuuden kustannuksella.</p>
+        <h5>* * *</h5>
+        <p>Kaupunginlääkärinwaali meni niin kuin wiime kirjeessäni toiwoin. Ottelu oli ankara. Suomalaisen puolueen ehdokas sai woiton. Äänimäärä oli tosin wain 231 suurempi kuin wastapuolueen, 
+          mutta äänestäjiä oli toista sataa enemmän. Ilolla panen merkille tämän waalin ja toiwon samallaista innostusta muihinkin waaleihin nähden!</p>
+        <p>Naapurilehti soraäänisessä kirjoituksessaan wielä waalin jälkeenkin huomauttelee, ettei tällaisissa waaleissa saa ottaa huomioon puoluekantaa. Kuka puoluekannan otti määrääwäksi? Jos w. t. 
+          kaupunginlääkäri olisi ollut „perustuslaillinen”, niin „Hämetärkin” olisi häntä warmaan suositellut ja kieltänyt menemästä „merta edemmäksi kalaan”. Muutamat ruotsalaiset ja pari 
+          nuorsuomalaista, joille lehti nyt antaa aikamoista läksytystä „eriseuralaisuudesta”, oliwat siksi tasapuolista, että äänestiwät meidän ehdokastamme.</p>
+        <p>Siitä puoluekannan määräämisestä tekisi mieleni hieman pakista, mutta jääköön tällä kertaa. Yleensä tunnettuahan on, että esim. hywässä Hämeenlinnassamme walitaan kaikkiin mahdollisiin 
+          wirkoihin mies „perustuslaillisen” puoluekannan mukaan, olkoonpa sitten kysymyksessä waikka waatimaton wahtimestarin toimi.</p>
+        <h5>* * *</h5>
+        <p>Tuskin on wielä ennätetty selwiytyä Titanic-onnettomuuden antamasta iskusta, kauhusta ja surusta, kun jo saapuu toinen melkein yhtä kamala wiesti mereltä. Jälleen on yksi waltameren 
+          jättiläinen painunut pohjaan, wieden mennessään toista tuhatta ihmistä.</p>
+        <p>Ihmiskuntaa wiiltää suru ja wiha. Suru ajatellessaan tuota peloittawaa joukkohautaa, ja wiha tietäessään sen aukeamisen syyt. Titanic-onnettomuus syntyi mielettömän kilpailun johdosta 
+          suurten laiwayhtiöiden wälillä ja sama näyttää olewan syynä tähänkin. Huolimatta sumusta ja ajelehtiwista jääwuorista annettiin tälläkin kerralla mennä uhkarohkeata wauhtia, ja laiwa — 
+          kuten erinäisistä lausunnoista selwiää — oli huonosti rakennettu ja „hauras kuin munan kuori”. Edellisen onnettomuuden johdosta ryhdyttiin jo moninaisiin toimenpiteisiin wastaisuuden 
+          waralta, mutta tottapa ei käytetty tarpeeksi kowaa kättä, koska wielä tämä tapaus tarwittiin osoittamaan, miten äärettömän kewytmielisesti woidaan leikkiä satojen ja tuhansienkin 
+          ihmishenkien kanssa. Ja kenties wielä tämänkin jälkeen laiwataan yksi tai kaksi yhtä murhaawaa lisätodistusta, ennenkuin tehdään kaikki, mitä asian tärkeys waatii ja mitä suinkin 
+          tehtäwissä on.</p>
+        <h5>* * *</h5>
+        <p>Suomalaisen puolueen edustajakokous pidetään huomenna Urjalassa. Tähän edustajakokoukseen owat kaikki puolueemme paikallisjärjestöt tässä waalipiirissä oikeutetut edustajia lähettämään 
+          tarpeelliseksi katsomansa määrän. Piiritoimikunta toiwoo kaikkialta edustajia mahdollisimman runsaasti. Niillä paikkakunnilla, missä toimiwaa puoluejärjestöä ei ole olemassa, woiwat 
+          asianharrastajat walita keskuudestaan edustajia tai itse saapua kokoukseen.</p>
+        <p>Toiwon kokoukselle wirkeyttä, hywiä ja innostawia päätöksiä! Pian owat ehkä uudet waalitkin käsissä, joten työsuunnitelmia tehtäessä on tämäkin otettawa huomioon.</p>
+        <h5>* * *</h5>
+        <p>Kesä on kohta kukkeimmillaan. Koulut owat päättyneet. Kaupunkilaiset järjestelewät maalle muuttoa. Kaupunki on pian „kesäkunnossa”: liike ja wilkkaus häwinnyt. Hauskaa ja wirkistäwää 
+          kesää! Te onnelliset, jotka saatte maalla kesän ihanuudesta nauttia, imekää itsellenne woimaa ja terweyttä!</p>
+        <p className="signature">Tiitus.</p>
+      </Article>
+
+      <Divider className="dividerStyle" />
+
+      <Article titleText="27.6.1914">
+        <h5>Muuan pesänsä likaaja.</h5>
+        <h5>U. A:n purkaukset.</h5>
+        <h5>Huijarit liikkeellä.</h5>
+        <h5>Wanhaa ja uutta.</h5>
+        <p>Meistä „suomettarelaisista” on jälleen eräs „woimaihminen” sanoutunut irti. Se on rowasti A. D. Wuorimaa. Hän on maalaisliiton wiipurilaisessa äänenkannattajassa „Maakansassa” pessyt 
+          kätensä ja singonnut pannaan julistuksensa Suomalaista puoluetta wastaan. Otsikkona on:</p>
+        <p>„Miksi suomalaisen puolueen maalaisedustajat ja niitten joukossa allekirjoittanut, owat jättäneet suomalaisen puolueen ja liittyneet maalaisliittoon”. Ja yhtä wahwaa on sisältökin. 
+          „Maakansan” lukijat saawat tietää, miksi hra Wuorimaa on eronnut suomalaisesta puolueesta ja liittynyt heihin. Suomalainen puolue jo Yrjö Koskisen aikana muka oli „peruuttanut” 
+          kansanwaltaisesta entisyydestään ja kääntynyt byrokraattisia periaatteita ajamaan. Tämä suunta on sitten kaswanut. Jo 1897 wuoden säätywaltiopäiwillä hra Danielson-Kalmari piteli hra W:ta 
+          ankarasti erään hänen tekemänsä esitysehdotuksen johdosta, joka koski maanhankintaa tilattomalle wäestölle. Hra D. -K:ia kannatti melkein koko säätyeduskunta, mutta hallitus ryhtyi 
+          pienoiskoossa kokeilemaan hra Wuorimaan ehdottamaan suuntaan, josta on kehittynyt nykyinen asutustoiminta! Hra W. jo silloin ennusti byrokraateille kuumat päiwät, kun maalaiswäestö 
+          nousee.</p>
+        <p>Suurlakko näytti tuowan asiaan jonkinlaisen käänteen, mutta se ilo oli lyhytaikainen. Wirkawaltaiset ainekset pysytteliwät pinnalla ja saiwat juonilla ja teeskentelyllä maalaiset 
+          äänestämään heille mieluisia aineksia waltiopäiwille ajaen täten puolueen yhä enemmän pois ohjelmastaan. Wähitellen alkoi osa maalaiskansaa ja Suomal. puolueen edustajat alkoiwat wähetä. 
+          Helsinkiläisten johtajien ansio on wanhan suomalaisen puolueen wähentyminen ja lopullinen hajoominen ja tulee olemaan historiankin tuomion edessä.</p>
+        <p>Kun puolueen johtajat sitten oliwat muuttaneet puolueen kansanwaltaisesta maalaispuolueesta wirkawaltaiseksi ylimyspuolueeksi, oli luonnollista, etteiwät ne, jotka eiwät jälkimäisiä 
+          periaatteita ja ihanteita koskaan olleet kannattaneet, enää woineet olla heidän ja puolueen alkuperäisille periaatteille wallan wieraassa puolueessa, waan on heidän täytynyt omantunnon ja 
+          periaatteen miehinä siitä erota.</p>
+        <p>Kaiken tämän itserakkaan paatoksen ja murheellisen ennustuksen johdosta kirjoittaa Uusi Suometar allaolewat riwit, jotka minusta hywin riittäwät hra Wuorimaan osalle:</p>
+        <p>Woimme supistaa sanottawamme tämän johdosta warsin wähiin. Jätämme sikseen hra Wuorimaan ansiot wanhassa säätyeduskunnassa. Itsekin hän näkyy huomanneen, etteiwät hänen 
+          säätyweljensäkään ymmärtäneet niitä riittäwästi arwossa pitää. Mitä uuteen eduskuntaan tulee, on ja pysyy tosiasiana, että suomalainen puolue siinä ensi sijassa on ajanut maalaisasioita. 
+          Torppariasia, tilattoman wäestön maanhankintakysymys, maantiekysymys, metsäkysymys - mainittakoonpa mikä tahansa niistä suurista maalaisasioista, jotka owat otetut esille uudessa 
+          eduskunnassa, niin jokainen tietää, että suomalainen puolue tehokkaasti ja wakuuttawasti on työskennellyt niiden ratkaisemiseksi. Se lisä, minkä hra W. on woinut tuoda näiden kysymysten 
+          onnellisen ratkaisun edistämiseksi, on tosin kauttaaltaan ollut tuiki waatimaton.</p>
+        <p>Seurauksena tästä suomalaisen puolueen toiminnasta onkin ollut, että sitä sywää juopaa, jonka herra W. luulee hawainneensa kaupunkilais- ja maalaisedustajain wälillä suomalaisessa 
+          puolueessa, ei sanottawasti ole ollut olemassa muuta kuin hra W:n mielikuwituksessa ja hywässä halussa. Hra W. on kyllä osoittanut erinomaista pyrkimystä päästä jonkinlaiseksi maalaisten 
+          päälliköksi, mutta puolueemme maalaiset eiwät ole antautuneet hänen johdettawikseen. Herra W:n joukko on niin ollen supistunut johonkin tai muutamaan harwaan edustajaan.</p>
+        <p>Mitä hra W. puhuu siitä, että helsinkiläiset „salajuonilla ja teeskentelyllä” aina owat onnistuneet saamaan maalaiskunnan äänestämään heille mieluisia aineksia, niin lienee sen takana 
+          joku hämärä aawistus siitä, että Helsingistä päin joskus lienee annettu Wiipurin läntisen piirin suomenmielisten walitsijain tietää, että W:sta ei suomalaisen puolueen edustajana ole 
+          waltiopäiwillä sanottawaa hyötyä, mutta toisinaan kylläkin tuntuwaa wahinkoa, ja että sentähden olisi wiisasta walita sieltä joku toinen hänen tilalleen.</p>
+        <p>Sellaisia parjauksia, jommoisilla hra W. nyt esittäytyy uusille puoluetowereilleen, kestää suomalainen puolue tyynesti. Suomalainen puolue tietää tehneensä maalaiskysymysten ratkaisuksi 
+          enemmän kuin yksikään muu puolue, Warmaa myöskin on, että maalaisliitto ei siinä suhteessa tule edes toisellekaan sijalle. Ja sanottakoon se suoraan: kokemuksen perusteella olemme 
+          wakuutetut siitä, että maalaisliiton osuus työssä maalaiskysymysten hywäksi ei tule suurestikaan kaswamaan sen uuden lisän kautta, minkä puolue nyt on saanut.</p>
+        <h5>* * *</h5>
+        <p>On jo wiikko, parikin, wierähtänyt siitä kun „Uusi Aura” otti koirapiiskan seinältään antaakseen „Hämeen Sanomille” isällisen woiteluksensa sen johdosta, että me olimme julkaisseet 
+          senaattori Kairamon selityksen „Uuden Auran” ehdottamasta pelastuskeinosta torppariasiassamme ja uskaltaneet siihen omalta osaltamme liittää muutaman poikkinaisen sanan. Tämä lehden purkaus 
+          ei oikeastaan ansaitsisi wastausta, mutta täällä alikerrassa woi sen muowailla muotoon, joka soweltuu „Uuden Auran” keskustelutyyliin.</p>
+        <p>Me emme omasta puolestamme sanoneet halaistua sanaakaan „Uuden Auran” esittämästä keinosta. Kysymys oli päiwän polttawin, me selostimme „Uuden Auran” kannan ja selostimme myöskin 
+          senaattori Kairamon mielipiteen siitä. Omasta kohden huomautimme waan, että se tapa, millä „Uusi Aura” puhuu Suomalaisen puolueen menettelystä tässä arkaluontoisessa asiassa, on omiansa 
+          asettamaan puolueen peräti huonoon waloon, nostattamaan warsinkin sosialistien leirissä „oikean riemunulwonnan” ja herättämään omassa puolueessa oikeutettua suuttumusta.</p>
+        <p>Kaikki tämä on totta. Sosialistilehdet, m. m. täkäläinen „Hämeen Woima”, owat mitä suurimmalla ilolla rientäneet lainailemaan „Uuden Auran” „suoria sanoja puolueelleen”. Ne owat tehneet 
+          niistä johtopäätöksiä, jotka, jos „Uuden Auran” wäitteet pitäisiwät paikkansa ja kelpaisiwat edellytyksiksi, olisiwat puolueellemme warsin haikeita. Mutta siksi ne eiwät kelpaa, niillä ei 
+          ole pohjaa, eikä perustaa.</p>
+        <p>„Uusi Aura” ei mitenkään woi puolustautua meidän moitteitamme wastaan ja niinpä se waan umpimähkään höyryilee ympärilleen. Se ei tahdo uskoa, että me olisimme tästä sen „wiimeisimmästä 
+          karhunpalwelusta puolueelleen” omasta puolestamme suuttuneet, waan että me waan mielistelläksemme joitakin henkilöitä, joista „Uudella Auralla” on syytä olla pitämättä, olemme käyneet 
+          siihen käsiksi. Minä nyt kuitenkin wakuutan, ettei asia ole ollut „pussissa” enempää kuin „säkissäkään”, waan että me waatimattomassa itsessämme wälittömästi tajusimme, mitä moinen syytös 
+          omasta puolueesta merkitsi ja riensimme sen leimaamaan siksi, mitä se laadultaan oli. „Uuden Auran” ei todellakaan olisi kannattanut kiiwastua tuosta „karhunpalweluksesta”, se on tehnyt 
+          niitä jo niin monta ja sitä nimitystä on niihin sowitettu jo niin monasti, että luulisi jo hiukan tottuwankin. Mutta „Uusi Aura” on ollut „itseänsä täynnä” jo useamman wuoden, eikä se 
+          ole waiwaantunut lukemaan mitään kritiikkiä itsestänsä niin, että siitä olisi jotakin jäänyt mieleen ja että se olisi jotakin opettanut.</p>
+        <p>Tähän saa tämä juttu jäädä, sen jatkamisesta ei kuitenkaan ole mitään hyötyä. „Hämeen Woiman” kahteen arwoisaan artikkeliin en wiitsi ryhtyä wastaamaan, kun niissä premissit owat wäärät, 
+          on itse johtopäätöskin wäärä.</p>
+        <h5>* * *</h5>
+        <p>Meillä on täällä Hämeenlinnassa ollut markkinat taas ja laadultaan aiwan poikkeuksellisen opettawaiset. Ikäwä waan, että se oppi on tullut asianomaisille niin kirwelewän kalliiksi.</p>
+        <p>Me olemme tähän asti säilyneet täällä Hämeenlinnassa koko lailla turwassa hewos y. m. huijareilta. Nyt näkywät ne ulottawan toimintapiirinsä tännekin ja näillä markkinoilla saawuttiwat ne 
+          ainakin puolen tusinaa uhreja. Temput oliwat tutut wanhastaan, Tampereen puolella ei niillä kait enään petetä ketään, mutta täällä ne wielä käywät täydestä. Erikoista mielenkiintoa herätti 
+          minussa eräs tapaus. Kaikki muut oliwat suoraan tunnustaneet tyhmyytensä, mutta eräs joukosta ilmoitti, että hänelle oli tarjottu myrkytetty paperossi, hän oli huumaantunut. Mies woi 
+          todellakin ihailla itseään! Tällaista woimakeinoa en ole kuullut huijarien koskaan käyttäneen, ja se todistaa, että heillä oli kerrassaan werraton wastustaja.</p>
+        <p>Mutta niille muille minä wastaisuuden waralle tahdon huomauttaa, että pitäwät silmänsä auki. Huijarit owat nekin nykyään „järjestyneitä” ja toimiwat suurella woimalla ja menestyksellä. 
+          Niitä on kaikkialla, missä enemmän ihmisiä tiedetään tulewan yhteen. On parasta katsoa jokaista kaupanhierojaa ensin niillä silmin, silloin saa piankin selwille, mistä kukin käy. Kun 
+          siwulliset omat kowasti innostuneita kaupasta, silloin woi olla warma siitä, että on huijarijoukon piirittämä ja parasta on silloin jättää tanner tyhjäksi.</p>
+        <p>Poliisilaitoksen on tietysti myöskin enemmän koitettawa lähettää miehiänsä yleisön joukkoon suojelemaan sitä huijareilta. Mutta siwulta käsin ei näissä asioissa juuri apua lähde, se on 
+          saatawa omasta otsasta ja sinne on warattawa entistä enemmän älyä, jos nykyaikoina haluaa olla markkinoilla mukana.</p>
+        <h5>* * *</h5>
+        <p>Olkoon jo heti aluksi suoraan ja awoimesti tunnustettu, että olen täydellinen maallikko kunnioitettawaa pesijättärien ammattikuntaa koskewissa asioissa. Eli toisin sanoen, että se, mikä 
+          tässä seuraa on suurimmaksi osaksi ollut säkissä, ennenkuin se tuli suuhun.</p>
+        <p>Jo pitemmän aikaa on kaupungin tahänastinen laiwalaiturin wieressä sijaitsewa „pyykkihuone” ollut kauneutta rakastawain kaupunginisien silmätikkuna. Kaikissa sopiwissa tilaisuuksissa owat 
+          he koettaneet tuoda pyykkihuoneelle tuhoa ennustawan katsantokantansa esille, kunnes wihdoin heidän waiwansa ja aherruksensa on saanut palkintonsa, niin että wanha pyykkihuone pian on 
+          „muisto wain”.</p>
+        <p>En tahdo wäittää wanhaa pyykkihuonetta kauniiksi enkä terweydellisessäkään suhteessa mallikelpoiseksi, mutta kappale wanhaa Hämeenlinnaa se on ja aukon sekin, kun se kerran on poissa, 
+          jättää jälkeensä hämeenlinnalaiseen sydämeen. Enkä tiedä, miten sen korwaa korotettu rantapenger, nurmikkoineen, suorawiiwaisiin riweihin istutettuine puineen ja sannoitettuine 
+          käytäwineen.</p>
+        <p>Kun wanha pyykkihuone siten oli saanut tuomionsa, päättiwät isät tietenkin rakentaa uuden ja entistä ehomman. Hankittiin piirustukset ja hywäksyttiin ne sowussa ja yksimielisyydessä. 
+          Kaunis siitä tuli päältä katsoen, sisustaan eiwat isät suuresti kiinnittäneet huomiota ja asiantuntijoiden apua ei tarwittu. Sitä enemmän oli waiwaa, minne sen sijoittaisi. Isät alkoiwat 
+          sitä uittaa „Narikkarannasta” Schmausserin kärkeen, järwen tälle puolen ja tuolle puolen, sillanpieleen, taisiwatpa käydä Linnankärjessä ja „Bastmanin alla” asti, sousiwat ja huopasiwat, 
+          ottiwat huomioon tuulet ja sillan alta puhaltawat wiimat, kunnes lopulta uupuneina ja hiessään heittiwät sen järwen tuolle puolen hewoslaiturin wiereen. Ja siinä se sitten on.</p>
+        <p>On kuin suuren herraskartanon uimahuone hillitynharmaana ja walkoisena puistikon wihreätä taustaa wastaan. Entinen kiwikkoranta on siistitty ja sijaan on rakennettu korkea penger, 
+          käytäwät on sannoitettu, ja siten on hiukan williintyneen näköisestä puistikosta lyhyessä ajassa tullut mitä hauskimman näköinen sopukka. Luulenpa kauneutta rakastawain isäin 
+          tyytywäisinä hykertäwän käsiään sillalta ihaillessaan työnsä tuloksia.</p>
+        <p>Toista wiikkoa on nyt uusi pyykkihuone owet awoinna odotellut käyttäjiään. Niitä ei wain ole kuulunut. Wanhassa sitäwastoin on aina eiliseen asti aamusta iltaan wallinnut hyörinä ja 
+          pyörinä ikäänkuin koko kaupunki yht'aikaa olisi alkanut toimittaa oikeata suursiiwousta. Eilen se siiwous loppui, sillä silloin wanha pyykkihuone höyrylaiwan awustamana lähti kaupungin 
+          rannasta wiime retkelleen. Ehkä uusi tämän jälkeen saa enemmän käyttäjiä.</p>
+        <p>Mikä sitten on syynä tähän uuden hylkimiseen ja wanhan rakkauteen? Mikäli minulle on lueteltu, on syitä niin monta, että tämän lehden palstat wain osapuilleen riittäisiwät niitä 
+          julkituomaan. Kehotankin wain senwuoksi niitä, joita asia koskee, mittaamaan esim. weden sywyyden pyykkihuoneen rannan puoleisen nurkkauksen kohdalta ja samalla tarkastamaan weden 
+          puhtautta, kun pari hikistä hewosta on wiety uimaan läheiseltä hewoslaiturilta. Samalla woisiwat he koettaa, kuinka helppoa on huuhtoa waatteita rinnan korkeudelle ulottuwan aitauksen 
+          yli. Ja jos paikalla sattuu olemaan joku warsinainen, „asiantuntija”, niin häneltä he kyllä saawat tarpeellista lisäwalaistusta riittämään asti.</p>
+        <p>Ainakin minut on saatu wakuutetuksi, että uutta pyykkihuonetta on muutamissa suhteissa korjattawa. Ja eiköhän olisi syytä korjauksiin ryhdyttäessä ottaa huomioon myöskin pyykkihuoneen 
+          warsinaisten käyttäjien mielipide. Eiköhän sille myöskin löytyisi sopiwampaa paikkaa kaupunkimme rantamilla sillä nykyinen on ehdottomasti liian kaukana ja hankalan matkan päässä.</p>
         <p className="signature">Tiitus.</p>
       </Article>
 

@@ -10,7 +10,7 @@ import "../styles/base/global.css"
 const Crimes1914Page = () => {
   return (
     <Layout titleText="Hämeen Sanomat, 1914">
-      <h2>Arveluttavia kotimaan tapahtumia</h2>
+      <h2>Oikeus- ja poliisiasioita</h2>
 
       <div className="interTitle">3.1.1914</div>
       <Article titleText="Ankara tappelu Muolassa">
@@ -81,6 +81,13 @@ const Crimes1914Page = () => {
           julistettiin nimismies Zimmermann menettämään wirkansa. Herra ja rouwa Zimmermann welwotettiin Karttulan paloapuyhdistykselle maksamaan kulunkeja 874 mk. 34 p. Päätös alistettiin howioikeuden 
           harkittawaksi. Herra ja rouwa Zimmermann ilmoittiwat tyytymättömyyttä päätökseen, jota wastoin palwelijatar Lydia Raatikainen siihen tyytyi. Tuomitut passitettiin Kuopion lääninwankilaan.</p>
         <p>Wirallinen syyttäjä oli luopunut palwelijattaren makaamista koskewasta edeswastuuwaatimuksesta nimismies Z, kun asiasta ei ollut täyttä selwyyttä.</p>
+        <div className="interTitle">9.6.1914</div>
+        <h5>Uusi käänne.</h5>
+        <p>Palwelijatar Lyydia Raatikainen, jonka Karttulan käräjäkunnan kihlakunnanoikeus tuomitsi tunnetussa Zimmermannien murhapolttojutussa 4 w. kuritushuoneeseen murhapoltosta ja jota 
+          säilytetään nykyään Kuopion lääninwankilassa, on lääninwankilan johtajalle kertonut, että hän oli sekä juttua koskewassa poliisitutkinnossa että kihlakunnanoikeudessa walehdellut, että 
+          rouwa Zimmerman, jonka oikeus tuomitsi murhapoltosta 6 wuodeksi kuritushuoneeseen, olisi ollut murhapolttoon syyllinen. Omatuntonsa on pakottanut hänet nyt ilmoittamaan että hän pitäen hra 
+          Zimmermannista enemmän kuin rouwasta oli koettanut saada rwa Z:n myöskin osalliseksi rikokseen luultawasti siten woiwansa liewentää hra Z:n rangaistusta. Raatikainen on tunnustanut 
+          ainoastaan hra Z:in kehotuksesta palot sytyttäneensä sekä ilmoittanut että rwa Z on kokonaan syytön. Lääninwankilan johtaja on lähettänyt tutkintopöytäkirjan Wiipurin howioikeudelle.</p>
       </Article>
 
       <div className="interTitle">3.3.1914</div>
@@ -327,6 +334,101 @@ const Crimes1914Page = () => {
         <p>Toissapäiwänä leikkasi Hattulan pitäjän Hurttalan kylässä Kalliolan muonarenki Ewert Lahtinen suurella puukolla kaulansa miltei erilleen poikki. Henki tietysti pakeni heti. Lahtinen oli 
           noin 40-wuotias ja naimisissa. Syynä lienee äkkinäinen mielenhäiriö, jonka oireita hänessä oli aikaisemmin tawattu.
         </p>
+      </Article>
+
+      <div className="interTitle">12.5.1914</div>
+      <Article titleText="Oikeusjuttuja.">
+        <h5>Wirkawapaa pappismies</h5>
+        <p>K. Halmeen tuomitsi täkäl. raastuwanoikeus suorittamaan räätäli A. Suntiolle Forsasta noin 80 mk. ja kuluja. Hra H. oli kieltäytynyt maksamasta sillä perusteella, ettei H. M. Keisari ja 
+          Suomen hallitus ollut suostunut maksamaan hänen welkojansa eikä hänen sowi eläkkeestään maksaa welkoja, mutta suostui nyt ne kuitenkin hywantahtoisesti maksamaan.</p>
+        <SubDivider className="dividerStyle" />
+        <h5>Muutettu tuomio.</h5>
+        <p> Wiime tammikuun 26 p:ää wasten yöllä lõi työmies J. A. Jokinen Akaan pitäjän Lontilan kylästä Rengon pitäjästä Muurilan kylästä kotoisin olewaa räätäli O. Lainetta puukolla rintaan, 
+          niin että tämä jonkun ajan perästä kuoli. Wiime helmikuun 26 pnä antamallaan päätöksellä Lopen ja Rengon käräjäkunnan kihlakunnanoikeus tuomitsi Jokisen tahallisesta pahoinpitelystä, 
+          josta kuolema oli seurauksena, pidettäwäksi 12 wuotta kuritushuoneessa sekä suorittamaan Laine-wainajan waimon ja hänen alaikäisten lastensa elatukseksi 1,000 mk. ynnä hautauskuluja 200 mk. 
+          - Turun howioikeus, jonka tarkastettawaksi päätös alistettiin, on alentanut Jokiselle tuomitun rangaistuksen 8 wuodeksi, mutta muuten jättänyt kihlakunnanoikeuden päätöksen woimaansa.</p>
+      </Article>
+
+      <div className="interTitle">26.5.1914</div>
+      <Article titleText="Tulipalo Myllymäessä.">
+        <h5>Murhapolttoko?</h5>
+        <p>Lauwantaina kello 4:n tienoissa iltapäiwällä pääsi tuli walloilleen ajuri J. Sirénin talossa wuokratontilla n:o 119 Myllymäessä. Rakennukseen kuului 3 huonetta, liiteri, talli ja 
+          ulkohuoneet. Tuli pääsi irti tallista toistaiseksi tuntemattomalla tawalla ja hetken kuluttua oli koko rakennus liekkien wallassa. Sammutustyötä haittasi suuresti weden puute ja lyhyessä 
+          ajassa paloi rakennus miltei perustuksiaan myöten. Osa palokunnan westijohtoletkuista oli huonossa kunnossa.</p>
+        <p>Paitsi isäntäwäkeä ajuri Siréniä ja hänen waimoaan asui rakennuksessa pari nuortamiestä. Tulipalon syttyessä oliwat miehet saunassa, kotona oli wain ajuri Sirénin waimo. Irtaimistoa ei 
+          ehditty pelastaa juuri nimeksikään, m. m. paloi pienempi summa rahaa, kello y.m. sekä talossa asuneiden nuortenmiesten omaisuus kokonaan. Pari kanaakin joutui tulen uhriksi.</p>
+        <p>Paloa epäillään murhapoltoksi. Ajuri Sirén ja hänen waimonsa pidätettiin samana iltana. Kerrotaan heidän raha-asioittensa wiime aikoina olleen huonolla kannalla. Palanut asuinrakennus on 
+          wakuutettu palowakuutusyhtiö Imatrassa 2,900 mk:sta ja sen yhteydessä ollut ulkohuonerakennus 600 markasta. Talo oli kokonaisuudessaan wakuutettu 7,000 mk:sta. Irtaimisto oli wakuutettu 
+          Sammossa 2,000 mk:sta.</p>
+        <p>Poliisitutkinto alettiin eilen.</p>
+      </Article>
+
+      <div className="interTitle">28.5.1914</div>
+      <Article titleText="Myllymäen murhapolttojuttu.">
+        <p>Ajuri J. Sirénin talon palon johdosta on poliisitutkinto päättynyt. Waimo Siréniä wastaan on raskauttawia todistuksia ja on hän puheissaan sekaantunut. Ajuri Siréniä wastaan ei ole mitään 
+          sanottawaa ilmennyt, jonka takia hän on päästetty wapaalle jalalle. Waimo on edelleen wangittuna. Asia tulee raastuwanoikeuden käsiteltäwäksi.</p>
+        <p>Jo talwella oli Sirénillä tulipaloyritys, jota myös epäiltiin murhapoltoksi.</p>
+      </Article>
+
+      <div className="interTitle">6.6.1914</div>
+      <Article titleText="Raaka werityö Hausjärwellä.">
+        <p>T. k. 1 p. oli wanhus Hilda Koiwisto menossa kirkonmenoihin Erkylän Kerkkolaan. Kun hän oli ehtinyt noin kilometrin matkan asunnostaan, niin tuli muuan mieshenkilö häntä wastaan. Mies 
+          alkoi hakata wanhusta kiwellä. Wanhus sai kymmenen haawaa päähänsä. Paikalle oli kutsuttawa Hywinkäältä tohtori Sandelin, joka sitoi haawat.</p>
+        <p>Koiwisto kertoo tuntewansa lyöjän. Asia on ilmoitettu Hausjärwen piirin nimismiehelle, joka on pidättänyt tekoon syypäänä torppari Piimäen pojan. Poika kuuluu olewan wähän 
+          synkkämielinen.</p>
+      </Article>
+      <Article titleText="Myllymäen murhapolttojuttu">
+        <p>oli wiime torstaina ensimäisen kerran esillä täkäl. raastuwanoikeudessa. Wastaaja, Josefiina Siren oli lääninwankilasta tuotu oikeuspaikalle. Hänen awustajanaan esiintyi asianajaja 
+          Söderholm. Poliisitutkintopöytäkirjan tunnusti wastaaja Siren suurimmaksi osaksi oikeaksi, mutta kielsi tulipalopäiwänä käyneensä liiterissä tahi tallissa, ei edes edustalla ollut 
+          sanottuna päiwänä ollut. Kertoi iltapäiwällä awustaneensa samassa talossa asuwaa Hilma Hanganpäätä tämän kylwettäessä lastaan ja sanoi wiipyneensä täällä noin 1/2 tunnin ajan.</p>
+        <p>Wirallisen syyttäjän waadittua edeswastuuta (36 §:n 2 momentin mukaan) ja todistajain sanottua walansa alkoi todistajain kuulustelu.</p>
+        <p>Todistaja Erland Tyrylä kertoi waimo Sirenin sanoneen: „Johan minä sanoin, että kun se tuli sytytettiin, siitä jotain tulee.” Ei sanonut tunteneensa mitään öljyn ym. sellaisen käryä.</p>
+        <p>Todistaja August Erland Laakso selitti, ettei tiedä, mitä tulta wastaaja tarkoitti päiwitellessään sitä, että tuli oli tehty niin lähelle hänen taloaan. Tuli oli liiterissä tallin wintin 
+          reunalla wastaajan asunnon puoleisessa nurkassa.</p>
+        <p>(Tyrylä ja Laakso wastakkain kuultuina pysyiwät kumpikin kertomuksissaan siitä, että tuli Tyrylän käsityksen mukaan nousi lattiasta kattoon; kun taasen Laakso oli sitä mieltä, että tuli 
+          oli saanut alkunsa tallin wintin reunalta.)</p>
+        <p>Tod. Ida Kiwiluoto ilmoitti hawainneensa, että tuli puhkesi räystäistä tallin puolelta.</p>
+        <p>Tod. Olga Tyrylä sanoi tehneensä tulen 26 m. päähän palaneesta rakennuksesta, pyykkiä pestäkseen, eikä tuuli wienyt sawua suoraan asunnolle päin.</p>
+        <p>Tod. Aleksander Hanganpää ei huomannut oliko liiterin owi kiinni tahi auki eikä myöskään hawainnut oliko Sirenin owessa awainta.</p>
+        <p>Tod. Hilma Hanganpää selitti, että wastaaja oli ollut hänen asunnossaan 2 kertaa sekä ilmoittaneen tulen olewan irti. Tuli oli walloillaan tallin wintillä. Waimo Siren oli wiipynyt 
+          kylwettämisessä 10 minuuttia.</p>
+        <p>Palowakuutus O. Y. Imatran edustaja ilmoitti, että J. Siren joulukuussa 1912 tahtoi wakuuttaa talonsa 8,000 mksta, mutta Imatra otti wakuuttaakseen 7,000 mksta, josta palanut rakennus 
+          2,900 mksta ja palaneet ulkohuonerakennukset 600 mksta sekä toinen rakennus 3,500 mksta. Tästä wakuutuksesta suoritetaan nyt 3,140:05, huomioonottaen palaneiden rakennusten jäännösten 
+          arwo.</p>
+        <p>Hra Söderholm pyysi wastaajan puolesta, että kanne aiheettomana kumottaisiin ja wastaaja päästettäisiin heti wapaalle jalalle ja pitäisi lisäksi itselleen awoimen puhewallan, samaten 
+          esitti korwauswaatimuksen wastaajan puolesta. Vastaajalla ei olisi ollut mitään etua palosta, koska rakennus on noin 8,000 mk:n arwoinen, sekä että wastaajan irtaimistokin on arwokkaampi 
+          kuin 2,000 mk.</p>
+        <p>Syyttäjä pyysi lykkäystä hankkiakseen palowakuutuskirjain jäljennökset ja tiedot wastaajan warallissuussuhteista.</p>
+        <p>Juttu lykättiin t. p. 18 päiwään klo 11 ap., johon mennessä syyttäjä hankkikoon haluamansa tiedot; wastaaja passitettiin takaisin lääninwankilaan.</p>
+      </Article>
+
+      <div className="interTitle">16.6.1914</div>
+      <Article titleText="7-wuotias poikanen äitinsä yllytyksestä hukuttanut towerinsa.">
+        <p>T. k. 5 p. tawattiin Hyrskylän pitäjässä lähellä Gresnäsin kartanoa 9 wuotiaan poikasen Armas Niemisen ruumis wedestä ja luultiin silloin poikasen hukkuneen uidessaan. Kun paikkakunnan 
+          nimismiehelle kuitenkin ilmoitettiin olewan epäilyksiä, ettei onnettomuus ollut kysymyksessä, toimitettiin asiasta tutkinto, jolloin käwi ilmi, että Armas Nieminen oli työnnetty jokeen 
+          ja että teon oli tehnyt 7 1/2 wuoden wanha poika Walter Laurila äitinsä yllytyksestä. Walter Laurilan äiti Anna Laurila oli aikeissa mennä naimisiin hukutetun pojan isän, wouti Kari 
+          Niemisen kanssa, joka on leski. Äiti oli kehottanut poikaansa toimimaan niin, jotta saataisiin Armas tieltä pois.</p>
+        <p>Anna Laurila on wangittu ja passitettu lääninwankilaan.</p>
+      </Article>
+      <Article titleText="Kamala werityö Hausjärwen waiwastalolla.">
+        <p>T. k. 9 p. iltapäiwällä oli mielisairas nainen Amanda Eklund, Hausjärweltä, jota säilytetään sanotulla waiwastalolla, pakkopaitaan puettuna käwelemässä n. s. käwelypihassa. Kun 
+          hoitajatar poistui hetkeksi hänen luotaan oli Eklund riistäytynyt irti pakkopaidasta sekä pienen akkunan kautta tunkeutunut sairashuoneuston käytäwään ja siitä pienen owenpäällä olleen 
+          akkunan kautta kiiwennyt mielisairaan 80-wuotisen wanhuksen Maria Lahden huoneeseen, hän oli alkanut hakata Lahtea, joka sai päähänsä pienen haawan. Paikalle saapui heti lääkäri 
+          automobiilillä. Lahti, joka jo pitemmän aikaa oli ollut heikkona sairaana, kuoli kuitenkin seuraawana päiwänä.</p>
+      </Article>
+
+      <div className="interTitle">18.6.1914</div>
+      <Article titleText="Kummallinen petos hewoskaupassa.">
+        <p>Kun Rehakan kartanon torppari R. Peltola Janakkalasta, kauppasi 13-wuotiaan poikansa kanssa hewostaan Poltinaholla, saapui hänen luokseen miehiä, jotka ryhtyiwät hieromaan kauppaa hänen 
+          kanssaan. Kauppaa tehtäessä tarjosiwat miehet Peltolalle paperossin, josta tämä oman kertomansa mukaan huumaantui niin, että antoi miesten waihtaa hänen hywän 4-wuotiaan hewosensa 
+          pahanpäiwäiseen koniin. Pojalle syöttiwät miehet 5 pennin wehnäsen, josta tämä huumaantui samalla tawalla kuin hänen isänsäkin.</p>
+        <SubDivider className="dividerStyle" />
+        <h5>Hewoshuijarin uhriksi</h5>
+        <p>joutui muuan toinenkin Janakkalan mies wiime markkinoilla. Unikon torpparin Kustaa Koskisen markkinapäiwänä parhaillaan tehdessä hewoskauppaa Poltinaholla erään tuntemattoman miehen 
+          kanssa sekaantui kauppaan kolmaskin mies, jolloin he siirtyiwät hautausmaanpuoleiseen päähän hewosta koettamaan. Wastatullut tarjosi silloin ensimäiselle miehelle hewosensa, jota hänellä 
+          ei ollut mukanaan, mutta ennen sowitusta 585 mk hinnasta, johon tämä oli suostuwinaankin. Silloin ehdotti ostaja, että Koskinen waihtaisi hewosensa wastaostettuun ja tarjosi 120 mk. wäliä. 
+          Koskinen, joka ei ollut toiwonut hewosestaan 600:kaan suostui kauppaan. Wiimeksi tullut mies oli sillä wälin mennyt Koskisen hewosta koettamaan ja kadonnut hewosineen päiwineen. Kun 
+          Koskinen lähti häntä tawottamaan oli toinenkin mies kadonnut wakijoukkoon ja hewonen menetetty.</p>
       </Article>
 
       <br></br>

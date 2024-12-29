@@ -14,7 +14,7 @@ import SubDivider from "../assets/sub-divider.svg"
 const Crimes1924Page = () => {
   return (
     <Layout titleText="Hämeen Sanomat, 1924">
-      <h2>Rikollista toimintaa Hämeenlinnassa ja lähiseuduilla</h2>
+      <h2>Oikeus- ja poliisiasioita Hämeenlinnassa ja lähiseuduilla</h2>
       <Divider className="dividerStyle"/>
       <p className="centeredStyle boldStyle" style={{margin:"8px 0"}}>Torstai, 3.1.1924</p>
       <Article titleText="Tappelu Lammilla.">
