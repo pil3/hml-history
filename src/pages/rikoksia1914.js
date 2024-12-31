@@ -431,6 +431,93 @@ const Crimes1914Page = () => {
           Koskinen lähti häntä tawottamaan oli toinenkin mies kadonnut wakijoukkoon ja hewonen menetetty.</p>
       </Article>
 
+      <div className="interTitle">27.6.1914</div>
+      <Article titleText="Salainen ilmianto Hattulassa.">
+        <h5>Teknikko P. Teukku saanut haasteen majesteettirikoksesta.</h5>
+        <p>Hattulan „Jukolassa” pitämänsä puheen johdosta wiime helluntaina, josta puheesta oli sittemmin tehty ilmianto Hämeenläänin kuwernöörille, on nyttemmin puheenpitäjä, teknikko Paawo Teukku 
+          saanut haasteen saapua Hattulan piirin kihlakunnanoikeuteen ensi syyskäräjille wastaamaan majesteettirikoksesta.</p>
+      </Article>
+
+      <div className="interTitle">30.6.1914</div>
+      <Article titleText="Ruhtinasmurha.">
+        <h5>Itäwallan kruununperillinen, arkkiherttua Frans Ferdinand puolisoineen murhattu.</h5>
+        <p><span className="accent">Serajevo</span>, kesäk. 28 p. Arkkiherttua Frans Ferdinandin ajaessa tänään puolisonsa Hohenbergin herttuattaren seurassa Raatihuoneelle heitettiin 
+          automobiiliin pommi, joka wahingoittamatta arkkiherttuaa tahi hänen puolisoaan surmasi useita ihmisiä. Pommin heittäjä, muuan kirjapainotyömies, on wangittu. Saawuttuaan Raatihuoneelle 
+          joutui arkkiherttua ja hänen puolisonsa myrskyisten suosionosotusten esineeksi.</p>
+        <p>Raatihuoneella tapahtuneiden juhlallisuuksien jälkeen tehtiin arkkiherttuaa ja hänen puolisoaan wastaan toinen murhayritys. Heidän palatessaan automobiilillä asuntoonsa haawoitti muuan 
+          kymnasisti kahdella browringinlaukauksella waikeasti arkkihertttua Frans Ferdinandia ja hänen puolisoaan. Sairaalaan wietyinä kuoliwat molemmat.</p>
+        <p><span className="accent">Serajewo</span>, kesäk. 28 p. Murhaaja nimeltään Princip on kymnasisti ja ijältään wasta 19-wuotias. Hän on jonkun aikaa opiskellut Belgradissa. Kuulustelussa 
+          hän on ilmoittanut jo kauan nationalistisista syistä aikoneensa surmata jonkun korkeassa asemassa olewan henkilön. Hän odotti arkkiherttuan automobiiliä Appelin rantakadulla eräässä kadun 
+          kulmauksessa, jossa sen täytyi hiljentää wauhtiaan. Nähdessään autossa myöskin arkkiherttuan puolison Hohenbergin herttuattaren epäröi hän hetkisen mutta ampui senjälkeen nopeasti 
+          browningillaan 2 laukausta. Murhaaja kielsi omaawansa rikostowereita.</p>
+        <p><span className="accent">Serajewo</span>, kesäk. 27 p. Ensimäinen murhayrityksentekijä on ammatiltaan kirjapainaja ja nimeltään Nedelko Zabrenowitsh. Hän kertoo saaneensa pommin 
+          belgradilaisilta anarkisteilta, joiden nimiä hän ei tiedä. Hän wäittää, ettei hänellä ole rikostowereita. Kuulustelussa hän on esiintynyt hywin kylmäniwallisesti. Murhayrityksen tehtyään 
+          hän heittäytyi jokeen, josta hänen jälessään heittäytyneet poliisit ja muut henkilöt hänet ottiwat kiinni. Toisen murhapaikan läheisyydestä löydettiin räjähtämätön pommi, jonka 
+          todennäköisesti on jättänyt kolmas murhaaja, joka huomattuaan Principin teon onnistuneen on paennut.</p>
+        <p><span className="accent">Serajewo</span>, kesäk. 28 p. Ensimäisen laukauksen kajahdettua arkkiherttuatar waipui puolisonsa syliin. Luoti oli tunkenut automobiilin laidan läpi hänen 
+          uumeniinsa. Waikeasti haawoitettuna hän meni heti tainnuksiin. Toinen luoti sattui arkkiherttuan kaulaan. Kuolema seurasi silmänräpäyksessä. Murhaaja toimi salamannopeasti. Kaikki lähellä 
+          seisowat eiwät kuulleet edes laukauksia. Katu murhapaikalla on erittäin kapea.</p>
+        <p><span className="accent">Serajewo</span>, kesäk. 29 p. Ensimäisessä murhayrityksessä sai surmansa tahi haawoittui 20 henkeä, niiden joukossa useita waimoja ja lapsia. Koko kaupunki on 
+          surun wallassa.</p>
+        <h5>* * *</h5>
+        <p>Tällä werityöllä woi olla suuremmat seuraukset kuin saatetaan aawistaakkaan. Saksan keisari Wilhelm oli Franz Ferdinandin läheinen ystäwä ja kolmiliitto nojasi suurelta osalta juuri 
+          tähän ystäwyyteen. Mitenkä tämä tapaus tutee liiton lujuuteen waikuttamaan, on waikea määritellä, mutta tuntuwa tappio se sille joka tapauksessa oli.</p>
+        <p>Toiseksi on Itäwalta-Unkari nyt ilman kruununperillistä. Kuten tiedetään, oli Franz Ferdinand morganaattisessa awioliitossa ja waikka hän monasti, wiimeksi aiwan hiljakkoin, oli pyytänyt 
+          keisari Josefia sitä laillistuttamaan, ei tämä siihen suostunut. Wainajan lapset eiwät näin ollen woi periä waltaistuinta. Sitäpaitsi owat he alaikäisiä ja täten tulisi Itäwalta-Unkari 
+          ennen pitkää saamaan holhoojahallituksen. Siihen se ei uskaltaudu, sillä tunnettuahan on, että Unkari itsepintaisesti pyrkii itsenäiseksi ja eteläslaawit, josta murhaajakin on kotoisin, 
+          seuraawat kernaasti esimerkkiä.</p>
+        <p>Kaiten kaikkiaan woi olettaa, että tämä werityö saa suuria muutoksia Euroopan politiikassa aikaan.</p>
+        <div className="interTitle">4.7.1914</div>
+        <h5>Kowa kohtalo</h5>
+        <p>näyttää erityisesti seuraawan wanhan keisarin Frans Josefin lähimpää perhepiiriä. Yksi toisensa jälkeen hänen likeisimmistään on saanut kaatua wäkiwaltaisen kuoleman uhrina.</p>
+        <p>Itse oli hän murhayrityksen alaisena 18 päiwänä helmikuuta 1858, jolloin unkarilainen Libenyi arweluttawasti haawoitti häntä tikarilla.</p>
+        <p>Hänen nuorempi weljensä Maksimilian, Meksikon keisari, teloitettiin wallankumouksen jälkeen, kesäk. 19 pnä 1867.</p>
+        <p>Hänen ainoa poikansa, lahjakas arkkiherttua Rudolf, löydettiin 30 päiwänä tammikuuta 1889 Mayerlingissä wäkiwaltaisesti kuolleena salaperäisissä oloissa. Virallisen selityksen mukaan oli 
+          hän tehnyt itsemurhan yhdessä rakastajattarensa, kreiwitär Maria Wetseran kanssa, myöhempien yksityistietojen mukaan oliwat molemmat murhatut.</p>
+        <p>Keisarin puolison, keisarinna Elisabetin, murhasi muuan anarkisti Bucheni Genewessä tikarilla 10 pnä syysk. 1898.</p>
+        <p>Nyt on toinen hänen aikaisistaan perintöruhtinaista, hänen weljensä poika Frans Ferdinand puolisoineen murhattu.</p>
+        <p>On siinä wäkiwaltaista kuolemaa yhden perheen osaksi yhden perheen isän eläessä.</p>
+      </Article>
+
+      <div className="interTitle">16.7.1914</div>
+      <Article titleText="Itsepuolustuksessa tehty miesmurha Kärkölässä.">
+        <p>Wiime sunnuntaina klo 9:n tienoissa illalla kulki pitkin Hausjärwelle wiewää maantietä polkupyörällä ratawartija Sulo Leimu Lappilan asemalta matkalle tuttawiinsa sanotussa pitäjässä. 
+          Hänen edellänsä ajoi hewosella maanwiljelijä Nummela weljensä Nestori Nummelan kanssa, molemmat Lapinnummen kylästä. — Kun wiimemainittu Nestori Nummela huomasi Leimun pyörineen, 
+          hyppäsi hän alas kärryiltä ja hyökkäsi pyöräilijän kimppuun lyöden ja uhkaillen häntä. Leimu pyysi saada olla rauhassa. Kun Nummela kuitenkin jatkoi lyöntejään, kohotti ahdistettu 
+          ampuma-aseensa sillä seurauksella, että Nummela kuoli silmänräpäyksessä. — Nestori Nummela oli tuossa 25—30 wuoden wälillä; jotenkin samanikäinen on Leimukin, joka muuten on tunnettu 
+          kunnon mieheksi. — Mikä lienee perimäisenä syynä tapahtumaan, ei wielä warmuudella tiedetä. Poliisitutkintoa pidetään paraillaan.</p>
+      </Article>
+
+      <div className="interTitle">18.7.1914</div>
+      <Article titleText="Murha Tammelan Pyhäjärwellä.">
+        <p>Olemme saaneet tapahtumasta seuraawia lisätietoja.</p>
+        <p>Seurue johon Ilmari Tuomikin kuului oli illalla laskenut pitkänsiiman Pyhäjärween. Aamulla ryhtyiwät he sitä kokemaan mutta ehdittyään katsoa muutaman koukun ilmestyi heidän siwulleen 
+          wene, jossa oli 2 miestä. Kysyttyään kenen luwalla pojat kalastiwat oli toinen weneessä olleista miehistä wartija Wirtanen ojentanut haulikkonsa soutamassa ollutta Tuomea kohti ennen 
+          kerrotulla seurauksella. Tuomi kuoli noin 2 minuutin kuluttua.</p>
+        <p>Ammuttuaan soutiwat wartijat poikain weneen wiereen ja ottiwat, murhatusta sen enempää wälittämättä, takawarikoon siimalatikon ja pistinhaawin sekä soutiwat heti Tammelan kirkonkylään 
+          ilmoittamaan tapahtumasta poliisille. Pojat taas säikähdyksestään selwittyään lähtiwät kiireen kaupalla kotia kohti.</p>
+        <p>Poliisitutkinnossa on ampuja Wirtanen kertonut, kuten wiime numerossa kerrottiin aikeestaan ampumalla pelottaa, tapaturmasta y. m. Toinen weneessä olleista wartijoista O. Wiik 
+          sitawastoin kertoi kieltäneensä Wirtasta asetta käyttämästä mutta tämä ei ollut kiellosta wälittänyt. Wainajan towerit kertowat, että Wirtanen oli ampunut laukauksen mitään warottamatta 
+          tai kysymättä. Wieläpä kertowat he kieltäneensä Wirtasta ampumasta, mutta teki tämä sen siitä huolimatta.</p>
+        <p>Wirtanen on 35 wuotias ja 5 alaikäisen lapsen isä.</p>
+        <p>Tapauksen johdosta kuten jo ennen on mainittu pidettiin kansalaiskokous Forssassa työwäenyhdistyksen talossa t. k. 14 p. Kokouksessa jossa puheenjohtajana toimi E. Alawirta ja 
+          sihteerinä A. Aaltonen, keskusteltiin ensin Tammelaan perustetun kalastuskunnan oikeuksista. Keskustelu jäi wastaukseksi kysymykseen kun ei woitu hywäksyä ehdoitettuja päätösponsia. 
+          Sitten keskusteltiin itse tapauksesta ja tunnustettiin se yksimielisesti ennen kuulumattomaksi raakalaistyöksi. Kokouksessa myöskin puheenjohtaja mainitsi olewan täysin todistettawissa, 
+          että ampuja wiime wiikolla oli lausunut uhkauksia forssalaisia kalastajia kohtaan, jotka uhkaukset nyt owat toteutuneet mitä ikäwimmällä tawalla. Kokous päätti asian johdosta ryhtyä 
+          seuraawiin toimenpiteisiin:</p>
+        <p>Kun Tammelan poliisit owat tawallaan osallisia myöskin jutun alkuwaiheisiin, nimittäin pyydysten takawarikoimisessa, pidettiin suotawana, että läänin kuwernööri määräisi tutkinnon 
+          asiasta toimittamaan jonkun jääwittömän henkilön.</p>
+        <p>Wainajan omaista lainopillisesti awustamaan kutsutaan joku warma asiamies, josta huolehtii myöhemmin walittu toimikunta.</p>
+        <p>Kun oikeusjuttu tulee kysymään waroja jonkun werran, toiwottiin, että kulut maksetaan yhteisesti.</p>
+        <p>Jos aineellinen awustus tulee kysymykseen wainajan läheisimmille omaisille — wainaja oli lesken poika — niin pidettiin luonnollisena, että sen on tultawa siltä taholta, joka on 
+          aiheuttanut itse tapahtumankin. Asiasta huolehtimaan walittiin erityinen toimikunta.</p>
+        <p>Muuten lausuttiin kokouksessa hywinkin ankaroita sanoja asian eri puolilta.</p>
+        <p>Tässä yhteydessä mainittakoon, että kokouksessa ilmeni jälleen sama ikäwä seikka, joka aina waiwaa Forssan kansalaiskokouksia, se nimittäin, että niistä eräältä taholta koetetaan 
+          muodostaa agitatsioonikokouksia. Niinpä nytkin kokous oli kutsuttu kokoon tapahtuneen murhan ja siitä johtuwien toimenpiteitten tähden, mutta yksi sielä puhui eduskuntawaalista ja 
+          sosialistisista lainlaatijoista, toinen rahawallasta, kolmas urkkimisjärjestelmästä j. n. e. kukin oman asiansa eduksi. Harwat puhujat pysyiwät itse asiassa ja puhtaasti siinä ei 
+          pysynyt yksikään. Tahdottiinpa puheenjohtajaa päättämään laittomia ponsiakin. Sellaista se on Forssan kansalaiskokousten meno.</p>
+      </Article>
+
       <br></br>
       <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>
     </Layout>

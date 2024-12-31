@@ -555,6 +555,53 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
+      <Divider className="dividerStyle" />
+
+      <Article titleText="16.7.1914">
+        <h5>Kuumuus.</h5>
+        <h5>Eduskuntaa ei hajoteta.</h5>
+        <h5>Lihantarkastuksesta.</h5>
+        <p>Kuumuutta on ollut enemmän kuin tarpeeksi. On ollut warjossakin yli 30 astetta. Jo tällä ilmalla tarkenee. Ja tätä kuumuutta on kestänyt wiikko toisensa jälkeen. Paikoin lienee jonkun 
+          werran satanut, mutta kuitenkin wähemmässä määrässä. Paahtawa kuumuus on tukehduttawana kuiwannut kaiken, niin että kosteaa paikkaa on maanpinnalta waikea löytää. Perunan warret, wilja 
+          ja herneet owat miltei kokonaan palaneet, joten on pelko huonosta, kalliista wuodesta, ellei pikaista sadetta saada. Toiwottawasti saadaankin ennen pitkää sadetta. Ukkosen jyrinää on 
+          wiime päiwinä kuultu ja kaupungin ympäristöllä on jo hieman wirkistäwää sadettakin saatu.</p>
+        <h5>* * *</h5>
+        <p>Suomen kaikkiwaltias kenraalikuwernööri on innokkaasti puuhannut eduskunnan hajottamista torpparikysymyksemme johdosta. Ministerineuwoston kokouksessa kärsi hra Seyn musertawan tappion. 
+          Kesäkuumuudesta huolimatta oli hän wallan palawalla touhulla ja kiireellä puuhannut ehdotuksensa puolesta, mutta ei yksikään ääni noussut häntä puoltamaan, waan jäi hän auttamattomasti 
+          häwiölle. Hänen hajoitustouhuaan pidettiin turhana ja harkitsemattomana. Kenraalikuwernöörin ja senaatin kiihkeästä yrityksestä huolimatta säästymme nyt kait waalitouhusta, oikein pääsee 
+          helpotuksen huokaus. Sosialisteillemme, taktiikkamestareille, ei tämä kumoon mennyt yritys liene wallan mieluinen, sillä hehän ampuiwat jo porwareita, warsinkin „suomettarelaisia” 
+          yksitoista tuumasilla.</p>
+        <p>Myöhemmät Pietarin tiedot kertowat, ettei korkeimmissa piireissä olla tyytywäisiä kenraalikuwernööri Seyniin hänen liiaksi jyrkän kantansa wuoksi Suomen torppariasiassa. Piireissä ei 
+          hywäksytä sitä, että kenraali Seyn kannatti Suomen senaatin ehdotusta eduskunnan wiipymättömästä hajoittamisesta.</p>
+        <p>Seynin asema ei kumminkaan toistaiseksi ole horjuwa, sillä kysymystä eduskunnan hajoittamisesta ei äskeisestä ministerineuwoston päätöksestä huolimatta kuitenkaan wielä woida pitää 
+          lopullisena tässä asiassa. He arwelewat eduskunnan hajoittamisen olewan mahdollisen, jos eduskunta kolmannen kerran kieltäytyy käsittelemästä maanwuokralakia.</p>
+        <h5>* * *</h5>
+        <p>Hywä kaupunkimme on taasen yhdessä asiassa mennyt monia muita kaupunkeja edelle, wieläpä yksin maan pääkaupunkiakin. Suuriarwoinen terweydenhoidollinen toimenpide, lihantarkastuspakko on 
+          täällä ollut woimassa jo kaksi wiikkoa ja Helsingissä astuu se woimaan elok. 1 p:nä.</p>
+        <p>Lihantarkastuspakko tarkoittaa sitä, että teurastettujen nautaeläinten, wasikkain, sikojen, lampaiden, wuohien ja hewosten lihaa tahi sisälmyksiä ei saa kaupungissa eikä sen alueella 
+          pitää kaupaksi eikä rawintoloissa, yleisissä ruokailupaikoissa, makkaratehtaissa tai muissa ruuanwalmistuslaitoksissa ihmisrawinnoksi walmistaa ellei se ole tarkastettu ja leimattu 
+          kaupungin lihantarkastuksessa.</p>
+        <p>Tarkastuksen ja leimaamisen toimittaa laillistettu eläinlääkäri terweyshoitolautakunnan hywäksymien lähempien ohjeiden mukaan.</p>
+        <p>Ihmisrawinnoksi kelpaamattomaksi hawaittu liha on tarkastuslaitoksen toimesta häwitettäwä, ellei sitä todistettawasti käytetä teknillisiin tarkoituksiin.</p>
+        <p>Kaupaksi pidetty leimaamaton liha on järjestys- tai terweyshoitowiranomaisten toimesta heti otettawa talteen ja tarkastettawa omistajan kustannuksella, minkä lisäksi omistaja on 
+          tarkastuswelwollisuuden laiminlyömisestä saatettawa edeswastuuseen.</p>
+        <p>Henkilöt, jotka myywät kaupungin ulkopuolella walmistettuja makkaratawaroita tai muita sen tapaisia tuotteita owat welwolliset terweyshoitowiranomaisille toteennäyttämään, että 
+          kysymyksessä olewat tawarat owat walmistetut asianmukaisesti tarkastetusta lihasta.</p>
+        <p>Tarkastukseen on tuotawa:</p>
+        <p>a) naudasta ja hewosesta wähintäin neljännes (jos puolikas tuodaan: halkaistuna, ei katkaistuna).</p>
+        <p>b) muista teuraista wähintäin puolikas (halkaistuna, ei katkaistuna).</p>
+        <p>Tarkastukseen on tuotawa eläimen alaleuka, kieli, sydän, keuhkot, maksa, perna, munuaiset ja lehmistä sen lisäksi utareet ja emä; ne elinosat kiintonaisina ja luonnollisessa asesmassaan, 
+          jotka kuuluwat tarkastettawaan osaan.</p>
+        <p>Taudin muuttamia osta ei ennen tarkastusta saa poistaa. Rauhasten pitää olla paikallaan eiwätkä saa olla leikeltyjä. Maha ja rintaontelon kalwoja ei myöskään saa ennen tarkastusta 
+          poistaa.</p>
+        <p>Tarkastustoimenpiteet owat herättäneet kahdenlaista mielipiteitä. Tarkastuksen puoltajat sanowat, että meidänkin kaupunkiimme on tuotu tuberkuloottisten ja myöskin muun taudin johdosta 
+          lopetettujen tahi itsestään kuolleiden eläinten taikka muutoin pilaantunutta ja ala-arwoista lihaa, jonka takia tällaisen yritykset owat ehkäistäwät. Monet maalaiset ja teurastajat 
+          pitäwät tarkastusta turhana ja wäittäwät sen tuottawan waiwaa, touhua ja lisämenoja. Jotkut kaupunkilaiset owat tarkastuksen syyksi asettaneet lihan hintojen kohoamisen.</p>
+        <p>Kaikki uudet hommat tietysti tuntuwat ensin oudoilta, mutta kun tarkastus kerran on astunut woimmaan, kehoitetaan maaseudun lihanlähettäjiä tutustumaan ohjesääntöihin, jotta 
+          wälttäisiwät turhia ikäwyyksiä. Hämeenlinnalaisten perheenemäntien y. m. lihanostajain on lihaostoksia tehdessään tarkoin walwottawa, että ostamassaan lihassa on tarkastusaseman leima.</p>
+        <p className="signature">Tiitus.</p>
+      </Article>
+
 
       <br></br>
       <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>

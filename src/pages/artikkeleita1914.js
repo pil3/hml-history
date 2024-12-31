@@ -8,6 +8,8 @@ import Image from "react-bootstrap/Image";
 import "../styles/base/global.css"
 
 import SubDivider from "../assets/sub-divider.svg"
+import QuoteStart from "../assets/quotation-start.svg"
+import QuoteEnd from "../assets/quotation-end.svg"
 
 import img1 from "../images/content/hasa1914/img-1.jpg"
 
@@ -795,6 +797,63 @@ const Articles1914Page = () => {
           kauan häkissä ollut lintu unohtaa wapautensa, wihreät metsät ja maat, me emme muuta kaipaa kuin kahleitamme. Ja siksi tuntuu meistä niin epätoiwoiselta tuo nuorison riemukas lewottomuus 
           ja tuo touhukas ilme rouwien silmissä: se tietää maallemuuttoa, se ennustaa kuumuutta, kärpäsiä ja kesäleskeyttä.</p>
         <p className="signature">Samuli.</p>
+      </Article>
+
+      <div className="interTitle">27.6.1914</div>
+      <Article titleText="Raukkamaista menettelyä.">
+        <h5>Herra Rängmanin oikaisun johdosta.</h5>
+        <p>Noin pari wiikkoa sitten kertoi eräs uutinen lehdessämme, että wirkatalojentarkastaja R. R. Rängman oli läänin kuwernööriltä anonut Hämeenlinnan kruununmakasiininhoitajan tointa, joka oli 
+          julistettu awonaiseksi raatimies Lindbergin tultua yhdenvertaisuuslain nojalla siitä eroitetuksi. Tämän johdosta waati hra Rängman lehdessämme tilaa oikaisulle, jossa hän wäitti uutistamme 
+          kokonaan perättömäksi, ilmoittaen lääninhallituksessa waan „aikoinaan tiedustelleensa mainitun toimen waiheita.” Kun hän sitäpaitsi suullisesti kiwenkowaan wakuutti asianlaidan 
+          tällaiseksi, katsoi toimitus epäilyistään huolimatta welwollisuudekseen antaa oikaisulle sijaa lehden palstoilla ja puhdistaa hra Rängmanin maine entiselleen.</p>
+        <p>Koska nyttemmin kuitenkin olemme ottaneet asiasta täysin warman selon, ilmoitamme, ettei uutisemme ainoastaan ollut tosi, waan että hra Rängman on frakkipuwussa käynyt tätä wirkaa 
+          kuwernöörin luona kumartamassa jo ennen sen aukijulistamistakaan.</p>
+        <p>Olemme tuoneet tämän totuuden nimessä julki ja, koska moinen salainen, yleisöltä wisusti salattu kumartelu meistä on paljon raukkamaisempaa kuin julkinen onnenonginta.</p>
+      </Article>
+
+      <div className="interTitle">7.7.1914</div>
+      <Article titleText="Hämeenlinna matkailijakaupungiksi.">
+        <p>Sydänkesä on kulumassa ja matkailuliike on parhaimmillaan. Mutta meillä täällä Hämeenlinnassa näkee wain ani harwoin jonkun muukalaisen, jonkun niistä monista ulkolaisista turisteista, 
+          jotka kesäisseen aikaan saapuwat maahamme ja joita useissa maamme pikkukaupungeissa, warsinkin Sawon puolella, tapaa sangen taajaan.</p>
+        <p>Tähän ikäwään tosiseikkaan on kiinnitettäwä wakawaa huomiota. Myöntäähän täytyy, ettei Hämeenlinna suinkaan ole sopimaton matkailukaupungiksi. Sillä on päinwastoin enemmän edellytyksiä 
+          kuin useammalla muulla Suomen pikkukaupungilla. Itse kaupunkimme on kaunis ja sen ympäristöt mitä ihanimmat ja mieltäkiinnittäwimmät. Warmaankin tarkastaisi wieras uteliaana ja huwitettuna 
+          wanhaa Jarlin linnaamme, käwisi runoilijan ylistämillä Hattelmalan harjanteilla, wiihtyisi wiileässä puistossamme ja hurmaantuisi Aulangon tornin suuremmoisista näköaloista. Ja mikä 
+          erikoisesti puhuu Hämeenlinnan puolesta, on se helppous millä täällä pääsee matkaansa jatkamaan, menee sitten pohjoiseen tai etelään, itään tai länteen. Riihimäelle, josta pääsee itään, 
+          on tunnin matka ja yhtä paljon matkaa on Toijalaan, josta lähtee tie länteen. Mutta ennen kaikkea on meidän wedottawa ihmeen ihanaan matkailureittiimme täältä pohjoista kohden. Kauniimpaa 
+          matkaa kuin täältä Pälkäneelle ja Kangasalle woi muukalainen tuskin maassamme tehdä. Mutta - ja nyt olemme tulleet itse asian ytimeen.</p>
+        <p>Se reitti ei ole läheskään siinä kunnossa, että me kehtaame sitä matkailijoille suositella. Pälkäneelle kyllä pääsee ja epäilemättä kannattaa mennä, mutta siinä sitä sitten onkin 
+          Pälkäneeltä Kangasalle pääsy mitä kehnoin. Hewosta on wähän saatawissa, usein niitä on mahdoton saada ollenkaan, ja laiwaliike on tällä wälillä nykyään melkein kokonaan seisauksissa. Näin 
+          ollen on hywin waikeata jatkaa matkaa edelleen ja senjohdosta menettää koko tämä kaunis matkailureitti suurimman osan merkitystään.</p>
+        <p>Ensimäisenä on siis tämä puute poistettawa. Onhan ollut kyseessä auton hankkiminen wälittämään liikettä Pälkäneen-Kangasalan wälitielle ja tämä hanke näyttää meistä warsin helposti 
+          toteutettawalta. Pälkäneellä on warmasti autolle ajoa yllin kyllin päiwittäin ja kun se illalla olisi laiwoja wastassa, saattaa olla warma, että sillä, ellei heti alussa, niin ainakin 
+          myöhemmin, asian tultua tutuksi, aina olisi täysi määrä matkustajia. Laiwaliike tällä wälillä on mielestämme paljon hankalampaa ja kysyy nähtäwästi uhrauksta, koska laiwat sen owat 
+          lopettaneet.</p>
+        <p>Täten olisimme ottaneet jo aimo askeleen matkailuliikenteemme wilkastuttamiseksi. Mutta paljon enemmän olisi tehtäwä, jos aijotaan joitakin tuloksia saada. Warmaankin kannattaisi täällä 
+          kauniissa ympäristössämme ylläpitää matkailijarawintolaa, jossa matkailijat woisiwat hywin wiihtyä wiikon, pari. Näistähän meillä on aina ollut puute ja niistä on paljon julkisuudessakin 
+          puhuttu, mutta tuskin mitään parannusta on aikaansaatu. Wielä olisi jonkun auton otettawa huolekseen mahdollisimman huokealla kuljettaa turisteja kaupunkimme ympäristössä ja saattaa 
+          heidät etäämmäksi, jos niin waaditaan.</p>
+        <p>Mutta tähän, kuten kaikkiin edellisiinkin tarwitaan awustuswaroja ja järjestäwää kättä. Matkailijayhdistys on siihen tietysti lähin, mutta, kuten tiedetään, owat sen woimat toistaiseksi 
+          warsin wähäiset. Ja juuri tästä päästä on meidän alettawa. Matkailijayhdistys ei ole aijottu muutamia harwoja warten, se on tarkoitettu koko yleisöä warten ja ainoastaan sellaisena on 
+          sillä jotain merkitystä ja woi jotain aikaansaada. Matkailijayhdistyksen Hämeenlinnan osasto wiettää jäsenien puutteessa warsin hiljaista elämää, eiwätkä sen woimat riitä pitkälle. Jos 
+          todellakin mielitään jotain tehdä matkailuliikenteen wilkastuttamiseksi kaupungissamme, on ensimäinen ehto, että kaupunkilaiset lukuisina liittywät jäseniksi Matkailijayhdistykseen. 
+          Matkailuliikennekin merkitsee paikkakunnalle sekä aineellisia tuloja, että uusia henkisiä wirtauksia. Niiden hywäksi kannattaa täydellä syyllä ponnistaa woimiansa. Se on ymmärretty 
+          muualla ja toiwottawasti se wähitellen aletaan tajuta täälläkin.</p>
+      </Article>
+      <Article titleText="Hämeenlinnan maistraatti.">
+        <h5>Maistraatin päätös kuwernöörin johtamasta w. k. 25 pnä pidetyssä maistraatin istunnossa.</h5>
+        <p>Päätös, joka tehtiin w. k. 25 p:nä pidetyssä kuwernöörin johtamassa maistraatin istunnossa, jolloin käsiteltiin yhdenwertaisuuslain nojalla erotettujen Hämeenlinnan maistraatin 
+          raatimiesten wirkojen aukijulistamista.</p>
+        <QuoteStart className="symbolStyle"/>
+        <p className="quotationStyle">Koska Wenäjän Keisarikunnan Hallitsewan Senaatin Rikosasiain Departementti on päätöksellään marrask. 20 pltä ja jouluk. 3 pltä 1913 jättänyt sen Pietarin 
+          Piirioikeuden huhtik. 26 p:nä ja toukok. 9 p:nä 1918 antaman päätöksen woimaan, jolla tämän Raastuwanoikeuden ja Maistraatin oikeusneuwosmies Leonard Idestam ja Kunnallisneuwosmies Werner 
+          Agaton Lindberg owat tuomitut paitsi muuta eroitetuiksi hallitsemistaan edellinen sanotun Maistraatin ja Raastuwanoikeuden oikeusneuwosmiehen wirasta, julistetaan wastamainitut wirat 
+          laillisessa järjestyksessä haettawiksi.</p>
+        <p className="quotationStyle">Edellä olewaan päätökseen myötäwaikuttiwat äänillään wirkaatekewät oikeusraatimies Juho Schurigin ja kuwernööri Rafael Spåre, jota wastaan allekirjoittaneet 
+          wirkaatekewät Kunnallisraatimies Einar Salmi ja wirkt., pormestari August Werner Kaulén lausuiwat wiitaten maistraatin istunnossa wiime huhtik. 22 päiwänä pöytäkirjan 1§:n kohdalla Hämeen 
+          läänin kuwernöörin kirjeen saman huhtik. 8 pltä n:o 15,380 johdosta tehtyyn päätökseen, että kun oikeusraatimies Leonard Idestam ja kunnallisrm. Werner Agaton Lindberg eiwät olleet, 
+          mikäli mainittujen allekirjoittaneiden tiedossa oli, tulleet laillisen tuomion kautta eroitetuiksi puheenalaisista wiroistaan, ei maistraatti woimassaolewaan lakiin nojaamalla woi 
+          julistaa wirkoja haettawaksi, koska niillä edelleenkin oli lailliset haltijat, joskin he tätä nykyä oliwat estetyt itse wirkojaan hoitamasta.</p>
+        <QuoteEnd className="symbolStyle"/>
       </Article>
 
 
