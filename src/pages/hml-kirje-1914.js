@@ -387,6 +387,7 @@ const Letter1914Page = () => {
         <h5>Taas merionnettomuus.</h5>
         <h5>Edustajakokous.</h5>
         <h5>Hauskaa kesää!</h5>
+        <SubDivider className="dividerStyle" />
         <p>Mitä äärimmäiseen pikkumaisuuteen wenäläiseltä taholta woidaan pahansuopaisuudessa ja kateudessa tätä „rajamaata” kohtaan mennä, siitä antaa kysymys suomalaisten osanotosta 
           olympialaisiin kisoihin tuoreimman ja hywän esimerkin. Jo wuosia sitten annettiin määräys, että suomalaisille woittajille ei saa wetää heidän oman maansa lippua lipputankoon, waan 
           Wenäjän lipun, ja Lontoon olympialaisissa saiwat suomalaiset kulkea liputtomina muiden kansallisuuksien kantaessa lippuaan. Nyt on Wenäjän ministerineuwostossa ollut esillä ehdotus, 
@@ -459,6 +460,7 @@ const Letter1914Page = () => {
         <h5>* * *</h5>
         <p>Kesä on kohta kukkeimmillaan. Koulut owat päättyneet. Kaupunkilaiset järjestelewät maalle muuttoa. Kaupunki on pian „kesäkunnossa”: liike ja wilkkaus häwinnyt. Hauskaa ja wirkistäwää 
           kesää! Te onnelliset, jotka saatte maalla kesän ihanuudesta nauttia, imekää itsellenne woimaa ja terweyttä!</p>
+        <SubDivider className="dividerStyle" />
         <p className="signature">Tiitus.</p>
       </Article>
 
@@ -469,6 +471,7 @@ const Letter1914Page = () => {
         <h5>U. A:n purkaukset.</h5>
         <h5>Huijarit liikkeellä.</h5>
         <h5>Wanhaa ja uutta.</h5>
+        <SubDivider className="dividerStyle" />
         <p>Meistä „suomettarelaisista” on jälleen eräs „woimaihminen” sanoutunut irti. Se on rowasti A. D. Wuorimaa. Hän on maalaisliiton wiipurilaisessa äänenkannattajassa „Maakansassa” pessyt 
           kätensä ja singonnut pannaan julistuksensa Suomalaista puoluetta wastaan. Otsikkona on:</p>
         <p>„Miksi suomalaisen puolueen maalaisedustajat ja niitten joukossa allekirjoittanut, owat jättäneet suomalaisen puolueen ja liittyneet maalaisliittoon”. Ja yhtä wahwaa on sisältökin. 
@@ -552,6 +555,7 @@ const Letter1914Page = () => {
           yli. Ja jos paikalla sattuu olemaan joku warsinainen, „asiantuntija”, niin häneltä he kyllä saawat tarpeellista lisäwalaistusta riittämään asti.</p>
         <p>Ainakin minut on saatu wakuutetuksi, että uutta pyykkihuonetta on muutamissa suhteissa korjattawa. Ja eiköhän olisi syytä korjauksiin ryhdyttäessä ottaa huomioon myöskin pyykkihuoneen 
           warsinaisten käyttäjien mielipide. Eiköhän sille myöskin löytyisi sopiwampaa paikkaa kaupunkimme rantamilla sillä nykyinen on ehdottomasti liian kaukana ja hankalan matkan päässä.</p>
+        <SubDivider className="dividerStyle" />
         <p className="signature">Tiitus.</p>
       </Article>
 
@@ -561,6 +565,7 @@ const Letter1914Page = () => {
         <h5>Kuumuus.</h5>
         <h5>Eduskuntaa ei hajoteta.</h5>
         <h5>Lihantarkastuksesta.</h5>
+        <SubDivider className="dividerStyle" />
         <p>Kuumuutta on ollut enemmän kuin tarpeeksi. On ollut warjossakin yli 30 astetta. Jo tällä ilmalla tarkenee. Ja tätä kuumuutta on kestänyt wiikko toisensa jälkeen. Paikoin lienee jonkun 
           werran satanut, mutta kuitenkin wähemmässä määrässä. Paahtawa kuumuus on tukehduttawana kuiwannut kaiken, niin että kosteaa paikkaa on maanpinnalta waikea löytää. Perunan warret, wilja 
           ja herneet owat miltei kokonaan palaneet, joten on pelko huonosta, kalliista wuodesta, ellei pikaista sadetta saada. Toiwottawasti saadaankin ennen pitkää sadetta. Ukkosen jyrinää on 
@@ -599,6 +604,74 @@ const Letter1914Page = () => {
           pitäwät tarkastusta turhana ja wäittäwät sen tuottawan waiwaa, touhua ja lisämenoja. Jotkut kaupunkilaiset owat tarkastuksen syyksi asettaneet lihan hintojen kohoamisen.</p>
         <p>Kaikki uudet hommat tietysti tuntuwat ensin oudoilta, mutta kun tarkastus kerran on astunut woimmaan, kehoitetaan maaseudun lihanlähettäjiä tutustumaan ohjesääntöihin, jotta 
           wälttäisiwät turhia ikäwyyksiä. Hämeenlinnalaisten perheenemäntien y. m. lihanostajain on lihaostoksia tehdessään tarkoin walwottawa, että ostamassaan lihassa on tarkastusaseman leima.</p>
+        <SubDivider className="dividerStyle" />
+        <p className="signature">Tiitus.</p>
+      </Article>
+
+      <Divider className="dividerStyle" />
+
+      <Article titleText="25.7.1914">
+        <h5>Jokapäiwäinen leipämme.</h5>
+        <h5>Tupakkatrusti.</h5>
+        <h5>Rautatien ylikäytäwä.</h5>
+        <h5>Hämeenlinna edistyy.</h5>
+        <h5>Muuan „tieasia”.</h5>
+        <SubDivider className="dividerStyle" />
+        <p>Elämme waikeata aikaa. Uusilla iskuilla uhataan maatamme tuon tuostakin. Kaikki on nykyään mahdollista „yhdenwertaisuuslain” mukaan. Meidän ei anneta enää juosta, ei hypätä eikä heittää 
+          keihästä, paitsi jos esiinnymme suuren isänmaan nimessä. Mahtawa Wenäjä pelkää meidän poikiemme kisailuja! Uusin wiesti kieltää meiltä leiwän syönninkin, jota tähän asti on pidetty ihan 
+          waarattomana. Syödä sentään nytkin saamme, kun maksamme hywän tullin. Mitähän sitä wielä tapahtuukaan!</p>
+        <p>Tuo jokapäiwäinen leipä, jota me jokainen tarwitsemme, on herättänyt wihamiehissämme kademieltä. Meidän annetaan tuntea monella tawalla, kenenkä waltaan me kuulumme. Paljas leipä, kalja, 
+          hernesoppa ja puuro, nekin owat olleet siksi waarallisia kaikessa waatimattomuudessaan, että meitä on tarwinnut niidenkin takia rangaista. Lukija, ken lienetkin, saat wastedes kokea 
+          welliweroja, puuroweroja ja kaljaweroja j. n. e. Joku pakinoitsija onkin huomauttanut, että pian määrätään wenäläistä limppua watsaan, suuhun suhuäänteet ja punainen paita päälle.</p>
+        <p>Mutta walittelu ei auta. Maanwiljelijäin ja liikemiesten on nyt tehtäwä woitawansa tämän uuden, laittomalla tawalla syntyneen ja kansaneduskunnan epäämättömän iskun torjumiseksi. 
+          Wiljatulli koskee kipeästi köyhempää osaa kansastamme. Nyt jo owat wiljatuotteiden hinnat ympäri maatamme tuntuwasti nousseet. Maanwiljelijät woiwat lisätä rukiinwiljelystä, joka wiime 
+          wuosina on paljon wähentynyt. Siten säästetään miljoonia omaan maahamme. Kun wiljan tuotanto on katsottawa mitä tärkeimmäksi päiwän kysymykseksi ja kun Etelä-Hämeessä pitäisi olla 
+          suuriakin edellytyksiä wiljanwiljelykseen, on Hämeen läänin maanwiljelys-seuran johtokunta asettanut kysymystä selwittämään kolmimiehisen toimikunnan. Erityisesti jätettiin toimikunnan 
+          harkittawaksi, mitä menestymismahdollisuuksia olisi koko Etelä-Hämettä käsittäwällä osuusmyllyllä ja wiljanmyyntiosuuskunnalla. Toiwottawasti mainitun toimikunnan toimenpiteet johtawat 
+          suotuisaan tulokseen!</p>
+        <h5>* * *</h5>
+        <p>Kuten jokainen tietää, uhraa amerikkalais-englantilaisen tupakkatrustin täkäl. edustaja Itämainen paperossitehdas, aika huomattawia summia tuotteittensa reklaamiin. Nyttemmin se näkyy 
+          täällä H:linnassa ottaneen ilmoituspaikakseen keskeneräisten rakennusten aitauksia. Parisen wiikkoa takaperin trustin kirjawat kilwet ilmestyiwät torin warrelle, mutta aurinko, tuuli ja 
+          sateet eiwat warmaankaan suosiollisesti silmäilleet muukalaista, koska ne wähitellen haihtuiwat. Sijaan ilmestyiwät oikein peltiset reklaamitaulut, jotka jälleen antawat ihmisille uutta 
+          puheenaihetta. Kuulemamme mukaan ostaa trusti aitoja, liikkeiden ikkunoita y. m. hywistä kauppahinnoista. Eiwätköhän rakennusmestarimme ole edes sen werran kotoisen puolella, että 
+          kääntäwät selkänsä tupakkatrustin agenteille. Toiwomme, että helsinkiläiset rakennusmestarit, jotka K. O. P:n uudisrakennuksen seinään owat antaneet plakaatteja naulata, ne siită ensi 
+          tilassa poistawat, taikka eiwät ainakaan anna uusia asettaa.</p>
+        <h5>* * *</h5>
+        <p>Tuntuwaa haittaa liikenteelle on jo pitkän aikaa tuottanut Pakkahuoneen kohdalla olewa rautatien ylikäytäwä. Tämä haitta on wiime aikoina liikenteen sekä rautatiellä että maantiellä 
+          wilkastuessa käynyt yhä tuntuwammaksi. Onhan rautatien tuolle puolen wähitellen muodostunut kokonainen esikaupunki ja hiukan etäämmällä sijaitsewa huwila-asutus, joista satoja ihmistä 
+          joka päiwänä käy kaupungissa. Runsaasti käyttäwät tietä myöskin maalaiset, sillä tie on yksi kaikkein huomattawimmista waltawäylistä maaseudulta Hämeenlinnaan. Myös warsinainen 
+          kaupunkiliikenne ulottuu tänne, sijaitseehan esim. rautateiden lastauslaituri rautatien tuolla puolen.</p>
+        <p>Kuitenkin liikenne ylikäytäwällä tuon tuostakin keskeytyy ja maantietä käyttäwät saawat 15 ja 20:nkin minuuttia kärsiwällisesti odottaa, koska tietä sulkewa puomi jälleen kohoaa ja 
+          päästää ylikäytäwän molemmin puolin kokoontuneet useinkin kymmeniin nousewat hewoset ja ihmiset jatkamaan keskeytynyttä matkaansa. Mitä wahinkoa ja ajanhukkaa tästä johtuu ja mitä 
+          tunteita näin wasten tahtoaan odottamaan jääneen mielessä liikkuu, saattaa helposti arwata.</p>
+        <p>Liikenne mainitulla tiellä on jo niin wilkas, että täytyy ruweta ajattelemaan sen helpottamista. Rautatien taholta on ilmoitettu, että siellä on tehty, mitä on woitu, jotta liikenne 
+          saisi esteettömästi jatkua. Mutta liikenne rautateilläkin on niin äkillisesti lisääntynyt, että siltä taholta on aiwan mahdotonta saada parannusta aikaan.</p>
+        <p>Nykyisissä oloissa ei epäkohtaa woida enään muulla tawoin korjata kuin johtamalla maantie joko rautatien ylitse tahi alitse. Tämä parannus on monin paikoin maassamme saatu aikaan 
+          paikoilla, joilla ei liikenne likimainkaan ole niinkään wilkas kuin kysymyksessä olewalla ylikäytäwällä.</p>
+        <p>Eiköhän kauppaseuran, waltuuston tahi niiden henkilöiden, jotka epäkohdasta enimmin kärsiwät olisi syytä ottaa asia harkittawakseen ja tehdä rautatiehallitukselle esitys sen korjaamisesta. 
+          Sillä korjaamista asia kaipaa.</p>
+        <h5>* * *</h5>
+        <p>Kaupunkimme on näinä päiwinä jälleen huomattawasti edistynyt. Ei tarwitse hämeenlinnalaisen enään kuusiwiikkoisella poudallakaan joka henkäyksellä wetää suut ja silmät täyteen pölyä 
+          siihen kuuluwine jokapäiwäistä hywinwointiamme wähemmän edistäwine aineksineen. Pöly tulee tästä lähtien pysymään siellä, missä sen tuleekin, kohoamatta enään kohti korkeuksia.</p>
+        <p>Tyytywäisinä katselewat kasteluwaunuja warsinkin ne, jotka kuluneen kesänkin owat olleet pakotetut kaupungissa wiettämään. Ja tuonnoisia helteitä muistaen saattaa heidän mieleensä hiipiä 
+          hiljainen ajatus: miksi ei jo ennen?</p>
+        <p>Mutta parempi myöhäänkin, kuin ei milloinkaan. Ja wastahan „mätäkuukin” on alkanut. Sen kuluessa katumme wielä monasti saattawat tarwita wirwoittawia kylpyjä.</p>
+        <h5>* * *</h5>
+        <p>Tämä on jo niiltä suurilta poudilta, waikka joukossa on kowin wetistäkin.</p>
+        <p>Satuin silloin kulkemaan kasarmikatua, kun sattumalta katsoessani Puistoon päin johtawalle tielle näin mahtawan pöly- tahi sawupilwen peittäwän koko sen puolen maailmaa. Olin jo luulla 
+          koko tien warrella kohonneen „nuorimman esikaupunkimme” olewan tulessa ja liekeissä, kun äkkiä Alku-yhtiön kulmasta kuuluu kumea törähdys ja pieni musta automobiili syöksähtää pilwestä 
+          esiin alkaen kiiwetä mäkeä ylös. Siunasin, että missä ne kasteluwaunutkin wiipywät, ja käännyin nopeasti ensimäisestä kulmasta, sillä autolla näkyi olewan erinomainen kyky saada kuiwasta 
+          kadustakin irti sen, minkä irti saada saattoi.</p>
+        <p>En woinut muuta kuin ihmetellä sitä pölyn paljoutta, minkä tuollainen pieni kommellus kykeni ilmoille kohottamaan puistoon johtawalta tieltä. Mutta ne, jotka tämän tien warrella asuwat 
+          sekä ne, jotka sen lähemmin tuntewat, kuuluwat jo aikoja sitten laanneen sitä ihmettelemästä. Heidän wakuutuksensa mukaan on tie niin kaupungin liepeillä kuin onkin niitä kaikkein 
+          huonoimmin hoidettuja.</p>
+        <p>Poudalla sitä kyllä pääsee kulkemaan nielemällä pölyä arwaamattomia määriä, mutta kun hiukankin kauwemmin sataa, silloin nousee tie aiwan „pystyyn”. Eikä ainoastaan jalankulkijalle, waan 
+          hewosmiehellekin. Raiteet omat pohjattomia, kuoppa kuopan wieressä, rattaat heittelewät sinne tänne, pyörät wajoawat lokaan kappoja myöden ja hewonen wain waiwoin kahlaa loka-aawikon läpi. 
+          Kaupungin ajureille on tie käynyt oikeaksi loukkauskiweksi. Ja kuitenkin kuten sanottu tie on aiwan kaupungin liepeillä. Suurimmalle osalle kaupunkilaista on se suorin tie Puistoon. Sen 
+          warrelle on syntynyt runsas asutus ja maalaiset käyttäwät sitä paljon.</p>
+        <p>Kewäällä päätti waltuusto hätäaputöinä rakennuttaa tielle jalkakäytäwän. Hywä sekin, waikka se toistaiseksi onkin wain paperilla. Mutta eiköhän samalla olisi ollut syytä ryhtyä, kuten 
+          waltuustossa ehdotettiinkin, myöskin warsinaista ajotietä korjaamaan. Ainakin wälttäwään kuntoon se nyt olisi saatawa, ennenkuin syyssateet saapuwat.</p>
+        <SubDivider className="dividerStyle" />
         <p className="signature">Tiitus.</p>
       </Article>
 

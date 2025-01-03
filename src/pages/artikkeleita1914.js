@@ -856,6 +856,13 @@ const Articles1914Page = () => {
         <QuoteEnd className="symbolStyle"/>
       </Article>
 
+      <div className="interTitle">30.7.1914</div>
+      <Article titleText="Wenäjänkielen tunteja lisätään.">
+        <p>Mikäli S. U. T. on saanut tietää, lienee senaatti laatinut ehdotuksen arm. asetuksen maan alkeisoppilaitosten perinpohjaisesta uudelleen muodostamisesta, jotta wenäjänkielen 
+          tuntimäärää koulujen oppisuunnitelmissa woitaisiin tuntuwasti lisätä. Uudet lukusuunnitelmat on ajateltu otettawan käytäntöön jo ensi lukuwuodesta lähtien. Tämän asetuksen mukaan 
+          tultaisiin alkeisoppilaitoksia Suomessa wastaisuudessa nimittämään osittain „esikymnaaseiksi”, osittain lyseoiksi.</p>
+      </Article>
+
 
       <br></br>
       <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>

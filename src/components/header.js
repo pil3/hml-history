@@ -70,6 +70,9 @@ const Header = () => {
                 <NavDropdown.Item>
                   <Link to="/rikoksia1914" className="nav-link" activeClassName="active">Oikeus- ja poliisiasioita</Link> 
                 </NavDropdown.Item>
+                <NavDropdown.Item>
+                  <Link to="/war-1914" className="nav-link" activeClassName="active">Kohti sotaa</Link> 
+                </NavDropdown.Item>
               </DropdownSubmenu>
               <DropdownSubmenu className={subMenuStyle} title="1924">
                 <NavDropdown.Item>
