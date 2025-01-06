@@ -43,7 +43,7 @@ const KunnallisHistoriaPage = () => {
       <p className="tocHeader">I</p>
       <Article titleText="Vanhan kaupungin perustus ja asema.">
         <br />
-        <p className="firstLetterStyle">Hämeenlinnan kaupunki on saanut alkunsa pienestä linnakylästä eli kauppalasta, joka aikojen kuluessa vähitellen oli  muodostunut Birger jaarlin v. 1249 kristinuskon ja Ruotsin vallan vahvistukseksi 
+        <p className="initialCap">Hämeenlinnan kaupunki on saanut alkunsa pienestä linnakylästä eli kauppalasta, joka aikojen kuluessa vähitellen oli  muodostunut Birger jaarlin v. 1249 kristinuskon ja Ruotsin vallan vahvistukseksi 
           rakennuttaman Kruununlinnan eli Hämeen linnan läheisyyteen, nimittäin kapealle maakaistaleelle tämän pohjoispuolella. V. 1638 antoi näet Pietari Brahe tälle vähäiselle kauppakylälle kaupungin-oikeudet.</p>
         <p>Se kuului Hämeen-Uudenmaan lääniin, Etelä-Suomen  laamannikuntaan, alisen Hollolan kihlakuntaan ja Vanajan pitäjään. Suuren suuri se ei ollut eikä liikepaikkana sisämaassa tietysti voinutkaan saavuttaa samaa merkitystä kuin 
           merikaupungit. Asemakin oli sangen ahdas, kuten paikallisuuteen perehtynyt heti huomaa. Etelässä esti luonnollista laajenemista linnoitus, idässä ja pohjoisessa virta ja lännessä suoperäinen niitty, joka keväisin ja syksyisin 
@@ -66,7 +66,7 @@ const KunnallisHistoriaPage = () => {
       <p className="tocHeader">II</p>
       <Article titleText="Ison Vihan hävitys. Ahtauden ahdinko.">
         <br />
-        <p className="firstLetterStyle">Tuli sitten Ison Vihan kovat ajat. V. 1713 hyökkäsivät venäläiset maahan, valloittivat sen suurimmaksi osaksi ja ottivat vielä samana vuonna haltuunsa myöskin Kruununlinnan ja Hämeenlinnan kaupungin, 
+        <p className="initialCap">Tuli sitten Ison Vihan kovat ajat. V. 1713 hyökkäsivät venäläiset maahan, valloittivat sen suurimmaksi osaksi ja ottivat vielä samana vuonna haltuunsa myöskin Kruununlinnan ja Hämeenlinnan kaupungin, 
           joka runsaassa mitassa sai kokea hävityksen kauhistusta. Viholliset sytyttivät melkoisen osan kaupunkia palamaan, ja muutenkin ryöstettiin ja hävitettiin tunnetun venäläisen sota-ohjelman mukaan. Asukkaita pakeni paljon 
           turvallisempiin seutuihin.</p>
         <p>Seitsemän vuotta herrastelivat venäläiset kaupungissa. Erään senaikuisen valaisevan luettelon mukaan oli rauhan syntyessä heidän hallussaan: 14 asuttavaa taloa, 11 asuttavaa tupaa, 4 hävitettyä (ödelagda) taloa, 14 aittaa, 5 
@@ -101,7 +101,7 @@ const KunnallisHistoriaPage = () => {
       <p className="tocHeader">III</p>
       <Article titleText="Kysymys kaupungin muutosta. Kova tulipalo v. 1739.">
         <br />
-        <p className="firstLetterStyle">Mutta yhtäkaikki on tämä virallinen puserrus pidettävä ensimäisenä ehdoituksena kaupungin muuttamisesta toiselle paikalle. V. 1736 esittää nyt nimenomaan maaherra että koko kaupunki muutettaisiin 
+        <p className="initialCap">Mutta yhtäkaikki on tämä virallinen puserrus pidettävä ensimäisenä ehdoituksena kaupungin muuttamisesta toiselle paikalle. V. 1736 esittää nyt nimenomaan maaherra että koko kaupunki muutettaisiin 
           n. s. <span className="quote">Ojosmäelle</span>, mutta maistraati ei vastaa hänen kirjelmäänsä mitään eikä uudistettuunkaan lausunnon pyyntöön. Ja samalla tapaa käy alusta vuotta 1739, jolloin vastaus oli annettava 14 päivän 
           kuluessa. Kaupunki maistraatineen menettelee ikäänkuin ei asia sitä koskisikaan. Viimein panee maaherra — A. E. Gyllenstjerna — kuninkaan käskystä nimismiehen katsomaan uutta paikkaa uppiniskaiselle kaupungille ja käskee hänen 
           määrätä muutto-ajankin. Porvaristo saisi kuitenkin edusmiesten kautta valvoa etujaan.</p>
@@ -142,7 +142,7 @@ const KunnallisHistoriaPage = () => {
       <p className="tocHeader">IV</p>
       <Article titleText="Kirkonrakennus-puuhia. Pappila.">
         <br />
-        <p className="firstLetterStyle">Kaupungin ollessa Ison Vihan aikana vihollisten vallassa olivat, kuten luonnollista onkin, sen yleiset rakennukset jääneet kokonaan hoitoa vajalle ja joutuneet perin kurjaan kuntoon. Omista 
+        <p className="initialCap">Kaupungin ollessa Ison Vihan aikana vihollisten vallassa olivat, kuten luonnollista onkin, sen yleiset rakennukset jääneet kokonaan hoitoa vajalle ja joutuneet perin kurjaan kuntoon. Omista 
           mieskohtaisista murheistaan huolimatta alkoivat porvarit kuitenkin niiden parantamista ajatella, sitoutuen köyhyydessään suuriin uhrauksiin kyllä. Ja se on kaunis todistus tämän pienen paikkakunnan ikääskuin synnynnäisestä 
           taipumuksesta henkisiin pyrintöihin, että nämäkin aikoina jo ennen kaikkea tahdottiin pitää huolta kirkollisen ja koulu-opetuksen menestymisestä.</p>
         <p>Vanhimpina aikoina, jolloin Hämeenlinna vielä oli kauppalana, kuului se Vanajan seurakuntaan, jonka pappi kävi saarnaamassa linnan rukoushuoneessa, Tämä muutettiin sitten viljamakasiiniksi, kaupunki muodostettiin omaksi 
@@ -182,7 +182,7 @@ const KunnallisHistoriaPage = () => {
       <p className="tocHeader">V</p>
       <Article titleText="Koulu.">
         <br />
-        <p className="firstLetterStyle">Ensimäisen koulunsa sai Hämeenlinnan kaupunki, kuten olemme maininneet, jo v. 1639 valistusta harrastavan perustajansa toimesta. Se oli pieni lastenkoulu, jossa opetettiin katkismusta, ruotsinkieltä, 
+        <p className="initialCap">Ensimäisen koulunsa sai Hämeenlinnan kaupunki, kuten olemme maininneet, jo v. 1639 valistusta harrastavan perustajansa toimesta. Se oli pieni lastenkoulu, jossa opetettiin katkismusta, ruotsinkieltä, 
           luvunlaskua ja kirjoitusta. Opetuskielenä käytettiin todennäköisesti suomea, ainakin alkaville oppilaille. Lieneekö varttuneempia varten, kuten muissa samankaltaisissa kouluissa, käytetty latinaa vaiko ruotsia, ei varmaan 
           tiedetä.</p>
         <p>Ensimäiseksi rehtoriksi ja opettajaksi Pietari Brahe määräsi Johannes Manni nimisen pappismiehen, jonka samalla tulisi olla linnan saarnaajana, ja tämä sai valita itselleen myöskin apuopettajan, joten luultavaa on että jo 
@@ -213,7 +213,7 @@ const KunnallisHistoriaPage = () => {
       <p className="tocHeader">VI</p>
       <Article titleText="Tullihuone ja tulli-aita. Tiet ja silta.">
         <br />
-        <p className="firstLetterStyle">Jo ennen Ison Vihan aikoja oli kaupungissa tullihuone, Mutta sodan kestäessä, kun kauppa oli peräti lamassa ja olot muutenkin mullin mallin, ei myöskään tulleja säännöllisesti kannettu, ja 
+        <p className="initialCap">Jo ennen Ison Vihan aikoja oli kaupungissa tullihuone, Mutta sodan kestäessä, kun kauppa oli peräti lamassa ja olot muutenkin mullin mallin, ei myöskään tulleja säännöllisesti kannettu, ja 
           tullihuonetta tarvittiin tuskin nimeksikään. Senpä tähden se pahasti rappeutuikin, ja rauhallisten olojen palattua ja kaupan jälleen hieman elvyttyä sai hallitus tämän johdosta monta kertaa muistuttaa maistraatia että kaupungin 
           tuli pitää tullihuone kunnossa. Sitä korjattiinkin maistraatin omasta toimesta yhtä monta kertaa, koska porvarit näkyvät olleen varsin vastahakoiset tämän velvollisuuden täyttämiseen.</p>
         <p>Pienenä riidan-kapulana pysyi myös pitkät ajat kaupunkia ympäröivä tulli-aita. Se oli paikka paikoin aivan rikki ja tulliportit huonossa kunnossa, niin ettei innokas tullinhoitaja voinut tunnollisesti virkaansa hoitaa, kuten 
@@ -260,7 +260,7 @@ const KunnallisHistoriaPage = () => {
       <p className="tocHeader">VII</p>
       <Article titleText="Kauppaliike. Viinan-poltto ja oluenpano. Käsiteollisuus.">
         <br />
-        <p className="firstLetterStyle">Kaupunkilaisten elinkeinoista olisi tietysti kauppa asetettava ensi sijaan. Mutta sen laita oli niin ja näin, jos pidämme silmällä nykyajan tavara-kauppaa. Kun edellä mainitsimme että Ison Vihan 
+        <p className="initialCap">Kaupunkilaisten elinkeinoista olisi tietysti kauppa asetettava ensi sijaan. Mutta sen laita oli niin ja näin, jos pidämme silmällä nykyajan tavara-kauppaa. Kun edellä mainitsimme että Ison Vihan 
           aikoina kaupungissa oli 22 kauppapuotia, niin on tämä seikka ymmärrettävä omituisella tavallaan. Mitä näet näissä puodeissa enimmäkseen myötiin? Sen saamme kohta nähdä.</p>
         <p>Suurimpana syynä tavallisen kauppaliikkeen kehnouteen oli epäilemättä siinä, että tuontitavarat olivat tuotavat aina Turusta asti, 16 ½ penikulman päästä, joten ne tulivat jokseenkin kalliiksi. Ja niinpä mainitaan aikakirjoissa 
           että vielä kymmenentenä vuonna Pikku Vihan jälkeen kaupungissa oli ainoastaan yksi ainoa kauppias. Porvarit elivät enimmäkseen toisella elinkeinolla.</p>
@@ -323,7 +323,7 @@ const KunnallisHistoriaPage = () => {
       <p className="tocHeader">VIII</p>
       <Article titleText="Pikku Viha. Uusia kirkonkorjauksia.">
         <br />
-        <p className="firstLetterStyle">Tuskin hiukkasen toinnuttuaan Ison Vihan iskemistä haavoista, sai Hämeenlinna monien muiden vastoinkäymisten ohessa, niinkuin 1739 vuoden suuren palon, ennenkun vuosisata oli ehtinyt puoliväliin, 
+        <p className="initialCap">Tuskin hiukkasen toinnuttuaan Ison Vihan iskemistä haavoista, sai Hämeenlinna monien muiden vastoinkäymisten ohessa, niinkuin 1739 vuoden suuren palon, ennenkun vuosisata oli ehtinyt puoliväliin, 
           jälleen kestää vieraan vallan iestä. Vaikk'ei <span className="quote">Pikku Vihan</span> aika lähimainkaan ollut niin kauhea kuin edellisen sodan, sai kaupunki kuitenkin silläkin ajalla sangen paljon kärsiä. Jo ennenkun 
           ruotsalais-suomalainen sotajoukko Helsingissä oli antautunut, joutui Hämeenlinna venäläisten valtaan. V. 1742 jätti näet Hämeenlinnan linnoituksen silloinen komentaja everstiluutnantti von Bütner yhdessä katteini Ernandlerin 
           kanssa linnan ja kaupungin venäläiselle sotapäällikölle kreivi Lascylle, he kun katsoivat aivan turhaksi vaivaksi ruveta niitä puolustamaan ylivoimaa vastaan.</p>
@@ -358,7 +358,7 @@ const KunnallisHistoriaPage = () => {
       <p className="tocHeader">IX</p>
       <Article titleText="Elämän-tavat.">
         <br />
-        <p className="firstLetterStyle">Elämän-tavoiltaan olivat vanhat kaupunkilaisemme viime vuosisadalla vielä sangen vaatimattomia ja yksinkertaisia; mistään hienostuksesta ei ollut puhettakaan. Tähän oli syynä sekä heidän köyhyytensä 
+        <p className="initialCap">Elämän-tavoiltaan olivat vanhat kaupunkilaisemme viime vuosisadalla vielä sangen vaatimattomia ja yksinkertaisia; mistään hienostuksesta ei ollut puhettakaan. Tähän oli syynä sekä heidän köyhyytensä 
           että paikkakunnan etäisyys suuremman maailman markkinoilta ja ylellisyystavarain kalleus, niinkuin suuressa määrässä ajan valtiollisesti myrskyiset olotkin, jotka eivät olleet omiansa luomaan sivistyksen tasoitusta tapoihin. 
           Mutta valtavimpana syynä näiden karkeuteen oli epäilemättä kaupunkilaisten etevin elinkeino eli viinan- ja oluen-valmistus.</p>
         <p>Pukuna käyttivät kaupunkilaiset tavallisesti kotitekoisia sarkavaatteita polvihousuineen, eivätkä naisetkaan tietäneet tavallisen kaupunki-elämän koreilemisesta juuri mitään.</p>
@@ -410,7 +410,7 @@ const KunnallisHistoriaPage = () => {
       <p className="tocHeader">X</p>
       <Article titleText="Uusia muuttopuuhia.">
         <br />
-        <p className="firstLetterStyle">Edellisessä on jo mainittu niistä porvarien toiveista, jotka heidän edusmiehensä 1751 vuoden valtiopäivillä toi esiin. Ja vihdoinkin näkyy nyt anomus tepsineen. Jo samana vuonna käski näet kuningas 
+        <p className="initialCap">Edellisessä on jo mainittu niistä porvarien toiveista, jotka heidän edusmiehensä 1751 vuoden valtiopäivillä toi esiin. Ja vihdoinkin näkyy nyt anomus tepsineen. Jo samana vuonna käski näet kuningas 
           everstin, vapaaherra Vreden yhdessä Hämeen—Uudenmaan läänin maaherran, Nordenskiöldin, kanssa valitsemaan Hämeenlinnan kaupungille uutta paikkaa. Vreden kuitenkin ollessa pitemmällä matkalla, määräsi maaherra hänen sijaansa 
           kaupungin asiamieheksi everstiluutnantti Glansenstjernan, jonka tulisi määrätä aika tarpeellista katselmusta varten. Tämä tapahtuikin sitten lokakuun 17 päivänä mainittuna vuonna. Hallituksen asiamiehenä oli siinä maaherran 
           puolesta läsnä majuri Antti Lilljebrun, ja kaupungin paikaksi määrättiin n. s. Koiramäki Ojoisten kartanon maalla. Kartanon haltija eversti Ramsay, näkyy sen itse ehdoittaneen, sillä Koiramäki oli niin huonoa maata, ettei 
@@ -470,7 +470,7 @@ const KunnallisHistoriaPage = () => {
       <p className="tocHeader">XI</p>
       <Article titleText="Kustaa III käy Hämeenlinnassa. Päätös kaupungin muutosta.">
         <br />
-        <p className="firstLetterStyle">Jo toukokuussa 1774 sai kaupungin maistraati kirjeen maaherralta, joka siinä käskee maistraatia ryhtymään toimiin katujen ja maanteiden parantamista sekä kaupungin siistittämistä varten kaikin 
+        <p className="initialCap">Jo toukokuussa 1774 sai kaupungin maistraati kirjeen maaherralta, joka siinä käskee maistraatia ryhtymään toimiin katujen ja maanteiden parantamista sekä kaupungin siistittämistä varten kaikin 
           puolin, koska näet kuningas pian oli tulossa. Ja kesäkuussa samana vuonna uudistetaan käsky.</p>
         <p>Mutta sinä vuonna ei kuitenkaan vielä kuninkaan matkasta Suomeen mitään tullut. Vasta huhtikuussa v. 1775 ilmoitti maaherra jälleen että ensi toukokuussa Kustaa aikoisi käydä täällä. Turusta matkustaisi hän Helsinkiin ja 
           sieltä Porvoon ja Hämeenlinnan kautta takaisin Turkuun. Hämeenlinnan maistraatin tulisi muiden vastaan-ottotoimien ohessa kuuluttaa että Alisen ja Ylisen Hollolan sekä Sääksmäen komppaniiain piti kokoontua Poltinahon kentälle 
@@ -524,7 +524,7 @@ const KunnallisHistoriaPage = () => {
       <p className="tocHeader">XII</p>
       <Article titleText="Muuttaminen tapahtuu. Jätteet vanhasta kaupungista.">
         <br />
-        <p className="firstLetterStyle">Vuonna 1780 oltiin siis jo paraimmassa muuttotouhussa, ja raivattiin sinä vuonna erittäinkin uuden kaupungin katuja ja toria. Mutta moni uudisrakennuskin kohosi jo siihen aikaan uuden kaupungin 
+        <p className="initialCap">Vuonna 1780 oltiin siis jo paraimmassa muuttotouhussa, ja raivattiin sinä vuonna erittäinkin uuden kaupungin katuja ja toria. Mutta moni uudisrakennuskin kohosi jo siihen aikaan uuden kaupungin 
           tonteilla, varsinkin torin ympärillä. Sanotaanpa mainittuna vuonna m. m. uudessa kaupungissa jo olleen useita taloja, jotka olivat vanhan kaupungin paraimpiakin <span className="quote">mukavammat ja muhkeammat, ja moni näistä 
           oli kaksikertainenkin</span>. Tämä <span className="quote">muhkeus</span> ei kuitenkaan näy olleen yleinen, vaan paljon siinä silminnähtävästi <span className="quote">fuskattiinkin</span>. Niinpä m. m. oli maaherralla tuon 
           tuostakin syytä puuttua rakennustavan valvomiseen. Eräs porvari määrättiin asettamaan talonsa yläkerran ikkunat samalle kohdalle kuin alakerroksenkin olivat, ja torin puolelta piti hänen laudoittaa rakennuksensa. Toinen, jonka 
@@ -584,7 +584,7 @@ const KunnallisHistoriaPage = () => {
       <p className="tocHeader">XIV</p>
       <Article titleText="„Hattelmalan harjanteilla” v. 1808 Kauppa- ja käsiteollisuustilastoa samalta vuodelta.">
         <br />
-        <p className="firstLetterStyle">Näillä vaatimattomilla piirteillä, jotka tietysti eivät vähennä vastaisen kaupungin historian tarvetta, vaan päin vastoin toivoaksemme ovat jonkinmoisena kehoituksena semmoisen toimittamiseen, koska 
+        <p className="initialCap">Näillä vaatimattomilla piirteillä, jotka tietysti eivät vähennä vastaisen kaupungin historian tarvetta, vaan päin vastoin toivoaksemme ovat jonkinmoisena kehoituksena semmoisen toimittamiseen, koska 
           ne kaikessa katkelman-tapaisessa muodossaan osoittanevat että tämänkin pienen paikkakunnan vaiheissa on varsinaiselle historijoitsijallekkin yhtä ja toista taiteenotettavaa, — näillä pienillä piirteillä on melkein yksinomaan 
           ollut tarkoituksena näyttää mimmoisten elämän-ehtojen vallitessa asukkaat vanhassa Hämeenlinnassa elivät, jotta syyt kaupungin muuttamiseen jotakuinkin kävisivät selville.</p>
         <p>Vanha kaupunki oli, kuten olemme kertoneet, rakennettu kovin ahtaalle paikalle, jossa se sen ohessa viimein tuli ristiriitaan linnan alue-oikeuksien kanssa, ja uutta asemaa etsittäessä jäätiin, kun aika oli täytetty, nykyiselle 
@@ -627,7 +627,7 @@ const KunnallisHistoriaPage = () => {
       <p className="tocHeader">XV</p>
       <Article titleText="Tulipalo 1831. Asukastilastoa samalta vuodelta. Otto Reinhold Rehbinder. „Birger Jaarlin linna”">
         <br />
-        <p className="firstLetterStyle">Siirrymme viimein nyt kerrassaan vuoteen 1831, jolloin Hämeenlinnan kaupunkia kohtasi ankara onnettomuus kamalan tulipalon muodossa. Kaupunki tietysti ei siilien aikaan vielä ollut läheskään niin iso 
+        <p className="initialCap">Siirrymme viimein nyt kerrassaan vuoteen 1831, jolloin Hämeenlinnan kaupunkia kohtasi ankara onnettomuus kamalan tulipalon muodossa. Kaupunki tietysti ei siilien aikaan vielä ollut läheskään niin iso 
           kuin meidän päivinämme, — asemakarttakin osoittaa ainoastaan 14 korttelia (57 vastaan nykyään), — mutta yhtäkaikki jäi liekkien nieltäväksi — vähän toista sataa taloa, joten nämä siis oli rakennettu hyvin tiheään. Ainoastaan 
           kaksi asuttua pääkatua löytyi, Residenssi- ja Raastuvan-katu, joita yhdisti neljä poikkikatua. Rannimmainen osa nykyisen kaupungin itäpuolta ja samaten nykyisen kaupungin pohjoispuoli Tähtipuistosta linnaan päin oli tukevana 
           honkametsänä, mutta Residenssi- ja nyk. Birger jaarlin kadun välillä sijaitsi kuitenkin jo melkoinen paljous taloja. Länsipuolella torilta lähtien oli suurin osa asuttua kaupunkia ja jokunen määrä taloja myös eteläpuolella toria.</p>
@@ -754,7 +754,7 @@ const KunnallisHistoriaPage = () => {
       <p className="tocHeader">Kertomus Hämeenlinnan kaupungin kunnallis-taloudellisista oloista.</p>
       <Article titleText="Kaupungin asema, rakennusalue ja ympäristö.">
         <br />
-        <p className="firstLetterStyle">Nykyinen Hämeenlinnan kaupunki on rakennettu Niementausta nimiselle niemelle Wanajaveden läntisellä rannalla. Wanajavesi kapenee tällä kohdalla vähäpätöiseksi, joenkaltaiseksi väyläksi, joka 
+        <p className="initialCap">Nykyinen Hämeenlinnan kaupunki on rakennettu Niementausta nimiselle niemelle Wanajaveden läntisellä rannalla. Wanajavesi kapenee tällä kohdalla vähäpätöiseksi, joenkaltaiseksi väyläksi, joka 
           ainoastaan eteläpuolella kaupunkia taasen lavenee isommaksi lahdeksi.</p>
         <p>Kaupunki jakautuu kahteen rakennusalueesen, nim. vanhempaan eli kantakaupunkiin ja nuorempaan eli lännemmässä olevaan Myllymäen kaupunginosaan, joka nykyään vielä ainoastaan yhdellä kivitetyllä, viljelysniityn poikki vievällä 
           kadulla eli oikeastaan viertotiellä on yhdistettynä edelliseen.</p>
@@ -788,7 +788,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Kaupungista johtavat tiet ja tienteko-velvollisuus.">
         <br />
-        <p className="firstLetterStyle">Länteenpäin kaupungista johtaa läntinen viertotie, joka Myllymäen etukaupungin halki menee n. s. Poltinahon suurelle sotaväen harjoituskentälle, jonka itäsyrjästä tie haaraantuu kolmelle taholle: 
+        <p className="initialCap">Länteenpäin kaupungista johtaa läntinen viertotie, joka Myllymäen etukaupungin halki menee n. s. Poltinahon suurelle sotaväen harjoituskentälle, jonka itäsyrjästä tie haaraantuu kolmelle taholle: 
           kaupungin hautausmaalle, Helsinkiin, Turkuun ja Toijalaan. Kaupungista lähtien suoraan pohjoseen johtaa kaksi tietä, jotka yhtyvät linnan kohdalla, vieden Tampereelle. Itäänpäin rautatie-asemalle ja tämän lähellä olevalle 
           Hätilän kruununtilalle viepi sillan ylitse neljäs tie, Viipurin tie.</p>
         <p>Näistä teistä on suorastaan kaupungin ylläpidettävänä ja omana se tienpätkä, joka Kasarmikadun pohjoispäästä johtaa linnan kohdalle eli risteykseen toisen, itäisemmän pohjoistien kanssa. Se rakennettiin kaupungin puolesta 
@@ -805,7 +805,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Kaupungin tilukset kotipalstalla.">
         <br />
-        <p className="firstLetterStyle">Kaupungin maat ja tilukset kotipalstalla sijaitsevat asutun kaupungin ympärystössä ja käsittävät kaikkiaan 304,847 hehtaaria, joista kuitenkin jokunen pienempi määrä on pakkoluovutuksen kautta 
+        <p className="initialCap">Kaupungin maat ja tilukset kotipalstalla sijaitsevat asutun kaupungin ympärystössä ja käsittävät kaikkiaan 304,847 hehtaaria, joista kuitenkin jokunen pienempi määrä on pakkoluovutuksen kautta 
           joutunut osaksi Suomen, osaksi Venäjän valtion haltuun, kuten tässä alempana lähemmin merkitään.</p>
         <p>Kotipalstan maa-alueesta on:</p>
         <Image className="centeredImageStyle" src={img7} alt="Maa-alat"/>
@@ -825,7 +825,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Kaupungin tilukset Sairionmaalla.">
         <br />
-        <p className="firstLetterStyle">Sairionmaan tilukset käsittävät maa-alueen Wanajaveden itärannasta Aulangon järvelle sekä pienemmän lohkon tämän järven itäpuolella. Nykyään on tämä alue jaettu 34 osuuteen ja sisältää:</p>
+        <p className="initialCap">Sairionmaan tilukset käsittävät maa-alueen Wanajaveden itärannasta Aulangon järvelle sekä pienemmän lohkon tämän järven itäpuolella. Nykyään on tämä alue jaettu 34 osuuteen ja sisältää:</p>
         <Image className="centeredImageStyle" src={img9} alt="Maa-alat"/>
         <p>Tästä alasta on Venäjän valtio lunastanut ruutimakasiiniansa y. m. tarpeitaan varten 80,350 hehtaaria viljelemätöntä maata. Pienempiä mäkipalstoja on luovutettu talontonteiksi, kuten Toivolan huvila.</p>
       </Article>
@@ -833,7 +833,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Viljelysmaiden vuokraehtoja.">
         <br />
-        <p className="firstLetterStyle">Kaupungin viljelysmaat, paitsi torpat ei, ovat vuokratut: Kuralassa ja Sairiossa 15 vuodeksi, pellot lähemmällä kaupunkia 10 vuodeksi sekä niityt ja suolohkot 15 vuodeksi.</p>
+        <p className="initialCap">Kaupungin viljelysmaat, paitsi torpat ei, ovat vuokratut: Kuralassa ja Sairiossa 15 vuodeksi, pellot lähemmällä kaupunkia 10 vuodeksi sekä niityt ja suolohkot 15 vuodeksi.</p>
         <p>Valtuusmiesten huhtik. 24 p. 1896 tekemän päätöksen mukaan vuokrataan kaikki viljelysmaat sillä välipuheella, että vuokraajalla, jos hän viljelee lohkonsa kunnollisesti ja suorittaa vuokramaksunsa säännöllisesti, on oikeus 
           vuokra-ajan loputtua saada lohkonsa uudestaan vuokrattavakseen suorittamalla vuosittain lisämaksuksi 10 prosenttia edellisestä vuokrasummasta.</p>
       </Article>
@@ -841,7 +841,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Kaupungin metsät.">
         <br />
-        <p className="firstLetterStyle">Löytyvien karttain ja selitysten mukaan on kaupungin metsäjakoon otettujen metsien pinta-ala 505,35 hehtaaria. Tämä ala on jaettu 8 eri talouspalstaan seuraavalla tavalla:</p>
+        <p className="initialCap">Löytyvien karttain ja selitysten mukaan on kaupungin metsäjakoon otettujen metsien pinta-ala 505,35 hehtaaria. Tämä ala on jaettu 8 eri talouspalstaan seuraavalla tavalla:</p>
         <h4>I. Aulanko.</h4>
         <p>On enimmäkseen viettävää kangasta, joka kasvaa eri-ikäistä, 30—70 vuotista kuusta. Yhteensä 2571 kuutiometriä puita 33 hehtaarilla.</p>
         <h4>II. Sairionmaa.</h4>
@@ -889,7 +889,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Kaupungin koko ulkopalsta Rengossa">
         <br />
-        <p className="firstLetterStyle">Muodostaa hyvin pitkänsoikean kolmion eli kiilan, jonka leveämpi pää (Mäkelän ja Haapalan torppien kanssa) on noin 2 penikulmaa kaupungista ja kapea suippu (Pitkäjärven torpan kanssa noin 1 
+        <p className="initialCap">Muodostaa hyvin pitkänsoikean kolmion eli kiilan, jonka leveämpi pää (Mäkelän ja Haapalan torppien kanssa) on noin 2 penikulmaa kaupungista ja kapea suippu (Pitkäjärven torpan kanssa noin 1 
           kilometrin päässä sen kärjestä) lähimmittäin 31 kilometriä kaupungista. Tämän kaistaleen rajoina ovat Ojoisten latokartanon maat sekä Rengon kappalaistilan ja kahden muun renkolaisen maatilan tilukset.</p>
         <p>Mutta paitse tätä suurempaa kiilaa eli kolmiota on kaupungilla ulkopalstana tänneppäin myöskin toinen aivan samanmuotoinen, vaikka paljon pienempi alue, yllämainittu Rengonvaha, joka on aivan erikseen edellisestä. Sen kapea 
           suippu alkaa Alajärvestä, ja jatkuu se sitten Suur-Luolajan kylän ja Ojoisten latokartanon maiden välitse Viialan suurta palstaa kohden, josta sen leveämpi pää on noin 1 penikulman matkan etäisyydellä. Rengonvaha on asumaton 
@@ -900,7 +900,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Kunnan tulot kaupungin metsistä.">
         <br />
-        <p className="firstLetterStyle">Kaupungin metsistä on kunnalla vuosittain jommoisetkin tulot. Niinpä viimeisten 4 vuoden aikana niistä on otettu rakennusaineita kaupungin yleisiin töihin noin 3,000 markan edestä joka vuosi ja sen 
+        <p className="initialCap">Kaupungin metsistä on kunnalla vuosittain jommoisetkin tulot. Niinpä viimeisten 4 vuoden aikana niistä on otettu rakennusaineita kaupungin yleisiin töihin noin 3,000 markan edestä joka vuosi ja sen 
           ohessa polttopuita kaupungin laitoksiin. V. 1898 tuotiin näitä; sairashuonetta varten 16 syltä mäntypuita = 192 m., vaivaishuonetta varten 25 syltä mäntypuita = 300 m., palokunnan taloa varten 7 syltä koivuhalkoja = 105 m., 
           raatihuonetta varten 81 syltä koivuhalkoja = 1,134 m., ja 24 syltä mäntypuita = 276 m. Yhteensä siis polttopuita kaupungin yleisiin laitoksiin 2,007 markan arvosta.</p>
         <p>Täten tuottaa kaupungin metsä tätä nykyä vuosittain kaupungille noin 5,000 markkaa.</p>
@@ -909,7 +909,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Kaupungin torpat Rengon kappelissa.">
         <br />
-        <p className="firstLetterStyle">Torpparien metsät ja laitumet, jotka ennen olivat yhteisesti käytettävät, ovat nyttemmin palstoitetut erikseen kullekkin. Rakennukset kaikissa torpissa ajanmukaiset ja hyvässä kunnossa. 
+        <p className="initialCap">Torpparien metsät ja laitumet, jotka ennen olivat yhteisesti käytettävät, ovat nyttemmin palstoitetut erikseen kullekkin. Rakennukset kaikissa torpissa ajanmukaiset ja hyvässä kunnossa. 
           Vuokrasopimukset 25 vuodeksi v:sta 1893.</p>
         <p>Mäkelän torppa (perustettu 1808) sijaitsee 2 penikulman päässä kaupungista yleisen maantien varrella, Ojoisten virkatalon ulkopalstan rajalla. Haltia Heikki Heikinpoika, jonka huonekunnassa v. 1898 oli 6 aika-ihmistä, elättää 
           (tietojen mukaan samalta vuodelta): 2 hevosta, 6 lypsävää lehmää, 4 hiehoa, 10 lammasta, 1 sian. Kylvö (v. 1898): 2 tynnyriä rukiita, ½ tynn. ohria, 3 tynn. kauroja, 5 tynn. perunoita, 4 kappaa papuja, 10 kapp. pellavia. 
@@ -933,7 +933,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Sammon torppa.">
         <br />
-        <p className="firstLetterStyle">kartassa vuodesta 1778. Sijaitsee noin 6 kilometriä luoteesen päin kaupungista. Torpan tiluksia ympäröivät Iso-Luolajan Parolan ja Ojoisten latokartanon tilukset. Haltia Kaarle Karlsson 
+        <p className="initialCap">kartassa vuodesta 1778. Sijaitsee noin 6 kilometriä luoteesen päin kaupungista. Torpan tiluksia ympäröivät Iso-Luolajan Parolan ja Ojoisten latokartanon tilukset. Haltia Kaarle Karlsson 
           (huonekunta: 5 aika-ihmistä ja 5 lasta) elättää: 2 hevosta, 6 lypsylehmää, 2 hiehoa, 10 lammasta, 2 sikaa. Kylvö: 3 tynn. rukiita, ½ tynn. ohria, 6 tynn. kauroja, 5 tynn. perunoita, 5 kapp. papuja, 4 kapp. pellavia, Vuokra 264 
           markkaa. Vuokraaika nykyään: 1879-1905.</p>
       </Article>
@@ -941,7 +941,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Rengon torppien vuokra-ehdot.">
         <br />
-        <p className="firstLetterStyle">Kaupungin torpat Rengossa ovat nykyään vuokratut seuraavilla ehdoilla:</p>
+        <p className="initialCap">Kaupungin torpat Rengossa ovat nykyään vuokratut seuraavilla ehdoilla:</p>
         <br />
         <p><span className="boldStyle">l:o.</span> Vuokra-aika alkaa Maarian päivästä v. 1893 ja kestää samaan aikaan vuonna 1918.</p>
         <p><span className="boldStyle">2:o.</span> Vuokramiehellä on valta käyttää torppaan kuuluvaa metsää omaksi tarpeeksensa ja torpan rakennusaineiksi, mutta, myytäväksi ei sitä saa millään ehdoilla käyttää eikä myöskään kaskeksi kaataa, joll'ei kaupungin 
@@ -988,7 +988,7 @@ const KunnallisHistoriaPage = () => {
       <Article titleText="Kunnan rahastoja ja laitoksia.">
         <p className="signature">Vaivaistalo- ja vaivaishoito. Stichceuksen vaivais- ja työhuone-rahasto.</p>
         <br />
-        <p className="firstLetterStyle">Se lahjoituskirja toukok. 20 p:ltä 1834, jolla silloinen maaherra Joh. Fr. Stichaeus perusti tämän nyttemmin suuren rahaston, on osoitettu kirkkoherra Math. Churbergille ja kuuluu suomennettuna 
+        <p className="initialCap">Se lahjoituskirja toukok. 20 p:ltä 1834, jolla silloinen maaherra Joh. Fr. Stichaeus perusti tämän nyttemmin suuren rahaston, on osoitettu kirkkoherra Math. Churbergille ja kuuluu suomennettuna 
           näin:</p>
         <QuoteStart className="symbolStyle"/>
         <p>Ruvetessani täkäläisen lääninhallituksen hoitajaksi, olen minä huomannut että Hämeenlinnan kaupungissa on ollut ja vieläkin on enemmän kerjäläisiä kuin kaupungin itsessään vähäpätöinen väkiluku saisi 
@@ -1057,7 +1057,7 @@ const KunnallisHistoriaPage = () => {
         <br />
         <p className="signature">Carl J. Kellroos'in lahjoitusrahasto.</p>
         <br />
-        <p className="firstLetterStyle">Kauppakonttoristi Kaarlo Johana Kellroos määräsi huhtik. 28 p. 1897 päivätyn testamentin kautta että, sittenkun pääperilliset, tehtailija G. A. Fältmars puolisoineen, lapsineen ja veljineen, olivat 
+        <p className="initialCap">Kauppakonttoristi Kaarlo Johana Kellroos määräsi huhtik. 28 p. 1897 päivätyn testamentin kautta että, sittenkun pääperilliset, tehtailija G. A. Fältmars puolisoineen, lapsineen ja veljineen, olivat 
           määrätyt osansa saaneet, mahdollinen jäännös hänen omaisuudestaan olisi tuleva köyhille Hämeenlinnan kaupungissa, <span className="quote">näiden hyväksi käytettäväksi sillä tapaa kuin G. A. Fältmars määrää</span>. — Tehtailija 
           Fältmars määräsi tämän johdosta asiakirjalla heinäkuun 5 p:ltä 1898 että pesäjaossa, joka osoitti enemmän varoja kuin oli odotettukaan, kaupungin köyhille langenneet 18,627 m. 6 p. käytettäisiin seuraavalla tavalla: 1) mainittu 
           summa pidetään rahatoimikamarin toimesta korkoa kasvavana ja korko lisätään pääomaan, kunnes tämä on 20,000 markkaa; 2) nämä 20,000 m. hoidetaan ja pidetään korkoa kasvavana Carl J. Kellroos'in lahjoitusrahaston nimellä; 3) 
@@ -1071,7 +1071,7 @@ const KunnallisHistoriaPage = () => {
         <br />
         <p className="signature">Rosenqvistin rahasto.</p>
         <br />
-        <p className="firstLetterStyle">Sepänleski Karolina Vilhelmina Rosenqvist testamenttasi syysk. 23 p. 1870 jälkeen-jäävästä omaisuudestaan <span className="quote">kaupungin köyhille</span> 2,000 markkaa, jotka hänen kuoltuansa 
+        <p className="initialCap">Sepänleski Karolina Vilhelmina Rosenqvist testamenttasi syysk. 23 p. 1870 jälkeen-jäävästä omaisuudestaan <span className="quote">kaupungin köyhille</span> 2,000 markkaa, jotka hänen kuoltuansa 
           tammik. 2 p. 1872 jätettiin vaivaisrahastoon. Varoista muodostettiin testamentin toimeenpanijan ehdoituksesta erityinen rahasto vaivaishoito-hallituksen hoidettavaksi, ja olisivat korot vuosittain käytettävät osaksi 
           palkinnoiksi, osaksi koulutarpeiksi ja vaatteiksi kaupungin köyhille kansakoulunoppilaille.</p>
         <p>Rahaston kanta oli tammikuun 1 p. 1899:</p>
@@ -1081,7 +1081,7 @@ const KunnallisHistoriaPage = () => {
         <br />
         <p className="signature">Jeremejeffin rahasto.</p>
         <br />
-        <p className="firstLetterStyle">Kauppias Pietarissa Afanasii Jeremejeff oli eräällä matkallaan Hämeenlinnassa — arvattavasti lopussa v. 1842 tai 1843 vuoden alussa — selittänyt tahtovansa kaupungin köyhille lahjoittaa 500 ruplaa 
+        <p className="initialCap">Kauppias Pietarissa Afanasii Jeremejeff oli eräällä matkallaan Hämeenlinnassa — arvattavasti lopussa v. 1842 tai 1843 vuoden alussa — selittänyt tahtovansa kaupungin köyhille lahjoittaa 500 ruplaa 
           hopeassa, jonka summan käyttämisestä seurakunnan kirkkoherra saisi määrätä. Kirkkoherra Mathias Churberg, joka siihen aikaan myöskin oli vaivaishoito-johtokunnan esimies, päätti nyt yksissä neuvoin johtokunnan muiden jäsenten 
           kanssa että lahjasta oli muodostettava korkoa kasvava pääoma, jonka korkoja käytettäisiin vasta pääoman kasvattua 1,000 ruplaan hopeaa. Sen perästä olisivat vuotuiset korot jaettavat köyhille ja saamattomille (»afsigkomna») 
           kauppiaiden leskille ja lapsille; ainoastaan jos näitä ei löytyisi, saisivat muutkin porvarien lesket ja lapset koroista osaa. Rahastoa hoitaisi vaivaishoidon johtokunta.</p>
@@ -1094,7 +1094,7 @@ const KunnallisHistoriaPage = () => {
         <br />
         <p className="signature">Jenny Costianderin rahasto.</p>
         <br />
-        <p className="firstLetterStyle">Kirjelmässä kaupungin valtuusmiehille elokuun 4 p:ltä 1891 lahjoittivat kuvernööri Torsten Costiander ja hänen puolisonsa Jenny Costiander, muistoksi hopeahäistään samana päivänä, ja jättivät 
+        <p className="initialCap">Kirjelmässä kaupungin valtuusmiehille elokuun 4 p:ltä 1891 lahjoittivat kuvernööri Torsten Costiander ja hänen puolisonsa Jenny Costiander, muistoksi hopeahäistään samana päivänä, ja jättivät 
           valtuustolle 6,000 markkaa <span className="quote">köyhien hyväksi</span> seuraavalla määräyksellä: sopankeittolaitos perustetaan, jossa köyhimmät ja työhön kykenemättömät yhteiskuntalaiset voisivat huokeasta maksusta, ja 
           ainoastaan poikkeustilassa ilmaiseksi, saada lämmintä ruokaa ja leipää itselleen ja lapsilleen. Lahjoitus on pidettävä kantarahana. Vasta sitten kun rahasto mahdollisten pääoma-lisäysten ja korkojen kautta on noussut 20,000 
           markkaan, perustetaan laitos paikkakunnan rouvasväenseuran kautta, joka sitä ylläpitääkin, ja korko vuosittain sille suoritetaan, mutta näin muodostunut pääoma jää koskematta.</p>
@@ -1111,7 +1111,7 @@ const KunnallisHistoriaPage = () => {
         <br />
         <p className="signature">Kaupungin sairashuone. Sairashuonerahasto ja muut sairaanhoitoa koskevat rahastot.</p>
         <br />
-        <p className="firstLetterStyle">Kirjelmässä Vaivaishoitohallitukselle Hämeenlinnassa jouluk. 11 p:ltä 1868 esiintuo silloinen kuvernööri H. Molander pääasiassa seuraavaa: Samana päivänä pidetyssä kaupunkilaisten kokouksessa 
+        <p className="initialCap">Kirjelmässä Vaivaishoitohallitukselle Hämeenlinnassa jouluk. 11 p:ltä 1868 esiintuo silloinen kuvernööri H. Molander pääasiassa seuraavaa: Samana päivänä pidetyssä kaupunkilaisten kokouksessa 
           päätettiin, kuvernöörin ehdoituksesta, että äskeisenä kovana katovuonna täällä perustetun vaivaismajan (fattigherberge) toiminnasta jälelle jääneet 647 markkaa 80 penniä sekä majan lakattua myytyjen tarvekalujen arvo 
           laskettaisiin pohjarahaksi kuumelasaretille kaupungissa ja rahasto pantaisiin kasvulle kunnes se korkojen ja mahdollisten lisäysten kautta olisi noussut 10,000 markkaan. Tämän summan koroilla arveltiin lasaretti voitavan 
           pienemmässä mittakaavassa perustaa ja kunnossa pitää. Vaivaishoitohallitus ottaisi rahat haltuunsa ja hoitaisi niitä. Kuvernööri lähettää rahat, 647: 80, vaivaishoitohallitukselle, jonka tulee vuosittain tehdä tili varoista ja 
@@ -1144,7 +1144,7 @@ const KunnallisHistoriaPage = () => {
 
         <p className="signature">Charlotta Valdstedtin rahasto.</p>
         <br />
-        <p className="firstLetterStyle">Apteekarinleski Charlotte Valdstedt määräsi lokakuun 27 p. 1893 päivätyn testamentin kautta, että hänen jälkeenjäävästä omaisuudestaan m. m. luovutettaisiin Hämeenlinnan kaupungille 30,000 markkaa, 
+        <p className="initialCap">Apteekarinleski Charlotte Valdstedt määräsi lokakuun 27 p. 1893 päivätyn testamentin kautta, että hänen jälkeenjäävästä omaisuudestaan m. m. luovutettaisiin Hämeenlinnan kaupungille 30,000 markkaa, 
           joka pääoma jäisi koskematta. Korot käytetään vuosittain niin, että kaupungissa olevassa taikka vastedes perustettavassa sairashoitolaitoksessa kustannetaan vapaavuode varattomille henkilöille, kernaimmin naisille säätyluokasta. 
           Kuitenkin suoritetaan testamentin määräyksen mukaan korot tästä pääomasta vuosittain kahdelle testamenttaajan sisarelle niinkauvan kuin nämä elävät. (Leskirouva Valdstedt kuoli jouluk. 18 p. samana vuonna Naantalin kaupungissa, 
           jolle hän myös testamenttasi osan omaisuudestaan ehdolla että sikäläisessä kylpylaitoksessa pääoman koroilla kustannetaan sairashoitoa varattomille henkilöille, kernaimmin naisille säätyluokasta). Joulukuun 24 p. 1894 joutui 
@@ -1155,7 +1155,7 @@ const KunnallisHistoriaPage = () => {
 
         <p className="signature">Joh. Gust. ja Albertina Grönforsin vapaavuoderahasto.</p>
         <br />
-        <p className="firstLetterStyle">Kauppias Joh. Gust. Grönforsin ja hänen puolisonsa Albertinan tytär, katteininleski Mathilda Zilliacus lahjoitti v. 1898 parantumattomain sairasten vapaavuoderahastoksi 5,000 m:kaa.</p>
+        <p className="initialCap">Kauppias Joh. Gust. Grönforsin ja hänen puolisonsa Albertinan tytär, katteininleski Mathilda Zilliacus lahjoitti v. 1898 parantumattomain sairasten vapaavuoderahastoksi 5,000 m:kaa.</p>
         <p>Rahaston kanta tammik. 1 p. 1899:</p>
         <p>Pankissa rahaa: 30,000:-</p>
         <p>Tähän summaan on rouva Zilliacus huhtik. 17 p. 1899 lisännyt 1,000 markkaa.</p>
@@ -1163,7 +1163,7 @@ const KunnallisHistoriaPage = () => {
 
         <p className="signature">Fredrika Zittingin vapaavuoderahasto.</p>
         <br />
-        <p className="firstLetterStyle">Vuonna 1889 lahjoitti tirehtööri C. Zitting 2,000 markkaa rahastoksi, joka hänen tätinsä Fredrika Zittingin muistoksi tulisi kantamaan nimeä <span className="quote">Fredrika Zittingin vapaavuoderahasto 
+        <p className="initialCap">Vuonna 1889 lahjoitti tirehtööri C. Zitting 2,000 markkaa rahastoksi, joka hänen tätinsä Fredrika Zittingin muistoksi tulisi kantamaan nimeä <span className="quote">Fredrika Zittingin vapaavuoderahasto 
           lapsia varten</span> ja josta korot käytettäisiin tämmöiseen tarkoitukseen.</p>
         <p>Rahaston kanta tammik. 1 p. 1899:</p>
         <p>Lainassa olevaa rahaa: 2,000:-</p>
@@ -1173,7 +1173,7 @@ const KunnallisHistoriaPage = () => {
 
         <p className="signature">Kansakoululaitos. Sen rahastoja.</p>
         <br />
-        <p className="firstLetterStyle">Ensimäisen oppilaitoksen kansan lapsia varten Hämeenlinnassa avasi v. 1856 paikkakunnan rouvasväen-seura. Siinä annettiin kuitenkin opetusta ainoastaan tytöille. V. 1859 pani sitten kaupungin 
+        <p className="initialCap">Ensimäisen oppilaitoksen kansan lapsia varten Hämeenlinnassa avasi v. 1856 paikkakunnan rouvasväen-seura. Siinä annettiin kuitenkin opetusta ainoastaan tytöille. V. 1859 pani sitten kaupungin 
           vaivaishoitokunta toimeen alemman kansakoulun poikiakin varten. Nämä koulut olivat vaikuttamassa vuoteen 1871, jolloin kaupunkiseurakunta järjesti varsinaiset kansakoulut. Niille laaditut säännöt määräsivät toimeen-pantavaksi 
           kaksi kolmeluokkaista ylempää kansakoulua, toisen pojille ja toisen tytöille, joihin kumpaiseenkin piti alempana kansakouluna liitettämän yksi luokka valmistavaa opetusta varten. Valmistavilla luokilla ja molempain ylempien 
           koulujen ensimäisellä eli alimmalla luokalla saisi antaa yhteisopetusta poika- ja tyttölapsille.</p>
@@ -1232,7 +1232,7 @@ const KunnallisHistoriaPage = () => {
 
         <p className="signature">Käsityöläiskoulu ja sen talous.</p>
         <br />
-        <p className="firstLetterStyle">Armollisella julistuksella käsityöläiskouluista marrask. 25 p:ltä 1885 muutettiin vanhat sunnuntaikoulut maassa käsityöläiskouluiksi. Hämeenlinnan sunnuntaikoulurahastossa oli v. 1876 4,886 m. 43 
+        <p className="initialCap">Armollisella julistuksella käsityöläiskouluista marrask. 25 p:ltä 1885 muutettiin vanhat sunnuntaikoulut maassa käsityöläiskouluiksi. Hämeenlinnan sunnuntaikoulurahastossa oli v. 1876 4,886 m. 43 
           p., joista 500 m. valtioapua. Sittenkun palkkauksiin y. m. menoihin samana vuonna oli suoritettu 1,141 markkaa, siirrettiin loput eli 3,745: 43 kaupungin kassaan, josta sittemmin sunnuntaikoulun menot suoritettiin. 
           Käsityöläiskoulu alkoi sitten alemmalla osastolla v. 1889, jolloin siinä oli 22 oppilasta. Ylempi käsityöläiskoulu avattiin v. 1892, mutta oli oppilaiden puutteessa työskentelemättä v:teen 1894 saakka, jolloin ylempi ja alempi 
           käsityöläiskoulu yhdistettiin yhdeksi laitokseksi 2:lla luokalla, niin että erotodistuksia siitä lähtien annetaan ainoastaan ylemmältä näistä.</p>
@@ -1247,13 +1247,13 @@ const KunnallisHistoriaPage = () => {
 
         <p className="signature">Käsityöläisten ja tehdastelijain yhdistyksen stipendirahasto</p>
         <br />
-        <p className="firstLetterStyle">on syntynyt siten, että vv. 1889 ja 1890 viinavoittorahoista tähän tarkoitukseen siirrettiin yhteensä 12,000 markkaa. Korot käytetään vuosittain stipendeihin, joita puheenalainen yhdistys jakaa 
+        <p className="initialCap">on syntynyt siten, että vv. 1889 ja 1890 viinavoittorahoista tähän tarkoitukseen siirrettiin yhteensä 12,000 markkaa. Korot käytetään vuosittain stipendeihin, joita puheenalainen yhdistys jakaa 
           ammatti-opillisia matkoja varten.</p>
         <br />
 
         <p className="signature">Sähkövalaistusrahasto ja sähkövalaistuslaitos.</p>
         <br />
-        <p className="firstLetterStyle">Kaupungin sähkövalaistus-rahasto syntyi 1888 ja 1889 vuosien viinavoitto-varoista siirretyllä 20,000 markan suuruisella summalla, ja oli rahaston kanta tammik. 1 p. 1899:</p>
+        <p className="initialCap">Kaupungin sähkövalaistus-rahasto syntyi 1888 ja 1889 vuosien viinavoitto-varoista siirretyllä 20,000 markan suuruisella summalla, ja oli rahaston kanta tammik. 1 p. 1899:</p>
         <p>Lainassa olevaa rahaa: 25,000:-</p>
         <p>Talletuskonttokurantilla: 18,760: 58</p>
         <p>Samoin: 2,300:-</p>
@@ -1276,7 +1276,7 @@ const KunnallisHistoriaPage = () => {
 
         <p className="signature">Aleksanteri Ilsen stipendirahasto.</p>
         <br />
-        <p className="firstLetterStyle">Hämeenlinnan kaupungin asukkaat jättivät helmikuun 15 p. 1883 päivätyn lahjoituskirjan kautta 6,000 Suomen markkaa kaupungin kunnallishallituksen huostaan, hartaasti toivoen että tätä pääomaa, 
+        <p className="initialCap">Hämeenlinnan kaupungin asukkaat jättivät helmikuun 15 p. 1883 päivätyn lahjoituskirjan kautta 6,000 Suomen markkaa kaupungin kunnallishallituksen huostaan, hartaasti toivoen että tätä pääomaa, 
           Aleksanteri II:n stipendirahaston nimellisenä, huolellisesti ja varovaisesti hoidettaisiin, niin että tulevatkin sukupolvet saisivat aihetta siunaamaan sitä armasta hallitsijaa, jonka muistoksi tämä rahasto oli koottu, ja 
           tahtoivat lahjoittajat rahaston käyttämisestä määrätä seuraavasti: 1) Rahaston vuotuisesta korosta on 25 % vuosittain lisättävä pääomaan, siksi kuin se nousee 10,000 markkaan; 2) jälellä oleva vuotuinen korko jaetaan siten, 
           että 50 % koko korosta annetaan kaupungin oppikoululle opettajakunnan määräyksen mukaan stipendinä jaettavaksi köyhille, siivoille ja eteville oppilaille; sekä 3) 25 % koko korosta käytetään täkäläisen käsityöläisyhdistyksen 
@@ -1292,7 +1292,7 @@ const KunnallisHistoriaPage = () => {
 
         <p className="signature">Työväenyhdistyksen sairas- ja hautausapurahasto.</p>
         <br />
-        <p className="firstLetterStyle">Vuosina 1888 ja 1889 siirrettiin tämän rahaston perustamista varten viinavoitto-varoista 10,000 markkaa, ja oli rahaston kanta tammik. 1 p. 1899:</p>
+        <p className="initialCap">Vuosina 1888 ja 1889 siirrettiin tämän rahaston perustamista varten viinavoitto-varoista 10,000 markkaa, ja oli rahaston kanta tammik. 1 p. 1899:</p>
         <p>Lainassa olevaa rahaa: 10,000:-</p>
         <p>Käteistä rahaa: 505:-</p>
         <p>Yhteensä: 10,505:-</p>
@@ -1300,7 +1300,7 @@ const KunnallisHistoriaPage = () => {
 
         <p className="signature">Svahnin lääkerahasto.</p>
         <br />
-        <p className="firstLetterStyle">Anders Svahn, apteekari Hämeenlinnassa 1757—1795, testamenttasi m. m. kahta sairasvuodetta varten Uudenmaan--Hämeenläänin lasaretissa 4,000 riksiä, palkkarahastoksi kaupungin-lääkäriä varten 
+        <p className="initialCap">Anders Svahn, apteekari Hämeenlinnassa 1757—1795, testamenttasi m. m. kahta sairasvuodetta varten Uudenmaan--Hämeenläänin lasaretissa 4,000 riksiä, palkkarahastoksi kaupungin-lääkäriä varten 
           Hämeenlinnassa 2,000 r., Hämeenlinnan kirkolle ja koululle 5,000 r., kuudelle köyhälle leskelle Hämeenlinnan seurakunnassa vuotuiset korot 500 riksistä sekä kirkon urkuja varten vielä 1,000 r.</p>
         <p>Pääomaa hoitaa Suomen Talousseura. Vuotuisista koroista on H:linnan rahatoimikamarin hoidettavana vuosittain 330 m. 60 p., joista 166 m. käytetään köyhäin lääkkeisin ja 164: 60 palkkioksi kaupungin-lääkärille köyhäin hoidosta.</p>
         <p>Sitä paitse lähetetään Suom. Talousseurasta vuosittain tästä rahastosta eri korkomääriä, jotka vastaavat yllä-mainittuja pääoman osia, täkäläisen papiston jaettavaksi. Niin saa esim. Hämeenlinnan kappalainen vuosittain 109 m. 
@@ -1309,7 +1309,7 @@ const KunnallisHistoriaPage = () => {
 
         <p className="signature">Blanckin rahasto.</p>
         <br />
-        <p className="firstLetterStyle">Kaupungin valtuuston arkistossa löytyvien asiakirjain mukaan testamenttasi kauppa-oikeuksilla Hämeenlinnassa varustettu kauppias Karl Ivanowitsh Blanck, joka kuitenkaan ei asunut eikä kauppaa 
+        <p className="initialCap">Kaupungin valtuuston arkistossa löytyvien asiakirjain mukaan testamenttasi kauppa-oikeuksilla Hämeenlinnassa varustettu kauppias Karl Ivanowitsh Blanck, joka kuitenkaan ei asunut eikä kauppaa 
           harjoittanut täällä, vaan Pietarissa, kesäkuun 16 p. 1876 — sukulaisille ja omaisille eri osuudet melkoisesta omaisuudestaan sekä — erityisiä arvopapereita <span className="quote">kasvatuslaitoksen tai turvakodin perustamista 
             varten köyhille lapsille Suomessa, ilman eroitusta uskonnossa tai kansallisuudessa</span>. Hämeenlinnan kaupungille lankesi täten, kun asianomaiset arvopaperit oli Pietarissa selväksi rahaksi muutettu, 4,312 ruplaa, joka 
             summa huhtikuun 20 p. 1892 Hämeen läänin kuvernöörin kautta jätettiin kaupungin valtuustolle.</p>
@@ -1323,7 +1323,7 @@ const KunnallisHistoriaPage = () => {
 
         <p className="signature">Waihelmin rahasto.</p>
         <br />
-        <p className="firstLetterStyle">Carl Walheim, <span className="quote">Bureau Chef och förste Expeditions Sekreterare i Kongl. Svenska regeringens Justitiedepartement"</span> (Toimistopäällikkö ja ensimäinen sihteeri kunink. 
+        <p className="initialCap">Carl Walheim, <span className="quote">Bureau Chef och förste Expeditions Sekreterare i Kongl. Svenska regeringens Justitiedepartement"</span> (Toimistopäällikkö ja ensimäinen sihteeri kunink. 
           Ruotsin hallituksen Oikeusosastossa), testamenttasi Hämeenlinnassa syysk. 23 p. 1843 tekemällään testamentilla täkäläisiin tarkoituksiin yhteensä 5,000 ruplaa, joista 4,000 ruplaa pääomana stipendien jakamista varten 
           varattomille kouluoppilaille Hämeenlinnan kaupunki-kunnasta ja 1.000 ruplaa pääomana sairaanhoidon kustantamista varten köyhille lapsille samasta kunnasta. Pääomia ei saa vähentää, mutta kyllä lisätä.</p>
         <p>1899 vuoden alussa oli pääomaa:</p>
@@ -1337,7 +1337,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Kaupungin virkamiesten ja palvelijain palkat.">
         <br />
-        <p className="firstLetterStyle">Joulukuun 7 p. 1875 vahvisti keis. senaati kaupungin virkamiehille ja palvelijoille seuraavan palkkaussäännön:</p>
+        <p className="initialCap">Joulukuun 7 p. 1875 vahvisti keis. senaati kaupungin virkamiehille ja palvelijoille seuraavan palkkaussäännön:</p>
         <p>1 pormestari, palkkaa: 7000:-</p>
         <p>1 oikeusraatimies, joka samalla on suomenkielen kääntäjä, palkkaa: 2,500:-</p>
         <p>1 kunnallisraatimies, palkkaa: 1.750:-</p>
@@ -1385,7 +1385,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Kaupungin valtuuskunta.">
         <br />
-        <p className="firstLetterStyle">Seikkaperäisempi historiiki Hämeenlinnan kaupungin valtuuskunnasta ja sen vaikutuksesta niinä 25 vuotena, kuin kaupunkikuntain edustuslaitos on maassamme voimassa ollut, tullee laadittavaksi sitä 
+        <p className="initialCap">Seikkaperäisempi historiiki Hämeenlinnan kaupungin valtuuskunnasta ja sen vaikutuksesta niinä 25 vuotena, kuin kaupunkikuntain edustuslaitos on maassamme voimassa ollut, tullee laadittavaksi sitä 
           yhteistä laajaperäistä kaupunki-edustusten kertomusta varten samalta ajalta, joka pääkaupungin valtuuston ehdoituksesta on aiottu julkaistavaksi. Tässä esiintuomme vain ulkonaisimmat piirteet kaupunki-edustuksen synnystä sekä 
           Hämeenlinnan valtuuston vaikutuksesta ja vaiheista.</p>
         <p>Jo ensimäisillä valtiopäivillä perustuslaillisen valtio-muotomme elvyttyä uuteen vaikutukseen ehdoitettiin laki kunnallishallinnosta kaupungeissa laadittavaksi. Perustukset tähän lakiin tarkoittivat semmoista muutosta 
@@ -1431,7 +1431,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Kaupungin rahatoimikamari.">
         <br />
-        <p className="firstLetterStyle">Alkoi toimensa tammik. 1 p:nä 1876. Sen ensimäisinä jäseninä olivat lääninkirjuri L. Peterson, katteini A. Bollfras ja kauppias A. Novoshiloff, joista puheenjohtajana L. Peterson. V. 1899: lehtori 
+        <p className="initialCap">Alkoi toimensa tammik. 1 p:nä 1876. Sen ensimäisinä jäseninä olivat lääninkirjuri L. Peterson, katteini A. Bollfras ja kauppias A. Novoshiloff, joista puheenjohtajana L. Peterson. V. 1899: lehtori 
           J. S. Sargren (puheenjohtajana), kamreeri J. A. Moberg ja apteekkari V. Pomcell.</p>
         <p>Rahatoimikamarin kamreerina on alusta alkaen ollut pastori A. W. Appelqvist, joka jo ennen sen perustamista eli vuodesta 1869 oli vaivaishoidon sihteerinä ja kamreerina hoitanut tämän raha-asioita.</p>
         <p>Veroäyrin perusteena on eri aikoina ollut 400, 300 ja viimeiksi 200 markkaa. Veroäyri v. 1899 teki 3 m. 20 p.</p>
@@ -1504,7 +1504,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Kirkollinen seurakunta ja väkiluku.">
         <br />
-        <p className="firstLetterStyle">Vanhimpina aikoina, jolloin Hämeenlinna vielä oli kauppalana, kuului se Wanajan seurakuntaan, joka puolestaan on kaikkein vanhimpia maassa eli vuodelta 1250. Sittemmin, eli kauppalan saatua 
+        <p className="initialCap">Vanhimpina aikoina, jolloin Hämeenlinna vielä oli kauppalana, kuului se Wanajan seurakuntaan, joka puolestaan on kaikkein vanhimpia maassa eli vuodelta 1250. Sittemmin, eli kauppalan saatua 
           kaupungin-oikeudet v. 1638, muodostettiin tämä kaupunki omaksi seurakunnaksi ja liitettiin siihen kirkollisessa suhteessa läheiset kuninkaalliset latokartanot, Ojoisten, Saaristen ja Hätilän. Tällä tavoin syntyi 
           <span className="quote">Hämeenlinnan kaupunki- ja maaseurakunta</span>. Tähän taasen liitettiin v. 1803, jotta Hämeenlinnan kirkkoherralla olisi, kuten asiakirjoissa lausutaan, kohtuullinen toimeentulo (en anständig 
           lifsbergning) Wanaja yhdeksi kirkkoherrakunnaksi, niin että tällä kirkollisella yhdyskunnalla sittemmin on yhteisnimityksenä <span className="quote">Hämeenlinnan ja Wanajan kirkkoherrakunta</span>.</p>
@@ -1526,7 +1526,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Kouluja.">
         <br />
-        <p className="firstLetterStyle">Hämeenlinnan vanha triviaali-koulu, joka oli tullut neliluokkaiseksi v. 1817, pysyi sellaisena kevätlukukauden alkuun asti v. 1842, jolloin se muuttui yli-alkeiskouluksi (högre elementarskola), 
+        <p className="initialCap">Hämeenlinnan vanha triviaali-koulu, joka oli tullut neliluokkaiseksi v. 1817, pysyi sellaisena kevätlukukauden alkuun asti v. 1842, jolloin se muuttui yli-alkeiskouluksi (högre elementarskola), 
           mutta vasta syyslukukauden alusta v. 1844, sittenkun uusi gymnaasi- ja koulujärjestys v:lta 1843 oli vahvistettu, voitiin koulun opetus tämän uuden järjestyksen mukaiseksi muuttaa. — 1831 vuoden tulipalossa paloivat kirkon 
           vieressä olevat koulurakennuksetkin, ja luokat joutuivat hajalle sinne tänne kaupungissa. V. 1849 muutti koulu vihdoin siihen taloon, joka nyt on postikonttorina.</p>
         <p>V. 1857 perustettiin Hämeenlinnaan siviili-gymnaasi, joka pysyi vaikuttamassa vuoteen 1872 saakka. Se lakkautettiin silloin, mutta sen sijaan muutettiin ylä-alkeiskoulu samana vuonna 7-luokkaiseksi alkeisopistoksi. Tämä 
@@ -1603,7 +1603,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Hämeenlinnan rouvasväen-seura.">
         <br />
-        <p className="firstLetterStyle">Tämä seura, joka pitkällisen olemassa-olonsa aikana on vaikuttanut varsin monipuolisesti yhteiselämään paikkakunnalla, on saanut alkunsa seuraavalla tavalla:</p>
+        <p className="initialCap">Tämä seura, joka pitkällisen olemassa-olonsa aikana on vaikuttanut varsin monipuolisesti yhteiselämään paikkakunnalla, on saanut alkunsa seuraavalla tavalla:</p>
         <p>Vuodesta 1848 oli kaupungissa löytynyt eräs lauluseura, jota johti rouva von Schoultz-Brand ja johon kuului etupäässä nuorisoa sivistyneestä kansanluokasta. Saadakseen aikaan tarpeen vaatimaa koulua <span className="quote">
           köyhien ja turvattomain lasten kasvattamista varten uskonnossa ja opettamista varten tavallisissa käsitöissä</span> liittyi tähän nuorisoseuraan myöskin koko joukko vanhempia kansalaisia, ja niinpä pantiin mainitun vuoden 
           lopussa ja seuraavan alussa toimeen pari seuranäytelmää, jonka ohessa kaupungin porvariston keskuudessa kerättiin varoja puheenalaista koulua varten. Saatiin tällä tavoin kokoon vähän toista sataa ruplaa, ja johtokunta 
@@ -1702,7 +1702,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Käsityöläis- ja tehdastelija-yhdistys.">
         <br />
-        <p className="firstLetterStyle">Tämä yhdistys, jonka synty ja ensimäiset vaiheet ansaitsisivat pitemmän kertomuksen kuin tässä voi tulla kysymykseen, tuli perustetuksi v. 1868 elokuun 7 päivänä, ja asetuksen mukaisesti 
+        <p className="initialCap">Tämä yhdistys, jonka synty ja ensimäiset vaiheet ansaitsisivat pitemmän kertomuksen kuin tässä voi tulla kysymykseen, tuli perustetuksi v. 1868 elokuun 7 päivänä, ja asetuksen mukaisesti 
           siirrettiin lähimpinä vuosina vanhojen ammattikuntain kassat uuden yhteis-yhdistyksen pohja-rahastoksi. Niinpä esim. suutari-ammattikunnan kassa siirrettiin 49 m. 50 p. suuruisena, karvarien kassa 1,656 m. 77 p:n, 
           puuseppäin 11 m:n, kulta- ja hopeaseppäin 1,379 m. 49 p:n, rautaseppäin 118 m. 82 p:n, vaskiseppäin 523 m. 32 p:n suuruisena käsityöläis- ja tehdastelija- yhdistyksen rahastoon. Mutta useiden ammattikuntain kassain tileistä 
           syntyi oikeuden-käynnit, ja kassasäästöt joutuivat vasta vuosien kuluessa uuden yhdistyksen omaksi. Vaskenvalajain kassanhoitaja esim. eräässä selityskirjassaan valittaa että häneltä oli tullut ammattikunnan kassa. 112 
@@ -1720,14 +1720,14 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Hämeenlinnan kauppiasyhdistys.">
         <br />
-        <p className="firstLetterStyle">Lukee alkunsa vuodesta 1881 ja on olemassa asetuksen säätämänä laitoksena, johon osallistuu jokainen palkattujen kauppapalvelijain avulla liikettä harjoittava kauppias. Jäsenmaksu on 6 markkaa 
+        <p className="initialCap">Lukee alkunsa vuodesta 1881 ja on olemassa asetuksen säätämänä laitoksena, johon osallistuu jokainen palkattujen kauppapalvelijain avulla liikettä harjoittava kauppias. Jäsenmaksu on 6 markkaa 
           vuodelta. Puheenjohtaja: pankintirehtööri A. Bogdanoff. Jäseniä tätä nykyä noin 40. Yhdistyksen varat tämän tilivuoden alussa: 2,016 m. 36 p.</p>
       </Article>
       <SubDivider className="dividerStyle"/>
 
       <Article titleText="Hämeenlinnan Työväenyhdistys.">
         <br />
-        <p className="firstLetterStyle">On perustettu v. 1888. Sen säännöt ovat Hämeenläänin kuvernöörin vahvistamat 15 p. jouluk. sanottuna vuonna. Yhdistyksen ensimäisinä puuhaajina ja sittemmin hartaimpina jäseninä voimme mainita 
+        <p className="initialCap">On perustettu v. 1888. Sen säännöt ovat Hämeenläänin kuvernöörin vahvistamat 15 p. jouluk. sanottuna vuonna. Yhdistyksen ensimäisinä puuhaajina ja sittemmin hartaimpina jäseninä voimme mainita 
           turkkuri S. Lindqvist-vainajan, lääninkamreeri G. V. Liukkosen, joka 10 vuotta toimi puheenjohtajana, sekä räätäli J. Erlanderin.</p>
         <p>Yhdistyksen tarkoitus sääntöjen 1 §:n mukaan on olla yhdyssiteenä Hämeenlinnan asukasten kesken edistääkseen työväen parasta sekä henkisessä että aineellisessa suhteessa. Sen hallituksena on johtokunta, johon kuuluu 9 
           henkeä. Näistä eroaa vuosittain 3 kauimmin ollutta, joiden sijalle vuosikokouksessa valitaan uudet. Vuosikokous pidetään tammikuun kuluessa. Johtokunta valitsee keskuudestaan esimiehen, vara-esimiehen ja rahastonhoitajan. 
@@ -1740,7 +1740,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Hämeenlinnan Eläinsuojelusseura.">
         <br />
-        <p className="firstLetterStyle">Seuran säännöt vahvistettiin ensimäinen kerta senaatin talous-osastossa huhtikuun 28 p. 1875. Nykyiset säännöt on Hämeenläänin kuvernööri vahvistanut päätöksellä syysk. 8 p:ltä 1891 ja toukokuun 
+        <p className="initialCap">Seuran säännöt vahvistettiin ensimäinen kerta senaatin talous-osastossa huhtikuun 28 p. 1875. Nykyiset säännöt on Hämeenläänin kuvernööri vahvistanut päätöksellä syysk. 8 p:ltä 1891 ja toukokuun 
           4 p:ltä 1894.</p>
         <p>Seura on katsonut parhaiten saavuttavansa tarkoitustaan osaksi esitelmien kautta, osaksi kaikellaisten eläinystävällisten kirjasten, aikakauskirjojen, taulujen y. m. levittämisellä kansan keskuuteen. Näitä on lähetetty, 
           paitsi jäsenille ja yksityisille, poliiseille, kansa- ja muihin kouluihin, lukutupiin, kievareihin, pitäjätupiin, maanviljelyskouluihin, kasarmeihin y. m. paikkoihin, missä on luultu niistä hyötyä olevan.</p>
@@ -1756,7 +1756,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Hämeenlinnan Raittiusseura.">
         <br />
-        <p className="firstLetterStyle">Perustettiin 16 päivä maaliskuuta v. 1884, lehtorin, nyk. professori A. Genetzin toimesta, joka myös oli sen ensimäisenä puheenjohtajana. Seura alistuu Raittiuden Ystävien alle Helsingissä. 
+        <p className="initialCap">Perustettiin 16 päivä maaliskuuta v. 1884, lehtorin, nyk. professori A. Genetzin toimesta, joka myös oli sen ensimäisenä puheenjohtajana. Seura alistuu Raittiuden Ystävien alle Helsingissä. 
           Jäsenluku vaihteleva 150:stä vähän päälle 200:n. Nykyään on puheenjohtajana lehtori E. V. Palander, sihteerinä kansak. opettaja K. Reunanen.</p>
         <p>Jäsenten tulee luvata, niin kauvan kuin osastoon kuuluvat, vähintäänkin yhden vuoden ajan olla itse käyttämättä ja muille tarjoomatta ravinto- tai nautinto-aineina minkäänlaisia juovuttavia juomia.</p>
         <p>Jäseniksi yhdistykseen ei saa ottaa 16 vuotta nuorempia, ei viinatehtailijoita eikä -kaupitsijoita, ja on yhdistys oikeutettu, varotettuansa, sulkemaan pois jäsenen, joka rikkoo näitä sääntöjä vastaan tai käytöksellään 
@@ -1773,7 +1773,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Hämeenlinnan Nuorisoseuran">
         <br />
-        <p className="firstLetterStyle">Ensimäinen perustava kokous pidettiin Työväenyhdistyksen huoneustossa marrask. 22 p. 1897. 2:nen perustava kokous oli raittiusravintolassa marrask. 28 p. 1897. Perustajina olivat ylioppilas K. 
+        <p className="initialCap">Ensimäinen perustava kokous pidettiin Työväenyhdistyksen huoneustossa marrask. 22 p. 1897. 2:nen perustava kokous oli raittiusravintolassa marrask. 28 p. 1897. Perustajina olivat ylioppilas K. 
           Reunanen (myös puheenjohtaja), yliopp. Severi Alanne (sihteerinä), neidet Alma Villgrön ja Hilja Lindberg sekä nahkuri Kyösti Nefling ja kauppias H. Helenius.</p>
         <p>Tammikuun 8 päivänä 1898 sai seura sääntönsä vahvistetuiksi Etelä-Pohjanmaan nuorisoseuran kautta, josta se muodostaa haara-osaston.</p>
         <p>Ensimäinen vakinainen kuukausikokous pidettiin tammik. 28 p. 1898.</p>
@@ -1790,7 +1790,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Hämeenläänin Metsästysseura.">
         <br />
-        <p className="firstLetterStyle">Hämeenläänin Metsästysseuran säännöt hyväksyttiin ja vahvistettiin ensimäinen kerta senaatin talous-osastossa 24 p. tammik. v. 1873. Seuran tarkoitus on alusta, alkaen ollut metsästyslakia 
+        <p className="initialCap">Hämeenläänin Metsästysseuran säännöt hyväksyttiin ja vahvistettiin ensimäinen kerta senaatin talous-osastossa 24 p. tammik. v. 1873. Seuran tarkoitus on alusta, alkaen ollut metsästyslakia 
           tarkoin noudattamalla ja vahingollisia petoeläimiä hävittämällä koettaa edistää hyödyllisen metsäriistan yhä runsaampaa karttumista. Ampumaharjoituksia ja yleisiä kilpa-ampumisia toimeenpanemalla on seura koettanut 
           kasvattaa taitavia ja kiväärin käyttämiseen kykeneviä metsästäjiä. Sittemmin päätti seura järkiperäisen metsänriistan-hoidon ylläpitämiseksi vuokrata jäsenilleen metsästysmaita, joita seuralla nykyään onkin koko laajalti, 
           niinkuin Luolajan, Miemalan, Ojoisten, Eteläisten, Kokkilan ja Juntulan kylien maat. Kun seuran tarkoitus täten laajennettiin, oli sääntöjen muuttaminen välttämätön, ja uudet säännöt vahvisti Hämeenläänin kuvernööri 
@@ -1807,7 +1807,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Hämeenläänin Hevosystäväin yhdistys,">
         <br />
-        <p className="firstLetterStyle">Joka lukee alkunsa vuodesta 1869, pitää tarkoituksenaan <span className="quote">kannattaa harrastusta maamme hevoshoidon edistämisessä ja suomalaisen hevosrodun parantamisessa sekä koettaa 
+        <p className="initialCap">Joka lukee alkunsa vuodesta 1869, pitää tarkoituksenaan <span className="quote">kannattaa harrastusta maamme hevoshoidon edistämisessä ja suomalaisen hevosrodun parantamisessa sekä koettaa 
           valaista yleisön käsitystä siitä, että hevosta on lempeydellä kohdeltava</span>. Yhdistys toimeenpanee kilpa-ajoja, nuorten hevosten ja varsain näyttelyitä ja jakaa varojensa mukaan niissä palkintoja. Pitää myöskin huolta 
           valtion kilpa-ajoista. Varoja viime tilivuoden lopussa Sm. 1,019: 90. Vakinaisia jäseniä nykyään 25, vuosijäseniä 61. Yhdistyksen puheenjohtaja: maanviljelijä J. R. Vuolijoki (Hauholla), varapuheenjohtaja ja sihteeri kauppias 
           W. C. Wilhelmsson.</p>
@@ -1816,7 +1816,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Hämeenlinnan Säästöpankki (Sparbanken i Tavastehus)">
         <br />
-        <p className="firstLetterStyle">Lukee perustuksensa joulukuun 8 p:stä 1843. Silloin näet kirkkoherra Mathias Churberg useiden henkilöiden kehoituksesta pani kiertämään listan pohjarahaston perustamista varten. Listassa 
+        <p className="initialCap">Lukee perustuksensa joulukuun 8 p:stä 1843. Silloin näet kirkkoherra Mathias Churberg useiden henkilöiden kehoituksesta pani kiertämään listan pohjarahaston perustamista varten. Listassa 
           pyydettiin joko a) lahjaa taikka b) korotonta lainaa 10 vuodeksi.</p>
         <p>Ensimäisenä merkitsi listaan vapaahra O. Rehbinder 10 hopearuplaa lahjaksi, joukko muita henkilöitä vähempiä määriä. Yhteensä merkittiin lahjaksi 156 ja lainaksi 50 ruplaa. Merkitsijöitä oli kaikkiaan 45 henkilöä, jotka 
           muodostivat pankin ensimäisen isännistön. Tuli sitten ajan pitkään muutamia lahjoja lisäksi, niin että kesäk. 13 p. 1846 oli pohjavaroja 223 ruplaa ja korkoja 138 r.</p>
@@ -1834,7 +1834,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Kaupungin Yksityinen apu- ja eläkerahasto.">
         <br />
-        <p className="firstLetterStyle">Tämä laitos perustettiin v. 1863. Sen kanta-varasto oli 31 p. Jouluk. 1898 Smk. 101,538: 85. Ensimäiset eläkkeet maksettiin jo v. 1873 kahdelle leskelle ja erään osakkaan lapsille. Nämä lapset 
+        <p className="initialCap">Tämä laitos perustettiin v. 1863. Sen kanta-varasto oli 31 p. Jouluk. 1898 Smk. 101,538: 85. Ensimäiset eläkkeet maksettiin jo v. 1873 kahdelle leskelle ja erään osakkaan lapsille. Nämä lapset 
           ja yksi leskistä nauttivat vieläkin vuotuista eläkettä. 35 vuoden kuluessa on 25 jäsentä poistettu rahastosta, syystä etteivät ole suorittaneet vuosimaksujaan. Kolmen perheen jäsenet ovat kaikki kuolleet, kahden ovat 
           luovuttaneet eläkkeensä rahaston hyväksi.</p>
         <p>Tappiota on rahasto tullut kärsimään ainoastaan kaksi kertaa, nimittäin vuonna 1871 1,410 mk. 95 p., kun säästöpankki ei maksanut mitään korkoa vuosilta 1869 ja 1870, ja v. 1891 erään vararikon kautta 4,044 mk. 25 p., eli 
@@ -1870,7 +1870,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Hämeenlinnan vapaaehtoinen palokunta.">
         <br />
-        <p className="firstLetterStyle">Tämä hyödyllinen laitos, joka on laatuaan vanhimpia maassa, lukee perustuksensa maalisk. 30 päivästä 1873, jolloin kaupungin silloinen palomestari, kauppias J. J. Jägerroos, oli kutsunut asiaa 
+        <p className="initialCap">Tämä hyödyllinen laitos, joka on laatuaan vanhimpia maassa, lukee perustuksensa maalisk. 30 päivästä 1873, jolloin kaupungin silloinen palomestari, kauppias J. J. Jägerroos, oli kutsunut asiaa 
           harrastavia kaupunkilaisia kokoontumaan raatihuoneen saliin. Kokoukseen saapui noin 40 henkeä, jotka päätvät perustaa vapaa-ehtoisen palosammutuskunnan vakinaiselle palokunnalle avuksi. Uuden laitoksen päälliköksi valittiin 
           polttimomestari K. P. Doll ja varapäälliköksi proviisori A. Nordfors. Saatuaan ensiksi vähän kalustoa käytettäväkseen vakinaiselta palokunnalta, rupesi kunta iltahuvien, arpajaisten ja keräysten kautta puuhaamaan itselleen 
           varoja oman kaluston hankkimista varten. Ja hyvällä menestyksellä. Kertyi rahoja ja niillä kalustoa, jota säilytettiin raatihuoneen talon liiterissä. 1873 vuoden lopussa oli palokunnassa jo neljä komppaniaa, joiden 
@@ -1933,7 +1933,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Telefooni.">
         <br />
-        <p className="firstLetterStyle">Telefooni-yhdistys syntyi täällä kesäk. 4 p. 1884. Sitä ennen oli ainoastaan yksi lanka löytynyt, nim. <span className="quote">Riga</span>-nimisestä hotellista kauppias A. Bogdanoffin puotiin. 
+        <p className="initialCap">Telefooni-yhdistys syntyi täällä kesäk. 4 p. 1884. Sitä ennen oli ainoastaan yksi lanka löytynyt, nim. <span className="quote">Riga</span>-nimisestä hotellista kauppias A. Bogdanoffin puotiin. 
           Telefooni-yhdistys muodostui yhtiöksi ja sai oikeutensa marrask. 9 p. 1893, 200:lle osakkeelle à 100 m. Apparaateilla varustettuja osallisia on tällä haavaa 198.</p>
         <p>Osallismaksu on 100 markkaa, jota paitse suoritetaan vuosimaksua 30 à 40 m. Apparaatit maksavat 75—125 m.</p>
         <p>Hämeenlinnan telefooni-verkko, jonka sentraalissa palvelee 6 henkilöä, on suoranaisessa yhteydessä Helsingin, Tampereen, Leppäkosken, Iittalan, Hattulan, Hauhon, Lammin, Orimattilan ja Urjalan keskusasemien kanssa, mutta 
@@ -1946,7 +1946,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Kauppa ja teollisuus, laivakulku ja rautatieliike.">
         <br />
-        <p className="firstLetterStyle">Kuten ylempänä on kerrottu, ei Hämeenlinnassa vielä v. 1831 ennen silloista tulipaloa harjoitettu mitään laivakulkua, ei myöskään löytynyt mitään tehtaita tai senkaltaisia laitoksia. Liikettä 
+        <p className="initialCap">Kuten ylempänä on kerrottu, ei Hämeenlinnassa vielä v. 1831 ennen silloista tulipaloa harjoitettu mitään laivakulkua, ei myöskään löytynyt mitään tehtaita tai senkaltaisia laitoksia. Liikettä 
           välittivät ainoastaan maantiet sekä vesistöllä vähäpätöiset purjeroomut, jotka enimmäkseen vain kuljettivat lautoja Walkeakosken ja Hämeenlinnan välillä. Ennen vuotta 1867 ei ollut olemassa mitään paikkakunnallista 
           höyryalusta. Mutta lähimpinä kesinä sitä ennen oli kaksi pienempää venäläistä kruunun propelli-höyryalusta, <span className="quote">Udatscha</span> ja <span className="quote">Strjela</span> käynyt merkitsemässä laivareittiä 
           niin pitkälle pohjoiseen kuin pääsivät. Ja tämän johdosta muodostui v. 1866 <span className="quote">Wanajavesi ångbåtsbolag</span> niminen yhtiö. Sen toimeen-panijana oli Laukon kartanon omistaja, tuomari Adolf Törngren, joka 
@@ -2003,7 +2003,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Apteekit.">
         <br />
-        <p className="firstLetterStyle">Ensimäisen apteekin Hämeenlinnaan perusti Helsingin apteekari Johana Magnus Tingelund, joka v. 1753 sai väliaikaiset oikeudet Hämeenlinnan apteekille. Hänestä mainitaan että hän 
+        <p className="initialCap">Ensimäisen apteekin Hämeenlinnaan perusti Helsingin apteekari Johana Magnus Tingelund, joka v. 1753 sai väliaikaiset oikeudet Hämeenlinnan apteekille. Hänestä mainitaan että hän 
           myöskin <span className="quote">harjoitteli rokonistutusta ja muuta praktiikkaa kuin apteekkiliikettänsä</span>. Kuoli 1765.</p>
         <p>Tingelundin luona palveli v. 1753-56 Helsingissä harjoittelijana Anders Svahn, joka v. 1757 sai pysyväiset oikeudet Hämeenlinnan kanta-apteekille. A. Svahn oli syntynyt Tukholmassa 1730, sai syvällistä opetusta tieteessä ja 
           kielissä, palveli oppilaana Upsalan apteekissa ja tuli 1751 ylioppilaaksi sikäläiseen yliopistoon. Hänen apteekkiansa Hämeenlinnassa mainittiin nimellä <span className="quote">Rosen</span>, jonka kehittämistä varten hän sai 
@@ -2026,7 +2026,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Kirjapainoja ja sanomalehtiä.">
         <br />
-        <p className="firstLetterStyle">Osakeyhtiö Hämäläisen kirjapaino, perustettu v. 1846. Sanomalehti <span className="quote">Hämäläinen</span>, perustettu v. 1859, ilmestyy nykyään kahdesti viikossa. Sen toimittajina eri aikoina 
+        <p className="initialCap">Osakeyhtiö Hämäläisen kirjapaino, perustettu v. 1846. Sanomalehti <span className="quote">Hämäläinen</span>, perustettu v. 1859, ilmestyy nykyään kahdesti viikossa. Sen toimittajina eri aikoina 
           ovat olleet: lehtori G. E. Euron, filos, maisterit A. Malin, A. W. Lindgren ja Tyko Hagman.</p>
         <p>Hämeen Sanomain kirjapaino, perust. v. 1878. Osakeyhtiön omana. Sanomalehti <span className="quote">Hämeen Sanomat</span>, perust. v. 1878, ilmestyy nykyään kolme kertaa viikossa. Sen toimittajina eri aikoina ovat olleet: 
           lehtori K. Blomstedt, filos, maisterit Y. K. Yrjö-Koskinen, Uno von Schrove, A. E. Favén ja E. W. Palander, opettaja O. A. E. Lönnbohm, filos, maist. Severi Nyman, arkkitehti H. R. Helin, ylioppilaat Jukka Asp, E. Forsgren 
@@ -2058,7 +2058,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Hämeenlinnan kaupungin Väkijuomain Vähittäismyynti- ja Anniskelu-osakeyhtiö.">
         <br />
-        <p className="firstLetterStyle">Perustettiin kesäk. 13 p. 1887. Osakepääoma on 30,000 markkaa, jaettuna 300 osakkeesen à 100 m., jotka juoksevat 6 % korolla. Asetuksen mukaisesti on puhtaasta voitosta eri vuosina suoritettu 
+        <p className="initialCap">Perustettiin kesäk. 13 p. 1887. Osakepääoma on 30,000 markkaa, jaettuna 300 osakkeesen à 100 m., jotka juoksevat 6 % korolla. Asetuksen mukaisesti on puhtaasta voitosta eri vuosina suoritettu 
           kaupungille seuraavat määrät:</p>
         <Image className="centeredImageStyle" src={img17} alt="Viinanmyyntivoitot"/>
       </Article>
@@ -2066,7 +2066,7 @@ const KunnallisHistoriaPage = () => {
 
       <Article titleText="Hämeenlinnan kaupungin viinien ja muiden miedompain väkijuomain kauppa-osakeyhtiö.">
         <br />
-        <p className="firstLetterStyle">On perustettu 1 p:nä kesäk. 1896. Pääoma on 20,000 markkaa, jaettu 200 osakkeesen à 100 markkaa, jotka juoksevat 6 % korolla. Kunakin vuotena on yhtiö suorittanut edellisen vuoden puhtaan voiton, 
+        <p className="initialCap">On perustettu 1 p:nä kesäk. 1896. Pääoma on 20,000 markkaa, jaettu 200 osakkeesen à 100 markkaa, jotka juoksevat 6 % korolla. Kunakin vuotena on yhtiö suorittanut edellisen vuoden puhtaan voiton, 
           säännöissä olevan määräyksen mukaan, kaupungin rahatoimikamarille. Vuoden 1896 voitto oli Sm. 1,441: 87, 1897 Sm. 1,458: 62, ja 1898 Sm. 563: 42.</p>
       </Article>
       <SubDivider className="dividerStyle"/>

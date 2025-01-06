@@ -60,7 +60,7 @@ const HousingConditionsPage = () => {
       <Divider className="dividerStyle" />
 
       <h2>Johdanto</h2>
-      <p className="firstLetterStyle">Kaupunkimme terveyshoitolautakunnan päämääränä on, lukuunottamatta terveyshoidollisten olojen silmällä pitämistä ja esiintyvien 
+      <p className="initialCap">Kaupunkimme terveyshoitolautakunnan päämääränä on, lukuunottamatta terveyshoidollisten olojen silmällä pitämistä ja esiintyvien 
         puutteellisuuksien auttamista, myöskin ollut pyrintö, siinä määrin kuin olosuhteet sen ovat myöntäneet, saada seikkaperäisempiä selvityksiä Hämeenlinnassa vallitsevista 
         yleisistä terveyshoidollisista oloista, että saataisiin jonkinlaista varmempaa pohjaa vastaisille töille ja toimenpiteille. Tässä tarkoituksessa ovat syntyneet 
         lautakunnan vuosikertomuksissa liitteinä olleet eri terveyshoitoaloja koskevat selonteot. Yhtenä tällaisena selvitettävänä haarana ovat tietysti kaupungin asunto-olosuhteet 
@@ -100,7 +100,7 @@ const HousingConditionsPage = () => {
         kaikkialla muualla paitsi varsinaisessa kaupungissa yhdessä talossa, nimittäin Nro 125, jossa täytyi jättää asuntojen mittaukset sikseen.</p>
 
       <h2>Kaupungin asema- ja rakennustapa</h2>
-      <p className="firstLetterStyle">Hämeenlinnan kaupunki siirrettiin kuten tunnettu kahdeksannentoista vuosisadan lopussa ahtauden tähden nykyiselle paikalleen vanhan linnan 
+      <p className="initialCap">Hämeenlinnan kaupunki siirrettiin kuten tunnettu kahdeksannentoista vuosisadan lopussa ahtauden tähden nykyiselle paikalleen vanhan linnan 
         eteläpuolelle, oltuaan siihen saakka linnan pohjoispuolella. Nykyinen paikka eli n. k. Niementaustan mäki oli kyllä silloisia tarpeita varten väljä, mutta pitkälle ei 
         siinäkään tilaa riittänyt; se ei nimittäin ole, vaikkakin laitaosia etenkin pohjoispuolella on runsaasti täyttämällä laajennettu, sen suurempi kuin 850 m. idästä länteen 
         ja 650 m. pohjoisesta etelään. Kaupunki on kahdelta puolelta eli idässä ja etelässä Vanajaveden ympäröimä ja jälellä olevalta kahdelta puolelta suonotkon rajoittama. 
@@ -161,7 +161,7 @@ const HousingConditionsPage = () => {
 
       <h2>Kaupungin asutus</h2>
       <h3>1. Asunnot</h3>
-      <p className="firstLetterStyle">Kuten jo edellä huomautettiin, oli varsinaisessa kaupungissa rakennettuna 158 tonttia, mutta kun muutamat näistä vielä ovat lopullisesti 
+      <p className="initialCap">Kuten jo edellä huomautettiin, oli varsinaisessa kaupungissa rakennettuna 158 tonttia, mutta kun muutamat näistä vielä ovat lopullisesti 
         järjestämättä, joten niillä saattaa löytyä pari taloa, saadaan kaikkiaan 163 taloa. Näissä löytyi 950 erisuurta asuntoa käsittäen 2798 asuinhuonetta. Kutakin taloa kohti tulee 
         siten keskimäärin 5,8 asuntoa ja 17,2 asuinhuonetta. Mainitusta asuntomäärästä sijaitsi 154 kivirakennuksissa, näistä kuitenkin muutama kivijalkakerroksessa, ja 796 
         puurakennuksissa. Kadunvarrella olevissa rakennuksissa löytyi 576 asuntoa ja piharakennuksissa 374. — Myllymäessä oli 112 taloa käsittäen 345 asuntoa ja 638 asuiohuonetta eli 
@@ -191,7 +191,7 @@ const HousingConditionsPage = () => {
       <Image className="centeredImageStyle" src={img7} alt="Taulukko 7"/>
 
       <h3>2. Asukkaat</h3>
-      <p className="firstLetterStyle">Vuoden 1908 alussa oli kaupungissamme kirkonkirjojen mukaan 5,965 asukasta. Tilastoa kerättäessä asui varsinaisessa kaupungissa 4,040 eli 67.9%, Myllymäessä 1,303 eli 21.8% siis 
+      <p className="initialCap">Vuoden 1908 alussa oli kaupungissamme kirkonkirjojen mukaan 5,965 asukasta. Tilastoa kerättäessä asui varsinaisessa kaupungissa 4,040 eli 67.9%, Myllymäessä 1,303 eli 21.8% siis 
         yhteensä 5,343 eli 89.7 % koko asukasmäärästä; ulkopuolella kaupunkia asui niinmuodoin 616 eli 10.3 %. Viimeksimainitut ovat etupäässä asettuneet Myllymäen eteläpuolella olevan, 
         Vanajan pitäjään kuuluvan, n. k. Punaportin ja Jaakopin kaupungin alueelle tahi maaseurakuntaan kuuluvan Hätilän ja Ojoisten kartanoitten alueille. — Asutustiheys varsinaisessa 
         kaupungissa tekee jotenkin tasan 80 henkeä hehtaaria kohti.</p>
@@ -234,7 +234,7 @@ const HousingConditionsPage = () => {
         koulunuoriso suurimman osan eli jotenkin tasan 2/3 kaikista sivullisista asukkaista. Ilman koulunuorisoa olisikin sivullisten asukasten lukumäärä perin pieni.</p>
 
       <h2>Pienemmät eli etupäässä työväen käyttämät asunnot</h2>
-      <p className="firstLetterStyle">Mielipiteet saattavat tietysti olla eriäviä siinä, kuinka suuret eli yleensä mitkä asunnot ovat pidettävät etupäässä työväen asuntoina, mitkä ei. Selvityksessään Helsingin työväen 
+      <p className="initialCap">Mielipiteet saattavat tietysti olla eriäviä siinä, kuinka suuret eli yleensä mitkä asunnot ovat pidettävät etupäässä työväen asuntoina, mitkä ei. Selvityksessään Helsingin työväen 
         asunto-olosuhteista on Prof. Sucksdorff ottanut siksi neljä huonetta ja keittiön käsittävät ynnä sitä pienemmät asunnot; muualla on tätä esimerkkiä osaksi seurattu. Saattaa olla 
         mahdollista, että asianlaita on siten Helsingissä, mutta Hämeenlinnassa ovat olot kuitenkin toisenlaiset. Kuten sivulla 20 olevasta taulusta näkyy ja jo aikaisemmin huomautettiin, 
         voidaan Hämeenlinnassa ottaa pienempiin eli etupäässä työväen käyttämiin asuntoihin korkeintaan kolme huonetta ja keittiön käsittävät ynnä sitä pienemmät asunnot eli niinmuodoin 
@@ -322,7 +322,7 @@ const HousingConditionsPage = () => {
         asutus suuremmassa määrässä vaikuttaisi liika-asutusta.</p>
 
       <h2>Yleiskatsaus</h2>
-      <p className="firstLetterStyle">Kuten pienissä kaupungeissamme yleensä on asianlaita, on Hämeenlinnassakin asuntoja, etenkin keskikokoisia ja vähän suurempia sellaisia, ainoastaan parahiksi niin 
+      <p className="initialCap">Kuten pienissä kaupungeissamme yleensä on asianlaita, on Hämeenlinnassakin asuntoja, etenkin keskikokoisia ja vähän suurempia sellaisia, ainoastaan parahiksi niin 
         paljon kuin niitä tarvitaan. Jos useampia perheitä, jotka tarvitsevat tällaisia asuntoja, muuttaisi samalla kertaa kaupunkiin, syntyisi suuria vaikeuksia saada asuntoja, ell'ei joitakuita perheitä 
         samalla muuttaisi pois. Jos samaan aikaan rakennetaan useampia rakennuksia, tulee asuntoja aluksi enemmän kun tarvitaan, ell'ei ole kysymys pienemmistä sellaisista.</p>
       <p>Ylimalkaan ovat asuinhuoneet hyvin pieniä ja asunnot niinhyvin pienemmät kuin suuremmatkin ei ainoastaan vanhemmissa vaan uusissakin rakennuksissa, harvoja poikkeuksia lukuunottamatta, 

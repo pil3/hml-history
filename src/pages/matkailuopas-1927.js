@@ -43,7 +43,7 @@ const MatkailuopasPage = () => {
       <Divider className="dividerStyle" />
       
       <h2>Hämeen linna ja vanha kaupunki</h2>
-      <p className="firstLetterStyle">Hämeen linna sijaitsee Vanajaveden rannalla, Helsingistä Tampereelle vievän rautatien varrella. Sen
+      <p className="initialCap">Hämeen linna sijaitsee Vanajaveden rannalla, Helsingistä Tampereelle vievän rautatien varrella. Sen
         maantieteellinen asema on 60° 59 46,8 pohj. lev. ja 24°, 28 05 it. pit. Greenw. Kaupunki ei ole aina
         ollut samassa paikassa kuin nykyään. Vanha Hämeenlinna sijaitsi Hämeen linnan pohjoispuolella ja
         syntyi siten, että linnan ulkopuolelle, siis sen pohjoispuolelle, vähitellen kasvoi pieni kauppala. Hämeenlinna
@@ -91,7 +91,7 @@ const MatkailuopasPage = () => {
         vierellä oleva Ojoisten entinen maaherran virkatalo.</p>
 
       <h2>Hämeenlinnan rautatieasema</h2>
-      <p className="firstLetterStyle">Hämeenlinnan rautatieasemalla on historiallisessa suhteessa se merkitys, että se on Suomen ensimmäisen rautatien, Helsinki—Hämeenlinna, 
+      <p className="initialCap">Hämeenlinnan rautatieasemalla on historiallisessa suhteessa se merkitys, että se on Suomen ensimmäisen rautatien, Helsinki—Hämeenlinna, 
         pääteasema. Tämä rautatie avattiin liikenteelle maaliskuun 17 p:nä 1862.</p>
       <p>Vanha tiilistä rakennettu asematalo torneineen paloi perustuksiaan myöten vapaussodan aikana 26 p:nä huhtikuuta 1918. Saksalaisten 
         pommittaessa kaupunkia räjähti asemalla muuan ampumatarvevaunu, jolloin aseman päärakennus syttyi tuleen.</p>
@@ -102,7 +102,7 @@ const MatkailuopasPage = () => {
         sekä edempänä aseman puistikon vieressä Menevien tavarain toimisto ja vielä kauempana tien toisella puolella Tulevain tavarain toimisto.</p>
 
       <h2>Kulkuneuvot asemalta kaupunkiin ja sen ympäristöön</h2>
-      <p className="firstLetterStyle">Rautatieasemalta saa aina autoja sekä pika-ajureita kaupunkiin ja ympäristöön. Ellei olisi riittävää määrää, voi niitä puhelimella tilata 
+      <p className="initialCap">Rautatieasemalta saa aina autoja sekä pika-ajureita kaupunkiin ja ympäristöön. Ellei olisi riittävää määrää, voi niitä puhelimella tilata 
         Autoasemilta (puh.79 ja 640) tai Pika-ajurien tilausasemalta (puh. 192). Maksu suoritetaan kaupunkiin taksan mukaan; ympäristöön eri 
         sopimuksen mukaan.</p>
       <p>Asemalta on myös säännöllinen linja-autoliike kaupungin läpi Poltinaholle, läntiselle kasarmialueelle.</p>
@@ -110,7 +110,7 @@ const MatkailuopasPage = () => {
       <Image className="centeredImageStyle" src={img1} alt="Bussi"/>
 
       <h2>Rautatieaseman ympäristö</h2>
-      <p className="firstLetterStyle">Heti asemalta lähdettyä käy matka suurimmaksi osaksi vielä rakentamattoman, uuden kaupunginosan, Kiistalan, läpi. Tämä, niinkuin asemakin, 
+      <p className="initialCap">Heti asemalta lähdettyä käy matka suurimmaksi osaksi vielä rakentamattoman, uuden kaupunginosan, Kiistalan, läpi. Tämä, niinkuin asemakin, 
         on Vanajaveden itäpuolella.</p>
       <p>Tien oikealla puolella näemme Hämeenlinnan ensimmäisen nähtävyyden - laatuaan ainoan maassamme - uuden Sotilas-säilyketehtaan. Tehtaan alueen 
         pinta-ala on 9000m2, josta rakennettuna n. 1100m2. Tehdas valmistaa valtion laskuun lihasäilykkeitä sotalaitosta varten.</p>
@@ -123,7 +123,7 @@ const MatkailuopasPage = () => {
       <p>Vastapäätä Lääninsairaalaa on vanha, valtiolle kuuluva, J . C. L. Engelin v. 1837 suunnittelema kivinen varastorakennus.</p>
 
       <h2>Isosilta - Keskikaupunki - Poltinaho</h2>
-      <p className="firstLetterStyle">Kiistalan kaupunginosan yhdistää muuhun kaupunkiin Vanajaveden poikki vievä, graniittitukimuureilla lepäävä kaksijänteinen ristikkosilta. 
+      <p className="initialCap">Kiistalan kaupunginosan yhdistää muuhun kaupunkiin Vanajaveden poikki vievä, graniittitukimuureilla lepäävä kaksijänteinen ristikkosilta. 
         Silta on varustettu betonikannella, joka on verhottu mukulakivillä, ja se rakennettiin v. 1910 entisen vanhan puusillan sijalle.</p>
       <p>Korkealta sillalta on kaunis näköala eri suuntiin, ja on se muutenkin sopiva lähtökohta niille matkailijoille ja retkikunnille, jotka tahtovat 
         »Hämeen helmeen» tutustua.</p>
@@ -142,7 +142,7 @@ const MatkailuopasPage = () => {
       <Image className="centeredImageStyle" src={img2} alt="Silta"/>
 
       <h2>Raatihuoneenkatu sillalta torille</h2>
-      <p className="firstLetterStyle">Heti kadun päässä, sillankorvassa, on uusi, v. 1927 rakennettu Arvi A. Karisto Osakeyhtiön viisikerroksinen liiketalo, jonka piirustukset on laatinut 
+      <p className="initialCap">Heti kadun päässä, sillankorvassa, on uusi, v. 1927 rakennettu Arvi A. Karisto Osakeyhtiön viisikerroksinen liiketalo, jonka piirustukset on laatinut 
         arkkitehti Väinö Keinänen. Taloon on sijoitettu , paitsi yhtiön tunnettua kustannusliikettä, sen kaikki teollisuusosastot, sisämaan suurimmat ja 
         monipuolisimmat, käsittäen kirjapainon, kirjansitomon ja tilikirjatehtaan, kirjekuori- ja paperinjalostustehtaan, kuvalaattatehtaan y.m. laitoksia. 
         Viisikerroksisen rakennuksen lattiapinta-ala on noin 3500 neliömetriä.</p>
@@ -171,7 +171,7 @@ const MatkailuopasPage = () => {
       <Image className="centeredImageStyle" src={img4} alt="Vanajaveden sillalta etelään"/>
         
       <h2>Isotori ympäristöineen</h2>
-      <p className="firstLetterStyle">Sillalta alkaen Raatihuoneenkatu vähitellen kohoaa, kunnes se kirkon kohdalla saavuttaa korkeimman kohtansa. Siitä aukeaakin matkailijan silmien eteen 
+      <p className="initialCap">Sillalta alkaen Raatihuoneenkatu vähitellen kohoaa, kunnes se kirkon kohdalla saavuttaa korkeimman kohtansa. Siitä aukeaakin matkailijan silmien eteen 
         todella komea näköala yli kaupungin suuren ja avonaisen isontorin mielenkiintoisine ympäristöineen. Tori on kaupungin Kauppatori, jolle torikauppa on 
         arkipäivisin järjestetty.</p>
       <p>Sopusoinnussa torin kanssa ovat sen varrella olevat monet suuret ja vakavapiirteiset kivitalot, vaikka ne, ollen erilaatuiset, eivät muodosta 
@@ -208,7 +208,7 @@ const MatkailuopasPage = () => {
       <Image className="centeredImageStyle" src={img6} alt="Raatihuone"/>
 
       <h2>Isotori - Turuntie</h2>
-      <p className="firstLetterStyle">Kun jatkamme matkaamme Isolta torilta Raatihuoneenkatua pitkin länteen päin, sivuutamme joukon erilaisia liikkeitä, joista mainittakoon vanhimmat: 
+      <p className="initialCap">Kun jatkamme matkaamme Isolta torilta Raatihuoneenkatua pitkin länteen päin, sivuutamme joukon erilaisia liikkeitä, joista mainittakoon vanhimmat: 
         Isakssonin, Ringvallin ja Kiviluodon kangaskaupat, F. J . Fredriksson Oy: n tukku- ja vähittäisliike, Aina Grönin kauppaliike, Hämeen Paperikauppa, 
         sekä Lindevallin jälk. leipomo ja kahvila.</p>
       <p>Viimeksi mainitun vieressä on Hämeenlinnan Puhelinosakeyhtiön keskusasema ja konttori. Keskiö, joka on uusi ja ajanmukainen, on L. M. Ericssonin 
@@ -235,7 +235,7 @@ const MatkailuopasPage = () => {
       <Image className="centeredImageStyle" src={img7} alt="Yhdyspankki"/>
 
       <h2>Turuntie</h2>
-      <p className="firstLetterStyle">Turuntien rakentamatonta alkupäätä sanotaan Kuivaksi sillaksi. Sen yli mentyämme on edessämme oikealla puolella Vanha hautausmaa ja vasemmalla 
+      <p className="initialCap">Turuntien rakentamatonta alkupäätä sanotaan Kuivaksi sillaksi. Sen yli mentyämme on edessämme oikealla puolella Vanha hautausmaa ja vasemmalla 
         mielenkiintoinen muisto entisiltä ajoilta: Hämeen pataljoonan puukasarmit, jotka nytkin ovat sotaväen hallussa.</p>
       <p>Vanhaan hautausmaahan, joka nyttemmin on puistona, on m.m. haudattu tunnettu suomenkielen tutkija Eerik Kustaa Euren sekä kaupunginpuiston 
         luoja, silloinen maaherra Carl Otto Rehbinder.</p>
@@ -257,7 +257,7 @@ const MatkailuopasPage = () => {
       <Image className="centeredImageStyle" src={img8} alt="Nahkatehdas"/>
 
       <h2>Isosilta - Rantatori - Lahdensivu</h2>
-      <p className="firstLetterStyle">Jos sillan päästä käännymme Rantakatua pitkin vasemmalle, on heti oikealla puolella kaupungin suurin, siisti ja paljon käytetty Alina Ahosen 
+      <p className="initialCap">Jos sillan päästä käännymme Rantakatua pitkin vasemmalle, on heti oikealla puolella kaupungin suurin, siisti ja paljon käytetty Alina Ahosen 
         matkailijakoti ja ruokala (puhelin 205).</p>
       <p>Kadun päässä on vasemmalla puolella Kultakeskus Oy: n suuri tehdas, jossa valmistetaan hopea-, uushopea- ja kultaesineitä, ja oikealla puolella 
         Hämeen Sähkö Oy: n toimisto; samassa talossa on V. G. Ollikaisen autokorjaamo ja -koulu.</p>
@@ -273,7 +273,7 @@ const MatkailuopasPage = () => {
       <Image className="centeredImageStyle" src={img10} alt="Turuntie"/>
 
       <h2>Rantatori ja Urheilukenttä</h2>
-      <p className="firstLetterStyle">Rantatorilla, joka sijaitsee Vanajaveden rannalla kaupungin eteläisessä laidassa, on Wetterhoffin työkoulua likinnä olevalla reunustalla linja-autojen 
+      <p className="initialCap">Rantatorilla, joka sijaitsee Vanajaveden rannalla kaupungin eteläisessä laidassa, on Wetterhoffin työkoulua likinnä olevalla reunustalla linja-autojen 
         asema. Siellä on myöskin bensiininjakelupaikka.</p>
       <p>Autobussit välittävät liikettä Lammille, Padasjoelle, Tuulokseen, Hauholle, Tyrväntöön, Luopioisiin, Pälkäneelle, Hämeenlinnan maaseurakuntaan, 
         Hattulaan, Toijalaan, Renkoon, Janakkalaan, Lopelle ja Forssaan. Aseman lähettyvillä on odotushuone ja virvokemyymälä.</p>
@@ -296,7 +296,7 @@ const MatkailuopasPage = () => {
       <Image className="centeredImageStyle" src={img12} alt="Urheilukenttä"/>
 
       <h2>Lyseo ja Tähtipuisto ympäristöineen</h2>
-      <p className="firstLetterStyle">Kun kirkolta menemme Kirkkokatua pitkin pohjoiseenpäin, on vasemmalla puolella Kaupungin hotelli ja oikealla sitä vastapäätä Hämeenläänin Paloapuyhdistyksen 
+      <p className="initialCap">Kun kirkolta menemme Kirkkokatua pitkin pohjoiseenpäin, on vasemmalla puolella Kaupungin hotelli ja oikealla sitä vastapäätä Hämeenläänin Paloapuyhdistyksen 
         talo ja toimisto.</p>
       <p>Kaupungin hotelli on matkustajahuoneistoon nähden suurin kaupungissa. Talviseen aikaan on siellä konsertteja ja tanssitilaisuuksia.</p>
       <p>Saavumme isopuiseen, hauskaan puistikkoon, Tähtipuistoon.</p>
@@ -322,7 +322,7 @@ const MatkailuopasPage = () => {
         Kunnallissauna, Kirkko- ja Koulukatujen kulmassa.</p>
 
       <h2>Laivalaituri - Hallituskatu - Kirjastotalon puisto.</h2>
-      <p className="firstLetterStyle">Laivalaiturilta kohoaa koko lailla jyrkästi Hallituskatu, sivuuttaen Kirkkopuiston ja torin ja päättyen yhteiskoulun kohdalla. Sen varrella Rauhakadun 
+      <p className="initialCap">Laivalaiturilta kohoaa koko lailla jyrkästi Hallituskatu, sivuuttaen Kirkkopuiston ja torin ja päättyen yhteiskoulun kohdalla. Sen varrella Rauhakadun 
         kulmassa on Hämeen Sanomain konttori, toimitus ja kirjapaino.</p>
       <p>Vähän matkan päässä siitä on Rauhakadulla Hämeenlinnan Kirkkoherranvirasto.</p>
       <p>Hallituskadun varrella on edelleen kaupungin piirieläinlääkärin (Hallitusk. 7) ja kaupunginlääkärin (Kirkkorinne 4) asunnot.</p>
@@ -334,7 +334,7 @@ const MatkailuopasPage = () => {
       <Image className="centeredImageStyle" src={img14} alt="Lehtokuja"/>
 
       <h2>Laivalaituri - Birger Jarlinkatu - Kaivokatu.</h2>
-      <p className="firstLetterStyle">Laivalaiturilta kohoaa yhdensuuntaisesti Hallituskadun kanssa Birger Jarlinkatu. Se sivuuttaa Tähtipuiston ja päättyy niityille kaupungin länsipuolella.</p>
+      <p className="initialCap">Laivalaiturilta kohoaa yhdensuuntaisesti Hallituskadun kanssa Birger Jarlinkatu. Se sivuuttaa Tähtipuiston ja päättyy niityille kaupungin länsipuolella.</p>
       <p>Birger Jarlinkadulla on laivalaiturilta tullessa heti oikealla puolella Hämeenlinnan Kauppakoulu (johtaja Hj. Tukiainen).</p>
       <p>Samalla kadulla on sen ja Linnankadun kulmauksessa Etelä-Hämeen Osuusliikkeen r.l. pääliike. Kutsuntatoimisto on Birger Jarlink. 24 ja samassa talossa 
         Sotilaskoti.</p>
@@ -343,12 +343,12 @@ const MatkailuopasPage = () => {
       <p>Kivenveistämön vieressä on Pelastusarmeijan rukoushuone.</p>
 
       <h2>Kaurialan kaupunginosa</h2>
-      <p className="firstLetterStyle">Lukiokatu jatkuu Kaivokadusta peltojen läpi Kaurialan kaupunginosaan, jossa vanhan hautausmaan vieressä on arkkitehti Toivo Salervon piirustusten mukaan 
+      <p className="initialCap">Lukiokatu jatkuu Kaivokadusta peltojen läpi Kaurialan kaupunginosaan, jossa vanhan hautausmaan vieressä on arkkitehti Toivo Salervon piirustusten mukaan 
         rakennettu Hämeenlinnan tyttökoulun upea koulutalo (1927).</p>
       <p>Sen lähettyville tulee myöskin sijoitettavaksi valtion Alkukouluseminaari monine rakennuksineen; rakennustöihin ryhdyttäneen 1928.</p>
           
       <h2>Kaupungin Isosilta - Satama - Rantapuisto - Puisto.</h2>
-      <p className="firstLetterStyle">Hauska kävelyretki on sillalta Vanajaveden länsirantaa pitkin puistoon. Rantapuisto rehevine puineen, kukkalaitteineen ja kivisine tukimuureineen 
+      <p className="initialCap">Hauska kävelyretki on sillalta Vanajaveden länsirantaa pitkin puistoon. Rantapuisto rehevine puineen, kukkalaitteineen ja kivisine tukimuureineen 
         alkaa aivan sillankorvasta ja seuraa rantoja Hattulaan johtavan valtamaantien lähettyville saakka.</p>
       <p>Sillankorvassa on Rantakadulla Häme-lehden toimitus ja konttori sekä Suomalainen Kirjapaino Oy.</p>
       <p>Laivalaiturin edessä on odotuskatos ja virvokemyymälä. Laiturin vieressä on yleinen käymälä (toinen samanlainen on Raatihuoneen pihalla sekä 
@@ -369,7 +369,7 @@ const MatkailuopasPage = () => {
       <p>Saavumme sitten kaupungin kauneudestaan kuuluisaan Puistoon.</p>
 
       <h2>Kaupungin puisto</h2>
-      <p className="firstLetterStyle">Puiston luoja on Hämeenlinnan entinen maaherra Carl Otto Rehbinder (1841 — 63).</p>
+      <p className="initialCap">Puiston luoja on Hämeenlinnan entinen maaherra Carl Otto Rehbinder (1841 — 63).</p>
       <p>Ennen Rehbinderin aikaa oli »Parkki» -l. Pyövelinmäki (myös »Peevelinmäki») sangen jylhä mäki, täynnänsä kiviröykkiöitä. Käyttäen työssä pääasiallisesti 
         vankeja pani kuvernööri, joka oli harras puutarhahoidon ja maanviljelyksen ystävä, alueella toimeen suuria puhdistamis-, raivaus- ja tasoitustöitä, 
         siten muuttaen tämän villin ja pelätyn seudun ihanaksi puistoksi, joka laatuunsa, luonnonkauneuteen ja sen vaihtelevaisuuteen nähden on maamme ensimmäisiä. 
@@ -393,7 +393,7 @@ const MatkailuopasPage = () => {
       <Image className="centeredImageStyle" src={img15} alt="Pyövelinmäki"/>
 
       <h2>Poltinaho - Ampumarata - Hautausmaa - Hiihtomäki</h2>
-      <p className="firstLetterStyle">Poltinahon kasarmeihin on nykyään sijoitettu Hyökkäysvaunukomppania (H. V. K., »tankit»).</p>
+      <p className="initialCap">Poltinahon kasarmeihin on nykyään sijoitettu Hyökkäysvaunukomppania (H. V. K., »tankit»).</p>
       <p>Kun olemme sivuuttaneet kasarmialueen, käy Poltinahon tieltä ajotie oikealle Ämmänsuon notkoon. Siinä on kaupungin Vesijohtolaitos. Kahdella 
         mäntäpumpulla, joita käyttää 15-hevosvoimainen sähkömoottori, nostetaan vesi kahta 250 mm putkea myöten, jotka ovat 21 m syvällä maanpinnasta, 
         kaupunkilaisille jaettavaksi.</p>
@@ -434,7 +434,7 @@ const MatkailuopasPage = () => {
         käsittelyä varten säilytettäville ruumiille.</p>
 
       <h2>Karlberg - Aulanko</h2>
-      <p className="firstLetterStyle">Hämeenlinnan kaupungin välittömässä läheisyydessä noin 3 km. matkan päässä kaupungin keskustasta, sijaitsee etelä-Hämeen huomattavin nähtävyys, joka samalla 
+      <p className="initialCap">Hämeenlinnan kaupungin välittömässä läheisyydessä noin 3 km. matkan päässä kaupungin keskustasta, sijaitsee etelä-Hämeen huomattavin nähtävyys, joka samalla 
         on ainoalaatuinen Suomessa, nimittäin Karlbergin kartano ja siihen liittyvä Aulangon vuori näkötorneineen ja puistoineen.</p>
       <p>Oltuaan aikaisemmin usean eri suvun hallussa siirtyivät Karlbergin kartanot sekä siihen liittyvät Katajiston ja Metsänkylän kartanot oston kautta 
         v. 1883 ja 1886 eversti Hugo Standertskjöldille, joka on tämän puistoalueen luoja. Suurilla kustannuksilla raivautti hän nämä alueet, rakennutti 
@@ -500,7 +500,7 @@ const MatkailuopasPage = () => {
       <Image className="centeredImageStyle" src={img16} alt="Karlberg"/>
 
       <h2>Maantiematka Hämeenlinna - Vanaja - Karlberg - Hattula</h2>
-      <p className="firstLetterStyle">Paitsi Tampereen valtamaantietä pitkin (linnan ohitse) ja Parolan kautta voi Hämeenlinnasta maanteitse päästä Hattulaan kolmattakin tietä, nimittäin 
+      <p className="initialCap">Paitsi Tampereen valtamaantietä pitkin (linnan ohitse) ja Parolan kautta voi Hämeenlinnasta maanteitse päästä Hattulaan kolmattakin tietä, nimittäin 
         Vanajaveden itäpuolitse Karlbergin kautta.</p>
       <p>Lähtiessämme kulkemaan kaupungista Viipurintietä pitkin saavumme rautatien yli johtavalle sillalle, josta valtamaantie vie lähellä olevaan Idänpään 
         kylään Vanajassa.</p>
@@ -516,7 +516,7 @@ const MatkailuopasPage = () => {
         Hämeenlinnan höyrysahan, Tulitikkutehtaan ja Hienonahkatehtaan ja saavumme maan kuuluun Karlbergin kartanoon.</p>
 
       <h2>Maantiematka Hämeenlinna - Pälkäne - Kangasala - Tampere.</h2>
-      <p className="firstLetterStyle">Ennenkuin rautatien rakentamista jatkettiin Hämeenlinnasta pohjoiseen päin (Tampereelle v. 1876), oli yllämainittu valtamaantie erinomaisen paljon 
+      <p className="initialCap">Ennenkuin rautatien rakentamista jatkettiin Hämeenlinnasta pohjoiseen päin (Tampereelle v. 1876), oli yllämainittu valtamaantie erinomaisen paljon 
         käytetty; olihan se tärkein liikennereitti etelä-Suomesta Pohjanmaalle.</p>
       <p>Matkailijoille tarjoo puheenaoleva reitti sangen paljon sekä historiallisessa että muinaistieteellisessä suhteessa merkillisiä nähtävyyksiä, 
         puhumattakaan siitä, että se voi antaa varsinkin ulkomaalaisille varsin täydellisen ja monipuolisen kuvan Hämeen kauniista ja vaihtelevasta luonnosta.</p>
@@ -561,7 +561,7 @@ const MatkailuopasPage = () => {
       <p>Kangasalta jatkuu matka Kangasalan kirkon (v:lta 1765) ohitse ja Messukylän kautta Tampereelle.</p>
 
       <h2>Maantiematka Hämeenlinna - Toijala - Lempäälä - Tampere</h2>
-      <p className="firstLetterStyle">Matkan Hämeenlinnasta Tampereelle voi suorittaa myöskin Vanajaveden länsipuolitse. Tämä retki ei kuitenkaan tarjoa niin paljon mielenkiintoista 
+      <p className="initialCap">Matkan Hämeenlinnasta Tampereelle voi suorittaa myöskin Vanajaveden länsipuolitse. Tämä retki ei kuitenkaan tarjoa niin paljon mielenkiintoista 
         kuin edellinen.</p>
       <p>Poltinahon tienristeyksestä kuljemme oikeanpuolista tietä Hämeenlinnan esikaupunkien »Rinkelinmäen» ja »Pullerinmäen» kautta Parolaa kohti.</p>
       <p>Tie käy nyt Parolan ohitse. Siellä on suuri Parolan leirialue noin 7 km:n päässä kaupungista. Parolan nummi oli jo Ruotsin vallan aikana sotaväen 
@@ -578,7 +578,7 @@ const MatkailuopasPage = () => {
       <p>Parolasta voi jatkaa matkaansa joko Mierolaan, siis edellä mainitulle reitille, tahi Toijalan ja Lempäälän kautta Tampereelle.</p>
 
       <h2>Maantiematka Hämeenlinna - Janakkala - Helsinki ja Hämeenlinna - Renko - Turku</h2>
-      <p className="firstLetterStyle">Poltinahon tienristeyksestä vie vasemmalle päin lähtevä valtamaantie Janakkalaan, josta edelleen Hausjärven kautta Helsinkiin.</p>
+      <p className="initialCap">Poltinahon tienristeyksestä vie vasemmalle päin lähtevä valtamaantie Janakkalaan, josta edelleen Hausjärven kautta Helsinkiin.</p>
       <p>Noin 1 km:n matkan päässä risteyksestä kääntyy oikealle päin maantie, joka Luolajan kylän kautta jatkuu Renkoon ja sieltä edelleen 
         Tammelan y. m. kautta Turkuun.</p>
       <p>Noin 3 km:n päässä kaupungista kohoaa maantie Hattelmalan harjulle, josta J. L. Runeberg runoilee Vänrikki Stoolin tarinain runossa »Vänrikin 
@@ -606,7 +606,7 @@ const MatkailuopasPage = () => {
       <p>Kirkon mäenrinteessä on muinainen uhrilähde, joka on tunnettu »Piispanlähteen» ja »Laurinlähteen» (kirkon nimikkopyhimys) nimellä.</p>
 
       <h2>Maantiematka Hämeenlinna - Tuulos - Hauho ja Tuulos - Padasjoki.</h2>
-      <p className="firstLetterStyle">Viipurintie jatkuu maantienä Tuulokseen. Muutama km Heinäkankaasta pohjoiseenpäin kääntyy Hauhon tie vasemmalle Hauhon kirkonkylään, josta edelleen 
+      <p className="initialCap">Viipurintie jatkuu maantienä Tuulokseen. Muutama km Heinäkankaasta pohjoiseenpäin kääntyy Hauhon tie vasemmalle Hauhon kirkonkylään, josta edelleen 
         Ison-Roineen ja Hauhonselän välitse sekä Ilmoilanselän ja Pinteleen ohi Pälkäneelle. Matka Hämeenlinnasta Hauhon kirkolle on kesäiseen aikaan 35 km. 
         Hauhon seudut ovat tunnetut luonnonkauneudestaan. Hauhon kirkko on rakennettu harmaasta kivestä keskiajalla, luultavasti 1300-luvulla.</p>
       <p>Toinen tie käy pohjoiseen Syrjäntaan kylään Tuuloksessa. Kylässä on tienristeys, josta lähdetään vasemmalle Luopioisiin ja oikealle Lammin pitäjään 
@@ -615,7 +615,7 @@ const MatkailuopasPage = () => {
         Padasjoella kaupungin omistama Turvan (Verhon) kartano.</p>
       
       <h2>Vesireitti Hämeenlinna - Valkeakoski - Luopioinen</h2>
-      <p className="firstLetterStyle">Hämeenlinnan kaupunki sijaitsee Suomen järviylängön länsiosassa, Kokemäenjoen vesistön eteläisemmän reitin Vanajaveden varrella.</p>
+      <p className="initialCap">Hämeenlinnan kaupunki sijaitsee Suomen järviylängön länsiosassa, Kokemäenjoen vesistön eteläisemmän reitin Vanajaveden varrella.</p>
       <p>Reitti alkaa etelässä lähellä Suurta-Salpausselkää ja kiertelee monissa mutkissa pohjoiseen päin. Vielä Hämeenlinnan tienoolla se on kapea ja laajenee 
         vasta pohjoisempana suureksi Vanajan- l. Sääksmäenseläksi.</p>
       <p>Harjujono alkaa suuresta reunamoreenistamme, katkasee vesireitin Turengin lähettyvillä ja seuraa siitä alkaen reittiä sen länsipuolella aina 
@@ -657,7 +657,7 @@ const MatkailuopasPage = () => {
       <Image className="centeredImageStyle" src={img20} alt="Valkeakoski"/>
 
       <h2>Tyrvännön reitti</h2>
-      <p className="firstLetterStyle">Paitsi edellämainittua Luopioisten reittiä välittää »Tyrväntö» laiva liikennettä toiseenkin suuntaan, nimittäin Tyrväntöön.
+      <p className="initialCap">Paitsi edellämainittua Luopioisten reittiä välittää »Tyrväntö» laiva liikennettä toiseenkin suuntaan, nimittäin Tyrväntöön.
         Tyrvännön reitti kääntyy Ruskeenkärjen vastapäätä olevan kallioisen Vanajaniemen kohdalta oikealle, sivuuttaa kauniin Puisniemen kärjen ja kulkee siitä kapean 
         salmen kautta, jonka rannoilla sijaitsee huviloita, Suotaalan kylään. Kylän läheisyydessä on Tyrvännön puukirkko (v. 1803). Reitin varrella ovat edelleen Siukolan, 
         Retulan, Monaalan ja Mälkiäisten laiturit. Reitti loppuu Hakalan talon kohdalla.</p>

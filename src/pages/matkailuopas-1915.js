@@ -28,7 +28,7 @@ const MatkailuopasPage = () => {
       <Divider className="dividerStyle" />
 
       <h2>Hämeenlinna</h2>
-      <p className="firstLetterStyle">Hämeenlinnan kaupunki sijaitsee Vanajaveden rannalla, Helsingistä Tampereelle kulkevan rautatien varrella. Kaupungin perusti Ruotsin kuningattaren 
+      <p className="initialCap">Hämeenlinnan kaupunki sijaitsee Vanajaveden rannalla, Helsingistä Tampereelle kulkevan rautatien varrella. Kaupungin perusti Ruotsin kuningattaren 
         Kristiinan käskystä vuonna 1638 Suomen silloinen kenraalikuvernööri Pietari Brahe niemekkeelle Birger Jaarlin vuonna 1249 
         rakentaman Ruununporin eli Tavaslborgin linnan pohjoispuolelle. Tammikuun 19 päivänä 1639, antoi Pietari Brahe Hämeenlinnalle, joka alkuaan oli aiottu kauppakaupungiksi 
         sisämaahan, kauppalanoikeudet sekä heinäkuun 4 päivänä 1650 kaupunginoikeudet, jolloin kaupungista, mikä alkuaan oli kuulunut Vanajan seurakuntaan, muodostettiin 
@@ -116,7 +116,7 @@ const MatkailuopasPage = () => {
       <Image className="centeredImageStyle" src={img2} alt="Kirkontornista pohjoiseen"/>
 
       <h2> Matkailijoille huomattavaa</h2>
-      <p className="firstLetterStyle"><strong>Rautatien asema</strong> kaupungin itäsyrjällä Vanajaveden itäisellä puolella, on aistikkaasti rakennettu kolmikerroksinen kivirakennus tornineen, joka aikoinaan oli Suomen ensimmäisen Helsingistä 
+      <p className="initialCap"><strong>Rautatien asema</strong> kaupungin itäsyrjällä Vanajaveden itäisellä puolella, on aistikkaasti rakennettu kolmikerroksinen kivirakennus tornineen, joka aikoinaan oli Suomen ensimmäisen Helsingistä 
         Hämeenlinnaan rakennetun rautatien päätekohtana. Eri rakennuksissa asemarakennuksen eteläpuolella ovat rautatien paketti- ja pikatavaratoimisto ynnä tavaratoimisto.</p>
       <p>Rautatieasemalta pääsee junien saapuessa kaupunkiin vuokra-ajurilla, jonka taksa on 75 penniä, tahi automobiilillä, jonka taksa on 1 markka 50 penniä.</p>
       <p><strong>Hotelleja</strong> on kaupungissa: Teatterihotelli, Birger Jaarlin ja Itäisen Linnankadun kulmassa, jossa paitsi täydellistä ravintolaa ja kaupungin teatterisalia, on 9 matkustajahuonetta 3-5 
@@ -227,7 +227,7 @@ const MatkailuopasPage = () => {
         sanomalehtiä.</p>
 
       <h2>Laivareitti Hämeenlinnasta Kangasalle</h2>
-      <p className="firstLetterStyle">Hämeenlinnan kaupunki sijaitsee Suomen Järviylängön länsiosassa, Kokemäenjoen vesistön eleiäisemmän reitin Vanajaveden varrella. Reitti alkaa etelässä likellä Suurta-Salpausselkää ja kiertelee monissa mutkissa 
+      <p className="initialCap">Hämeenlinnan kaupunki sijaitsee Suomen Järviylängön länsiosassa, Kokemäenjoen vesistön eleiäisemmän reitin Vanajaveden varrella. Reitti alkaa etelässä likellä Suurta-Salpausselkää ja kiertelee monissa mutkissa 
         pohjoiseen päin. Vielä Hämeenlinnan tienoilla se on verrattain kapea ja laajenee vasta muutamia penikulmia sen pohjoispuolella Vanajan (Sääksmäen) seläksi. Jään liikunnan suuntaan kulkeva harjujono alkaa 
         suuresta reunamoreenistamme Hikiän aseman eteläpuolella, katkaisee vesireitin Turengin lähettyvillä ja seuraa siitä alkaen reittiä sen länsipuolella aina Vanajan selkään saakka. Tämä jono sivuuttaa sitten 
         Hämeenlinnan ja kohoaa sen läheisyydessä muodostamaan kaupungin ymparistöön mitä ihanimpia näköaloja metsäharjuineen, kumpuineen ja siintävine vesineen.</p>
@@ -330,7 +330,7 @@ const MatkailuopasPage = () => {
         seljänteen. Niin kauas kuin silmään siintää nään järviä lahtineen. Kas, Längelmävesi tuolla vöin hopeisin hohtelee, ja Roineen armaiset aallot sen rantoja hyväilee!”</p>
 
       <h2>Tyrvännön reitti</h2>
-      <p className="firstLetterStyle">Sivuutettuamme laivareitin oikealla puolella Landentaan kartanon ja Vanajaniemen talon, joka viimeksimainittu kuuluu Suomen Valtion omistamaan Lepaan kartanoon, avartuu Vanajavesi, joka tähän asti on kaarrellut 
+      <p className="initialCap">Sivuutettuamme laivareitin oikealla puolella Landentaan kartanon ja Vanajaniemen talon, joka viimeksimainittu kuuluu Suomen Valtion omistamaan Lepaan kartanoon, avartuu Vanajavesi, joka tähän asti on kaarrellut 
         kapeana juovana, laajaksi Vanajan seläksi. Kuljettuamme kallioisen Vanajaniemen kärjen ohi, kääntyy laivareitti oikealle, ja sivuutettuamme oikealla puolella kauniin Puisniemen kärjen, saavumme kapeaan salmeen 
         jonka molemmilla rannoilla sijaitsee huviloita sekä salmen läpi kuljettuamme Suotaalan kylään Tyrvännön kappelissa. Kylän läheisyydessä sijaitsee Tyrvännön seurakunnan v. 1803 rakennettu puukirkko, korkealla 
         mäellä, josta on kaunis näköala Vanajan selälle. Niemessä vastapäätä Suotaalan laivalaituria on kunnan vaivaistalo. Jonkun matkaa eteenpäin kuljettuamme näemme edessämme Siukolan talon sekä siitä oikealle 

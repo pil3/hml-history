@@ -22,7 +22,7 @@ const FirePage = () => {
         esitetään.</p>
       <SubDivider className="dividerStyle" />
       <Article titleText="Varamaaherra, Laamanni ja Ritari J. Snellman'ille Helsingissä.">
-        <p className="firstLetterStyle">Täten saan minä Maistraatin puolesta syvimmässä nöyryydessä ilmoittaa siitä surkeasta tapauksesta, joka on kohdannut somaa kaupunkiamme. Noin kello 7 aikana eilen illalla pääsi tuli 
+        <p className="initialCap">Täten saan minä Maistraatin puolesta syvimmässä nöyryydessä ilmoittaa siitä surkeasta tapauksesta, joka on kohdannut somaa kaupunkiamme. Noin kello 7 aikana eilen illalla pääsi tuli 
           irti eräässä heinillä ja oljilla täytetyssä vajarakennuksessa kauppias J. A. Juselius'en talossa Ison torin kulmassa. Kun talo oli hyvin ahtaasti rakennettu levisi tuli muutamassa silmänräpäyksessä, kovista ponnistuksista 
           huolimatta, molemmille puolille noin viiteen, kuuteen läheiseen taloon.</p>
         <p>Sekaannus tuli niin suureksi, että sammutusväestö hajaantui joka taholle korjaamaan, vaikka allekirjoittanut kaikin tavoin koetti pitää niitä koossa. Vasta sittenkuin kaikki talot torin länsipuolella, 
@@ -38,7 +38,7 @@ const FirePage = () => {
 
       <SubDivider className="dividerStyle" />
       <Article titleText="Nöyrin virkakirjelmä.">
-        <p className="firstLetterStyle">Maistraatin viimeistä raporttia lähetettäessä katsottiin se tulipalo, joka oli hävittänyt suurimman osan Hämeenlinnan kaupunkia jo loppuneeksi, sekä luultiin vaaran ohimenneeksi. Mutta muutama tuntisenjälkeen kuin raportti oli 
+        <p className="initialCap">Maistraatin viimeistä raporttia lähetettäessä katsottiin se tulipalo, joka oli hävittänyt suurimman osan Hämeenlinnan kaupunkia jo loppuneeksi, sekä luultiin vaaran ohimenneeksi. Mutta muutama tuntisenjälkeen kuin raportti oli 
           lähetetty, huomattiin, että kuumuus oli tunkeutunut kirkon kuparisen katon läpi sekä sytyttänyt kiviholvia ympäröivän puusuojukkeen.</p>
         <p>Sittenkuin vaara Jumalan avulla nyttemmin on torjuttu, kiiruhtaa Maistraatti jättämään seikkaperäisen kertomuksen niistä toimista, joihin ryhdyttiin hävityksen ehkäisemiseksi.</p>
         <p>Kuten Maistraatin ylempänä mainitusta raportista käy selville, pääsi tuli irti tämän kuun 14 päivänä noin kello 7 aikana illalla eräässä rehuvajassa kauppias J. A. Juselius'en takapihalla; alle tehdyllä piirrustuksella löytyy 
@@ -78,7 +78,7 @@ const FirePage = () => {
       </Article>
       <SubDivider className="dividerStyle" />
       <Article titleText="Nöyrä ilmoitus.">
-        <p className="firstLetterStyle">Vaikka olenkin varma siitä, että Herra Pormestari Lagerblad on antanut seikkaperäisen kertomuksen siitä tulipalosta, joka on kohdannut Hämeenlinnan kaupunkia olen kuitenkin, siihen nähden ettei Herra Pormestari voi tuntea 
+        <p className="initialCap">Vaikka olenkin varma siitä, että Herra Pormestari Lagerblad on antanut seikkaperäisen kertomuksen siitä tulipalosta, joka on kohdannut Hämeenlinnan kaupunkia olen kuitenkin, siihen nähden ettei Herra Pormestari voi tuntea 
           kaikkia asioita, koska hänen täytyi kulkea ympäri kaikkialla, katsonut velvollisuudekseni Maaherralle jättää seuraavan nöyrän raportin joka perustuu siihen mitä itse olen nähnyt ja kokenut. Jos yöt ja päivät yhtämittaa jatkuneet 
           virkatoimemme olisivat sallineet meidän lähemmin keskustella toistemme kanssa, olisi tämä raportti kyllä ollut turha, mutta koska niin ei ole tapahtunut, olen katsonut velvollisuudekseni jättää niitä ilmoituksia, joita yksin 
           voin antaa.</p>

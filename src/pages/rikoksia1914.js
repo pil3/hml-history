@@ -477,6 +477,17 @@ const Crimes1914Page = () => {
           pysynyt yksikään. Tahdottiinpa puheenjohtajaa päättämään laittomia ponsiakin. Sellaista se on Forssan kansalaiskokousten meno.</p>
       </Article>
 
+      <div className="interTitle">4.8.1914</div>
+      <Article titleText="Pahoinpitelystä">
+        <p>syytti työmies Wiktor Haapanen eilen täkäl. raastuwanoikeudessa konstaapeli Oskar Wiikiä. Jutun alkuwaiheet on ennen kerrottu. Todistajat kertoiwat, että Haapanen oli poliisien tullessa 
+          ollut wakawa ja rauhallinen eikä näyttänyt humalaiselta. Talutettaessa oli siwilipoliisi lyönyt H:sta ja kun tämä oli kysynyt, millä oikeudella häntä lyödään, oli konst. Wiik kehoittanut 
+          lyöjää näyttämään „poliisilappuaan”. Tällöin oli lyöjä kysynyt: „Tahrotkos wielä?” Ajuriin pantaessa oli Haapanen tehnyt wastarintaa. Kahden todistajan lausunnon mukaan oli konstaapeli 
+          Wiik kiroillut, paljastanut sapelinsa ja sen jälkeen lyönyt kädellään Haapasta. Konstaapeli Nylundin todistuksen mukaan oli Haapanen ollut humalassa ja huitaissut konstaapeli Wiikiä 
+          kaswoihin ajoneuwoihin asetettua, Haapasen taskusta löydettiin puukko.</p>
+        <p>Oikeus tuomitsi työmies Haapasen wäkiwallanteosta poliisia wastaan 50 mkn sakkoon, mutta syyte juopumuksesta ja pahoinpitelystä hylättiin, sekä konstaapeli Wiikin wiran toimituksessa 
+          tapahtuneesta pahoinpitelystä 150 mk sakkoon.</p>
+      </Article>
+
       <br></br>
       <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>
     </Layout>

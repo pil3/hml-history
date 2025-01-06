@@ -59,10 +59,17 @@ h5 {
   letter-spacing: 2px;
   font-weight: 600;
 }
+article p {
+  text-indent: 16px;
+  margin: 8px 0;
+}
 
 /* Text styles
 ----------------------------------------------------------------------------------------------------- */
-.firstLetterStyle::first-letter {
+.initialCap {
+  text-indent: 0;
+}
+.initialCap::first-letter {
   -webkit-initial-letter: 2;
   initial-letter: 2;
   line-height: 1;

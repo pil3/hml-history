@@ -19,7 +19,7 @@ const Conditions1809Page = () => {
       <p className="caption">Hämeenlinnan Kaupunginkirjasto 1902</p>
       <Divider className="dividerStyle" />
       <h2>I</h2>
-      <p className="firstLetterStyle">Kun venäläinen armeija Helmikuun 21 p:nä v. 1808 hyökkäsi Kymijoen yli Suomeen, ei Suomen puolustusjoukko vähälukuisuutensa vuoksi saattanut ryhtyä ratkaisevaan tappeluun, 
+      <p className="initialCap">Kun venäläinen armeija Helmikuun 21 p:nä v. 1808 hyökkäsi Kymijoen yli Suomeen, ei Suomen puolustusjoukko vähälukuisuutensa vuoksi saattanut ryhtyä ratkaisevaan tappeluun, 
         vaan se peräytyi vihollisen sitä yhä ahdistaissa, ollen kuitenkin matkan varrella pakotettuna ryhtymään pienempiin taisteluihin. Väliaikainen ylipäällikkö Klercker kokosi nyt sotavoimansa Hämeenlinnan 
         tienoille, jossa hänen tarkoituksensa oli ryhtyä vastarintaan estääkseen Venäläisiä pääsemästä kauemmaksi tunkeutumaan. Helmikuun viimeisinä päivinä syntyi sen johdosta Hämeenlinnan pienessä kaupungissa 
         tavallista enemmän eloa ja liikettä; pääkortteeri oli täällä, porvarien luona oli upseereja majoitettuna ja lähes 7,000 sotamiestä kaupungin ympäristössä. Ruokavaroja tarvittiin enemmän kuin tavallisissa 
@@ -56,7 +56,7 @@ const Conditions1809Page = () => {
         yhteisistä asioista neuvottelemaan ja päättämään tai uuden esivallan käskyjä kuulemaan, milloin heitä rummun lyönnillä kutsuttiin, niinkuin vanha tapa oli.</p>
 
       <h2>II</h2>
-      <p className="firstLetterStyle">Monessa kohden kuitenkin tuli näkyviin, että sotatila oli olemassa. Ylipäällikön antamat käskykirjeet sisältävät ankaria käskyjä ja rangaistuksen uhkauksia, ellei niitä 
+      <p className="initialCap">Monessa kohden kuitenkin tuli näkyviin, että sotatila oli olemassa. Ylipäällikön antamat käskykirjeet sisältävät ankaria käskyjä ja rangaistuksen uhkauksia, ellei niitä 
         noudatettaisi; niinpä väestöä käskettiin ilmoittamaan maaherralle kaikki Ruotsin kruunulle kuulunut omaisuus, niinkuin ampumavarat ja aseet; jos joku huomattiin sen laiminlyömisessä syylliseksi, ei 
         yksinomaan tuota tavaraa otettu häneltä pois, vaan koko hänen omaisuutensa takavarikkoon. Niinikään käsketään pappeja virkansa menettämisen uhalla lukemaan kirkoissa tuo jo ennen mainittu julistuskirja 
         6/18:lta p:ltä Helmikuuta. Maalisk. 13 p:nä se luettiin Hämeenlinnan kirkossa. Maan asukkaat valtasi myöskin paikoittain pelko, minkä sota aina mukanaan tuopi, ja entisten sotien kauheat muistot palautuivat 
@@ -84,7 +84,7 @@ const Conditions1809Page = () => {
         80 kopeekaksi, jotka heille myöhemmin maksettiin.</p>
 
       <h2>III</h2>
-      <p className="firstLetterStyle">Näin tyynesti Suomen valloitus ei kuitenkaan käynyt loppuun asti. Jo Toukokuussa näet olot kävivät rauhattomammiksi. Suomen sotajoukko oli voittoja saatuaan tunkeutunut eteläänpäin, 
+      <p className="initialCap">Näin tyynesti Suomen valloitus ei kuitenkaan käynyt loppuun asti. Jo Toukokuussa näet olot kävivät rauhattomammiksi. Suomen sotajoukko oli voittoja saatuaan tunkeutunut eteläänpäin, 
         ja tämä herätti intoa ja rohkeutta maan asukkaissakin, jonka vuoksi he paikoittain rupesivat sekaantumaan sotatoimiin. Hämeessäkin, ilmoittaa maaherra, olivat talonpojat auttaneet ruotsalaisen sotajoukon kulkua, 
         kun hajajoukkoja saapui sinne Pohjanmaalta, mutta Venäläiset olivat vanginneet liian vähän perustelluilla syillä useita sellaisiakin henkilöitä, joita he vaan epäilivät. Siellä täällä ryöstettiin jauhokuormia 
         ja niiden kuljettajat murhattiin, upseereja ja kuriireja ammuttiin. Sanotaan, että Ruotsin armeijasta lähetetyt yllyttäjät vaikuttivat kansaan ja että talonpojat ryhtyivät tällaisiin tekoihin auttaakseen 
@@ -144,7 +144,7 @@ const Conditions1809Page = () => {
         huonetta, luovuttivat 2, 3:n ja 2:n huoneen omistajat 1. Rouva Sandbergin rakennukseen oli venäläinen kirkko varustettu ja pappi asui nahkuri Leanderin luona.</p>
 
       <h2>IV</h2>
-      <p className="firstLetterStyle">Monet hankaluudet kaupunkilaisten ja Venäläisten välillä johtuivat siitä, etteivät he ymmärtäneet toistensa kieltä. Joku ylempi upseeri, niinkuin Muller, osasi saksaa, joten hän 
+      <p className="initialCap">Monet hankaluudet kaupunkilaisten ja Venäläisten välillä johtuivat siitä, etteivät he ymmärtäneet toistensa kieltä. Joku ylempi upseeri, niinkuin Muller, osasi saksaa, joten hän 
         saattoi puhua ainakin joidenkuiden kanssa; mutta useimmat eivät puhuneet muuta kuin venäjää. Hämeenlinnassa oli kuitenkin pari henkilöä, jotka osasivat tätä kieltä, ja joita sen vuoksi käytettiin tulkkina. 
         Eräs maalari Nimrod Blåfjeld puhui venäjää, jonka vuoksi kenraali Araksew vei hänet heti tänne tultuaan mukanaan Turkuun, jota varten hän pyytää maistraattia antamaan hänelle passin. Maistraatti lausuu sen 
         toivomuksen, että Blåfjeld saisi palata takaisin, koska koko kaupungissa ei ollut muita luotettavia henkilöitä, joita voisi tulkkina käyttää, ja myöhemmin häntä sellaisena käytetäänkin. Hattumaakari Vestiniä 
@@ -173,7 +173,7 @@ const Conditions1809Page = () => {
         ratkaistavaksi tulematta.</p>
 
       <h2>V</h2>
-      <p className="firstLetterStyle">Vieraan sotaväen olo saattoi kaupungin olot rauhattomiksi; mutta sitä lisäsi vielä se seikka, että tänne silloin tällöin majoitettiin uusia sotaväen osastoja, entiset kun siirrettiin 
+      <p className="initialCap">Vieraan sotaväen olo saattoi kaupungin olot rauhattomiksi; mutta sitä lisäsi vielä se seikka, että tänne silloin tällöin majoitettiin uusia sotaväen osastoja, entiset kun siirrettiin 
         toisaalle. Sitä paitsi oli Hämeenlinna asemansa vuoksi läpikulkupaikka, jonka kautta joukkoja kuljetettiin, mikä aina tuotti kaupunkilaisille haittoja. Kyytien lukumäärä oli tavallista lukuisampi. Päivittäin ajoi 
         sanankuljettajia eli kuriireja tai muita hallituksen lähettiläitä kaupungin kautta, poiketen kestikievariin hevosia vaihtamaan. Tuo entinen hevosmäärä 16 ei sodan aikana riittänytkään, vaan vaadittiin useampia; 
         mutta koska Hämeenlinnaa pidettiin liian pienenä ja köyhänä kaupunkina lisähevosia hankkimaan, määrättiin Hattulasta 10 hevosta kaupungin kestikievarissa pidettäväksi. Huhtikuun 23 p. 1808 lähettämässään kirjeessä 
@@ -218,7 +218,7 @@ const Conditions1809Page = () => {
         toisella puoliskolla vaikeudet alkoivat loppua.</p>
 
       <h2>VI</h2>
-      <p className="firstLetterStyle">Niinkuin jo mainitsimme, koettivat Venäläiset ylläpitää ankaraa sotakuria siten tehdäkseen sotatilan Suomen asukkaille niin lieveäksi kuin mahdollista. Mutta Suomalaisten suosiota uutta 
+      <p className="initialCap">Niinkuin jo mainitsimme, koettivat Venäläiset ylläpitää ankaraa sotakuria siten tehdäkseen sotatilan Suomen asukkaille niin lieveäksi kuin mahdollista. Mutta Suomalaisten suosiota uutta 
         esivaltaa kohtaan tahdottiin suoranaisemmallakin tavalla saavuttaa, nimittäin antamalla heille etuja ja helpoituksia entisistä oloista. Niinpä Buxhövden julisti heti sodan alussa pikkutullin ja aksiisin poistetuksi, 
         jonka kautta tuo talonpoikain vihaama verotus kaupunkien porteilla lakkasi; Ruotsin valtiovelan maksuksi otettu suostuntavero lakkautettiin niinikään, vieläpä vapautettiin asukkaat suorittamasta verorästejäänkin. 
         Sitä paitsi hankki Venäjän hallitus kansaa varten maallamme viljaa ja suolaa, joista kummastakin oli puute. Saman auliuden todistuksena voinemme pitää sitäkin lahjaa, minkä Hämeenlinnan seurakunta sai kirkkonsa 

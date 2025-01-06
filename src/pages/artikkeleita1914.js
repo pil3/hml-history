@@ -863,6 +863,17 @@ const Articles1914Page = () => {
           tultaisiin alkeisoppilaitoksia Suomessa wastaisuudessa nimittämään osittain „esikymnaaseiksi”, osittain lyseoiksi.</p>
       </Article>
 
+      <div className="interTitle">4.8.1914</div>
+      <Article titleText="Tawarain hinnan kohoaminen.">
+        <p>Wiime aikoina owat muutamain tawarain hinnat paikkakunnalla suuresti kohonneet.</p>
+        <p>Kauppatorilla eiwät ruoka tawarain hinnat wielä eiliseen mennessä olleet kohonneet. Voi ja liha on samoissa hinnoissa kuin wiime wiikollakin. Leiwän hinta sitä wastoin on noussut.</p>
+        <p>Suolan hinta paikkakunnalla on kohonnut yli 100 %, maksaen nykyään 10 mk. hl. Entinen hinta on ollut 4 mk. Ruisjauhot maksawat nyt 55-50 p. kg, ennen 40 p. Ruissäkki maksaa nykyään 15 
+          mk. Sokerin hinta on kohonnut 30 p. kg:lta maksaen nykyään 1:50.</p>
+        <p>Sokeria on tilattu Turusta ja sieltä on lähetetty sitä tuomaan toistakymmentä hewosta.</p>
+        <p>Paloöljy on loppunut ja odotetaan sitä Tampereelta sekä tulee maksamaan 40 p. kg. Kynttilät owat täällä myös hywin wähissä. Muutamat muutkin tawarat, kuten esim. wehnäjauhot, owat 
+          hinnoissaan nousseet.</p>
+      </Article>
+
 
       <br></br>
       <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>

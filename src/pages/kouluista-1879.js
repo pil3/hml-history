@@ -22,7 +22,7 @@ const Conditions1809Page = () => {
       <Divider className="dividerStyle" />
       <h2>I</h2>
       <h3>Hämeenlinnan Ensimmäinen Koulu v. 1639—1690.</h3>
-      <p className="firstLetterStyle">Birger Jarlin linnan viereen, sille paikalle, missä nykyään sotaväen kasarmit seisovat, pystytettiin aikain kuluessa yksi ihmis-asunto toisen jälkeen, kunnes niistä karttui kokonainen linnakylä, 
+      <p className="initialCap">Birger Jarlin linnan viereen, sille paikalle, missä nykyään sotaväen kasarmit seisovat, pystytettiin aikain kuluessa yksi ihmis-asunto toisen jälkeen, kunnes niistä karttui kokonainen linnakylä, 
         ehkäpä jonkinlainen kauppalakin. Tämä on Hämeenlinnan kaupungin ensimmäinen alku. Mutta kaupungin oikeudet sai Hämeenlinna vasta kreivi Pietari Brahen ollessa ensi kertaa Suomen kenraalikuvernöörinä sekä hänen toimestaan 
         v. 1638. Paljoa myöhempi ei ole Hämeenlinnan ensimmäisen koulunkaan synty; sillä Pietari Brahe piti isällistä huolta tämän nuoren kaupungin henkisistäkin tarpeista. Kirjeellänsä, joka on annettu Turun linnassa 3 p. Toukokuuta 
         1639, perusti hän Hämeenlinnaan lasten koulun („barne schola”), jollaisilla siihen aikaan on tavallisesti nimenä „paedagogium”.</p>
@@ -64,7 +64,7 @@ const Conditions1809Page = () => {
         edes tietoja niiden lukumäärästä eri aikoina.</p>
       <h2>II</h2>
       <h3>Hämeenlinnan Toinen Koulu eli Trivialikoulu v. 1690—1842.</h3>
-      <p className="firstLetterStyle">Kuningas Kaarlo XI hallitessa muutettiin 12 p:nä Kesäkuuta 1690 Hämeenlinnan pedagogiumi eli lastenkoulu neliluokkaiseksi trivialikouluksi, jolla oli viisi opettajaa, nimittäin rehtori, konrehtori, 
+      <p className="initialCap">Kuningas Kaarlo XI hallitessa muutettiin 12 p:nä Kesäkuuta 1690 Hämeenlinnan pedagogiumi eli lastenkoulu neliluokkaiseksi trivialikouluksi, jolla oli viisi opettajaa, nimittäin rehtori, konrehtori, 
         vanhempi ja nuorempi kollega sekä apologisti, joka oli alimman luokan opettaja. Ei kuitenkaan varmaan tiedetä, tuliko koulu näin lavennettuna laisinkaan toimeensa. Sillä pian sen laventamisen jälkeen alkoivat nälän kauhistukset 
         ja sota rasittaa isänmaatamme. Piispantutkinnossa, jota nuorempi Gezelius piti Hämeenlinnan koulussa 18 p. Helmikuuta 1704, valitetaan sen oppilaiden vähyyttä, johon oli syynä osittain oppilaiden pestaus sotaväkeen, osittain 
         yleisön huono luottamus kouluun. Näitä haittoja piti poistettaman siten, että pyydettäisiin maaherraa estämään pestaajia ottamasta koulunuorisoa sotapalvelukseen, sekä kiellettäisiin kotiopettajia jatkamasta tointansa muka julkisen 

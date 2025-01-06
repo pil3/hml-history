@@ -22,7 +22,7 @@ const HomePage = () => {
       <br />
       <Divider className="dividerStyle" />
       <QuoteStart className="symbolStyle"/>
-      <p className="firstLetterStyle">
+      <p className="initialCap">
         Noin samaan aikaan kuin Ruotsin mahtava valtiourho Birger Jaarli Bjelbosta päätti rakentaa
         Tukholman kaupungin noita sotaisia virolaisia vastaan, vaivasivat pakanalliset hämäläiset tuhotöillään ajoin ja usein
         Itämaan (niinkuin Suomea silloin kutsuttiin) kristillistä seurakuntaa.
@@ -140,7 +140,7 @@ const HomePage = () => {
           ohessa kaksi tornia harmaasta kivestä on rakennettu näköalan ihailioita varten, joista korkeampi on 100 jalkaa perustuksestaan ja 30 jalkaa läpimitaten. Paitsi sitä 
           rakennetaan paraikaa siellä täällä metsässä luolia ja maanalaisia käytäviä y. m.
         </p>
-        <p className="firstLetterStyle">
+        <p className="initialCap">
           Hämeenlinnan lutherilaisen seurakunnan väkiluku teki joulukuun 31 p. 1886 4,377 henkeä. Kun tähän lisää 7:n tarkk'ampuja pataljonan miehistön, tänne majoitetun venäläisen 
           sotaväen, kaupungissa lukuajoilla asuvan koulunuorison, sekä jäsenet kreikkalais-venäläisessä ja romalais-katolisessa seurakunnassa ynnä moseksen uskolaiset saattaa 
           kaupungin väkiluvun liioittelemata arvata noin 6,000 henkilöksi. Maaseurakunnassa oli samaan aikaan 1,191 henkilöä.
