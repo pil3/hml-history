@@ -488,6 +488,51 @@ const Crimes1914Page = () => {
           tapahtuneesta pahoinpitelystä 150 mk sakkoon.</p>
       </Article>
 
+      <Article titleText="Ilmari Tuomen murha">
+        <p>oli käsiteltäwänä Tammelan wälikäräjillä w. k. 30 p. Werityö tapahtuessaan kiihoitti suuresti paikkakunnan wäestön mieliä, jonka takia jutun käsittelyä seuraamaan oli saapunut runsaasti 
+          yleisöä, mutta laskettiin oikeuden istuntohuoneeseen ainoastaan Häm. S:n ja Häm. Woim. edustajat. Oikeuden puheenjoht. toimi how. ausk. Harry Ohlson. Yleisenä syyttäjänä toimi 
+          kruununnimismies Axel Sylwin. Kantaja, wainajan äiti Anna Tuomi oli persoonallisesti saapuwilla awustajanaan lakit. kand. Einar Laaksowirta Helsingistä. Wastaaja Otto Wirtanen oli tuotu 
+          wangittuna oikeuteen Hämeenlinnan lääninwankilasta. Hänen awustajakseen ilmoittautui oikeusraatimies Leonard Idestam Hämeenlinnasta. Luetusta lääkärintodistuksesta käwi selwille, että 
+          wainajan ruumiin oikeaan yläosaan oli tunkeutunut yli 70 haulia. Kantaja waati edeswastuuta poikansa murhasta Wirtaselle sekä Wiikille osanotosta, hautajaiskulunkeja 150 mk. ja koska 
+          wainaja nykyään oli ollut hänen elättäjänsä 40 mk. kk. elatusapua ynnä oikeudenkäyntikuluja. Tämän jälkeen alkoi asian warsinainen käsittely. Kantajan asiamies sai kuulustella erikseen 
+          sekä Wirtasta että Wiikiä. Wastaaja Wirtanen kertoi samaa kuin jo on lehtemme lukijoille tunnettua, wäittäen yhä kiwen kowaan, että pyssy laukesi wahingossa. Kantajan asiamies totesi 
+          monella eri wäitteellä, ettei laukaus niinikään ollut tapaturma, sanoen m. m. että tapaturman sattuessa sen tuottaja kiirehtii kaikin woimin antamaan apuansa sen uhriksi joutuneelle, kun 
+          sitäwastoin wastaaja Wiikin kera kylmästi ottiwat pois wainajan weneestä kalastuswälineet sekä soutaen tiehensä sen enempää wainajasta wälittämättä. Myöskin oikeuden puheenj. ihmetteli 
+          moista waromatonta ampuma-aseen käsittelyä, huomauttaen samalla, kuinka pieni rikos on kalastaa luwattomassa wedessä sen rinnalla, että ottaa hengen ihmiseltä. Päiwällisajan jälkeen 
+          jatkettiin jutun käsittelyä. Yleinen syyttäjä ilmoitti kutsuneensa todistajaksi konstaap. Lähteen ja ylikonst. Jahnin sekä toisen kalastuksen wartijan Kustaa Wiikin. Kantajan asiamies 
+          ilmoitti heti jääwimuistutuksen Wiikiä wastaan. Wiik päästettiin walalle, mutta julistettiin peräytymistodistajaksi. Kantajan todistajiksi ilmoitettiin Ilmari ja Torsti Tasanen sekä ilman 
+          walaa wainajan weli Uuno Tuomi ja tämän serkut.</p>
+          <p>Todistajana kuultiin ensinnä Wiikiä. Hän oli poliisikuulusteluissa kertonut m. m., että kun hän kielsi Wirtasta ampumasta, oli hän kuullut 
+          napsahduksen, mikä syntyy kun pyssynhana wedetään wireeseen ja oli wast. suunnannut pyssyn wainajan wenettä kohden sekä heti laukaissut. Nyt ei tod. ollut warma, mikä synnytti sen 
+          napsahduksen, jonka hän kuuli eikä hän nähnyt, suuntasiko wast. ampuma-aseen toista wenettä kohti, tai jos wene heilahti kun se käwi niin äkkiä. Muuten ei tod. „tiennyt sitä niin warmasti” 
+          eikä „muistanut sitä niin tarkasti” kuin poliisikuulustelussa.</p>
+        <p>Ylikonst. Jahn ei tiennyt muuta kuin että oli kuulustellut sekä wastaajaa että Wiikiä ja oli wast. ollut erittäin hermostunut.</p>
+        <p>Konstaap. Lähde oli pidättänyt wast. ja Wiikin sekä ilmoittanut puhelimella asiasta Forssaan. Näki samoin wast. olewan hermostuneen</p>
+        <p>Tod. Ilmari Tasanen kertoi, että kun hän weljensä kanssa oli 8 p. heinäk kokenut pyydyksiänsä Pyhäjärwellä, oli wast. ja Wiiki soutaneet heidän luo sekä ottaneet siiman pois, jolloin 
+          Wiiki oli lausunut että „ennen te p:leen forssalaiset ette lakkaa täällä wehkeilemästä kuin joku wiedään raatona pois”, johon wast. oli lisännyt, että ei pitäisi muuta kuin täräyttää, 
+          jotta olisi kontit pystyssä.</p>
+        <p>Torsti Tasanen kertoi samoin kuin weljensäkin, että oli nähnyt wast. haulikon, mutta kun tämä pidätti siiman, oli hän pannut pyssyn Wiikin wiereen.</p>
+        <p>Ilmari Leppälä kertoi samoin kuin poliisikuulustelussakin ja joka jo on lehtemme lukijoille tunnettua, niin että wartijain weneen tultua heidän weneensä luo wast. tarttui pyssyyn sekä 
+          tähtäsi sillä heitä kohden laukaisten edellä kerrotulla seurauksella sekä oli sitten huutanut „noin meillä pannaan, meillä on lupa ampua; ettekä te ennen lakkaa täällä käymästä, kun te 
+          kaikki raatona korjataan”.</p>
+        <p>Oskari Leppälä ja wainajan weli kertoiwat samoin.</p>
+        <p>Sekä Ilmari että Oskari Leppälän ynnä Uuno Tuomen todistukset ilmoitti wast. edustaja walheiksi, sikäli kuin ne erosiwat wast. lausunnosta.</p>
+        <p>Wast. asiamies pyysi että kuultaisiin uudelleen ylikonst. Jahnia, joka ensinnä piti tutkinnon weljeksien Leppälän ja Tuomen kanssa, jotta kuultaisiin, puhuiwatko kaikki pojat jo 
+          poliisikuulustelussa näin samoilla sanoilla.</p>
+        <p>Uudelleen kuultuna Jahn kertoi, että hän kysyi useamman kerran pojilta eikö kalastuksen wartijat mitään puhuneet ennen eikä jälkeen ampumisen, johon pojat sanoiwat, ettei niin sanaakaan. 
+          Tämän tähden Leppälät ja Tuomi kuultiin myös uudelleen, jolloin he sanoiwat, ettei ylikonstaap. heiltä sitä lainkaan kysynytkään.</p>
+        <p>Konstaap. Wessman, joka oli saapuwilla poliisikuulustelussa, ei myöskään muistanut, kysyttiinkö pojalta sitä.</p>
+        <p>Wast. asiam. kysymykseen, miksi Ilmari Leppälä oli jälkeenpäin mennyt muuttamaan poliisitutkinnon pöytäkirjan, sanoi Leppälä kuulleensa, että siitä oli jätetty osia pois, jonka wuoksi 
+          hän meni ja täydensi sen niinkuin asia oli.</p>
+        <p>Tämän jälkeen yleinen syyttäjä pyysi lykkäystä lisäselwitysten hankkimista warten. Wast. asiamies pyysi, että wast. laskettaisiin wapaalle jalalle, koska on täyd. todistettu, että 
+          kuoleman tuotti tapaturma, samalla hän pyysi, että päämiehensä paroni de la Chapellen eroitettaisi jutusta. Tämä oli myös kutsuttu kuultawaksi. Yl. syyttäjä sanoi, ettei häntä ole 
+          haastettu wirallisesti, waan on hän pyytänyt paroonin hywäntahtoisesti saapumaan kuultawaksi. Kantajan asiamies wastusti syytetyn wapaaksi laskemista, koska on erittäin raskauttawia 
+          asianhaaroja ilmennyt syyt. wastaan samalla hän puolsi de la Chapellea eroitettawaksi jutusta.</p>
+        <p>Oikeus lykkäsi jutun enemmän käsittelyn 21 p. elok. klo 1 alkawiin wälikäräjiin. Wast. passitettiin takaisin lääninwankilaan. Paroni de la Chapelle eroitettiin jutusta. Yleisen syyttäjän 
+          on haast. silloin kuultawaksi m. m. Hulda Jäppinen, jonka luona wast. ja Wiik oliwat asuneet. Jutun käsittely kesti tunnin ruokalomaa ja pientä wäliaikaa lukuunottamatta kello 2 p:llä 
+          puoli 10 illalla.</p>
+      </Article>
+
       <br></br>
       <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>
     </Layout>

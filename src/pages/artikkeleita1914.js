@@ -874,6 +874,47 @@ const Articles1914Page = () => {
           hinnoissaan nousseet.</p>
       </Article>
 
+      <div className="interTitle">6.8.1914</div>
+      <Article titleText="Mieliala Hämeenlinnassa">
+        <p>on monista hälyyttäwistä huhuista ja järkyttäwistä uutisista huolimatta werrattain rauhallinen, joka on tyytywäisyydellä mainittawa. Jotkut perheenäidit tosin owat hätääntyneet ja 
+          ostawat tulewaisuuden waralle ruokatarwikkeita. Kauppiaitten nostama sekatawarain hintain korotus on herättänyt ostajissa mielipahaa. Tallettajien hätääntyminen ja talletuksien nostaminen 
+          on myös aiheetonta ja moitittawaa.</p>
+        <p>Kehoitamme ihmisiä olemaan tyyniä ja rauhallisia sekä tarkoin noudattamaan niitä määräyksiä, joita wiranomaiset owat antaneet.</p>
+      </Article>
+      <Article titleText="Hämeenlinnan tehtaat seisomaan.">
+        <p>Nykyisen uhkaawaan tilanteen johdosta on <span className="accent">H:linnan Höyrysahalla</span> maksettu lopputili, mutta erityisten toimenpiteiden takia pidetään saha wielä käynnissä toiseen tilipäiwään asti, joten 
+          wäki saa olla wielä töissä.</p>
+        <p><span className="accent">Paitatehdas „Tilhin”</span> työwäki on myös sanottu irti, mutta koetetaan tehdas pitää käynnissä niin kauan kuin mahdollista ja sähköwoimaa riittää.</p>
+        <p><span className="accent">H:linnan Werkatehtaalla</span> lienee annettu samansuuntainen julistus.</p>
+        <p><span className="accent">Alangon kenkätehtaan</span> työwäki on niinikään sanottu irti.</p>
+      </Article>
+
+      <div className="interTitle">8.8.1914</div>
+      <Article titleText="Hämeen läänin kuwernööri ryhtynyt ankariin toimenpiteisiin keinottelun estämiseksi elintarpeilla.">
+        <h5>Kauppias A. Gust. Skogsteria sakotettu 4,000 mk:lla.</h5>
+        <p>Eilen antamallaan päätöksellä on kuwernööri sakottanut kauppias <span className="accent">A. Gust. Skogseria</span> H:linnasta hintojen korotusta koskewien lippujen lähettämisestä toisille 
+          kauppiaille ja lewottomuuden aikaansaamisesta tawaramarkkinoilla 4,000 mklla, joka päätös heti menee täytäntöön.</p>
+      </Article>
+
+      <div className="interTitle">13.8.1914</div>
+      <Article titleText="„Hädässä ystävä tunnetaan”.">
+        <p>„Hädässä ystäwä tunnetaan” sanoo wanha suomalainen sananlasku. Niin kauwan kuin Wenäjälla oli rauha, lietsoi sen sanomalehdistö alituista wihaa pientä, rauhallista kansaamme kohtaan. 
+          Suomi warustautui muka kapinaan. Täällä oli salaliittoja, woimakkaita aseellista yhdistyksiä, jotka uhkasiwat koko waltakunnan turwallisuutta. Wenäjän pääkaupunki, Pietari, oli muka liian 
+          alttiina waaralle ollessaan niin lähellä Suomen rajaa, ja siksi oli saatawa keinolla millä hywänsä enemmän wenäläistä maata pääkaupungin ja Suomen rajan wäliin.</p>
+        <p>Nyt on koettelemuksien ja tuon uskotellun „kiusauksen” hetki tullut. Wenäjä on joutunut sotaan mahtawien naapureittensa kanssa ja se kaipaa nyt enemmän kuin milloinkaan ennen sisäistä 
+          sopua ja rauhaa. Katsokaa tarkkaan tänne kaikki te Now. Wremjat, Rusk. Snamjat, Finlj. Gasetat y. m.! Seuratkaa silmillänne meitä ja häwetää parjauksianne ja mustia waleitanne. Meidän 
+          maamme ei ole kylliksi onnellinen omatakseen omaa sotajoukkoaan, joka ase kädessä torjuisi wihollisen rannoiltamme ja olisi walmis wuodattamaan werensä yhteisen asian eteen. Meille ei ole 
+          uskottu tätä todistuskappaletta, joka puhuisi selwintä kieltä. Mutta me olemme kuitenkin kylliksi lähellä tapahtumia woidaksemme osottaa, että Suomen kansa nyt, kuten kautta wuosisatojen, 
+          on ehdottomasti uskollinen ja lojaalinen sitä maata kohtaan, johon kohtalo sen on liittänyt. Meidän osamme näissä suurissa tapahtumissa on ollut, ja tulee nähtäwästi loppuun saakka 
+          olemaan, mitättömän wähäinen. Mutta me olemme jo osoittaneet ja tulemme - sen saattaa huoletta wakuuttaa - loppuun saakka osoittaamaan uskollisuutta tässä wähässämme. Wenäjän 
+          sanomalehdistö on - osaksi oudoksuen ja ihmetellen - todentanut meidän kansamme lojaalisuuden, ja wenäläiset upseerit, jotka owat oleskelleet maassamme wasta jonkun päiwän, owat aiwan 
+          kuin iloisesti yllätettyinä rientäneet julkituomaan kiitollisuutensa ja ihastuksensa meidän suhtautumisestamme ja alttiista ponnisteluistamme. Samalla kun ilomielin otamme nuo kiitokset 
+          wastaan, tuntuu kuin, olisi niissä pistäwä oas - mitä muuta meiltä sitten odotettiin?</p>
+        <p>Kun tämä sota kerran on lopussa, on Europan karttakin muuttanut muotoaan. Ja meidän kansamme on sitä ennen kenties saanut kokea monia kowia kohtaloita. Mutta mitä se mukanansa tuoneekin, 
+          yhden lahjan sen luulisi joka tapauksessa meille antawan: Wenäjän kansan luottamuksen - uskon, että meidän maamme, mitkä waiheet Wenäjän waltakuntaa kohtanewatkin, aina lujana ja 
+          lojaalisena liittyy siihen.</p>
+      </Article>
+
 
       <br></br>
       <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>
