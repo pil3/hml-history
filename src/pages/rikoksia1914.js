@@ -192,7 +192,7 @@ const Crimes1914Page = () => {
       </Article>
 
       <div className="interTitle">16.4.1914</div>
-      <Article titleText="Hämeenlinnan yhdenvertaisuuslakirettelöt">
+      <Article titleText="Hämeenlinnan yhdenvertaisuuslaki-rettelöt">
         <h5>Toimittaja Palmio saanut jälleen haasteen.</h5>
         <p>Eilen puolenpäiwän tienoissa saapui toimittaja Palmion asuntoon komisario E. Ahlgrèn mukanaan pari poliisikonstaapeliä kysyen hra Palmiota. Kun toimittaja Palmio ei kuitenkaan ollut 
           kotona, meniwät mainitut poliisimiehet Hämettären toimitukseen. Tawattuaan täällä hra P:n tahtoi komisario Ahlgrèn „todistajain läsnäollessa” jättää hänelle joukon papereita pyytäen 
@@ -253,7 +253,7 @@ const Crimes1914Page = () => {
       </Article>
 
       <div className="interTitle">21.4.1914</div>
-      <Article titleText="H:linnan yhdenvertaisuuslakijutut.">
+      <Article titleText="H:linnan yhdenvertaisuuslaki-jutut.">
         <h5>Herra Palmiolta waadittu 600 ruplan takaussumma.</h5>
         <p>Lauwantaina klo 1,45 päiwällä kun toimittaja Pertti Palmio oli tulossa Hämeenlinnan raastuwanoikeuden istunnosta Hämeenlinnan raatihuoneelta, oli portaissa odottamassa konstaapeli T. 
           Jokinen ja poliisikamarin sisäänkäytäwän luona pysäytti hänet, käskien seuraamaan poliisikamariin poliisimestarin puheille. Kun hra P. ei aikonut totella, astui konstaapeli hänen eteensä, 
@@ -531,6 +531,34 @@ const Crimes1914Page = () => {
         <p>Oikeus lykkäsi jutun enemmän käsittelyn 21 p. elok. klo 1 alkawiin wälikäräjiin. Wast. passitettiin takaisin lääninwankilaan. Paroni de la Chapelle eroitettiin jutusta. Yleisen syyttäjän 
           on haast. silloin kuultawaksi m. m. Hulda Jäppinen, jonka luona wast. ja Wiik oliwat asuneet. Jutun käsittely kesti tunnin ruokalomaa ja pientä wäliaikaa lukuunottamatta kello 2 p:llä 
           puoli 10 illalla.</p>
+      </Article>
+
+      <div className="interTitle">8.9.1914</div>
+      <Article titleText="Puukotusjuttu.">
+        <p>Hattulan Katinalasta kotoisin olewaa joutomiestä Henrik Jalmari Jokista wastaan, joka w. k. 12p:n iltana Tampereella kirkkopuistossa löi partaweitsellä kiertokauppias Frans Heleniukselta 
+          wasemman korwalehden poikki ja päähän toistakymmentä senttimetriä pitkän haawan, on nostettu kanne sikäl. raastuwanoikeudessa.
+        </p>
+        <div className="interTitle">17.9.1914</div>
+        <h5>Törkeästä pahoinpitelystä</h5>
+        <p>on Tampereen raastuwanoikeus tuominnut Henrik Johannes Jokisen Hattulan Katinalasta 1 w. wankeuteen ja maksamaan pahoinpidellylle 335 mk. korvaukseksi kiwusta ja särystä. J. syytetään 
+          myös Pirkkalassa puukotuksesta.</p>
+      </Article>
+
+      <div className="interTitle">15.10.1914</div>
+      <Article titleText="Hämeenlinnan verorästit.">
+        <h5>Warat. L. Idestam wangittu.</h5>
+        <p>Hämeen läänin kuwernöörille t. k. 12 p. lähettämässään kirjelmässä on Turun howioikeus määrännyt Hämeenlinnan maistraatin w. t. puheenjohtajan, oikeusneuwosmies G. L. Idestamin 
+          wangittawaksi siitä, ettei hän ole Hämeenlinnan rahatoimikamarille toimittanut tilitystä sanotun kaupungin wuosien 1906, 1907 ja 1908 kunnallisten ulostekojen rästiluetteloista. 
+          Mainittuja werorästejä on tilittämättä wuodelta 1906 2,241 mk. 60 p., wuodelta 1907 4,806 mk. 40 p., 3,884 mk. ynnä 729 mk. 45 p. ja 393 mk. 90 p. sekä wuodelta 1908 4,208 mk. 60 p. 
+          Rahatoimikamari jätti aikoinaan Turun howioikeudelle kantelukirjelmän, minkä jälkeen howioikeuden kannewiskaali wirkasyytekirjelmässä waati rangaistusta oikeusneuwosmies Idestamille. 
+          Pöytäkirjanotteella tämän wuoden huhtikuun 7 p:ltä howioikeus sitten welwoitti hra Idestamin 2 kuukauden kuluessa siitä tiedon saatuaan antamaan todistuksen siitä, että hän oli 
+          Hämeenlinnan rahatoimikamarille jättänyt tilityksen kosketelluista tilittämättä jättämistään rästeistä, uhalla että hänet muuten wangittaisiin ja wankeudessa pidettäisiin, kunnes hän oli 
+          täyttänyt kyseessä olewan welwollisuutensa. Kun ei oikeusneuwosmies Idestam, waikka hän wiime heinäk. 24 pnä oli wastaanottanut yllämainitun pöytäkirjanotteen, wieläkään ole howioikeuteen 
+          toimittanut waadittua todistusta, on howioikeus antanut ylläkerrotun wangitsemismääräyksen.</p>
+        <p>Myöhemmin ilmoitettiin, että kysymyksessä olewa tilitys on nyttemmin jätetty ja että muut toimenpiteet asiassa owat saaneet raueta. Näin ei kuitenkaan ollut asianlaita, waan wangittiin 
+          tuomari Idestam tiistaina klo 3 i. p. ja wietiin lääninwankilaan, jossa häntä säilytetään, kunnes howioikeudelle on wirallisesti ilmotettu, että hän on puuttuwan tilityksen jättänyt. Wasta 
+          sitten kun howioikeudesta saapuu määräys Idestamin wapauttamisesta, päästetään hänet wankilasta.</p>
+        <p>Pääkaupungin lehtien tiedot, että hra Idestam olisi wangittu kaksi eri kertaa, eiwät pidä paikkaansa.</p>
       </Article>
 
       <br></br>

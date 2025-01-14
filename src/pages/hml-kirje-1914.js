@@ -675,6 +675,143 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
+      <Divider className="dividerStyle" />
+
+      <Article titleText="5.9.1914">
+        <h5>Sota.</h5>
+        <h5>Kieltolaki.</h5>
+        <h5>Seuroille.</h5>
+        <h5>Koulut.</h5>
+        <h5>Kirjeenwaihtajille ja asiamiehille.</h5>
+        <SubDivider className="dividerStyle" />
+        <p>Sota, sota! Se sana on jokaisen huulilla. Ennustukset toteutuiwat ja Europa on joutunut suursodan, maailmanpalon näyttämöksi. Tämä kohtalokas hetki ihmiskunnan historiassa tulee 
+          epäilemättä olemaan sangen suurimerkityksellinen ja wuosiluku 1914 taitteentekewä ihmiskunnan elämässä 20:lla wuosisadalla.</p>
+        <p>Me emme tunne emmekä woi tehdä laskelmia siitä, kuinka suureksi paisuu tämä sota ja mihin lopultakin itse sotanäyttämö, ainakin ratkaisewien taistelujen tanner, siirtyy. On hywin 
+          uskottawaa ja niinkuin jo näkyykin, että kowin laajalla alueella otellaan. Kuka sitte wielä tietää, kuka nykyisistä puolueettomista walloista siihen sekaantuu. Sodanjulistuksia on jo 
+          tusinan werran.</p>
+        <p>Tulewaisuudesta emme tiedä ja arwelujen tekeminen on tarpeetonta.</p>
+        <p>Muusta ei nyt puhuta kuin sodasta ja samoin ei kirjoiteta myöskään muusta. Kukapa siitä osaisi poikkeuksen tehdä. En ainakaan mină. Minunkin siis täytyy siitä kirjoittaa.</p>
+        <p>Kaikki ihmiset waltasi omituinen sodan pelko. Toisissa tuo pelko esiintyi - warsinkin naisissa - jo todellakin „pelottawassa” muodossa. Itkemiset ja hysteeriset kohtaukset eiwät olleet 
+          harwinaista. Kaikkein eniten pelättiin ensi alussa wihollisen maahan hyökkäämistä ja siitä johtuwaa häwitystä. Saattaa olla niinkin, että ei edes meidän rannikkomme tule kärsimään sodan 
+          häwitystä. Kaikkein wähimmin sisämaassa - ainakaan pitkiin aikoihin - tarwitse wihollista peljätä. Siitä huolesta olkaamme kaikessa rauhassa.</p>
+        <p>Myöskään meillä ei ole omaa sotawäkeä, joten aktiiwisesti emme itse sotanäyttämöllä tule waikuttamaan ja siis sekin pelko on pois.</p>
+        <p>Ei ole syytä ryhtyä mihinkään ajattelemattomiin tekoihin, niinkuin ehkä aremmat jo owat ryhtyneet. Niinpä muutamat tallettajat owat rientäneet pankeista noutamaan säästönsä pannakseen ne 
+          sitte parempaan „talteen”, johonkin sukan säärykseen. - Onpa ollut tapauksia, että taskuwarkaat owat joutuneet osallisiksi näistä „kassakaapeista.” Myöskin hiiret owat rientäneet pesäänsä 
+          tekemään paperirahoista.</p>
+        <p>Sanomalehtien sekä yksityisten asianymmärtäwien onkin onnistunut ensi kuumetta jäähdyttämään.</p>
+        <p>Maamme on sotatilassa ja näin ollen on mitä waarallisinta puhua kewytmielisiä ja ajattelemattomia puheita.</p>
+        <p>On siis oltawa warowaisia puheittemme suhteen ja esiintymisemme tyyntä ja arwokasta.</p>
+        <p>Kaikki tiedot sotanäyttämöltä owat hywin niukkoja. Sensijaan liikkuu sadottain kaikenlaista tuulesta temmattuja juttuja, joihin ei ole luottamista. Ainoastaan sanomalehdistä saatuja ja 
+          wirallisesti wahwistettuja tietoja on uskottawa. Tosin nekään eiwät joka suhteessa tarjoa todellisia kuwaa.</p>
+        <p>Maamiesten et tule lannistua, waan kylwää edelleenkin kaikessa rauhassa. Jokainen päiwä elettätöön aina kerrallaan eikä kulutettako aiwoja turhanpäiwäisten arwiolaskujen tekemisessä 
+          nykyisistä suurtapahtumista.</p>
+        <p>Nykyisestä tilanteesta on johtunut, että liikenne ja teollisuus owat jotakuinkin lamassa. Tällaista poikkeustilaa woi kestää kauwemminkin. Senpäwuoksi siitä on seurauksena yleinen 
+          työnpuute kautta koko maan. Innokkaan pohdinnan alaisena onkin maan sanomalehdissä ollut tilapäisten hätäaputöiden järjestämisestä. Tarpeellisiin alustawiin keinoihin on jo ryhdytty 
+          monin paikoin. Niitä tulewat teettämään kaupungit ja maalaiskunnat, ehkäpä waltiokin. Myöskin yksityiset woiwat siihen esim. maanwiljelystöihin, uutismaan raiwaamiseen, ojittamiseen 
+          j. n. e. ryhtyä.</p>
+        <h5>* * *</h5>
+        <p>Maamme on toista kuukautta elänyt jotenkin täydellisen kieltolain merkeissä. Wäkijuomakaupat ja kapakat owat suljetut sota-ajaksi. Kieltolain wastustajainkin täytyy myöntää, että elämä 
+          tänä aikana on ollut perin siiwoa ja rauhallista. Wallattomuudet ja mielettömyydet owat unohdetut. Oikein on hauska liikkua kaduilla, kun ei näy humalaisia ja rähinän pitäjiä. Sellaisen 
+          käänteen saa wiinawirtojen sulkeminen. Ja kukaan ei ole kuollut wiinan puutteeseen, mutta wäkijuomien wirratessa saa wähän päästä lukea, miten siellä ja siellä on mies kuollut 
+          liiallisesta alkoholin nauttimisesta. Kieltolaki olisi täydellinen, jos „herrain” puoleltakin kiellettäisiin tarjoileminen ruoankin yhteydessä. Tehtäköön se!</p>
+        <p>Tyytywäisyydellä on mainittawa sekin, että spriin, pulituurin y. m. saantia on tiukennettu. Moni hankkikin tätä tietä itselleen humalan.</p>
+        <p>Wäkijuomakauppiaat owat kowin hermostuneita tästä kieltolaista. Arwaahan sen. Tuntewat kait paksun kukkaronsa hoikkenewan. He yrittäwät keinolla millä tahansa saada juomakaupat 
+          awatuiksi, m. m. sillä werukkeella, että konjakkia ja wiiniä saataisiin ostaa lääkärin antamalla reseptillä. Wäkijuomakauppiaat eiwät edes tällaisena wakawana aikana wälitä hituistakaan 
+          yhteisestä hywästä.</p>
+        <p>Me kieltolain ystäwät iloitsemme tästä koekieltolaista ja toiwomme hartaasti, että tämän hywän koetuksen jälkeen saadaan köyhään Suomeen todellinen kieltolaki onnen Sampoa jauhamaan, 
+          puutetta ja hätää poistamaan!</p>
+        <h5>* * *</h5>
+        <p>Seuroille ja yhdistyksille lienee syytä huomauttaa, että ne nykyisissä oloissa juhlien ja iltamien toimeenpanoa rajoittaisiwat, ainakin sikäli, ettei niitä wain pelkän huwin ja rahan 
+          ansaitsemisen takia järjestettäisi. Tähän niitä wakawa aika mielestäni kehottaa. Warsinkin nuori wäki uhraa tuollaisissa seurojen järjestämissä huwitilaisuuksissa wuosittain suuren summan 
+          rahaa - olkoonpa hywiin tarkoituksiin - , joka nyt on warsinkin wähawaraisempien säästettäwä toimeentulonsa turwaamiseksi. Eikä nykyinen wakawa ja huolestuttawa aika muutenkaan sowellu 
+          tanssin ja muun kewyen huwin tarjoamiselle. Sikäli kuin juhlia ja iltamia järjestetään, on niihin siis koetettawa warata runsaasti wakawaa ja arwokasta ohjelmaa. Ellei sellaista woida 
+          saada, on juhlat ja iltamat paras jättää pitämättä ja koetettawa niiden asemesta saada aikaan muunlaista toimintaa etupäässä seurojen jäsenten keskuudessa. Lukurenkaiden perustaminen ja 
+          kotiopinnoiden järjestäminen, mainitakseni pari esimerkkiä, sopisi seurojen nyt ottaa entistä enemmän tehtäwäkseen. Niinikään sopisi järjestää jäsenten keskeisiä keskustelukokouksia ja 
+          perheillanwiettoja. Yleensä olisi seurojen koetettawa waikuttaa etupäässä sisäänpäin, jäsentensä keskuudessa, mikä tawallisesti onkin liian paljon unohdettu pyrittäessä waikuttamaan 
+          ulospäin.</p>
+        <h5>* * *</h5>
+        <p>Lapset kouluun! Se on ollut näiden päiwien tunnussana. Kehoitusta onkin noudatettu, esim. Hämeenlinnan kansakouluun nähden. Maaseudulla on myöskin ollut kansakouluun pyrkiwiä tawallinen 
+          määrä. On hywä, etteiwät wanhemmat laiminlyö welwollisuuttaan nousewaa kansaa kohtaan, olkoot ajat minkälaiset tahansa.</p>
+        <p>Oppikoulut alkawat wasta lokak. 1 p:nä. Silloin täälläkin wasta warsinainen syyssesonki alkaa. Koulujen oppilaille, joille on tullut odottamaton kesäloman jatko, suunnittelewat opettajat 
+          koulutehtäwiä kodeissa etupäässä yliluokkien oppilaille. Tästäkään ei ole muuta kuin hywää sanottawa, kun pysytään kohtuullisuuden rajoissa.</p>
+        <h5>* * *</h5>
+        <p>Toimitus on pyytänyt minua huomauttamaan maaseutukirjeenwaihtajille, että eiwät lopen wäsyisi sotauutisten lukemisessa, waan joskus muistaisiwat lähettää edes lyhyitä selontekoja 
+          maakunnan tapahtumista. Niitä kaiwataan ja ne owat huwituksena sotauutisten keskellä.</p>
+          <p>Asiamiehille myös sana. Tällaisena kohtalokkaana, järkyttäwistä tapahtumista rikkaana aikana ei kukaan woi tulla toimeen ilman sanomalehteä. Paljon niitä sentään löytyy, jotka yrittäwät 
+            tulla lehdettä toimeen. Menkää näiden luo ja lewittäkää „Hämeen Sanomia”, joka seuraa tarkasti sotaa sanoin ja kuwin! Ystäwät ja asiamiehet siis pitemmittä puheitta käsittäwät, että 
+            juuri nyt on entistä tarmokkaammin lewitettäwä ja kannatettawa „Hämeen Sanomia.”</p>
+        <SubDivider className="dividerStyle" />
+        <p className="signature">Tiitus.</p>
+      </Article>
+
+      <Divider className="dividerStyle" />
+
+      <Article titleText="13.10.1914">
+        <h5>Punainen Risti.</h5>
+        <h5>Matkalaukut ja kirjeet.</h5>
+        <h5>Kansanopistoon!</h5>
+        <h5>Siirtolaisuus.</h5>
+        <SubDivider className="dividerStyle" />
+        <p>Punaisen Ristin awustamisella on kansamme nykyisen sodan aikana ehtinyt osottaa, kuinka hywin se käsittää welwollisuutensa waltakuntaa kohtaan ja kuinka walmis se on nuo welwollisuudet 
+          täyttämään, ottamaan osaltaan niiden koettelemusten kantamiseen, jotka waltakuntaa owat kohdanneet. Huomattawia summia on lyhyessä ajassa saatu, kaupunkien, kuntien ja yksityisten 
+          kansalaisten wapaaehtoisen uhrautuwaisuuden kautta kokoon. Sotanäyttämölle on jo lähetetty suomalainen sairashoito-osasto ja teollisuudenharjoittajaimme ambulanssi on walmiina lähtemään. 
+          Useissa kaupungeissa, m. m. Hämeenlinnassa on warattu sairassijoja sodassa haawoittuneita ja sairastuneita warten.</p>
+        <p>Wäärin olisi kuitenkin luulla, että awustusta jo on saatu riittäwästi kokoon, tai että olisimme jo tehneet tässä suhteessa kaiken, mitä woimme ja mihin, paitsi welwollisuus waltakuntaa 
+          kohtaan, myöskin ihmisyys meitä pyhästi welwottaa. Nykyisessä sodassa tarwitaan Punaisen Ristin jaloa toimintaa enemmän kuin kenties missään sodassa tätä ennen, sitä tarwitaan 
+          arwaamattoman paljon. Toiminta taas waatii suuria kustannuksia. Kansamme, joka on säästynyt sodan jaloista ja todennäköisesti säästyy edelleenkin, on welwollinen mahdollisimman tehokkaalla 
+          tawalla ottamaan osaa sotaan tuolla kauniilla tawalla, mitä Punaisen Ristin toiminta tarkottaa: sodan tuottamia kärsimyistä liewentämällä.</p>
+        <p>Ilahuttawa uhrautuwaisuus on tähän asti rajoittunut pääasiallisesti kaupunkeihin ja kaupunkilaisiin. Toiwottawasti saadaan eri puolilla maaseudullakin toimintaa Punasen Ristin hywäksi 
+          alulle ja se tuottamaan yhtä hywiä tuloksia siellä kuin kaupungeissakin. Toimihenkilöiden maalaiskunnissa on saatawa toiminta kunkin kunnan piirissä wireille, woiwatpa maalaiskunnat 
+          kuntinakin, samoin kaupunkikunnatkin, awustusta tarkoitusta warten myöntää. Toiwomme, ettei läänin kuwernööri ole turhaan wedonnut hämäläisten ihmisyyden tunteisiin.</p>
+        <p>Ensi sunnuntaina neljäntenä rukouspäiwänä kannetaan maamme kaikissa kirkoissa kolehti Punaisen Ristin hywäksi. Maamme kirkkokansalla on silloin tilaisuus ja sitä hartaasti kehoitan 
+          warojensa mukaan awustamaan tätä laupeuden, rauhan ja rakkauden työtä!</p>
+        <h5>* * *</h5>
+        <p>Rautatietä ja postia käyttäwälle yleisölle on annettu uusia määräyksiä, joista minua on pyydetty huomauttamaan.</p>
+        <p>Matkalaukullanne ei saa olla pituutta kuin 65 sm., laajuutta ei enempää kuin 45 sm. eikä korkeutta enemmän kuin 30 sm. Siis kutakuinkin awara matkalaukku, johon kyllä mahtuu yhtä ja 
+          toista matkalle otettawaa.</p>
+        <p>Kirjeiden lähettäjäin on otettawa huomioon, että kaikki sellaiset kirjeet, jotka ennen kulkiwat 20 pennillä, on nyt warustettawa 25 pennin postimerkeillä ja paikalliskirjeet, jotka ennen 
+          kulkiwat 10 pennillä, tarwitsewat nykyään 15 pennin postimerkit. Tawalliset postikortit kulkewat edelleenkin 10 pennillä.</p>
+        <h5>* * *</h5>
+        <p>Aika on wakawa sekä ulkonaisesti että sisällisesti. Wuodentulo on niukanpuoleinen. Monessa kodissa on ehkä noussut kysymys: woidaanko tänä wuonna poikaa, tytärtä kustantaa 
+          kansanopistoon.</p>
+        <p>Kun asiata pitemmältä ajattelee, täytynee kuitenkin saada kysymykseen myöntäwä wastaus:</p>
+        <p>Kun tuli wiljatulli ja kuiwuus maata ahdisti, kaikui maanwiljelijäin kesken kehoitus: kyntäkäämme sywemmälle, laittakaamme lantaa kaksinwerroin kuni Saarijärwen Paawo muinoin, 
+          silloin ei polta pouta niin pahoin, silloin kaswaa wiljan oma wainio.</p>
+        <p>Mutta kyntää sywemmälle, hoitaa metsää, peltoa, karjaa entistään paremmin, se on nykyaikana taito, jota pitää myöskin koulussa ja kirjoista opetella. Maamiehen toimi on ammateista 
+          waikein, mutta samalla waiherikkain, terweellisin ja wapain.</p>
+        <p>Siksipä maalaisen ei kannata olla menemättä kansanopistoon.</p>
+        <p>Mutta sywemmälle kyntämisen kehoituksen woimme me toistaa toinen toisillemme toisessakin merkityksessä:</p>
+        <p>Meillä on ollut rauha, hywät wuodet, onnelliset olot, mutta henkinen kynnös on tullut matalasti tehtyä. Kodit, joissa kirjojen kirjaa wiljellään, owat harwinaisiksi käyneet. Siweelliset 
+          tawat owat höltyneet. Nuorten rikoksentekijäin luku kaswaa. Alkoholin käyttö lisääntyy. Hywiä kirjoja, warsinkin tietokirjoja luetaan wähän. Itsekaswatustyö kansalais- l, kotiopintojen 
+          muodossa kituen kaswaa.</p>
+        <p>Olisi meidän opittawa kyntämään sywemmältä!</p>
+        <p>- Ja tätä sywemmältä kyntämistä, sywempää käsitystä ihmiselämästä ja sen welwollisuuksista tahtoo kansanopisto nuorisollemme opettaa.</p>
+        <p>Mutta mistä warat?</p>
+        <p>- Se parisataa markkaa, joka opistossa säästäwästi eläen kuluu, on pieni raha. Meidän ei kannata olla käyttämättä nuorisoa kansanopistossa.</p>
+        <p>Kehotus, mennä kansanopistoon, koskee yhtä hywin maalaisia kuin kaupunkilaisiakin.</p>
+        <p>Hämeenlinnan kansakoulun johtokunta on jälleen julistanut kaupungin kansakoulun oppimäärän suorittaneiden haettawaksi yhden 200 mk:n suuruisen apurahan. Edellisellä kerralla on wain harwa 
+          käyttänyt tätä tilaisuutta hywäkseen. Joskus lienee käynyt niinkin, ettei apurahaa ole, häpeä sanoa, kukaan hakenut. Tehtäköön nyt parannus ja ilmestyköön runsaasti hakijoita!</p>
+        <h5>* * *</h5>
+        <p>Woimakkaampana kuin pitkiin aikoihin tätä ennen esiintyi siirtolaiskiihko maassamme wiime wuotena. Tämä kuume näkyy wallanneen ei ainoastaan irtolais- ja työwäestön, waan enin kaikista 
+          tilallisista ja torppareita ja heidän lapsiaan, eli n.k. maatawiljelewää wäestöä siihen määrin, että heidän lukumääränsä muihin siirtolaisiin werrattuna nousi 63 prosenttiin.</p>
+        <p>Äskettäin painosta ilmestyneen siirtolaistilaston mukaan lähti maastamme wiime wuonna kaikkiaan 20,057 siirtolaista eli 87 prosenttia enemmän kuin w. 1912, jolloin lähteneiden luku oli 
+          10,724. Ainoastaan w. 1902 on siirtolaisuus ollut suurempi kuin wiime wuonna.</p>
+        <p>Eri lääneihin nähden jakautui siirtolaisuus seuraawasti: Uudenmaan l. 1,395, Turun ja Porin l. 4,190, Hämeen l. 1,140, Viipurin l. 1,783, Mikkelin l. 771, Kuopion l. 1,859, Vaasan l. 
+          7,490 ja Oulun l. 1,929; yht. 20,057; niistä 2,824 kaupungeista ja maalta 17,173.</p>
+        <p>Jos tarkastetaan siirtolaisten ammatillista ryhmitystä, huomaa, että maatawiljelewää wäestöä oli 12,627 eli 63 pros., työwäkeä ja irtainta wäestöä 3,233 eli 16,1 pros., palweluswäkeä 
+          1,199 eli 6 pros, käsityöläisiä 1,141 eli 5,7 pros., talonomistajia, merikapteeneja ja merimiehiä 538 eli 2,7 pros., tehdastyöläisiä 373 l. 1,9 pros., wirka- ja palwelusmiehiä 473 eli 
+          2,3 pros. sekä sellaisia, joiden ammatti on tuntematon, 478 eli 2,3 pros.</p>
+        <p>Maanwiljelyswäestön keskuudesta lähteneistä siirtolaisista muodostawat enemmistön talollisten pojat, sekä loiset ja mäkitupalaiset.</p>
+        <p>Tällaisia numeroita tarkastellessa tulee kansamme taloudellista waurastumista ja maatalouden edistymistä toiwowa ihminen warmaankin murheelliselle mielelle, tuntiessaan kaiken sen tuhon, 
+          minkä siirtolaisuus tuottaa jo yksistään parhaimman ja pystywimmän työwoiman wähentämisessä. Kaikki nämä monet tuhannet wahwat kädet olisi tarwittu kipeimmin omassa maassa, raiwaamassa ja 
+          perkaamassa sitä, sillä laajat alat maatamme odottaa ja kaipaa wiljelijänsä ja perkaajansa wankkaa kättä samalla kun teollisuuswäestön ja kuljeksiwaan elämään antautuwan wäestön lukuisa 
+          joukko alkaa olla wuosi wuodelta yhä tukalammassa ja tukalammassa asemassa jokapäiwäisen toimeentulon puolesta.</p>
+        <SubDivider className="dividerStyle" />
+        <p className="signature">Tiitus.</p>
+      </Article>
+
+
+
 
       <br></br>
       <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>

@@ -915,6 +915,161 @@ const Articles1914Page = () => {
           lojaalisena liittyy siihen.</p>
       </Article>
 
+      <div className="interTitle">10.9.1914</div>
+      <Article titleText="Kuulutus.">
+        <p>Koska useat Venäjän sotakouluihin pyrkivät henkilöt ovat kääntyneet puoleeni saadakseen lähempiä ja varmempia tietoja asiassa, tahdon täten ilmoittaa, että Kenraalikuvernöörin Kansliasta 
+          annettujen tietojen mukaan otetaan Suomen kansalaisia ainoastaan Kasanin kaupungissa olevaan jalkaväki-sotakouluun sekä Twerin ja Jelisavetgradin kaupungeissa oleviin ratsuväki-
+          sotakouluihin, ilman sisäänpääsytutkintoa ja ainoastaan niitä Suomen kansalaisia, jotka ovat suorittaneet kauppakorkeakoulun, reali- tahi klassillisenlyseon kurssin, eivätkä ole 17 vuotta 
+          nuorempia eikä 28 vuotta vanhempia. Pyrkijän jonka tulee osata venäjänkieltä siihen määrin, että hän voi seurata opetusta, on jätettävä hakemuksensa, läänin Kuvernöörin kautta, sen koulun 
+          johtajalle, johon hän aikoo pyrkiä, ja on tähän hakemukseen liitettävä seuraavat asiakirjat: 1) papintodistus; 2) sotilaslääkärin tahi valtion taikka yleisessä palveluksessa olevan 
+          lääkärin todistus siitä että hakija on kelpaava sotapalvelukseen; 3) läänin Kuvernöörin todistus siitä ettei hakija ole tuomittu rikoksesta, kuin myöskin että hän muuten on luotettava 
+          henkilö; sekä 4) kuolutodistus (alkuperäinen), kuin myöskin jäljennökset tästä todistuksesta venäjänkielellä.</p>
+        <p>Matkan siihen kaupunkiin, jossa sotakoulu sijaitsee tulee pyrkijän kustantaa itse, jota vastoin ylläpito koulussa (kuten asunto, ruoka, vaatteet, kirjat y.m.) on vapaa. Hakemukset ovat 
+          jätettävät ennen 20 p. Syysk. vanhaa lukua.</p>
+        <p>Hämeenlinnassa, Lääninkansliassa, Syyskuun 9 päivänä 1914.</p>
+        <p className="signature">R. Spåre.</p>
+        <p className="signature">J. Schurigin.</p>
+      </Article>
+
+      <div className="interTitle">19.9.1914</div>
+      <Article titleText="Lasten mailmasta.">
+        <h5>Pakinaa.</h5>
+        <p>Kioskit owat jo wiikkoja sitten sulkeneet luukkunsa, ulkoilmakauppa on seisauksissa ja seisauksissa näkyy kauppapuodeissakin olewan. Mutta lapsimaailmassa on kysyntä yhä kowempi ja 
+          liikewaihto wallan pelottawa. Siellä on ostajia nyt entistä runsaammin kun herraswäkien Tuulikit, Jormat ja Tapiot taas owat pitkän ja haikean eron jälkeen palanneet kaupunkiin. Sotaa 
+          ei ole mailla, halmeilla, rahaa on kuin „roskaa” ja kaikki kauppatiet kaukaiseen itään owat awoinna. Kauppa käy kuin siimaa.</p>
+        <p>Istuin penkillä laiwarannassa ja katselin miten satamapawiljongissa liike luisti. Pitkällä penkillä oli suuri jono kellastuneita waahteranlehtiä ja niillä santaa, isompia ja pienempiä 
+          kiwiä, ruohoja, tikkuja y. m. y. m. Myyjiä oli kolme, ostajia kymmenkunta.</p>
+        <p>Tuntuu, mietin itsekseni, kuin he sittenkin ostaisiwat sodan waralle, sillä kukaan ei syö, kaikki waan ostawat. Muuan isompi punatukkainen tyttö toimittaa touhukkaasti wanhanihmisen 
+          äänellä:</p>
+        <p>- Saisko wientelin tohweeta, sitä kahren markan. Mutta antakaa parempaa kuin mennäkerralla. Kaltiskakin sano, että se oli pelkkää sumppia. Ja kilon nisujauhoja, ja puoli kiloa sokuria 
+          ja wiirelläkolmatta pennillä korppuja...</p>
+        <p>- Taitinko minä neljällätoista wiilellä pennillä puuloo, pyytää nöyrästi pieni pellawapäinen ressukka.</p>
+        <p>- Olkaa siinä, kiwahtaa myyjä. Kuka tässä kaikille - eikä meillä puuroa ole!</p>
+        <p>- Ompat! tiukkaa pienin ja itku pakkaa kurkkuun.</p>
+        <p>- Mutta ei o!</p>
+        <p>- Ompat! ja nyt on jo leikki kaukana.</p>
+        <p>- Tässä on, sanoo pienin myyjä, jonka on tullut sääli, ja antaa lehdellisen sahajauhoja.</p>
+        <p>- Minä ostan kuolaimet ja waljaat ja kanuunan, sanoo pieni tanakka miehenalku remseesti. Toss' on rahat!</p>
+        <p>- Wille sinä, anna pois! Tuo paperirahaa, ei riewut kelpaa!</p>
+        <p>Ja Wille hakee torilta, löytää wanhan lisälehden ja hymyilee kuin miljonääri.</p>
+        <p>- Antakaa amerikanläskiä ja silliä mutta antakaa suolawettä kanssa sillin mukana, että saa perunaa topata.</p>
+        <p>- Ja minulle karamelliä!</p>
+        <p>- Ja minulle!</p>
+        <p>- Ja minulle!</p>
+        <p>Yhtäkkiä owat kaikki unohtaneet äidilliset ja isälliset osansa ja pyytäwät nyt niin hartaan luottawaisina karamelliä. He tuijottawat myyjiin henkeänsä pidätellen, nähden 
+          mielikuwituksessaan jo suuren kasan karamelliä ja tuntien kielellään makean maun. On hetken hiljaista. Sitten sanoo isompi myyjä itkunsekaisella äänellä:</p>
+        <p>- Ei meillä ole karamelliä.</p>
+        <p>- Ompat! tiuskasee pieni pellawapää.</p>
+        <p>- Mutta ei o! toistaa myyjä wieläkin särkyneemmällä äänellä.</p>
+        <p>- Ompat! — ja täälläkin yritetään itkua.</p>
+        <p>- Onhan Reetrikssonnilla ja Kutsterilla ja Kareenillakin ja on, ja on, waikka — — — kellä wakuuttaa punatukkainen.</p>
+        <p>Näyttää uhkaawalta, liikkeen perustukset tuntuwat halkeilewan. Silloin keksii se, joka äsken oli pikkutytölle puuroakin toimittanut, pelastawan keinon:</p>
+        <p>- Ei ole nyt karamelliä, mutta loppuwiikosta tulee. On tilattu jo.</p>
+        <p>Hän oli keksinyt tosikauppiaallisen keinon ja asema oli pelastettu. Teki mieleni mennä ja suudella tuota pientä nykeröistä nenää ja wiisaaita siniharmaita silmiä. — Kauppa jatkui 
+          ennallaan, oltiin taas isiä ja äitiä ja touhuttiin kowasti. Minäkin muistin isälliset welwollisuuteni ja aloin hymyillen waloisille muistoilleni käwellä kotia kohti. Korwiini kaikui 
+          wielä:</p>
+        <p>- Taitko pennillä pannukakkua!</p>
+        <p>Se oli se pieni pellawapää.</p>
+        <p className="signature">Samuli.</p>
+      </Article>
+
+      <div className="interTitle">22.9.1914</div>
+      <Article titleText="Hugo Standertskjöld 70-vuotias.">
+        <p>Tänään täyttää Karlbergin kartanon omistaja, ewersti Robert Standertskjöld 70 wuotta. Ewersti S. on synt. Wanantaan kartanossa oman tietonsa mukaan 22/9 44 ja toisten tietojen mukaan 
+          kahta päiwää myöhemmin. Hänen wanhempansa oliwat aliluutnantti Johan S. ja Margareta Kristina won Kraemer. Käytyään Haminan kadettikoulun tuli S. aliluutnantiksi 1864, palweli Tulan 
+          kiwääritehtaassa, kohosi luutnantiksi 1869, alikapteeniksi 1874, toimi sen jälkeen Ižewskin kiwääritehtaassa y. m., eroten palweluksesta ewerstinä 1884.</p>
+        <p>Toimintansa kautta Karlbergin kartanossa on ewersti Standertskjöld tullut tunnetuksi ympäri maatamme, wieläpä Suomen rajojen ulkopuolellakin. Ostettuaan Karlbergin ja Katajiston kartanot 
+          H:linnan maaseurakunnassa on ewersti S. muodostanut sinne kilometrin pituisen kauniin metsäpuiston - ainoa laatuaan maassamme - tekojärwineen, Aulangon näkötorneineen, 
+          kalanwiljelyslaitoksineen ja eläintarhoineen.  Karlbergin puisto on Nerwanderin sanojen mukaan „pieni, säihkywä jalokiwi luonnon kauneuden koristenauhassa, joka somentaa kauniin Hämeenmaan 
+          otsaa”. Miljoonaomaisuuttaan on hän käyttänyt kaikenlaisiin hyödyllisiin tarkoituksiin. Hra S. on osallisena useissa liike- ja teollisuusyrityksissä, Kaukaan tehtaan omistaja y. m.</p>
+        <p> Ewersti S. on tehnyt useita lahjoituksia maaseurakunnalle, Hattulan kunnalle y. m. sekä lukuisiin hywäntekewäisyystarkoituksiin, awustanut alustalaisiaan, rakentanut heille koulun ja 
+          kauniit asumukset sekä kaikin puolin waalinut heidän hywinwointiaan. Nuoria taiteilijoita on hän niinikään awustanut sekä tehnyt hiljaisuudessa monta kaunista tekoa, joita ei suuri 
+          yleisö ole saanut tietää. </p>
+        <p>Hämeenlinnan kaupungille on ewersti S. ollut hywä naapuri.</p>
+        <p>Karlbergin ihana puisto ja siinä olewa Aulanko mainioine näköaloineen on huomattawalla tawalla wilkastuttanut matkailijaliikettä kaupungissamme. Hänen puistonsa owat aina olleet suuren 
+          yleisön wapaasti käytettäwinä.</p>
+        <p>Niihin moniin onnitteluihin, joita ewersti Standertskjöldille hänen merkkipäiwänään lähetetään, pyydämme mekin kunnioittaen yhtyä.</p>
+      </Article>
+
+      <div className="interTitle">13.10.1914</div>
+      <Article titleText="Wielä pari sanaa kunnallissauna-kysymyksestämme.">
+        <p>Sen jälkeen kun wiikko takaperin käsittelimme kunnallissauna-kysymystämme, owat myös toiset täkäläiset lehdet asiaa walaisseet, „Hämetär”, julkaisemalla numerotietoja saunan 
+          kannattawaisuudesta, eli toisin sanoen sen huomattawista tappioista, ja „Hämeen Woima” asettuen kannattamaan saunan ostoa kaupungille.</p>
+        <p>Kun tietääksemme kysymys tulee lopullisesti ensi torstaisessa waltuuston kokouksessa ratkaistawaksi, tahdomme mekin puolestamme wielä palata asiaan, koska edellämainitut kirjotelmatkin 
+          niihin aihetta antawat.</p>
+        <p>„Hämettäressä” julkaistut, liikkeen isännöitsijän hra. J. T. Ranwall'in allekirjoittamat tilit osottawat saunaliikkeen tuottaneen tappiota: 1/12 1911 - 31/12 1912 Smk. 8027:07, 
+          w. 1913 Smk. 4658:75, m. 1914 1/10 asti Smk. 3501:65, ollen tähänastinen tappio siis Smk. 16,187:47, eli pyöreissä luwuin 5,400 mk. wuotta kohden. Päiwää kohti sowitettuna tietää tuo 
+          tappio sitä, että yhtiö (wastaisuudessa siis kaupunki) on saanut maksaa 15 mk. jokaiselta päiwältä, minkä kunnallissaunamme on käytännössä ollut.</p>
+        <p>Kun tilinumeroita katselee ja ottaa huomioon, että tulot itse saunasta owat tällä kolmiwuotiskaudella olleet yhteensä 29,524:75 (10,226.30 + 10,498:40 + 8,805:05) ja tappio 16,187:47, niin 
+          käsittää, tai woi ainakin aawistaa, että kaupungille käy mahdottomaksi, saada itsensä kannattawaksi liikettä, joka nytkin parhaimman mukaan hoidettuna on antanut tappiota noin 50 % 
+          kokonaistulostaan — mikä tietää sitä, että jokaisen saunassa käwijän olisi pitänyt maksaa ainakin puolta korkeampi käyntimaksu, ennenkuin on maksanut osalleen lankeawat kulut.</p>
+        <p>„Hämettären” kirjoittaja tuntuu kuitenkin olewan saunan tuloksiin hywin tyytywäinen ja lausuu, että on luultawaa, ettei tappio tältä wuodelta sen suuremmaksi nousekaan, että tappio 
+          nähtäwästi wuosi wuodelta wähenee ja niin ollen pitäisi tulojen riittämän menojen peittämiseen.</p>
+        <p>Onhan ymmärrettäwää, että rakkaasta ja kalliiksi käyneestä lapsesta aina toiwotaan mitä parhainta, mutta tällaisessa asiassa, jossa monet kymmenet tuhannet owat kysymyksessä, ei saa 
+          laskelmia rakentaa toiwomusten waraan. On pysyttäwä kylmän todellisuuden ja saawutettujen kokemuksien warassa. Ja ne puhuwat toista.</p>
+        <p>„Hämeen Voiman” kirjoittaja, joka nähtäwästi ei numerokielelle paljoakaan arwoa anna, on, kuten mainittu asettunut niinikään ostoa puoltamaan käsittääksemme kuitenkin aiwan toisilla 
+          perusteilla, kuin waltuusto. Hän katselee asiaa kokonaan kunnallissosialismin kannalta ja pitää luonnollisesti perin tärkeänä saunan ostoa kaupungille, koska sitenkin kunnallissosialismi 
+          askeleen edistyisi. Mutta perusteet, joiden nojalla lehti tulokseen tulee, owat keweät. Kun kerran näyttää, että tappio wuosittain on wähenemässä, niin ei kannata pelätä muutamia tuhansia 
+          markkoja, tuumii kirjoittaja. Onhan Helsingin kaupungin kunnallinen sähkölaitos osottanut mitä tuloksia kunnallisten liikkeiden alalla woidaan aikaan saada, huudahtaa hän sitten. 
+          Tällainen rinnastelu tuntuu kuitenkin naurettawalta - eikäpä liene kirjottajankaan huulilta hymy puuttunut mokomaa wertausta tehdessään. Siksi emme siihen tahdo sen enempää puuttuakaan.</p>
+        <p>Kirjotuksessa on kuitenkin esiintuotu yksi seikka, joka ansaitsee huomiota, ja josta kirjoittajan kanssa olemme yhtä mieltä. Nimittäin se, että kallishintaisemmat saunat tuottawat 
+          suurimmman tappion ja olisiwat siis ensi sijassa korjauksen tarpeessa. Joutukoonpa saunaa kuka tahansa hoitelemaan - ottakoon huomioon tämänkin seikan. Epäilemättä löytyisi paljon 
+          muitakin korjattawia kohtia, joiden awulla tappionwaara suuresti wähenisi, mutta sen kokonaan poistaminen nykyisen hankkeen pohjalla, on mielestämme enemmän kuin epäiltäwää.</p>
+        <p>Puolestamme olemme ennemmin jo nimenomaan lausuneet kannattawamme kaikkia sen tapaisia yleisiä yrityksiä, joista todellista tuloa saattaa olla, otettawaksi kaupungin haltuun ja asetumme 
+          niin ollen kylläkin kannattamaan kunnallissosialismia kaikissa järkewyyden rajoissa. Mutta kun on kysymys wain uusien menojen tuottamisesta jo ennenkin kukkuroilleen rasitetuille 
+          werowelwollisille, niin täytyy asettua sitä wastustamaan, koska sentapainen asioiden järjestely kostaa itsensä.</p>
+        <p>Katselipa asiaa miltä kannalta tahansa - mitään pakottawaa ja järkewältä näyttäwää syytä emme löydä saunan osto-hankkeen tueksi, mutta sitä wastaanpuhuwia sen sijaan kylläkin, 
+          ennenkaikkia ne tuhannet, joita kysymys myönteisesti ratkaistuna wuosittain kaupungilta waatii. Monet kaupunkilaiset, jotka meille nimenomaan owat käyneet huolensa hankkeen johdosta 
+          kantamassa, toiwowat wiimeiseen asti, että waltuusto wielä ajattelisi asiaa kaikinpuolisesti, eikä saattaisi kaupunkia tämänkin turhan menojen rasittamaksi nyt, kun monet muut suuritöiset 
+          hommat tulewat muutenkin kaupungin waroja kysymään. Jos rasitukset kaikin tawoin lisääntywät käy pienen yhteiskuntamme yhä waikeammaksi luowia kehityksen tiellä - saattaapa se käydä sille 
+          suorastaan turmiolliseksikin.</p>
+        <p>Waikka luulemmekin, että äänemme ei asian määrääjien korwissa paljoakaan merkitse, olemme kuitenkin tahtoneet mielipiteemme tästä kysymyksestä ajoissa esiintuoda. Mielestämme on 
+          kaupungin asioiden hoidossa jo ennemmin tehty niin paljon erehdyksiä, ettei niiden sarjaa uusilla pitäisi jatkaa.</p>
+      </Article>
+
+      <div className="interTitle">17.10.1914</div>
+      <Article titleText="Julkeata vääristelyä.">
+        <p>Niiden parin kirjotuksen johdosta, jotka kuuluisaa saunakysymystämme selwitelläksemme olemme julkaisseet, on Hämetär ja Hämeen Woima wiime numerossaan tuoneet esiin seikkoja, joita ei 
+          waitiollen woi siwuuttaa, ja jotka mielestämme osottawat, warsinkin Hämettäreen nähden, sanomalehden arwostelukywyn ja totuuden rakkauden painuneen luwallisuuden rajojen alipuolelle - 
+          puhumattakaan ilkeistä salawiittauksista, joita „Hämettären” toimittaja teki wielä waltuustossakin ja jotka löyhkääwät suorastaan mädältä.</p>
+        <p>Häikäilemättä julistaa „Hämetär” oikein allewiitaten, että nyt on kaupungilla tilaisuus, saada 1,500 markalla (entisen 35,000 mk. lisäksi), 90,000 mk. arwoinen saunalaitos, mutta jättää 
+          wisusti mainitsematta, että kauppaa seuraa myös 50,000 mk. welkataakka ja että tuo 88,000 mk. omaisuus tulee siis kaupungille maksamaan 92,000 mk. - omaisuus, jonka sen omistaja on 
+          halukas myymään lähes puolesta arwostaan, ja jota niin ollen ei saattane muussa arwossa pitää. Sen jälleen wäittää lehti täysissä tosissaan, että saunan tuottama tappio on 4,500 mk., 
+          waikka sen itse julkaisemat tilinumerot osottawat tähänastisen tappion 16,000 mk. Onpa todella julkeata! Ja lisäksi puhuu Hämetär wielä „olemattomista awustuksista”, waikka kirjoittaja 
+          hywin tietää, että sauna on saanut kaupungilta raha-awustusta, ilmaisen wuokratontin ja käytettäwän weden melkein ilmaiseksi. (10 p. kuutiometriltä, kun muut maksawat 40 penniä - mikä 
+          sekin tietää kaupungille suoranaista tappiota.) Täytyy todellakin olla otsaa kirjoittajalla, joka tämän kaiken tietäen woi mokomalla tawalla tosiasioita wäärennellä. Mutta paras 
+          wiimeiseksi. Wääristelyjensä Kruunuksi tuo Hämetär farisealaisella tawalla esiin walituksensa siitä, että Hämeen Sanomat ei tässsäkään kysymyksessä tahdo asettua yhteisedun kannalle ja 
+          heittää wiittauksen, että meidän kantamme määrääjänä olisi „jonkun oman erityisen lempilapsen yksityisetu”!!! Luettuaan ja wielä julkisessa kokouksessa kuultuaan tällaista törkyä, jää 
+          todellakin hämmästyksestä ihmettelemään - ja epäilemään onko laisinkaan kysymys täysijärkisestä kirjoittajasta. Kun me olemme juuri osoittaneet saunan kannattamattomuuden, wastustaneet 
+          sen ostoa juuri sillä perusteella - kuinka woisimmekaan „lempilapsellemme” moista „etua” toiwoa? Missä järki ja johdonmukainen ajattelu, hywä Hämetär? Wai onko wiittaus käsitettäwä 
+          osoituksena siitä, että teikäläisellä taholla on opittu etupäässä siltä kannalta asioita ajamaan? Walitamme, jos niin on, waikkakaan kaiken sen päälle mitä olemme kuulleet ja mitä 
+          edelläkin on osotettu, emme sitä niinkään suuresti ihmettele. Mätä synnyttää aina uutta mätää.</p>
+        <p>„Hämeen Woima” nähtäwästi on jossakin wisseissä suhteissa Hämettären tietojen waikutuksen alainen, sillä muuten ei ole ymmärrettäwissä se samantapainen salawiittaus minkä sekin heittää 
+          huomauttamalla, että meillä ehkä olisi „kiikarissa joku yksityinen, joka halusta ostaisi saunan halwalla hinnalla”, tai että me surkuttelisimme osakkeenomistajia, jotka tulisiwat 
+          menettämään tuon 15,000 mk. Edellisestä jo selwiää, ja woimmehan sen wieläkin wakuuttaa, että kumpikaan seikka ei hiwenenkään wertaa ole kantaamme waikuttanut; jos niin olisi, niin 
+          olisimme samaa mieltä kuin muutkin lehdet, sillä siten ajaisimme jossakin määrin myös yksityisten etuja. Mutta kun silmämääränämme on yksinomaan yhteisetu, kaupungin ja sen kaikkien 
+          weronmaksajain etu, emme ole woineet antaa minkään muun seikan itseemme waikuttaa. Jos Hämeen Woima olisi asioiden tasalla, jos se tietäisi nykyisen tilanteen syyt ja käsittäisi 
+          seuraukset, luulemme että sekin olisi yhtä mieltä kanssamme - ellei umpimähkäinen kunnallissosialismin ihailu sillä taholla ole ylipuolella kaiken arwostelewan harkinnan.</p>
+        <p>Olemme wielä tahtoneet palata tähän sitkeään kysymykseen huomauttaaksemme miten huonoilla aseilla kysymystä täytyy puoltaa; jo tämä seikka on omiaan osottamaan, että kysymys 
+          kokonaisuudessaan täytyy olla myös huono. Hämettären ja Hämeen Woiman wakuutteluista huolimatta luulemme, että kysymys on kaupunkilaisten enemmistölle kyllä selwä, mutta päinwastaisesti 
+          kuin mitä he tahtowat uskotella.</p>
+        <h5>* * *</h5>
+        <p>Waltuusto on nyt kysymyksen lopullisesti ratkaissut ja, kuten otaksuimmekin, päättänyt ottaa saunan kaupungille. Nyt on siis kaupunki saanut 90,000 mkn omaisuuden 1,500 markalla! 
+          Edullinen kauppa siis! Mutta samalla on kaupunki lisännyt welkataakkaansa 53,500 markalla ja saanut hoiteisiinsa laitoksen, joka jatkuwasti tulee tätä weltataakkaa lisäämään.</p>
+        <p>Emme tahtoneet ennen asian päättämistä tuoda esille erästä seikkaa, joka mielestämme olisi waatinut, että kaupungin waltuusto sellaisenaan ei olisi ottanut asiata päättääkseen. On 
+          tiettyä, että useimmat waltuusmiehet owat osakkaita saunaa omistawassa yhtiössä ja owat siis olleet päättämässä asiasta omaksi edukseen tai wahingokseen. Waikkakaan laki ei olisi 
+          pakoittanut walitsemaan lisäwaltuusmiehiä asiata ratkaisemaan, olisi kuitenkin waltuuston arwolle paremmin sopinut antaa asia sellaisten henkilöiden päätettäwäksi, jotka eiwät ole 
+          minkäänlaisessa suhteessä kysymykseen. Wain silloin olisi yksinomaan yleiset syyt päätökseen waikuttaneet.</p>
+        <p>Emme ole myöskään ennen päättämistä tahtoneet esiin tuoda sitä uhkaa, minkä monen kaupunkilaisen suusta olemme kuulleet, että jos waltuusto saunan ostaa, päätöksestä on walitettawa. 
+          Siihen on kylläkin jokainen weroa maksawa kaupunkilainen oikeutettu, ja kaikkeen siihen nähden mitä asiassa on tapahtunut, olisi ehkä laillisia syitäkin. Mutta onhan toiselta puolen 
+          jokaisella yhteiskunnalla sellaiset hoitajansa kuin se itse tahtoo ja ansaitsee. Walitukset waltuustojen päätöksistä meillä owat ylen harwinaisia. Pianhan nähdään pitäwätkö kaupunkilaiset 
+          yhteiseduistaan niin paljon huolta, että walitukseen ryhtywät; puolestamme emme tahdo siihen kehoittaa, waikka olisikin mielenkiintoista nähdä mihin saakka jääwillisyys tällaisissa 
+          tapauksissa ulottuu.</p>
+        <p>Kun ratkaisu nyt on tehty, jää kaupungin asioiden huoltajille suuri tehtäwä saada tämä uusi kunnallislaitos itsensä kannattawaan kuntoon, kuten on wakuutettu woitawan tehdä. Warteen 
+          otettawia huomautuksia siinä suhteessa on julkisuudessakin esiintuotu. Mutta pelkäämme, että henkilöt, joiden käsiin asian järjestäminen joutuu, tuskin jaksawat niin kowin kourin siihen 
+          käydä, että toiwottuun tulokseen päästäisi. Mutta — onhan kaupungilla waroja uhrauksiinkin — onhan kaupungille pelastettu tärkeä laitos, jota wailla kaupungin terweyshoito olisi saattanut 
+          joutua waaranalaiseksi (!)</p>
+      </Article>
 
       <br></br>
       <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>

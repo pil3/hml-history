@@ -1023,7 +1023,7 @@ const War1914Page = () => {
         <p>Keisari Wilhelmin wastaus kuului seuraawasti:</p>
         <p className="quotationStyle">„Wedotessasi minun ystäwyyteeni ja pyytäessäsi minun apuani, olen minä ryhtynyt wälitystoimintaan Sinun ja Itäwalta-Unkarin hallituksen hywäksi. Sillä aikaa 
           kun tämä toiminta oli wireillä, owat Sinun joukkosi asetetut liikekannalle minun liittolaistani Itäwalta-Unkaria wastaan, ja sen kautta, kuten jo olen Sinulle ilmoittanut, minun 
-          wälitykseni on käynyt melkein mahdottomaksi. Tästä huolimatta olen minä jatkanut wälitystäni. Sittemmin sain minä luotettawia tietoja wakawista sotawalmistuksista myöskin minun itäisella 
+          wälitykseni on käynyt melkein mahdottomaksi. Tästä huolimatta olen minä jatkanut wälitystäni. Sittemmin sain minä luotettawia tietoja wakawista sotawalmistuksista myöskin minun itäisellä 
           rajallani. Wastuu waltakuntani turwallisuudesta pakottaa minut ryhtymään puolustawiin wastatoimenpiteisiin. Pyrkimyksissäni maailmanrauhan säilyttämiseksi olen minä mennyt mahdollisuuden 
           äärimmäiselle rajalle. Minä en ole wastuunalainen siitä pahasta, joka nyt uhkaa koko siwistynyttä maailmaa. Wielä tällä hetkellä woit Sinä torjua sen. Mikään ei uhkaa Wenäjän waltaa ja 
           kunniaa, ja Wenäjä olisi woinut sangen hywin odottaa minun wälitykseni tulosta. Se ystäwyys Sinuun ja Sinun waltakuntaasi, jonka isoisäni kuolinwuoteellaan jätti minulle perinnöksi, on 
