@@ -810,6 +810,114 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
+      <Divider className="dividerStyle" />
+
+      <Article titleText="3.11.1914">
+        <h5>Raittiuskysymys.</h5>
+        <h5>Waltuusmiesten lukumäärä.</h5>
+        <h5>Puolueellisuutta.</h5>
+        <h5>Wapaawiikko.</h5>
+        <SubDivider className="dividerStyle" />
+        <p>Wiime päiwinä on sanomalehdet sisältäneet raittiuswäelle mielenkiintoisia uutisia.</p>
+        <p>Suurta iloa ja tyytywäisyyttä on Wenäjän kansan keskuudessa herättänyt tieto siitä, että H. M. Keisari on päättänyt ainaiseksi kieltää wiinan myynnin Wenäjän waltion myymälöistä. Waikka 
+          tämä uutinen koskeekin lähinnä Wenäjän kansaa, niin on sen sisältämä tieto omansa lämmittämään myöskin meidän kansamme ja koko maailman raittiutta rakastawien kansalaisten sydämiä. Wenäjän 
+          kansan sisäisessä, siwistyksellisessä, taloudellisessa, jopa waltiollisessakin elämässä tietää mainittu toimenpide warmasti uuden entistä terweemmän ja kauniimman aikakauden alkamista.</p>
+        <p>Meidän kansamme toiwolle, päästä kokonaan wapaaksi wäkijuomista, antaa ylempänä mainittu uutinen uutta wirikettä. Tätä toiwoa lisää toinen uutinen, jossa kerrotaan maamme 
+          ministeriwaltiosihteerin haastattelusta. Ministeriwaltiosihteeri on näet haastattelijoilleen lausunut, ettei palautuminen siihen tilanteeseen, joka maassamme wäkijuomakauppaan nähden 
+          wallitsi ennen sotaa, woi enää tulla kysymykseen, waan että nykyään woimassa olewat rajoitusmääräykset siihen nähden pysytetään sodan jälkeenkin, siksi kun lopullinen ratkaisu wastaisen 
+          waralle ehditään aikaan saada. Kieltolain käsittely ja ratkaisu ei näet sodan aikana woinut, ministeriwaltiosihteerin mielestä, tulla kysymykseen, mutta lausui hän, etteiwät aineelliset 
+          waikeudet woi olla esteenä sen aikaansaamiselle sodan jälkeen ja että kauppasopimuksista ulkomaiden kanssa tuskin myöskään on esteitä odotettawissa. Niinikään luuli ministeriwaltiosihteeri 
+          kansammme kieltolakipyrkimyksien saawuttawan suurempaa myötätuntoa hallituspiireissä, koska monopooliwiinakauppaa ei enää sodan jälkeen Wenäjällä awata. Puolestaan antoi 
+          ministeriwaltiosihteeri haastattelijoiden lisäksi ymmärtää, että hän on suosiollinen kieltolakipyrkimykselle.</p>
+        <p>Näin ollen on muutamien henkilöiden keskuudessa, joilla on maamme raittiusliikkeessä wastuunalainen asema, syntynyt ajatus, että olisi adressilla, jonka alle olisi saatawa mahdollisimman 
+          paljon nimiä, käännyttäwä Hallitsijan puoleen asiassa. Toiweita näyttäisi olewan sen perille saapumisesta. Jos ajatus herättää wastakaikua raittiuswäen keskuudessa, olisi ryhdyttäwä 
+          mahdollisimman pian ja kaikella tarmolla tositoimiin. Nyt on todellakin sowelias aika.</p>
+        <p>Nämä uutiset wirittäwät kansamme keskuudessa uutta toiwoa kieltolain aikaansaamisesta ja samalla ne kehottawat raittiuswäkeä ryhtymään uusilla woimilla ja uudella innolla sen 
+          aikaansaamiseksi toimimaan.</p>
+        <h5>* * *</h5>
+        <p>Kewäällä päätti kaupunginwaltuusto lisätä waltuusmiesten lukumäärää ja kehoitti kaupungin maistraattia ryhtymään asianmukaisiin toimenpiteisiin. Mikäli tiedän, ei maistraatti ole wielä 
+          tikkua ristiin pannut, waikka wuosi lähenee loppuaan. Kehoitan siis maistraattia kutsumaan kokoon raastuwankokouksen asiasta päättämään, että tämä täydennyswaali woitaistin suorittaa 
+          yht'aikaa joulukuussa toimitettawien waltuusmieswaalien kanssa. Aika tosin on lyhyt, mutta pantakoon asialle wihdoinkin kiirettä perään!</p>
+        <h5>* * *</h5>
+        <p>Äskettäin walittiin kaupungin edustaja kaupunkien wäliseen neuwottelukokoukseen haawoittuneiden ja sairaiden sotilasten hoitoa warten. Edustajaksi walittiin waltuuston puheenjohtaja ja 
+          waralle eräs kauppias. Tässäkin asiassa piti puoluenäkökantain pujahtaa esille. Wai mitä tarkoitti se, että waltuuston warapuheenjohtajaa ei walittu waraedustajaksi?</p>
+        <p>Aina ja joka paikassa tahtoo puoluekysymys tulla etualalle, kun on kysymyksessä kaupungin edustus. Muualla tällaisesta nurkkakuntalaisuudesta aletaan jo päästä. Päästäänköhän 
+          Hämeenlinnassa milloinkaan?</p>
+        <h5>* * *</h5>
+        <p>Palmeluswäki wiettää paraillaan wapaawiikkoaan. Kukapa ei sydämestään soisi näille nuorille tätä lyhyttä lepoa! Ja kukapa ei soisi heille myöskin iloa ja huwitusta tämän wiikon ajalla! 
+          Luonto ja nuoruus waatiwat osansa palweluswäeltäkin.</p>
+        <p>Mutta wapaawiikon huwittelut eiwät saa ilmetä nurkkatanssien, juoma- y. m. paheiden ja tuhlauksen muodossa. Edistysseurat, huoneitten omistajat, järjestyksenwalwojat ja muut woiwat tässä 
+          suhteessa waikuttaa paljon wapaawiikon oikealla tawalla wiettämisen hywäksi. Tietäkööt he kukin kohdaltaan welwollisuutensa ja toimikoot sen mukaan.</p>
+        <p>Kertyneet säästöt kuntain säästöpankkeihin! Ajan tawaton wakawuus waikuttakoon hillitsewästi huwittelussa ja lepoajan wietossa! Katse tulewaisuuteen! Mahdollisuutta omalle kodille, jota 
+          warmaan kukin hiljaisesti mielessään unelmoi! Elkää antako muoruutenne juosta kuin wesi hietaan! Pitkä elämäntaiwal on useimmilla edessä, ja kenpä ei towoisi itsellensä parempaa 
+          tulewaisuutta kuin mitä menneisyys ja nykyisyys owat olleet!</p>
+        <SubDivider className="dividerStyle" />
+        <p className="signature">Tiitus.</p>
+      </Article>
+
+      <Divider className="dividerStyle" />
+
+      <Article titleText="24.11.1914">
+        <h5>Lehteä lewittämään.</h5>
+        <h5>Joululahjat.</h5>
+        <h5>Miljoona-arpajaiset.</h5>
+        <h5>Waltuusmieswaalit.</h5>
+        <SubDivider className="dividerStyle" />
+        <p>„Hämeen Sanomain” kunnioitettawille asiamiehille teen täten sywän kiitollisen kumarrukseni siitä, mitä he owat tämän lehden lewittämiseksi kuluwan wuoden kuluessa tehneet. Heidän 
+          toimintansa waikutuksesta on „Hämeen Sanomain” tänä wuonna lewinnyt entistä suuremmalle lukijakunnalle. Mutta wielä se ei ole warsinaisella lewiämisalueellaan päässyt jokaiseen kotiin, 
+          joista sawu katolle tupruaa. Se kuitenkin on päämäärä, johon on pyrittäwä mahdollisuuden mukaan.</p>
+        <p>Tätä wuotta on jälellä enää wain wajaa kuukausi. Sanomalehden asiamiesten on siis aika ryhtyä hetimiten „syyskylwöä” tekemään s. o. wanhoja tilauksia uudistamaan ja uusia keräämään. 
+          Sitä mukaa kuin kukin asiamies tapaa henkilöitä, jotka ennen owat hänen kauttansa „Hämeen Sanomat” tilanneet, on hänen muistettawa ottaa puheeksi tilauksen uudistaminen ja merkitä tilaus, 
+          tietysti asianomaisen suostumuksella, luetteloonsa. Sillä tawoin saa asiamies wanhat tilaukset ilman erityistä waiwaa uudistetuiksi. Ne tilaukset, joita hän ei ole onnistunut saamaan 
+          tällä tawoin uudelleen hankituksi, täytyy käydä tilaajan kotoa hakemassa. Pitkinä syksypuhteina on siihenkin tilaisuutta ja samoilla retkillä on sopiwa poiketa niissäkin kodeissa, joihin 
+          „Hämeen Sanomia” ei wielä ennen ole tilattu. Huomautan tästä nyt jo että kaikki tulisi ajoissa toimitetuiksi. Sillä maamiehet, joita „Hämeen Sanomain” asiamiehet suurimmaksi osaksi owat, 
+          tietäwät, että ajallaan tehty syyskylwö pettää paljon harwemmin kuin myöhäinen.</p>
+        <p>Muuten luulen että asiamiesten on tänä wuonna helpompi saada tilaukset uudistetuksi, kuin monasti ennen. Seuraahan jokainen wähänkin walweutunut kansalainen nykyään jännityksellä koko 
+          maailman suursotaa, maailmanhistoriallisia tapauksia, joiden wertaista ennen ei ole kuultu eikä nähty. Owathan sotatapahtumat kehittyneet ja kehittymäisillään ratkaisuasteeseen ja 
+          koko maailma seuraa jännitetyin mielin niitä ja odottaa kiihkeästi, mitä tuleman pitää, minkälainen ratkaisu on olewa. Ei liene meidänkään kansamme keskuudessa ainakaan monta sellaista 
+          kansalaista, joka olisi wälinpitämätön noiden maailmaa myllertäwien tapausten suhteen, joiden mainingit tuntuwat monella tawalla myöskin meidän isänmaassamme ja woiwat käydä hywinkin 
+          merkityksellisiksi. Sanomalehden kautta woidaan sotatapahtumia ja niiden seurauksia helpoimmin ja jatkuwasti seurata. „Hämeen Sanomat” koettaa edelleen, mikäli tila ja tilaisuus suinkin 
+          sallii, tutustuttaa lukijoitansa sodan päätapahtumiin.</p>
+        <p>Tilaukset, niinhywin uudet kuin wanhatkin, tulisi asiamiehen heti lähettää konttoriin sitä mukaa kun kukin niitä saa, ennätettäisiin uuteen wuoteen mennessä jotakin järjestää ja 
+          osattaisiin määrätä painoksen suuruus. Jos painos loppuu kesken, niin tilaustaan wiiwytteleet jääwät tietysti ensiksi ilman.</p>
+        <p>„Syyskylwön” tekoon siis jokainen „Hämeen Sanomain” asiamies innolla ja toiworikkain mielin, toiwossa, että lehti saa häiriöttä jatkaa toimintaansa.</p>
+        <h5>* * *</h5>
+        <p>Kuten tunnettua, on osalla kaupunkimme kauppiaista ollut tapana jakaa ostajilleen n. k. joululahjoja. Tahtomatta nyt millään tawoin puhua tämän tawan wanhanaikaisuudesta j. n. e. 
+          ystäwällisimmin huomauttaisin, että eiköhän tänä wuonna woitaisi tästä tawasta luopua ja siihen aijotut warat käyttää jollakin tawoin wallitsewan puutteen ja kurjuuden poistamiseksi.</p>
+        <p>Tarpeita olisi paljonkin. Eräänä sellaisena esittäisin waroja annettawaksi työttömyyskomitealle, joka niillä woisi teettää waatteita, esim. warattomille kansakoulujen oppilaille, 
+          jalkineita puutteenalaisten lapsille, tai muulla tawalla ne käyttää suurimman awun tarpeessa olewille.</p>
+        <p>Mielestäni olisi sangen wähäinen asia saada kokoon esim. 1,000-2,000 mk. Ja kun ajattelemme kuinka paljon iloa niillä jo woitaisiin saada, luulisin jokaisen ostajan mielellään luopuwan 
+          tuosta pikkulahjastaan joka parempiosaisen taloudessa tuskin mitään merkitsee.</p>
+        <p>Nykyaika waatii jaloa uhrautumista kaikilta. Näin wähäisestä uhrautumisesta ei pitäisi kenenkään luopua.</p>
+        <p>Toiwoisin siis, että kaupunkimme kauppiaat ensi tilassa kokoontuisiwat asiasta päättämään, sillä yksimielinen menettely olisi järjestelylle wälttämätön.</p>
+        <p>Olkoon wielä sanottu, että nykyinen aika olisi mielestäni erittäin sopiwa eri kansankerrosten wälillä wallitsewien luokkawastakohtien tasoittamiseksi. Ja sitä puolestaan edistäisi 
+          suuressa määrin kauppiaitten yllämainitunlainen menettely.</p>
+        <p>Toiwokaamme, että ensi jouluna, waikka rauha maasta olisikin poissa, ihmisillä kuitenkin olisi hywä tahto.</p>
+        <h5>* * *</h5>
+        <p>Miljoona-arpajaiset owat antaneet paljon puheenaihetta. Monen unelmat ja toiweet owat maahan romahtaneet. Toisille on onnetar herttaisesti hymyillyt, mutta suuri enemmistö on saanut 
+          iskun päin naamaansa. 40,000 mkn maatila meni ohi suun, samoin loisto-auto ja 10,000 mkn pankkitalletus. Niin kuka käski liikoja toiwomaan. Eräs Kerimäen ukko oli hänkin hankkinut 
+          miljoona-arpajaisten onnenlippuja wiisi kappaletta ja hänen mielessään — niinkuin niin monen muunkin — kimalteli oman maatilan pellot, metsät, pirtit ja saunat. Ja ukko myhäili elämän 
+          jännittäwäisyyttä.</p>
+        <p>Mutta kaupoilla eletään, ja niinpä äijämme myi arpalippunsa kauppiaalle pienenrahan puutteessa. Mutta joka luulee hänen noin wain umpimähkään onneaan käsistään heittäneen, erehtyy, sillä 
+          ukkeli waati kirjallisen kontrahdin siitä, että hänelle tulee langeta elinkautinen asumusoikeus ja luultawasti täysi syytinki siinä 40,000 markan koriassa talossa, joka miljoona-
+          arpajaisissa pelissä oli — jos nimittäin kauppias hänen lipullaan talon woittamaan sattuisi. Eikähän siinä suuriakaan mahdottomuuksta ollut, jonka wuoksi kirjalliset paperit tehtiin ja 
+          niin oli kauppa latusillaan.</p>
+        <p>Miljoona-arpajaisten pitäsi olla ohi, mutta niin ei kuitenkaan ole. Arpajaisissa sattui surullinen erehdys. Johonkin kirjekuoreen oli huomaamatta jäänyt muutama arpa. Tästä on nyt noussut 
+          suuri melu. Ilmiantoja on tehty pääkaupungin wiskaalille ja waaditaan uutta arpomista.</p>
+        <p>Paljon melua, mutta wähän willoja, tekee mieleni sanoa. Olkaamme tyytywäisiä osaamme, sillä olemmehan joka tapauksessa edistäneet hywää asiaa. Monen wähäwaraisen keuhkotautiin 
+          riutuneesta rinnasta kohoaa ehkä sinunkin puolesta, arw. woitotta jäänyt, hiljainen kiitollisuus.</p>
+        <h5>* * *</h5>
+        <p>Waltuusmieswaalit owat muissa kaupungeissa eloa ja wilkkautta aikaan saaneet. Täällä owat asiat toisin. Emme edes wielä tiedä, koska waalit toimitetaan, waikka marraskuu lähenee loppuaan. 
+          Muina wuosina on waltuusmieswaalit tawallisesti toimitettu jouluk. 4 tai 5 pnä. Nyt ei niitä enää nähtäwästi jouluk. alkupäiwinä woida toimittaa. Maistraatilla ei näy olewan kiireitä, 
+          mutta hywä olisi sentään, että waalit pidettäisiin ennen joulua.</p>
+        <p>Maistraatin lewäperäisyydestä on johtunut sekin, että waltuusmiesten lukua ei ennätetä enää wuoden alusta lisätä. Valtuusto teki jo kewäällä päätöksen waltuusmiesten luwun lisäämisestä, 
+          mutta maistraatti ei waan ole kutsunut raastuwankokousta asiasta päättämään.</p>
+        <p>Tämä maistraatin hitaus ja waltuuston päätöksen halweksiminen on herättänyt kuntalaisissa pahaa mieltä. Eikä suotta.</p>
+
+        <SubDivider className="dividerStyle" />
+        <p className="signature">Tiitus.</p>
+      </Article>
+
 
 
 

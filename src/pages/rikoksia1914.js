@@ -561,6 +561,36 @@ const Crimes1914Page = () => {
         <p>Pääkaupungin lehtien tiedot, että hra Idestam olisi wangittu kaksi eri kertaa, eiwät pidä paikkaansa.</p>
       </Article>
 
+      <div className="interTitle">3.12.1914</div>
+      <Article titleText="Asessori Svinhufvudin erottamisesta.">
+        <p>Suomen Wirallinen Lehti kirjoittaa:</p>
+        <p>Katsoen yleiseen huomioon, jota warmaankin on herättänyt se seikka, että Kenraalikuwernööri toukokuun 20 (kesäkuun 2) pnä 1904 annetun Armollisen asetuksen 6 artiklan nojalla, joka asetus 
+          säätää, että sotatilaan julistettuja paikkakuntia koskewain säännösten waikutus ulotetaan Suomenmaahan, on erottanut Lappeen tuomiokunan tuomarinwirasta Suomen Eduskunnan entisen 
+          puhemiehen Swinhufwudin hänen wirallisessa asiakirjassa osoittamansa awoimen ja julkean epäkuuliaisuuden wuoksi lakeja ja Korkeimman Wallan käskyä kohtaan, julkaisemme me alempana 
+          tätä asiaa koskewat alkuperäiset asiakirjat, jotka me olemme onnistuneet saamaan, ja jotka, ilman mitään lisäselwityksiä meidän taholtamme, antawat lukijoille luotettawan käsityksen 
+          mainitusta asiasta.</p>
+        <p>Kun osottautui wälttämättömäksi tutustua erääseen kihlakunnanoikeuden päätökseen, woidakseen tarkistaa, oliko muuan wankilanpäällikkö oikein laskenut erään wangin rangaistusajan, kääntyi 
+          Keisarillisen Suomen Senaatin Prokuraattori Lappeen tuomiokunnan tuomarin Swinhufwudin puoleen näinkuuluwalla kirjeellä: <span className="quote">Esiintulleesta syystä pyydän Herra Tuomaria 
+          ensi tilassa tänne lähettämään sellaisen wirallisesti oikeaksi todistetun lyhennysotteen Walkealan pitäjän käräjäkunnan kihlakunnanoikeuden istunnossa 11 päiwänä tammikuuta 1914 pidetystä 
+          pöytäkirjasta talollisenpoikaa Aleksej Julianoff Ossipoffia koskewassa jutussa, että siitä ilmenee kihlakunnanoikeuden jutussa silloin antama päätös</span>.</p>
+        <p>Wastaukseksi sanottuun kirjelmään lähetti tuomari Swinhufwud Prokuraattorin Toimituskunnalle seuraawan lausunnon:</p>
+        <p className="quote">Wirkakirjeessä tämän kuun 6 päiwältä on Prokuraattorinwiran haltija K. Kasanskij pyytänyt minua lähettämään hänelle lyhennysotteen Walkealan pitäjän käräjäkunnan 
+          Kihlakunnanoikeuden 11 päiwanä tammikuuta 1913 pitämästä pöytäkirjasta eräässä asiassa.<br />Koska kuitenkin Prokuraattorin wiran haltijaa K. Kasanskia Wenäjän Keisarikunnan kansalaisena 
+          ei ole woitu, wastoin säännöksiä 21 päiwänä elokuuta 1772 annetussa hallitusmuodossa ja sen 4. ja 10 §§:ssä sekä 21 päiwänä helmikuuta ja 3 päiwänä huhtikuuta 1789 annetun yhdistys ja 
+          wakuuskirjan 1 kohdassa, lain mukaisesti nimittää Keisarillisen Suomen Senaatin Prokuraattoriksi, waan hänen nimityksensä ilmeisesti on tapahtunut lain woimaa kaipaawan wenäläisen n.k. 
+          yhdenwertaisuuslain nojalla, ei häntä woida pitää laillisena prokuraattorina Suomessa. Siitä syystä en katso olewani oikeutettu lähettämään pyydettyä lyhennysotetta, josta täten saan 
+          Prokuraattorinwirastolle ilmoittaa.</p>
+      </Article>
+
+      <div className="interTitle">5.12.1914</div>
+      <Article titleText="Siperiaan karkoitettuja sanomalehtimiehiä.">
+        <p>Kun „Hämeen Woima” -lehden toimittajat H. Wälisalmi ja kansanedustaja W. Huhta 25 p. marraskuuta päästettiin pois Hämeenlinnan lääninwankilasta, jossa he oliwat kolmikuukautisella 
+          wankeudella suorittaneet heille kuwernöörin tuomitsemia sakkoja, pidätti poliisi heidät wankilan owella. Saman päiwän iltajunalla heidät passitettiin Pietariin, sieltä edelleen 
+          Siperiaan toimitettawiksi.</p>
+        <p>Heille oli jo wankilassa „Hels. S:n” tiedon mukaan annettu tieto siitä, että kenraalikuwernööri oli heidät „kiihottawan kirjallisen toimintansa” wuoksi yleiselle järjestykselle 
+          waarallisina henkilöinä, määrännyt karkoitettawiksi sodan ajaksi Tomskin kuwernementiin Siperiassa.</p>
+      </Article>
+
       <br></br>
       <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>
     </Layout>

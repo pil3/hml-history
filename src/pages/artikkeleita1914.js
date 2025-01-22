@@ -12,6 +12,7 @@ import QuoteStart from "../assets/quotation-start.svg"
 import QuoteEnd from "../assets/quotation-end.svg"
 
 import img1 from "../images/content/hasa1914/img-1.jpg"
+import img2 from "../images/content/hasa1914/img-2.jpg"
 
 const Articles1914Page = () => {
   return (
@@ -1069,6 +1070,145 @@ const Articles1914Page = () => {
           otettawia huomautuksia siinä suhteessa on julkisuudessakin esiintuotu. Mutta pelkäämme, että henkilöt, joiden käsiin asian järjestäminen joutuu, tuskin jaksawat niin kowin kourin siihen 
           käydä, että toiwottuun tulokseen päästäisi. Mutta — onhan kaupungilla waroja uhrauksiinkin — onhan kaupungille pelastettu tärkeä laitos, jota wailla kaupungin terweyshoito olisi saattanut 
           joutua waaranalaiseksi (!)</p>
+      </Article>
+
+      <div className="interTitle">22.10.1914</div>
+      <Article titleText="„Wiipurin tie.”">
+        <p>„Wiipurin tien” nimellä tunnetaan yleensä Hämeenlinnan tienoilla, ainakin sen itäpuolella, se waltamaantie, joka yllämainitusta kaupungista johtaa sen itäpuolella olewiin kuntiin. Tuon 
+          nimensä se on kait perinyt niiltä ajoilta, jolloin wielä kaikki pitkämatkainen liikenne suoritettiin hewosajopeleillä ja jolloin Hämeenlinna oli tärkeänä keskuspaikkana Etelä-Suomessa 
+          idästä länteen (Wiipurista Turkuun) käywän liikewäylän warrella.</p>
+        <p>Nykyään tuolla maantiellä ei enää ole läheskään niin laajaa merkitystä kauttakulkuliikenteelle kuin entisinä aikoina, ja nykyisten kulkuneuwojen wallitessa tuskin kenenkään päähän 
+          pälkähtäisi wakawissaan sitä tietä lähteä Hämeenlinnasta Wiipuriin ajaa körryyttämään. Mutta, waikka se ei nykyisin enää olekaan koko maan liikkeen waltasuonena, on se sittenkin — paitsi 
+          suurta paikallisliikennettä, — epäilemättä yksi Etelä-Hämeen tärkeimpiä ja enimmin käytettyjä maanteitä kauttakulkuwäylänäkin. Sen johdosta tässä muutama sana.</p>
+        <p>Suuri liike sanotulla tiellä johtuu etupäässä siitä, että niiden monien suurten, wäkirikkaiden ja warakkaiden pitäjien, jotka sijaitsewat Hämeenlinnan itäpuolella, täytyy sekä 
+          henkilöliikenteessä, että muussa liikenteessä ja tawarawaihdossa niin Hämeenlinnan kaupungin kuin rautatienkin kanssa ja kautta muulle maailmalle pyrkiessä, miltei yksinomaan käyttää 
+          sanottua maantietä. Kaikille muille suunnnille Hämeenlinnasta auttawat liikennettä aina jossain määrin rautatiet ja osittain wesitietkin, mutta itäänpäin lähipitäjiin pyrittäessä owat 
+          maantiekulkuneuwot ainoat. Tällainen liikenne, jossa kuormaa ja kaikenmoista muuta ajopeliä muodostaa läpeensä aamusta iltaan melkein solkenaan on tiellä, kysyy wahwaa pohjaa. Senpätähden 
+          sanottu maantie, warsinkin sillä osuudella, minkä se kulkee Hämeenlinnan maaseurakunnan ja Wanajan kunnan alueella, lähempänä Hämeenlinnan kaupunkia, jossa eri suunnilta johtawat 
+          liikesuonet kulkewat yhtyneinä, onkin niin tientekijöille kuin sen käyttäjillekin ollut alituisena surunlapsena. Ei käy kieltäminen, etteiwät tientekowelwolliset suuremmalta osalta olisi 
+          koettaneet pitää tietä kunnossa ja warmaankin siihen on uhrattu työwoimaa tuntuwasti enemmän kuin etäämpänä maaseudulla, mutta siitä huolimatta niinkin kuiwana kesänä, kuin wasta kulunut 
+          oli, jolloin maantiet yleensä oliwat mitä parhaimmassa ajokunnossa, pitkin kesää lähimmillä kilometreilla Hämeenlinnasta itäänpäin noin 10 sm. sywyiset warhot osoittiwat pyörän 
+          kulkusuuntaa - puhumatta kewäästä ja pitkästä syksystä, jollloin kärrynpyörät paikoin lähes kappoja myöten saawat uida kurassa ja sawiwellissä. Näin ollen, kun etäämpänä maaseudulla 
+          tawallinen kuorma wielä kulkisi warsin hywin, käy sen eteenpäin wieminen kaupungin lähistöllä mitä surkeimmaksi eläinrääkkäykseksi, eikä ole useimmiten edes silläkään hinnalla 
+          autettawissa.</p>
+        <p>Poistaakseen sanottua epäkohtaa, on Wanajan kunta ryhtynyt sellaisiin toimenpiteisiin, että kysymyksessä olewa maantie pahimmalta osaltaan laskettaisiin kiwisepeleillä. Parhaana 
+          todistuksena tehdyn esityksen tarpeellisuudesta on se, että hanke on saanut niin suuren kannatuksen, että 75 prosenttia eli kolmeneljäsosaa tällaisen tien johdosta syntywistä 
+          kustannuksista sillä noin 2,5 km. matkalla, minkä ehdotettu tieosa kulkisi Wanajan kunnan alueella, on jo osaksi tientekowelwollisten, osaksi yksityisten taholta, luwattu. Loppuosan, 
+          eli yhden neljänneksen kustannuksien suorittamisesta on Wanajan kunta päättänyt pyytää läänin kuwernööriä kutsumaan yhteiseen kuntakokoukseen niitä kuntia neuwottelemaan, jotka sanottua 
+          tietä suurimmalta osalta liikenteessään käyttäwät. Sitäpaitsi olisi yhteisen kuntakokouksen päätettäwä myöskin sen osuuden (noin 1 km.) tekemisestä, joka sanotusta tiestä kuuluu 
+          Hämeenlinnan maaseurakunnan alueelle. Epäilemättä maalaiskunnankin tientekowelwolliset ja ehkäpä yksityisetkin silläkin osalla ottawat wastatakseen suuremmasta osasta kustannuksia.</p>
+        <p>Lähemmin asiaa ajattelematta saattaa moni tätä silmäillessään pitää ehkä kohtuuttomana, että Wanajan kunta rohkenee tientekokustannuksiinsa wedota naapurikuntain osanottoon, koska 
+          kullekin kunnalle on omalla alueellaan siinä suhteessa jaettu welwollisuudet. Todellisuudessa ei se kuitenkaan sitä ole, sillä sitä tieosaa, josta tässä on kysymys, käyttäwät 
+          ulkokuntalaiset wähintäänkin yhtä paljon, mutta hywin luultawasti paljon enemmänkin kuin mitä wanajalaiset sitä paikallisajossaan käyttäwät, eikä kukaan kaiketi tahtone wäittääkään, 
+          että wanajalaiset millään tawalla wastaawassa määrässä kuluttaisiwat yhden enemmän kuin toisenkaan ulkokunnan maanteitä. - Joku tahtonee ehkä wielä sanoa, että jos esim. Wanajalla tai 
+          maaseurakunnallisella onkin suhteellisesti suuremmat tientekorasitukset on heillä myöskin sitä wastaawassa määrässä etuja kaupungin läheisyydestä, mutta tämäkään wertailu ei pidä 
+          paikkaansa. Myönnettäköön kernaasti, että kaupungin läheisyydestä on monta etuakin, mutta kyllä siitä on haittoja ja kustannuksiakin, joiden esittäminen tässä weisi liian pitkälle. 
+          Senwerran kuitenkin woinen mainita, että kiinteimistön omistaja jo kiinteistön ostohinnassa saa kaupungin lähistöllä kalliisti maksaa ne edut, joita tämän läheisyyden on edellytetty 
+          tuottawan.</p>
+        <p>Me maantien käyttäjät terwehdimme ilolla sitä alotetta, jonka Wanajan kunta on tehnyt ja toiwomme, ei ainoastaan sille suotuisaa ratkaisua, waan, että yleensä suuriliikkeisempiä teitä 
+          ryhdyttäisiin walmistamaan sepeliteiksi.</p>
+        <p className="signature">E. A.</p>
+      </Article>
+
+      <div className="interTitle">31.10.1914</div>
+      <Article titleText="Kaupungin isillä">
+        <p>oli wiime torstaina tuikeanlainen istunto. Tuntui siltä kuin edellisen saunakokouksen kuumuus ja löylyn heitto olisi wieläkin isien harteilla askarrelut. Ehkäpä oliwat omassa saunassaan 
+          ahkerasti tämän ajan kylpöneet.</p>
+        <p>Kansakouluntarkastajan palkankorotusanomus antoi alkupuhtia asioille. Anomuksessaan oli tarkastaja huomauttanut, miten hän palkkausasiassa on raatihuoneen talonmiehen, palosotilaitten 
+          y. m. pienipalkkaisten kanssa samalla tasolla ja että hän tahtoisi päästä edes lähemmäksi ulosottoapulaisen, wahtimestarien ja puutarhurin y. m. palkkausta.</p>
+        <p>Isä Alanko piti sopimattomana koko anomusta. Wiran awoimena ollessa hakijat tiesiwät, mitä siitä on palkkaa, joten olisi pitänyt silloin „antaa olla hakematta”. Jos ei wirka miellytä 
+          hoitajaa, niin julistettakoon se auki. Isä Sjöstedt oli toista mieltä ja kannatti anomusta, huomauttaen, miten nykyinen tarkastaja on innostunut tehtäwäänsä ja miten työt owat 
+          lisääntyneet esim. Myllymäen kansakoulun perustamisen jälkeen. Nykyisiin oloihin nähden hylkäsi waltuusto tällä kertaa anomuksen.</p>
+        <p>Teurastamon ja lihantarkastamon johtokunnan ehdotus ensi wuoden tulo ja menoarwioksi wasta rymyn aiheutti. Isä Tarjanne arwosteli ankarasti ehdotusta ja piti johtokunnan menettelyä 
+          erinäisten menoerien, m. m. eläinlääkärille maksettawasta 400 mk. korwauksesta ylityöstä oikeudettomana. Tätä hänen ei olisi pitänyt sanoa. Teurastamon johtokunnan jäsen isä Laurela 
+          antoi takaisin „isän hihasta”. Sanoi suurempienkin laitosten kustannusarwioita tehdyksi kuin mainitun „roskakasan” ja että sen laatijat owat yhtä pystywiä kustannusarwiota tekemään kuin 
+          herra Tarjanne. Jollei isä Tarjannetta tyydytä johtokunnan toimenpiteet wahtimestarin ja puhdistajien ottamisesta, niin menköön itse teurastamolle likakasoja poistamaan. Lupasi 
+          wastedeskin sellaisen miehen kuin isä Tarjanteen, joka aina hyökkää ihmisten kimppuun, kuten esim. saunakysymyksessä hra Kariston, niskastaan nakata. Sellaista ja paljon muuta ne isät 
+          toisilleen lateliwat. Puheenjohtajan täytyi isiä hillitä ja pyytää heitä harkitsemaan sanojaan.</p>
+        <p>Muut asiat, kuten alemman kansakoulun 3:sien luokkien liittäminen ylempään kansakouluun, uuden pakkahuoneen rakentaminen ja Kiistalan alueen järjestäminen meniwät rauhallisemmin.</p>
+        <p>H:linnan kirjansitomotehtaan wuokra-asia myös aiheutti lyhyen sananwaihdon. Rahatoimikamari ehdotti wuokraksi 500 mkaa ja wuokra-ajaksi 5 wuotta. Tehdas sijaitsee ent. Gaddin talossa. 
+          Hra Laurela piti wuokraa liian alhaisena ja piti moitittawana, että kaupunki suosii ketään yksityistä, olkoonpa se sitten waikka pastori Hernberg. Ehdotti wuokraksi 600 markkaa ja 
+          wuokra-ajaksi 1 wuotta. Wuokra päätettiin pysyttää ennallaan, mutta wuokra-ajaksi määrättiin 1 wuosi.</p>
+        <p>Linnanniemeläisille päätettiin antaa sähköwalo.</p>
+        <p>Eteisessä wielä teurastamosta innostuneet miehet sinutteliwat toisiaan ja lasketteliwat kohteliaisuuksia.</p>
+        <p>Siis tuima, kowin tuima, waikka tuloksista yleensä laiha kokous, lukuunottamatta Kiistalan asiaa.</p>
+        <p className="signature">Kuuntelija.</p>
+      </Article>
+      
+      <div className="interTitle">26.11.1914</div>
+      <Article titleText="Kiistalan alueen järjestely.">
+        <Image className="centeredImageStyle" src={img2} alt="Kiistala"/>
+        <p>Ylläolewa piirros esittää järjestelyehdotuksen Kiistalan aluetta warten. Waltuusmiehet puolestaan owat jo kerran wahwistaneet erään aikaisemmin aluetta warten laaditun 
+          asemakaawaehdotuksen, mutta senjälkeen on esiintynyt seikkoja, jotka owat pakottaneet muuttamaan laadittua ehdotusta. On saatu tietää, että rautatiehallitus on tehnyt suunnitelman 
+          Hämeenlinnan aseman ratapihan muuttamisesta ajanmukaisempaan kuntoon, ja kun tämän suunnitelman mukaan rautatien ulkolastausalue siirretään kaupungin puolelle, piirroksessa osotetulle 
+          paikalle, niin warsinkin tämä seikka on wälttämättömästi aiheuttanut muutoksen ennen wahwistettuun asemakaawaehdotukseen.</p>
+        <p>Nykyinen rautatien ulkolastaus paikka, ollen toisella puolella rataa, onkin kaupunkilaisille perin hankala, kun radan poikkikulussa rautatieliikkeen takia tuontuostakin tapahtuu 
+          keskeytystä, aiheuttaen tawarankuljettajille suurta hankaluutta ja ajan hukkaa. Kun siis kaupungin liikenne tuntuwasti hyötyy ulkolastauspaikan siirtämisestä kaupungin puolelle, niin 
+          on rautatiehallitus pyytänyt kaupunkia tätä siirtämistä edistämään ja sitä tarkoitusta warten rautatielle ilmaiseksi luowuttamaan tarwittawan noin 6,000 neliömetrin suuruisen 
+          maakappaleen. Tähän owat waltuusmiehet suostuneetkin m.m. sillä ehdolla, että rautatiehallitus puolestaan kaupungille ilmaiseksi luowuttaa asemalta uimahuoneelle johtawan - 
+          piirroksessa n:o 4 merkityn - tiemaan, jonka pinta-ala on noin 2,500 neliömetriä ja jonka omistaminen on kaupungille perin tärkeä. Rautatiehallitukselle luowutettu alue on piirroksen 
+          yläosassa oikealla pilkkuwiiwojen sisäpuolella olewa maa-alue.</p>
+        <p>Jos nyt lähemmin tarkastetaan asemakaawaehdotusta, niin huomaataan, että nykyisellä Itäisellä Wiertotiellä - piirroksessa n:o 10 - wastaisuudessa ei ole enää samaa merkitystä 
+          liikekatuna kuin mitä sillä nykyään on. Heti kanawan sillan luota kääntyy katu n:o 7 wiistoon asemarakennukselle päin ja kun rautatiehallitus on luwannut rakentaa kadun jatkon omalla 
+          alueellaan asemarakennukselle asti, niin on warsin luonnollista, että asemalle kohdistuwa liikenne käyttää tätä wiistokatua hywäkseen. Jos kadun n:o 3 jatkoksi woitaisiin saada tie sahan 
+          kohdalla olewalle radan poikkikäytäwälle, joka tie olisi wälttämättömän tarpeellinen, niin kadut n:o 7 ja 3 muodostaisiwat mukawimman kulkuyhteyden Sairioon sekä Karlbergiin. Samaten 
+          kääntyy Wiertotieltä katu n:o 12 wiistoon oikealle wastaiselle ulkolastauspaikalle. Tämän kadun warrelle rakennetaan myöskin uusi pakkahuone. Itäiselle Wiertotielle jääpi näin muodoin 
+          jälelle ainoastaan maalaisliikenne sekä rautatien tawaramakasiineihin kohdistuwa liikenne.</p>
+        <p>Kiistalan katujen leweyttä määriteltäessä on otettu huomioon kadun merkitys liikenteen wälittäjänä sekä muutenkin nykyaikaiset waatimukset. Niinpä kadut n:o 6 ja 10 tulewat 20 metriä 
+          leweiksi sekä sijoitetaan niihin puuistutuksia kummallekin puolelle katua. Kadut n:o 3 ja 12 owat 16 m. leweät; kadun n:o 4 leweyttä ei wielä ole woitu määrätä. Kun katujen n:o 1, 9, 14 
+          ja 11 toinen puoli aina pysyy rakentamattomana, on näiden katujen leweys ainoastaan 10 metriä. Wertaukseksi mainittakoon, että kaupunkimme katujen leweys on 12 metriä, paitsi pieniä osia 
+          Birger Jaarlin ja Kymnaasikaduista, joiden osien leweys on 17 à 18 metriä.</p>
+        <p>Werrattaissa Kiistalan asemakaawaa muun kaupungin asemakaawan kanssa huomaa kuitenkin suurimman eroawaisuuden siinä, että Kiistalan korttelit eiwät ole samanlaisia suorakulmaisia 
+          kuwioita kuin muut kaupunkimme korttelit ja että niissä on useampia tontteja. Tämä seikka lähinnä pakottaa hakemaan muutosta nykyiseen rakennusjärjestykseemme, joka edellyttää 
+          korkeintaan 6 tonttisia kortteleita, tai parasta lienee laatia kokonaan uusi rakennusjärjestys Kiistalaa warten, sillä nykyinen on muiltakin osiltaan aiwan liian wanhanaikuinen.</p>
+        <p>Wiertotien oikealla puolella olewa osa on ajateltu teollisuus- ja makasiinitonteiksi; wasemmalle puolelle taas on suunniteltu yksinomaan asuintontteja, paitsi muutamia makasiinitontteja 
+          Wanajaweden rannalle ja paria kolmea warastotonttia lähellä sahan aluetta.</p>
+        <p>Maaperän perustuksen puolesta on Kiistalan alue keskinkertainen. Molemmilla puolilla Wiertotietä, lähempänä rautatien aluetta on perustus aiwan hywä; koko Wiertotien ja kadun n:o 4 
+          wälinen osa on maaperältään kiinteätä sawea, mutta lähempänä sahan aluetta on ainakin muutamin paikoin suomutaa paksummalta, sellaista kuohusawea, jota kaupungissa siellä täällä esiintyy, 
+          ei Kiistalan alueella löydy.</p>
+        <p>Alueen koko suuruus on 127,000 neliömetriä ja tuli sen hinnaksi pakkolunastettaessa noin 77 penniä neliömetriltä, joka hinta on warsin korkea siihen nähden, että suuri osa aluetta on 
+          alawata maata, joka jonkun werran waatii täyttämistä soweltuakseen tonttimaaksi. Ehdotetun järjestelyn mukaan, kun kaikki kadut ja muut awonaiset paikat poislasketaan, jääpi kaupungin 
+          haltuun myytäwäksi ja wuokrattawaksi yhteensä 88,000 neliömetriä, jotka siis siten olisiwat rahaksi muutettawat, että ei ainoastaan alueen ostohinta, waan myöskin kustannukset katujen 
+          teosta, wesi- ja likawiemärijohtojen, raiteiden ja rantalaiturin rakentamisesta tulewat korwatuiksi. Tällaisen tuloksen saawuttaminen ei pitäisi ollakaan waikeata, sillä Kiistalan tontit 
+          owat asemansa puolesta siksi hywällä paikalla, että niistä jo nyt woi waatia korkeamman hinnan kuin muista kaupungin laitaosissa olewista rakentamattomista tonteista ja niiden arwo 
+          epäilemättä wuosi wuodelta kohonnee, sillä Kiistalasta woi kehittyä, jos ei tärkein, niin ainakin yksi tärkeimpiä ja arwokkaimpia kaupunginosiamme.</p>
+        <p className="accent">Kaupunkilaiset ehdottakaa nimiä Kiistalan kaduille:</p>
+        <p>Kun Kiistalan kaduilla ei wielä ole nimiä, waan owat ne ainoastaan numeroilla merkityt, niin kehoittaa Kiistalan alueen järjestelywaliokunta kaupunkilaisia ehdottamaan kaduille sopiwia 
+          nimiä. Yhteensattumisen wälttämiseksi ilmotetaan, että waltuusmiesten hywäksymällä Sairion wuokratonttialueella on seuraawat katunimitykset: Raja-, Karlbergin-, Satama-, Sairion-, 
+          Toiwolan-, Kulma-, Rautatien-, Oja-, Pohjoinen ja Eteläinen Puisto-, Tehtaan-, Ilamon-, Aulangon-, Wanajan-, Hauhon-, Idänpään-, Harju-, Hatilän- ja Poikkikadut, joita nimityksiä, mikäli 
+          mahdollista, on wältettäwä.</p>
+        <p>Kirjalliset nimiehdotukset woidaan jättää joko Rahatoimikamariin tai waliokunnan sihteerille, insinööri Oskar Nerolle.</p>
+      </Article>
+
+      <div className="interTitle">28.11.1914</div>
+      <Article titleText="Isäin istunto.">
+        <h5>Pakinaa.</h5>
+        <p>Esityslistalla olewain 13:n asian onneton luku, waiko wiereisestä salista kuuluwat kiehtowat soiton säweleet pidättiwät arwoisia isiä saapumasta istuntoon täysilukuisina. Eikä auttanut 
+          muu istunnon kunnialliseen alkuunsaattamiseen kuin hakea eteisestä musikaalisiin nautinnoihin waipuneet isät, jotka sitten hetken kuluttua astuiwatkin paikoilleen reippaan marssin wielä 
+          tulwehtiessa sisään awoimesta owesta.</p>
+        <p>Eipä ollut ihme, että asiat tällaisen alkusoiton jälkeen luistiwat. Sowussa ja yksimielisyydessä nuijittiin nopeasti eityslistan alkupuolella olewat asiat, joista tärkeimmät oliwat 
+          kaupungin insinöörin palkkaaminen ensi wuodeksi johtamaan silloin suoritettawia lukuisia kunnallisia töitä sekä wanhentuneen merilakia wastaan sotiwan satamajärjestyksen muuttaminen. 
+          Muistutettawaa ei ollut myöskään erään serbialaisen anomuksesta päästä Suomen kansalaiseksi, joten siis Hämeenlinnalla ennen pitkää on kunnia lukea tämän parhaillaan wapautensa ja 
+          riippumattomuutensa puolesta urheasti taistelewan pienen kansan jäsen weroamaksawaksi kuntalaisekseen.</p>
+        <p>Sauna-asia se jälleen sai isien kielenkannat hiukan irtaantumaan. Puheenjohtaja ehdotti, että kaupan lopullinen päättäminen annettaisiin lisättyjen waltuusmiesten tehtäwäksi. Eräs isä 
+          arweli, että tokkopa tuota tarwinnee, kun ei upeata saunarakennusta saata pitää edes warsinaisena kiinteimistönä - onpahan waan juridisesti katsoen kuin mikäkin toisen maalle rakennettu 
+          mäkitupalaisen mökki. Toisten isäin mielestä oli asia kuitenkin siksi tärkeä, että se jo warowaisuudenkin wuoksi ja jotta eiwät isät joutuisi „huonoon waloon” oli wielä kerran annettawa 
+          lisättyjenkin isien punnittawaksi. Tähän alussa epäilewällä kannalla ollut isäkin yhtyi, joten maistraatti sai tehtäwäkseen toimittaa waalit. Tulossa on siis waalitaistelu, jossa sauna 
+          tulee puolueiden jakajaksi. Ja elleiwat merkit petä, niin ei siinä ainakaan löylyä tule puuttumaan.</p>
+        <p>Saunasta päästyä ryhtyiwät isät rahakysymyksiin. Annettuaan kaupungin hallintokuntien tietää, että niiden menoarwiot laaditaan ja wahwistetaan sitä warten, että niitä noudatetaan, 
+          ryhtyiwät he käsittelemään raha-asiain waliokunnan ehdotusta, että kaupungin kaikki pienemmät eri tahoilta lainatut ja eri prosenttiset lainat yhdistettäisin yhdeksi suureksi 
+          obligatsioni- tai muunlaiseksi kuoletuslainaksi. Pitkässä sarjsssa astuiwat waliokunnan laatimassa luettelossa „aikojen yöstä” wielä kerran esiin ruoppauskoneet, torikioskit, 
+          köyhäintalon rakennuslainat, rantain järjestelyt, mukawuuslaitokset y. m. päättyen tulewaisuudessa hämärtäwään pikkujärwen rannalle rakennettawaan pakkahuoneesen, Kiistalan 
+          kaupunginosan tulewiin satamalaitureihin ja sen wielä nimettömiin katuihin. Isä Alanko tahtoi kysyä, oliko asiaa jo tarpeeksi harkittu ja oliko lainaussumma kyllin „pyöreä”, jotta ei 
+          tulewaisuudessa tarwitsisi katua, kun ei nyt yhdellä kertaa otettu niin että riittää. Epäili myöskin ajan soweliaisuutta obligatsionilainan ottamiseen. Toisten isäin mielestä asia oli jo 
+          kuitenkin tarpeeksi kypsä lisättyjen waltuusmiesten harkittawaksi ja niin sai maistraatti tehtäwäkseen toimittaa tätäkin warten waalit.</p>
+        <p>Lopuksi otettiin esille kuwernöörin kirjelmä, jossa waadittiin waltuustolta selitystä eräiden weronmaksajain saunanostosta kuwernöörille tekemän walituksen johdosta. Kun puheenjohtaja 
+          oli hetkisen sitä „ihmetellyt”, nousi isä Tarjanne sitä tutkiskelemaan. Hän kohenteli sitä päältä ja alta, silmäili edestä ja takaa, käänsi nurin ja weti jälleen oikein, ihmetteli ja 
+          ällisteli, mutta ei parhaalla tahdollaankaan woinut löytää siitä mitään - hywää. Muut eiwät takertuneet koko juttuun.</p>
+        <p>Mutta walittajat woiwat olla tyytywäisiä. He owat saawuttaneet ensimäisen woittonsa. Lisäwaltuusmiehet saawat päättää asiasta, waikka siinä kokouksessa, jonka päätöksestä walitus 
+          aiheutuu, ei mainittu lisäwaltuusmiehistä sanaakaan.</p>
+        <p>Turhaa on wäittää, että walitus oli ennenaikainen, sillä jos niin olisi, niin silloin on waltuuston kokouksen päätös myöskin wäärin stiliseerattu pöytäkirjaan.</p>
+        <p className="signature">Kuuntelija.</p>
       </Article>
 
       <br></br>

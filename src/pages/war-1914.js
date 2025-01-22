@@ -43,7 +43,7 @@ const War1914Page = () => {
           keisari Josefia sitä laillistuttamaan, ei tämä siihen suostunut. Wainajan lapset eiwät näin ollen woi periä waltaistuinta. Sitäpaitsi owat he alaikäisiä ja täten tulisi Itäwalta-Unkari 
           ennen pitkää saamaan holhoojahallituksen. Siihen se ei uskaltaudu, sillä tunnettuahan on, että Unkari itsepintaisesti pyrkii itsenäiseksi ja eteläslaawit, josta murhaajakin on kotoisin, 
           seuraawat kernaasti esimerkkiä.</p>
-        <p>Kaiten kaikkiaan woi olettaa, että tämä werityö saa suuria muutoksia Euroopan politiikassa aikaan.</p>
+        <p>Kaiken kaikkiaan woi olettaa, että tämä werityö saa suuria muutoksia Euroopan politiikassa aikaan.</p>
       </Article>
 
       <div className="interTitle">2.7.1914</div>

@@ -74,6 +74,13 @@ const Header = () => {
                   <Link to="/war-1914" className="nav-link" activeClassName="active">Kohti sotaa</Link> 
                 </NavDropdown.Item>
               </DropdownSubmenu>
+
+              <DropdownSubmenu className={subMenuStyle} title="1917-1918">
+                <NavDropdown.Item>
+                  <Link to="/civilwar-1918" className="nav-link" activeClassName="active">Sisällissota</Link> 
+                </NavDropdown.Item>
+              </DropdownSubmenu>
+
               <DropdownSubmenu className={subMenuStyle} title="1924">
                 <NavDropdown.Item>
                   <Link to="/lukijoilta1924" className="nav-link" activeClassName="active">Yleisönosasto</Link> 
