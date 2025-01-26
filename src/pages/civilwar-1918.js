@@ -948,7 +948,883 @@ const CivilWarPage = () => {
         <p>Muuten oli elämä ainakin kuin piiritetyssä kaupungissa, kenties muutamissa suhteissa wielä waikeampaa. Tietojen saanti muusta maailmasta oli perin waikeata. Huhuja liikkui jos 
           jonkinlaisia, milloin toiwoa herättäwiä, milloin taas masentawia. Punakaartin wallankumouskomitea naulautti kulmiin julistuksen, jossa wastawallankumouksellisten tietojen wäärien huhujen 
           lewittäjät uhattiin rangaista wallankumouksen kaikella ankaruudella. Walwonta tässä suhteessa meni niin pitkälle, että ihmiset kaduilla estettiin toistensa kanssa keskustelemasta.</p>
+        <div className="interTitle">2.5.1918</div>
+        <h5>II</h5>
+        <p>Keskiwiikkona naulattiin katujen kulmiin julistus, jossa kaikkia aseita omistawia kansalaisia kehotettiin ilmoittamaan aseistaan wallankumouskomitealle. Niitä, jotka eiwät tätä tehneet 
+          ja joilta aseita sittemmin kuitenkin tawattaisiin, uhattiin ankaralla rangaistuksella. Kun määräaika oli mennyt umpeen, alkoiwat punakaartilaiset toimeenpanna kotitarkastuksia aseita 
+          etsiäkseen. Tarkastuksia toimitettiin päiwin ja öin. Tarkastajat esiintyiwät yleensä maltillisesti, waikka kyllä poikkeuksiakin ilmeni.</p>
+        <p>Myöhemmin wiikolla ilmestyi wielä julistus elintarpeiden luowuttamisesta rajahintoihin.</p>
+        <p>Perjantai-iltana marssii wahwa asestettu punakaartilaisosasto lääninwankilaan. Osasto tunkeutui wankilan portista sisälle wastusta kohtaamatta. Wankilaan päästyään ryhtyi se heti 
+          pidättämään muutamia wartioita sekä myöskin wankilan johtajan B. Andersinin. Pidätyksen syynä oli nähtäwästi wain suojeluskuntaan kuuluminen. Wartiat oliwat pidätettyinä keskimäärin 
+          kaksi wuorokautta, jolloin heidät päästettiin wapaaksi pysyen kuitenkin edelleen punakaartin silmälläpidon alaisena. Wankilan johtaja ja wahtimestari jäiwät edelleen punakaartin 
+          waltaan.</p>
+        <p>Wenäläinen sotawäki, joka alussa näytti tehokkaasti ottawan osaa wallankumouksen toteuttamiseksi ei ainoastaan kaupungissa waan wieläpä yhdessä punakaartilaisten kanssa tehden 
+          retkeilyjä maaseudulle, alkoi wiikon lopulla enemmän pysytellä syrjässä. Samalla se alkoi hankkia poislähtöä myyden kaupungin torilla hewosiaan. Hewoshuutokauppoja pidettiin useina 
+          päiwinä perätysten yksin sunnuntainakin ja myytiin tällöin muutama sata hewosta. Hewosten hinnat oliwat tawattoman halpoja. Tawallisen työhewosen hinta waihteli 100-200 mk. waiheilla.</p>
+        <p>Lauantaina tiukennettiin punakaartin kaduilla harjoittamaa walwontaa huomattawasti. Tämä nähtäwästi johtui Suomen pankin holwin murtamisyrityksestä, johon punakaartilaiset ryhtyiwät. 
+          Yritys kuitenkin raukesi ja holwiin murtautujat onnistuiwat panssarioween saamaan wain sormenpäänkokoisen reijän. Murtautujien yrittäessä pankkiin tunkeutua oli koko kaupunki ympäröity 
+          wartiostoilla eikä edes lähimmässä ympäristössä asuwia päästetty kaupungista poistumaan tunnussanaa tietämättä.</p>
+        <p>Sunnuntaina oli elämä kaupungissa jälleen hiukan wapaampaa. Aamulla saapui kuitenkin ensimäinen murhawiesti läheisyydestä. Edellisenä yönä oli nimittäin joukko punakaartilaisia 
+          tunkeutunut Ojoisten pehtoorin asuntoon ja ampuneet pehtoori Yli-Paawolan asuntonsa kynnykselle. Pehtoori Yli-Paawola oli jonkun aikaa ollut punakaartilaisten pidättämä, mutta sittemmin 
+          wapautettu. Murhaan syyllisiä ei punakaarti saattanut mihinkään edeswastuuseen.</p>
+        <p>Seuraawa wiikko kului jotenkin samaan tapaan kuin edellinenkin. Päiwittäin pidettiin torilla edelleenkin wenäläisten huutokauppoja. Punakaartilaisia liikkui asestettuina kaduilla. 
+          Wäestön mieliala oli yleensä painostunut, minkä aiheutti miltei täydellinen tietämättömyys ulkomaailman tapahtumista. Lisäksi kiihdytti mieliä lukuisat tiedot punakaartilaisten 
+          harjoittamista weritöistä. Jo wiikon alussa saapui tieto Hattulassa sunnuntai-iltana tapahtuneen maanwiljelijä K. O. Hakarin ja Walfrid Uotilan murhista. Kummankin murhasiwat 
+          punakaartilaiset ilman mitään näkywää aihetta. Syyllisiä ei nytkään saatettu mihinkään edeswastuuseen. Wiikon keskiwaiheilla saapui Lopelta kamalia wiestejä punakaartilaisten siellä 
+          harjoittamista murhatöistä, jotka tehtiin mitä raaimmalla tawalla. Kaikkiaan murhasiwat punakaartilaiset 7 henkilöä, Lopen iäkkään kirkkoherran Töyryn, joka murhaajien saapuessa makasi 
+          sairaana wuoteessaan, Lopenpiirin nimismiehen Forsténin, joka oli kyllä Lopen punakaartilta saanut luwan matkustaa paikkakunnalta, mutta siitä huolimatta murhattiin poikansa silmien 
+          edessä pakomatkallaan, maanwiljelijä I. Mäkisen, paikkakuntansa eturiwin miehen, Lopen elintarwelautakunnan sihteerin yliopp. Ilmari Laakson ja hänen weljensä, sekä kauppias Borgströmin 
+          hänkin paikkakuntansa huomattawimpia henkilöitä. Murhien syitä ei ainakaan tällä hetkellä tunneta eikä punakaarti ryhtynyt wähimpiinkään toimenpiteisiin syyllisten saattamiseksi 
+          edeswastuuseen teoistaan. Työwäen sanomalehdistö sekä paikallinen että pääkaupungin waikeni näistä kammottawista murhatöistä kokonaan. Wain Hämeen Woiman toimittaja Heikki Laakso, jonka 
+          lehti jälleen wiikolla alkoi ilmestyä yksityisesti rohkeni panna wastalauseensa punakaartin murhia wastaan. Kunnia siitä miehelle.</p>
+        <div className="interTitle">4.5.1918</div>
+        <h5>III</h5>
+        <p>Wiikon kuluessa jatkuiwat wangitsemiset ja pidätykset entiseen tapaan. Pidättämisen syyt oliwat perin heikot, tawallisesti ilmianto, usein perätön. Siitä huolimatta saattoi ilmiannettu 
+          joutua wiikkokaudeksi ja kauemmaksikin aikaa wirumaan punakaartin wankisäiliössä. Pidätyksen syy saattoi toisinaan olla aiwan käsittämätönkin, niinpä eräs arwoisa kansalainen joutui 
+          sellolaatikon kantamisesta wiikon ajan pidätetyksi. Samalla pidätettiin myöskin hänen seurassaan olleet kaksi henkilöä, joista toinen tosin muutaman tunnin kuluttua wapautettiin mutta 
+          toinen, joka oli saapunut Helsingistä täysin laillisella passilla warustettuna lähetettiin irtolaisena kotipaikalleen, missä hänet kyllä heti wapautettiin. Samaten pidätettiin eräs 
+          henkilö säärystimiensä wuoksi. Riittäwä syy pidättämiseen oli myöskin, jos joku henkilö sairauden tai jonkun muun esteen takia oli jonkun aikaa pysytellyt kotosallaan ja sitten 
+          ilmestynyt kaupungille. Waarallinen oli myöskin n. s. pomppatakki ja pitkäwartiset saappaat, jotka molemmat yhdessä tai kumpikin erikseen saattoiwat olla syynä kansalaiswapauden 
+          menettämiseen.</p>
+        <p>Useimpain pidätysten ja kotitarkastusten syynä oliwat kuitenkin enemmän tai wähemmän julkiset ilmiannot. Koskaan ei ilmiantojärjestelmä ole wiettänyt sellaisia riemupäiwiään kuin näinä 
+          „kansanwallan” aikoina. Ilmiantoja tehtiin niin lukuisasti, että niiden todenperäisyyden tutkijat wäsyiwät ja walittiwat uupumustaan. Ilmiannon aihe saattoi toisinaan olla hywin 
+          eriskummallinen. Niinpä erästä henkilöä, jolla ei liene wähäisimpiäkään teknillisiä taipumuksia syytettiin langattoman lennättimen laittamisesta huoneeseensa. Erästä henkilöä syytettiin 
+          walomerkkien antamisesta huoneestaan. Ilmiannettujen pidättäminen tapahtui useimmiten säädyllisyyttä noudattaen, mutta tapahtui kyllä niinkin, että 5—6 henkilöä hyökkäsi mitään 
+          aawistamattoman kadulla kulkijan kimppuun ojentaen kiwäärinsä ja rewolwerinsa hänen päätään kohti. Samaten saattoiwat punakaartilaiset hyökätä rauhalliseen kotiin ja pistimet ojossa ja 
+          kiwäärit kohti suunnattuina komentaa kädet ylös.</p>
+        <p>Ilmiannettujen kuulustelussa ei alussa pidetty kiirettä. Niinpä alussa saattoi kulua useita wuorokausia ilman että heidän pidättämisensä johdosta annettiin minkäänlaista päätöstä. Jos 
+          ilmianto hawaittiin aiwan perättömäksi, niin silloinkin waadittiin pidätetyllä kunniasana tahi sitoumus, ettei hän ryhdy mihinkään „wastawallankumouksellisiin” toimiin.</p>
+        <p>Erityisinä silmätikkuina punakaartilaisilla kumouksensa alkupuolella oliwat paitsi pankkeja, koulut ja wirastot, näistä erikoisemmin kansakoulu ja postikonttori. Kansakoulua kaarti 
+          useamman kerran koetti saada käyntiin, mutta hanke raukesi aina opettajiston wastustuksen wuoksi. Samaten oli postiliikenne pitkät ajat pysähdyksissä. Wihdoin saiwat he postinkantajat 
+          toimiinsa ja yksinkertaisen postinjakelun käyntiin, postikonttorin wirkamiehet pysytteliwät kuitenkin toimistaan poissa. Rautatieliikenne oli kokonaan punakaartin hallussa, kaikki 
+          wirkamiehet oliwat asemilta poissa. Junainkulku oli hankalaa. Wain harwoja junia kulki. Matkustaminen oli perin kiusallista punakaartilaisten turhantarkan nuuskinnan wuoksi. Niinpä sai 
+          Hämeenlinnan ja Helsingin wälillä täysillä passeilla ja todistuksilla warustettu henkilö tawallisimmin 8 kertaa tarkastuttaa itsensä ja passinsa.</p>
+        <p>Toinen kumouswiikko kului siten hiljalleen loppuunsa. Lauwantaina saiwat punakaartilaiset Helsingistä sulatuslaitoksen, jolla he wihdoinkin onnistuiwat saamaan Suomen pankin kassaholwin 
+          auki. Saalis olikin melko runsas, wahän waille 3 milj. mk.</p>
+        <p>Seuraawan wiikon alussa tapahtui Hämeenlinnan punakaartin keskuudessa päällikön waihdos. Kaartin päällikkö Tiiro ei ollut wäkijuomatakawarikkoja tehtäessä jaksanut olla walwomatta 
+          myöskin omaa hywäänsä ja tässä tarkoituksessa hän oli antanut kulettaa yhden takawarikoidun konjakkilaatikon kotiinsa. „Takawarikoitsija” ei kuitenkaan ollut woinut olla maistamatta 
+          saalistaan ja seuraus oli, että hän juopuneena esiinnyttään päämajassaan menetti wirkansa ja tuomittiin sodan loppuajaksi wankeuteen. Punakaartin uudeksi päälliköksi walittiin puuseppä 
+          Hannes Laakso.</p>
+
+
       </Article>
+      <Article titleText="Punaiset pyövelit.">
+        <h5>Riihimäellä teurastaneet joukon wankejaan.</h5>
+        <p>Pari maanwiljelijää, jotka sanomattomia kärsimyksiä kestettyään owat päässeet hengissä Riihimäellä tapahtuneesta wankien teurastuksesta, on U. S:lle kertonut, että Riihimäelle oli 
+          raahattu maaseudun rauhallista wäestöä 7—8 tuhatta henkeä, maanwiljelijöitä, maatyöwäkeä, pari pappia, kauppiaita, wirkamiehiä j. n. e. Wangit pakoitettiin ottamaan aseet käsiinsä, 
+          kunnes kasarmissa oli wain n. 500 sellaista, jotka siitä jyrkästi kieltäytyiwät.</p>
+        <p>Kun sunnuntain ja maanantain wälisenä yönä taistelun melske rupesi kuulumaan kasarmiin, tekiwät nuo 500 jälelle jäänyttä wankia päätöksen, että he eiwät poistu minkään syyn warjolla 
+          kasarmista ennen kuin taistelu on päättynyt. Kun punaiset saiwat tästä tiedon, toiwat he paikalle jalka- ja ratsuwäkeään, joka piiritti kasarmin. Sisälle kasarmiin tuli ratsumiehiä ja 
+          punakaartilaisnaisia, jotka miehittiwät kaikki sisäänkäytäwät ja huoneet. Naispyöwelit nousiwat seisomaan tyhjille wuoteille asettuen ampuma-asentoon. Wangeille karjaistiin: poistutteko 
+          wai ei? Ja kun ei kukaan hiewahtanu paikaltaan, kajahti yhteislaukaus. Kun ammuntaa, useasti yhteislaukauksittain, oli kestänyt liki neljännestuntia ja huoneet jo oliwat aiwan 
+          walkoisenaan ruudinsawua, huusiwat kuolewat ja haawoittuneet, että kaikki, jotka kykenewät, poistuisiwat, koska kuolema joka tapauksessa olisi seurauksena. Kehoitusta totteliwatkin ne, 
+          jotka oliwat wahingoittumattomina säilyneet, joukossa kuitenkin useita haawoittuneitakin. Kasarmin edustalla ympäröiwät ratsumiehet wankijoukon, jota lähdettiin kuljettamaan Riihimäen 
+          asemalle päin.</p>
+        <p>Joukkoa kuljetettiin sitten aseman eteläpuolella raiteiden yli kulkewaa maantiesiltaa kohti, jota lähetessä edessä ratsastaneet wartijat siirtyiwät taemmaksi. Mutta juuri kun oltiin 
+          tulossa sillalle, juoksi toiselta puolen wastaan eräs punakaartilainen, joka huutamalla kehoitti joukkoa hajaantumaan, koska silta räjähtää siinä paikassa. Huudon kuultuaan hajaantuiwatkin 
+          wangit siinä silmänräpäyksessä joka taholle kylään. Kun he oliwat ehtineet muutaman sadan metrin päähän, kuuliwat he takanaan maata tärisyttäwän jyrähdyksen sillan räjähtäessä ilmaan.</p>
+        <p>Pakoon päässeet juoksiwat minkä jaksoiwat Riihimäen asemalta länteen päin wiewää maantietä pitkin. Arwiolta oli heitä nyt koossa parisatainen joukko. Tykkien jyrinä ja taistelun melske, 
+          joka koko ajan oli kuulunut kauempaa, oli siirtynyt lähemmäksi ja pakolaiset joutuiwat keskelle saksalaisten shrapnellitulta. Juostessaan joutuiwat he niinikään kulkemaan kolmen 
+          punakaartilaisten warustuslinjan läpi. Yksitoista tuntia pitkin metsiä, soita ja rämeitä kulkien, Hausjärwen pitäjässä olewan Isolan talon kautta kaartaen saapuiwat kertojat kymmenen muun 
+          pakolaisen seurassa lopen näännyksissä wihdoin 10 tienoissa maanantai-iltana Hywinkäälle, jossa pääsiwät ystäwällisten paikkakuntalaisten hoitoon.</p>
+        <p>Lopuksi mainittakoon wielä, että wankien kohtelu oli koko ajan raainta mitä ajatella saattaa. Useat onnettomista eiwät jaksaneetkaan tätä koettelemusta kestää. Useita 
+          mielipuolisuuskohtauksia sattui.</p>
+      </Article>
+      <Article titleText="Urjalassa.">
+        <h5>Murhattu 14 henkeä.</h5>
+        <p>Punaisten hirmuwalta Urjalassa puhkesi heti alun pitäen weritekoihin. Jo helmikuun 3 päiwä waati ensimäiset wiattomat uhrit. Silloin pysäyttiwät punaiset Matkun asemalla ampumalla junan, 
+          jolloin matkustajista kuoli kauppias K. G. Horsma.</p>
+        <p>Samana päiwänä joutui 3 Mustialan maanwiljelyskoulun oppilasta julmain werihurttien uhriksi, yksi Tiirikosken talon pihalla, toinen n. k. Nummelan pihassa ja kolmas työwäen talossa. 
+          Kaksi ammuttiin sen jälkeen kuin heidät oli pakoitettu riisuutumaan alasti ja luowuttamaan waatteensa telottajilleen. Näistä kolmesta murhatusta oli kaksi weljestä, mutta ei heitä wielä 
+          liene tunnettu; kolmas oli nimeltään Palmroth ja kotoisin Pirkkalasta.</p>
+        <p>Wielä löydettiin saman päiwän iltana Urjalan aseman ja Nissin talon wäliltä radalta 4 junassa surmatun miehen ruumiit. Löydettäessä oli yksi wielä sen werran woimissa että kykeni 
+          ilmoittamaan olewansa kotoisin Kiikasta tahi Kiikoisista.</p>
+        <p>Helmikuun 7 päiwänä murhattiin maanwiljelijä Juho Jussuri (Wiinikka) Wälkkilästä. Hänen ruumiinsa löydettiin parin päiwän perästä erään torpan perunakuopasta 1 km. päässä talosta, 
+          kokonaan ryöstettynä; päällyswaatteetkin oli wiety. Kurkku oli wiilletty poikki ja ampumahaawa kyljessä.</p>
+        <p>Ennenkuin wainajaa lähdettiin wiemään kotoaan oli hänelle sanottu „pitkän matkan” olewan edessä ja kehoitettu ottamaan mukaansa rahaa wähän enemmänkin.</p>
+        <p>Urjalan kirkossa, jossa oli punaryssien wankila, murhattiin eräänä yönä wiisi wangittua, niistä 4 Mustialan koulun oppilasta.</p>
+      </Article>
+      <Article titleText="Sääksmäki.">
+        <h5>Punaisten roistojoukkojen häwitykset.</h5>
+        <p>Ennen poislähtöään Sääksmäen Metsäkansasta toimittiwat punaiset nykyisin perin tunnetuksi tullutta häwitystyötänsä. Noin 25:destä Metsäkansan alueeseen kuuluwasta talosta on nykyisin 
+          parikymmentä taloa raunioina. Harwoissa taloissa on jäänyt jälelle sauna tai riihet, siinä kaikki. Monissa taloissa on ihmisille jäänyt waan waatekerta päälle kaikki muu on mennyt. 
+          Hiiltyneitä eläimen ruhoja, sikoja, lampaita, lehmiä ja hewosiakin on palaneissa nawetoissa ja talleissa.</p>
+        <p>Kun punaset näitä murhapolttojaan tekiwät, saattoiwat he samalla isäntien ja muiden talon wäkien hengen kauheaan waaraan. Erittäinkin etsiwät nuo hornanhenget isäntiä murhatakseen ja 
+          tappoiwatkin ainakin neljä talonisäntää yöllä wiime torstaita wastaan. Samalla kulmakunnalla owat he perääntyessään tappaneet Walkeakosken tehdaskylässä wangiksi ottamiaan Walkeakosken 
+          toimihenkilöitä tuntemuksemme mukaan 22, joiden joukossa insinööri Wendt, kasööri Pehrman, hrat Ohlsson, Nyqwist y. m. maanwiljelijä Öllenberg, Konhon kartanon entinen isäntä, maanwilj. 
+          Kustaa Laine y. m. joista meillä wielä ei ole tarkempia tietoja.</p>
+        <p>Kuin ihmeen kautta owat pelastuneet jo ammunnan alaisina olleet pastori Mustala ja hra Saukko.</p>
+        <p>Sääksmäen Saarioispuoli on joutunut perinpohjaisen ryöstön ja raaston alaiseksi. Nyt on Sääksmäki wapaa, sillä wiimeiset punaiset poistuiwat sieltä kuudella laiwalla ja lotjalla 
+          ryöstettyine tawaroineen ja perheineen wiime perjantai-aamuna klo 4 korwissa siwuuttaen Huittulan ja Salonkylän tienoot. He poistuiwat aikaisemmin laiwoille aukaisemaansa reittiä pitkin 
+          Hämeenlinnaa kohti. Kuulemamme mukaan lienee yksi laiwa upotettu Tyrwännön selällä.</p>
+        <p>Wiimeisimpiä taisteluja käytiin Sääksmäellä Lotilan kartanon maalla lähellä Walkeakoskea, jossa taistelussa punasia kaatui kolmatta sataa. Taistelu kesti wain 15 minuuttia, jonka 
+          jälkeen walkokaartilaiset marssiwat Walkeakoskeen.</p>
+      </Article>
+      <Article titleText="Riihimäen valtaus.">
+        <h5>Sotasaalis</h5>
+        <p>Eräs Riihimäen waltauksessa mukana ollut henkilö on sanomalehdille kertonut waltauksesta ja sen tuottamasta sotasaalista m. m. seuraawaa:</p>
+        <p>Rautatielinjaa pitkin etenewät joukot saiwat jo taistelun alkuwaiheessa haltuunsa suuren sotasaaliin. Jonkun matkan päässä Riihimäen ja Wantaan kylän tällä puolella tawattiin 
+          rautatiellä seisomassa pitkä juna. Lähellä olewalta metsän peittämältä mäentöyräältä awattiin tykkituli ja juna wallattiin. Kolmas kraanaatti osui erääseen junan etupäässä olewaan 
+          waunuun, jossa oli räjähdysaineita. Tästä aiheutunut räjähdys tuhosi kaiken, mitä lähellä oli. Ilmaan lensi palasiksi pirstautuneita ratakiskoja, tykkejä ja sotatarpeita. Myöskin 
+          lähellä olewat talot sortuiwat.</p>
+        <p>Junaa kuljettawa weturi porhalsi pakoon täydellä wauhdilla wieden mennessään muutaman siihen kytketyksi jääneen waunun. Hyökkääjäin saaliiksi jäi 47 waunua, jotka sisälsiwät tawattoman 
+          runsaan sotasaaliin. Waunuissa oli 454 kiwäärilaatikkoa, kussakin 20 kiwääriä, 1,295 kranaattilaatikkoa, joissa oli kussakin 20 kranaattia, noin 1,000 laatikkoa ampumatarpeita, 4 
+          kuularuiskua, 8 tykkiä, 2 miinanheittäjää, 262 laatikkoa käsikranaatteja, suuri määrä nahkahihnaa, satuloita y. m. Sitä paitsi oli sotasaaliin joukossa satakunta kirjoituskonetta, 
+          (nähtäwästi Helsingin wirastoista ryöstetyt), 10 paalua willaa, suuri määrä elintarpeita, pääasiallisesti leipää, mutta myöskin maitoa ja muuta.</p>
+        <p>Punaiset pakeniwat warta wasten walmiiksi järjestetyillä junilla pohjoista kohden Hämeenlinnaan päin. Kuten tiedetään, on Toijala erikoisessa piiritysrenkaassa, joten punasten 
+          peräytymistie nousee pian pystyyn, samoin kuin itäänpäin lähteneen 50 waunua käsittäwän panssarijunan, joka on pysäytetty Herralassa, jollei ennen. Punasia arwellaan Riihimäellä olleen 
+          noin 13,000 miestä. Mutta he eiwät pystyneet pidättämään woittoihin tottuneitä joukkoja. Punaisten riweissä taisteli useita naisia, joista muutamat oliwat pukeutuneet miehenpukuun.</p>
+      </Article>
+      <Article titleText="Tunnelma ainoa laatuaan.">
+        <p><span className="accent">Perjantaina klo 3 ehtoopäiwällä.</span> Wanhan Birger Jaarlin kaupungin kadut yhä autiot muista kansalaisista paitsi „punaisista” aseniekoista. Ryöstetyt ja 
+        ryöstämättömät myymälät kiinni. Asuntojen katuowet lukossa. Naiset ja lapset hoitelewat warowaa tähystelyä ikkunoissa ja ilmoittawat punakaartilaisten kuhinan jatkuwan ennallaan. 
+        Pihateitse liikutaan sen werran, että wiesti lewiää parista uudesta järjettömästä murhasta. Linnassa säilytetyille wangeille — porwareille, sillä kaikki rikolliset on aikaisemmin päästetty 
+        wapaiksi — kerrotaan kuolemantuomio julistetuksi. Perheenisät ja wanhimmat pojat, jotka owat wielä wälttäneet pakkotyön ja rintamaanwiemisen apajakerääjiä, huoahtelewat ullakkopiiloissa ja 
+        waatekaappien peittämissä konttorikomeroissa.</p>
+        <p><span className="accent">Kello 4.</span> Alkaa olla kuuluwinaan laukausten jymyä. Asuntoani wastapäätä lukusalissa majailewa punakaartilaisosasto saa kaikuwan käskyn: „Kaikki miehet 
+        riwiin!” Ikkunawerhojen raoista nähdään heidän kiireisesti järjestäytywän, pieniä poikasia mukana, muutamilla kaswot harmaina pelosta, horjuen. Entisen remun sijasta synkkä katsanto 
+        kaikilla. Siinä menewät nekin turkulaiset, jotka wiime yönä istuiwat ulko-oweni porraskiwellä keskustelemassa, miten tänä iltana pistetään talot täällä roihuamaan, jos alkaa huonosti 
+        käydä.</p>
+        <p><span className="accent">Kello 5.</span> Kaupunki aiwan tyhjillään. Roistokratian edustajat owat joutuneet lähtöön ihan äkillisesti. Ankara pamaus aiwan lähellä. Yhä uusia. 
+        Rautatieaseman tienoo alkaa palaa. Pian on itse asemakin ilmiliekeissä, hehkuen kilpaa lenseän kewät-ehtoopäiwän auringonhohteen kanssa. Owatko punakaartilaiset räjähdyttelemässä taloja — 
+        hehän owat niitä miinoitelleet — wai walkoistenko tykit tekewät työtänsä? Tutisuttawa räjähdys järäyttää kaupungin perustuksia, ja sen paikka ilmenee, kun nähdään puhelinkeskus-aseman 
+        kohdalta sawun nousewan. Ja jo wiuhuu shrapneleja ilmassa kaupungin yli asematielle, Hattelmalan harjulta päin. Pihaamme putoaa kuuma pomminsiru. No, wapauttajatkin siis joka tapauksessa 
+        owat lähellä.</p>
+        <p><span className="accent">Kello 7.</span> Pamahdukset taukoawat. Täysi hiljaisuus, wain kuularuiskujen rätinää jossakin. Olisiko näiden tuhansien, jotka kaikilta suunnilta oliwat 
+        peräytyneet pitämään kaupunkia hallussaan, onnistunut torjua ensimäinen awunyritys? Uskaltaudutaan ulos kotinurkkiin katselemaan. Ei näy mitään punaisen hirmun merkkiä enää. Kitkerää 
+        sawua liirii ilmassa. Pari tulipaloa itse kaupungissa. Aseman seutu yhäti lewiäwänä tulimerenä. Mitä? Walkoinen lippuhan liehuu lääninhallitus-rakennuksen katolla Kaupunginhotellin 
+        wieressä, jossa punaisten esikunta on sijainnut! Ja raatihuoneen katolla! Porwarilliset owat heränneet huomaamaan, että kaupunki onkin jätetty heille. Torille alkaa ilmaantua yksitellen 
+        wäkeä, — pian ryhminäkin. Etäältä kuuluu hurrausta. Auttajat todella tulewat! Palokunta yrittää sammutella torin alakulmassa Olanderin apteekkirakennusta. Kuullaan, että siihen sattuneen 
+        shrapnelin siru on surmannut läheisen muotikaupan omistajattaren ja että riwakka palomestarimme on saanut toisen sirpaleen päähänsä, järjestäessään puhelinkeskuksen sammutusta. Samassa 
+        ilmestyy Myllymäen kaupunginosasta päin pieni soturiryhmä. Kypärilakit kuten wiimeksi punaisilla. Kentänwihreät takit. Reippaan näköisiä nuoria miehiä, hiestyneitä ja wäsyksissä silti. 
+        Nenäliinat liehuwat, hurrataan wimmatusti, silmät sumeina Riennän puhuttelemaan etumaista, näköjään pohjalaista.</p>
+        <p>„Mistä ihmeestä te tulette? Me olemme eläneet ihan hornan ahdistuksessa!”</p>
+        <p>„Wie?”</p>
+        <p>Mitä! Walehtelewatko korwani. „Zum Teufel, können sie Deutschen sein?”</p>
+        <p>„Jawohl. lch bin ein Berliner.” Ranskan rintamalla taistellut, nyt oliwat tulleet auttamaan suomalaisia.</p>
+        <p>Kuin säkissähän me olimme eläneet. Ennen äärimäistä sulkutilaa olimme huhuna kuulleet, että saksalaisia oli noussut maihin — mutta sen huhun todenperäisyys oli kiwenkowaan kielletty 
+          punaisten taholla, ja suupuheet oliwat lopulta menettäneet kaiken uskottawuutensa.</p>
+        <p>Rajattoman riemun pauhinassa saatellaan tätä pienoista etujoukkoa sen marssiessa suoraa päätä wankilaan. Omaa kohtaloansa peljäten owat punaisten asettamat wartijat suojelleet siellä 
+          kaittawiansa. „Maamme”-laulu kiirii ilmoille, kun tuttujen arwohenkilöiden jono pääsee sieltä ulos. Kalpeita, parroittuneita, huumaantunelta hengen ja omaisuuden turwan äkillisestä 
+          paluusta.</p>
+        <p><span className="accent">Kello 7.</span> Jälleen torilla. Kaikki asujamisto koolla. Ripeätä soturiwäkeä saapuu suuremmin joukoin. „Maamme” laulun säweleet wyörywät uudestaan ja entistä 
+          waltawammin ilmoille. Saksalaiset ryhmittywät, ja harjaantunein äänin jyrähtää „Din Wacht am Rhein” kesäisen ilan ihanuuteen, „Lieb' Vaterland, magst ruhig sein!” Saat todellakin olla 
+          huoletta tulewaisuudestasi, sinä saksalaisten isänmaa, jonka kunto riittää muidenkin isänmaan järjestywistä kohtaloista huolehtimaan oman suunnattoman sotataakkasi ohella. Nuo 
+          terwekatseiset, todelliset miehet owat warma warjeluksesi. Pyhä innostus paisuttaa satoja powia, jotka eiwät kuukausimäärin ole täysin keuhkoin hengtttäneet. Woimalliset säweleet 
+          kiiriwät, saksalaisen kunnon mahtawana kuorona — ja säestäjänään wiereisen kirkkomme palotorwi torin yläpäässä, yhä säännöllisesti törähdellen, sekä liekkipatsaan ritinä apteekin 
+          katolla torin ali päässä. . .</p>
+        <p>Tämä on todella ainoalaatuinen tunnelma. . . arwaamattoman harwinainen loppu raa'alle hirmuhallitukselle, joka kansanwallan nimessä nousi kapinaan kansanwaltaa ja isänmaan itsenäisyyttä 
+          wastaan julman harwainwallan woimaansaattamiseksi weriwihollisemme awulla.</p>
+        <p>Tuotapikaa lankeaa tenho. On ryhdyttäwä käytännölliseen järjestelyyn. Nopeasti waihdetaan samalla kuulumisia, terwehdyksiä towerien kanssa. „Ka, sinä siis elät!” „Missä sinua on 
+          piinattu?” „Otan osaa — huomaan suruharson hihassasi. — Niin, poikani teurastiwat, ne paholaiset.”</p>
+        <p>Illan warjot laskeutuwat. Aiottiin järjestellä majoitusta — mutta saksalaiset oliwat jo järjestäneet, merkiten talojen owiin, montako miestä kuhunkin tulee; niin yksinkertaista! 
+          Puhelinkeskuksen katolla heitä oli jo laittelemassa lankoja . . . Kaikki kunnossa kohtiseltään. Oi, järjestystä — mitä siunausta sen tajuammekaan nyt olewan enemmän kuin koskaan ennen.</p>
+        <p>Lännessä hiipuu wapautuksen päiwä. Idän taiwaalla hehkuu palawien kylien loimu niiden punakaartilaisten jäljiltä, jotka maatansa wiimeistä kertaa häwittäen yrittäwät sitä kautta pyrkiä 
+          rajantakaisten bolshewikkien syliin uutta kostosotaa walmistelemaan. Mutta he owat kaswattaneet taaksensa woiman, joka ei enää ole yllätettäwissä.</p>
+        <p>Tykit jymähtelewät wielä kuuluwissa. Huomenna kait aletaan jo päästä muun maailman yhteyteen. Kuulemme sanomia suuresta sodasta ja Suomen suurista kärsimyksistä. Meidän on odotettawa 
+          tihutietoja kansallisista waurioista, ystäwien ja omaisten kuolinsanomia; suuri sarja raskaita wiestejä on kerääntynyt warallemme. Mutta meillä on nyt wapaus wiimewuotisesta 
+          matelemisesta roskawäen armoilla ja näiden kuukausien järkyttäwästä painajaisesta — työn ja toiminnan wapaus, kansamme pelastamisen wapaus.</p>
+        <p>Minä luulen, että meidän hywä kaupunkimme sitäennen tänä yönä nukkuu, huolettoman lapsen unta pitkästä aikaa jok'ainoa laintuntoinen asukas. </p>
+        <p className="centeredStyle">26.4.1918</p>
+        <p className="signature">W. H.-A.</p>
+      </Article>
+      <Article titleText="Kauhunaika Wiipurissa.">
+        <p>Wiipurissa oliwat kapinalliset wanginneet sadottain ihmisiä. Wankien kohtelu on ollut mitä epäinhimillisintä, niin että se on aiheuttanut m. m. ulkowaltain konsulien yksimielisen 
+          wastalauseen. Pääkiduttajana riehui „itäisen rintaman ylipäällikkö” entinen rangaistuswanki H. Kaljunen, joka aina uhkaili kuolemalla wangittuja.</p>
+        <p>Uudella woimalla alkoiwat kidutus- ja  wainotoimet, kun suuret taistelut Antrean - Jääsken sekä Raudun - Raasulin rintamalla päättyiwät punaisten häwiöön ja Wilppulan tappio pakoitti 
+          punaisen hallituksen siirtymään Wiipuriin, ollakseen walmiina luikkimaan itäisen rajan taakse. Raudussa ajettuaan taistelurintamansa edellä joukottain lapsia ja talollisten waimoja ja 
+          tyttäriä suojamuurinaan walkoisia wastaan, päättiwät Turkia ja kumppanit ryhtyä samaan keinoon muillakin Karjalan rintaman osilla. „Porwarit” piti wiedä kaikki rintamaan ja asettaa 
+          heidän joukkojensa eteen, walkoisten ammuttawiksi. „Täältä Wiipurista me emme enää eläwinä lähde, tänne me jäämme; mutta meidän jälkeemme ei tänne ole jääwä ainoata porwariakaan henkiin” 
+          — kuuluu lausuneen eräs tunnettu punaisten edusmies ja heidän hallituksensa tärkeä toimihenkilö. Ja huhtikuun 8 p:stä julistettiin pakollinen mobilisoiminen kaikille 16 — 55 wuotisille 
+          „säätyyn ja yhteiskunnalliseen asemaan katsomatta”.</p>
+      </Article>
+      <Article titleText="Tasavallan armeija saanut suuria voittoja.">
+        <h5>- Parola, Walkiakoski, Hämeenlinna y. m. tärkeitä paikkoja walloitettu.<br />- Wiipuri täydellisesti saarrettu.<br />- Kullerwo Mannerin pyyntö sowinnonhieromisesta hyljätty.<br />- Paljon 
+        wankeja ja sotasaalista.</h5>
+        <p>Päämajan tiedonanto 27 pnä huhtik. 1918 klo 5,40 ip.</p>
+        <p><span className="accent">Länsi-armeijan</span> joukot owat walloittaneet Parolan, missä 40 tonnia punaisten wiljaa takawarikoitiin.</p>
+        <p>Eilen wallattiin Walkiakoski Alwettulassa. Lehdesmäellä, Tuuloksessa yöllä taisteluita, kaikki wihollisen hyökkäykset torjuttu.</p>
+        <p><span className="accent">Sawon joukot:</span> Kiiwaan taistelun jälkeen owat joukkomme wäkirynnäköllä ottaneet wihollisen asemat 1 kilometrin päässä Hillonsalmelta pohjoiseen. Niinikään 
+          miehitettiin taistelun jälkeen Waltolan ja Kääwän kylät.</p>
+        <p><span className="accent">Itäarmeija.</span> Jääkärikapteeni Sarlinin joukko walloitti eilen Lappeenrannan, jolloin kolme tykkiä, tuhansittain kiwäärejä, ampumatarpeita y. m. joutui käsiimme; 
+          kaksi tykkiä, joita wihollinen yritti kuljettaa jään yli Taipalsaarelle, upposi.</p>
+        <p>Ewerstiluutnantti Sihwon joukot owat tänä aamuna katkaisseet rautatieradan Howinmaan luona.</p>
+        <p>Kenraalimajuri Wilkmannin ryhmä on täydellisesti saartanut Wiipurin Lawolan, Suomenwedenpohjan ja Wiipurin lahden puolelta.</p>
+        <p>Ewersti Ausfeldin ryhmä on miehittänyt koko rautatielinjan Säiniöltä rajasille, wallannut Kuolemajärwen ja Uudenkirkon. Muolan kirkonkylässä Oinolassa ja Perkjärwellä otti wänrikki 
+          Sihwo kaikkiaan 5 tykkiä, 14 kuularuiskua, 400 kiwääriä, suuren joukon käsigranaatteja sekä 500 wankia. Punaisten johtajat, entinen puheenjohtaja Manner etunenässä, owat sowinnonhierojan 
+          lipun suojassa eilen klo 12 päiwällä pyytäneet neuwotteluiden alottamista, mikä hyljättiin, meidän waatiessamme ehdotonta antautumista. Kronstatista on Inoon saapunut 500 miestä 
+          wenäläisiä joukkoja sekä dreadnought „Respublika”.</p>
+        <p><span className="accent">Saksalainen Itämereren diwisioona:</span> Wolffin prikaati walloitti t. k. 26 päiwän iltana Hämeenlinnan ja ajaa takaa wihollista Lammille ja Tuulokseen päin. 
+          Saatu suuri sotasaalis. Lahden seudulla jatkuu taistelu. Karjan—Hywinkään rataosa puhdistettu wihollisista.</p>
+        <p className="centeredStyle">Päämajoitusmestari</p>
+        <p className="signature">Ignatius.</p>
+      </Article>
+      <Article titleText="Helsingin waltaus.">
+        <p>Torstaina huhtik. 17 p. alkoi Albergan suunnalta kuulua Helsinkiin ankaraa tykkien jyskettä, mikä tiesi että Helsinki pian oli wapautuwa punaisesta painajaisesta. Saksalainen lentokone 
+          liiteli kaupungin yllä pudottaen suomen ja ruotsinkielisiä julistuksia, joissa ilmoitettiin maihinnousseiden saksalaisten pääjoukkojen joiden komentaja oli kenraali von der Goltz 
+          perinpohjin woittaneen punakaartin Karjan aseman lähettywillä ja etenewän Helsinkiä kohti. Rauhallisia asukkaita kehoitettiin olemaan turwassa. Punakaartilaisille luwattiin taata henki, 
+          jos heittäwät pois aseensa ja merkkinsä, mutta ankarin sotalakien mukainen kohtelu, jos yrittäwät toiwotonta wastarintaa.</p>
+        <p>Iltapäiwällä alkoi tykkien jyske kiihtyä ja kumeisiin jymähdyksiin sekaantui kuularuiskujen rätinä. Kaupungissa olewien punakaartilaisten keskuudessa alkoi ilmaantua hermostuneisuutta, 
+          mutta kaikesta päättäen aikoiwat he yrittää wastarintaa wiimeiseen saakka. Huopalahden suunnalle kulki komppania komppanian jälkeen apuwäkeä, auto auton perään kuletti sinne 
+          kuularuiskuja ja ampumawaroja. Pakolaisia alkoi pitkin läntistä Wiertotietä saapua kaupunkiin.</p>
+        <p>Yöllä ammunta taukosi. Aamulla alkoi se uudelleen, tällä kertaa paljon lähempänä. Taistelu riehui jo tällöin tullin tienoilla. Ennen pitkää oli se siirtynyt sokeritehtaan seudulle. 
+          Jonkun ajan kuluttua alkoi saapua autoja ja miehiä jotka katosiwat Heikinkadulle. Näkyi että punaisten wastarinta oli murtunut. Wiertotietä pitkin marssi warowasti parikymmentä 
+          wihreisiin uniwormuihin ja kypäriin puettua saksalaista tuoden mukanaan kuularuiskun, jonka he sijoittiwat Wiertotien ja Pohjois-Rautatienkadun kulmaukseen awaten tulen Heikinkadulle 
+          päin. Samaan aikaan pakeniwat punaset myös Töölön länsi-osassa. Töölö oli puhdistettu. Katuja pitkin marssiwat saksalaiset otetaan wastaan innostuksella, miehet kukitetaan, heille 
+          tarjotaan sawukkeita, woileipiä ja wirwokkeita.</p>
+        <p>Hetken kuluttua taistelu alkaa uudelleen. Töölöstä paenneet punakaartilaiset owat sijoittautuneet Turun kasarmiin awaten tulen sen akkunoista. Saksalaisten kuularuiskut ja konekiwäärit 
+          wastaawat. Kun taistelua on jonkun aikaa kestänyt syttyy kasarmi palamaan. Tästä huolimatta wastarinta jatkuu ja wielä lauantaina kuuluu kasarmista laukauksia. Useimmat kasarmin 
+          puolustajista oliwat tällöin jo kuitenkin joko saaneet surmansa tai paenneet. Lauantaina iltapäiwällä kasarmi waikeni.</p>
+        <p>Tälläwälin oli kaupungissa ollut suojeluskunta alottanut taistelun. Punasten pääwoimat oliwat keskittyneet Heikin- ja Aleksanterinkadun kulmaukseen, missä ne tykistön ja panssariautojen 
+          tukemana parin tunnin ajan pitiwät puoliaan. ½6 tienoissa saksalaiset waltasiwat kuitenkin heidän asemansa. Punasten seuraawa warustus Ruotsalainen teatteri antautui n. tunnin kuluttua. 
+          Sitä ennen oli antautunut Koiton talo, jonne Turun kasarmista oli paennut n. 250 punakaartilaista.</p>
+        <p>Iltapäiwän kuluessa puhdistiwat saksalaiset ja suojeluskuntalaiset kaupungin länsiosan, joissa syntyi taisteluja m. m. Hietalahden satamassa, Isolla Roobertin kadulla, Engel-aukiolla, 
+          Eiran luona ja Pietarin kadulla. Iltaan mennessä oli suurin osa aluetta walloitettu, muutamia yksityisiä taloja wallattiin seuraawana aamuna.</p>
+        <p>Perjantain kuluessa puhdistettiin myöskin Rautatieaseman puoli ja Katajanokka. Wiimemainitun waltasi 300 salsalaista merisotilasta.</p>
+        <p>Warhain lauantaiaamuna waltasi 15 miehinen saksalainen osasto Kaartin kasarmin, jota puolusti 30 punasta. Kasarmissa olleet 200 wankia wapautettiin. Samalla wallattiin myöskin 
+          Uusmaalaisten talo.</p>
+        <p>„Smolnan” wihatun punasen hirmuwallan pesäpaikan wuoro tuli lauantaiaamuna klo 6 tienoissa, jolloin saksalaiset alkoiwat sitä ahdistaa. Talossa oli paljon punakaartilaisia ja oli se 
+          hywin warustettu. Jouduttuaan ahtaalle nosti talo pari kertaa hengähdysaikaa saadakseen walkean lipun ryhtyen tämänjälkeen kuitenkin uudelleen taisteluun. Tästä kiihtyneinä saksalaiset 
+          waltasiwat talon klo 10 tienoissa tulisella wäkirynnäköllä.</p>
+        <p>Senaatin taloon ja sitä ympäröiwiin rakennuksiin sekä työwäentalolle oliwat punaset koonneet suuria joukkoja. Tehdäkseen taistelusta pikemmin lopun saksalaiset awasiwat taloja wastaan 
+          tulen laiwoista. Seurauksena oli, että punaset komppania komppanian jälkeen alkoiwat antautua. Samalla antautuiwat myöskin Uudenmaan kasarmissa ja realilyseossa olleet punaset. Kaikkiaan 
+          on antautuneita toista tuhatta. </p>
+        <p>Seuraawina päiwinä jatkui Pitkän sillan takaisten kaupunginosien Siltasaaren, Kallion ja Sörnäisten puhdistaminen. Täällä tawattiin suuria asewarastoja tykkejä, kuularuiskuja, 
+          tuhansittain kiwääreitä ja joukottain ampumatarpeita. Punaisten joukot pakeniwat kaikkialla heittäen aseensa. Yksityiset joukot keinoista wälittämättä koettiwat kuitenkin yhä tehdä 
+          wastarintaa. Puhdistustyö jatkui tämän wuoksi useita päiwiä.</p>
+      </Article>
+      <Article titleText="Tampereen valloitus.">
+        <h5>Taistelut tavattoman verisiä.</h5>
+        <p>„Åbo Underrättelser” on saanut Tampereen taisteluista Vaasan kautta t.k. 6 p. päivätyn kuvauksen, joka osoittaa että kaupungin valloittaminen on maksanut paljon verta ja aiheuttanut 
+          kaupungille suuria vaurioita.</p>
+        <p>Kirjeen lähettäjä ilmoittaa Tampereella saatujen vankien lukumäärän nousevan 8,000. Taistelussa on kaatunut 2,000 henkeä. Punaisia oli 1,000 miehen onnistunut päästä pakenemaan Kuruun 
+          päin, mutta on heidät myöhemmin otettu kiinni.</p>
+        <p>Vaikka kaupunkiin oli pudotettu lentokoneista kenraali Mannerheimin julistuksia, joissa ilmoitettiin vastarinta turhaksi ja kehoitettiin luopumaan aseista, jatkoivat punaiset mieletöntä 
+          vastarintaansa.</p>
+        <p>Kaupungin valloitukseen otti osaa m. m. 341 miestä käsittävä ruotsalainen brigadi kapteeni Fritsellin johdolla. Brigadi joutui tuleen pääsiäisen edellisenä torstaina, jolloin se sai 
+          klo 9 aikaan aamulla määräyksen sijoittua Tampereen itäpuolelle jossa sen lähimpänä tehtävänä oli metsän puoleisen seudun vihollisesta puhdistaminen ja sitten marsittava kaupunkia 
+          kohti. Ruotsalaiset ryhtyivät reippaasti toimeensa joutuen kahdelta puolen sivusta tulen alaisiksi, joka aiheutti mieshukkaa kahden tunnin ajan.</p>
+        <p>Pääsiäislauvantain taistelut olivat kiivaimmat koko sodan aikana ennen sitä. Punaiset puolustivat asemiaan vimmatusti. Vangit kertovat punaisten toimeenpanneen katutaisteluja, joista 
+          syntyi suorastaan verilöylyjä. Sairasvaunut kulkivat lakkaamatta pohjoiseen täynnä haavoittuneita.</p>
+        <p>Huhtik. 1 p. ilmoitettiin, että Tampereen valloitus oli osoittautunut paljon vaikeammaksi kuin mitä yleensä oli luultu. Hyökkäyskolonnat tulivat mitä suurimmasta urhoudesta huolimatta 
+          verisesti pysäytetyiksi ja kärsivät monin paikoin tavattomia vaurioita. Lopullinen rynnistys kaupunkiin oli jo kerran määrätty, mutta joukkojen säästämiseksi siitä luovuttiin ja sen 
+          sijaan alettiin työläiskortteleita vastaan yleinen pommitus. Kortteleissa syttyi tulipaloja. Punaiset sijoittivat talojen katoille kuularuiskuja myyden henkensä kalliisti. Kirjeen 
+          lähettäjän taistelukuvaukset päättyivät pääsiäisillan taisteluihin, ilmoittaen vain lopuksi edellä mainitut vankien ja kaatuneiden määrät.</p>
+      </Article>
+      <Article titleText="Turun vapauttaminen punaisista.">
+        <h5>Tapahtunut verrattain rauhallisesti.</h5>
+        <p>Eräs turkulainen, joka vaivaloisen matkan jälkeen on torstaina saapunut tänne, on Hbl:lle kertonut viime päiväin tapahtumista Turussa m. m:</p>
+        <p>Ennen punaisten lähtöä Turusta höltyi järjestys entisestäänkin. Usein nähtiin juopuneita kaduilla, varsinkin sen jälkeen, kun punaiset olivat ryöstäneet viimeisetkin väkijuomat 
+          Nordforsin varastosta.</p>
+        <p>Torstaina t. k. 4 p. saatiin tietää, että suojeluskuntalaiset olivat rikkoneet Turun—Toijalan rataa, jota punaiset olivat ahkeraan käyttäneet joukkojensa siirtämiseksi pois kaupungista. 
+          Punaiset saivat kuitenkin radan seuraavana päivänä korjatuksi, niin että he voivat edelleenkin tyhjentää uhattua kaupunkia joukoistaan. Kaikenlaisia huhuja oli kiertelemässä punaisten 
+          aikeista. „Diktaattori” Lungberg jäi kaupunkiin aina viime hetkeen asti ja kerrottiin hänen omakätisesti ampuneen kolme punakaartilaista, koska näiden ei ollut onnistunut aiheuttaa 
+          rannikkoradalle tarpeeksi suuria vaurioita. Vangitsemiset jatkuivat viime hetkeen asti.</p>
+        <p>Kaupungin puhdistaminen punaisista tapahtui sitten jokseenkin vaivattomasti. Kertoja itse, ent. poliisi, oli perjantaina klo 12 aikaan päivällä riisunut suurella torilla muutamia 
+          punaisia aseista ja tämä oli tietenkin merkkinä yleiseen vapautukseen. Klo 2 aikaan päivällä ryntäsi 100 punaista asemalta kaupungin keskustaan, jolloin laukaustenvaihtoa syntyi m. m. 
+          lähellä toria. Ketään ei kaatunut ja haavoittuneitakin oli vain muutamia. Pian ajettiin punaiset takaisin pesäänsä asemalle. Iltapäivällä vallitsi kaupungissa täydellinen rauha ja 
+          väestö liikkui suurin joukoin kaduilla.</p>
+        <p>Perjantai-iltana t. k. 5 p. matkustivat viimeiset punaiset Turusta Toijalaan päin. Lauantaina sai valkokaarti apua kahden miinalaivan ukrainalaisilta sotilailta, jotka lähettivät 
+          kaupungille patrulleja. Aikaisemmin olivat punaiset tahtoneet riisua ukrainalaiset aseista, mutta nämä panivat vastaan ja punaisten oli luovuttava yrityksestään menetettyään muutamia 
+          kaatuneita.</p>
+        <p>Perjantaista alkaen oli tietysti valkokaarti toimessa päällikkönsä eversti Westmanin johdolla. Maanantaina saapui saaristosta pieni valkokaartilaisjoukko ruotsalaisen kapteenin kreivi 
+          Ehrensvärdin johdolla. Nämä kehoittivat nyt ukrainalaisia luovuttamaan aseensa, minkä nämä tekivätkin ilman muuta.</p>
+        <p>Punaisten ottamat vangit oli vapautettu jo torstaina, kun punaiset olivat kuulleet huhun, että saksalaiset ryhtyisivät asiaan, ellei vapauttaminen tapahtuisi. Perjantain vastaisena yönä 
+          lienevät punaiset räjäyttäneet satamassa 15 suurempaa ja pienempää laivaa. Kertojan sanojen mukaan ovat punaiset pahoin turmelleet puhelinasemaa ja kirjapainoja sekä ryöstäneet m. m. 
+          tullikamarin ja Hummelinin tupakkatehtaan.</p>
+      </Article>
+      <Article titleText="Porin walloitus.">
+        <h5>Tapahtunut t. k. 13 p:nä.</h5>
+        <p>Walkoiset marssiwat Poriin lauantaina t. k. 13 p., ensimäisenä luutnantti Lissisen johtama Porin rykmentin kolmas komppania, joka edellisenä yönä oli pistimin woittanut wiholliset 
+          Ruosniemessä, kaupungista 6 km. koilliseen. Yhtaikaa nousi toinen komppania maihin Mäntyluodossa ja miehitti Poluksen jääkäri Sundellin johdolla. Ennen pakoaan punakaartilaiset 
+          toimittiwat tawanmukaista häwitystyötään, polttiwat rautatieaseman, räjäyttiwät siltoja ja upottiwat laiwoja, tehden wielä roswouksia lisäksi.</p>
+        <p>Walkoiset saiwat 450 wankia ja paljon sotasaalista, m. m. eräitä wenäläisiä sotalaiwoja. Maanantaina oli sitten Porissa sotilasparaati, jolloin Porin rykmentti sai oman lipun.</p>
+      </Article>
+      <Article titleText="Wangittujen punakaartilaisten kohtalo.">
+        <h5>Joutuwat Suomen wiranomaisten tuomittawiksi.</h5>
+        <p>Wangittujen punakaartilaisten omaisten ei tarwitse olla lewottomia niiden wankien kohtalosta, jotka owat saksalaisen sotawäen haltuun joutuneet, mitä wankien kohteluun ja hengen 
+          turwallisuuteen tulee. Mikäli olemme saksalaisen johdon taholta saaneet tietää, wastaa sotawäki wankien kohtelusta niin kauan kuin he owat sotilaiden huostassa. Sen jälkeen jätetään 
+          he laillisten suomalaisten wiranomaisten tutkittawiksi ja tuomittawiksi.</p>
+        <p>Saksalainen maihinnousuarmeija ei ole tänne saapunut sekaantuakseen maan sisäisiin oloihin tai puolueiden wälisiin riitoihin, ja asettuu se niihin nähden täysin puolueettomalle 
+          kannalle. Maihinnousuarmeijan tarkoituksena on ainoastaan yhteissopimuksen nojalla ja yhteiswoimin Suomen laillisen hallituksen kanssa turwata maan wapaa itsenäisyys ja kansan sisäinen 
+          turwallisuus.</p>
+        <p>Sentähden lausuwat saksalaiset sotilaswiranomaiset sen toiwomuksen, että elämä niin pian kuin mahdollista saataisiin palautumaan säännölliseen uomaansa, että liikenne, siwistyselämä 
+          j. n. e. pian uudelleen elpyisiwät ja siten säännölliset olot jälleen palautuisiwat.</p>
+        <p>Missä sotilaswiranomaiset waan woiwat, esim. mitä rautateihin tulee tekewät he parhaansa auttaaksensa suomalaisia wiranomaisia asiain nopeassa järjestämisessä, mikä on erittäin tärkeätä 
+          esim. elintarwepulan helpottamiseksi.</p>
+      </Article>
+      <Article titleText="Miten vallankumous sai alkunsa.">
+        <h5>Punakaarti alkoi metelinsä bolshewikikomisario Trotskin määräyksestä.</h5>
+        <p>Jo pitkät ajat tiedettiin niin porwarillisissa kuin kapinaliikkeestä erossa olleissa sosialidemokratisissakin piireissä Wenäjän bolshewikien ja meidän sosialistiemme n. s. wasemmiston 
+          wälillä käytäwän salaperäisiä neuwotteluja. Niitten laadusta ei kuitenkaan oltu täysin selwillä, waikka kaikki merkit wiittasiwat siihen, että woimat yhdessä suunnitteliwat wenäläisten 
+          ja suomalaisten punakaartilaisten awulla Suomen laillisen hallituksen ja Kansan eduskunnan kukistamista ja maan saattamista samanlaiseen kaaostilaan, mihin bolshewikihallitus Wenäjän jo 
+          oli saattanut. Nyttemmin on saatu todisteita siitä, että meidän sosialistiemme johtomiehet owat olleet nöyriä Wenäjän bolshewikien käskyläisiä, tahdottomia wälikappaleita, joitten 
+          tehtäwänä on ollut wain wenäläisten „towerien" määräysten täytäntöönpano omaa kansaansa ja maataan wastaan. Kun myöhemmin tullaan julkaisemaan asiasta laajempia selostuksia, mainitsemme 
+          tällä kertaa wain pari todistetta.</p>
+        <p>Muutamia päiwiä ennen wallankumouksen alkamista onnistuttiin kaappaamaan eräs Pietarista lähetetty sähkösanoma meidän sosialistiemme johtomiehille. Se kuului seuraawasti:</p>
+        <p className="quote">Toiminnan alkamisen hetki on tullut. Keskittäkää 15,000 punakaartilaista Helsinkiin ja sen ympäristöön. Ottakaa walta haltuunne. Wangitkaa hallitus. — Trotski.</p>
+        <p>Julkisuudessa bolshewikihallitus samaan aikaan antoi julistuksen, jolla määrättiin wenäläinen sotawäki poistettawaksi Suomesta. Mutta mitalin toinen puoli osottikin todellisen 
+          tarkotuksen. Helsingissä ilmestywässä sotilaslehdessä julkaistiin helmik. 19 pnä näin kuuluwa ilmoitus:</p>
+        <p className="quote">Täten ilmoitetaan niille wenäläisille towereille, jotka haluawat astua Suomen punaiseen kaartiin tykkimiehinä, kuularuiskumiehinä tai muussa ominaisuudessa, että he 
+          saawat lähempiä tietoja ent. senaatintalossa klo 11 ap. ja klo. 3—5 ip. Paraatikäytäwä. Waaditaan sen komppaniakomitean tai järjestön antama identisyystodistus, mihin asianomainen 
+          kuuluu. Ehdot: 15 Suomen markkaa päiwässä ynnä wapaa ylöspito.</p>
+      </Article>
+      <Article titleText="Mitä punaset veivät mukanaan.">
+        <p>Tyhjentäessään Helsinkiä veivät punaset mukanaan omia tekemiään seteleitä 77 milj. mkn ja vanhempia oikeita seteleitä 160 milj. mkn arvosta.</p>
+        <h5>Uusi suunta sos. dem. puolueessa.</h5>
+        <p>Viisikolmatta sosialidemokraattia (m. m. hra Väinö Vuolijoki) ovat julaisseet „julistuksen Suomen työväelle“. Siinä tuomitaan jyrkästi se kumouksellinen menettely, jota Suomen sos.-dem. 
+          puolueen tähänastinen johto Venäjän bolshevistien esimerkin mukaan ja niiden aseelliseen apuun nojaten on käynyt noudattamaan, ja kehoitetaan Suomen työväkeä jälleen palaamaan laillisen 
+          toiminnan tielle. Julistus loppuu sanoihin: „Siis alas aseet kaikkialla ja palatkaamme länsimaisen sosialidemokratian taistelutapoihin, palatkaamme rakentavaan eduskunnalliseen työhön 
+          ja aseettomaan järjestötoimintaan”.</p>
+        <h5>Punaisten venäläiset auttajat.</h5>
+        <p>Tampereen valloituksessa joutui vangiksi myöskin Tampereen puo lustuksen järjestäjä, usein mainittu venäläinen eversti Svetshnikov, joka nyttemmin on saanut ansaitsemansa lopun.</p>
+        <h5>Taiteilija Axel Gallen Kallela</h5>
+        <p>on innosta ja ansiokkaasta toiminnasta korotettu reservivänrikiksi.</p>
+        <h5>Punainen „hallitus“ pakenee Venäjälle.</h5>
+        <p>T. k. 17 p:nä tulleen tiedon mukaan on kansanvaltuuskunta ilmoittanut venäläisen hallituksen jäsenille, että se aikoo asettua Pietariin. Saman tiedon mukaan ovat Tokoi ja Lumivuokko 
+          paenneet Venäjälle.</p>
+        <h5>Pidätettyjä punaisia.</h5>
+        <p>Punaisen hallituksen vangituista toimihenkilöistä mainittakoon maist. Sulo Vuolijoki sekä Jean Boldtin surullisenkuuluisa asetoveri, „sisar“ Huttunen.</p>
+      </Article>
+      <Article titleText="Kuritushuonevangit punakaartilaisten riveissä.">
+        <p>Jo helmik. alussa vapautti punainen hallitus 600 Sörnäisten kuritushuoneen vankia. Viime perjantaina vapauttivat punakaartilaiset 300 jälellä olevista rikollisista, kuljettivat heidät 
+          Kansantalolle, missä heidät riemulla otettiin vastaan, aseistettiin ja liitettiin punakaartilaisten riveihin. Vankilassa on jälellä vain joitakuita vankeja, jotka sairaina ollen eivät 
+          päässeet lähtemään. Nyttemmin on vangeista saatu suurin osa kiinni.</p>
+      </Article>
+      <Article titleText="Punaset ryöstäneet hurjasti Somerolla.">
+        <h5>Mitään ei säästetty.</h5>
+        <p>T. S:lle kirjoitetaan, että ensimäiset punakaartilaispakolaiset tuliwat keskiwiikkona huhtik. 10 p:nä Joensuun kylään. Heitä oli n. 40 hewoskuormallista: perheitä ja asesteituja miehiä. 
+          Nämä esiintyiwät rauhallisesti ja jatkoiwat matkaansa Högforssiin päin. Torstaina tuli monta sataa hewoskuormaa punaisia, jotka nekin wielä esiintyiwät rauhallisesti. Mutta perjantaita 
+          wastaan yöllä alkoi melkein kaikissa Someron kirkonkylän taloissa ryöstö. Arwokkaammat esineet: kulta- ja hopeatawarat, sänky- ja pitowaatteet y. m. sekä käsillä olleet rahat wietiin. 
+          Postista meni punaisten mukana kassakaappikin.</p>
+        <p>Perjantaina saapui sadottain roswoja lisää. Kiirun talon pihalla esim. majaili 300 hewosta. Ryöstöt jatkuiwat edelleen. Tällöin tyhjennettiin m. m. kauppias Maleniuksen tawarawarasto 
+          ihan tyhjäksi. Mitä worot eiwät woineet wiedä mukanaan, se monessa paikoin hakattiin kirweellä pirstaleiksi. Pakokauhu wallitsi kaikkialla ja kylä oli tyhjä haltiawäestä. Lauantai-aamuna 
+          suurin osa lähti Hämeenlinnaan päin. Niitten mukana lähti paikallinen punakaarti osittain, mukanaan perheetkin, jättäen palstansa oman onnensa nojaan. Lautelan osuuskauppa ryöstettiin.</p>
+        <p>Sunnuntaina lähtiwät wiimeiset näistä jatkamaan matkaansa. Pakolaiset ajeliwat mitä kauniimmilla hewosilla ja ajelukaluilla, jotka tietysti oliwat roswottuja.</p>
+        <p>Punaiset naiset owat esiintyneet hywin hurjasti, wieden paikka paikoin kodit puti puhtaiksi. Kotien seinillä kunniapaikoilla olleista morsiusseppeleistäkin oliwat roswot riistäneet 
+          kukat rintoihinsa.</p>
+      </Article>
+      <Article titleText="Asewelwollisuus valkoisessa Suomessa.">
+        <h5>Sosialisteja ei pakoiteta taistelemaan punakaartia wastaan.</h5>
+        <p>Koska sosialistilehdet alinomaan wakuuttiwat, että walkoiset pakoittiwat Pohjanmaan sosialisteja taistelemaan luokkatowereita wastaan, owat T. S:t tiedustelleet miten tämän asian laita 
+          on. Kohta selwisi, etteiwät walkoiset tällaista waatineet. Pohjanmaalla on woimassa asewelwollisuus, jonka mukaan asekuntoiset miehet jaetaan kolmeen luokkaan. A-luokkaan kuuluwat terweet 
+          ja luotettawat miehet jotka lähetetään rintamalle. B-luokkaan wanhemmat ja muuten wähemmän sotapalwelukseen kelpoiset sekä sellaiset, joiden kannasta ei ole tarkkaa tietoa. Nämä miehet 
+          muodostawat rintamatakaisen armeijan. C-luokkaan kuuluwat asekuntoiset miehet jotka owat sosialisteja mielipiteiltään ja muuten epäluotettawia. Nämä saawat tehdä yleisiä töitä, mikäli 
+          niitä on. Heidän ei siis ole tarwinnut taistella luokkaweljiään wastaan.</p>
+      </Article>
+      <Article titleText="Suomalaisten jääkärien saksalainen päällystö tilanteesta.">
+        <h5>„Wapautta ei saada lahjaksi”.</h5>
+        <p>Waasaan saapuiwat maaliskuun 8 p:nä suomalaisten jääkärien saksalaiset päälliköt, ewersti Ansfeldt, w. Colm ja majuri Stakel. Asemalla heidät otettiin juhlallisesti wastaan ja saman päiwän 
+          iltana jääkärien suomalaiset upseerit toimeenpaniwat heille juhlan. H. S:n kirjeenwaihtajalle lausui ewersti w. Colm m.m. seuraawaa:</p>
+        <p className="quote">Olen ottanut eron Saksan armeijasta ja puhun nyt teille suomalaisena upseerina. Täällä towereitteni ja oppilaitteni keskuudessa tunnen jälleen olewani kotona. Matkani 
+          jälkeen toiwon saawani suomalaisten towerieni kanssa ottaa osaa taisteluun Suomen itsenäisyyden puolesta. Mutta Suomi samoin kuin Saksakin, taistelee idässä suuremman, waikkakin 
+          kaukaisemman päämäärän puolesta, nimittäin lännen wartijana Aasian barbariaa, bokshewismia wastaan.<br />Taistelun tulos on warma. Järjestys tulee ehdottomasti saamaan woiton sekasorrosta. 
+          Taistelumme idässä on koko Europan taistelua, ja tulewaisuudessa Europa tulee warmaankin olemaan Suomelle kiitollinen siitä, mitä se nyt suorittaa.<br />Olen nähnyt Suomen nuorison 
+          aseissa: kaunis rotu, hywää sotilasainesta, kuuliaista ja innokasta wäkeä.<br />Waikka maan wapauttaminen maksaa werta, niin en kuitenkaan woi walittaa wälttämätöntä mieshukkaa, sillä 
+          jokaisen kansan, woidakseen pitää arwossa wapauttaan, täytyy ostaa se werellä ja kärsimyksillä. Uhrit tulewat liittämään koko kansan woimakkaaksi ja päämäärästään tietoiseksi 
+          kansakunnaksi. Wapautta ei woida saada lahjaksi!</p>
+      </Article>
+
+      <div className="interTitle">2.5.1918</div>
+      <Article titleText="Hauhon taistelut.">
+        <p>Hauhon taisteluista olemme saaneet seuraawia tietoja:</p>
+        <p>Maanantaina saapuiwat kenraali Mannerheimin joukot Pälkäneeltä ja Luopioisista Hauholle, jossa syntyi taisteluja lähellä Hauhon selkää. Punaset pakeniwat Syrjäntakaa kohden, jonka 
+          läheisyydessä saksalaiset ottiwat pakenijat wastaan kahdelta taholta suunnatulla kuularuiskutulella. Taistelu päättyi punaisille erittäin weriseen tappioon. Heidän mieshukkansa on 
+          hywin suuri. Wankien lukumäärä nousee yli 1000. Osa punasista pääsi pakenemaan Kärkölän suunnalle, missä heitä wastassa on saksalaisia joukkoja. Täällä syntyneistä taisteluista emme ole 
+          saaneet lähempiä tietoja. Saksalaisten mieshukka tähänastisissa taisteluissa on erittäin wähäinen.</p>
+        <p>Kärkölään perääntyneet punaset yrittäwät nähtäwästi perääntyä Lahden eteläpuolitse Kotkaa kohti.</p>
+        <h5>Wankeja</h5>
+        <p>tuotiin Hämeenlinnaan wiime tiistaina Hauholta päin suuria joukkoja. Sotasaaliina on tuotu myöskin 3 tykkiä, useita kuularuiskuja, kiwääreitä, ampumawaroja, suuret määrät hewosia, 
+          ajoneuwoja y. m.</p>
+      </Article>
+      <Article titleText="Hämeenlinnassa saatu sotasaalis.">
+        <p>Hämeenlinnan asemalla saatu sotasaalis on huomattawasti suurempi Riihimäellä saatua. Asema-alue on aiwan täynnään kaikenlaisilla tawaroilla lastattuja waunuja. Helsinkiin jossa nykyään 
+          wallitsee tuntuwa puute elintarpeista, on jo lähetetty useita kymmeniä rukiilla, kauralla, ohralla, wehnällä, sardiineilla y. m. lastattua waunua. Hämeenlinnassa on kuitenkin wielä 
+          useita waunuja täynnä wiljaa ja muita elintarpeita, kankaita, kirjotuskoneita, sotatarpeita. Asema-alueella on myöskin 22 weturia, joista osa on wioitettu, 11 matkustajawaunua, 
+          kokonainen sanitäärijuna ja suuri joukko tawarawaunuja. Harwialan ja Hämeenlinnan wälillä owat punaiset räjäyttäneet panssarijunansa, Asemalla tapahtuneessa räjähdyksessä ja sitä 
+          seuranneessa tulipalossa tuhoutui n. 20 waunua, joukossa muutamia matkustajawaunuja. Sanitäärijuna, joka oli likainen ja pahasti pidetty, on lähetetty Helsinkiin.</p>
+      </Article>
+      <Article titleText="Kenraali Mannerheimin sähkösanoma.">
+        <p>Kenraali Mannerheim'iltä on kaupungin Waltuustolle eilen saapunut seuraawa sähkösanoma:</p>
+        <p className="quote">Nuori armeija on saawuttanut uuden suuren menestyksen. Kowien taistelujen jälkeen on Wiipuri walloitettu. Karjala on täten lopullisesti wapautettu ja maan wapaus 
+          turwattu. Osa joukkojamme on edennyt rajalle saakka sitä wartioimaan.<br /><span className="signature">Kenraali Mannerheim.<br />Mikkeli.</span></p>
+      </Article>
+      <Article titleText="H:linnan miliisipäällikkö Siimes Kanervion viimeiset päivät.">
+        <p>En tuntenut häntä ennen. Tiesin waan että hän oli punainen ja jäi tointansa hoitamaan punasten nostaman kansalaissodan ajaksi. Opin tuntemaan hänet wasta putkassa, kun hän oli wangittu. 
+          Mutta hänen elämänsä päiwät oliwat mielenkiintoa herättäwät.</p>
+        <p>Tunnettu suurpyöweli, suurhirmu, punakaartilaisten tiedustelutoimiston johtaja Oiwa Wirtanen otti wähitellen kaiken wallan käsiinsä Hämeenlinnassa ja sen ympäristöllä. Miliisipäällikkö S. 
+          Kanerwio tuli tietysti hänen kanssaan tekemisiin. Wirtasen käskystä pidätettiin suuret joukot, miehiä ja naisia sekä kaupungissa että ympäristöllä. Tutkimatta heitä säilytettiin 
+          wankiloissa ja poliisilaitoksella wiikkokausia. Kun Kanerwio ja wallankumousoikeuden yleinen syyttäjä J. Niemi tahtoiwat tutkia pidätettyjä, esti sen Wirtanen. Rintamalta lähettiwät 
+          muutamat punakaartin päälliköt wangittuina Hämeenlinnaan suurimpia ryöwäreitä. Mutta Wirtasen käskystä ne wapautettiin, eikä hän sallinut niitä tutkia. J. Niemi kertoi että hän waati 
+          tällaisia roswoja pidettäwäksi wangittuina ja yleensä tahtoi että oikeutta koetettaisiin noudattaa ja sai Wirtaselta wastauksen: mitä wallankumouksessa on tehty sen owat tehneet nämä 
+          warkaat ja roswot; ne jotka lakia ja oikeutta noudattawat eiwät saa mitään aikaan. Wirtasen käskystä myöskin surmattiin wapaaksi laskettuja wankeja ja pantiin toimeen murhia Kalwolassa, 
+          Rengossa, Hattulassa y. m. S. Kanerwio ilmoitti että hänellä oli warmat todistukset siitä että useita ihmisiä oli murhattu Wirtasen käskystä. Hänen ja Wirtasen wälit käwiwät yhä 
+          kireämmiksi, Wirtanen oli uhannut wangita Kanerwion, jos ei hän tottele Wirtasta. S. Kanerwio sanoi että koska hänen tehtäwänään oli suojella ihmisten henkeä ja omaisuutta Hämeenlinnassa 
+          eikä hän Wirtaselta saanut sitä tehtäwäänsä suorittaa, täytyi hänen poistaa Wirtanen. Ensin teki hän hänestä muutamien muiden kanssa kirjallisen syytteen Punakaartin esikunnalle, se ei 
+          mitään auttanut. Kun hän sai tietää että Wirtanen aikoi murhauttaa kymmeniä ehkä satoja wiattomia ihmisiä, päätti hän asiata harkittuaan surmata hänet. Tiistai iltana 16 p. huhtikuuta, 
+          wapautti Kanerwio J. Niemen kanssa useita naisia, nähtäwästi sentähden että seuraawana yönä piti joukkomurhia tehtämän. Samana iltana myöhään wangitsi Kanerwio miliisien awulla 
+          Wirtasen, pani hänet käsirautoihin wei rantatorille wenäläisen kirkon seinustalle ja ammutti hänet siinä. Sen tehtyään hän puhelimitse ilmoitti asiasta esikuntaan. Esikunta oli Wirtasen 
+          kaltaisia roistoja täynnä. Sieltä tuli suuri joukko aseistettuja miehiä. Ne ampuiwat kuin hullut poliisikamarissa, wangitsiwat miliisit ja Kanerwion, jota pahasti rääkkäsiwät. Yöllä 
+          perjantaita wastaan 19 p. huhtikuuta käwiwät punaset kahdesti poliisiputkassa pampulla rääkkäämässä Kanerwiota, joka sen jälestä ei enään näyttäytynyt toisille. Seuraawana yönä lauantaita 
+          wasten 20 p. huhtikuuta istui sotaoikeus, joka tuomitsi Kanerwion ammuttawaksi. Missä ja kuka sen suoritti, sitä en tiedä.</p>
+        <p>Kidutettaessa ja tutkittaessa Kanerwio lausui työnsä suorittaneensa wakawan harkinnan jälkeen. „Se oli minun welwollisuuteni minun täytyi se tehdä”, sanoi hän „minä wastaan siitä hengelläni, 
+          wielä minua työstä tulewat Suomen sosialistitkin kiittämään”. Hän arweli että roistoja on muitakin kuin Wirtanen, mutta etteiwät toiset rohkene yhtä julkeasti menetellä, kun yhdeltä on 
+          otettu henki. Ja siinä hän oli oikeassa.</p>
+        <p>Oli Siimes Kanerwio ollut mikä tahansa, elämänsä hän uhrasi puolustaaksensa oikeutta ja kuolemallaan pelasti hän meidät monet wangitut siitä surmasta, jota suurhirmu O. Wirtanen oli 
+          suunnitellut. Ja meidän täytyy kunnioituksella muistella häntä.</p>
+        <p className="signature">W. W.</p>
+      </Article>
+      <Article titleText="Punaisten häwityksiä maaseudulla.">
+        <p>Kaikkialla Hämeenlinnan ympäristöllä owat punaset roswojoukot ryöstäneet ja häwittäneet. Kalwolassa on poltettu kirkko, Kankaisten kartano ja Hommosen talo. Hattulassa on poltettu 
+          Parolan rautatieasema. Osuusmeijeri on räjäytetty ilmaan. Janakkalassa on poltettu Tohwelan talo ja pappila. Hauholla, Tuuloksessa ja Lammilla tapahtuneista häwitystöistä emme wielä ole 
+          saaneet tietoa. Kaiken maaseudun owat punaset ryöstäneet puhtaaksi. Taloista on wiety hewoset, ajoneuwot, elintarpeet, waatetawarat, kulta- ja hopeaesineet, yleensä kaikki, mitä on irti 
+          saatu. Karjaa on suuret määrät teurastettu. Murhattujen lukumäärä Hämeenlinnan ympäristöpitäjissä nousee useisiin kymmeniin.</p>
+      </Article>
+      <Article titleText="Punaisten viimeisiä hävitystöitä.">
+        <h5>Uudessakaupungissa.</h5>
+        <p>T.k. 13 pnä päättyneen wiikon loppupuolella saiwat Uudenkaupungin punakaartilaiset wihdoin lähtökäskyn. Mutta ennen lähtöään he tietenkin päästiwät wielä kerran kaikki intohimonsa ja 
+          pahat woimansa walloilleen. Kaikki kaupungissa olleet öljy-, bentsiini- y.m. warastot kaadettiin mereen ja tynnyrit heitettiin rannalle. Telefoonikeskusasema taottiin moukareilla 
+          kokonaan säpäleiksi. Saman kohtalon sai osakseen Wakka-Suomen kirjapaino, jossa koneet ja kastit kokonaan särjettiin. Uudenkaupungin Sanomain kirjapaino tuhottiin jo aikaisemmin. 
+          Liikkeet ja kaikki warastot ryöstettiin ja niin alkoi tämän ryöwärilauman matka kaupungista, joka muistuttaa hunnilaislauman siellä käyntiä.</p>
+        <h5>Mäntyluodolla.</h5>
+        <p>Ennen lähtöään Mäntyluodolta upottiwat ja särkiwät punaiset satamassa olleet Suomen Höyrylaiwa-Osakeyhtiön laiwat Westa ja Lyra, Waasan-Pohjanmeren höyrylaiwaosakeyhtiön laiwan Iris, 
+          W. Rosenlew & C:o A. B:n höyrylaiwan Mars ja raumalaisen höyrylaiwan Kalewa.</p>
+        <p>Waltion Mäntyluodolla sijaitsewa höyryruisku huoneineen räjäytettiin.</p>
+        <p>Toiminimi Lars Krogiuksen makasiineista ryöstettiin kaikki tawarat.</p>
+        <p>Miten perinpohjaisesti punaiset toimittiwat häwitystyönsä mainittakoon, että tulliwarastossa Mäntyluodolla oli 100 kirjoituskonetta, kukin omassa laatikossaan. Aiwan joka ainoa laatikko 
+          awattu ja joka ainoa kirjoituskone myös hakattu säpäleiksi.</p>
+        <h5>Raumalla.</h5>
+        <p>Raumalta weiwät punaiset mukanaan suurimman osan kaupungin puhelinkaapeista, elintarwelautakunnan ja rautatieaseman kassat sekä osuuskaupan n. 40,000 mk. sisältäwän kassan. Wielä weiwät 
+          he kaikki kaupungissa olewat wiljawarat sekä maaseurakunnan makasiinissa säilytettyä siiemenwiljaa 20 kuormaa.</p>
+        <p>Rauman siiwot sosialistit kaasiwat suurien ryöstämiensä wiljawarastojen päälle öljyä ja sytyttiwät sitten palamaan. Kangastawaroita on myös koottu asemille ja — poltettu.</p>
+        <p>Rauman museotakaan ei jätetty rauhaan. Punaiset särkiwät museohuoneuston alaowen ja molemmat yläowet he löiwät kappaleiksi. Kaapeista ja witriineistä he löiwät lasit rikki, repiwät 
+          alttariwerhon ja yhden arkun kannen kiskoiwat irti, tawaroita owat paiskelleet pitkin lattiata, warastaneet rintaneuloja, korwarenkaita, sormuksia ja rahoja raha- ja mitalikokoelmasta.</p>
+      </Article>
+      <Article titleText="Sotatapahtumat Suomessa.">
+        <h5>Wiipuri wallattu.</h5>
+        <p className="quotationStyle">Päämajan tiedonanto huhtikuun 29 p:ltä 1918. (STT)</p>
+        <p><span className="accent">Koko Wiipuri on walloitettu.</span> Wihollinen pysyttelee wielä länsiosassa Sorwalia ja Tienhaaraa. 6,000 punaista koetti murtautua läpi Haminaa kohden. Yritys 
+          torjuttiin sangen suurin tappioin. Tämän woiton kautta on Suomen urhoollinen armeija murtanut wihollisen wiimeisen wahwan turwapaikan.</p>
+        <p className="signature">Päämajoitusmestari Ignatius.</p>
+        <h5>* * *</h5>
+        <p className="quotationStyle">Päämajantiedonanto n:ro 2217, huhtikuun 28 p:ltä 1918. (STT)</p>
+        <p><span className="accent">Läntinen rintama:</span> Hämeenlinnassa on suoranainen yhteys saawutettu Länsiarmeijan ja saksalaisen itämerendiwisionan joukkojen wälillä. Lyöty wihollinen on 
+          saksalaisten takaa-ajamana wäistynyt osaksi Renkoon, osaksi Hauholle ja Tuulokseen päin, missä sen yritys päästä läpimurtautumaan pohjoista kohti on ankarasti taistellen tehty tyhjäksi. 
+          Wielä jälellä olewia taistelukuntoisia wihollisjoukkoja wastaan on aloitettu liikkeet, oltaessa yhteistoiminnassa saksalaisten kanssa.</p>
+        <p><span className="accent">Sawon rintama:</span> Joukkomme tunkeutuwat pitkin koko rintamaa eteenpäin. Rautatien länsipuolella olewalla alueella on Taipaleen, Koskenniskan, Huhdasjärwen, 
+          Hartolan ja Wesalan kylät meidän käsissämme, rautatien itäpuolella on Parola miehitetty.</p>
+        <p><span className="accent">Itärintama:</span> Ripeästi eteenpäin tunkeutuen owat ewerstiluutnantti Sihwon joukot saawuttaneet ja kulkeneet yli Simolan—Howinmaan wälisen rautatielinjan. 
+          Simolassa ja Wainikkalassa mursi kolmas Karjalan rykmentti kiihkeän taistelun jälkeen wihollisen wastarinnan sekä waltasi yhden tykin.</p>
+        <p>Kenraalimajuri Wilkmanin rynnistys nyttemmin täydellisesti eristettyä Wiipuria wastaan kehittyy edelleen. Ewersti Ausfeld on eilen ottanut haltuunsa Härkälän ja Koiwiston, jolloin on 
+          saatu runsas sotasaalis, m. m. 25 tykkiä, 14 kuularuiskua ja otettu 1,000 wankia. — Inon linnoitus on saarrettu maan puolelta.</p>
+        <p className="signature">Päämajoitusmestari Ignatius.</p>
+        <h5>* * *</h5>
+        <p>Loimaalta ilmoitetaan meille sunnuntai-iltana myöhään, että Tammelan suunnalla on otettu 700 punaista wangiksi, 3 kuularuiskua, 200 hewosta ja paljon sotatarpeita.</p>
+        <p>Samalla ilmoitetaan että Toijala on walloitettu sunnuntain wastaisena yönä. Sunnuntaina iltapäiwällä oli puhelinyhteys sinne jo kunnossa Loimaalta.</p>
+      </Article>
+      <Article titleText="Hindenburg onnittelee Tampereen walloituksen johdosta.">
+        <p>Suomen Sanomalehtitoimisto ilmoittaa: Senaatin puheenjohtaja on Saksan päämajasta Suomen Berlinissä olewan lähettilään kautta saanut wastaanottaa seuraawan onnittelusähkösänoman:</p>
+        <p className="quote">Tampereen kunniakkaan walloituksen johdosta, joka on wienyt Suomen kansan suuren askeleen eteenpäin odotettua wapautta kohti, pyydän Teidän ylhäisyyttänne esittämään 
+          Suomen hallitukselle parhaat onnitteluni.<br />Sotamarsalkka <span className="signature">Hindenburg.</span></p>
+      </Article>
+      <Article titleText="Kunnianosotus kenraali Mannerheimille.">
+        <p>Suomen wirallinen sanomalehtitoimisto ilmoittaa, että senaatti on kenraali Mannerheimille ja hänen joukoilleen Tampereen walloituksen johdosta lähettänyt kiitossähkösanoman loistawasta 
+          menestyksestä sekä antanut kenraali Mannerheimille henkilökohtaisesta urhollisuudesta neljännen luokan wapaudenristin ja sotatoimien taitawasta johdosta ensimäisen luokan wapaudenristin.</p>
+      </Article>
+      <Article titleText="Tampereen punainen naiskaarti.">
+        <p>Katuelämän ja esikaupunkien huonoimmista aineksista wärwätyllä naiskaartilla on warsin huomattawa osa Tampereen piirityksen kestäessä ja warsinkin sen jälkeen, kun kaupungin kohtalo oli 
+          lopullisesti ratkaistu ja wastustus ilmeni wain mielettöminä ilkitöinä. Housupukuisina, usein korkeakorkoiset kengät jaloissa ja paksulti maalia poskissa, oliwat nämä kaartilaiset warsin 
+          hassunkurisen näköiset, kun he kiwääri olalla asteliwat wahdissaan. Mutta todellisuudessa he oliwat oikeita pikku paholaisia.</p>
+        <p>Kun joen itäpuolinen kaupunginosa jo oli walloitettu, hiipiwät he sinne, nyt naisen puwussa, wieden mennessään paloöljyä ja bentsiiniä, ja sytyttiwät rappukäytäwissä rakennukset tuleen. 
+          Näin paloi Hämeenkadun warrella monta taloa poroksi.</p>
+        <p>Erään talon, missä punaiset säilyttiwät wankejaan, kerrotaan samoin joutuneen näiden raiwotarten uhriksi. Kymmenkunta walkoista wankia lienee tällöin saanut surmansa.</p>
+        <p>Jo puhdistetussa kaupunginosassa istui ruotsinmaalainen upseeri ja suomalainen jääkäri eräässä kahwilassa. Silloin astui muuan nainen sisään ja ampui upseerin. Luonnollisesti hän sai 
+          rangaistuksensa seuraawassa tuokiossa.</p>
+      </Article>
+      <Article titleText="Pappien murhat.">
+        <p>Suodenniemen kirkkoherran <span className="accent">K. I. Kalwan</span> owat punaiset murhanneet. Hänen ruumiinsa sai useita päiwiä wirua lumessa eikä omaisten sallittu huolehtia sen 
+        hautaamisesta. Murhamiehet asettiwat kangistuneen ruumiin kirkon portin wiereen ja paniwat raamatun uhrinsa käteen.</p>
+        <p>Längelmäen kirkkoherra <span className="accent">Iisakki Wirtanen</span> sai kaamean lopun. Punaryssät ristiinnaulitsiwat hänet kirkon alttaripöytään. Hänen rintansa oli puhkaistu ja 
+        haawaan siroteltu suolaa. Ruumiin pään yläpuolelle oli werellä kirjoitettu: „Auttakoon Jumalanne”.</p>
+      </Article>
+      <Article titleText="Nälän järjestäjät.">
+        <p>Kaikkialla punaisten hallitusalueilla esiintyy silmiinpistäwänä harrastuksena saatta wäestö nälänhätään. Kaikkialla mässättiin muutamassa wiikossa sekä elintarwewiranomaisten että 
+          yksityisten kokoamat ruokawarat, jotka säästäen käyttämällä olisiwat riittäneet kuukausiksi liewentämään pahinta pulaa. Mitään ei sijaan hankittu, waan häwitettiin tai paetessa wietiin 
+          pois jääneet rippeetkin. Helsingistä roswosiwat punaiset lähtiessään minkä irti saiwat. Esim. Huittisissa owat nämä häwityshaluiset nälänjärjestäjät walelleet paloöljyllä 10,000 kg. 
+          lihaa ja suuren joukon sillitynnyreitä. — Eiköhän tänne jääneiden punaisten kannattajain sopisi miettiä, miksi meillä on nyt nälkä?</p>
+      </Article>
+      <Article titleText="Kun hämeenlinnassa alkoi vallankumous.">
+        <p className="caption">(Muistelma 29. 1. 1918.)</p>
+        <p>Se oli ikäänkuin ilmassa leijunut. Jo moninaita päiwiä oli tukahduttawa henki painostanut kaikkea, aawistettiin, odotettiin ja jo aiwan warmistuttiinkin, että jotakin ihmeellistä oli 
+          aiwan lähitulewaisuudessa tapahtuwa. Wiipurin weriset tapahtumat, joista wiikon warrella oli wiestiä saapunut, antoiwat ikäänkuin jotain aawistusta siitä mitä kuohumistilassa olewasta 
+          paiseesta oli puhkeawa...</p>
+        <p>Lauwantai-iltana 26 p. tammikuuta oli Hämeenlinnassa huomattawissa ensimäiset oireet siitä, että „punaisen armeijan” liikehtiminen oli alkanut. Silloin illan suussa lewisi tieto, että 
+          täkäläinen punakaarti kiwäärit olalla oli lähtenyt liikkeelle ja hajaantunut wartioimaan rataa Hämeenlinnasta etelään päin.</p>
+        <p>Sunnuntaipäiwä walkeni, sanomalehdet Helsingistä saapuiwat kertoen samansuuntaisista toimenpiteistä ja yleensä lisäten tilanteen uhkaawaisuutta. Puolenpäiwän jälkeen tilanne kärjistyi, 
+          ei enää päässyt telefonitse Helsinkiin, hurjia huhuja alkoi kiertää - käsitettiin, että oltiin jälleen uuden suurlakon alkuwaiheissa, millaisen, sitä ei wielä sillä hetkellä liene 
+          monikaan osannut kuwitella.</p>
+        <p>Patoutunut sähkö oli purkautumassa - miten ja mihin, sitä kyseltiin ja otaksuttiin.</p>
+        <p>Samanlaisen epämääräisen tilanteen wallitessa kului wielä maanantaipäiwä, hurjien huhujen ja mielikuwitelmien wallassa elettiin, mitään pitäwää tietoa miltään tahotta ei saatu.</p>
+        <p>Tällaisen epämääräisen tilanteen wallitessa walkeni tiistai, tammikuun 29 p., jolloin wallankumous Hämeenlinnassa toimeenpantiin. Heti aamulla kuultiin, että tänne oli saapunut Turusta 
+          (toisten tietojen mukaan Riihimäestä) 50 aseistettua punakaartilaista kuuluisan Hyrskynmurron johdolla. Nyt käsitettiin, että Hämeenlinnan idyllinen rauhallisuus oli loppuwa.</p>
+        <p>Aamupäiwä elettiin kuumeisen odotuksen wallassa, mutta kun mitään erikoisempaa ei kuulunut, alkoiwat mielet rauhoittua. Silloin, klo 2 jpp. lensi kulona wiesti läpi kaupungin, että 
+          Turun punakaartilaiset, lisättynä paikkakunnan kaartilaisilla, noin 100-miehisenä ryhmänä oliwat marssineet Suomalaisen Seuran huoneustolle, piirittäneet sen ja toimittaneet 
+          pintapuolisen kotitarkastuksen. Otaksuttiin kyseessä olewan tawallisen „aseiden etsinnän”. Mutta pian huomattiin, että suunnitelma olikin toinen. Noin 10 minuutin kuluttua marssi joukko 
+          ylös torin alikulmaan, hajaantui nopeasi hyökkäysketjuun ja kiwäärit ojona, hajaketjussa läheniwät toinen osa lääninhallitusta, toinen raatihuonetta.</p>
+        <p>Waltausta „wallankumousta” oltiin siis toimittamassa. Nähtäwästi oliwat punakaartilaiset olettaneet saawansa aseellista wastarintaa, muuten ei moinen hyökkäys ole ymmärrettäwissä. 
+          Sensijaan tapasiwatkin wain aseettomia, rauhallisia wirkamiehiä, jotka komennettiin taloista pois. Pian ilmestyi Raatihuoneen katolle 4 miestä, punainen lippu wedettiin liehumaan 
+          - wallankumous oli suoritettu.</p>
+        <p>Samaan aikaan kuin tämä „hyökkäys” toimitettiin, järjestyi torin joka kulmaan 4 - 8 miestä, jotka huutaen, huitoen ja kiwääreillä sekä rewolwereilla tähdäten liikkeellä olewia ihmisiä 
+          ajoiwat heitä pois — hywällä menestyksellä muuten, sillä parissa minuutissa oliwat kadut tyhjät, kaduilla liikkujat kun kauhistuksissaan syöksyiwät lähimpään puotiin tai porttikäytäwään 
+          henkensä säästääkseen.</p>
+        <p>Samaan aikaan kuin tämä tapahtui, järjestettiin kaikkialle tulleihin wahdit, jotka eiwät päästäneet ketään kaupunkiin tahi sieltä ulos. Ainakin Myllymäkeen wiewällä tiellä toimitti tätä 
+          palwelusta ryssät. Siellä asuwat päiwällisille menijät saiwat jäädä nälkäisinä kaupunkiin ja sinne jääneet eiwät päässeet takaisin työpaikkoihinsa.</p>
+        <p>Tällä tawalla „Hämeenlinnan waltaus” tapahtui. Yhtään laukausta ei ammuttu, mutta sensijaan kyllä kowasti uhkailtiin, tähtäiltiin ja kiroten herjattiin kaikkia, jotka uskalsiwat 
+          porttikäytäwistä tahi puotien owilta kurkistaa mitä oikeastaan oli tekeillä. Karkeita kirosanoja kaikui pitkin katuja, sellaisia kuin: „Ettekö te perkeleen ämmät sieltä mene taikka minä 
+          saatana annan tulla” j. n. e., jolloin aina kiwäärin tähtäys wahwisti karjuntaa.</p>
+        <p>Kuin kulo lewisi tieto waltauksesta ja yleinen hätäännys oli huomattawissa. Kello 4 aikaan annettiin jo yleisön käwellä kaduilla, samaan aikaan naulailtiin katujen kulmiin 
+          „Wallankumouskomitean” allekirjoittamia määräyksiä, että klo 9 jälkeen on liikkuminen kaduilla kielletty.</p>
+        <p>Kun asejoukkue wielä oli tehnyt kotitarkastuksen Skogsterin liikkeissä hajaantui se kaksimiehisiksi patrulleiksi, joiden päätehtäwänä oli kaduillaliikkujien ruumiinmukainen tarkastus 
+          - etsittiin aseita. Siwely ja kouriminen oli wallan perinpohjaista, mutta tiettäwästi ei kenenkään lompakkoa wiety.</p>
+        <p>Wallankumouspäiwä painui ehtooseen, katuliikenne hiljeni ja hämmästyneet ihmiset pysytteliwät kotinsa turwissa, itsekseen ajatellen mihin kaikkeen tämän päiwän ihmeelliset tapahtumat 
+          saattoiwatkaan olla alkusoittona. Kukin käsitti, että nyt ei enää ollut kysymyksessä tawallinen suurlakko, mutta sittenkään ei moni liene woinut kuwitella mitä tästä seuraisi. Yksinpä 
+          sosialistitkin oliwat hämmästyksissään. Hekin, rauhallisimmat ainekset, eiwät kai olleet käsittäneet, että rauhallisten wirastojen waltaus ja rauhallisten ihmisten härnäily ja aseilla 
+          uhkailu, pitäisi tapahtua tällaisessa raa'assa muodossa — tuskinpa tällä hetkellä kellään oli selwillä, mihin tämä hyökkäys johtaisi. Arwatenkin moni mielessään mietti, että heidän 
+          ihannoimansa wallankumous ei ollut tällälailla tapahtuwa, ja luulenpa, että tällöin ensi hämmästyksessään monikaan ei sydämessään woinut olla huokailematta, mikä on tämän maan ja kansan, 
+          mikä on sosialismin kohtalo, kun sen aatteita tällä tawoin ryhdytään toteuttamaan. Luulenpa, että sillä hetkellä moni, joka myöhemmin on suopeasti ja myötämielinkin ollut mukana 
+          wallankumousliikkeessä, olisi asettunut sitä jyrkästi wastustamaan, jos hänelle ratkaisuwalta olisi annettu. Mutta selwinkin järki pimenee kun se joutuu yhtämittaisen intohimoisen 
+          willityksen ja wallankumouksellisten fraasien tulenliekeissä liemettäwäksi...</p>
+        <p>Lähinnä seuraawat päiwät oliwat perin lewottomia ja sähköisiä. Alkoiwat aseiden etsiskelyt, kotitarkastukset ja wangitsemiset. Se kauhu ja mielentyrmistys, minkä kaikki tämä aikaan sai 
+          tuskin kenenkään muistista katoaa.</p>
+        <p>Täällä ei tosin ainoatakaan murhaa tehty, mutta kaikkialta ympäristöpitäjistä toi jokainen uusi päiwä uusia kauhuntapauksia. Moniin kymmeniin nousewat ne murhat, mitä näinä päiwinä 
+          lähimmissä pitäjissä toimeen pantiin — wallankumouksen nimessä raa'asti teurastettiin, jopa sairaswuoteelleen ammuttiin, rauhallisia, aseettomia kansalaisia, jotka eiwät muuta pyytäneet 
+          kuin elää omaa elämäänsä kotinsa seinien sisällä.</p>
+        <h5>* * *</h5>
+        <p className="infoStyle">Tämä muistelma on kirjoitettu wallankumouksen alkupäiwinä. Myöhemmät tapahtumat ja aiwan wiimeaikaiset roistontyöt owat niin kerrassaan kauheita ja saastaisia, että niitä ei tawallisen 
+          kuolewaisen kynä pysty eikä kykene kuwailemaan. Kuka woikaan unohtaa ja anteeksi antaa sen kaiken ihmisarwon alapuolelle kuuluwan konnuuden, joita tuhannet roistontyöt meille 
+          todistawat?</p>
+      </Article>
+
+      <div className="interTitle">4.5.1918</div>
+      <Article titleText="Rengossa">
+        <p>alkoi kapina saada werisen käänteen huhtikuun puoliwälissä. Lauantaina huhtik. 13 saapui Renkoon Oinaalan Kuusiwaaran taloon kaksi Hämeenlinnan „tiedustelu-osastoon” kuuluwaa Roos ja 
+          Nuutinen nimistä miestä. Näistä meni N. sisälle ojentaen heti kiwäärinsä Kuusiwaaraa kohden luwaten kuitenkin säästää hänen henkensä, jos hän suostuisi laatimaan ja allekirjoittamaan 
+          hänen sanelemansa pöytäkirjan. Pelastaakseen henkensä K. suostui. Nuutisen sanelun mukaan laati hän senjälkeen pöytäkirjan, joka olisi muka pidetty Ali-Hakkolan talossa huhtikuun 5 p. 
+          olleessa kokouksessa, jossa suojeluskunta päätettiin uudelleen herättää eloon. Kokouksen puheenjohtajaksi merkittiin opettaja Santalahti ja kirjuriksi Kuusiwaara. Pöytäkirjan alle 
+          kirjoitti Kuusiwaara nimensä, jonka jälkeen N. wäärensi siihen opettaja Santalahden nimen. Tämänjälkeen N. uudelleen alkoi tähtäillä Kuusiwaaraa kiwäärillä, tämän kuitenkin onnistui 
+          pujahtaa ulos ja sieltä edelleen rakennusten taitse metsään roswojen ampuessa hänen jälkeensä useita laukauksia.</p>
+        <p>Kuusiwaarasta roistot meniwät Uudenkylän kansakoululle etsimään opettaja Santalahtea, joka wiime ajat oli piileskellyt asuntonsa ylisillä. Puhumalla kauniisti he saiwat kuitenkin 
+          opettajan waimon kutsumaan miehensä alas. Tämän tultua keittiönsä portaille roistot surmasiwat hänet 6—7 laukauksella.</p>
+        <p>Täältä miehet meniwät kanttori Salorannan asunnolle, jossa kyseliwät erästä kanttorin pojista. Tämä, joka sattui olemaan tallissa, huomasi waaran ja pelasti henkensä pakenemalla 
+          tallinluukusta metsään. Tallin oween roswot ampuiwat useita laukauksia.</p>
+        <p>Senjälkeen lähtiwät roistot kauppias Kustaa Kyläkallion luo waatien häntä tulemaan ulos. Kun hän ei tähän suostunut toiwat miehet hänet wäkisin. Hänet raahattiin läheiselle peltosaralle, 
+          jossa häntä käwelytettiin edes ja takaisin, jotta miehet saisiwat sopiwan ampuma-matkan. Työnsä tehtyään roistot raahasiwat ruumiin läheiseen kalustowajaan, jossa tunkiwat sen suun 
+          täyteen kalkkia.</p>
+        <p>Yönsä wiettiwät miehet Rengon „elintarwepäällikön” Lehtosen luona.</p>
+        <p>Aamulla warhain lähti Nuutinen ja eräs paikkakunnalla majailewa salolainen jälleen liikkeelle. Matka suunnattiin ensin Oinaalan kylään Markkulan taloon, jossa isäntä pakotettiin 
+          nousemaan wuoteeltaan ja ammuttiin heti pihalle tultuaan.</p>
+        <p>Kowalla kiireellä jatkettiin matkaa Ali-Hakkulaan. Täällä oli isäntä kuullut kauhuntöistä ja oli juuri wiemässä wiimeistä hewostaan piiloon, kun roswot tuliwat ja ampuiwat hänet tallin 
+          owelle.</p>
+        <p>Murhatöiden johdosta eiwät Rengon punaset ryhtyneet mihinkään toimenpiteisiin.</p>
+        <p>Tiistaina huhtik. 16 p. murhattiin Rengessa talollinen K. Juppala tullessaan myllystä. Murha tapahtui punasten wartiopaikan läheisyydessä Ahosten Oinaalan wälillä. Juppalan murhaajan 
+          punaset ampuiwat.</p>
+        <p>Pakolaisia alkoi Renkoon saapua huhtik. 11 p:stä lähtien. Kahden wiikon ajan senjälkeen oli pitäjä alituisena pakolaisleirinä. Pakolaiset majoittuiwat taloihin ja ryöstiwät, minkä irti 
+          saiwat. Häikäilemättömässä ryöstössä kunnostautuiwat warsinkin naiset. Taloista wietiin kullat ja hopeat, waatetawarat, elintarpeet, rehu-warat, hewoset ja ajoneuwot. Waatteet wietiin 
+          monessa paikoin niin tarkkaan, ettei asukkaille jäänyt muuta kuin, mitä päällä oli. Wielä pakolaisten ollessa wiimeistä päiwää kahdelta emännältä ryöstettiin kengät jalasta. Rengon 
+          säästöpankki ryöstettiin, kassakaapit särettiin ja kirjat hukattiin. Murhatun opettaja Santalahden asunto ryöstettiin aiwan puhtaaksi. Meijerin kassa 16,000 mk. ryöstettiin samaten.</p>
+        <p>Puhelinasema särettiin ja sentraalikone kannettiin perunakuoppaan. Ennen lähtöään oli punasilla aikomus räjäyttää kirkko ja polttaa talot, mutta lähtö tuli hiukan kiireellisempi, 
+          kuin mitä he oliwat luulleet.</p>
+        <p>Renkoon kerääntyneiden punakaartien, joiden miesluku nousi aina pariin tuhanteen tuhanteen, päällikkönä toimi joku Pitkänen. Tämä toimitti Rengossa m. m. pakko-oton lähettäen näin 
+          otetuista miehistä 50 Riihimäelle. Nämä eiwät kuitenkaan ehtineet perille ja myöhemmin onnistui osan heistä karata kiwääreineen antaen siten alun Rengon suojeluskunnalle, 
+          „nummikaartille”.</p>
+        <p>Punasten poistuminen pitäjästä tapahtui lauantaina huhtik. 27 p.</p>
+        <p>Edellisenä yönä oliwat saksalaiset tyhjentäneet Kosken sillan luona olewat juoksuhaudat punasista. Lauantaina waltasi Rengon punakaartit ankara pakokauhu, jota „nummikaarti” wielä 
+          lisäsi sirottelemalla joukkoon muutamia rautarakeita. Punaset pakeniwat Turun suunnalle. Samana päiwänä alkoi „nummikaarti” metsien puhdistamisen saaden 20—30 wankia. Kyliin ja teille 
+          asetettiin wartiat.</p>
+        <p>Sunnuntaina marssi kaarti walkoset merkit hioissa, torwisoittokunta etunenässä, juhlamarssissa kirkolle. Tänne saapui myöskin pienempi saksalainen joukko-osasto joka otettiin wastaan 
+          juhlallisesti torwisoitolla. Myöhemmin saapui wielä Teurolta Uudenmaan rakuunaosasto kersantti Lehtosen ja kopraali Oeschin johdolla. Tämäkin sai yhtä juhlallisen wastaanoton.</p>
+        <p>Nykyään Rengossa alkaa olla jälleen rauhallista.</p>
+      </Article>
+      <Article titleText="Punasten hirmutyöt.">
+        <h5>Mustialan maamiesopistolaisten murha.</h5>
+        <p>Perjantaina huhtik. 19 p. saapui Mustialan maamiesopistolle, jossa työt oliwat jatkuneet koko kapinan ajan, Mustialan punakaartilta käsky, että opiston ja karjakkokoulun oppilaiden 
+          tuli lähteä Forssaan. Matkan tarkotuksesta ei mitään ilmotettu. Huomattuaan wastustuksen turhaksi, oppilaat 38 luwultaan päättiwätkin noudattaa käskyä ja saapuiwat Forssaan samana 
+          päiwänä.</p>
+        <p>Forssaan tultua oppilaille ilmoitettiin, että heidän täytyi ottaa kiwääri ja liittyä punakaartiin. Kun he osottautuiwat haluttomiksi käskyä noudattamaan, sullottiin heidät junaan ja 
+          lähetettiin wielä samana päiwänä Toijalaan, sieltä edelleen Riihimäkeen lähetettäwiksi. Oppilaat saapuiwat illalla Toijalaan, jossa he punakaartilaisten wartioimana sijoitettiin yöksi 
+          kansakoululle.</p>
+        <p>Aamulla tuotiin oppilaat asemalle, jossa heitä odotti juna täynnä punakaartilaisia. Junassa sijoittuiwat he awowaunuun, jonka toiseen päähän asettu kymmenkunta punakaartilaista 
+          wartioimaan.</p>
+        <p>Heti junan liikkeelle lähdettyä alkoiwat wartiomiehet solwata oppilaita uhkaillen heille kostoa. Kun nämä eiwät heille mitään wastanneet wartiat kiihtyiwät yhä enemmän alkaen ojennella 
+          kiwääreitään. Äkkiä kajahti laukaus ja eräs oppilaista Aarne Sohlberg waipui maahan. Senjälkeen seurasi useampia laukauksia oppilaiden sulloutuessa yhteen kasaan waunun toiseen päähän. 
+          Ammuttuaan useita laukauksia punaiset hirwiöt hyökkäsiwät pistimin uhriensa kimppuun. Huomatessaan haawoittuneessa elonmerkkejä pistiwät roistot uhrinsa armotta kuoliaaksi. Kaikkiaan 
+          sai surmansa ensimäisessä teurastuksessa kymmenen oppilasta muiden pelastuessa toweriensa ruumiiden taa. Kaiken aikaa juna kulki täyttä wauhtia.</p>
+        <p>Teurastuksen päätyttyä alkoiwat roistot ryöstää ruumiita. He riisuiwat niiltä palttoot pukien ne werisinä ylleen. Samaten roswottiin ruumiita kellot, lompakot, rahat ja kaikki 
+          arwoesineet. Ruumiit heitettiin radan warteen.</p>
+        <p>Hetken kuluttua pääsi roswoissa murhahimo uudellelleen waltaan. Hyökäten uhriensa kimppuun he alkoiwat jälleen ampua, pistää ja lyödä minkä kerkisiwät. Erästä oppilasta lyötiin 
+          saappaalla kaswoihin, jolloin hän hyppäsi junasta pelastaen siten henkensä. Junasta hyppäsi toinenkin oppilas, loukaten tällöin itseään jonkun werran. Hengissä pelastui wielä kolmas 
+          oppilaista, jonka roistot luullen hänet kuolleeksi heittiwät junasta. Jälellä olewista murhattiin 16, kymmenkunnan ollessa wielä hengissä junan saapuessa Kuurilaan. Kaikkiaan murhattiin 
+          oppilaista 26. Helsingissä olleet lähetettiin edelleen Riihimäkeen. Heidän myöhemmästä kohtalostaan ei ole tietoa.</p>
+        <p>Murhattujen nimistä olemme saaneet tietoomme seuraawat: Aarne Sohlberg Helsingistä, Antti Lehikoinen Juukasta, A. Rinne Sysmästä, Samuli Puhakka Siikajoelta, Jaakkola Wesilahdelta, 
+          Lehtonen Saarijärweltä, Uuno Saarinen Halikosta, Kaarela Sauwosta, Tuominen Ypäjältä ja Niinimäki Ätsäristä.</p>
+      </Article>
+      <Article titleText="Päämajan tiedonanto.">
+        <h5>Kiiwaita taisteluita Hämeen rintamalla. — Joukot etenewät huomattawasti Sawossa. — Runsas sotasaalis Wiipurissa.</h5>
+        <p className="quotationStyle">Päämaja ilmoittaa huhtik. 30 p. (S. T. T.)</p>
+        <p><span className="accent">Läntinen sotanäyttämö:</span> Hauhon ja Tuuloksen seuduilta ilmoitetaan kiiwaista taisteluista. Lahden seudulla wihollinen jatkaa murtautumisyrityksiään.</p>
+        <p><span className="accent">Sawon rintama:</span> Joukkomme jatkawat etenemistään. Edeten rautatien länsipuolella olemme Wuolenkoskelta ja Rihusta saapuneet Wanhataloon, kahdeksan 
+        kilometriä länteen Jaalasta. Hillosenalueella on wihollinen pakotettu luopumaan wahwoista asemistaan. Rautatien itäpuolella walloitti etelä-Sawon rykmentin luutnantti Spåren pataljoona 
+        pitkällisen ja kiiwaan taistelun jälkeen Heikkilän ja Tuohikodin kylät, jolloin saimme kaksi kuularuiskua ja muuta saalista. Waltaamalla mainituissa kylissä sijaitsewa tärkeä tienristeys 
+        on yhteys itäarmeijan oikean siiwen kanssa saawutettu.</p>
+        <p><span className="accent">Itäinen sotanäyttämö:</span> Sorwalin puhdistamisen jälkeen on Wiipurin linnoitus kokonaan hallussamme. Kenraali Wilkmanin joukot, jotka tarkalla 
+          tykistötulella walmistiwat hyökkäystään waltasiwat rynnäköllä kaupunginosan toisensa jälkeen. Runsas sotasaalis, jota ei wielä ole ennätetty laskea, on joutunut käsiimme. Saaliin 
+          joukossa on m. m. yli 100 tykkiä.</p>
+      </Article>
+      <Article titleText="Ryssät toimimassa.">
+        <p className="accent">Itäinen sotanäyttämö:</p>
+        <p>Wiipurista peräytywiä wiholliswoimia takaa ajaessaan owat joukkomme ehtineet Säkkijärwelle. Wahwoja wenäläisiä sotawoimia kootaan Pietarin pohjoispuolelle. Wenäläiset rajajoukot 
+          ammuskelewat johtajiensa puolueettomuuswakuutuksista huolimatta yhä edelleen joukkojamme sekä tykki- että jalkawäkitulella.</p>
+        <p className="signature">Päämajoitusmestari Ignatius.</p>
+      </Article>
+      <Article titleText="Hanhon ja Pälkäneen taisteluista">
+        <p>ja punasten siellä wiime lauantaina aikomasta murtautumisyrityksestä on eräs taisteluihin osaa ottanut m. m. kertonut seuraawaa:</p>
+        <p>Hänen joukkonsa oliwat saapuneet Kangasalta Pälkäneelle edellisenä tiistaina. Punasten asemat sijaitsiwat silloin n. 5 km. päässä. Walkoiset alkoiwat heti hyökätä työntäen punasia 
+          edellään. Erään sillan luona Pälkäneellä oli walkosilla 27 miehinen wartiosto, ja paikkakuntalaisten kertomusten mukaan sillä oli wastassaan kokonaista 4,000 punasta. Nämä eiwät 
+          kuitenkaan uskaltaneet ryhtyä hyökkäykseen, he kun luuliwat, että tämä pieni joukko oli asetettu wain syötiksi ja, että sen takana oli suurempia joukkoja. Punasten epäröidessä tekiwät 
+          walkoset kiertoliikkeen ja pääsiwät siten punasten selkäpuolelle. Huomattuaan olewansa saarroksiin joutumaisillaan, alkoiwat punaset perääntyä Hauhoa kohden. Mutta pitkälle he eiwät 
+          ennättäneet kulkea, ennenkuin kohtasiwat saksalaisia ja toisia hallituksen joukkoja. Pahasti ahdistettuna joka taholta, he yrittiwät n. 6 km. Hauhon kirkolta murtautua walkoisten linjain 
+          läpi. Tämä ei kuitenkaan onnistunut ja hyökkääjät lyötiin suuria tappioita kärsien takasin. Eräälle sillalle, jonka yli punasten pakomatkallaan täytyi kulkea jättiwät he n. 300 
+          kaatunutta. Walkoisten tappiot owat wähäiset. Sunnuntain seuduilla punaset oliwat ahtaassa saarroksessa Hauhon kirkon paikkeilla.</p>
+      </Article>
+      <Article titleText="Punaisten johtajien petos Helsingissä.">
+        <h5>Miten antautuminen saatiin estettyä.</h5>
+        <p>Kun Helsinkiin alkoi saapua tietoja saksalaisten lähestymisestä, niin ryhtyivät eräät oikeistososialistit toimenpiteisiin, joiden tarkoituksenä oli saada punakaarti verenvuodatuksen ja 
+          mielettömän taistelun välttämiseksi antautumaan. Keskiviikkona t.k. 10 p:nä oli punakaartilla kokous, jossa tehtiin selkoa punaisten joukkojen toivottomasta asemasta ja jossa oli mukana 
+          myöskin Ruotsin konsulaatin edustaja. Hänen kanssaan oli pari punakaartilaista käynyt Albergassa omin silmin näkemässä, että kaupunkia kohti tulevat joukot todella olivat saksalaisia.</p>
+        <p>Kokouksessa olijat olivat olleet yksimielisiä siitä, että vastarinta niitä vastaan oli aivan toivoton. Tätä käsitystä vastaan laadittiin antautumiskirja, jonka punakaartin „päälliköt“ 
+          allekirjoittivat ja joka kokonaisuudessaan oli seuraava:</p>
+        <QuoteStart className="symbolStyle"/>
+        <p className="quotationStyle">Koska Helsingin kaupungissa nykyään ei löydy puolustusjoukkoja, kehoitetaan verenvuodatuksen ja kaupungin hävittämisen välttämiseksi täkäläisiä 
+          punakaartilaisia olemaan ryhtymättä vastarintaan, kun saksalaiset joukot, jotka ovat jo aivan Helsingin lähistössä ja Ruotsin konsulaatin antaman vakuutuksen mukaan tekevät noin 
+          40,000 miestä, astuvat maihin. Sentähden ylipäällikkö on täkäläisen Ruotsin konsulaatin kautta esittänyt punakaartilaisille seuraavat antautumisehdot:</p>
+        <p className="leftP quotationStyle">1) Aseet ovat paikalla luovutettavat;<br />2) Kaikesta vastarinnasta on luovuttava;<br />3) Kaikkien valkoisten kannattajien turvallisuus on taattava;
+          <br />4) Yleisten sotilaallisten varastojen hävittämiseen ei saa ryhtyä;<br />5) Ylipäällikkö takaa hengenvarmuuden punakaartien jäsenille, jos nämä ehdot täytetään.</p>
+        <p className="quotationStyle">Arvoisalle yleisölle ilmoitamme, että yleisestä järjestyksestä kaupungissa vastaa miliisilaitos.</p>
+        <p className="quotationStyle">Helsingissä huhtik. 10 p:nä 1918.</p>
+        <p className="centeredStyle"><span className="signature">F. E. Johansson.</span><br /><span className="caption">Helsingin paikallisen Punaisen kaartin esikunnan sekä sota-asiain 
+          päällikkö.</span></p>
+        <p className="centeredStyle"><span className="signature">Robert H. Hurskainen.</span><br /><span className="caption">Paikallisen esikunnan Työasiain päällikkö.</span></p>
+        <p className="centeredStyle"><span className="signature">Edv. Nyqvist.</span><br /><span className="caption">Helsingin järjestyspäällikkö.</span></p>
+        <QuoteEnd className="symbolStyle"/>
+        <p>Asiakirjaa kirjoitettiin kaksi kappaletta. Samalla sovittiin siitä, että jo yön aikana painatetaan poliisikirjapainossa ja jaetaan aamusella punakaartilaisille ja kaupungin asukkaille. 
+          Ruotsalaisella realilyseolla olleitten vankien aseman turvaamiseksi taas toimitettiin heidän vartioikseen luotettavia vanginvartioita ja poistettiin punakaartilaisvartiosto.</p>
+        <p>Yön aikana saivat asiat kuitenkin uuden käänteen. Viipurista oli Helsinkiin saapunut „valtuutettu“ Kiviranta villitsemään helsinkiläisiä joukkoja ja onnistui tehtävässään erittäin 
+          hyvin. Torstaita vasten yöllä pidetyssä kokouksessa oli hän leimannut kaikki tiedot saksalaisten saapumisesta porvarien katalaksi petokseksi. „Kansanvaltuuskunta“ oli muka saanut varmat 
+          tiedot, että valkoiset joukot käsittävät vain muutamia sotamiehiä. Tämän johdosta oli „valtuuskunta“ lähettänyt hänet „järjestämään“ Helsingin puolustusta.</p>
+        <p>Kuultuaan „selvityksen“ huusivat punakaartilaiset „aseisiin“, päättivät pidättää antautumista puuhanneet johtajansa ja estivät antautumisjulistuksen julkaisemisen. Vanginvartijat 
+          reaalilyseolta poistettiin ja kenenkään ei sen jälkeen sallittu edes puhua antautumisesta.</p>
+        <p>Miliisipäällikkö Nyqvist, joka etenkin pontevasti oli koettanut toimia antautumisen aikaansaamiseksi, oli jo aikaisemmin joutunut hurjien mellastajien vihoihin. Kun Vuorimiehenkadun 
+          1:ssä toiminut rosvojoukko koetti saada aikaan miliisien lähettämistä rintamalle, niin hän oli asettunut jyrkästi vastustamaan tätä hanketta ja saanut myöskin aikaan sen että roistojen 
+          katala alote jäi toteuttamatta. Voimme aavistaa, mitä kaikkea kaupungissamme olisi saattanut koettujen hirmuisuuksien lisäksi tapahtua, jos Savinaisen johtama „kaarti” olisi päässyt 
+          yksin huolehtimaan kaupungin „järjestyksestä” ja asukkaiden turvallisuudesta.</p>
+      </Article>
+
+      <div className="interTitle">7.5.1918</div>
+      <Article titleText="Sakasalaisten sankarien hautaus.">
+        <p>Eilen illalla tapahtui jälleen Hämeenlinnan Tähtipuistossa 20:n Suomen wapaustaistelussa kaatuneen saksalaisen sankarin hautaus. Hautaus tapahtui suurin kunnianosotuksin saksalaisten 
+          ja suomalaisten sotawäenosostojen, kaupungin wiranomaisten ja suuren yleisöjoukon läsnäollessa. Haudalla pidettiin useita puheita. Haudalle laskettiin seppeleitä m. m. 
+          kaupunginwaltuuston, kaatuneiden towerien, Suomen Länsiarmeijan, Suomalaisten jääkärien, Hämeenlinnan suojeluskunnan y. m. puolesta.</p>
+      </Article>
+      <Article titleText="Vangittujen kohtaloita.">
+        <h5>Wiipuriin wiedyt.</h5>
+        <p>Jo tammikuun loppupäiwinä, punasen hirmuwallan alkaessa, wangittiin täällä m.m. herrat Kaarlo Welan, A. Lindeqwist, E. Kilpi ja K. Pyhämäki, H:linnasta. Heidät sijoitettiin täkäl. 
+          lääninwankilaan, minne wähitellen kerääntyi „waltiollisia wankeja” yhä useampia. — Kun maa wihdoin alkoi polttaa punaisten jalkojen alla ja Siperian matkan haaweet kangastella, heidän 
+          mielissään, siirrettiin wankilan waarallisimmat asukkaatkin „turwallisempaan” paikkaan. Tästä matkasta, joka muodostui warsin seikkailurikkaaksi, olemme onnistuneet saamaan seuraawan 
+          kuwauksen:</p>
+        <p>Paitsi yllämainittuja, oli matkalla mukana 19 muuta henkilöä, joiden joukossa m. m. pankinjohtaja W. Airola, ja hra M. Arwola Toijalasta, & Palomäki, Urjalasta, K. Tuulos, Tampereelta, 
+          P. Siiwola, Hollolasta ja E. Salminen, Riihimäeltä. Tätä joukkuetta saattoi itse komissari Kallio, ja wartijoina oli m. m. pari wasta wapautettua rikollista. Matkan määränä piti olla 
+          Lappeenranta. Ensi pysäytys tapahtui kuitenkin jo Riihimäessä, missä wangit saiwat odottaa 14 tuntia, sullottuina 4 miestä kuhunkin wankiwaunun komeroon, jonka lattian pinta-ala on 
+          noin 1+1 m, Toisen kerran pysähtyi matka 3 päiwäksi Lahdessa, missä wangit wietiin kaupungintalolle. Tällä wäliajalla muutettiin nähtäwästi matkan päämääräkin, sillä 18 p. huhtik. 
+          saapuiwat wangitut Wiipuriin, missä heidät sijoitettiin keskuskasarmiin. Täällä oleskeliwat he hirwittäwän saastaisissa komeroissa noin kahden wiikon ajan. Sattui tapaus, joka jälleen 
+          muutti heidän olinpaikkaansa. Noin 180 miestä käsittäwä urhoollinen joukko nuoria miehiä, jotka luultawasti oliwat Wiipurin suojeluskuntalaisia, aikoi wapauttaa kaikki wankeina olewat 
+          walkoiset. Heidän aikeensa onnistuikin jo n.s. Kolikkoinmäen esikaupungissa, mutta keskikaupungille saawuttuaan oli joukon yliwoiman wuoksi antauduttawa. Tämän joukon uhatessa 
+          keskuskasarmia, siirrettiin wangit, wapauttajain kiiwääri ja kuularuiskutulen soidessa aiwan läheisyydessä, Wiipurin wanhaan linnaan, minne jo aikaisemmin oli kerätty muita samanosaisia. 
+          Matkalle lähdettäissä uhattiin wangit heittää „upseerien hautaan kiwi kaulassa” toisin sanoen heittää sillalta mereen, kuten wenäläiset upseerit wiime kewäänä. Pakolaisia alkoi saapua 
+          kaupunkiin eri suunnilta ja walkoisten saartorengas oli jo kolmelta taholta warsin lähellä. Heidän ketjunsa lienee ollut Papulan puolella, koska aiwan linnan läheisellä niemellä olewa 
+          punaisten tykistöpatteri innokkaasti pommitti sitä suuntaa. Tämä patteri oli luonnollisesti asetettu walkoisille „syötiksi” ampua linnaa, jolloin wankien kohtalokin saisi ratkaisunsa. 
+          Huolimatta punaisten melkein herkeämättömästä tykkitulesta eiwät walkoiset siihen wastanneet ennenkuin 2 wuorokauden kuluttua. Heidän ensi laukauksensa sattui punaisten erään tykin 
+          eteen, toinen taakse, mutta jo kolmas osui tarkasti maaliin. Tällöin oliwat punikit jo jättäneet asemansa. Tykkituli waikeni ja taas uskalsiwat punaisetkin saapua takaisin, awatakseen 
+          wielä ehjinä olleista tykeistä tulen uudelleen. Nyt alkoiwat walkoisten laukaukset hiwellä myöskin wanhan linnan seiniä. Punaset jättiwät jälleen asemansa, tällä kerralla ainaiseksi. 
+          — Oli huhtik. 28 p:n ilta. Tykkituli kiihtyi kiihtymistään, ruudin sawuun peittyiwät linnan huoneet. Wankien n.s. tupakkahuoneeseen iski yöllä tykinammus. Huone tuli hohtawan punaiseksi 
+          ja peittyi sawuun ja seinistä irtaantuneisiin sorapilwiin. Kolme miestä meni tärähdyksestä tainnoksiin, mutta säilyiwät kuin ihmeen kautta enemmistä wammoista. Linnan torniin sattuiwat 
+          enimmät luodit ja awoinna ammottaa sen seinissä aukkoja. — Nyt heräsi hra Airolan aiwoissa rohkea tuuma. Hän ehdotti, että wangit waltaisiwat linnan. Keskusteltuaan kaikkien 
+          osatowereittensa kanssa hän alkoi warowasti puhua asiaa wartioille. Helposti olikin nämä saatu tuumaan mukaan ja saatuaan wielä linnan komisaarilta asewarastojen awaimet, oliwat wangit 
+          tuota pikaa aseman herroja. He päättiwätkin taistella wiimeiseen mieheen, jos punaiset yrittäisiwät wielä tulla linnaa waltaamaan. Otetttin tunnussanaksi: „wapaita miehiä”. Saapui 
+          sitten yht'äkkiä linnan portille punaisten patrulli. Sen laskiwat wartiat estelemättä sisään, mutta saatuaan siltä paluutien suletuksi, riisuttiin se aseista, ja otettiin „sotawangiksi” 
+          — Pommitus jatkui yhä, tosin werkkaisemmin, ja siksi päättiwät linnan haltijat lähettää walkoisen raketin ilmaan antautumisen merkiksi. Niin tehtiin, mutta se ei tuottanut toiwottua 
+          tulosta. Myöhemmin saiwat wangit kuulla, että walkoiset kyllä oliwat merkin nähneet, mutta pitäneet sitä wain sotajuonena. — Jostakin linnan warastoista löytyi walkoista ja sinistä 
+          kangasta ja näistä neulottiin lippu, joka wedettiin tornin lipputankoon. Alkoi jo waljeta aamu ja walkoiset huomasiwat linnan lipun waihtaneen wäriä. ja nyt katsottiin olewan syytä 
+          waihtaa tunnussanaakin „eläköön!”. Aamuhämärässä hiipi ensimäinen suojeluskuntalaisjoukko warowasti kaupungista päin linnaan, missä se raikuwin eläköönhuudoin otettiin wastaan. — 
+          Punaiset oliwat paenneet Sorwaliin päin, jossa taistelut jatkuiwat noin päiwän ajan. Oleskeltuaan wielä pari päiwää wiipurilaisten parissa, m. m. etsien uusia asukkaita tyhjiksi 
+          jääneisiin wankikomeroihin, palasiwat nämä paljon kokeneet miehet koteihinsa. Heidän usein niin synkältä näyttänyt retkensä oli nyt päättynyt ja kaikki oliwat wahingoittumattomina 
+          pelastuneet kohtalonsa koetuksista.</p>
+      </Article>
+      <Article titleText="Armeijamme viime voitot.">
+        <h5>Koskella on 8,000 punasta antautunut, sitä ennen hurjasti riehuttuaan rauhallisen wäestön keskuudessa. — Luumäen kirkonkylä ja Kouwola walloitettu.</h5>
+        <p className="quotationStyle">(S. W. T.) Päämajan tiedonanto toukokuun 3 p:ltä.</p>
+        <p><span className="accent">Läntinen sotanäyttämö:</span> Kun wielä noin 8,000 punaista antautui eilen ewersti, wapaaherra von Brandensteinin joukoille Kosken seuduilla, woidaan sotatoimet 
+          Hämeenlinnan ja Lahden wälisellä alueella katsoa loppuun suoritetuiksi. Antautumisen edelliset päiwät oli wihollinen käyttänyt yhä lisätäkseen harjoittamiensa häpeällisten rikosten sarjaa. 
+          Seudut, missä wihollinen on liikkunut, on laajalti häwitetty ja rauhallinen wäestö murhattu, sen kotieläimet ammuttu ja talot poltettu. Seudun puhdistaminen hajallaan kiertelewistä 
+          roistojoukoista on parhaillaan käynnissä ja otetaan tällöin talteen kaikenlaisia aseita, hewosia, elukoita ja muuta wihollisen warastamaa tawaraa.</p>
+        <p><span className="accent">Sawon rintama:</span> Eilen waltasi kolmas Karjalan rykmentti taistelulla Luumäen kirkonkylän, jolloin saatiin yksi tykki ja 7 kuularuiskua. Muutamat osat 
+          Etelä-Sawon rykmentistä, rykmentinpäällikkö Londenin johdolla owat tänä aamuna wallottaneet Kouwolan siellä olewine kasarmeineen. Otettiin satakunta wankia ja jonkunwerran sotasaalista.</p>
+        <p className="centeredStyle">Päämajoitusmestari</p>
+        <p className="signature">Ignatius.</p>
+      </Article>
+
+      <div className="interTitle">9.5.1918</div>
+      <Article titleText="Kapinallisten tuomitseminen.">
+        <h5>Waasan senaatin kanta.</h5>
+        <p>Wankeja koskewassa kysymyksessä on Waasan hallitus sitä mieltä, ettei wangittuja kapinallisia woida tuomita sotaoikeudessa, waan että heidän asiansa on maan lakien mukaan käsiteltäwä ja 
+          ratkaistawa howioikeudessa. Toinen asia on, woiwatko howioikeudet wankien suureen lukumäärään katsoen käytännössä suorittaa tämän tehtäwän. Sen wuoksi on suunniteltu perustettawaksi 
+          erityinen howioikeuden tapainen tuomioistuin, johon kuuluu 5 jäsentä. Tämä tuomioistuin tulee tuomitsemaan woimassa olewan rikoslain mukaan, jossa on säädetty kylläkin ankara rangaistus 
+          kysymyksessä olewista rikoksista.</p>
+        <p>Pohjoisessa on ylipäällikkö nimenomaan kieltänyt tuomitsemasta kumouksellisia sotaoikeudessa, joka on olemassa armeijaa ja sen jäseniä warten. Ainoastaan aniharwoissa tapauksissa, 
+          jolloin wanki on huomattu wikapääksi erittäin törkeihin ja kauhistuttawiin tekoihin, on hänet tuomittu sotaoikeudessa, jonka langettama tuomio on heti pantu täytäntöön.</p>
+        <p>Näitä tapauksia lukuunottamatta ei Pohjois-Suomessa ole wielä tuomittu wankeja, waan owat siellä tähän asti toimineet yksinomaan tutkintokunnat.</p>
+      </Article>
+      <Article titleText="Sotawangit.">
+        <h5>Tähän mennessä noin 60,000.</h5>
+        <p>Yhteenlaskemalla walkokaartin ja saksalaisten tiedonantojen mainitsemat luwut wangiksi joutuneista punakaartilaisista, huomataan, että Tampereella, Wiipurissa, Helsingissä ja 
+          Toijalan—Riihimäen—Lahden seuduilla wangiksi joutuneita on noin 60,000.</p>
+      </Article>
+      <Article titleText="Sos. dem. kansanedustajat.">
+        <h5>10—15 edustajaa jälellä.</h5>
+        <p>Sos. dem. eduskuntaryhmään kuului ennen kapinaa 92 edustajaa. Sikäli kuin tähän mennessä saapuneista tiedoista woi päättää, on näistä yli 70 paennut maasta tai joutunut wangeiksi. 
+          Jäljellä on 10—15 edustajaa.</p>
+      </Article>
+      <Article titleText="Punasten murhatyöt.">
+        <h5>Urjalan murhat.</h5>
+        <p>Wiime aikoina liikkuneet huhut asessori E. Furuhjelmin ja ewersti Otto Furuhjelmin murhista owat nyttemmin osottautuneet tosiksi. Paitsi näitä on saatu selwille, että murhatuiksi owat 
+          tulleet myöskin asess. Furuhjelmin apulainen how. ausk. Otto v. Törne ja lak. kand. Hildin Granholm, kumpikin kotoisin Helsingistä, sekä lak. yliopp. Carolus Asplund Turusta.</p>
+        <p>Asessori Furuhjelmin wangitsiwat punaset jo kapinan alkupuolella omistamassaan Honkolan kartanossa. Senjälkeen häntä pidettiin wangittuna Urjalan hulluinhuoneessa. Kohtelu waihteli 
+          wartioiden mukaan. Paikkakuntalaisten yrityksillä hänen wapauttamisekseen ei ollut menestystä.</p>
+        <p>Huhtik. puoliwälissä alkoiwat punaset Toijalassa joutua erityisemmän raiwon waltaan. Kotitarkastuksia pidettiin taajaan, asukkailta ryöstettiin kaikki mitä irti saatiin. Myös Honkolan 
+          kartanoon saapuiwat „tarkastajat” pitämään yhdettätoista tarkastustaan. Tarkastuksen päätyttyä wangittiin ylioppilas Asplund ja wietiin Toijalaan. Paria päiwää myöhemmin saapui kartanoon 
+          jälleen roswojoukko ryöstäen rahat ja arwoesineet. Tällöin hrat v. Törne ja Granholm asetettiin toistensa taa ja yritettiin ampua. Kuula hipaisi kuitenkin wain etumaisena seisowan v. 
+          Törnen ohimoa, jonka jälkeen roswot päästiwät heidät wapaaksi. Seuraawana aamuna pidätettiin hrat v. Törne ja Granholm uudelleen sekä myöskin ewersti Furuhjelm ja wietiin Toijalaan, 
+          jonne myöskin asessori Furuhjelm samoihin aikoihin oli tuotu.</p>
+        <p>Tästä alkaen katosiwat mainitut henkilöt täydelleen, kunnes huhtik. 29 p. ewersti Furuhjelmin sekä tuom. v. Törne ja Granholmin ruumiit löydettiin kaiwettuna erääseen suohon n. 2 km. 
+          Toijalasta Hämeenlinnaan johtawan maantien warrella. Mikäli kerrotaan aiottiin wangitut ensin wiedä Riihimäkeen, mutta wähän matkaa Toijalasta pysäytettiinkin juna ja wangitut tuotiin 
+          ulos sekä ammuttiin läheisellä maantiellä. Tuomari Furuhjelmin, yliopp. Asplundin sekä kolmen tuntemattoman ruumiit tawattiin huhtik. 30 p. haudattuina suohon Toijalasta Wiialaan päin 
+          johtawan tien warrella. Murhatut oliwat kaikki ammutut räjähtäwillä kuulilla, jonka jälkeen ruumiit oli ryöstetty.</p>
+        <h5>Kylmäkoskella surmattu lähes 20 miestä.</h5>
+        <p>Kylmäkoskella punaryssät ennättiwät toimeenpanna suunnittelemansa werityöt laajemmassa mittakaawassa kuin useimmissa muissa paikoissa näillä seuduin, Walkeakoskea lukuunottamatta. Ja 
+          kamalaa jälkeä he tekiwät: pienestä, muutaman tuhannen asukkaan pitäjästä murhattiin lähes parikymmentä henkilöä, minkä lisäksi suuri joukko kuljetettiin wankeina Riihimäelle. 
+          Wiimemainituista on muutamien kohtalo wielä epäwarma.</p>
+        <p>Jo helmikuun 1 p:nä punakaartilaiset tekiwät kolme murhaa, joista jo aikaisemmin olemme kertoneet. Silloin he nimittäin murhasiwat maanwilj. Erland Käräwän sekä talollisenpojat 
+          Kaarle Johannes Kelon ja Arwo Einar Riipan.</p>
+        <p>Mutta wasta wiime wiikolla pakonsa edellisinä päiwinä punikit oikein yltyiwät ihmisiä murhaamaan. Silloin tapettiin eri päiwinä maanwilj. Emil Torkko ja hänen poikansa Matti Torkko, 
+          maanwiljelijät Oskari Seppälä, Kustaa Pusa, Juho Rannikko, Juho Maijala, Alfred Nääppä, E. Kassari ynnä hänen poikansa sekä kauppias Wihtori Tuomaala ja poliisikonstaapeli Walfrid 
+          Sipilä.</p>
+        <p>Murhat tehtiin tawallisesti siten, että asianomainen henkilö käytiin wangitsemassa kotoansa ja lähdettiin kuljettamaan pois. Jonkun matkan päässä poikettiin metsään ja siellä uhri 
+          ammuttiin. Ruumiit sitten useimmiten wielä silwottiin ja ryöstettiin.</p>
+        <p>Useita kymmeniä paikkakuntalaisia kuljetettiin sitäpaitsi wangittuina Riihimäelle „pakkotöihin”. Täällä toimeenpannussa werilöylyssä, josta ennemmin olemme kertoneet, saiwat surmansa 
+          ainakin maanwiljelijät Oskari Suomela ja Wäinö Kannisto, jonka lisäksi maanwilj. Frans Suoranta, maanwilj. poika Antti Ojanen ja Ilanniston talon renki Woittonen haawoittuiwat. Useat 
+          Riihimäelle wiedyistä eiwät wielä ole palanneet, joten murhattujen lukumäärä saattaa wielä kohota.</p>
+        <h5>Ananias Abrahamsson.</h5>
+        <p>Tullipäällysmies Ananias Abrahamsson ammuttiin Parkun pellolla huhtik. 26 p:nä. 22 päiwänä weiwät tullikamarin punaset roistot, Oskar Fredrik Bergman ja Johan Albert Petäjä wanhan 
+          esimiehensä hänen kotoaan Kaupungin hotelliin kuulusteltawaksi sillä seurauksella, että Esikunta wapautti hänet. Mutta tähän eiwät nuo roistot tyytyneetkään, waan wangitsiwat hänet wähän 
+          ajan kuluttua uudelleen ja pitiwät häntä sitten wangittuna siksi, kunnes hän useiden muiden H:linnalaisten kera wietiin 24 p:nä huhtik. muka työhön rintamalle. Mutta joukkueen tultua 
+          Parkulle, komensiwatkin punaset wankinsa ampumaan 19 towereistaan, näiden joukossa wanhan tullipäällysmiehen Ananias Abrahamsson'in.</p>
+        <p>Ananias A. syntyi Janakkalassa 12 p:nä syysk. 1854. Otettiin asema mieheksi täkäläiselle asemalle 1 p:nä huhtik. 1876, mutta siirtyi jo 5 p:nä kesäk. 1876 Tullilaitoksen palwelukseen 
+          tultuaan silloin määrätyksi ylimääräiseksi tulliwartijaksi H:linnan wäliaikaiseen tullitoimistoon. 1888 nimitettiin, A. wanhemmaksi wartijaksi H:linnan tullikamariin, josta hän 1900 
+          yleni päällysmieheksi.</p>
+        <p>A. oli wirkatoimiinsa eriomaisen hywin perehtynyt ja täsmällisenä, uutterana wirkatoimissaan, oli hän esimerkkinä nuoremmille. Tunnustuksena uutteruudestaan saikin hän wuosien kuluessa 
+          niin hywin kulta-, kuin hopeamitallin, edellinen rinnassa ja jälkimäinen kaulassa kannettawaksi. Nyt on wanha palwelija päässyt lepoon pitkästä työpäiwästään, mutta kauniina on hänen 
+          muistonsa kauwan eläwä hänen wirkatowereittensa keskuudessa.</p>
+        <p>Kunnia isänmaansa edestä wirassaan kaatuneelle wanhalle palwelijalle!</p>
+      </Article>
+      <Article titleText="Lopullinen voitto kapinallisista saatu">
+        <h5>Haminakin jo wallattu. Otettu 4 wenäläistä sotalaiwaa ja 2 kokonaista panssarijunaa y. m. arwokasta saalista. — Wankeja 4,300.</h5>
+        <p className="quotationStyle">(S. W. T.) Päämajan tiedonanto toukokuun 5 päiwältä:</p>
+        <p>Punaisista saatu lopullinen woitto. Heidän wiimeinen warustuksensa Hamina wallattu. Eräs ratsuwäkijoukko Sarlinin ryhmästä marssi Haminaan ja kohta sen jälkeen osa majuri Heiskasen 
+          rykmenttiä. Haminassa otettiin puoli tusinaa tykkejä, parikymmentä kuularuiskua ja 1,000 kiwääriä, kaksi asestettua wenäläistä laiwaa. Kotkassa saatu saaliiksi 2 kokonaista panssarijunaa 
+          asestettuna woimakkailla tykeillä ja 12 kuularuiskulla. Sitä paitsi saatiin yli 30 tykkiä, monta kuularuiskua ja 4,000 kiwääriä. Wankien luku nousee Kotkassa 4,000 mieheen ja Haminassa 
+          300:aan.</p>
+        <p className="centeredStyle">Päämajotusmestari</p>
+        <p className="signature">Ignatius.</p>
+        <h5>* * *</h5>
+        <p className="quotationStyle">(S. W. T.) Päämajan tiedonanto toukokuun 5 päiwältä:</p>
+        <p>Puhdistustyö jatkuu säännöllisesti. Yhteinen saksalaisten awulla otettujen wankien luku suurenee yhä.</p>
+        <p><span className="accent">Sawon armeija:</span> Kenraali Linderin urheat joukot, jotka eilen waltasiwat Kotkan, ottiwat haltuunsa kaksi wenäläistä laiwaa, jotka eilen tuliwat satamaan 
+          tietämättä sitä, että olimme miehittäneet Kotkan. Toinen oli asestettu tykeillä ja kuularuiskuilla sekä kuljetti mukanaan kiwääreitä, toinen, isompi, toi sotatarpeita. Itäarmeijan 
+          rintamilta ei mitään uutta kerrottawana.</p>
+        <p className="centeredStyle">Päämajotusmestari</p>
+        <p className="signature">Ignatius.</p>
+      </Article>
+
+      <div className="interTitle">11.5.1918</div>
+      <Article titleText="Oskari Vekka.">
+        <h5>In memoriam.</h5>
+        <p>Olen lukenut sanomalehdistä Sinun kuolinilmoituksesi.</p>
+        <p> Kuollut. Kaatunut isänmaan puolesta.</p>
+        <p> Minä muistan Sinut. Kuinka monta vuotta sitä onkaan? Kahdeksan, yhdeksän, ehkä kymmenen vuotta. Me olimme nuoria, oli kevät, koko maailmassa oli kevät ja juhla. Hämeenlinna - sen 
+          hiljaiset kadut - meidän värikkäät tulevaisuuden unelmamme . . . Niin, jotakin merkillistä piti meistä tulla, ja me rakensimme tuulentupiamme, ja ilmassa oli aavistus jostakin 
+          salaperäisestä ja suuresta. Sillä meillä oli verissämme nuoruus ja sen hehku ja jäsenissämme lauloi voima ja terveys. Ja lukemattomat eri seikat sitäpaisi yhdistivät meitä toisiimme. 
+          Me olimme ystäviä niinkuin vain harvat. Meillä ei ollut toisiltamme mitään salattavaa.</p>
+        <p>Minä muistan Sinut, kaatunut ystäväni. Sinähän se keksit minun kirjailijanimenikin. Ja Sinä tunsit siihen aikaan kaikki minun nuoret suruni.</p>
+        <p>Sitten Helsingissä... Kokonainen maailma muistoja. Yhteiset iltahetket, samat harrastukset, samat pyrkimykset ja toiveet, kummallakin sydämessään yhä sama polttava kaipuu. Minne? 
+          Mihin? Jumala sen tiesi. Jonnekin olemattomaan, kauas — meidän valtimomme löivät kiihkeämmässä tahdissa kuin tavallista, ja me tahdoimme ottaa elämältä osamme, me emme halunneet 
+          ummehtua lukukamarien ahtaudessa. Ja sillävälin lujittuivat ystävyyssiteet välillemme. Me emme koskaan puhuneet siitä, mutta me ymmärsimme toisiamme niinkuin vain harvat.</p>
+        <p>Minä muistan Sinut. Ystävä! Sinä olet nyt saavuttanut päämääräsi. Sinun veresi hehkuva polte on sammunut. Mutta minä en valita Sinun kohtaloasi, pikemmin kadehdin. Sinulle suotiin onni 
+          olla niiden urhojen joukossa, jotka verellään ostivat maallemme vapauden, ja Sinä kaaduit sankarina kunnian kentällä. Minusta tuntuu — kun nyt Sinua ajattelen — ikäänkuin kaikki Sinun 
+          askeleesi, pyrkimyksesi, kaipuusi olisivat suuntautuneet tätä ainoaa kohti — ikäänkuin kaikki Sinun ajatuksesi olisivat keskittyneet tähän ainoaan... </p>
+        <p>Sinä olit erikoinen persoonallisuus, syvä luonne — ja Sinä tahdoit saavuttaa — joko kaikki tai ei mitään. Sinä et voinut tyytyä puolinaiseen.</p>
+        <p> Ja sinä saavutitkin kaikki.</p>
+        <p className="centeredStyle">17. IV. 18</p>
+        <p className="signature">U. W. Walakorpi.</p>
+      </Article>
+      <Article titleText="Roistovaltaa Kalvolassa.">
+        <h5>Parikymmentä murhaa. — Murhapolttoja, kirkkoja ja 7 taloa maan tasalla. — Kuulumatonta ryöstöä ja raiskausta.</h5>
+        <p>Helmikuun 2 p. kauniina lauantaina, alkoi Kalvolan surullisen kuuluisa punakaarti julkisen toimintansa. Miehiä vilisi virtanaan joka kujalla ja kankaalla. Kaikilta epäilyttäviltä 
+          otettiin aseet pois, taloista ja kartanoista kuljetettiin suuret joukot ruokatarpeita Väinölään, Suomal. seuran talolle, jonne sakki kokoontui hurraten ja meluten. Siellä sitte syötiin, 
+          juotiin ja mässättiin lähes kolme kuukautta. Välillä toimitettiin moniä kymmeniä kotitarkastuksia ja vangitsemisia, otettiin sakkoja ja vangittiin taas. Kauppaliikkeistä vietiin tuhansien 
+          markkain edestä tavaraa ja ulkokuntiin tehtiin lukemattomia ryöstöretkiä. (Sotasaaliina komeili Haukilan kartanon pellin tupsutkin kiväärin kahvassa). Kaikki saivat ihmiset antaa: 
+          leipänsä, maitonsa, teurastaa elukkansa, riisua vaatteet päältään ja tyhjentää sänkynsä, luovuttaa jalkineensa, ajokalunsa ja hevosensa. Kuten ainakin ryövärit, marssivat punikit 
+          pyssyineen, pistimineen, puukkoineen. Jos vastustit, niin vangiksi ja sakko piti maksaa. Maaliskuun 1 p:nä ei enää riittänyt raha, silloin jo ammuttiin ja pistimillä mitä raaimmalla 
+          tavalla murhattiin tilanomistajat Arvi Stenvik ja Kaarlo Marttila, edellinen Saviniemen talon pihamaalla ja jälkimäinen kotonaan. Kaksi päivää jälkeen päin surmattiin yhtä julmalla 
+          tavalla tilanomistaja August Seppälä sekä kuljetettiin pitäjän hautausmaalle. Sittemmin murhainto kasvoi kasvamistaan, listalla oli kuolemaan tuomittujen nimiä jo yli 60. 
+          Vieraspaikkakuntalaisia ammuttiin aina kun tavattiin. Niiden lukumäärästä ei tiedetä, mutta paljon niitä joka tapauksessa on. Metsästäjä Kustaa Pero ammuttiin myös ja kidutettiin, kun 
+          oli saatu kiinni Pälkäneellä ja sieltä lähetetty Kalvolaan. Hän oli aikonut yhtyä valkoisiin. Viimeiset viikot olivat vallan kauheita. Kaikki pitäjän miehet, jotka saatiin kiinni, 
+          lähetettiin Riihimäelle. Sieltä osa karkasi kotiin, osa vietiin rintamille, josta he nyt monien seikkailujen jälkeen ovat päässeet kotiinsa tai jääneet sopivan hetken tullen valkoisten 
+          riveihin. Moni on haavoittunut (m. m. Finnilä) ja jokunen tietysti kuollutkin. Riihimäen kasarmissa, jossa yhteislaukauksilla roistot koettivat aseettomat kansalaisensa kaikki surmata, 
+          joutui kuoleman omaksi insinööri Riku Stenvik (Arvi Stenvikin veli), Arvo Leipälä sekä nuorukaiset Sukki ja Hietamäki. Vaikeasti haavoittui tilanomistaja K. Saviniemi, joka sentään 
+          paranee. Riihimäeltä palanneista murhasivat Kalvolan kauhut ainakin kolme: Mölin, Tajasen ja Kalle Vahteran. Sitäpaitsi vangitsivat he kartanonomistaja A. Anderssonin, jonka sittemmin 
+          ovat myös murhanneet. Ampumalla murhattiin vielä palstatilall. Väinö Mäkelä ja talollisenpoika Arvi Puhtila (Tammelasta.) Palstatil. A. Siivola yritettiin ampua, mutta sai riistetyksi 
+          aseen ampujalta ja pelasti henkensä. Raa'asti murhattiin myös torpanpoika Kalle Vesikivi kotonaan ja Mustialan opiston oppilaita kuljetettiin kuolleiksi rääkättyinä 18 Kalvolan 
+          leikkuuhuoneeseen. Pois lähtiessään v. k. 25 pnä murhasivat roistot vielä ainakin kolme: Viljami Lähtisen, Adolf Tannerin ja Franssilan tilan pehtoorin (ulkovallan alamaisen). Lähtisen 
+          olivat pistimillä kiduttaneet kuoliaaksi m. m. toiseen silmään oli jäänyt pistimen suojustuppi. — Murhapolttoja tekivät monta: suomal. seuran talon polttivat, leski Pahlmannin talon, 
+          Marjasen huvilan sekä Marttilan, Franssilan ja Hommosen talot ja Lilljevikin (Kutisten) kartanon sekä loppujen lopuksi seurakunnan kirkon, jonka sitä ennen ryöstivät. Useita muitakin 
+          yritettiin polttaa, mutta ei saatu syttymään. Hommosella polttivat joukon eläimiäkin ja aikoivat polttaa ihmisetkin, mutta pääsivät pakenemaan. Samoin aijottiin Lilljevikissä tehdä. — 
+          Kunnan viljat veivät he myös mukanaan, samoin yksityisten viljaa. Yksin siemen kauratkin ja -ohrat. Punikit varastivat yhdessä pois menevien kanssa satoja hehtoja ja ryöstivät m. m. 
+          Kankaisten kartanosta vaatteet, huonekaluja. Akkuna verhoista, seinäkelloista ja valokuvista alkaen kaikki kelpasi.</p>
+        <p>Sen lisäksi ampuivat Kankaisissa 5 isoa sonnia, joiden yhteinen arvo on kymmeniä tuhansia. Niemisten kartanossa rikottiin ikkunat, huonekalut ja kaikki; talo ei palanut, kun on kivestä. 
+          Yhtäläinen hävitys tehtiin insin. Nordstedt'in huvilassa, jossa roistot viimeksi majailivat. Seuraavana päivänä oli määrä polttaa Kankainen ja muitakin taloja, mutta lähtö tapahtuikin 
+          ennen aikojaan, kun valkoiset olivat jo niin lähellä. Kartanoiden elukat, useita satoja, piti ajettaman vaunuihin, mutta ne eivät menneet. Seuraavana päivänä ne ammuen palasivat 
+          poltetuille raunioille katselemaan korkeammalla asteella olevien tekemää hävitystyötä. </p>
+        <p>Kauhea oli näky lähdön jälkeen: miehet pakko-otolla viety rintamille, hevoset jotenkin kaikki ryövätty, siemenviljat varastettu, muut tavarat rosvojen saaliina ja rahat sekä kulta- ja 
+          hopeaesineet menneet punikkien matkassa. Yksin vihkisormuksetkin kiskottiin naisten käsistä ja pienimmätkin muistoesineet kokoiltiin. Karjat ammuivat nälkäisinä maanteillä ja naiset ja 
+          lapset sekä ihmeen kautta pelastuneet miehet piilosilla korpien kohduissa. Ei milloinkaan unohdu mielestä. Mutta aamulla 26 p:nä saapuivat valkoiset ja siitä asti on taas voinut 
+          rauhassa hengittää. Mutta selvittelemistä on paljo, paljo!</p>
+      </Article>
+
+
+
+
+
+
+
 
 
 

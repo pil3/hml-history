@@ -644,10 +644,9 @@ const War1914Page = () => {
         <p>Sotatilan woimaanastuttua jossakin paikkakunnassa, lakkaa siellä woimassa olemasta asetus toimenpiteistä waltiollisen järjestyksen ja yleisen rauhan turwaamiseksi ja waltiollisen 
           järjestyksen ja yleisen rauhan säilyttämistä tarkoittawien toimenpiteiden ylin johto siirtyy ylipäällikölle ja armeijan päällikölle.</p>
         <p>Sotatilaan julistetuissa paikkakunnissa on armeijan päällikkö oikeutettu:</p>
-        <p>1) kieltämään poistumasta oleskelupaikaltaan semmoisia henkilöitä, jotka tietojensa, ammattinsa tai toimensa wuoksi woidaan kutsua sotatarkoituksia edistäwiin töihin;</p>
-        <p>2) määräämään yleisiä ja yksityisiä tilauksia toimitettawaksi; ja</p>
-        <p>3) kieltämään poiskuljettamasta töihin tarwittamia työkaluja ja aineita sekä elanto- ja kuljetuswälineitä, rehuja, halkoja ja muita sen tapaisia aineita, joita woidaan tarwita 
-          sotajoukkoja warten.</p>
+        <p className="leftP">1) kieltämään poistumasta oleskelupaikaltaan semmoisia henkilöitä, jotka tietojensa, ammattinsa tai toimensa wuoksi woidaan kutsua sotatarkoituksia edistäwiin 
+          töihin;<br />2) määräämään yleisiä ja yksityisiä tilauksia toimitettawaksi; ja<br />3) kieltämään poiskuljettamasta töihin tarwittamia työkaluja ja aineita sekä elanto- ja 
+          kuljetuswälineitä, rehuja, halkoja ja muita sen tapaisia aineita, joita woidaan tarwita sotajoukkoja warten.</p>
         <p>Jokainen sotawäenpäällikkö on oikeutettu omalla mieskohtaisella wastuullaan purkauttamaan rakennuksia ja häwittämään kaikkea, mikä sotilaalliselta kannalta saattaa waikeuttaa 
           sotajoukkojen liikkeitä tai toimia tahi olla wiholliselle eduksi.</p>
         <p>Armeijan toiminta-alueella on paikallinen kenraalikuwernööri tai se henkilö, joka käyttää kenraalikuwernöörin toimiwaltaa, armeijan päällikön käskynalainen, joka sen ohessa on oikeutettu 
