@@ -98,7 +98,7 @@ article p {
   letter-spacing: 2px;
   text-align: center;
 }
-.centeredStyle {
+.centered {
   text-align: center;
 }
 .boldStyle {
@@ -116,13 +116,13 @@ article p {
 .quote::after {
   content: "”"
 }
-.hyperLink {
+.hyperlink {
   display: block;
   text-align: left;
   font-size: 12px;
   color: darkblue;
 }
-.infoStyle {
+.info {
   font-size: 0.8rem;
   padding: 4px;
 }

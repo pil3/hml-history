@@ -14,7 +14,7 @@ const Lukijoilta1924Page = () => {
     <Layout titleText="Hämeen Sanomat, 1924">
       <h2>Lukijoilta</h2>
       <Divider className="dividerStyle" />
-      <p className="centeredStyle boldStyle" style={{margin:"8px 0"}}>Torstai, 3.1.1924</p>
+      <p className="centered boldStyle" style={{margin:"8px 0"}}>Torstai, 3.1.1924</p>
       <Article titleText="Huomiota herättäwä henkiwakuutusjuttu Hämeenlinnassa.">
         <p>Ylläolewalla otsakkeella arw. lehtenne palstoilla eilen julkaistussa kirjoituksessa moititaan Suomi-yhtiötä siitä, että se kuolemantapauksessa on kieltäytynyt maksamasta wakuutusta, 
           joka ei koskaan ole ollut woimassa. Saadakseen tilaisuuden näin aiheettomaan moitteeseen silwoo kirjoittaja lukemastaan yhtiön kirjeestä irti osan yleisön nähtäwäksi, mutta salaa toisen 
@@ -40,7 +40,7 @@ const Lukijoilta1924Page = () => {
         <p>Siltä, joka luulee olewansa kutsuttu käyttämään julkista sanaa suuren kansallisen laitoksen soimaamiseen, sopinee waatia, että hän ensin ottaa asioista selkoa ja ennen kaikkea, että hän 
           oikein lukijoillensa selittää, mitä hän jo on saanut tietoonsa. Jos arw. lehtenne kirjoittajalla olisi tätä wastuuntunnetta ollut, olisi häneltä arwatenkin jäänyt kynä musteeseen 
           kastamatta.</p>
-        <p className="centeredStyle">Helsingissä joulukuun 31 p. 1923</p>
+        <p className="centered">Helsingissä joulukuun 31 p. 1923</p>
         <p className="signature">Lawonius, Ingman - Keskinäinen henkiwakuutusyhtiö Suomi</p>
       </Article>
 
@@ -48,7 +48,7 @@ const Lukijoilta1924Page = () => {
       <Article titleText="Kiitos.">
         <p>Hyökkäyswaunurykmentin puolesta lausun parhaimmat kiitokseni Hämeenlinnan Sotilaskotiyhdistykselle, sen rykmentin miehistölle toimeenpanemasta hauskasta Joulujuhlasta lahjoineen ja kestityksineen sekä Kustannusliike Arwi A. Karistolle suurenmoisesta kirjalahjasta 
           ja samalla kiitän kaikkia niitä yksityisiä ja liikkeitä, jotka owat lähettäneet lahjoja jaettawaksi Jouluna. </p>
-        <p className="centeredStyle">Hämeenlinna 3. 1. 24.</p>
+        <p className="centered">Hämeenlinna 3. 1. 24.</p>
         <p className="signature">Kumlin. Majuri ja w. a. Rykm. Komentaja.</p>
       </Article>
 
@@ -106,10 +106,10 @@ const Lukijoilta1924Page = () => {
           herneitä, keskimäärin kutakin lajia 1 kg, sianlihaa keskimäärin 800 gr. Joululehden jakelun yhteydessä tarjoiltiin kahwia woipullan kera. Menot Smk. 2,142:40. Lastenjuhla, jossa 59 lasta 
           sai tarpeellisia ja lämpöisiä waatekappaleita, Smk. 1,178.25. Yhteissumma 3,420:65. Samalla lausumme myös kiitoksemme ystäwille, jotka owat kuukausittain kannattaneet työtämme kowaosaisten 
           keskuudessa kuin myöskin ompeluseuran tarmokkaille jäsenille. Jumalan siunaus on palkkanne olewa „Hywää tehdessänne älkäät wäsykö”.</p>
-        <p className="centeredStyle">H:linna tammik. 11 pnä 1924.</p>
-        <p className="centeredStyle">Kiitollisuudella</p>
+        <p className="centered">H:linna tammik. 11 pnä 1924.</p>
+        <p className="centered">Kiitollisuudella</p>
         <p className="signature zeroMargin">Elin Bärlund, Rosa Nuotio.</p>
-        <p className="centeredStyle">Slummisisaret.</p>
+        <p className="centered">Slummisisaret.</p>
       </Article>
 
       <DateDivider date="Perjantai, 18.1.1924"/>
@@ -141,11 +141,11 @@ const Lukijoilta1924Page = () => {
           Talwia Kangasalan Sksta; useita yksityispalkintoja jaetaan.</p>
         <p>Suojeluskunnat ilmoittawat osanottajien nimet allekirjoittaneelle 7. 2. 1924 mennessä. Lähemmät määräykset kilpailureitistä, majoituksesta y.m. annetaan myöhemmin.</p>
         <p>Runsasta osanottoa toiwoen lausumme kaikki suojeluskuntalaiset terwetulleiksi yllämainittuihin kilpailuihin.</p>
-        <p className="centeredStyle">Hämeenlinnan Suojeluskunta.</p>
+        <p className="centered">Hämeenlinnan Suojeluskunta.</p>
         <p className="signature zeroMargin">Helkiö.</p>
-        <p className="centeredStyle">Paikallispäällikkö.</p>
+        <p className="centered">Paikallispäällikkö.</p>
         <p className="signature zeroMargin">Juurewa.</p>
-        <p className="centeredStyle">Urheilutoimik. puheenjoht.</p>
+        <p className="centered">Urheilutoimik. puheenjoht.</p>
       </Article>
       <Article titleText="Wapaussodan inwalideille.">
         <p>Yleinen Suomen wapaussodan inwalidien kokous pidetään Helsingissä, Säätytalolla sunnuntaina tulewan helmikuun 17:tenä päiwänä ja aloitetaan kokouksen pito sanottuna päiwänä klo 
@@ -159,7 +159,7 @@ const Lukijoilta1924Page = () => {
           kokoukseen sitten tuotawa mukana, jos mahdollista, kuitattu lasku kyydistä. Siltä waralta taas, että monilukuisuutemme tähden täytyisimme majoituksessa turwautua yhteisasuntoihin, 
           niin kehoittaisimme kokoukseen saapuwia ottamaan mukaansa wiltin ja lakanat.</p>
         <p className="signature zeroMargin">A. Rosenberg.</p>
-        <p className="centeredStyle">Os.: Selki (Hangon rata).</p>
+        <p className="centered">Os.: Selki (Hangon rata).</p>
       </Article>
       <Article titleText="Sokerijuurikaswiljelyksen edistäminen Etelä-Hämeessä.">
         <p>Sanomalehdissä on kierrellyt uutinen, jonka mukaan Salon Raakasokeritehtaan toimesta äsken on pidetty neuwottelukokous, johon on kutsuttu edustajia eri seuduilta ja jossa on „todettu” 
@@ -193,9 +193,9 @@ const Lukijoilta1924Page = () => {
           häwityskeinoa ei tällekään loissienelle toistaiseksi tunneta, mutta wastustamalla sitä sitkeästi ja järkiperäisesti se wähitellen saadaan tyystin häwiämään hedelmätarhasta. Menettelytawat 
           owat samat kuin muillekin waikeasti tuhottawille loissienille ja kaswitaudeille ja on tällöin erikoisesti kiinnitettäwä huomiota kaswien terweyshoidolliseen puoleen. ja järkiperäiseen 
           torjumisaineitten käyttöön, joista seikoista on täydellinen selostus mm. 1923 - 1924 puutarhakalenterissa. </p>
-        <p className="centeredStyle">Lepaan Puutarhaopistolla tammikuun 23 pnä 1924.</p>
+        <p className="centered">Lepaan Puutarhaopistolla tammikuun 23 pnä 1924.</p>
         <p className="signature zeroMargin">Olawi Collan.</p>
-        <p className="centeredStyle">Waltionpomologi.</p>
+        <p className="centered">Waltionpomologi.</p>
       </Article>
 
       <DateDivider date="Keskiviikko, 6.2.1924"/>
@@ -267,7 +267,7 @@ const Lukijoilta1924Page = () => {
         <p>Tyytywäisyys ja yksimielisyys tuntui kodissa wallitsewan, jotka owatkin ihmiselämän suurin ja kallein rikkaus ja onni. Tämmöisestä kodista tuntui riittäwän ystäwyyttä ja wieraanwaraisuutta 
           toispaikkakuntalaiselleken, sääty- y.m. ja arwoon katsomatta.</p>
         <p>Oli todellakin nautinto tawata tällaisia wiljelijöitä ja tutustua heidän kokemuksiinsa. Olisi toiwottawa, että nämät kokemukset tulisiwat yleisemmin tunnetuiksi.</p>
-        <p className="centeredStyle">Hattulassa helmik. 4 pnä 1924.</p>
+        <p className="centered">Hattulassa helmik. 4 pnä 1924.</p>
         <p className="signature">Juho Torppa.</p>
       </Article>
 
@@ -284,9 +284,9 @@ const Lukijoilta1924Page = () => {
           saanut. Yleisöllä lienee wähän mielenkiintoa minun yksityisiin tuloihini niin kauan kuin kieltolainrikkojat saawat rauhassa, ilman että heidän nimiään ilmastaan yleisölle, tehdä rikoksiaan ja heidän 
           toimintaansa ei julkisesti puututa. Jos arw. Toimitus yksityisesti haluaa tietoja tuloistani, niin pyydän kääntymään suoraan minun puoleeni ja rohkenen lopuksi toiwoa, että minä tulojeni puolesta saan 
           pysyä yhtä tuntemattomana kuin kieltolainrikkojakin.</p>
-        <p className="centeredStyle">Koskella H.l. helmikuun 11 päiwänä 1924.</p>
+        <p className="centered">Koskella H.l. helmikuun 11 päiwänä 1924.</p>
         <p className="signature zeroMargin">Hannes Heinonen.</p>
-        <p className="centeredStyle">Kärkölän piirin nimismies.</p>
+        <p className="centered">Kärkölän piirin nimismies.</p>
         <SubDivider className="dividerStyle" />
         <p><span className="boldStyle">Toimitus,</span> jota ylläolewan Herra Nimismiehen „vastalauseen” sekä säwy että sisältö suuresti kummastuttaa, pyytää huomauttaa, että kysymyksessä olewa uutinen kuuluu 
         n.s. lääninhallituksen uutisiin ja on julkaistu samalla kuin meidän lehdessämme myöskin kaikissa niissä Hämeen läänin sanomalehdissä, jotka yleensä tulewat näistä uutisista osallisiksi. Herra 
@@ -309,7 +309,7 @@ const Lukijoilta1924Page = () => {
           tarwitsisi olla mitään erikoisia, kyllä tarkoitus ja innostus toisiwat mainittuihin tilaisuuksiin yleisöä. Eikä ainoastaan Hämeenlinnan kaupungin, waan myöskin sen ympäristön yhdistysten olisi ryhdyttäwä 
           samanlaisiin toimenpiteisiin. Siis näyttäkäämme hämeenlinnalaiset, että mekin saamme kootuksi ainakin yhtä paljon kuin riihimäkeläiset ja olkoon yhteinen päätöksemme Olympialaisjoukkueemme suuremmaksi ensi 
           olympialaisiin kisoihin! Suomi woittoon!</p>
-        <p className="centeredStyle">Hämeenlinna 14 p. helmik. 1924.</p>
+        <p className="centered">Hämeenlinna 14 p. helmik. 1924.</p>
         <p className="signature">Y. A. Wuori.</p>
       </Article>
       <Article titleText="Kieltolakia pidettäwä silmällä, asetettaessa edustajaehdokkaita.">
@@ -320,7 +320,7 @@ const Lukijoilta1924Page = () => {
           työtään, wäkijuomalakien ääressä. Tässä piilee waara, ja on wakaumukseni se, että ehdokkaalta tulee tällä kertaa waatia sitä, että hän omassa elämässään noudattaa raittiutta. Käsitykseni mukaan hän silloin 
           wasta tosiasiallisesti, tärkeällä edustajapaikallaan woi tehdä raittiusasian hywäksi tuloksellista työtä, olkoonpa sitte kysymyksessä joko nykyisen kieltolain tarkistus tai muunlainen raittiutta koskewa 
           kysymys käsittelyn ja ratkaisun alaisena, kun hän omaa wakaumukseen perustuwan raittiusmielisen katsantokannan elämässään. Tähän meidän tällä kertaa on pyrittäwä ehdokaskysymyksen suhteen.</p>
-        <p className="centeredStyle">Hauho, 10. 2. 1924.</p>
+        <p className="centered">Hauho, 10. 2. 1924.</p>
         <p className="signature">Aleksi Mattila.</p>
       </Article>
 
@@ -341,7 +341,7 @@ const Lukijoilta1924Page = () => {
           porkkanasta, johon „Entisen sokerijuurikaswiljelijän” sepustus loppuu.</p>
         <p>Olemme aina walmiit asialliseen keskusteluun sokerijuurikkaan wiljelyksestä, mutta tuollaisiin asiattomiin kiukunpurkauksiin kuin „Entisen sokerijuurikaswiljelijän” wastaamiseen ei meillä ole aikaa. Woimme 
           sen käyttää paljon positiiwisempaankin työhön.</p>
-        <p className="centeredStyle">Salossa 14. 2. 1924.</p>
+        <p className="centered">Salossa 14. 2. 1924.</p>
         <p className="signature">Suomen Raakasokeritehdas Osakeyhtiö.</p>
       </Article>
 
@@ -377,7 +377,7 @@ const Lukijoilta1924Page = () => {
           keskusteltaessa yhdyin alustajaan, mikä käsitys ei tullut kokouksen päätökseksi. Tämä päätös ei waikuttanut ehdokkaaksi kieltäytymiseeni, sillä olin aikaisemmin sen jo ilmoittanut, eikä päätös ole esteenä 
           maalaisliittolaiselle waalitoiminnallenikaan. </p>
         <p>Kertojan samoin kuin lehdenkin pitää käsittämän että kuwiteltu menettely olisi tahditonta, niinkuin asian wääristeleminen on rumaa warsinkin julkisuutta warten painettuna.</p>
-        <p className="centeredStyle">Hattulassa maalisk. 3 p:nä 1924.</p>
+        <p className="centered">Hattulassa maalisk. 3 p:nä 1924.</p>
         <p className="signature">Juho Torppa.</p>
         <SubDivider className="dividerStyle" />
         <p><span className="boldStyle">Toimitus</span> walittaen tapahtuneita erehdyksiä pyytää ylläaolewan johdosta huomauttaa, että kyseessäolewa uutinen perustui erään kokouksessa olleen maalaisliittolaisen kertomukseen, 
@@ -389,7 +389,7 @@ const Lukijoilta1924Page = () => {
         <p>Hämeen Maakuntajuhlain laulu- ja soittotoimikunnan keskuudessa on herännyt ajatus Cherubinin Requiemin esittämisestä juhlien aikana. Kun kaupungissamme on koko joukko henkilöitä, jotka owat ennen ottaneet osaa 
           mainitun suursäwellyksen esittämiseen ja siis hywin tuntewat sen, pyydetään kaikkia entisiä Requiem-laulajia kokoontumaan Kerhon huoneustoon ensi lauantaina t.k. 8 pnä klo 6 i.p. keskustelemaan aiheen 
           toteuttamismahdollisuudesta.</p>
-        <p className="centeredStyle">Toimikunnan puolesta:</p>
+        <p className="centered">Toimikunnan puolesta:</p>
         <p className="signature">A. Th. Böök.</p>
       </Article>
 
@@ -402,7 +402,7 @@ const Lukijoilta1924Page = () => {
         <p>Kaikkia tätä kysymystä harrastawia henkilöitä kehoitotaan sen tähden saapumaan yhteiseen kokoukseen, joka pidetään neiti Ahosen Raittiusrawintolassa torstaina t.k. 13 pnä klo 8 illalla.</p>
         <p>Asia on Herran, tarkoittaen hänen waltakuntansa edistämistä. Siksipä saammekin olla wakuutettuja siitä, sillä hän on sen puolella ja on runsaasti siunaawa kaikkia, jotka koettawat myötäwaikuttaa todella hywän asian 
           woitolle pääsemiseksi.</p>
-        <p className="centeredStyle">Hämeenlinnassa 10. 3. 1924.</p>
+        <p className="centered">Hämeenlinnassa 10. 3. 1924.</p>
         <p className="signature">Yksi monien puolesta.</p>
       </Article>
 
@@ -478,7 +478,7 @@ const Lukijoilta1924Page = () => {
           ei yleensä saa ottaa, elleiwät hakijan esi-isät ole nimeä laillisesti käyttäneet. Maaherran päätöksestä saa walittaa korkeimpaan hallinto-oikeuteen kuudenkymmenen päiwän kuluessa. Kun maaherra on uuden sukunimen hywäksynyt, on 
           hakijan kuulutettawa hywäksymisestä wirallisissa lehdissä ja jossain paikkakunnan sanomalehdessä sekä ilmoitettawa sukunimi asianomaisen seurakunnan kirkonkirjoihin merkittäwäksi.</p>
         <p>Tässä pääkohdat nimenmuuttoa koskewista säännöistä. Tarkemman tiedon näistä saa mainitusta sukunimilaista (hinta 50 p.), jonka saa tilata, mieluimmin postietuannilla, osoitteella: Waltioneuwoston julkaisuwirasto, Helsinki.</p>
-        <p className="centeredStyle">Helsingissä, huhtik. 30 p. 1924.</p>
+        <p className="centered">Helsingissä, huhtik. 30 p. 1924.</p>
         <p className="signature">Suomalaisuuden Liiton toimisto.</p>
       </Article>
 
@@ -560,7 +560,7 @@ const Lukijoilta1924Page = () => {
           asianomaisten täyden tunnustuksen nopealla ja huolellisella tehtäwiensä suorituksella. Wiranhakija, jota tässä tarkoitamme, on howioikeuden auskultantti Johannes Aukusti Heinonen. Kun hän senkin jälkeen hoitamissaan 
           wirkatehtäwissä on osoittautunut tarmokkaaksi ja huolelliseksi, olemme „Liikewäen” kehoitusta huomioonottamatta päättäneet t.k. 4 pnä suoritettawassa oikeusneuwosmiehen waalissa äänestää J. A. Heinosta ja täten kehoittaa 
           kaikkia toisiakin äänioikeutettuja antamaan hänelle äänensä.</p>
-        <p className="centeredStyle">Kunnioittaen</p>
+        <p className="centered">Kunnioittaen</p>
         <p className="signature">Ryhmä hämeenlinnalaisia kauppiaita y.m. liikkeenharjoittajia.</p>
       </Article>
       <Article titleText="Raatimieskinastelua.">
@@ -704,7 +704,7 @@ const Lukijoilta1924Page = () => {
           wirkistysaikaa. Ehkä herätämme wähän huomiota neekerimäisyydellämme ja lihawuudellamme, mutta nämät pian päältämme kariseawat, ja niin olemme jälleen muiden ihmisten kaltaiset.</p>
         <p>Sydämellinen kiitos uhrautuwalle emännöitsijälle kaikesta hywyydestä, jota saimme osaksemme siirtolassa ollessamme. Suurimmat kiitokset kaupungin waltuustolle, siirtolatoimikunnalle ja kaikille, jotka owat 
           myötäwaikuttaneet tämän hywän tarkoituksen eteenpäin wiemiseksi. Hartain toiwomus on, että tämä siirtola edelleenkin woisi ottaa suojiinsa monia rasittuneita äitejä lapsineen wirkistymään pieneksi ajaksi.</p>
-        <p className="centeredStyle">Kiitollisin mielin.</p>
+        <p className="centered">Kiitollisin mielin.</p>
         <p className="signature">Wirkistyneet äidit.</p>
       </Article>
 
@@ -734,7 +734,7 @@ const Lukijoilta1924Page = () => {
         <p>Kun siis Suomesta lähtee, pitää olla terwe, paitsi ulkomaanpassia, tulee hänellä olla maihinnousuraha, 25 dollaria, sekä tarkka ilmoitus siitä, kenen luokse matkustaa, onko työpaikka jo walmiina. Siitä, minkä Suomessa 
           laiwakonttorissa ilmoittaa, ei saa missään tapauksessa poiketa laiwalla, eikä määräpaikassa kyseltäessä. Kun näin on paperit kunnossa, pääsee kyllä maihin warmasti.</p>
         <p>Mielestäni laiwayhtiöiden pitäisi antaa tarkkoja neuwoja matkustawille, ettei ihmisten tarwitsisi tehdä tätä kallista ja pitää matkaa, turhan tähden.</p>     
-        <p className="centeredStyle">Torontossa, 26. 8. -24.</p>
+        <p className="centered">Torontossa, 26. 8. -24.</p>
         <p className="signature">Hugo Kettunen</p>
       </Article>
 
@@ -754,7 +754,7 @@ const Lukijoilta1924Page = () => {
       <Article titleText="Onko">
         <p>huhuissa perää että Hämeenlinnan kaupunki ei olisi niitten 26 kaupunkikunnan joukossa mitkä owat hankkineet Amerikasta edullisen lainan. Jos todella niin olisi, olemme siwuuttaneet ainutlaatuisen tilaisuuden ja on kuntamme 
           korkotappio kyseessäolleelle 5 miljoonan markan lainalle pyörein luwuin ainakin 150,000 markkaa wuodessa.</p>
-        <p className="centeredStyle">Asiassa selwitystä kaipaa</p>
+        <p className="centered">Asiassa selwitystä kaipaa</p>
         <p className="signature">Veronmaksaja.</p>
       </Article>
 
@@ -875,7 +875,7 @@ const Lukijoilta1924Page = () => {
           ilmoituksiin.</p>
         <p>Olen itsekin kewyiksi hawaittujen hakijain joukossa, odotan mielenkiinnolla tuleeko kaupungin waltuusto ilman muuta antamaan siunauksensa terweyshoitolautakunnan edesottamiselle, wai tuleeko se ehkä wielä kiinnittämään 
           huomiotaan syrjäytettyjenkin hakijain pätewyyteen.</p>
-        <p className="centeredStyle">Joka elää, se näkee</p>
+        <p className="centered">Joka elää, se näkee</p>
         <p className="signature">G. E. Palm</p>
       </Article>
 
@@ -910,12 +910,12 @@ const Lukijoilta1924Page = () => {
         <p>Olisi kaunis todistus kansamme liikemoraalista, samoin kuin siwistyksestä, joka tähtää pintaa sywemmälle, jos hewosten wienti lakkaisi Neuwosto-Wenäjälle halukkaiden myyjien puutteessa. Älköön kukaan panko laastaria sairaalle 
           omalletunnolleen siten, että hän wälittäjien kautta myy hewosensa - joka sitten joutuu Wenäjälle.</p>
         <p>Eläinsuojelusyhdistys Helsingissä wetoo täten kansamme kunniantuntoon. Älkää luowuttako uskollista palwelijaanne tuntemattomiin kohtaloihin, waikkakin sen kautta kärsitte tilapäistä aineellista wahinkoa.</p>
-        <p className="centeredStyle">Helsingissä, 30 pnä lokak. 1924.</p>
+        <p className="centered">Helsingissä, 30 pnä lokak. 1924.</p>
         <p className="signature">Helsingin Eläinsuojelusyhdistys.</p>
       </Article>
       <br />
       <Divider className="dividerStyle" />
-      <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?year=1924">Linkki vuosikertaan 1924</a>
+      <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?year=1924">Linkki vuosikertaan 1924</a>
     </Layout>
   );
 };

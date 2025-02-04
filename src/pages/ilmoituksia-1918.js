@@ -37,9 +37,35 @@ import img28 from "../images/content/hasa1918/img-28.jpg"
 import img29 from "../images/content/hasa1918/img-29.jpg"
 import img30 from "../images/content/hasa1918/img-30.jpg"
 import img31 from "../images/content/hasa1918/img-31.jpg"
-
-
-
+import img32 from "../images/content/hasa1918/img-32.jpg"
+import img33 from "../images/content/hasa1918/img-33.jpg"
+import img34 from "../images/content/hasa1918/img-34.jpg"
+import img35 from "../images/content/hasa1918/img-35.jpg"
+import img36 from "../images/content/hasa1918/img-36.jpg"
+import img37 from "../images/content/hasa1918/img-37.jpg"
+import img38 from "../images/content/hasa1918/img-38.jpg"
+import img39 from "../images/content/hasa1918/img-39.jpg"
+import img40 from "../images/content/hasa1918/img-40.jpg"
+import img41 from "../images/content/hasa1918/img-41.jpg"
+import img42 from "../images/content/hasa1918/img-42.jpg"
+import img43 from "../images/content/hasa1918/img-43.jpg"
+import img44 from "../images/content/hasa1918/img-44.jpg"
+import img45 from "../images/content/hasa1918/img-45.jpg"
+import img46 from "../images/content/hasa1918/img-46.jpg"
+import img47 from "../images/content/hasa1918/img-47.jpg"
+import img48 from "../images/content/hasa1918/img-48.jpg"
+import img49 from "../images/content/hasa1918/img-49.jpg"
+import img50 from "../images/content/hasa1918/img-50.jpg"
+import img51 from "../images/content/hasa1918/img-51.jpg"
+import img52 from "../images/content/hasa1918/img-52.jpg"
+import img53 from "../images/content/hasa1918/img-53.jpg"
+import img54 from "../images/content/hasa1918/img-54.jpg"
+import img55 from "../images/content/hasa1918/img-55.jpg"
+import img56 from "../images/content/hasa1918/img-56.jpg"
+import img57 from "../images/content/hasa1918/img-57.jpg"
+import img58 from "../images/content/hasa1918/img-58.jpg"
+import img59 from "../images/content/hasa1918/img-59.jpg"
+import img60 from "../images/content/hasa1918/img-60.jpg"
 
 const Ilmoituksia1918Page = () => {
   return (
@@ -64,7 +90,22 @@ const Ilmoituksia1918Page = () => {
           <Image className="columnImgStyle" src={img25} alt="Kuva 25"/>
           <Image className="columnImgStyle" src={img27} alt="Kuva 27"/>
           <Image className="columnImgStyle" src={img29} alt="Kuva 29"/>
-          <Image className="columnImgStyle" src={img31} alt="Kuva 31"/>      
+          <Image className="columnImgStyle" src={img31} alt="Kuva 31"/> 
+          <Image className="columnImgStyle" src={img33} alt="Kuva 33"/>    
+          <Image className="columnImgStyle" src={img35} alt="Kuva 35"/>    
+          <Image className="columnImgStyle" src={img37} alt="Kuva 37"/>    
+          <Image className="columnImgStyle" src={img39} alt="Kuva 39"/>    
+          <Image className="columnImgStyle" src={img41} alt="Kuva 41"/>
+          <Image className="columnImgStyle" src={img43} alt="Kuva 43"/>
+          <Image className="columnImgStyle" src={img45} alt="Kuva 45"/>
+          <Image className="columnImgStyle" src={img47} alt="Kuva 47"/>
+          <Image className="columnImgStyle" src={img49} alt="Kuva 49"/>
+          <Image className="columnImgStyle" src={img51} alt="Kuva 51"/>
+          <Image className="columnImgStyle" src={img53} alt="Kuva 53"/>
+          <Image className="columnImgStyle" src={img55} alt="Kuva 55"/>
+          <Image className="columnImgStyle" src={img57} alt="Kuva 57"/>
+          <Image className="columnImgStyle" src={img58} alt="Kuva 58"/>
+          <Image className="columnImgStyle" src={img59} alt="Kuva 59"/>
         </div>
         <div className="columnStyle">
           <Image className="columnImgStyle" src={img2} alt="Kuva 2"/>
@@ -81,6 +122,20 @@ const Ilmoituksia1918Page = () => {
           <Image className="columnImgStyle" src={img26} alt="Kuva 26"/>
           <Image className="columnImgStyle" src={img28} alt="Kuva 28"/>
           <Image className="columnImgStyle" src={img30} alt="Kuva 30"/>
+          <Image className="columnImgStyle" src={img32} alt="Kuva 32"/>
+          <Image className="columnImgStyle" src={img34} alt="Kuva 34"/>
+          <Image className="columnImgStyle" src={img36} alt="Kuva 36"/>
+          <Image className="columnImgStyle" src={img38} alt="Kuva 38"/>
+          <Image className="columnImgStyle" src={img40} alt="Kuva 40"/>
+          <Image className="columnImgStyle" src={img42} alt="Kuva 42"/>
+          <Image className="columnImgStyle" src={img44} alt="Kuva 44"/>
+          <Image className="columnImgStyle" src={img46} alt="Kuva 46"/>
+          <Image className="columnImgStyle" src={img48} alt="Kuva 48"/>
+          <Image className="columnImgStyle" src={img50} alt="Kuva 50"/>
+          <Image className="columnImgStyle" src={img52} alt="Kuva 52"/>
+          <Image className="columnImgStyle" src={img54} alt="Kuva 54"/>
+          <Image className="columnImgStyle" src={img56} alt="Kuva 56"/>
+          <Image className="columnImgStyle" src={img60} alt="Kuva 60"/>
         </div>
       </div>
     </Layout>

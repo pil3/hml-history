@@ -31,7 +31,7 @@ const Kalenteri1895Page = () => {
         1883-1898. Kunnalliskalenteri on luettelo eri tehtävissä toimivista henkilöistä. Siinä luetellaan valtuuston ja mm. rahatoimikamarin ja vaivaishoitohallituksen jäsenet, mutta myös monien kaupungissa toimivien yhteisöjen ja 
         järjestöjen, kuten raittiusseuran tai rouvasväenyhdistyksen toimihenkilöt.</p>
       
-      <a className="hyperLink" href="https://digi.kirjastot.fi/files/original/114864acbe570c8cbc55f5781e75a05b.pdf">Lähde</a>
+      <a className="hyperlink" href="https://digi.kirjastot.fi/files/original/114864acbe570c8cbc55f5781e75a05b.pdf">Lähde</a>
     </Layout>
   )
 }

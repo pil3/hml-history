@@ -125,7 +125,7 @@ const FirePage = () => {
       <SubDivider className="dividerStyle" />
       <p>Mikäli poliisitutkinnossa sittemmin saatiin selville oli kaupp. Juselius'en renki Mikko Mikonpoika kl. 6 tienoissa tullut kotia juopuueena sekä otaksuttiin varomattomasti pidelleen tulta ullakolla ja jääneen sinne liekkeihin.</p>
       <Image className="centeredImageStyle" src={imgJuselius} alt="Juseliuksen talo"/>
-      <a className="hyperLink" href="https://digi.kirjastot.fi/files/original/f9a4c69de27ec602332aa8c4a1c32fb4.pdf">Lähde</a>
+      <a className="hyperlink" href="https://digi.kirjastot.fi/files/original/f9a4c69de27ec602332aa8c4a1c32fb4.pdf">Lähde</a>
     </Layout>
   )
 }

@@ -516,7 +516,7 @@ const KunnallisHistoriaPage = () => {
           väri-aineista ja muusta senkaltaisesta tavarasta, koska näiden suhteen on vaikeampi valvoa ettei tullikavallusta tapahdu </span>.</p>
         <p>Muuttamisavuksi annettiin kaupunkilaisille sitä paitsi yleisistä varoista 907: 7,8 Sp. riksiä. Näistä rahoista meni v. 1780 työväen palkkoihin 286: 17,5 Sp. riksiä, v. 1781 51: —,5, v. 1782 50: — Sp. r. Markkinakojujen 
           teettämiseen meni 444: 13,8 Sp. r. ja tullihuoneen rakentamiseen 08: 46 Sp. r. Jäännös eli 26,2 Sp. r. pantiin kaupungin-kassaan.</p>
-        <p className="infoStyle">Suullinen taru, jonka täällä olemme kuulleet, kertoo että Kustaa kuningas, matkustaessaan pois Hämeenlinnasta ja hetkeksi seisattuessaan Hattelmalan harjulle ottaakseen pienen aamuryypyn, oli 
+        <p className="info">Suullinen taru, jonka täällä olemme kuulleet, kertoo että Kustaa kuningas, matkustaessaan pois Hämeenlinnasta ja hetkeksi seisattuessaan Hattelmalan harjulle ottaakseen pienen aamuryypyn, oli 
           katsellut taakseen ja silloin osoittanut Niementaustan metsäistä mäkeä lausuen, että siinähän olikin paras ja kauniin paikka uudelle kaupungille.</p>
       </Article>
       <SubDivider className="dividerStyle"/>
@@ -685,7 +685,7 @@ const KunnallisHistoriaPage = () => {
           häntä oli koko nykyinen avara puisto-alue epämiellyttävänä kivikkona; mutta Rehbinder komensi sinne ojennusvankilan vangit linnasta ankaraan työhön, joka monen monta vuotta läpitsensä pusersi runsaat hikipisarat varikiparkain 
           ihosta. Kivet kiskottiin maasta irti ja koottiin, mitkä rantasillaksi, mitkä kivi-aidaksi, mitkä taasen tasoitettuina <span className="quote">vanhaksi linna-raunioksi</span>, joka seisoo lähes keskellä puistoa ja vuosiluvullaan 
           <span className="quote">1250</span> on käyvinään Birger jaarlin ensimmäisestä linnasta.</p>
-        <p className="infoStyle">Jo pintapuolisellekkin katsojalle selviää melkein heti tämän raunion oikea luonne; mutta vapaaherra Rehbinder koetti, kuten kerrotaan, kerran eksyttää muutamia matkustavia ruotsalaisia tiedemiehiäkin 
+        <p className="info">Jo pintapuolisellekkin katsojalle selviää melkein heti tämän raunion oikea luonne; mutta vapaaherra Rehbinder koetti, kuten kerrotaan, kerran eksyttää muutamia matkustavia ruotsalaisia tiedemiehiäkin 
           rakennuksellaan, osoittaen vuosilukua seinässä ja väittäen kiven kovaan sen muka keski-aikaista alkuperää. Oppineet herrat olivat uskovinaan, ja iloissaan piti nyt tuo muuten raharakas parooni heille hyvät ja kalliit 
           sampanja-kekkerit. Vasta näiden lopussa yksi herroista, kiittäen isäntää nautituista herkuista, rupesi antamaan hänelle rakennusohjeita vanhain linnan-raunioiden jäljittelemistä varten.</p>
         <p>Ojennus-vangeilla rakennutti Rehbinder Perttulan tilan maalle, 5 kilometriä kaupungista, itselleen sen komean, kaukaa katsoen linnantapaisen huvilan, joka kaupungin sillasta eteläänpäin silmäillessämme heti herättää huomiota ja 
@@ -700,7 +700,7 @@ const KunnallisHistoriaPage = () => {
           katsantotapoihin. Ynseästi kohteli hän hämeenlinnalaisiakin, vaati tervehtimistä kaduilla vierailtakin henkilöiltä, ei viitsinyt ostoksilla ollessaan astua puotiin eikä edes nousta vaunuistansa, vaan oli hänelle tavara tuotava 
           nähtäväksi kadulle, j.n.e. Paronin ollessa ajelulla ratsasteli kaksi kasakkaa täysissä aseissa vaunujen perästä, ja hänen kävelyillään kulki myös kasakka parin askeleen päässä perästä — vesikarahvi muassa siltä varalta, että 
           herra kuvernööriä rupeisi janottamaan. Nöyrästi tuli vastaan-tulijain kumartaa ja tervehtiä, jolleivät tahtoneet joutua mahtavan maaherransa epäsuosioon.</p>
-        <p className="infoStyle">Oli kaupungissa toki niitäkin, jotka toisinaan antoivat ylpeälle kuvernöörille pikku läksytyksiä. Niinpä muun muassa kerrotaan eräästä vanhasta lääkäristä, jonka hän kerran kipeänä ollessaan tavallisella 
+        <p className="info">Oli kaupungissa toki niitäkin, jotka toisinaan antoivat ylpeälle kuvernöörille pikku läksytyksiä. Niinpä muun muassa kerrotaan eräästä vanhasta lääkäristä, jonka hän kerran kipeänä ollessaan tavallisella 
           jyrkällä tavallaan oli komennuttanut luokseen, ettei tohtori tullutkaan ennenkun R. viimein lähetti vaunuilla noutamaan. Tohtorin silloin vihdoinkin saapuessa maaherran luo, ärjyi tämä aika lailla ja sanoi m. m.: „Tietäkää te, 
           hra tohtori, että minä yhdellä kynänvedolla voin lähettää teidät virasta." „Tietäkää te, hra parooni”, — vastasi tohtori —, „että minä yhdellä kynänvedolla voin lähettää teidät — helvettiin”</p>
         <p>Rehbinder joutui viimein ikäviin selkkauksiin ojennushuonelaitoksen talouden takia. Tämän laitoksen johtajana oli näet siihen aikaan eräs Rennerfelt, joka tässä taloudessa oli harjoittanut keinottelua, ja kuvernööri oli — kuten 
@@ -955,7 +955,7 @@ const KunnallisHistoriaPage = () => {
       <SubDivider className="dividerStyle"/>
 
       <Article titleText="Metsänhoitosäännöt kaupungin kaikille torppareille.">
-        <p className="infoStyle centeredStyle">(Rahatoimikamarin julkaisusta maalisk. 21 p:ltä 1899).</p>
+        <p className="info centered">(Rahatoimikamarin julkaisusta maalisk. 21 p:ltä 1899).</p>
         <p><span className="boldStyle">l:si.</span> Torppari, joka haluaa saada rakennusaineita kotitarpeeksi, ilmoittakoon Rahatoimikamarin syyskuun pitämässä kokouksessa minkä verran rakennuspuita, aidaksia ja polttopuita sekä muita tarvepuita hän seuraavaksi vuodeksi 
           tarvitsee. Se, joka ei edellä mainitussa kokouksessa ilmoita itseään saadakseen sanotuita metsäntuotteita, menettää kaiken oikeutensa niihin seuraavaksi vuodeksi.</p>
         <p><span className="boldStyle">2:si.</span> Kaikenlainen puiden hakkuu metsässä kielletään muilla kuin siksi määrätyillä paikoilla. Samoin kielletään kaatamasta muita kuin hakattavaksi määrätyltä puita.</p>
@@ -979,9 +979,9 @@ const KunnallisHistoriaPage = () => {
         <p>Puistoravintolan vuokra: 1,400:-</p>
         <p>Yht.: 23,894: 96</p>
         <p className="boldStyle">Muist:</p>
-        <p className="infoStyle">1: Torimaksuja suorittavat ainoastaan ulkolaiset paikoistaan markkinoilla. Torikauppiaat kaupungissa eivät maksa mitään paikoistaan torilla eivätkä myöskään kaupunkilaiset markkinoilla.</p>
-        <p className="infoStyle">2: Liikennemaksut kantaa tullinhoitaja ja nauttii siitä palkkiota vuosittain 300 markkaa.</p>
-        <p className="infoStyle">3: Laidunmaan käyttämisestä suoritetaan joka lehmältä 3 markan ja samoin joka hevoselta 3 markan vuotuinen maksu.</p>
+        <p className="info">1: Torimaksuja suorittavat ainoastaan ulkolaiset paikoistaan markkinoilla. Torikauppiaat kaupungissa eivät maksa mitään paikoistaan torilla eivätkä myöskään kaupunkilaiset markkinoilla.</p>
+        <p className="info">2: Liikennemaksut kantaa tullinhoitaja ja nauttii siitä palkkiota vuosittain 300 markkaa.</p>
+        <p className="info">3: Laidunmaan käyttämisestä suoritetaan joka lehmältä 3 markan ja samoin joka hevoselta 3 markan vuotuinen maksu.</p>
       </Article>
       <SubDivider className="dividerStyle"/>
 
@@ -1005,8 +1005,8 @@ const KunnallisHistoriaPage = () => {
         <p>Herra kirkkoherralle, joka on puheenjohtajana nykyisessä vaivaishoito-johtokunnassa, saan täten ystävällisesti jättää toimeksi yhdessä johtokunnan jäsenten kanssa ottaa mainittu rakennus haltuunsa ja käytettäväksi, minun 
           elinaikanani vuosittain minulta periä lahjoitus-pääoman korot kuudella sadalla ruplalla banko-assignatsiooneja sekä, ehdoituksen tultua tarkastetuksi ja vahvistetuksi, mahdollisimmasti pikaiseen käytäntöön saattaa puheenalainen 
           vaivais- ja työhuonelaitos, pysyen kunnioittaen ja ystävyydellä</p>
-        <p className="centeredStyle">Kunnianarvoisan ja korkeasti-oppineen herra kirkkoherran nöyrimpänä palvelijana</p>
-        <p className="centeredStyle">H:linnassa toukok. 20 p. 1834.</p>
+        <p className="centered">Kunnianarvoisan ja korkeasti-oppineen herra kirkkoherran nöyrimpänä palvelijana</p>
+        <p className="centered">H:linnassa toukok. 20 p. 1834.</p>
         <p className="signature">Joh. Fr. Stichaeus.</p>
         <QuoteEnd className="symbolStyle"/>
         <p>Tämän lahjoituksen nojassa järjestettiin ja pantiin toimeen vaivais- ja työhuonelaitos v. 1836. Mutta jo 1837 vuoden alussa, tammik. 8 p:nä päätettiin kirkonkokouksessa että ne harvat vaivaiset, joita vaivais- ja työhuoneessa 
@@ -1044,8 +1044,8 @@ const KunnallisHistoriaPage = () => {
           korkoa pantaisiin pääomaan, kunnes se olisi kasvanut 10,000 markaksi, ja tulisi myöhempäin valtuusmiesten päättää miten näin kasvanut pääoma olisi käytettävä.</p>
         <p>9,934 m. 16 p:n suuruisena yhdistettiin tämäkin rahasto v. 1891 valtuuston päätöksestä Stichaeuksen vaivais- ja työhuonerahastoon.</p>
         <p className="boldStyle">Huomautus:</p>
-        <p className="infoStyle">V. 1876 oli hoitovaivaisia yhteensä 45 sekä kuukaus- ja tilapäistä apua nauttivia yhteensä 56. Edellisistä oli alaikäisiä 24 eli 10 poikaa ja 14 tyttöä, joten siis täysi-ikäisiä hoitovaivaisia oli 21.</p>
-        <p className="infoStyle">V. 1898 oli hoitovaivaisia yhteensä 22 sekä kuukausapua nauttivia 32 ja tilapäistä apua nauttivia 33. Edellisistä eli hoitovaiv. oli alaikäisiä 18 ja täysik. siis 4.</p>
+        <p className="info">V. 1876 oli hoitovaivaisia yhteensä 45 sekä kuukaus- ja tilapäistä apua nauttivia yhteensä 56. Edellisistä oli alaikäisiä 24 eli 10 poikaa ja 14 tyttöä, joten siis täysi-ikäisiä hoitovaivaisia oli 21.</p>
+        <p className="info">V. 1898 oli hoitovaivaisia yhteensä 22 sekä kuukausapua nauttivia 32 ja tilapäistä apua nauttivia 33. Edellisistä eli hoitovaiv. oli alaikäisiä 18 ja täysik. siis 4.</p>
         <p>Käydessämme tämän vuoden (1899) joulukuun alussa kaupungin vaivaistaloa katselemassa, oli siinä hoidettavana yhteensä 34 hoitolaista eli 15 miespuolta ja 19 naispuolta, kaikki vanhoja ihmisiä, paitsi yksi ala-ikäinen 
           tylsämielinen poika. Naisten käytettävänä oli 3 asuin- ja makuu-huonetta, miesten 1. Erityinen ruokasali yhteinen.</p>
         <p>Laitoksessa hoidetaan tätä nykyä 5 mielisairasta henkilöä. Köyhät ja vaivaiset eivät yleensä tahdo asettua vaivaistaloon asumaan. Syy tähän seikkaan on siinä, että vaivaistalo- järjestelmä vaatii hoitolaisilta työtä ja 
@@ -2071,7 +2071,7 @@ const KunnallisHistoriaPage = () => {
       </Article>
       <SubDivider className="dividerStyle"/>
 
-      <a className="hyperLink" href="https://digi.kirjastot.fi/files/original/e1b4670159cbca4f0346f6b9ef7f93da.pdf">Lähde</a>
+      <a className="hyperlink" href="https://digi.kirjastot.fi/files/original/e1b4670159cbca4f0346f6b9ef7f93da.pdf">Lähde</a>
     </Layout>
   )
 }

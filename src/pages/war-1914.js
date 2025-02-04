@@ -334,7 +334,7 @@ const War1914Page = () => {
       <Article titleText="Sota Itäwallan ja Serbian wälillä.">
         <Divider className="dividerStyle" />
         <h4>Sota julistettu.</h4>
-        <p className="centeredStyle">Itäwallan sotajoukot kulkeneet Serbian rajan yli.</p>
+        <p className="centered">Itäwallan sotajoukot kulkeneet Serbian rajan yli.</p>
         <h5>Itäwalta julistanut sodan.</h5>
         <p><span className="accent">Pietarista</span>, heinäk. 28 p.<br />Serbian pääministeri Pashitsh on lennättänyt Serbian täkäläiselle lähettiläälle, että Itäwalta tänään klo 12 päiw. on 
           julistanut sodan Serbiaa wastaan.</p>
@@ -1033,7 +1033,7 @@ const War1914Page = () => {
 
 
       <br></br>
-      <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>
+      <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>
     </Layout>
   )
 }

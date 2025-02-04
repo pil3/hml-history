@@ -278,7 +278,7 @@ const Conditions1809Page = () => {
       <p>Siten oli rauhan aika taas palannut, ja säännöttömät olot ja ylimääräiset rasitukset, joita sota mukanaan oli tuonut, taukosivat; sotaväen osastojen alituinen kulku lakkasi, talonpoikien raskaat transporttimatkat 
         loppuivat, kuriirit eivät enää olleet kestikievareissa rasituksena. Mutta vielä rauhan jälkeenkin jatkui kaupunkilaisilla raskas majoitusvelvollisuus, josta yhtämittaa valituksia kuului, ja muutenkin tarvittiin 
         jonkun verran aikaa, ennenkuin uusiin oloihin voitiin perehtyä.</p>     
-      <a className="hyperLink" href="https://digi.kirjastot.fi/files/original/5b673a6fab93b03a9b02305575df0c1e.pdf">Lähde</a>
+      <a className="hyperlink" href="https://digi.kirjastot.fi/files/original/5b673a6fab93b03a9b02305575df0c1e.pdf">Lähde</a>
     </Layout>
   )
 }

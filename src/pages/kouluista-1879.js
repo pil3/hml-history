@@ -31,7 +31,7 @@ const Conditions1809Page = () => {
       <p>Vielä lisää määrätään samassa kirjeessä apu-opettajalle, jonka rehtori itse saisi valita, palkaksi vuosittain teinivero Sääksmäen pitäjästä. Myöskin köyhiä teiniä eli koulupoikia muistetaan, kun on annettu heille avuksi 
         pitäjänkäynti s. o. teinivero koko Hattulan kihlakunnasta, ja muistutetaan rehtoria pitämään tarkkaa huolta siitä, ettei varallisia koulupoikia saa tunkeita tähän köyhäin saantiin, niinkuin muualla Suomessa, paha kyllä, 
         oli tapana(*).</p>
-      <p className="infoStyle">(*) Tätä kouluapuansa saivat koulupojat, itsekukin hänellensä osoitetuista kylistä ja taloista, käydä kokoamassa ensin talvella ja syksyllä, sitte vaan syksyllä. Luultavasti kävivät opettajatkin itse 
+      <p className="info">(*) Tätä kouluapuansa saivat koulupojat, itsekukin hänellensä osoitetuista kylistä ja taloista, käydä kokoamassa ensin talvella ja syksyllä, sitte vaan syksyllä. Luultavasti kävivät opettajatkin itse 
         kantamassa heille tulevaa teiniveroa, sillä se oli teinille annetuista vapaaehtoisista lahjoista, jollaisena sitä Katholisaikana pidettiin, vähitellen muuttunut säännölliseksi veroksi, jota kruunu käytti koulun-opettajain 
         palkaksi. Tätä veroa maksettiin 4 kapalla jyviä tai myöhemmin 9 äyrillä hop. rahassa (= 1 m. 10 p. S. rahassa) kultakin talo- ja torppa-savulta vuosittain. V. 1731 valtiopäivillä vähennettiin se 6:ksi äyriksi samaa rahaa 
         (= 73 penniä) ja määrättiiin ainoastaan talo-savujen maksettavaksi yksistään rahassa. Myöhemmin tuli kruunun ylöskantomiesten myös teiniveroa ko'ota, ja koulunopettajat saivat osansa läänin rahastosta. Hämeenlinnan 
@@ -412,10 +412,10 @@ const Conditions1809Page = () => {
 
 
       <Divider className="dividerStyle" />
-      <p className="infoStyle">Anders Emil (Antti) Favén (1841-1913) oli Hämeenlinnan normaalilyseon ja lyseon historian ja maantieteen opettaja, joka toimi myös lyseon rehtorina ja kansakoulujen 
+      <p className="info">Anders Emil (Antti) Favén (1841-1913) oli Hämeenlinnan normaalilyseon ja lyseon historian ja maantieteen opettaja, joka toimi myös lyseon rehtorina ja kansakoulujen 
         tarkastajana. Favén oli myös Hämeen Sanomien alkuperäinen nimimerkki Antti.</p>
 
-      <a className="hyperLink" href="https://digi.kirjastot.fi/files/original/693a20485a37e67054e5cbfdad4455f4.pdf">Lähde</a>
+      <a className="hyperlink" href="https://digi.kirjastot.fi/files/original/693a20485a37e67054e5cbfdad4455f4.pdf">Lähde</a>
     
     </Layout>
   )

@@ -94,7 +94,7 @@ const HauhoPage = () => {
         <p className="signatureSmall">M. M.</p>
         <QuoteEnd className="symbolStyle"/>
         <br></br>
-        <p className="infoStyle">Seuraawana wuonna ilmoittaa puheenjohtaja seurakunnalle, että Konsistoriumi oli asian ratkaissut hänen wälitys-ehdotuksensa mukaan eli siis erottanut J:n wirasta jättäen hänelle eläkkeeksi suntion palkan, sekä nimittänyt 
+        <p className="info">Seuraawana wuonna ilmoittaa puheenjohtaja seurakunnalle, että Konsistoriumi oli asian ratkaissut hänen wälitys-ehdotuksensa mukaan eli siis erottanut J:n wirasta jättäen hänelle eläkkeeksi suntion palkan, sekä nimittänyt 
           hänen ehdokkaansa, Palmbarkin, Tuuloksen lukkariksi.</p>
         <p className="signatureSmall">W. P.</p>
         
@@ -182,7 +182,7 @@ const HauhoPage = () => {
         <p className="initialCap">Penkkijaot kirkossa owat Hauholla, niinkuin kaikkialla muuallakin, olleet melkein kaikkein tärkeimpiä asioita. Monet riidat on niistä pitänyt riidellä ja wähäwäliä on niitä pitänyt uudestaan 
           toimittaa. Wuonna 1664 on sellainen toimitettu etupäässä maatilanomistajain arwon mukaan. Samoin wuonna 1733. Wuonna 1783 toimitetussa on manttaali otettu jaon perustukseksi ja tuli silloin penkkiä 2½ kyynärää manttaalia 
           kohti. Wielä wuonna 1800 toimitettiin jako, ja tuli silloin penkkiä 2 kyynärää manttaalin osaksi.</p>
-        <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389178?page=2">Linkki artikkeliin</a>
+        <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389178?page=2">Linkki artikkeliin</a>
       </Article>
 
       <Divider className="dividerStyle" />
@@ -197,7 +197,7 @@ const HauhoPage = () => {
           lykättäwä, mutta seurakunta waati, että se nyt pitäjänkokouksessa päätetään, koskapa hänet on ensikerran tällaisesta tawattu ja kun lisäksi oltiin sitä mieltä, että hän on 
           yksinkertaisuutensa tähden siihen ryhtynyt, ja niinpä tultiinkin siihen yksimieliseen päätökseen, että Matti Silwerin on tämän rikoksensa tähden istuttawa kahtena sunnuntaina 
           peräkkäin jalkapuussa.</p>
-          <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389178?page=2">Linkki artikkeliin</a>
+          <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389178?page=2">Linkki artikkeliin</a>
       </Article>
       
       <Divider className="dividerStyle" />
@@ -232,7 +232,7 @@ const HauhoPage = () => {
         <p>Mutta kun kysymys P:n erottamisesta lopullisesti piti päätettämän, niin rupesiwat kaikki yhdessä pyytämään, että hänelle wielä tälläkin kertaa anteeksi annettaisiin, mutta jos hän wieläkin 
           kerran kuuliaisuuswelwollisuuttaan wastaan rikkoisi, miin wakuutti seurakunta yksimielisesti hänet silloin erottawansa, sitäkin paremmalla syyllä, kun hän ei ole laillisen waalin kautta 
           lukkariksi tullutkaan. Pöytäkirja lähetetään Konsistoriumille ja toiwotaan, että sekin tähän tyytyy.</p>
-        <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389178?page=2">Linkki artikkeliin</a>
+        <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389178?page=2">Linkki artikkeliin</a>
       </Article>
 
       <Divider className="dividerStyle" />
@@ -250,7 +250,7 @@ const HauhoPage = () => {
           kysymään: eiköhän tuollainen kauheus ole todistuksena siitä, miten koko ihmisyys woidaan riisua yltä ja miten saatana on julma ja wäkewä?</p>
         <p>Kaikki nuo kolme oliwat äskettäin tulleet Sääksmäeltä ja on oppilas jonkun aikaa pitänyt yhteyttä waimon kanssa, ja on tämä muutama wiikko ennen kuolemaansa synnyttänyt lapsen.</p>
         <p>Tämän rikoksen tähden mies mestattiin ja teilattiin ja waimo myös mestattiin ja poltettiin rowiolla, kun sitä ennen kummaltakin oli oikea käsi poikki hakattu.</p>
-        <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389178?page=2">Linkki artikkeliin</a>
+        <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389178?page=2">Linkki artikkeliin</a>
       </Article>
       
       <Divider className="dividerStyle" />
@@ -266,7 +266,7 @@ const HauhoPage = () => {
           tulokset sen laitaan ikuiseksi muistoksi ja kunniaksi lahjoittajille, jonka ylistystä lapset ja lastenlapset sitten weisaisiwat ja siunaisiwat sitten antelijaita lahjoittajia lahonneen 
           muistomerkin wieressä heidän haudallaan. Tätä wastaan ei pienintäkään wäitettä tehty, ja asia päättyi siis siihen, että papisto, kun kulkee saatawiaan kantamassa ja rippikuulusteluja 
           pitämässä, panee asian alkuun ja sitten wuosittain toimittaa keräystä, kunnes seurakunnan toiwomus uuden kellon saamisesta woidaan toteuttaa. Tähän korkein siunauksensa antakoon!</p>
-        <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389121?page=2">Linkki artikkeliin</a>
+        <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389121?page=2">Linkki artikkeliin</a>
       </Article>
       
       <Divider className="dividerStyle" />
@@ -280,7 +280,7 @@ const HauhoPage = () => {
           kuolemaan sekä myös saattaa wainaja siiwosti ja kunniallisesti hautaansa, paremmin wastaawaa muutosta, että papit, kun sitä halutaan, kulkewat surujoukon mukana ja toimittawat laulun wasta haudalla 
           ennen hautauksen toimittamista ja saawat tästä saman korwauksen, mitä, entistä tapaa noudattaenkin, on maksettu. Waikkakin yksi ja toinen toi esille jonkin wastawäitteen tätä wastaan, niin 
           suurempi osa läsnäolewista sen kuitenkin hywäksyi.</p>
-        <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389121?page=2">Linkki artikkeliin</a>
+        <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389121?page=2">Linkki artikkeliin</a>
       </Article>
 
       <Divider className="dividerStyle" />
@@ -343,7 +343,7 @@ const HauhoPage = () => {
         <p>Kuninkaallinen Majesteetti hylkäsi sittemmin walituksen aiheettomana ja määräsi saarnatuolin uuteen paikkaan muutettawaksi. Uusi kaunis saarnatuoli, jonka hywäksi pitäjän herrat, ja warsinkin tohtori Bonsdorff oliwat 
           lahjotuksia tehneet, ja jonka kuwanweistäjä Johan Sahlbom oli muowaillut, maalari Wijkberg maalannut ja peilimestari Söderqwist kullannut, wihittiin tarkotukseensa 9:nä sunnuntaina kolminaisuudesta, 21 päiwänä heinäkuuta 
           1799, jolloin mainittu tohtori, seurakunnan ijäkäs rowasti, saarnasi wiimeisen kerran seurakunnalleen.</p>
-        <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389121?page=2">Linkki artikkeliin</a>
+        <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389121?page=2">Linkki artikkeliin</a>
       </Article>
       
       <Divider className="dividerStyle" />
@@ -403,7 +403,7 @@ const HauhoPage = () => {
           langetettaisiin asetuksen säätämään sakkoon, mutta talonpojat seurakuntalaisista paniwat wastaan siinä mielessä, että kun asia oli tapahtunut ajattelemattomuudesta ja ennenkuin ajatus 
           oli tullut oikein kaikkien tietoon, ja asianomaiset lupasiwat parannusta, heille tällä kertaa woitaisiin tekonsa anteeksi antaa. Puheenjohtaja katsoi kuitenkin, että joku pienempi sakko, 
           joka annettaisiin waiwasille, olisi warotukseksi heille tarpeen.</p>
-        <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389136?page=2">Linkki artikkeliin</a>
+        <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389136?page=2">Linkki artikkeliin</a>
       </Article>
       
       <Divider className="dividerStyle" />
@@ -452,7 +452,7 @@ const HauhoPage = () => {
         <p className="signatureSmall">Th: de Bruce</p>
         <p className="signatureSmall">Joh. Walheim</p>
         <br></br>
-        <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389187?page=2">Linkki artikkeliin</a>
+        <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389187?page=2">Linkki artikkeliin</a>
 
       </Article>
       
@@ -479,7 +479,7 @@ const HauhoPage = () => {
           pitäjän miehistä näytti selwää olewan, että tutkinnonsuorittaneen kätilön ottaminen ja palkkaaminen tuottaisi heille aiwan liian suuria kustannuksia, jollaisia he eiwät näin ahtaina 
           aikoina pystyisi suorittamaan; muuten tahtoiwat Hauhon pitäjän miehet sywimmässä alamaisuudessa lausua julki kiitollisuutensa Hänen Majesteetilleen siitä, että hän pitää näin hellää huolta 
           uskollisten alamaistensa onnesta ja menestykestä.</p>
-        <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389164?page=2">Linkki artikkeliin</a>
+        <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389164?page=2">Linkki artikkeliin</a>
       </Article>
       
       <Divider className="dividerStyle" />
@@ -498,7 +498,7 @@ const HauhoPage = () => {
           hän on ollut ensimäisiä näillä seuduin, joka on ryhtynyt niin isänmaalliseen yritykseen, jonka tarkotuksena on sekä pellon puhdistaminen kiwistä että tuo niin tärkeä metsän säästäminen, 
           jonka lisäksi itse työkin hawaitaan niin kelwollisoksi ja kestämään tarkotetuksi, että se on aina olewa todistuksena mestarinsa tarmosta ja harkitsewaisuudesta.</p>
         <p>Elokuun 8:nä päiwänä 1802 antoikin Hämeen jalkawäkirykmentin päällikkö, ewersti Gustaf Bogislaus won Platen, juhlallisesti kirkossa Aatami Heiskalalle edellämainitun seuran hopeamitalin.</p>
-        <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389187?page=2">Linkki artikkeliin</a>
+        <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389187?page=2">Linkki artikkeliin</a>
       </Article>
 
       <Divider className="dividerStyle" />
@@ -558,7 +558,7 @@ const HauhoPage = () => {
           jälkeen saapumaan, niin on wain muutamia saapunut, eikä niilläkään ole ollut ewästä matkassaan, jonkawuoksi puheenjohtaja ehdotti, että wanhemmat rahasakoilla pakotettaisiin welwollisuuksistaan huolta pitämään ja 
           niskoittelewille lapsille, jotka owat määräikään päässeet määrättäisiin jalkapuurangaistus. Pitäjänkokous yhtyi yksimielisesti tähän ja ulotti saman sakkomäärän myös niihin wanhempiin ja talollisiin, jotka eiwät talossaan 
           olewia laiskalukijoita muistuta, kehota ja lukemaan wakawasti waadi.</p>
-        <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389201?page=2">Linkki artikkeliin</a>
+        <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389201?page=2">Linkki artikkeliin</a>
       </Article>
 
       <Divider className="dividerStyle" />
@@ -595,7 +595,7 @@ const HauhoPage = () => {
           heidän rikoksensa laatu ansaitsee. Ja kun seurakunnan wanhimmat yksimielisesti tähän ehdotukseen yhtyiwät, niin määrättiin kuudennusmiehille, että heidän on kaikella huolella tätä asiaa edistettäwä ja noudatettawa keskenään 
           sellaista wuorottelua, että kukin täyden kuukauden ajan yhtämittaa joka pyhäpäiwänä saapuu lehterille ja walitsee itselleen siellä sellaisen paikan, että hän siitä woi, mikäli mahdollista, nähdä yli koko lehterin. Alkuun 
           pankoon asian rustilallinen Matti Toppola kirkonkylästä j.n.e.</p>
-        <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389173?page=3">Linkki artikkeliin</a>
+        <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389173?page=3">Linkki artikkeliin</a>
       </Article>
 
       <Divider className="dividerStyle" />
@@ -645,7 +645,7 @@ const HauhoPage = () => {
             maksettawa tawanmukainen haudan awajaisraha, mutta wänrikki R. saisi, niin kauan kuin eläää olla tästä maksusta wapaa sekä omasta että perheensä puolesta. Seurakunta ilmoitti tähän tyytywänsä ja määräsi siis kummankin maksamaan 20 
             kupariplootua, yhteensä 40 plootua, mutta mitä ehdotuksen jälkimmäiseen osaan, eli haudan awajaismaksusta wapauttamiseen tulee, niin jätettiin asian ratkaiseminen tältä kohdalta toiseen kertaan sen wuoksi, että tällainen kysymys 
             waatii pitempiaikaista harkintaa.</p>
-          <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389152?page=3">Linkki artikkeliin</a>
+          <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389152?page=3">Linkki artikkeliin</a>
         </Article>
       
       

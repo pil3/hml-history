@@ -16,7 +16,7 @@ const Crimes1924Page = () => {
     <Layout titleText="Hämeen Sanomat, 1924">
       <h2>Oikeus- ja poliisiasioita Hämeenlinnassa ja lähiseuduilla</h2>
       <Divider className="dividerStyle"/>
-      <p className="centeredStyle boldStyle" style={{margin:"8px 0"}}>Torstai, 3.1.1924</p>
+      <p className="centered boldStyle" style={{margin:"8px 0"}}>Torstai, 3.1.1924</p>
       <Article titleText="Tappelu Lammilla.">
         <h5>Kolme miestä saanut haawoja.</h5>
         <p>Kun toisena joulupäiwänä Lammin Porraskosken työwäenyhdistys piti iltamaansa Porraskosken työwäentalolla, syntyi siellä kahden miesjoukon wälillä tappelu, missä käytettiin aseina puukkoja ja halkoja. Wanhoja wihoja 
@@ -1704,7 +1704,7 @@ const Crimes1924Page = () => {
       </Article>
       <br />
       <Divider className="dividerStyle"/>
-      <a className="hyperLink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?year=1924">Linkki vuosikertaan 1924</a>
+      <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?year=1924">Linkki vuosikertaan 1924</a>
     </Layout>
   )
 }
