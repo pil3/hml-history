@@ -10,6 +10,187 @@ const IndependencePage = () => {
     <Layout titleText="Hämeen Sanomat, 1917-18">
       <h2>Itsenäistyminen</h2>
 
+      <div className="interTitle">18.10.1917</div>
+      <Article titleText="Miten Suomea wastaisuudessa on hallittawa.">
+        <p>Perustuslakikomitea on walmistanut laajan ehdotuksen Suomen wastaisesta hallinnosta. Ehdotuksesta otamme tähän seuraawat pääpiirteet. Suomen hallitusmuodon johdannossa lausutaan: 
+          Sittenkun on hawaittu tarpeelliseksi kehittää ja wakaannuttaa Suomen waltiosääntöä selwillä perustuslain säännöksillä, jotka takaawat sekä waltiowallan lujuutta ja tehokuutta että Suomen 
+          kansalaisten oikeutta ja lainalaista wapautta, wahwistetaan täten Suomen eduskunnan päätöksen mukaisesti, joka on tehty 30 p. heinäkuuta 1906 annetun waltiopäiwäjärjestyksen 60 pykälässä 
+          määrätyllä tawalla, seuraawa hallitusmuoto Suomelle.</p>
+        <p>Tämän jälkeen seuraawissa säädöksissä säädetään.</p>
+        <p><span className="boldStyle">1§.</span> Suomi on tasawalta, jonka waltiosääntö on wahwistettu tässä hallitusmuodossa ja maan muissa perustuslaeissa.</p>
+        <p>Wenäjän ja Suomen wälisistä oikeussuhteista määrätään erityisessä perustuslaissa.</p>
+        <p><span className="boldStyle">2§.</span> Lainsäädäntöwaltaa käyttää eduskunta yhdessä tasawallan presidentin kanssa.</p>
+        <p>Toimeenpanewa walta on uskottu presidentille. Sen ohessa on maan yleistä hallitusta warten olewa waltioneuwosto, johon kuuluu pääministeri ja tarwittawa määrä ministereitä.</p>
+        <p>Tuomiowaltaa käyttäwät riippumattomat tuomioistuimet, ylimmässä oikeusasteessa on korkein oikeus ja korkein hallinto-oikeus.</p>
+        <p><span className="boldStyle">3§.</span>  Suomen alue pysytetään sellaisena kuin se nykyisin on, eikä sen rajoja woida muuttaa muuten kuin eduskunnan suostumuksella.</p>
+        <p><span className="boldStyle">4§.</span> Suomen kansalaisoikeus on jokaisella, joka on suomalaisista wanhemmista syntynyt sekä muun maan naisella, joka on mennyt naimisiin suomalaisen 
+          kanssa.</p>
+        <p>Muun maan kansalainen woidaan ottaa kansalaiseksi niillä ehdoilla ja siinä järjestyksessä kuin laissa erikseen säädetään.</p>
+        <p>Suomen kansalaisten yleisistä oikeuksista säädetään seuraawaa.</p>
+        <p><span className="boldStyle">5§.</span> Jokaisella Suomen kansalaisella olkoon hengen, kunnian, henkilökohtaisen wapauden, onnen ja omaisuuden puolesta turwattuna oikeutensa lain mukaan. 
+          Älköön Suomen kansalaisen saawutettuja oikeuksia uudella lailla rajotettako muussa järjestyksessä kuin perustuslain muuttamisesta on säädetty.</p>
+        <p><span className="boldStyle">6§.</span> Suomen kansalainen on oikeutettu oleskelemaan omassa maassaan, wapaasti täällä walitsemaan asuinpaikkansa ja kulkemaan paikkakunnasta toiseen.</p>
+        <p><span className="boldStyle">7§.</span> Suomen kansalaisella on sananwapaus sekä oikeus kirjotuksen ja kuwallisen esityksen painosta julkaisemiseen kenenkään siitä ennakolta estämättä, 
+          niin myös oikeus edeltäpäin lupaa hankkimatta kokoontua keskustelemaan yleisistä asioista tahi muussa luwallisessa tarkotuksessa sekä perustaa yhdistyksiä tarkotusten toteuttamista warten, 
+          jotka eiwät ole wastoin lakia ja hywiä tapoja.</p>
+        <p>Säännökset sanottujen oikeuksien käyttämisestä annettakoon lailla.</p>
+        <p><span className="boldStyle">8§.</span> Kirjallisuus on loukkaamaton, mikäli siitä ei ole laissa poikkeusta säädetty.</p>
+        <p><span className="boldStyle">9§.</span> Älköön Suomen kansalaista tuomittako muussa oikeudessa kuin siinä, jonka alainen hän maan lain mukaan on.</p>
+        <p><span className="boldStyle">10§.</span> Suomen kansalaisella olkoon walta oikeudessa tahi waltion hallintowiranomaisen luona omassa asiassaan käyttää suomalaista tahi ruotsalaista 
+          äidinkieltään niinkuin siitä laissa säädetään.</p>
+        <p>Säännöksiä tämän maan oikeus- ja wirkakielestä annetaan lain kautta.</p>
+        <p><span className="boldStyle">11§.</span> Mitä Suomen kansalaisten yleisistä oikeuksista on sanottu, ei estä lailla säätämästä sellaisia rajotuksia, jotka sodan aikana yleensä ja 
+          sotapalweluksessa olewiin nähden kulloinkin owat wälttämättömiä.</p>
+        <p>Lainsäädäntöä koskewassa säädetään m.m.</p>
+        <p>Oikeus tehdä ehdotuksia uuden lain säätämisestä sekä ennestään olewan muuttamisesta, selittämisestä tahi kumoamisesta on presidentillä sekä eduskunnalla.</p>
+        <p>Presidentin aloteoikeuksia käytetään antamalla eduskunnalle esityksiä lakiehdotukseen. Esitysehdotukset laatii waltioneuwosto. Eduskunnan aloteoikeudesta sekä lainsäädäntöasiain 
+          käsittelystä waltiopäiwillä on säädetty waltiopäiwäjärjestyksessä.</p>
+        <p>Sittenkun eduskunta on hywäksynyt lain, jätetään se wahwistettawaksi presidentille, joka siitä hankkii lausunnon waltioneuwostolta ja eräissä tapauksissa korkeimmalta oikeudelta tahi 
+          korkeimmalta hallinto-oikeudelta.</p>
+        <p>Laki on wahwistettawa sellaisena kuin eduskunta sen on hywäksynyt. Jos presidentti ei lakia wahwista, tulee se ilman wahwistusta woimaan eräissä lähemmin luetelluissa tapauksissa.</p>
+        <p>Muissa tapauksissa on laki, jota ei ole wahwistettu, katsottawa rauenneeksi.</p>
+        <p>Hallituksesta ja hallinnosta on m. m. seuraawia säännöksiä:</p>
+        <p>Tasawallan presidentin walitsee Suomen kansa wälittömillä waaleilla aina 6 wuodeksi. Waalioikeus on siinä jokaisella, joka on oikeutettu ottamaan osaa edustajawaaleihin, kaikilla on 
+          yhtäläinen äänioikeus, ja kukin äänestää yhtä ehdokasta.</p>
+        <p> Waali toimitetaan 15 ja 16 p:nä tammikuuta. Se, joka silloin saa enemmän kuin puolet kaikista annetuista äänistä, on walittu. Jollei kukaan saa niin suurta äänimäärää toimitetaan 
+          helmikuun 15 ja 16 p. uusi waali, jossa äänioikeuttu äänestää yhtä niistä kolmesta, jotka edellisessä waalissa saiwat enimmät äänet ja se, joka tällöin saa suurimman äänimäärän, katsotaan 
+          walituksi.</p>
+        <p>Toimeensa astuu presidentti 15 p. huhtikuuta ja antaa silloin juhlallisen wakuutuksen eduskunnan edessä tahikka jos eduskuntaa ei ole koolla, waltioneuwoston, korkeimman hallinto-oikeuden 
+          yhteisessä kokouksessa pääministerin ollessa puheenjohtajana.</p>
+        <p>Presidentin ollessa satunnaisesti estettynä, hoitaa hänen tehtäwiään pääministeri; mutta jos este kestää kauwemmin, on uusi presidentti walittawa niin pian kuin mahdollista.</p>
+        <p>Presidentin asiana on:</p>
+        <p className="leftP">1) kutsua eduskunta wuosittain warsinaisille ja tarpeentullen ylimääräisille waltiopäiwille.</p>
+        <p className="leftP">2) antaa määräys edustajawaalien toimittamisesta.</p>
+        <p className="leftP">3) awata ja päättää waltiopäiwät.</p>
+        <p className="leftP">4) määrätä uudet waalit toimitettawiksi ja hajottaa eduskunta.</p>
+        <p>Presidentillä on oikeus, mikäli ei tässä hallitusmuodossa toisin säädetä, tahikka sitä oikeutta ei ole waltioneuwostolle uskottu, antaa asetuksia asioista, jotka ennestään owat 
+          hallinnollisilla säännöksillä järjestetyt.</p>
+        <p>Presidentillä on myöskin oikeus suoda wapautusta lain säännöksistä niissä tapauksissa, joissa oikeus sellaisten eriwapauksien antamiseen on laissa määrätty.</p>
+        <p>Presidentillä on rauhan aikana Suomen sotawoimain ylinpäällikkyys, Presidentillä on m. m. oikeus antaa muun maan kansalaisille Suomen kansalaisoikeus ja wapautus Suomen 
+          kansalaisuudesta.</p>
+        <p>Suomen hallituksen esitykset Wenäjän hallitukselle päättää presidentti waltioneuwostossa.</p>
+        <p>Kun sopimus, jonka Wenäjän hallitus tekee wieraan wallan kanssa, waatii Suomen hallituksen hywäksymisen tahikka kun sellainen sopimus on Suomen hallituksen tehtäwä, ratkaisee presidentti 
+          niinikään asian waltioneuwostossa. Presidentin on myös määrättäwä sellaisten sopimusten julkaisemisesta.</p>
+        <p>Waltioneuwostossa on niin monta osastoa, kuin eri hallinnon haaroihin kuuluwia asioita warten on tarpeen.</p>
+        <p>Puheenjohtajana waltioneuwostossa on pääministeri ja tämän ollessa estettynä ensimäinen läsnäolewa jäsen. Milloin presidentti on saapuwilla, johtaa hän asiain käsittelyä.</p>
+        <p>Waltioneuwoston osastoissa on kussakin päällikkönä ministeri.</p>
+        <p>Suomella on oma raha, josta säädetään lailla.</p>
+        <p>Suomen pankki toimii eduskunnan wastuulla ja hoidossa sekä eduskunnan walitsemain waltuusmiesten walwonnan alaisena.</p>
+        <p>Isänmaan puolustusta warten on jokainen Suomen mies asewelwollinen.</p>
+        <p>Jos Suomen sotawäki on pantawa liikekannalle, niin presidentti antaa siitä määräyksen waltioneuwostossa. Kun sellainen määräys on annettu, niin ryhtyköön waltioneuwosto toimiin siitä 
+          johtuwain menojen suorittamiseksi ja eduskunta, jos se ei ole kokoontuneena, kutsuttakoon koolle tarwittawain warain osottamista warten.</p>
+        <p>Ehdotuksessa laiksi Suomen ja Wenäjän wälisestä oikeussuhteesta määrätään m m.</p>
+        <p>Suomi on edelleenkin yhdistetty Wenäjän kanssa, mutta sillä on oma Wenäjän lainsäädäntö- ja hallituswallasta riipumaton waltiosäädäntönsä ja hallituksensa.</p>
+        <p>Suomen alue käsitetään sellaisena kuin se nykyisin on, eikä sen rajoja woida ilman Suomen eduskunnan suostumusta muuttaa.</p>
+        <p>Kysymykset sodasta ja rauhasta owat waltakunnan asioita, jotka samalla pätewyydellä Suomeen kuin Wenäjäänkin nähden käsitellään Wenäjän perustuslakien mukaan.</p>
+        <p>Sopimukset wieraiden waltojen kanssa muista kuin muutamista asioista solmii Wenäjän hallitus, ellei Wenäjän hallitus myönnä Suomen hallitukselle oikeutta sellaisten sopimusten 
+          tekemiseen.</p>
+        <p>Wenäjän hallituksen luona edustaa Suomea ministeriwaltiosihteeri joka wälittää esityksiä ja tiedonantoja molempain maiden hallitusten wälillä.</p>
+      </Article>
+
+      <div className="interTitle">25.10.1917</div>
+      <Article titleText="Suomen asiat ja väliaikainen hallitus.">
+        <h5>Suunnitelma wahwistettu Suomen tyhjentämiseksi.</h5>
+        <p>Tämän aamun Djen kertoo kenraalikuwernöörin wielä ennen Pietarista lähtöään neuwotelleen Kerenskin ja muutamien muiden ministerien kanssa ja on kenraalikuwernööri Nekrasow esittänyt, 
+          että Suomessa olewien maasotajoukkojen ylin johto sijoitettaisiin Helsinkiin yhdenmukaisuuden aikaansaamiseksi maasotajoukkojen ja laiwaston johdon sekä kenraalikuwernöörin toiminnan 
+          kesken.</p>
+        <p>Suomen tyhjentämisestä esitti Nekrasow suunnitelman, joka osittain rakentuu aikaisemman suunnitelman pohjalle. Tähän teki erinäisiä täydennyksiä Pietarin tyhjentämiswaltuutettu 
+          Kishkin ja hywäksyttiin esitys sellaisena kokonaisuudessaan.</p>
+        <p>Sanomalehtien tiedon, että Nekrasow olisi lausunut kannattawansa sitä mielipidettä, että wäliaikaisen hallituksen on wahwistettawa wirkaansa Suomen warapresidentti, on Nekrasow kumonnut. 
+          Mitään tällaista ilmoitusta ei hän ole tehnyt, sillä hän on asiassa päinwastaista mielipidettä.</p>
+      </Article>
+
+      <div className="interTitle">27.10.1917</div>
+      <Article titleText="Mitä „maan tyhjentäminen” merkitsee.">
+        <p>Kuten wiime lehdessä lyhyesti mainitsimme on Suomen uusi kenraalikuwernööri Nekrasow wiime Pietarinmatkallaan neuwotellut wäliaikaisen hallituksen kanssa m. m. Suomen tyhjentämistä 
+          koskewasta kysymyksestä. Kysymyksessä kerrotaan Nekrasowin esittäneen uuden suunnitelman, joka osittain rakentuu aikaisemman suunnitelman pohjalle ja joka sitten erinäisin täydennyksin 
+          lienee tullut hywäksytyksi. Sittemmin on kenraalikuwernööri eräässä haastattelussa ilmoittanut, että tällä kertaa on kysymys yksinomaan johdonmukaisen tarkan suunnitelman laatimisesta, 
+          jotta tyhjentäminen tarpeen waatiessa woidaan wiipymättä toimittaa ja että olosuhteitten waatimien muutosten tekemimisestä tyhjentämissuunnitelmaan näinä päiwinä tullaan neuwottelemaan 
+          täkäläisten sotilaswiranomaisten sekä myöskin asianomaisten Suomen hallituksen edustajain kanssa.</p>
+        <p>Kun kysymys on meille suomalaisille mitä tärkein, on tarpeen sitä hiukan lähemmin selwittää. Ensiksikin, mikä on tuo aikaisempi suunnitelma, jonka pohjalle myöskin uudemman ilmoitetaan 
+          osittain rakentuwan?</p>
+        <p>Mainittu suunnitelma on laadittu tsaariwaltiuden pimeimpänä aikana ww. 1915 —16. Aikanaan maassamme liikkuneet huhut owat tienneet siitä hiukan kertoa. Nyttemmin julkaisee 
+          tukholmalainen „Aftonbladet” siitä tietoja, jotka pääasiassa lienewät totuuden kanssa yhtäpitäwiä. Lehti kertoo:</p>
+        <p><span className="quote">Kaikki asianomaiset wirkamiehet saiwat kirjallisia ohjeita, miten tyhjentäminen oli tarwittaessa suoritettawa. Talot, rakennukset, warastot oli häwitettäwä, karja 
+          teurastettawa ja wäestön siirryttäwä lännestä itään Kajaanista Lappeenrantaan ja Wiipuriin kulkewan rajawiiwan toiselle puolelle. Ja mahdollista oli, että suomalaistenkin tie olisi saanut 
+          jatkua sitäkin idemmäksi waikka Siperiaan asti. Suomen wäestö, mikäli se sai suunnitelmasta tiedon, ilmaisi olewansa kuitenkin toista werta kuin lätit, puolalaiset y. m. Käwi ilmi, että 
+          suomalainen talonpoika pysyy asemillaan ja puolustaa kotiaan ja kontuaan. Sellainen mieliala pelasti Suomen sillä kertaa häwitykseltä</span>, lausutaan edelleen.</p>
+        <p>Emme todellakaan woi olla kyllin kiitollisia suopealle kohtalolle, joka on meidät tästä kauheudesta säästänyt. Sawuawat rauniot ja aution erämaan olisi peräytywä tsaarin armeija jälkeensä 
+          jättänyt, maata ja kansaa olisi kohdannut häwitys, jolle tuskin olisiwat wertoja wetäneet Ison-Wihan kaameat ajat. Ja woimme olla wakuutettuja, ettei maamme olisi osakseen saanut suurempaa 
+          armoa, kuin mitä saiwat Puola, Galitsia ja Kuurinmaa.</p>
+        <p>Miten siellä „maan tyhjentäminen” suoritettiin, kuwaa mainittu lehti lähemmin kirjoituksessaan <span className="accent">Maailman suurin joukkomurha.</span> Lehti kertoo m. m.:</p>
+        <p className="quote">Wenäjän wieraat kansallisuudet owat aina olleet sen natsionalismin silmätikkuina, mutta itse rajamaita se on himoinnut omiksi asutusalueikseen. Samaa tarkoitti 
+          rajamaiden häwitys 1915, waikka muka seurattiin wuoden 1812 puolustussodan menettelyä. Suunnitelman takana oli Nikolai Nikolajewitsh, johon taantumukselliset yhä wielä luottawat. Tuolla 
+          häwityksellä ei ole maailman historiassa wertaistaan.</p>
+        <p>Kirjoittaja kuwaa sitten miten 1915 saksalaisten hyökätessä Kuurinmaalta ajettiin pois ensin juutalaiset, yhteensä 30—40 tuhatta ihmistä. He saiwat jättää kotinsa kolmessa päiwässä, 
+          miehet, waimot, lapset, wanhukset ja lähteä warattomina taipaleelle. Eiwät he saaneet kulkea rautateitse, waan waeltaa maitse laihtuwien hewosten wetätaikka jalkaisin laahustaen. Ja 
+          kewäällä sai Puolan, Liettuan sekä Kuurinmaan koko wäestö suuriruhtinaalta saman lähtökäskyn, joka wetosi muka wuoden 1812 sodankäyntiin, Minne? — Wenäläinen sotawäki alkoi häwityksensä, 
+          se ryösti ja poltti, Juutalaisten tawoin sai kansa lähteä isänmaastaan tuntemattomia waiheita kohti. Mutta kun saksalaiset pääsiwät Wanhan Wenäjän rajalle, lakkasi tyhjennys. Rajamaa sai 
+          tyhjentyä, ei itse Wenäjä. Professori Issajew laskee niiden luwun, jotka sitten oliwat saaneet luopua kodeistaan kewäällä ja kesällä 1915, kahdeksitoista miljoonaksi! Pakolaiset pyrkiwät 
+          itään. Yksin Pietariin tuli niitä 3 tuhatta päiwittäin. Sisä-Wenäjältä wietiin niitä Siperiaan kuten karjaa. Ja sinne wietäessä ei raukoilla ollut waatteita, ei ruokaa ja edessä oli 
+          tundrojen talwi. Wenäjän kansa ei saanut näiden kautta tietää sodan kauhuista, siksi ne kiireesti hajoitettiin Uralin taakse. Eikä kukaan tunne heidän teitään aawoissa erämaissa. 
+          Tuhansia, satojatuhansia, miljoonia on heistä uupunut, ei kukaan ole heistä lukua pitänyt. Se oli tietoista joukkomurhaa. Wenäjän hallitukselle oli sota tarjonnut erinomaisen keinon 
+          kokonaisten kansojen tuhoamiseen ja rajamaiden täyttämiseen mahdollisesti wastaisuudessa omalla wäellä. Se oli ollutkin strategian oikea tarkoitus. Ja tätä sankarityötä ylisti 
+          riemuhuudoin koko „entente” kuwitellen siinä näkewänsä rajatonta itseuhrautumista. Mutta pakolaiset oliwat karkotettuja Wenäjän kansalaisia, joiden pojat, weljet ja isät taisteliwat 
+          wenäläisten riweissä. Eikä tässä kyllin. Keskellä talwea 1916 karkoitettiin Sisä-Wenäjältä sinne 150 wuotta sitten muuttaneet saksalaiset, lähes 2 miljoonaa. Ja hekin oliwat Wenäjän omia 
+          alamaisia. Teon julistiwat kuwernöörin ukaasit „isänmaalliseksi”. Wenäjä wenäläisille waikkakin oli poljettawa jalkoihin 2 miljoonan wierassyntyisen waltakunnan alamaisen ruumiit!</p>
+        <p>Ei woi olla lewottomuutta herättämättä, että tyhjentämiskysymys on uudelleen otettu esille. Tosin ilmoitetaan sen nykyisiä olosuhteita wastaamattomana tulleen joissakin kohdin uudelleen 
+          tarkistetuksi, mutta kun uudenkin suunnitelman kerrotaan rakentuwan aikaisemman pohjalle, niin on meillä suomalaisilla täysi syy kysyä, mikä on kaiken tämän tarkoituksena? Sanottakoon se 
+          heti ja suoraan julki, että me jyrkästi asetumme wastustamaan kaikenlaisia sekä tarkistettuja että tarkistamattomia tyhjentymispyrkimyksiä. Me pysymme asemillamme emmekä wäisty, mikä 
+          kohtalo sitten seuranneekin. Ja toiwottawasti wapaan Wenäjän tasawallan hallitus pitää siitä huolen, ettei sen armeija yritäkään täällä jättää jälkeensä sellaisia Attilan jälkiä, kuin 
+          werisen tsaarin kasakkalaumat Puolassa, Galitsiassa ja Kuurinmaalla. Länsimaiden menettelytapoja on täällä noudatettawa ja kunkin asukkaan on jos hän hywäksi näkee, pysyä paikoillaan ja 
+          häiriintymättä jatkaa jokapäiwäistä elämäänsä omissa askareissaan.</p>
+        <p>Että Suomen kansan mieli ainakin tässä kysymyksessä on yksi, siitä olkoon hallitus wakuutettu. Niinpä lausuu m. m. „Kansan Lehti” asiasta 
+          kirjoittaessaan: <span className="quote">Sanottakoon suoraan, että on parasta lakata hautomasta mitään maamme häwittämissuunnitelmia, „erinäisillä muutoksillakaan” warustettuja. Me emme 
+          kumminkaan siihen suostu. Me emme lähde Länsi- ja Keski-Suomesta Karjalaan, emme etelästä ja pohjoisesta Wenäjän rajoille ja jätä tätä maata häwitettäwäksi, waikka maa joutuisikin 
+          sotatointen piiriin. Me tulemme puolustautumaan, jos meitä yritetään saada pois asumapaikoiltamme ja maatamme aletaan häwittää. Meillä on oikeus puolustaa itseämme ja maatamme ja sen me 
+          tulemme tekemäänkin.</span></p>
+        <p>Merkitsemme tyydytyksellä nämä miehekkäät sanat. Ehkä on tullut aika, jolloin jo osa sosialistejakin on saanut silmänsä awoimiksi näkemään, mikä meitä woi odottaa, jos olosuhteet siihen 
+          suuntaan kääntywät.</p>
+      </Article>
+
+      <div className="interTitle">1.11.1917</div>
+      <Article titleText="Eduskunnan kokoontuessa.">
+        <p>Tänään kokoontuu pääkaupungissa maamme ensimäinen wapaiden olojen wallitessa walittu eduskunta. Me muistamme wielä huhtikuun alussa kokoontuneen eduskunnan ja siihen silloin kiinnitetyt 
+          waloisat toiweet. Me muistamme myöskin sen meille tuottaman katkeran pettymyksen. Suomen suurin puolue oli siinä enemmistönä, sillä oli kerrankin tilaisuus näyttää mihin se kykenisi, 
+          mutta kuinka se tämän etsikkoaikansa käytti, sitä meidän ei enään tarwitse palauttaa mieliin. Tullessaan hajotetuksi se jätti nyt kokoontuwalle eduskunnalle perinnön, jonka selwittäminen 
+          ei suinkaan ole helppo.</p>
+        <p>Tawattoman waikea ja edeswastuullinen on todellakin se tehtäwä, jonka tänään kokoontuwa eduskunta saa suorittaakseen. Sen suurin ja tärkein tehtäwä, on waltiollisen kysymyksemme ratkaisu. 
+          Eduskunnan kywystä ja taidosta nyt riippuu, onnistuuko Suomen kansa saawuttamaan sen waltiollisen aseman, joka wiime aikoina on kansalaisten mielissä wälkkynyt. Olisi myöskin mitä 
+          suurimmaksi onneksi, jos puolueet tähän kaikkien suomalaisten korkeimpaan päämaaliin pyrkiessään woisiwat löytää yhteisen tien.</p>
+        <p>Ja sitten suuret sisäiset kysymyksemme.</p>
+        <p>Ensimäisenä, on tällöin mainittawa tärkeä maakysymys. Seuraustensa laajakantoisuudessa se sisäpoliittisessa suhteessa wetää wertoja suurelle waltiolliselle kysymyksellemme. On todellakin 
+          jo aika saattaa se pois päiwäjärjestyksestä. Sen suotuisa ratkaisu tietää kyllä uhrauksia, mutta kansamme menestyksen ja onnellisemman tulewaisuuden hywäksi eiwät mitkään uhraukset saa 
+          olla liian kalliit.</p>
+        <p>Yleisen rauhan ja siedettäwän olotilan palauttamiseksi on wielä wälttämätöntä, että kunnallislait ja työpäiwälaki saawat tyydyttäwän ratkaisun. Nykyiset kunnallisolot, tunnustettakoon 
+          se suoraan, owat wääryys ei ainoastaan sosialisteille waan myöskin suurelle osalle porwaristoa. Nykyisellään ollen ne owat alituisena ja yhä yltywänä tyytymättömyyden ja lewottomuuden 
+          lähteenä. Tämä epäkohta on ehdottomasti korjattawa ja kunnallisolomme saatettawa täydellisesti kansanwaltaisiksi, koskiwatpa sen seuraukset nykyään wallassaolewiin kuinka kipeästi 
+          tahansa. Mitä työpäiwälakiin tulee ansaitsee sekin kansalaisrauhan säilymisen wuoksi täyttä huomiota. Merkitykseltään se kuitenkin edellisiin werraten on toisarwoinen, sillä työpäiwän 
+          pituutta emme me kaikesta huolimatta yksin kykene määräämään, sen pituus riippuu niistä työajoista, jotka sodan jälkeen tulewat olemaan woimassa Keski-Europan ja Lännen suurissa 
+          teollisuusmaissa.</p>
+        <p>Näiden lisäksi saa eduskunta ratkaistawakseen useita muita tärkeitä lakiehdotuksia. Wiittaamme tässä kohdin wain työwäensuojelusta ja wanhuudenwakuutusta sekä wanhentujen werotusolojemme 
+          uudistusta tarkoittawaiin lakiehdotuksiin. Erittäin tärkeitä tällä hetkellä owat myöskin eduskunnan elintarweasioiden järjestelyä ja rahataloutemme kuntoonsaattamista koskewat 
+          toimenpiteet.</p>
+        <p>Kuten edellisestä selwiää on eduskunnalla warsin raskas tehtäwä edessään. Kuinka se siinä on onnistuwa, se saadaan nähdä jo lähimmässä tulewaisuudessa. Toiweet eiwät ole erityistä 
+          luottamusta herättäwiä, siksi epämääräinen ja yllätyksille altis on nykyisenkin eduskunnan kokoonpano kaikesta huolimatta. Toiwottawaa kuitenkin on, että eduskunta näinä kohtalokkaina 
+          aikoina jaksaa kohota hetken pyyteitten ja intohimojen yläpuolelle ja sowittelujen kautta löytää tien, joka johtaa kansamme onnellisempaan tulewaisuuteen.</p>
+      </Article>
+
+      <div className="interTitle">3.11.1917</div>
+      <Article titleText="Perustuslakikysymys.">
+        <h5>Wenäjän hallituksen taholla ei hywäksytä Suomelle presidenttiä.</h5>
+        <p>Wetsh. Wremja kertoo: Wäliaikaikaisen hallituksen istunnossa tiistai iltana, jota istuntoa kesti 4 saakka keskiwiikko-aamuna, teki Nekrasow perinpohjin selkoa wäliaikaiselle 
+          hallitukselle Suomen asioista. Käwi m. m. selwille, että wäliaikaisen hallituksen lainopillinen neuwottelukunta on kysymyksessä siitä, millä nimellä tullaan kutsumaan Suomen tasawallan 
+          päämiestä sillä kannalla, että wiimemainitulle ei woida antaa presidentin nimeä.</p>
+      </Article>
+      <Article titleText="Wenäläiset postimerkit.">
+        <h5>Niiden käyttö Suomessa lakkautetaan.</h5>
+        <p>Postilaitokselle koituwan tappion wuoksi on senaatti lähettänyt kenraalikuwernöörille kirjelmän, jossa ilmoitetaan, että wenäläisten postimerkkien käyttö Suomessa lakkautetaan, Wielä 
+          esitetään kirjelmässä, että kenraalikuwernööri tekisi wäliaikaiselle hallitukselle esityksen siitä, että Suomen rahassa olewat postimerkit saataisiin wiipymättä ottaa käytäntöön 
+          postilähetyksissä Suomesta Wenäjälle, ja postimerkkejä wenäläisessä rahassa tämän jälkeen käytetään Suomessa ainoastaan postilähetyksissä ulkomaille, kunnes uudet suomalaiset postimerkit 
+          tammik. 1 p:stä 1918 lähtien tulewat woimaan myöskin tässä postiliikkeessä.</p>
+      </Article>
+
       <div className="interTitle">6.12.1917</div>
       <Article titleText="Suomen kansalle.">
         <p>Suomen Eduskunta on 15 päiwänä wiime marraskuuta, nojaten maan hallitusmuodon 38 §:ään, julistautunut korkeimman waltiowallan haltijaksi sekä sittemmin asettanut maalle hallituksen, joka 
@@ -379,15 +560,40 @@ const IndependencePage = () => {
           jäsenet; howioikeuksien jäsenet ja yliopiston sekä teknillisen korkeakoulun professorit; keskuswirastojen päälliköt ja jäsenet sekä maaherrat, waltioneuwoston esityksestä; asianomaisen 
           wiranomaisen esityksestä, waltioneuwoston, korkeimman oikeuden ja korkeimman hallinto-oikeuden esittelijät sekä Suomen lähettiläät ulkowaltojen luona ja konsulit.</p>
         <p>34 §:</p>
-        <p className="quotationStyle">„Suomen kansalaisella olkoon walta oikeudessa tai waltion hallituswiranomaisen luona omassa asiassaan käyttää suomalaista tai ruotsalaista äidinkieltään, niinkuin siitä laissa 
-          säädetään.</p>
-        <p className="quotationStyle">Säännöksiä tämän maan oikeus- ja wirkakielestä annetaan lain kautta; ja on asianomaiselle siinä, mikäli mahdol lista, warattawa oikeus saada toimi tuskirja mainitulla äidinkielellään.</p>
+        <p className="quotationStyle">„Suomen kansalaisella olkoon walta oikeudessa tai waltion hallituswiranomaisen luona omassa asiassaan käyttää suomalaista tai ruotsalaista äidinkieltään, 
+          niinkuin siitä laissa säädetään.</p>
+        <p className="quotationStyle">Säännöksiä tämän maan oikeus- ja wirkakielestä annetaan lain kautta; ja on asianomaiselle siinä, mikäli mahdol lista, warattawa oikeus saada toimi tuskirja 
+          mainitulla äidinkielellään.</p>
         <p className="quotationStyle">Maan suomen- ja ruotsinkielisen wäestön siwistyksellisiä ja taloudellisia tarpeita tulee waltion tyydyttää samanlaisten perusteiden mukaan.”</p>
         <p>(Näistä säännöksistä oli ensimäisessä momentissa olewa sekä toisen momentin ensimmäinen lause puolipisteeseen saakka jo syksyllä annetussa hallitusmuotoesityksessä. Muut owat uusia.)</p>
         <p>55 §, 3 mom. (uusi):</p>
         <p className="quote">Hallintoalueiden rajat owat, missä asianhaarat salliwat, määrättäwät kulkemaan pitkin suomalaisen ja ruotsalaisen wäestän asutusalueiden wälisiä rajoja.</p>
         <p>71 §. 4 mom. (uusi):</p>
         <p className="quote">Asewelwollinen on mikäli mahdollista luettawa semmoiseen sotawäen osastoon, jonka miehistöllä on sama äidinkieli, suomi tai ruotsi kuin hänellä itsellään.</p>
+      </Article>
+
+      <div className="interTitle">11.7.1918</div>
+      <Article titleText="Hallitusmuotoasia eduskunnassa.">
+        <p>Eduskunnan tiistaisessa täysi-istunnossa oli ensimäistä käsittelyä warten esillä esitys Suomen hallitusmuodoksi. Ensimäisen käsittelyn yhteydessä ei mitään laajempia lausuntoja esitetty, 
+          waan lähetettiin asia lyhyen keskustelun jälkeen suureen waliokuntaan.</p>
+        <h5>Yhden äänen enemmistö suuressa waliokunnassa monarkisen hallitusmuodon puolella.</h5>
+        <p>Suuri waliokunta on yhden äänen enemmistöllä päättänyt panna monarkisen hallitusmuotoehdotuksen käsittelynsä pohjaksi.</p>
+      </Article>
+
+      <div className="interTitle">13.7.1918</div>
+      <Article titleText="Valtiomuotokysymyksemme ja hallitus.">
+        <h5>Senaatin ja waltionhoitajan ero mahdollinen.<br />- Riippuu waltiomuotokysymyksen ratkaisusta.</h5>
+        <p>Nykyisen senaatin ja waltionhoitaja <span className="accent">Swinhufwudin</span> asema on käynyt sangen waikeaksi niiden wakawien erimielisyyksien takia, joita on ilmaantunut 
+          waltiomuotokysymyksemme ratkaisemiseen nähden. Nyttemmin on hallituksen taholta ilmoitettu, että eroaminen tapahtuu heti, jos eduskunta ratkaisewasti osoittaa asettawansa esteitä 
+          monarkisen waltiomuodon woimaansaattamiselle maassamme.</p>
+        <p>Eduskunnan suuressa waliokunnassa sekä eduskunnan ja senaatin yksityisissä neuwotteluissa on senaatin warapuheenjohtaja ilmoittanut niistä tärkeistä seikoista, jotka waatiwat monarkisen 
+          hallitusmuodon hywäksymistä, sekä samalla nykyisen senaatin ja waltionhoitajan eroamisesta, jos ei asiaa nyt saada ratkaistuksi.</p>
+        <p>Eduskunnassa on kyllä laskelmien mukaan niukka enemmistö hallituksen esityksen kannalla, mutta kun asian päättämiseen näillä waltiopäiwillä waaditaan määräenemmistö, ei hallitusmuotoa 
+          niinmuodoin jos tasawaltalaisten taholta ilmennyt wastustus pysyy yhtä woimakkaana — saada laisinkaan walmiiksi, waan jää asia uusien waalien jälkeen kokoontuwien waltiopäiwien 
+          yksinkertaisella äänten enemmistöllä ratkaistawaksi.</p>
+        <p>On hywin todennäköistä, että eduskunnan kantaan hallitusmuotokysymyksessä tulewat suuresti waikuttamaan ne ilmoitukset, joita halituksen jäsenet owat yllämainituissa newotteluissa 
+          eduskunnan jäsenille tehneet. Waikka hallituksen ilmoituksia ei ole saatettu julkisuuteen asian arkaluontoisuuden takia, woidaan otaksua, että niillä tulee olemaan ratkaisewa merkitys. 
+          Hallituksen tiedossa on nimittäin monta sellaista asianhaaraa, että ne puhuwat woimakkaasti monarkkisen hallitusmuodon puolesta.</p>
       </Article>
 
       <br></br>

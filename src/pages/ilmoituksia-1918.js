@@ -66,6 +66,12 @@ import img57 from "../images/content/hasa1918/img-57.jpg"
 import img58 from "../images/content/hasa1918/img-58.jpg"
 import img59 from "../images/content/hasa1918/img-59.jpg"
 import img60 from "../images/content/hasa1918/img-60.jpg"
+import img61 from "../images/content/hasa1918/img-61.jpg"
+import img62 from "../images/content/hasa1918/img-62.jpg"
+import img63 from "../images/content/hasa1918/img-63.jpg"
+import img64 from "../images/content/hasa1918/img-64.jpg"
+import img65 from "../images/content/hasa1918/img-65.jpg"
+import img66 from "../images/content/hasa1918/img-66.jpg"
 
 const Ilmoituksia1918Page = () => {
   return (
@@ -103,8 +109,8 @@ const Ilmoituksia1918Page = () => {
           <Image className="columnImgStyle" src={img51} alt="Kuva 51"/>
           <Image className="columnImgStyle" src={img53} alt="Kuva 53"/>
           <Image className="columnImgStyle" src={img55} alt="Kuva 55"/>
+          <Image className="columnImgStyle" src={img56} alt="Kuva 56"/>
           <Image className="columnImgStyle" src={img57} alt="Kuva 57"/>
-          <Image className="columnImgStyle" src={img58} alt="Kuva 58"/>
           <Image className="columnImgStyle" src={img59} alt="Kuva 59"/>
         </div>
         <div className="columnStyle">
@@ -134,8 +140,22 @@ const Ilmoituksia1918Page = () => {
           <Image className="columnImgStyle" src={img50} alt="Kuva 50"/>
           <Image className="columnImgStyle" src={img52} alt="Kuva 52"/>
           <Image className="columnImgStyle" src={img54} alt="Kuva 54"/>
-          <Image className="columnImgStyle" src={img56} alt="Kuva 56"/>
+          <Image className="columnImgStyle" src={img58} alt="Kuva 58"/>
           <Image className="columnImgStyle" src={img60} alt="Kuva 60"/>
+        </div>
+      </div>
+      <br />
+      <Divider className="dividerStyle" />
+      <div className="rowStyle">
+        <div className="columnStyle">
+          <Image className="columnImgStyle" src={img61} alt="Kuva 61"/>
+          <Image className="columnImgStyle" src={img63} alt="Kuva 63"/>
+        </div>
+        <div className="columnStyle">
+          <Image className="columnImgStyle" src={img62} alt="Kuva 62"/>
+          <Image className="columnImgStyle" src={img64} alt="Kuva 64"/>
+          <Image className="columnImgStyle" src={img65} alt="Kuva 65"/>
+          <Image className="columnImgStyle" src={img66} alt="Kuva 66"/>
         </div>
       </div>
     </Layout>

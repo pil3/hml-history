@@ -3,9 +3,10 @@ import {buttonStyle, iconStyle} from "../styles/components/readMoreIcon.module.c
 
 import ArrowUp from "../assets/icon-up.svg"
 
-const ReadMore = ({onClick, fullSize}) => {
+const ReadMore = ({onClick, fullSize, hideWhenMinimized}) => {
   return (
-    <button type="submit" aria-label="Näytä enemmän" className={buttonStyle} onClick={onClick}><ArrowUp style={{transform: fullSize ? "rotate(0deg)" : "rotate(180deg)"}} className={iconStyle}></ArrowUp>
+    <button type="submit" aria-label="Näytä enemmän" className={buttonStyle} onClick={onClick}>
+      <ArrowUp style={{transform: fullSize ? "rotate(0deg)" : "rotate(180deg)", visibility: hideWhenMinimized && !fullSize ? "hidden" : "visible"}} className={iconStyle}></ArrowUp>
     </button>
   );
 }

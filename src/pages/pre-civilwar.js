@@ -12,6 +12,187 @@ const PreCivilWarPage = () => {
     <Layout titleText="Hämeen Sanomat, 1917-18">
       <h2>Kohti sisällissotaa</h2>
 
+      <div className="interTitle">20.10.1918</div>
+      <Article titleText="Suojeluskunnista.">
+        <p>Maassamme wallitsewa sekasorto ja wallattomuus, päiwittäin toistuwat roswoukset, murhat, wäkiwallanteot naisia ja yksityisiä kansalaisia kohtaan, joihin ottawat osaa niinhywin omat kuin 
+          wieraat huligaaniainekset, owat wihdoinkin saaneet rauhaa ja järjestystä harrastawat kansalaiset ajattelemaan, mitä heidän rauhaansa kuuluu. Seurauksena onkin ollut, että nämä 
+          kansalaiset owat liittyneet yhteen ja muodostaneet n. s. suojeluskuntia järjestyswallan tueksi, rauhallisuuden ylläpitämiseksi ja kansalaisten hengen ja omaisuuden suojelemiseksi.</p>
+        <p>Missä määrin tällaisten suojeluskuntain toiminta käy tarpeelliseksi on wielä waikea sanoa. Mutta jos nykyisyys on wakawa, niin on tulewaisuus wielä uhkaawampi. Wenäjältä saapuwat tiedot 
+          kertowat siellä wallitsewasta täydellisestä sekasorrosta ja kurittomuudesta. Kylät ja maakartanot palawat, wiljat tallataan, metsät kaadetaan maahan, kaupungit ryöstetään. „Turwaa ei 
+          ole. Pyydämme turwaa” - näin päättyy eräskin hätääntyneitten asukkaitten hallitukselleen lähettämä lyhyt mutta paljon puhuwa awunpyyntisähkösanoma. Kun kaikki tämä tapahtuu seuduilla, 
+          missä ainakin näennäinen rauha wallitsee, niin mitä sitten siellä, missä kansa jää perääntywän armeijan jalkoihin. Anarkian aalto wyöryy yli laajan Wenäjän. Kulkewatko sen mainingit 
+          myöskin meidän maahamme? Silloin ei meillä ainakaan ole turwaa, ellemme itse sitä woi luoda.</p>
+        <p>Suojeluskuntia, joiden tarkoitus juuri on kansalaisten hengen ja omaisuuden suojeleminen mikä kohtalo maamme onkin, on wiime aikoina alkanut syntyä myöskin useissa Hämeen pitäjissä ja 
+          toisissa on niiden perustaminen paraillaan wireillä. Suotawaa olisikin, että niitä syntyisi mahdollisimman paljon ja että niihin liittyneiden lukumäärä olisi mahdollisimman runsas. Jotta 
+          suojeluskunnat wastaisiwat tarkotustaan tulee niiden toiminnan olla täysin puolueista wapaa. Niiden tulee olla walmiit suojelemaan yhtä hywin sosialidemokraatin kuin porwarillisenkin 
+          kansalaisen henkeä ja koskemattomuutta. Parhaiten ne onnistuwat, jos kunta ottaa niiden perustamisen huolekseen, kuten useissa paikoin on tapahtunutkin.</p>
+        <p>Ei olisi luullut, että kukaan olisi halunnut rinnastaa itseään roswojen ja huligaanien kanssa, mutta ettei tätäkään halua ole kansastamme puuttunut ja wieläpä suurimman puolueemme 
+          kaikkein johtawimpien ainesten taholta, siitä on wiime päiwät antaneet useita todistuksia.</p>
+        <p>Sosialistien huomattawimmista äänenkannattajista owat <span className="accent">Työmies</span> ja <span className="accent">Kansan Lehti</span> päiwät päästään sisältäneet jos jonkinlaista 
+          törkyä suojeluskuntia ja niiden tarkoitusta wastaan. Wääristellen ja kaikenkaltaisia nimityksiä säästämättä kirjoituksissa koetetaan suojeluskuntain perustamista leimata porwariston 
+          yrityksiksi „muodostaa lahtarikaarteja työläisten tappamiseksi lyijyllä ja nälällä”. On tuntunut miltei siltä kuin nämä johtomiehet pitäisiwät aiwan rikoksena toimenpiteisiin ryhtymistä 
+          ryöstöjen ja murhien waralta tai ikäänkuin he pelkäisiwät oman toimintansa sen kautta jollakin tawoin tulewan estetyksi. Ehkä he pelkääwätkin täten tulewan äkkinäisen lopun sille 
+          liehakoimiselle ja matelemiselle wenäläisen sotawäen kaikkein huonompien ainesten edessä, joka wiime aikoina on ollut heidän pääasiallisimpana tehtäwänään ja olewansa ennen pitkää 
+          johtajia ilman joukkoja.</p>
+        <p>Tämä sosialistien johtomiesten menettely ei woi olla herättämättä katkeruutta mutta samalla se herättää myöskin wakawaa huolta. Haukkumasanat eiwät tehoa ajattelewiin kansalaisiin waan 
+          päinwastoin tuntuwat wastenmielistä. Mutta epäilemättä on wielä aineksia, jotka uskowat wääristelyjään suojeluskuntain tarkotuksesta ja tällöin on asia wakawampi. Onhan jo kewäästä 
+          asti ollut liikkeellä huhuja eräänlaatuista tuntematonta tarkoitusta warten harjoitetuista joukko-osastoista. Jos nyt tällä intohimoisella kiihoituksella on tarkoituksena saada eri 
+          kansalaisluokat asestautumaan toisiaan wastaan, niin kulkee maamme kohti onnettomuutta jonka wauriot owat korjaamattomat.</p>
+        <p>Otamme lopuksi muutamia kohtia pääkaupungin lehdissä julkaistusta eräiden kansalaisten sosialidemokraattisen puolueen johdolle ja <span className="accent">Työmies</span> lehden 
+          johtokunnalle osottamasta „awoimesta kysymyksestä”, joka oiwallisesti kuwaa sekä suojeluskuntain tarkotusta että sosialidemokraattisien johtomiesten kantaa mainitussa kysymyksessä:</p>
+        <p className="quote">Kenelläkään ei pitäisi oleman epäselwää, että kunnalliskaartin muodostaminen ei ole tähdätty mitään puoluetta wastaan — se on tähdätty roistoja ja ryöwäreitä wastaan, 
+          ja ainoastaan siinä tapauksessa, että Työmies ilmoittaa itsensä solidaariseksi näitten wiimemainittujen kanssa, on sillä syytä esiintyä niitä wastaan. Toinen kysymys on, tarwitaanko 
+          tällaisia järjestöjä nykyaikana?</p>
+      </Article>
+
+      <div className="interTitle">30.10.1917</div>
+      <Article titleText="Sosialistien järjestyskaartihommat.">
+        <p>Suomen Ammattijärjestön waltuuston kehoituksen johdosta muodostetaan parhaillaan eri tahoilla maassa, työwäen järjestyskaartteja, joiden tarkoituksena on „nykyisinä lewottomina aikoina 
+          suojella työwäen yhdistys-, kokoontumis-, lausunto- ja painowapautta sekä yleensä olla työwäenluokan oikeuksien turwana”.</p>
+        <p>Kaartien jäsenet walitaan työwäen waltiollisten ja ammatillisten järjestöjen keskuudesta ja pannaan ne kokoon komppanioittain. Komppania käsittää 48 ruotua, s. o. 96 miestä, siihen 
+          lisäksi luettuna 8 osaston ja 4 plutoonan päällikköä, järjestäjä ja komppanianpäällikkö; koko komppanian miesluku on siis 110 miestä.</p>
+        <p>4 komppaniaa muodostaa pataljoonan, 4 pataljoonaa rykmentin ja 4 rykmenttiä muodostaa prikaatin.</p>
+        <p>Kaartien perustamisen aiheena mainitaan, että muka porwariluokat järjestäywät kuumeisesti ja asettautuwat työwäkeä wastaan ja sen tärkeimpiä edistyspyrkimyksiä tukahduttaaakseen, joten 
+          työwäenkin on warustauduttawa „itsepuolustuksekseen ja kaikkien mahdollisten tapausten waralle”.</p>
+      </Article>
+      <Article titleText="Hämeenlinnan Wapaaehtoinen suojeluskunta.">
+        <p>Wastaukseksi tehtyihin tiedusteluihin Suojeluskunnan hallitus täten ilmoittaa, että tämä kunta, ollen wapaaehtoisena yhdistymisenä kansalaisten kesken, jotka täten asettuwat 
+          kaupunkikuntansa käytettäwiksi sen suojelemista warten perikadosta, jota ajattelemattomat ainekset koettawat aikaansaada — toimii ilman minkäänlaisia puoluepoliitillisia tarkoituksia. 
+          Jäseneksi kuntaan woipi päästä jokainen hywämaineinen Suomen kansalainen, joka haluaa toimia yllämainitussa tarkoituksessa. Ilmoitus kuntaan liittymisestä tapahtuu merkitsemällä nimensä 
+          Suomalaisessa- ja Enok Rytkösen kirjakaupassa tätä warten löytywiin kortteihin, ollen kunnan hallituksella walta hywäksyä tahi hylätä sanottu ilmoitus, jos ilmoitus hywäksytään, 
+          annetaan sen tekijälle siitä todistukseksi jäsenkortti.</p>
+        <p className="signature">Hämeenlinnan Wapaaehtoisen Suojeluskunnan hallitus.</p>
+      </Article>
+
+      <div className="interTitle">3.11.1917</div>
+      <Article titleText="Sotilasväkivalta Suomessa.">
+        <h5>Prokuraattorin toimenpiteet.</h5>
+        <p>Prokuraattori on lähettänyt kenraalikuwernöörille wiime lokak. 22 pnä päiwätyn kirjelmän, jossa wiittaa maassamme tapahtuneisiin ja yhä tiheämmiksi käyneisiin wenäläisen sotawäen 
+          toimeenpanemiin warkauksiin, ryystöihin, murhiin ja muihin wäkiwallantöihin, sekä jatkaa:</p>
+        <p>Sekä yksityisten kansalaisten, että kuntain ja Suomen wiranomaisten puolelta on useasti walitettu kenraalikuwernöörille ja ylemmälle sotapäällystölle tässä kohden wallitsewasta 
+          surkeasta asiaintilasta ja waadittu, että kuri ja järjestys palautettaisiin sotajoukkoihin tai että ne poistettaisiin Suomesta. Wastaukseksi walituksiin on saatu selitys, että 
+          sotajoukot owat wälttämättömiä Suomessa sodankäynnin wuoksi. Kuria taasen on toisinaan luwattu parantaa, toisinaan on suoraan selitetty, että sotapäällystö on woimaton kuria 
+          aikaansaamaan, Parannusta ei sotamiesten käyttäytymisessä olekaan ollut hawaittawissa.</p>
+        <p>Tämän johdosta olen katsonut welwollisuudekseni kunnioittaen kääntyä Teidän puoleenne, Herra Kenraalikuwernööri, huomauttamalla seuraawaa:</p>
+        <p>Wenäjän hallituksella on oikeus tarpeen waatiessa sijoittaa sotawoimiaan Suomen alueelle, mutta se ei ole oikeutettu täällä pitämään joukkoja, jotka owat säännölliseltä sotajoukolta 
+          waadittawaa kuria wailla ja harjoittawat rikoksia Suomen kansalaisia kohtaan. Wenäjän hallitus on senwuoksi ehdottomasti welwollinen poistamaan sellaiset sotajoukot Suomesta. Ellei se 
+          sitä tee, wäärinkäyttää se waltaansa Suomen yli ja rikkoo sitä oikeussuhdetta wastaan, joka on Wenäjän ja Suomen wälillä.</p>
+        <p>Sotilasten harjoittama wäkiwalta ja mieliwaltainen esiintyminen owat maassamme aikaansaaneet turwattomuutta, joka on omansa kansan keskuudessa synnyttymään epätoiwoista mielialaa. 
+          Kukistunutta keisariwaltaa piti kansamme wihollisenaan, koska se pyrki häwittämään yhteiskuntajärjestyksemme. Nykyistä asemaa, joka uhkaa maatamme anarkialla, pitää Suomen järjestystä 
+          rakastawa kansa elämälleen ja kehitykselleen yhtä waarallisena. Pyydän sen wuoksi lausua toiwomuksenani, että Te, Herra Kenraalikuwernööri tahtoisitte tehdä Wenäjän Hallitukselle 
+          tunnetuksi edelläkerrotut seikat ja saattaa sen tietoon, miten Suomessa nykyään asemaa arwostellaan.</p>
+      </Article>
+      <Article titleText="Raskaita syytöksiä Hämeenlinnan Wapaaehtoista Suojeluskuntaa wastaan „Hämeen Woiman” taholta.">
+        <h5>Yleisöltä.</h5>
+        <p>Hämeen Woimassa sanotaan näin:<br /><span className="quote">Hämeenlinnassa, kuten muuallakin, owat porwarit perustaneet n. s. suojeluskaartin, jonka tarkoituksesta ei ainakaan julkisesti 
+          ole annettu luotettawia tietoja. Mikäli kuitenkin on saatu tietää näihin „suojeluskaarteihin” kuuluwilta ja heidän lehdistöstään lukea, on sen tarkoituksena ryhtyä työläisiä wastaan, 
+          estääkseen m. m. työläisille jonkun werran oikeuksia myöntäwien laillisesti hywäksyttyjen lakien woimaansaattamisesta. — Ei siis suotta ole tätä „suojeluskaarttia” ryhdytty kutsumaan 
+          lahtarikaarttiksi.</span>.</p>
+        <p>Nämä parjaukset olisiwat woineet jäädä sikseen, ellei niissä esiintuotaisi wääristeltyjä tietoja suojeluskunnan (jota H. W. kutsuu jostakin syystä „kaartiksi”) tarkoituksesta ja samalla 
+          tuulesta temmattuja syytöksiä niitä kansalaisia wastaan, jotka ihmisrakkauden elähyttäminä owat siihen liittyneet.</p>
+        <p>Suojeluskunnan sääntöjen 2 §:ssä nimenomaan sanotaan:<br />„Kunnan tarkoituksena on tarpeen tullen awustaa järjestyksen ylläpitämisessä kaupungissa”;<br />3: §:ssä:<br /> „Jäseneksi 
+          kuntaan woi päästä jokainen Hallituksen hywäksymä Suomen kansalainen”.<br />Paitsi tätä ilmoitettiin kunnan hallituksen puolelta näinä päiwinä paikkakunnan sanomalehdissä (siis julkisesti), 
+          että:<br />„tämä kunta, ollen wapaaehtoisena yhdistymisenä kansalaisten kesken, jotka täten asettuwat kaupunkikuntansa käytettäwäksi sen suojelemista warten perikadosta, jota 
+          ajattelemattomat ainekset koettawat aikaansaada — toimii ilman minkäänlaisia puoluepolitillisia tarkoituksia. Jäseneksi kuntaan woi päästä jokainen hywämaineinen Suomen kansalainen — —”</p>
+        <p>Jos tähän werrataan „Hämeen Woiman” wäitteitä, että Hämeenlinnan Wapaaehtoisesta Suojeluskunnasta muka ei olisi annettu luotettawia tietoja, niin on selwää, että mainittu sanomalehti 
+          wasten parempaa tietoaan wääristelee tosiseikkoja ehkä wakuutettuna siitä, että sen lukijapiiri ei lue „porwarillisia” sanomalehtiä, eikä siis ole tilaisuudessa tekemään wertauksia. Mitä 
+          taas tulee tietojen luotettawaisuuteen, niin jollei sääntöihin ja hallituksen julkiseen wakuutukseen woida luottaa, on mahdotonta esiintuoda muullaisia wakuutuksia. Jos „Hämeen Woiman” 
+          puolelta todellakin epäillään julkisten sääntöjen todellisuutta ja rehellisten kansalaisten (tässä tapauksessa hallituksen jäsenten) sanaa — on asian tilaa surkuteltawa — mikäli se Hämeen 
+          Woiman näkökantaa koskee. Tässä ei enään mitkään wastawäitteet eikä wakuutukset auta; asia on jo mennyt kiinteältä tasolta henkiselle.</p>
+        <p>Sanottiin edellä, että suojeluskunta toimii järjestyksen ylläpitämiseksi ja tämän kaupungin suojelemista warten perikadosta, jota ajattelemattomat ainekset koettawat aikaansaada. 
+          Ja „Hämeen Woima” taasen wäittää, että näin ollen — suojeluskunnan tarkoituksena on ryhtyä työläisiä wastaan. Tällainen wäite, waikka sekin nähtäwästi on tehty puoluetaktillisessa 
+          tarkoituksessa, ei suinkaan aseta rehellisten, lojaalisten työläisten asemaa todelliseen waloon.</p>
+        <p>Mitä lopuksi tulee nimitykseen „lahtarikaartti”, on muistettawa wanhaa suomalaista sananpartta „ei haukku haawaa tee”.</p>
+        <p>Tämän yhteydessä emme woi olla luomatta huomiota siihen kummalliseen ja ihmeteltäwään seikkaan, että tuhatmiehiset „punakaarttijoukot” Helsingissä, Tampereella ja muissa kaupungeissa 
+          esteettömästi toimeenpanewat rintamaharjoituksia yleisillä paikoilla, joita „porwarillisten” suojeluskuntain estetään toimittamasta. Kysytään, tätäkö julkisuutta „Hämeen Woima” 
+          tarkoittaa? Tälläkö nykyhetkellä mahdissa olewien aineksien antamalla etuoikeudella kerskaillaan?</p>
+        <p>Eiköhän ylläesiintuotu selwästi näytä niiden keinojen todellista luonnetta, joilla „Hämeen Woima” koettaa saawuttaa etujansa, ja samalla puhdistaa Hämeenlinnan Wapaaehtoista 
+          Suojeluskuntaa ja sen jäseniä niistä raskaista parjauksista, joita mainittu sanomalehti runsaalla kädellä antaa ja sen jäseniä wastaan heittelee.</p>
+        <p>Enempään sanomalehtiwäittelyyn tästä asiasta me „Hämeen Woiman” kanssa emme ryhdy.</p>
+        <p className="signature">Hämeenlinnan Wapaaehtoisen Suojeluskunnan jäseniä.</p>
+      </Article>
+
+      <div className="interTitle">6.11.1917</div>
+      <Article titleText="Sotilasmieliwalta.">
+        <p>Joku päiwä sitten oli lehdessämme Suomessa olewan wenäläisen sotawäen aluekomitean julistus, jossa ankarin sanoin tuomitaan eräiden wenäläisten sotilasainesten maassamme harjoittamat 
+          wäkiwallanteot. Julistus näyttää kuitenkin jääneen waikutukseltaan samantapaiseksi, kuin ne lukemattomat kaikenlaisten komiteain kukkaiskieliset julistukset, wetoomukset ja kehoitukset, 
+          joita wallankumouksesta lähtien on tulwinut yli laajan Wenäjän maan.</p>
+        <p>Me olemme näet saaneet wastauksen, jopa kaksittainkin, joissa asianomaiset itse osottawat kuinka julistuksen kehoitukset käytännössä toteutetaan. Turusta saapuwat wenäläiset matruusit 
+          pistinkiwäärein warustettuina suomalaiseen oikeudenistuntoon ja rewolwereilla uhaten pakottawat oikeuden keskeyttämään istuntonsa ja luowuttamaan heille oikeuden asiakirjat. Wiipurissa 
+          piirittäwät kasakat sanomalehden toimituksen, uhkaawat pieksää toimittajia ja lopulta lakkauttawat sanomalehden. Kumpikin owat tekoja, jotka nostattawat wastaansa yhteiskunnan kaikkien 
+          maltillisimmatkin ainekset.</p>
+        <p>Wenäläisen sotawäen harjoittamat wäkiwallantyöt eiwät siten näytä suinkaan olemaan loppumaan päin, päinwastoin. Etenkin Turussa tapahtunut törkeä oikeudenloukkaus on omiaan kuohuttamaan 
+          mieliä. Rewolweri ohimolla pakoitettiin suomalainen tuomari julkilausumaan laittomia, syrjäisiä mahtikäskyjä, joille ladatuilla kiwääreillä annettiin pontta. Wastoin kaikkea oikeutta 
+          wapauttawat wenäläiset matruusit wäkiwaltaa käyttäen suomalaisen oikeuden rikollisiksi hawaitsemat syytetyt ja ryöstäwät oikeuden asiakirjat. Törkeämpää oikeudenloukkausta lienee tuskin 
+          maassammes ennen tapahtunut.</p>
+        <p>Kaikki tämä tapahtuu „wapauden” nimessä. Ja mikä kaikkein surkuteltawinta, on että osa kansaamme on walmis hywä- ja hurraahuudoin hywäksymään moisen wäkiwallan. Ei saata olla häpeästä 
+          punastumatta lukiessaan turkulaisten lehtien kuwausta niiden suomalaisen kansalaisen nimellä kulkewista, jotka kaikin tawoin suosiotaan ja hywäksymistään osottaen terwehtiwät 
+          wenäläisten matruusien „olemaks wapaa” julistusta. Tuollaiset yhteiskunnan ainekset owat todellakin menettäneet alkeellisimmankin kansalaiskuntonsa ja heitä ei woi muuten kohdella kuin 
+          hylkiöitä ainakin, Mutta osan edeswastuusta saawat kantaa myöskin nykyisen sosialistisen puolueen johtomiehet, jotka ensinnä liittoutuiwat edeswastuuttoman wieraan aineksen kanssa, 
+          kiihoittaen sitä omaa kansaansa wastaan. Wäkiwaltaa se kylwö nykyään kaswaa. Mutta kerran warmaan on tulewa aika, jolloin ne, joilla nykyään ei ole moitteen sanaa lausuttawana werisen 
+          oikeudenhäwäisyn johdosta, saawat itsekin korjata kylwönsä hedelmät ja silloin on heidän häpeänsä hetki lyönyt.</p>
+        <p>Myöskin Wiipurissa tapahtunut törkeä lausuntowapaudenloukkaus ei woi olla lisäämättä siiwiiliwäestössä yhä yltywää wastenmielisyyttä maassamme nykyisin majailewaa sotawäkeä kohtaan. Yhä 
+          woimakkaammin on waadittawa, että wenäläisen waltiowallan, jonka ylin tehtäwä on oikeuden turwaaminen ja lakien suojeleminen, on pidettäwä kurissa tänne sijoitetut sotilasainekset ja 
+          saattaa edeswastuuseen wäkiwallantöihin osaaottaneet. Jo tsaariwallan aikuisiinkin Wenäjän ja Suomen wälisiin oikeussuhteisiin wiitaten on Suomen prokuraattori Wenäjän hallituswallan 
+          korkeimmalle edustajalle huomauttanut: <span className="quote">Wenäjän hallituksella on oikeus tarpeen waatiessa sijoittaa sotawoimiaan Suomen alueelle, mutta se ei ole oikeutettu täällä 
+          pitämään joukkoja, jotka owat säännöllisiltä sotajoukoilta waadittawaa kuria wailla ja harjoittawat rikoksia Suomen kansalaisia kohtaan. Wenäjän hallitus on sen wuoksi ehdottomasti 
+          welwollinen poistamaan sellaiset sotajoukot Suomesta</span>.</p>
+        <p>Hetki on kyllä sellainen, että turhaa on meidän muualta apua odottaa, ellemme itse kykene itseämme auttamaan. Tästä owat saatettawat tietoisiksi yhä laajemmat kansankerrokset. Woi olla, 
+          että me tulemme wielä paljon kokemaan, mutta warmaan tulee myöskin hetki, jolloin suomalaisenkin kärsiwällisyys loppuu.</p>
+        <p>Tahdomme wielä lopuksi kiinnittää huomiota Suomenlahden etelärannalla asuwan weljeskansamme, wirolaisten nykyiseen kohtaloon. Mitä sywimmin koskee tämän kansan järkyttäwä hätähuuto 
+          jokaiseen suomalaiseen sydämeen. Kuinka mielellämme me ojentaisimmekaan auttawan käden, mutta sitä painaa kahle, ja kahlehditusta kädestä on wähän apua. Kuinka tuskalliselta se tuntuu, 
+          sen tiedämme me jokainen. Mutta kerran warmaan tulee aika, jolloin molemmat weljeskansat wapaina ojentawat toisilleen kätensä. Mitä menneet sorron ja wäkiwallan ajat eiwät ole 
+          onnistuneet häwittää, se ei häwiä nytkään. Mutta waroittawana esimerkkinä on meille nykyään Wiron kansan kohtalo, mikä sillä nyt on osanaan, woi tulla osaksi myöskin meille, ellemme ota 
+          ajasta waaria.</p>
+      </Article>
+      <Article titleText="Sotilashirmuvalta Wirossa.">
+        <h5>Wäliaikainen maaneuwosto kääntyy suomalaisten puoleen.</h5>
+        <p>Suomen eduskunnalle, senaatille ja pääkaupungin sanomalehdistölle on Wiron wäliaikainen neuwosto lähettänyt seuraawan, kansansa nykyistä kauheaa asemaa ilmituowan sähkösanoman:</p>
+        <p><span className="accent">Tallinnasta</span>, marrask. 1 p.<br />Wiron wäliaikainen maaneuwosto katsoo täten welwollisuudekseen maan edustajana kiinnittää teidän suomalaisten huomiota 
+          siihen, mitä tapahtuu Suomenlahden toisella puolella.</p>
+        <p>Eräät Wenäjän armeijan ainekset, jotka owat lähetetyt Wiroon puolustamaan Wenäjää ja samalla myös Wironmaata sekä sen kansaa ulkonaista wihollista wastaan, tekewät itsensä syypäiksi 
+          hirwittäwiin tekoihin maan rauhallista wäestöä kohtaan. Ne murhaawat aseettomia ihmisiä, polttawat talot, rakennukset ja wiljat, ajawat karjan pois ja tappawat sen ilman minkäänlaista 
+          järkeä ja syytä.</p>
+        <p>Tallinnan ja Haapasalon piirikunnissa owat he wain muutaman päiwän kuluesta ryöstäneet useita kymmeniä maatiloja, kuten esim. Lihulan, Maatsalon, Saastnan, Oidenurmen, Paatsalon, 
+          Ilusten, Laikylän, Loodin, Kiwidepään, Sinalepan, Paattisten, Riisiperen ja Taiblan. Samallaisia tietoja saapuu muiltakin seuduilta. Wäestö on joutunut mitä suurimman epätoiwon waltaan, 
+          nähdessään poikainsa ja weljiensä uhraawan henkensä taistellessaan Wenäjän armeijan riweissä, sillä wälin kun eräät tämän saman armeijan ainekset, joka on tarkoitettu puolustamaan maata 
+          harjoittawat julmuuksia wirolaisten sotamiesten sukulaisia, weljiä ja sisaria wastaan. Jos kaikista meidän wastalauseistamme huolimatta Wirossa pannaan toimeen yleinen takawarikointi 
+          mikä warmasti aiheuttaa täydellisen nälänhädän —, niin ainakin meillä on oikeus waatia, ettei rauhallista wäestöä surmata ja ettei maatiloja ryöstetä. Ellei näitä raakalaistekoja kaikella 
+          mahdollisella tarmolla ehkäistä, tulee Wiron kansa suureksi osaksi häwiämään, eiwätkä sitä häwitä Saksan armeijat, kuten ne owat häwittäneet Belgian ja Serbian, waan Wenäjän omat 
+          sotajoukot.</p>
+      </Article>
+      <Article titleText="Sotilasmieliwalta huipussaan.">
+        <h5>Turussa tapahtunut oikeuden loukkaus.</h5>
+        <p>Perjantaina klo 10 ap. ryhtyi Turun raastuwanoikeuden kolmas osasto käsittelemään tunnettua woinryöstöjuttua.</p>
+        <p>Noin puolen tunnin kuluttua nousiwat kaikki syytetyt kuin jonkun ennakkosopimuksen mukaan seisomaan eiwätkä istuutuneet puheenjohtajan useista kehoituksista huolimatta.</p>
+        <p>Pian senjälkeen saapui paikalle 20—60 asestettua sotilasta pistimet kiwäärien päihin pistettyinä ja tunkeutuiwat sisään kaikista owista. Uhaten asewoimalla ja lukemalla julistuksen, 
+          jossa sanottiin, ettei wallankumouksellinen sotawäki salli jutun käsittelyä, pakoittiwat he oikeuden jäsenet poistumaan. Woinryöstöstä wangituista wapautettiin 6 henkilöä, niistä 5 
+          miestä ja 1 nainen, jotawastoin kolme, joita syytetään muistakin rikoksista, sai jäädä pidätetyksi.</p>
+        <p>Sotilaat weiwät mukanaan juttua koskewat asiakirjat sekä sen lisäksi kruununasiamiehen, waralääninkamreeri Matti Hakalan asiakirjat. Syyttäjää, kaupunginwiskaali Klemettiä waadittiin 
+          luopumaan syyttämisestä wastaisuudessa, mihin hän ei kuitenkaan suostunut. Silloin ojennettiin häntä kohden kaksi rewolweria, mutta yleisessä hämmingissä ei häntä wastaan muihin toimiin 
+          ehditty ryhtyä.</p>
+        <p>Kun wangitut oliwat marssineet pois, huusi joku matruuseista wastaajille: „Nyt kaikki loppumaks, olemaks wapaa”, minkä jälkeen wäkijoukko päästi korwia särkewän hurraa-huudon 
+          matruuseille, osan taputellessa näitä „urhoja” olkapäille ja muutamien naisten riemusta itkiessä.</p>
+        <p>Tämän jälkeen useat suomalaiset miehet ja naiset kiittiwät kädestä sotilaita.</p>
+        <p>Sitten meni kymmenkunta sotilasta Turun lääninwankilaan, mistä waatiwat ja saiwatkin wapautettujen waatteet.</p>
+        <p>Sotilailla oli mukanaan Turun toimeenpanewan sotilaskomitean waltakirja tehtäwäänsä, mutta kun komiteasta tiedusteltiin asiaa, ei siellä tiedetty koko tapahtumasta eikä waltakirjan 
+          antamisesta mitään.</p>
+        <h5>„Karjala” lakkautettu koko sodan ajaksi.</h5>
+        <p>Wiipurin linnoituksen komendantti on lakkauttanut sanomalehti „Karjalan” koko sodan ajaksi. Mainittua asiaa koskewassa kirjelmässä sanotaan, että koska mainittu lehti on yllyttänyt 
+          toista wäestön osaa toista wastaan ja koska se 214 numerossaan on julaissut erästä sotilasosastoa loukkaawan walheellisen tiedonannon, ei komendantti woi sallia mainitun lehden 
+          ilmestymistä koko sodan aikana.</p>
+        <h5>Halikon Joensuun kartano aijottu ryöstää?</h5>
+        <h5>- Sotilaiden töitä.</h5>
+        <p>Wiime torstaita wasten yöllä saapui Halikon Joensuun kartanoon Turusta kahdella autolla 4 matruusinpukuista miestä, 1 maaupseeri ja eräs siwiilihenkilö. Kolme ensinmainituista sekä 
+          siwiilipukuinen lähtiwät kartanon pihalle sitä ennen katkaistuaan kaikki kartanoon menewät puhelinjohdot. He kolkuttiwat ensin keittiöhuoneuston owelle, mutta kun ei sieltä kukaan tullut 
+          awaamaan niin siirtyiwät he paraatiowelle, joka ei myöskään auennut. Sitten he useamman kerran siirtyiwät owelta toiselle jääden lopuksi odottelemaan. Klo 2 tienoissa he kuitenkin 
+          lähtiwät pois autoillaan.</p>
+        <p>Arwellaan, että muukalaisilla oli kostonhankkeet mielessä. Joensuun kartanon omistaja kreiwi Armfelt oli nim. kehoittanut alustalaisiaan wälttämään wenäläisten seuraa. Tämä oli 
+          joutunut wenäläisten korwiin ja he oliwat päättäneet kostaa. Mutta luultawinta on että tekeillä oli suoranainen ryöstö, johonka sotilaita kiihotti uskottelut kartanon suunnattomista 
+          aarteista. Mahdollista on, että mukana on ollut entisiä Wiron herraskartanoiden ryöstäjiä.</p>
+        <p>Asia ilmoitettiin wiranomaisille ja alustawat tutkinnot on jo suoritettu.</p>
+      </Article>
+
       <div className="interTitle">8.11.1917</div>
       <Article titleText="Järjen ääniä.">
         <p>Meidän suurin waltiollinen puolueemme on aina ollut tunnettu siitä uskonkiihkoisuuteen wiwahtawasta kuristaan, jossa se pitää jäseniänsä. Jokainen puolueen oikeaksi hywäksymästä 
