@@ -596,6 +596,122 @@ const IndependencePage = () => {
           Hallituksen tiedossa on nimittäin monta sellaista asianhaaraa, että ne puhuwat woimakkaasti monarkkisen hallitusmuodon puolesta.</p>
       </Article>
 
+      <div className="interTitle">20.7.1918</div>
+      <Article titleText="Hallitusmuotokysymyksen ratkaisun lykkäytyminen.">
+        <p>Tärkein Suomen nuorta waltiota koskewista kysymyksistä, hallitusmuotokysymys, on yhä wielä ratkaisematta. Kuten jo wiime lehdessä kerrottiin, poisti eduskunman puhemies kysymyksen 
+          odottamatta päiwäjärjestyksestä, selittäen menettelynsä syyksi sen, ettei edustajilta, jotka eiwät olleet woineet kantaansa määrätä ja toiwoiwat aikaa asian pitempään harkintaan, pitäisi 
+          tilaisuutta siihen kieltää. Waikka eduskunnan puhemiehen menettely herättikin eduskunnassa jonkun werran wastustusta, päätti eduskunta siihen kuitenkin suostua, joten kysymyksen 
+          lopullinen ratkaisu siirtyi muutaman wiikon tuonmemmaksi.</p>
+        <p>Senjälkeen kun kysymys kuninkuudesta ja tasawallasta ensi kerran kewäällä joutui julkisen pohdinnan alaiseksi, on tapahtunut paljon, joka pakottaa yhä uudelleen harkitsemaan kysymystä 
+          ja uudelleen punnitsemaan ne syyt ja wastasyyt, joita woidaan esittää kummankin kannan tueksi. Kieltämättä on kehitys tänä aikana kulkenut kuninkuudelle edullisempaan suuntaan, jopa 
+          wiime aikoina aina siihen määrin, että nykyään enään wakawasti ajatellen saattaa tuskin tulla kysymykseenkään muunlaisen hallitusmuodon saattaminen maahamme. Ennenkaikkea on tällöin 
+          otettawa huomioon maamme ulkopoliittiset suhteet, joiden warmalle pohjalle rakentuminen ei näytä woiwan käydä päinsä ilman kuninkuutta. Läheisessä yhteydessä kysymyksen kanssa on myöskin 
+          kansallisen kuningasajatuksemme tulewan Suur-Suomen luomisesta toteutuminen, ajatus, jonka toteuttamiseksi jokainen isänmaallisesti ajattelewa kansalainen on welwollinen uhraamaan 
+          yksilölliset näkökohdat. Toisaalta näyttää myöskin käywän mahdottomaksi ilman woimakasta ja mahdollisimman keskitettyä hallitusta luoda järjestystä kaikkialla maassamme nykyään 
+          wallitsewaan sekasortoon ja hämmennykseen, joka sekin osaltaan kehottaa etsimään pelastusta kuninkuudesta.</p>
+        <p>Kysymyksen merkitykseen katsoen olisi kuitenkin tärkeätä, että siinä eri kansalaisryhmät pääsisiwät mahdollisimman suureen yksimielisyyteen. Toiwottawaa olisi senwuoksi, ettei tulewaa 
+          harkinta-aikaa käytettäisi kiihkeään intohimojen lietsomiseen, waan wakawaan harkitsemiseen, jossa otettaisiin huomioon edellämainitut maamme tulewaisuudelle tärkeät näkökohdat sekä 
+          myöskin hetken wälttämättömyys. Isänmaan etu ja onni on nyt ratkaisewasti kysymyksessä. Suuri kansallinen woitto olisi, että me tässä kysymyksessä woisimme saawuttaa yhteisen pohjan. 
+          Mikäli merkeistä näkyy ei tämä enään tällä hetkellä näytä mahdottomalta, kunhan wain kummallakin puolella osotetaan tarpeeksi malttia ja ymmärtämystä wastapuoluetta kohtaan. Turhaa onkin 
+          kiistellä eri hallitusmuotojen paremmuudesta, kummallakin niistä on etunsa ja kummallakin warjopuolensa, niinpä saattaa kyllä kuningaskunnassakin wallita kansanwaltaisemmat periaatteet, 
+          kuin monessa tasawallassa. Enemmän kuin mikään, näyttää eräitä kansalaisryhmiä wierottawan kuninkuudesta pelko, että kuninkaan tultua kaikista kansanwaltaisista periaatteista luowutaan. 
+          Tämä pelko ei kuitenkaan ole oikeutettu, sillä kuningaswalta saattaa kyllä rakentua kansanwaltaiselle pohjalle. Toisaalta owat suomalaisella taholla herättäneet epäilystä myöskin 
+          nykyiseen hallitusmuotoon otetut ruotsalaisuutta suosiwat pykälät. Nekin mahdollisesti woidaan wielä saada korjatuiksi enemmän suomalaisuuden waatimuksia wastaawiksi. Nähtäwästi kuitenkin 
+          näiden kummankin kysymyksen kautta kulkee tie hallitusmuotokysymyksen mahdollisimman laajoja kansalaisryhmiä tyydyttäwään ratkaisuun.</p>
+      </Article>
+
+      <div className="interTitle">8.8.1918</div>
+      <Article titleText="Ratkaisun hetkellä.">
+        <p>Tätä kirjoitettaessa on Eduskunnalla istunto, jonka merkitys kaikesta päättäen on olewa historiallinen. Hallitusmuotokysymys odottaa nyt lopullista ratkaisuaan ja samalla owat 
+          inhimillisesti katsoen itsenäisen Suomen politikan suuntawiiwat suunnitellut ehkä pitkiksikin ajoiksi.</p>
+        <p>Edeswastuullinen on senwuoksi tehtäwä, joka Eduskunnalla nyt on lopulliseen päämääräänsä saatettawanaan. Tämän edeswastuun on Eduskunta täysin osottanut tuntewansakin, siitä owat 
+          todistuksena ne wiikot, jotka nyt owat käytetyt kysymyksen harkitsemiseen. Owatko nämä wiikot olleet omiaan kysymystä selwittämään, siitä ei wielä ole lopullista tietoa, mutta mikäli 
+          ulkonaisista merkeistä ja mielenilmauksista saattaa päättää, on tänä aikana entistä enemmän yhteisymmärrystä saawutettu. Monarkian aate on yhä edelleen jatkanut woittokulkuaan. Yhä 
+          suuremmat kansanjoukot owat täysin käsittäen hetken wakawuuden ja itsenäisyytemme wälttämättömät edellytykset, toisinaan persoonalliset mielipiteensä uhraten, taipuneet kannattamaan 
+          perustuslakien rajoittamaa kuninkuutta. Maassamme nykyään wallitsewa sekasorto sekä itsenäisyyttämme ulkoa uhkaawa waara on heille osottanut, että maan ainoa pelastus tällä hetkellä on 
+          mahdollisimman lujasti keskitetty hallitusmuoto, jonka wain kuninkuus saattaa taata.</p>
+        <p>Wakawa on nykyinen hetki. Uhkaawana kohkaa waara koillisella rajallamme. Mihin kaikki päättyy on wielä tietämätöntä. Ulkopoliittinen tilanne on tawallista sekawampi, etenkin meille 
+          tärkeä idän kysymys on wiime aikaisten tapahtumien johdosta joutunut uuteen waiheeseen. Suuria muutoksia saattaa siinä helposti tapahtua, meillekin mitä merkityksellisimpiä. Woidakseen 
+          kunnialla kestää maailmanpolitiikan pyörteet, joihin joutuminen pienelle kansalle useimmiten on onnettomuus, heikolle siitäkin suurempi, on tarpeen, että maamme asema ulospäin on 
+          mahdollisimman luja. Ilman wakiintunutta hallitusmuotoa tämä on mahdotonta. Aikaa ei siis ole odottaa, wälttämätöntä on hallitusmuotokysymyksessä mitä pikemmin päästä selwille wesille.</p>
+        <p>Mutta woidaksemme ulkonaisesti olla woimakkaita, täytyy meidän olla woimakkaita myöskin sisällisesti. Näin ei kuitenkaan saata olla laita, niin kauan kuin maan hallitusmuoto on awoinna, 
+          eikä ole warmuutta siitä, mikä on olewa kysymyksen lopullinen ratkaisu. Sisäinen woimakkuus waatii sisäisiä parannuksia ja uudistustyötä, mutta siihenkään ei woida tarmolla ryhtyä 
+          ennenkuin maan tärkein kysymys on saatu lopullisesti järjestetyksi. Aikaa ei siis ole asiaa tältäkään kannalta katsoen odottaa, jos mielii saada yhteiskunnalliset olot wakawalle pohjalle 
+          ja kauan kaiwattu rauha maahan.</p>
+        <p>Eduskunnan on nyt tehtäwä ratkaisu. Toiwottawasti se tapahtuu maan ja kansan onneksi.</p>
+      </Article>
+
+      <div className="interTitle">10.8.1918</div>
+      <Article titleText="Kysymys kuninkaan vaalista perustuslakivaliokunnassa.">
+        <h5>Perustuslakiwaliokunta 9 äänellä 8 wastaan ehdottaa, että eduskunta päättäisi pyytää hallitusta ryhtymään walmistawiin toimenpiteisiin kuninkaan waalin toimittamiseksi.</h5>
+        <p>Perustuslakiwaliokunta päätti torstaina 9 äänellä 8 wastaan ottaa käsiteltäwäksi sille lähetetyn anomusehdotuksen esityksen tekemisestä hallitukselle niihin walmistawiin toimenpiteisiin 
+          ryhtymisestä, jotka owat tarpeen, että eduskunta woisi täyttää eduskunnalle hallitusmuodon 38 pykälän nojalla kuuluwan welwollisuuden mahdollisimman pian toimittaa kuninkaan waali.</p>
+        <p>Perustuslakiwaliokunnan mietintö eduskunnassa tehdyn anomuksen johdosta, joka koskee walmistawiin toimenpiteisiin ryhtymistä kuninkaan waalia warten, on seuraawan sisältöinen:</p>
+        <p>Eduskunta on pöytäkirjan otteella tältä päiwältä perustuslakiwaliokunnan walmistettawaksi lähettänyt edustajain Ingmanin, Estlanderin y. m. allekirjoittaman anomusehdotuksen. 
+          Tarkastettuaan tämän anomusehdotuksen on perustuslakiwaliokunta yhtynyt siinä esitettyyn käsitykseen ja päättänyt puoltaa anomusehdotuksessa ehdotettua toimenpidettä. Waliokunta on 
+          todennut, että se merkitys mikä anomusehdotuksessa on mainitulla eduskunnan päätöksellä jouluk. 6 p:ltä 1917 tasawaltaisen periaatteen hywäksymisestä on ollut eduskunnan 
+          hallitusmuotoasiassa myöhemmin tekemien päätösten johdosta rauennut. Waltiosääntönsä nojalla, joka sisältyy w. 1772 hallitusmuotoon ja 1789 w. yhdistys- ja wakuutuskirjaan sekä maan 
+          muihin perustuslakeihin, on Suomi siis edelleen perustuslaillinen monarkia. Eduskunta on perustuslakien mukaan welwollinen toimimaan niin, että nykyinen wäliaikainen tila waltion 
+          korkeimman wallan käytössä mahdollisimman pian saatetaan loppuun ja sitä warten walitsemaan maalle kuninkaan. Jotta tämä waali woisi tapahtua on wiipymättä ryhdyttäwä tarpeellisiin 
+          walmistawiin toimenpiteisiin, jotta waliokunnankin mielestä hallitus soweliaimmin suorittaa. Näillä perusteilla ja wiitaten muuten siihen, mitä anomusehdotuksessa esitetään, 
+          perustuslakiwaliokunta kunnioittaen ehdottaa, että eduskunta päättäisi pyytää hallitusta ryhtymään niihin walmistawiin toimenpiteisiin, jotka owat tarpeen, että eduskunta woisi täyttää 
+          eduskunnalle hallitusmuodon 38 pykälän nojalla kuuluwan welwollisuuden mahdollisimman pian toimittaa kuninkaan waalin.</p>
+        <p>Wastalauseen ilmoittiwat edustajat Ståhlberg, Alkio, Wuorimaa, Nuutilainen, Kokko, Erkko ja Björk sekä toisen edustaja Pennanen.</p>
+      </Article>
+
+      <div className="interTitle">13.8.1918</div>
+      <Article titleText="Eduskunnan kokoontuminen.">
+        <h5>Kuninkaanwaali.</h5>
+        <p>Eduskunta kutsuttanee ylimääräisille waltiopäiwille syyskuun alkupäiwinä tai mahdollisesti jo t. k. 27 pnä toimittamaan kuninkaanwaalia. Kutsumuksen antaa waltionhoitaja käskykirjeellä. 
+          — Mahdollisesti tulee ylimääräisillä waltiopäiwillä esille toinenkin tärkeä asia.</p>
+      </Article>
+      <Article titleText="Hallitusmuotokysymyksen ratkaisu.">
+        <p>Se kohtalo, joka tuli hallitusmuotokysymyksen osaksi eduskunnan wiime keskiwiikkoisessa istunnossa, siirsi kysymyksen tielle, jota ei ollut mahdollinen wälttää, jos mieli pelastaa maa. 
+          Kun hallitusmuotokysymys huolimatta siitä, että suuri osa ennen tasawaltaa kannattaneista edustajista oli hetken wakawuuden ja wälttämättömyyden edessä antaneet kannatuksensa monarkialle, 
+          wähemistön itsepintaisen wastarinnan wuoksi kuitenkin tällä kertaa raukesi, ei eduskunnan seuraawana päiwänä pitämässä istunnossa, sen edeswastuun tuntewa enemmistö woinut muuta, kuin 
+          noudattaen w. 1772 wuoden hallitusmuodon tämän tapaisen tilanteen johdosta antamaa määräystä ryhtyä kuninkaanwaaliin.</p>
+        <p>Se päättäwä menettely, joka eduskunnan on johtanut tähän päätökseen, on omiaan luomaan toiwoa, että maamme wihdoinkin pääsee siitä turwattomuuden ja epäwarmuuden tilasta, joka täällä 
+          olisi tullut jatkumaan niin kauan kuin maan tärkein kysymys olisi ollut ratkaisua wailla. Walittaa wain täytyy, ettei tässä kysymyksessä saatu aikaan sellaista yksimielisyyttä, että 
+          maahamme olisi woitu saada parempi, enemmän nykyistä aikaa wastaawa hallitusmuoto, sensijaan kun nyt toistaiseksi tulee woimassa olemaan hallitusmuoto, joka monessa suhteessa on 
+          wanhentunut ja alkuaankin wallankumouksen tuotteena syntyneenä omaa tämäntapaisille tuotteille ominaiset yksipuolisuudet. Suurimman edeswastuun tästä kantaa eduskunnan wähemmistö, joka 
+          itsepintaisesti pitämällä kiinni siitä, minkä ajattelewa järki osotti mahdottomaksi, noudatti samaa „kaikki tai ei mitään” politiikkaa, joka tähän asti on ollut maamme sosialisteille 
+          ominaista ja joka maallemme on jo niin paljon pahaa ennättänyt matkaansaattaa. Onhan kuitenkin toisaalta, kuten senaattori Setälä torstain istunnossa pitämässään arwokkaassa puheessa 
+          esitti, wanhakin hallitusmuoto on ollut tukemme ja turwamme raskaina aikoina ja me woimme kehittämällä sitä kyllä tulla toimeen, waikkakin maallemme olisi ollut werrattomasti suuremmaksi 
+          onneksi, jos täällä olisi woitu osottaa sellaista yksimielisyyttä ja waltiotaluowaa woimaa, jotta me olisimme woineet saada aikaan ajanmukaisemman hallitusmuodon.</p>
+        <p>Arpa on kuitenkin jo heitetty, eiwätkä mietiskelyt siitä, mikä olisi ollut parempi, hyödytä enään mitään. Pääasia on, että isänmaa pelastuu. Katse on suunnattawa eteenpäin ja 
+          itsenäisyytemme turwaksi on hankittawa, kuten senaatin warapuheenjohtaja Paasikiwi lausui eninkin woimanlisä, joka on omiaan sitä tukemaan. Ja kun Suomen eduskunta muutaman wiikon päästä 
+          kokoontuu walitsemaan Suomelle omaa kuningasta, on toiwottawaa että siksi saadaan mies, jonka persoonassa me woimme nähdä kansamme parhaitten ominaisuuksien woimakkaan kantajan ja 
+          kehittäjän. Toiwoa sopii ja uskoa tulee, että rikkinäinen kansamme on ehjistywä oman kuninkaan kansallisessa ja isänmaallisessa hengessä meidän asioitamme johtaessa ja että kansastamme 
+          kerrankin tulee henkisesti kehittynyt ja taloudellisesti wauras itsenäinen Suomen kansa, joka tekee parhaansa yhteiseksi hywäksi. Silloin meidän kansasta tulee suuri ja jalo Suomen kansa, 
+          jollaiseksi parhainpina hetkinämme sitä olemme uneksineet, waikka tässä käsityksessä olemme tähän asti mitä katkerimmin pettyneet.</p>
+      </Article>
+
+      <div className="interTitle">15.8.1918</div>
+      <Article titleText="Kuninkaan waali.">
+        <h5>Onko se laiton ja wallankaappaus.</h5>
+        <p>Ne kaksi wäitettä, jotka eduskunnan pienen tasawaltalaisen wähemmistön taholta on tehty kuninkaanwaalin toimittamista wastaan eduskunnassa ja joita luultawasti nyt tullaan useasti 
+          toistamaan, owat että kuninkaanwaali on laiton ja että se sisältää wallankaappauksen. Kun nämä wäitteet sisältäwät yhtä raskaan kuin wäärän syytteen eduskunnan kuningasmielistä 
+          enemmistöä ja sen takana olewia kansalaisia wastaan, on isänmaan ystäwän syytä olla selwillä, mistä on kysymys.</p>
+        <p>Kuninkaanwaalin laittomuutta perustelewat sen wastustajat sillä, että eduskunta wiime jouluk. 6 p:nä olisi muka julistanut Suomen hallitusmuodoltaan tasawallaksi ja että Suomi sen 
+          johdosta olisi nyt tasawalta, jolle ei kuningasta siis woi walita. Kuten sanottu, on tämä wäite wallan wäärä. Eduskunnan mainittuna päiwänä tekemä päätös kuuluu nimittäin: „Sen johdosta 
+          että hallitus on tehnyt eduskunnalle esityksen uudeksi hallitusmuodoksi, joka on rakennettu sille pohjalle, että Suomi on riippumaton tasawalta, eduskunta korkeimman wallan haltijana 
+          päättää puolestaan hywäksyä tämän periaatteen j. n. e.” Tämä päätös, joka tehtiin 100 äänellä 88 wastaan, tehtiin yksinkertaisella äänten enemmistöllä eikä tapahtunut sillä tawalla ja 
+          siinä järjestyksessä kuin perustuslain muuttamisesta on määrätty. Sillä siis ei muutettu perustuslakia eikä siis siihen asti ja nyt yhä edelleen woimassa ollutta hallitusmuotoa. Se 
+          eduskunnan päätös ei edes koskenut koko wanhaa enempää kuin mitään muutakaan hallitusmuotoa kuin sitä, josta eduskunnan päätöksessä puhutaan „esityksestä uudeksi hallitusmuodoksi, joka 
+          on rakennettu sille pohjalle, että Suomi on riippumaton tasawalta” eli siis eduskunnalta toistaiseksi kokonaan käsittelemättä jäänyttä tasawaltaista hallitusmuotoehdotusta.</p>
+        <p>Asian laillisuus on siis wallan päinwastoin kuin mitä tasawaltalainen wähemmistö wäittää. Jos Suomi nyt olisi käsitettäwä tasawallaksi sen päätöksen perusteella, jonka eduskunta jouluk. 
+          6 p:nä teki, olisi eduskunnan se päätös laiton. Se olisi wallankumouksellinen eikä mikään laillinen waltioteko. Suomen julistaminen itsenäiseksi oli kyllä waltioteko, joka toteutettuna 
+          kokonaan muutti Suomen aseman ulospäin, mutta mitään wallankumouksellista muutosta maan waltiosääntöön ei eduskunta ole eksynyt tekemään.</p>
+        <p>Tästä seuraa myös, ettei eduskunnan enemmistöä, joka näkee maan ja kansan pelastuksen nyt wain kuninkaanwaalissa, woida syyttää yrityksestä kaapata waltaa kuninkaalle. Tämä syytös on 
+          wiskattawa semmoisenaan takaisin tasawaltalaiselle wähemmistölle, joka esti uuden, kansanwaltaisen monarkisen hallitusmuodon aikaansaamisen, tehden sen lisäksi huolimatta ollenkaan 
+          tärkeistä waltiollista laatua olewista tiedoista, jotka sille oli annettu ja jotka asettawat, että mainitun hallitusmuotoehdotuksen hywäksyminen olisi maalle aiwan wälttämätön, ja waikka 
+          joka päiwä nähdään ja kuullaan kuinka sisäinen epäjärjestys nostaa päänsä.</p>
+        <p>Eduskunta on nyt kuitenkin siis päättänyt ryhtyä kuninkaanwaaliin. Toiwottawaa wain on että hallituksemme maan ylen arweluttawan aseman wuoksi sekä ulos- että sisäänpäin, onnistuu pian 
+          suorittamaan ne walmistawat toimenpiteet, jotka owat tarpeen, jotta eduskunta woisi täyttää sille hallitusmuodon 38 §:n nojalla kuuluwan <span className="accent">welwollisuuden </span> 
+          mahdollisimman pian toimittaa <span className="accent">kuninkaanwaalin!</span></p>
+      </Article>
+
+
       <br></br>
       <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1918">Linkki vuosikertaan 1918</a>
     </Layout>
