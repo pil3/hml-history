@@ -711,6 +711,96 @@ const IndependencePage = () => {
           mahdollisimman pian toimittaa <span className="accent">kuninkaanwaalin!</span></p>
       </Article>
 
+      <div className="interTitle">20.8.1918</div>
+      <Article titleText="Suomen ja Wenäjän rauhanneuvottelut.">
+        <h5>Wenäläiseltä taholta saatuja tietoja.</h5>
+        <p>Deutsche Tageszeitungissa on seuraawa Pietarin Sähkösanomatoimiston lähettämä lennätintieto:</p>
+        <p><span className="accent">Moskowa</span>, elok. 10 p.<br />Poliittis-juriidisen komissionin toisessa istunnossa elok. 6 p. esitti suomalainen waltuuskunta seuraawat waatimukset: Suomi 
+          wapautetaan kaikista welwollisuuksista, etenkin mitä waltiowelkoihin tulee. Wenäjän on korwattawa Suomen osuus siitä wahingosta, jonka wenäläiset joukot Suomen itsenäisyyden tultua 
+          tunnustetuksi owat sille aiheuttaneet. Wenäjän waltion omaisuus on luowutettawa, samoin Suomen waltion omaisuus Suomelle. Sellaisesta kiinteimistöstä, josta sitä aikanaan hankittaessa on 
+          suoritettu maksu, on maksu suoritettawa. Kaikki Suomessa olewa Wenäjän sotalaitoksen omaisuus sekä laiwat siirtywät Suomelle ilmaiseksi.</p>
+        <p>Elok. 8 p. pidetyssä poliittis- juriidisen sekä taloudellisen komissinin yhteisessä neuwottelussa Suomen waltuuskunnan esityksestä ja siihen annetusta Wenäjän wastauksesta, suostui 
+          wenäläinen waltuuskunta siihen, ettei Suomen ole otettawa osaa Wenäjän waltiowelkoihin. Kuitenkin waati se, että Suomen on suoritettawa osa sotamenoista, yhtä suuri prosenttimäärä, kuin 
+          se, jolla Suomi on ottanut osaa Wenäjän sotilasmenojen suorittamiseen.</p>
+        <p>Suomalainen waltuuskunta hylkäsi tämän waatimuksen ja kysymys jäi awoimeksi.</p>
+        <p>Myöskin niiden wahinkojen korwaamista, joita kansalaissodan aikana on aiheutettu Suomessa, koskewasta kysymyksestä eiwät waltuuskunnat woineet päästä yksimielisyyteen, koska Suomen 
+          taholta kieltäydyttiin korwaamasta Wenäjän waltion ja sen laitosten kärsimiä wahinkoja.</p>
+        <p>Suomalainen waltuuskunta nojasi yhä edelleen siihen, että Suomi ja Wenäjä oliwat olleet sodassa keskenään, mitä käsitystä wenäläinen waltuuskunta mitä jyrkimmin wastusti.</p>
+      </Article>
+
+      <div className="interTitle">29.8.1918</div>
+      <Article titleText="Suomen kuningaswaali.">
+        <h5>Saksalaisten lehtien tietoja.</h5>
+        <p>Berlin, 23. 8. „Berl. Lok.-Anzeigerille” ilmoitetaan asiantuntewalta taholta, että keisarin tiedonannon mukaan ei kukaan Hohenzollernprinssi saa astua Suomen waltaistuimelle. 
+          Mecklenburgin herttuan Adolf Friedrichin ehdokkuuden ohella on eräs toinen ehdokas, jonka nimeä lehti ei mainitse, wiime hetkessä wakawasti tullut kyseeseen tässä kuningaswaalissa. Että 
+          herttua Adolf Friedrich joutuu enemmän syrjään, johtunee juonitteluista, joihin emme tällä hetkellä tahdo lähemmin koskea. Aiheena lienewät puhtaasti mieskohtaiset seikat eikä asian 
+          harrastus. Wiimeistä sanaa ei ole wielä lausuttu. Herttua ei ole wielä ilmoittanut, ottaisiko hän wastaan Suomen waltaistuimen.<br />- Köningsb. Hart. Ztg.</p>
+      </Article>
+
+      <div className="interTitle">3.9.1918</div>
+      <Article titleText="Kuningasvaali.">
+        <h5>Herttua Aadolf Friedrich ei suostu Suomen kuninkaaksi.</h5>
+        <p><span className="accent">Berliini</span>, 28. 8.<br />Sw. T. Mecklenburgin herttua Adolf Friedrich ilmoittaa Wolffin toimistolle, että hänen nimensä on wäärin asetettu Suomen 
+        kuningasehdokkuuden yhteyteen. Waikka ensi aluksi suomalaiselta taholta onkin käännytty hänen puoleensa, ei herttualla ole mitään tekemistä kaikkien näiden kombinationien kanssa. Jos häneen 
+        mahdollisesti tulisikin waali kohdistetuksi, ei hän katso olewansa tilaisuudessa waalia hywäksymään.</p>
+        <p><span className="accent">Tukholma</span>, 29. 8.<br />Nya Dagligt Allehanda leimaa herttua Adolf Friedrichin kieltäytymisen waikeaksi iskuksi Suomen monarkisteille. Lehti pitää 
+        mahdollisena, että eduskunnan mielipiteiden hajaannus ja tasawaltalaisten puheet wallankaappauksesta owat tehneet herttuaan waikutuksensa. Mahdollisesti hän ei myöskään ole katsonut 
+        woiwansa suostua sowitteluihin hallitusmuodon laatimisesta kansanwaltaiseen suuntaan, jolloin hallitsijan asema tulisi jokseenkin samaksi kuin Norjan kuninkaan. Suomen Saksassa olewa 
+        kuningaslähetystö saa nyt kääntyä toiselle taholle, mahdollisesti jonkun Hohenzollernprinssin puoleen.</p>
+      </Article>
+
+      <div className="interTitle">5.9.1918</div>
+      <Article titleText="Kuninkaan vaali.">
+        <h5>Kuningaslähetystön tiedonanto Saksan lehdille.</h5>
+        <p><span className="accent">Berlini</span>, elok. 31 p.<br />Berlinissä nykyään oleskelewa suomalainen lähetystö kuninkaanwaalin walmistamista warten antaa muutamissa päiwälehdissä olleitten 
+          harhaanjohtawien kirjoitusten johdosta seuraawat tiedot:</p>
+        <p>Ei wastaa tosiasioita tieto, että pian kokoontuwa Suomen eduskunta tulisi wasta säätämään perustuslait kuninkaanwaalia warten. Eduskunta pyysi elok. 9 pnä hallitusta ryhtymään 
+          walmistawiin toimenpiteisiin, jotta käwisi mahdolliseksi täyttää eduskunnalle kuuluwa welwollisuus ryhtyä mahdollisimman pian kuninkaanwaaliin. Tämän päätöksen kautta on eduskunta 
+          määrännyt, että kuninkaanwaali on olewa riippumaton wiime aikoina usein mainitun hallitusmuotoehdotuksen hywäksymisestä.</p>
+        <h5>Adolf Friedrich ei ole kieltäytynyt wastaanottamasta Suomen kruunua.</h5>
+        <p>Tieto Mecklenburgin herttuan Adolf Friedrichin kieltäytymisestä wastaanottamasta kruunua peruutetaan.</p>
+        <h5>Toiweet hywät.</h5>
+        <p>Ulkoasiaintoimituskunnan pääliitto, senaattori Stenroth, joka äsken palasi on Hbl:n tiedusteluun wastannut, ettei ole mitään syytä lewottomuuteen sen johdosta, että kuninkaan waali 
+          wiiwästyy eikä liioin Saksan sanomalehtien eri suuntiin käywien lausuntojen johdosta. On olemassa mitä parhaat toiweet siitä, että suuri kysymyksemme saa niin tyydyttäwän ratkaisun kuin 
+          toiwoa woimme. Että wiiwytyksiä tulisi olemaan, sen saattoi arwata jo edeltäpäin, sillä tämäntapaisia kysymyksiä ei ratkaista kädenkäänteessä.</p>
+      </Article>
+
+      <div className="interTitle">12.9.1918</div>
+      <Article titleText="Suomen kuningaskysymys ratkaistu.">
+        <h5>Hessenin prinssi Friedrich Karl suostunut ottamaan wastaan Suomen kruunun.</h5>
+        <p>Saamamme tiedon mukaan on Suomen kuningaskysymys saanut ratkaisunsa siten, että Hessenin prinssi Friedrich Karl on suostunut wastaanottamaan Suomen kruunun.</p>
+        <p>Tämän johdosta antaa waltionhoitaja waltiopäiwäin kokoonkutsumisjulistuksen ja tulewat waltiopäiwät kokoontumaan kuninkaanwaalia warten t. k. 26 päiwänä.</p>
+        <h5>*</h5>
+        <p>Prinssi Friedrich Karl on syntynyt toukokuun 1 pnä 1868 ja on naimisissa keisari Wilhelmin sisaren Margarethan kanssa, joka on syntynyt huhtik. 22 pnä 1872. Heidän awioliitostansa on 
+          syntynyt kuusi poikaa, joista kaksi on maailmansodassa saanut sankarikuoleman. Jälellä olewat owat kaksoispareja. Wanhemmat heistä prinssit Filip ja Wolgang owat syntyneet 6 p. marrask. 
+          1896. Näistä on prinssi Filip'illä wanhemman weljen oikeus.</p>
+        <p>Nuoremmat weljet, prinssit Richard ja Kristoph owat syntyneet toukok. 14 p. 1901.</p>
+      </Article>
+
+      <div className="interTitle">14.9.1918</div>
+      <Article titleText="Walmistelutöitä kuninkaan vastaanottoa varten.">
+        <p>Walmistelutöitä entisessä keisarillisessa linnassa suoritetaan nykyään suurella kiireellä. Näinä päiwinä tulee ulkoasiain ministeriö siirtymään nykyisestä linnassa sijaitsewasta 
+          huoneustostaan, jonka jälkeen siinäkin suoritetaan tarpeelliset korjaustyöt. Ulkoasiain toimituskunta muuttaa nykyiseen oikeusosaston huoneustoon senaatin talossa. Oikeustoimituskunta 
+          siirtynee ritarihuoneelle.</p>
+        <p>Entinen linnan kappeli järjestetään parhaillaan kuninkaan kirjastohuoneeksi ja ostetaan kirjaston laskuun erikielisiä kirjoja.</p>
+        <p>Keisarien muotokuwat, jotka nykyään owat senaatin täysi-istuntosalissa, siirrettänee waltaistuinsaliin ja lienee tarkoituksena waltaistuinsaliin hankkia myöskin hallitsijain kuwat siltä 
+          ajalta, jolloin Suomi oli yhdistettynä Ruotsiin.</p>
+        <p>Mikäli Hbl. on kuullut ollaan aikeissa ostaa Helsingin wälittömästä läheisyydestä maatila kuninkaallisen perheen asuntopaikaksi.</p>
+      </Article>
+
+      <div className="interTitle">17.9.1918</div>
+      <Article titleText="Prinssi Friedrich Karl haluaa oppia suomea.">
+        <p>Lauantaina illalla matkusti tri Harri Holma erityisestä kutsusta Saksaan, opettamaan prinssi Friedrich Kaarlelle suomenkieltä.</p>
+        <p>Tri Holman oleskelu Saksassa on laskettu kestäwän noin 4 —6 wiikkoa.</p>
+      </Article>
+      <Article titleText="Suomen ja Venäjän välit.">
+        <h5>Kansankomissarien neuwosto sowinnollisen politiikan kannalla.</h5>
+        <p><span className="accent">Moskowa</span>, 11. 9. (STT)<br />Kansankomissarien neuwosto käsitteli istunnossaan ennen Trotskin Pietarinmatkaa kysymystä Wenäjän ja Suomen wälisten suhteiden 
+          järjestämisestä ja päätti pitemmän keskustelun jälkeen hywäksyä sowinnollisen politiikan. Wenäjän ja Suomen wälillä syntyneiden erimielisyyksien poistamiseksi päätettiin lähettää 
+          erityinen lähetystö Helsinkiin. Lähetystön tulee Suomen hallituksen kanssa neuwotella kaikista riidanalaisista kysymyksistä yksimielisyyden saawuttamiseksi ja ennen kaikkea rajalinjan 
+          aikaansaamiseksi.</p>
+      </Article>
+
 
       <br></br>
       <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1918">Linkki vuosikertaan 1918</a>

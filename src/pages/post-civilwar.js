@@ -766,6 +766,373 @@ const PostCivilWarPage = () => {
           Siltasen etunimen he ilmoittiwan olewan Eetu eikä Toiwo.</p>
       </Article>
 
+      <div className="interTitle">20.8.1918</div>
+      <Article titleText="Matkun aseman luona murhatut Mustialan oppilaat.">
+        <h5>Werityön johtajat saatu selwille.</h5>
+        <p>Ylikonstaapeli Jahn ja konstaapeli Alkio Forssasta owat saaneet selwille helmik. 4 pnä Matkun aseman lähellä tapahtuneen 4 Mustialan oppilaan murhan johtajat. Yksi heistä on elossa. 
+          Häntä säilytetään Riihimäen sotawankilassa. Murhaajat owat olleet forssalaisia ja owat muut heistä jo saaneet tuomionsa. Murhatut oli ensin riisuttu alasti ja oli heitä tässä tilassa 
+          kieritetty lumessa kowassa pakkasessa. Tämän jälkeen oliwat murhamiehet lopettaneet uhriensa tuskat ampumalla.</p>
+      </Article>
+      <Article titleText="Wenäjälle paenneet punikkimme.">
+        <h5>Suomalainen työmies kertoo heidän hommistaan.</h5>
+        <p><span className="accent">Tukholma</span>, elok. 15 p.<br />„Socialidemokraten”-lehdelle on eräs suomalainen työmies antanut Wenäjällä olewia suomalaisia koskewia tietoja. Hän kertoo 
+        heitä paenneen Wenäjälle enintään kahdeksan tai kymmenen tuhatta. Joku osa on lähetetty Baihin, joka on parin wuorokauden matkan päässä Pietarista. Siellä on maanwiljelyssiirtola 
+        samoinkuin Perminkin tienoilla. Useain pakolaisten oloja ei ole saatu järjestetyksi. Tokoi on tehnyt matkoja Arkangelin seuduille teollisuussiirtolain, etupäässä sahatyömiessiirtolain 
+        perustamista warten. Ei ole tiedossa, miten pitkälle nämä puuhat owat edistyneet. — H. S.</p>
+      </Article>
+
+      <div className="interTitle">22.8.1918</div>
+      <Article titleText="Punaisemme ja englantilaiset Muurmanilla.">
+        <h5>Rahja wärwännyt Pietarista englantilaisten riweihin 10,000 suomalaista.</h5>
+        <p>Antreassa wakoilusta epäiltynä pidätetyt Kawitsa ja Järwimäki, owat kertoneet Eino Rahjan wärwänneen joku aika ennen heidän lähtöään Suomeen Pietarissa noin 10,000 suomalaista 
+          punakaartilaista retkeä warten Muurmanniin. Rahja olikin wienyt miehet perille, palaten itse Pietariin ja jätti ne englantilaisille, jotka oliwat pistäneet ne riweihinsä.</p>
+        <p>Rahjan saawuttua Pietariin oli hänen ja wenäläisten „towerien” kesken syntynyt tästä ankara kahakka, olipa — kertoiwat miehet — Rahjan henkeäkin jo uhattu, kun hänen oli katsottu 
+          pettäneen yhteisen asian awustaessaan englantilaisia, jotka owat neuwostotasawallan wihollisia. Miten lieneekin, oli Rahja kuitenkin saanut myrskyn tyyntymään, mutta hänen oli täytynyt 
+          tehdä julkinen anteeksipyyntö.</p>
+        <h5>Eero Haapalainen punikkien päällikkönä.</h5>
+        <p>„Nya Dagligt Allehanda” kertoo: Englannin täällä olewa lähettiläs on äskettäin eräässä tiedonannossa kumonnut huhun, että englantilaiset joukko-osastot Muurmanin radan warrella 
+          olisiwat yhteistoiminnassa Suomen punakaartilaisten kanssa. Pietarista sähkötetään nyttemmin, että Suomen punaisten ylipäällikkö Eero Haapalainen komentaa nykyään suomalaista 
+          joukko-osastoa ja ottaa osaa englantilaisten sotatoimiin Muurmanin rannikolla. (ISUT)</p>
+      </Article>
+      <Article titleText="Punaiset karkurit weritöissä.">
+        <h5>Ampuneet ja pahoinpidelleet pidättäjäänsä.</h5>
+        <p>Maanantaina aamulla ½6 tienoissa huomasi ratawartija Karl Koskelan poika Sulo Koskela kolmen epäillyttäwältä näyttäwän miehen liikuskelewan Herralan—Järwelän rataosalla, n. 3 km. päässä 
+          Herralasta. Ajatellen miesten olewan jostakin, ehkä Hennalasta karanneita punakaartilaisia pysäytti Koskela heidät, aikoen wiedä miehet tutkittawiksi. Nämä salliwatkin Koskelan tulla 
+          lähelleen, mutta kun tämä aikoi ryhtyä ruumiintarkastukseen, ottaakseen pois miehiltä mahdollisesti löytywät aseet, tempasiwat nämä yht'äkkiä rewolwerit taskustaan, alkaen kiiwaasti 
+          ampua Koskelaa. Samalla hyökkäsiwät he tämän kimppuun, kolhien jollakin teräaseella pidättäjänsä tainnoksiin. Näin wapauduttuaan wastustajastaan, pakeniwat roistot lähimetsikköön, wieden 
+          Koskelan kiwäärin ja ampumatawarat mukanaan.</p>
+        <p>Heti tapahtumasta tiedon saatuaan, ryhtyi Herralan suojeluskunta tarmokkaisiin toimenpiteisiin karkureitten wangitsemiseksi. Takaa-ajon tuloksista ei meillä wielä ole lähempiä tietoja. 
+          Muuten on samoilla seuduilla ennenkin huomattu roistonnäköisiä miehiä, warmastikin punikkikarkureita liikuskelewan.</p>
+      </Article>
+
+      <div className="interTitle">29.8.1918</div>
+      <Article titleText="Punakaartilaisvangit.">
+        <h5>Jälleen suuri murhamies karkuteillä.</h5>
+        <p>Hämeelinnan wankileiristä on tuntemattomalla ajalla karannut punakaartilaiswanki Kalle Edward Lehtinen Lohjan pitäjän Wirkkalan kylästä synt. 1895. Lehtinen on ollut osallisena 
+          työnjohtaja Strandströmin murhaan Lohjalla ja sitä paitsi on hän ollut Riihimäen joukkomurhissa osallisena. Hänen asiansa on ollut käsiteltäwänä waltiorikosoikeuden 44:nnessä osastossa. 
+          T. k. 22 p:nä kun asia piti olla uudelleen esillä ei Lehtinen ollut saapunut oikeuteen ja tiedusteltaessa syytä tähän wankileiristä wastattiin, että Lehtinen on lähetetty Poltinahon 
+          sairaalaan, mistä häntä etsiskelyistä huolimatta ei löydetty.</p>
+        <p>On kuulunut lausuttawan moitteita siitä, että tällaisten suurten rikollisten wartiointi ei ole ollenkaan tyydyttäwällä kannalla. On kerrottu, että esim. pidetään suuria murhamiehiä 
+          wapaasti töissä toisten wankien kanssa ja yleensäkin on Poltinaholla wartioiminen järjestetty huonolle kannalle. Olisi syytä wiranomaisten puuttua asiaan, että edes tällaiset suuret 
+          pahantekijät saataisiin pysymään telkien takana.</p>
+      </Article>
+      <Article titleText="Punakaartilaisten yhteistoiminta Englantilaisten kanssa.">
+        <h5>Suomalaisten bolshewikien keskuskomitean julistus Muurmanilla olewille suomalaisille.</h5>
+        <p>Sanomalehdissä on kerrottu suomalaisten punakaartilaisten olewan yhteistoiminnassa englantilaisten kanssa Muurmanin rannikolla. Samoin on aikoinaan kerrottu Wenäjän neuwostowiranomaisten 
+          waatineen Wenäjälle paenneilta punasten johtajilta selitystä tämän johdosta. Nähtäwästi tästä johtuu, että Moskowassa olewa „Suomalaisten sosialidemokraattien ulkomaisen järjestön 
+          keskuskomitea” on antanut julistuksen Muurmanilla olewille suomalaisille. Se on m. m. julkaistuna tänne saapuneessa tukholmalaisessa „Wiesti”-lehdessä ja sanotaan siinä m. m.:</p>
+        <p>Ei woi olla mitään yhteyttä wallankumouksellisella köyhälistöllä enemmän englantilais-ranskalaisen kuin saksalaisenkaan imperialismin ryöstöpyyteiden ja niistä johtuwien sotatoimien 
+          kanssa. Niiden walankumousystäwällisyys on pelkkää walhetta.</p>
+        <p>Näin ollen, olkoon jokaisen suomalaisen wallankumouksellisen ja entisen suomalaisen punakaartilaisen ehdoton welwollisuus luopua heti, ellei wielä ole sitä tehnyt, englantilaisten 
+          imperialistien sotajoukoista, pysyäkseen uskollisena sille asialle, jota wallankumousliikkeessä on tahdottu palwella.</p>
+        <p>On rikos kansainwälistä työwäenliikettä ja wallankumouksellista sosialismia wastaan, pienimmälläkään tawalla, edes wälillisesti awustaa minkään maan imperialistien taistelua Wenäjän 
+          Sosialistista Neuwosto Tasawaltaa wastaan, päinwastoin on meidän suomalaistenkin osaltamme awustettawa ja tuettawa Wenäjän proletariaatin ja talonpoikaisköyhälistön waltaa.</p>
+      </Article>
+      <Article titleText="Suomen Pankin H:linnan konttorin johtajain murha.">
+        <h5>Murhamiehet saatu selwille.</h5>
+        <p>Wangittuja kuulusteltaessa waltiorikosoikeudessa Hämeenlinnassa on muuan heistä kertonut nähneensä erään Kalle Wirtasen ja Sahrmanin kulettawan „kahta Hahkialan herraa” Hauhonselän 
+          jäälle. Miehet oliwat sanoneet wiewänsä mainitut herrat Hämeenlinnaan. Tunnin kuluttua palasiwat miehet kuitenkin takaisin, jolloin Wirtasella oli yllään toisen wangitun palttoo.</p>
+        <p>Kuten tunnettua löydettiin pankinjohtaja B. Sundgrenin ja kasööri H. Bummeruksen ruumiit sittemmin eräästä Hauhonselän saaresta.</p>
+      </Article>
+      <Article titleText="Kuolemaan tuomittu murhaaja.">
+        <h5>Parooni Carpelanin ja insinööri Niskan murhaaja tuomittu.</h5>
+        <p>Waltiorikosoikeuden 132 osasto on t. k. 24 pnä tuominnut yhden parooni Carpelanin ja insinööri J. S. Niskan murhaajista, seppä Yrjö Lindbergin, Sääksmäeltä, kuolemaan.</p>
+        <p>Mainitut herrat oli wangittu 15 pnä wiime huhtikuuta Walkeakoskella, josta heidät kuletettiin Riihimäelle ja säilytettiin siellä 3 luokan odotussalissa. Huhtik. 17 pnä klo 11 ap. wietiin 
+          heidät metsään, noin 500 m. Riihimäen asemalta ja noin 200 m. Helsinkiin menewästä rautatiestä wasemmalle. Wangittuja oli saattamassa paitsi mainittu Lindberg, Kalle Wallden, Einari 
+          Anttila, Aatto ja Lauri Holm ja Liisa Lauren sekä jonkinlaisena päällikkönä Leppä niminen mies.</p>
+        <p>Metsässä asetettiin wangit walmiiksi kaiwetun matalan kuopan partaalle. Mainittu Leppä kysyi tässä wangituilta: „Kuinka monta ihmistä he oliwat tappaneet ja kuinka monta he tulisiwat 
+          tappamaan, elleiwät he itse tulisi tapetuiksi?”.</p>
+        <p>Tähän ei parooni Carpelan wastannut mitään, insin. Niska wastasi „ei yhtään”.</p>
+        <p>Tämän jälkeen komensi Leppä wahteja tähtäämään ja laukaisemaan, kun hän on laskenut kolmeen. Wahdit asettuiwat kaikki ampuma-asentoon ja Lepän komennettua ampuiwat wangit 
+          yhteislaukauksella. Sen jälkeen ryöstettiin ruumiit, jolloin tuomittu Lindberg otti Carpelanin sormesta sormuksen ja antoi sen Liisa Laurenille. Rahat, 3000 mk., jaettiin tasan. Ruumiit 
+          peitettiin kiwillä, risuilla ja sammalilla.</p>
+        <p>Lindberg tunnusti täydellisesti osallisuutensa murhaan ja sanoi tähdänneensä ja ampuneensa insinööri Niskaa.</p>
+      </Article>
+
+      <div className="interTitle">31.8.1918</div>
+      <Article titleText="Suomen „walkoinen terrori” todellisuudessa.">
+        <h5>Toisenlaisiakin ääniä Ruotsissa.</h5>
+        <p><span className="accent">Tukholma</span>, elok. 27 p.<br />Eräs „Stockholms Tidningenin” aputoimittajista, joka on käynyt Helsingissä, on lähettänyt lehdelleen pitkänlaisen kirjoituksen, 
+          jossa hän tekee selkoa siitä, minkälainen „walkoinen terrori” todellisuudessa on. Kirjoituksessa todetaan, toimitettujen tutkimusten perusteellä, että on epäoikeutettua puhua „walkoisen 
+          hirmuwallan” yleensä olewan Suomessa wallalla. Useita toisen loukkauksia on tapahtunut woittojen alkaessa, mutta nykyisin on hawaittawissa aiwan selwä pyrkimys kohdella wankeja niin hywin 
+          kuin asianhaarat salliwat. Näitä synkkien tunteiden ihmisiä nähdessään käy kowasti sydämelle, mutta on muistettawa, että heidän taistelunsa oli laiton ja että sitä käytiin hirweällä 
+          tawalla, ja ymmärtää, ettei yhteiskunta woi antaa armon käydä oikeuden edellä.</p>
+        <p>Kirjeenwaihtaja asettuu wastustamaan sitä kiihoitusta, jota Ruotsissa harjoitetaan „walkoista terroria” wastaan, mutta kehoittaa samalla Suomen sanomalehtiä lakkaamaan liioittelemasta 
+          Suomea wastaan kohdistuwaa ajatussuuntaa. Ei pitäisi koettaa juurruttaa sitä mielipidettä, että Ruotsin ruotsalaiset yleensä muka owat kiukuissaan. Tämä osoittaa wain että ollaan tuskin 
+          perillä siitä, mitä kirjoitetaan. — H. S.</p>    
+      </Article>
+      <Article titleText="Kuolemaan tuomittu Walkeakosken murhamies.">
+        <p>2 pnä t. k. tuomittiin Waltiorikosoikeudessa Hämenlinnassa työmies Lauri Martin, Hywinkään komppaniasta, joka toimeenpani Sääksmäen pitäjässä Walkeakoskelaisten joukkomurhan. Tuomittu 
+          oli ensiksi ampumassa 7 henkilöä, joista ampui yhden. Sitten oli hän mukana ampumassa eräässä saaressa 10 henkilöä, joista tuomitun ammuttawana ollut pastori Mustala pääsi karkuun. 
+          Tuomittu ampui pastori Mustalan perään pari laukausta. Wielä samana päiwänä oli tuomittu erään toisen punakaartilaisen kanssa ryöstämässä Konhon kartanoa, jossa rouwa oli pakoitettu 
+          antamaan heille m. m. 1000 markkaa rahaa. Poistuessaan weiwät he mukanaan omistajan, yli 60-wuotiaan herra Ollenbergin, jonka tuomittu ampui kilometrin päähän kartanosta. Kaikki ammutut 
+          ruumiit ryöstettiin melkein paljaiksi. Lopuksi komppania perääntyessään poltti Metsäkansan kylän Sääksmäellä. Martin tuomittiin waltiopetoksesta 8 wuodeksi ja murhayrityksestä 10 wuodeksi 
+          kuritushuoneeseen sekä kahdesta murhasta kummastakin kuoleman ramgaistukseen eli kerta kaikkiaan kärsimään kuolemanrangaistuksen ja menettämään kansalaisluottamuksensa ainiaaksi.</p>
+      </Article>
+      <Article titleText="Kuolemaan tuomittu hattulalainen.">
+        <p>Waltionrikosoikeuden 46 osasto tuomitsi wiime keskiwiikkona kuolemaan torpanpoika Juho Kustaa Salimäen, Hattulan pitäjän Pelkolan kylästä, waltiopetoksesta sekä sen yhteydessä tehdystä 
+          murhasta ja ryöstöstä.</p>
+      </Article>
+      <Article titleText="Punakaartilaisjulmurit työssään.">
+        <h5>Käsipommi heitetty suojeluskunnan päällikön makuuhuoneeseen.</h5>
+        <p>Tiistaiyönä kello 10 minuuttia wailla 12 heittiwät wapaudessa olewat punakaartilaiskapinalliset käsipommin Sammatin pitäjän Ruskolan kylässä Löfkullan taloon siihen huoneeseen, missä 
+          talon isäntä Juho Wannas, joka on Sammatin suojeluskunnan johtaja, nukkui puolisonsa ja kolmen lapsensa kera.</p>
+        <p>Pommi heitettiin wuoteen wastapäätä olewan seinän ikkunasta sisään ja räjähti se sängyn alla surmaten emännän, jonka yläruummiin se hirwittäwästi ruhjoi. Isäntä sitäwastoin pelastui 
+          onnellisesti; häneltä haawoittui ainoastaan toinen puoli kaswoista. Samoin säilyiwät hengissä kaikki kolme lastakin; muorin heistä kuitenkin haawoittui liewästi.</p>
+        <p>Pommin räjähdys aiheutti huoneessa täydellisen häwityksen, rikkoen akkunat ja huonekalut ja repien paikoiltaan owet yhyksineen.</p>
+        <p>Samalla kun pommi räjähti, sytytti se tulipalon. Talon isäntä sai kuitenkin tulipalon sammutetuksi awuksi rientäneen wäen kanssa.</p>
+        <p>Tapahtuman ilmoitti isäntä puhelimella poliisille, joka muutamien suojeluskuntalaisten kanssa saapui paikalle ja ryhtyi toimittamaan tutkimusta. Konnnantyöntekijöitä ei enää tawattu, 
+          mutta paikalle saapuneet ihmiset kertoiwat nähneensä lähistöllä tullessaan useita epäilyttäwiä miehiä.</p>
+        <p>Miltä taholta tämä teko on lähtöisin, siihen wiittaawat sanat, jotka oli lyijykynällä kirjoitettu liiterin seinään kiinnitetylle lapulle: „Tässä pyydetään warottamaan paikkakunnan 
+          lahtareita, että jollei päästetä wapaaksi wankeja ja pakkotyöläisiä, miin tulee jokaiselle käymään samoin kuin yhdelle teidän towereistanne. Meitä on wielä wahwa kuoleman komppania. 
+          Kuusi pelkäämätöntä miestä.”</p>
+        <p>Tapahtumasta on annettu tieto ympäristöpitäjäin suojeluskunnille ja Helsinkiin, mistä on lähetetty etsiwiä ottamaan selwää rikollisista.</p>
+        <p>Maanwviljelijä Wannas on sosialistikapinan ja punakaartilaisterrorin ajalta kuuluisan Wanhankylän kartanon wanhin poika Porista. Hän on saapunut Helsinkiin saamaan hoitoa haawoilleen. 
+          Hänen puolisonsa emäntä Hulda Aleksandra Wannas, o.s. Linden, oli syntynyt 1883.</p>
+      </Article>
+
+      <div className="interTitle">3.9.1918</div>
+      <Article titleText="Sammatin verityö.">
+        <h5>Tarkempia tietoja tapahtumapaikalta.</h5>
+        <p>Eräs Sammatista saapunut henkilö on antanut tapahtumapaikalta seuraawia tietoja:</p>
+        <p>Löfkullan talon kamarin ikkunasta yöllä t. k. 28 päiwää wasten heitetty granaatti tai pommi oli tehnyt kamalaa jälkeä. Kun astui tuwasta kulmakamariin, kohtasi silmää tärisyttäwä näky. 
+          Huone oli täydellisen sekasorron wallassa. Kaikkialla werta, höyheniä (patjoista), sawun mustelmia. Granaatti, joka oli wiskattu oikeanpuolisesta ikkunasta pihalta, oli osunut aiwan 
+          sängyn päähän, päänaluspuoleen, murskaten sen repien patjat ja painaen wuoteen palaneen osan alas ja niin kowalla woimalla, että tawallista mallia olewan rautasängyn puolaraudat oliwat 
+          wääristyneet ja palaneet ruskeiksi. Wuoteessa makasi surmansa saaneen talon emännän ruumis, josta räjähdys oli murskannut pään niin ettei siitä näkynyt kuin siruja ympäri huonetta ja 
+          suuri osa aiwoja parin kolmen metrin päästä pöydältä. Molemmat ikkunat oliwat aiwan säpäleinä, samoin seinäkaapin lasiowet oikeassa ulkonurkassa ja kellon lasi kaapissa: kello oli 
+          pysähtynyt 10 waille 12. Owi wiereiseen kamariin oli ollut auki; siellä oliwat myös molemmat ikkunat rikki. Owi tupaan oli lentänyt keskelle tuwan lattiaa noin 4 m. päähän, kiskoen 
+          saranain kohdalta palaset pihtipielestä mukanaan. Ihmeellistä että pienessä kamarissa nukkuneet 3 lasta säästyiwät, lähin parin metrin päässä liewillä haawoilla. Mutta wielä 
+          ihmeellisempää, että isäntä, jonka henkeä konnantyöllä tawoitettiin, jäi henkiin werrattain liewillä waurioilla. Hänen on kai kiittäminen sitä, että oli ollut puolinukuksissa ja ikkunan 
+          pirstoutuessa heitosta hypähtänyt istumaan ajatellen jonkun konnan wiskanneen kiwen ikkunasta. Samassa oli räjähtänyt. Hänen tekonsa räjähdyksen jälkeen todistawat miehen tarmoa.</p>
+        <h5>Tutkimukset.</h5>
+        <p>Helsinkiläisen etsiwän johdolla ja poliisikoiran awulla on toimisettu tutkimuksia Sammatin pomminheittäjäin selwillesaamiseksi. Paikkakunnan suojeluskunta on pitänyt etsintöjä metsissä. 
+          Torstaina tawattiin ja wangittiin Suomusjärwen Kettulan kylän Haukkalan torpassa kaksi tunnettua punakaartilaista, Wenni Johansson ja Kalle Saarinen, joiden on siellä tähän asti 
+          onnistunut piileksiä. Kumpainenkin on Sammatin punakaartin johtajia ja osallisia moniin ryöstöihin, jota paitsi heitä epäillään syyllisiksi tuomari Newalaisen murhaan. Heitä ei ole 
+          kuitenkaan wielä woitu todistaa äskeisen pommiheiton suorittajiksi, waikkakin epäluuloja on heihin kohdistunut.</p>
+      </Article>
+      <Article titleText="Elinkaudeksi tuomitun armonanomus.">
+        <p>Eräs Lahdessa elinkaudeksi tuomittu wanki on waltiorikosylioikeudelle lähettänyt seuraawan itsekirjoittamansa armonanomuksen. Nykyisin kaikkialla liikkuwat kiihottajat saawat tästä 
+          huomata, mikä katuwa mieliala monenkin wangin on wallannut.</p>
+        <p>Anomus kuuluu kokonaisuudessaan seuraawasti:</p>
+        <p className="quote">Allekirjoittanut kääntyy tällä kirjelmällä korkeimman ylioikeuden ja isänmaan puoleen anoen armahdusta sen tuomion johdosta, jolla waltiorikosoikeus on tuominnut minut 
+          waltiopetoksesta ja osanotosta punaiseen kapinaan elinajaksi wankilaan. Jumalalta ja isänmaaltani rukoilen minä anteeksi tekoani toiwoen, että isänmaa tänä wapautensa alkuhetkenä antaisi 
+          jalon säälintunteen woittaa sen oikeutetun wihan, jota se epäilemättä tekoani kohtaan tuntee. Wäärän innostuksen wallassa ja asioita tuntematta minäkin silloin liityin mukaan tuohon 
+          joukkoon, jota wasta täällä wankilassa olen oikein oppinut ymmärtämään. Isänmaani wapautta luulin minäkin heihin yhtymällä silloin woiwani edistää. Kun nyt täältä wankilan muurien takaa 
+          ojennan kansalleni rikollisen käteni, rukoilen Ylioikeutta säälimään 5 pientä lastani ja kaikkea turwaa wailla olewaa puolisoani. Wakuutan samalla että tulen koko elämäni pyhittämään 
+          siihen sowitustyöhön, millä koetan isänmaalle palkita sitä mitä kärsimyksiä se joukko, johon minäkin kuuluin, sille aiheutti. Jalo kansa anna anteeksi rikolliselle, lahjoita lapsille 
+          jälleen isä ja äidille puoliso ja jos minulle wielä tilaisuutta suodaan, olen walmis elämäni uhraamaan poistaakseni sinulta ne kärsimykset, mitkä sinun kotiasi wielä uhannee.</p>
+        <p>E.- S. S.</p>
+      </Article>
+
+      <div className="interTitle">5.9.1918</div>
+      <Article titleText="Suurmurhamies kuollut.">
+        <p>Punakaartilaiswanki Juho Walerian Sarenius, Hausjärwen pitäjästä, joka kansalaissodan aikana oli ollut osallisena 96 murhassa etupäässä Pohjanmaan rintamanosilla, on äskettäin kuollut 
+          Lappeenrannan wankileirissä</p>
+      </Article>
+
+      <div className="interTitle">10.9.1918</div>
+      <Article titleText="Mustialan koulun oppilaiden murhaajat.">
+        <h5>Kuolemaan tuomituita.</h5>
+        <p>Mustialan Maanwiljelysopiston oppilaiden murhaajat owat nyttemmin melkein kaikki pidätetyt ja osa heistä on jo saanut tuomionsakin jälellä olewien odotellessa sitä ensi wiikolla.</p>
+        <p>Niinpä tuomitsi Waltiorikosoikeus Lahdessa (127 os.) elokuun 30 pnä seuraawat:</p>
+        <p>Aarne Johan Hietakangas Helsingistä, alaikäisenä Aarne Sohlbergin murhasta 12 wuodeksi kuritushuoneeseen ja waltiopetoksesta 3 wuodeksi. Rangaistukset yhdistettyinä 14 w. 
+          kuritushuonetta.</p>
+        <p>Ulkotyöm. Otto Einar Heinonen, Helsingistä, osallisuudesta murhiin ja waltiopetoksesta kuolemaan.</p>
+        <p>Wankileireissä säilytetään wielä wiittä tai kuutta, joiden osallisuus mustialaisten murhiin on täysin todistettu, ja sitäpaitsi wielä eräitä epäiltyjä.</p>
+        <p>Prokuraattori on antanut määräyksen, että kaikki Mustialan murhista syytetyt nyttemmin tuomitaan Hämeenlinnassa, Waltiorikosoikeuden 46 osastossa, jossa jutut tulewat esiin ensi 
+          tiistaina, keskiwiikkona ja torstaina, t. k. 10, 11 ja 12 päiwänä.</p>
+      </Article>
+      <Article titleText="Lopella piileskelevät kapinalliset.">
+        <h5>Yksi kapinallisista kaatunut takaa-ajettaessa. — Paljon warastettua tawaraa löydetty.</h5>
+        <p>Kun Lopen wiranomaiset oliwat saaneet selwille, että eräässä torpassa Topenon kylässä oleskeli suuri joukko punakaartilaisia, jotka kapinan kukistamisesta lähtien oliwat siellä 
+          piileskelleet, piiritettiin mainittu torppa torstain wastaisena yönä. Kun punakaartilaiset huomasiwat tämän, syntyi heidän keskuudessaan suuri hämminki. Waikka heillä oli kiwäärejä ja 
+          ampumatarpeita, he eiwät kuitenkaan niitä käyttäneet, mutta sen sijaan turwautuiwat pakoyritykseen. Tällöin ammuttiin yksi karkaajista kuoliaaksi, kuusi joutui kiinni ja kolme pääsi 
+          pakenemaan. Kiinni joutuneitten joukossa on m. m. eräs Collin-niminen kapinallinen, joka on ottanut osaa Lopen kirkkoherran murhaan. Joukossa oli myös punakaartilaisten esikunnan miehiä. 
+          Karkuun päässeitä ryhdyttiin takaa-ajamaan.</p>
+        <p>Torpasta tawattiin suuri warasto kaikenlaista warastettua tawaraa sekä kaksi kiwääriä ja ampumatarpeita.</p>
+        <p>Suojeluskuntalaiset ottawat osaa takaa-ajoon polisikoirien awulla.</p>
+      </Article>
+
+      <div className="interTitle">12.9.1918</div>
+      <Article titleText="Maanpetturimme Wenäjällä.">
+        <h5>„Ainoa kotimaa on Wenäjän neuwostowalta”.</h5>
+        <p>Pietarissa ilmestywä suomalaisten punikkien lehti „Wapaus” julkaisee wiime torstain numerossaan „Suomen Kommunistisen Puolueen awoimen terwehdyksen Wenäjän wallankumouksellisen punasen 
+          armeijan suomalaisille sotureille”. Siinä kehotetaan „sotureita” taistelemaan sitkeästi ja pelkäämättä, kansainwälistä kapitalismia ja imperialismia wastaan ja jatketaan sitten: 
+          „Astumalla Wenäjän wallankumoukselliseen punaseen armeijaan, olette ylewästi osoittaneet, että wallankumouksen asia on teille edelleenkin kallis ja että teillä on horjumaton usko ja 
+          luottamus wallankumouksen lopulliseen woittoon, sekä tietoisuus siitä, että wallankumouksellisen työläisen ainoana kotimaa on nyt Wenäjän sosialistinen neuwostowalta, jota on 
+          puolustettawa ja jonka lopullisen woiton hywäksi on kaikki woimat taisteluun koottawa.”</p>
+        <p>Lehti kehoittaa: „Towerit! Meidän on astuttawa taisteluriwiin nyt täällä Wenäjällä. Siinä taistelemme me kansainwälistä kapitalismia wastaan, joka on samalla taistelua porwariston 
+          diktatuurin kukistamiseksi Suomessa.”</p>
+        <p>Lehdellä on yleensä warsin oikeita tietoja oloista Suomessa, mutta ne esitetään tietenkin melkein tuntemattomiksi wäritettyinä ja wääristeltyinä. Muurmannilta tietää lehti kertoa, että 
+          kenraali Eurotin, joka johti aikoinaan Dardanellien retkeä, alapäällikkönä toimii „sosialisti-petturi” Aug. Wesley, joka koettelee suomalaisia punaisia saada taistelemaan Wenäjän 
+          neuwostowaltaa wastaan.</p>
+      </Article>
+
+      <div className="interTitle">14.9.1918</div>
+      <Article titleText="Punasten hirmutyöt paljastumassa.">
+        <h5>Urjalassa wiime helmik. 5 pnä surmattujen 5 Mustialan oppilaan murhaajat saatu ilmi.</h5>
+        <p>Niinkuin aikaisemmin on kerrottu murhattiin Urjalassa n. s. Lehmussuolla wiime helmik. 5 päiwää wastaisena yönä raa'alla tawalla wiisi Mustialan maanwiljelyskoulun oppilasta. Nyttemmin 
+          toimitetut tutkinnot, joita on johtanut Urjalan Suojeluskunnan päällikkö kauppias Armas Marttinen, owat johtaneet suotuisiin tuloksiin. Wiime elokuun 30 pnä kuulusteltiin Tampereen 
+          sotawankileirissä maatyömies L. S. Lindbergiä, kotoisin Urjalan pitäjän Hakkilan kylästä ja kertoi kuulusteltawa, että hän wiime helmik. 4 p:n iltana klo 9:n seuduissa, yhdessä 8 muun 
+          miehen kanssa toimeenpani Urjalan kylässä olewalla Lehmussuolla Urjalan punakaartin esikunnan määräyksestä wiiden miehen surmaamisen.</p>
+        <p>Murhan toimeenpanijajoukkoa johti työmies Kalle Höijer, Kylmäkoskelta. Ennenkuin uhrit surmattiin, riisuttiin heiltä waatteet ja kysyttiin tahtoiwatko tulla ammutuksi, waiko pistimillä 
+          murhatuiksi. Silloin oli 4 heistä sanonut tahtowansa tulla ammutuksi jota wastoin wiides oli pyytänyt kuolla pistimen kautta. Siltä mieheltä jonka kertoja oli walinnut uhriksensa oli hän 
+          riisunut takin. Takittomana ollen oli kysymyksessä olewa mies kääntänyt selkänsä ja käskenyt ampua. Melun wälttämiseksi Lindberg kuitenkin työnsi pistimen keskelle uhrinsa selkää, 
+          jolloin tämä ääntä päästämättä kaatui. Warmuuden wuoksi pisti kertoja wielä maassa makaawaan ruumiiseen toisen kerran. Kysymyksen alaisista wiidestä oppilaasta surmattiin neljä 
+          pistimillä ja wiides, joka lähti pakoon, ammuttiin. Ruumiit sotketkiin suohon.</p>
+        <p>Paitsi Lindbergiä itseään kuului tähän Höijerin johtamaan murhajoukkoon kertojan weli Yrjö Lindberg, Einari Wälimaa Punkalaitumelta sekä eräs suutari Tienhaara. Muiden nimiä Lindberg ei 
+          sanonut tietäwänsä.</p>
+        <p>Murhajoukon johtaja puuseppä Kalle Aug. Höijer, joka nyt on Hämeenlinnassa, pidätettiin t. k. 4 p ja kertoi hän samaan tapaan kuin Lindbergkin. Höijerin kertoman mukaan kuljetti kutakin 
+          wankia kaksi punakaartilaista ja oli näiden joukkueiden wäliä aina lyhyempi tai pitempi matka. - Kertojan mukaan surmattiin kolme pistimillä ja kaksi ampumalla. Paitsi kymmentä 
+          punakaartilaista joiden tehtäwäksi oli määrätty murhan toimeenpaneminen ja joukon johtajaa Höijeriä itseään, kuului joukkueeseen myös siwullisia, ainakin esikunnan jäsen puuseppä Mooses 
+          Jäppinen Kylmäkoskelta. Warsinaiseen murhajoukkueeseen kuuluiwat weljekset Yrjö ja Lauri Lindberg, sekatyömies Urho Jalawa, puuseppä Johannes Salowaara, suutari Emil Tienhaara ja eräs 
+          Urjalasta kotoisin olewa punakaartilainen, jonka nimeä ei ainakaan toistaiseksi woida mainita. Muiden nimiä ei Höijerkään sanonut tietäwänsä.</p>
+        <p>Waltiorikosoikeus on wiime elok. 1 pnä antamallaan päätöksellä tuominnut Höijerin 3 wuoden ehdolliseen kuritushuonerangaistukseen — tuomioistuin kun ei ollut tuntenut Höijerin 
+          osallisuutta kysymyksessä olewaan murhaan. — Edellä mainituista henkilöistä on ainakin Yrjö Lindberg ja Einari Wälimaa jo saaneet ansaitsemansa tuomion, Johannes Salowaara kaatui talwella 
+          Länkipohjan rintamalla. Urho Jalawan on waltiorikos oikeus jo aikaisemmin tuominnut 12 wuodeksi kuritushuonerangaistukseen, joka tuomio nyt tullee muuttumaan. — Esikunnan jäsen Mooses 
+          Jäppinen lopetti itsensä samoin kuin kaksi lastansakin toukokuun aikana.<br />— A:ti.</p>
+      </Article>
+      <Article titleText="Punikkeja pakenee Kuhmoniemen kautta Wenäjälle.">
+        <p>Saw. S: lle kirjoitetaan Lentiirasta:</p>
+        <p>Täällä kulkee Kuhmoniemeltä rajan yli laumottain passittomia punikkeja Wenäjän puolelle, jopa 11 miestäkin yhdessä joukossa eiwätkä paikkakunnan järjestyswiranomaiset näytä asiaan 
+          suurtakaan huomiota kiinnittäwän. Niinpä tämän kuun alkupäiwinä otti eräs suojeluskuntalainen Oskari Nissinen kiinni kaksi sellaista karkuria, joiden kuitenkin onnistui aiwan Kuhmoniemen 
+          kirkon lähellä rusikoida Nissinen pahanpäiwäisesti ja päästä karkuun. Suojeluskunta on koettanut ajaa karkulaisia takaa onnistumatta kuitenkaan saada heitä kiinni.</p>
+        <p>Asiaan olisi pian wiranomaisten tarmolla tartuttawa, sillä nämä pakolaiset näyttäwät kiihoituksellaan saawan paljon häiriöitä aikaan warsinkin Aunuksen puolella.</p>
+      </Article>
+
+      <div className="interTitle">17.9.1918</div>
+      <Article titleText="Kiusallisia huomioita.">
+        <p>Waltiorikosoikeuksien tuomioissa esiintywä tawaton yhdenmukaisuuden puute on herättänyt sekä wankien omaisissa että suuressa yleisössäkin oikeutettua harmia. Samallainen syyllisyys on 
+          eri waltiorikosoikeuksissa saattanut johtaa aiwan jyrkästi erisuuruisiin tuomioihin. Syynä on tietysti se, ettei ole ennakolta sowittu määrätyistä perusteista, joiden mukaan 
+          rangaistusten suuruus laskettaisiin. Kiusallisemmaksi käy wielä huomio, kun syytetyitä, joiden asemaa kapinaliikkeessä on arwosteltawa johtomiehen kannalta rangaistaan liewemmin tai 
+          yhtä liewästi kuin yksinkertaista punakaartisotilasta, jonka rikollinen toiminta supistuu aseelliseen wahtipalwelukseen ja mukana oloon rintamalla. Johtomiehen teko on ollut täysin 
+          harkittua, hänen on kehittyneenä ja itsetietoisena miehenä täytynyt olla selwillä rikoksensa oikeudellisesta luonteesta. Waikkakin häntä olisi johtanut jokin hullu ajatus 
+          yhteiskunnallisen wallankumouksen toteuttamisesta, on hän kuitenkin tiennyt punakaartin kumouksellisen toiminnan loukkaukseksi eduskunnan enemmistön walitsemaa hallitusta wastaan. 
+          Punakaartisotilaat, mitä ne taas oliwat miehiään? Enimmäkseen itsetiedotonta massaa, joukkosieluja, jotka häikäilemätön kiihotus ja wuosikausia jatkunut järjestelmällinen 
+          walhetteleminen oli tehnyt kykenemättömiksi erottamaan hywää pahasta. Ei ollut pieni niidenkään lauma, jotka töitten seisahduttua leipähuolten painamina oliwat alttiit takertumaan 
+          niihin suuriin palkkahoukutuksiin, joilla kapinaliikkeen johtajat koettiwat wietellä yksinkertaista työkansaa mukaansa.</p>
+        <p>Tuomioita langetettaessa olisi tehtäwä jyrkkä ero itsetietoisen johtajan ja tyhmän johdettawan wälillä. Syy siihen edeswastuuttomuuden henkeen, joka oli suuret joukot sokeina ajanut 
+          liikkeelle, on ennen kaikkea wyörytettäwä kapinaliikkeestä täysin tietoisten johtohenkilöiden niskoille ja se ilmetköön myös rangaistustuomioissa, kun sitä wastoin joukkoja on 
+          arwosteltawa ymmärtämyksellä, ottaen huomioon wissit psykoloogiset ja taloudelliset waikuttimet. Punakaartin kapinaliike, samalla kun se kylläkin oli waltiopetosta, oli merkillinen 
+          massailmiö, jota tuomittaessa on pidettäwä silmällä muitakin näkökohtia kuin juriidisia. Tarkoitus ei tässä silti ole pestä pois joukkojenkaan syyllisyyttä, waan kohtuullisena 
+          waatimuksena esittää, että joukkojen ja johtajien tekoja arwosteltaessa on käytettäwä toisellaisia mittakaawoja kuin mitä waltiorikosoikeudet owat tähän asti käytettäwikseen walinneet. 
+          Moni paikkakunta on mielipahakseen nähnyt, miten joku innokas esikunnan jäsen on ehdollisesti wapautettuna palannut kotiseudulleen, kun taas jollekin samaisen esikunnan jäsenen 
+          punakaartiin painostamalle rintamamiehelle on kasattu useampiwuotinen ehdoton kuritushuonerangaistus. Yksi tosiasiallinen eikä suinkaan harwinainen tapaus mainittakoon. Miehelle, joka 
+          kaupungissa on toiminut wallankumousoikeuden puheenjohtajana kiristäen siinä ominaisuudessa laittomia sakkorahoja ja tuominnut laittomaan wankeusrangaistukseen sekä lisäksi ollut 
+          postilaitoksen komissaarina ja paetessaan wienyt mukanaan useita kymmeniä tuhansia käsittäwän postikassan, tuomitaan neljän wuoden kuritushuonerangaistus ja samaan aikaan lyödään 
+          yhdeksän wuotta tyhmälle miehenalulle, joka on esikunnan määräyksestä toimittanut muutaman laittoman takawarikoimisen ja wangitsemisen! Woiko tässä puhua edes yhdenmukaisuuden 
+          puutteesta? Eiwätkö rangaistustuomiot olisi pitäneet olla päinwastoin: edelliselle yhdeksän, jälkimäiselle neljä, sillä edellytykset oliwat aiwan erilaiset, toinen määrääjän 
+          ominaisuudessa toinen määrättäwä.</p>
+        <p>Turhaa on kuitenkaan enää ruikuttaa, sillä waltiorikosoikeuksien työt alkawat olla lopussa. Eikä ollutkaan tässä tarkoituksena ryhtyä opastelemaan oppineita. Olipahan wain tahdottu 
+          esiintuoda kiusallisia huomioita rangaistustuomioiden nurinkurisuudesta sekä samalla huomauttaa johtajien ja harhaanjohdettujen rikollisuuden erilaisesta luonteesta.</p>
+        <p className="signature">A.</p>
+      </Article>
+      <Article titleText="Punaistemme puuhat Wenäjällä.">
+        <h5>Kommuni heidän unelmiensa päämääränä.</h5>
+        <p>Folkets Dagblad-Politikenille ilmoitetaan Moskowasta:</p>
+        <p>Elok. 25 ja sitä seuraawina päiwinä kokoontui Moskowassa Suomen sosialidemokratisten wallankumouspakolaisten ja Wenäjällä olewien suomalaisten työläisjärjestöjen kongressi. Useiden 
+          päiwien kiiwaiden wäittelyjen jälkeen, joissa Suomen sosialidemokratian puutteet ja warsinkin Suomen työläiswallankumouksen wiat joutuiwat ankaran arwostelun alaiseksi, hywäksyi kokous 
+          päätöslauselman joka myöhemmin julkaistaan, sekä päätti perustaa „Suomalaisen kommunistisen puolueen”. Ne, jotka oliwat äänestäneet tämän päätöksen puolesta kokoontuiwat elok. 26 pnä 
+          puolueen perustawaan kokoukseen sekä ryhtyiwät tarpeellisiin järjestely- ja walistustyön walmisteluihin.</p>
+        <h5>Suomalaiset punakaartit lähetetty rintamalle.</h5>
+        <p><span className="accent">Moskowa</span>, syysk. 12 p. (STT)<br />Muutamia päiwiä sitten wartioiwat kiinalaiset joukot hallituksen rakennuksia sen jälkeen kuin suomalaiset ja lättiläiset 
+          rykmentit, jotka tähän asti owat toimineet kansankomisarion henkiwartioina, owat lähteneet rintamalle. Kiinalaisia rykmenttejä on muodostettu etupäässä työläisistä, jotka aikaisemmin 
+          oliwat työssä Muurmaninradalla.</p>
+      </Article>
+
+      <div className="interTitle">21.9.1918</div>
+      <Article titleText="Mustialan opistolaisten murha.">
+        <h5>Kauhunäytelmä junassa.</h5>
+        <p>Kaameimpia punasten lukuisista murhatöistä on lauantaina huhtik. 20 p. junassa Toijalan ja Iittalan wälillä tapahtunut Mustialan opistolaisten murha. Kuten useimmat muutkin punasten 
+          hirmutyöt näyttää tämäkin tulewan lopullisesti selwitetyksi. Tutkimuksia on asiassa johtanut warat. Oiwa Sohlberg. Murhaajia wastaan nostettuja juttuja on käsitelty osaksi Lahdessa ja 
+          osaksi Hämeenlinnassa, missä waltiorikosoikeuden 46 osasto on lopullisesti saanut asian tutkiakseen. Murhaajista on osa jo saanut tuomionsa. Wirallisten asiakirjain perusteella on meillä 
+          tilaisuus kertoa tapahtumasta seuraawaa:</p>
+        <h5>Wangitseminen.</h5>
+        <p>Perjantaina huhtik. 19 p. klo 11 ap. saapui Mustialan opistolle paikkakunnan punakaartin päällikkö Aaltonen mukanaan asestettuja punasia ilmoittaen, että Forssasta oli saapunut 
+          „Kansanwaltuuskunnan” allekirjoittama määräys, jonka mukaan kaikkien 18—55 wuotiaiden Mustialan „herrain ja oppilaiden” oli heti saawuttawa Forssaan, missä heille piti järjestettämän 
+          maanwiljelystöitä. Pahaa aawistamatta noudatettiinkin käskyä. Forssaan saawuttua meni kaksi oppilaista punasten esikuntaan ilmoittamaan tulijoiden nimet. Kaikkiaan oli oppilaita 42 sekä 
+          3 opettajaa. Kun joukko oli n. ½ tuntia odotellut esikuntatalon pihamaalla, annettiin sille kiireellinen määräys lähteä asemalle. Aluksi eiwät oppilaat aikoneet määräystä totella, mutta 
+          kun aseilla warustettu punasten joukko piiritti heidät, ei ollut muuta neuwoa, kuin lähteä mukaan. Tällä wälin oli osa oppilaista sekä opettajat eri keinoilla päässeet joukosta eroon. 
+          Loput 35 oppilasta sekä 4 tammelalaista pakko-ottolaista ajettiin kiroten ja pistimillä uhaten junaan, jossa heidät sijoitettiin matkustajawaunuun saaden wartijoikseen punasia waunun 
+          kumpaankin päähän sekä waunusilloille. Humppilassa siirrettiin heidät tawarawaunuun ja matkaa jatkettiin.</p>
+        <h5>Toijalaan.</h5>
+        <p>Toijalassa, jonne saawuttiin klo 6 tienoissa ip. wietiin wangitut ensin työwäentalolle, jossa heille annettiin ruokaa sekä senjälkeen yöksi kansakoululle. Aika kului rauhallisesti aina 
+          seuraawan päiwän iltapuolelle, jolloin päivällistä parhaillaan odoteltaessa annettiin käsky lähteä heti asemalle, jonne saawuttiinkin n. ½ tuntia käskyn antamisesta. Kun tiedusteltiin, 
+          minne joukkoa nyt lähdettiin wiemään, wastasiwat saattajina olleet punaset, että heidät luultawasti wietiin Riihimäelle harjotuksiin ja sieltä edelleen rintamalle. Asemalla odotti juna 
+          täynnä punasia ja aseita. Keskellä junaa oli awonainen</p>
+        <h5>halkowaunu,</h5>
+        <p>jonka jälkeen oli heinillä lastattu tawarawaunu, jonka päällä lojui asestettuja punasia. Myöskin edellä olewassa waunussa oli asestettuja punakaartilaisia. Wangitut komennettiin 
+          halkowaunuun, jossa heidät määrättiin waunun toiseen päähän istumaan waunun pohjalle. Toiseen päähän asettui n. 15 asestettua punikkia täyttäen samalla kiwäärinsä patruunoilla. Punikit 
+          oliwat outoja miehiä, joita wangitut eiwät ennen matkalla olleet nähneet.</p>
+        <h5>Nimien kuulustelu.</h5>
+        <p>Ennenkuin juna oli ennättänyt lähteä liikkeelle alkoiwat punikit nähtäwästi edellisiltä wartijoilta saamansa luettelon mukaan kysellä wangittujen nimiä. Kun oppilaiden joukossa ollut 
+          Aarne Sohlberg mainitsi nimensä, alkoi eräs punikeista, lyhytkaswuinen ja tummawerinen, tiedustella tältä oliko tämä Helsingistä tehtailija Sohlbergin poika. Sohlberg wastasi kierrellen, 
+          että hänen isänsä oli kuollut ja että hän itse oli Mustialan maamiesopiston oppilas eikä suinkaan omistanut mitään tehdasta. Kysyjä wäitti wain, että Sohlberg oli tehtailija Sohlbergin 
+          poika alkaen senjälkeen kestustella toisten punasten kanssa. Heitä lähinnä olewat oppilaat kuuliwat heidän mainitsewan, että wangituilla oli hywät waatteet ja että usea heistä tulisi 
+          tapetuksi.</p>
+        <h5>Kauhunäytelmä junassa.</h5>
+        <p>Wihdoin lähti juna liikkeelle. Kun se oli ehtinyt n. 1 km. päähän Toijalasta alkoiwat punikit nähtäwästi riitaa haastaen solwata wangittuja. Ensimäiseksi kohdistiwat he wihansa 
+          Sohlbergiin. Ennenmainittu, häntä jo asemalla ahdistanut punikki astui jälleen hänen luokseen sanoen: „Sinä olet sen tehtailija Sohlbergin poika.” Kun Sohlberg tällä kertaa wastasi 
+          myöntäwästi sanoi punikki: „Älä p—le, tulit sinäkin kiinni”, alkaen senjälkeen raa'asti solwata hänen isäänsä. Sohlbergin wastaukset oliwat kaiken aikaa olleet pelokkaan hiljaiset. 
+          Senjälkeen punikki ojensi kiwäärinsä Sohlbergia kohti kysyen muilta: „Ammunko?” Kun joku joukosta wastasi „anna mennä waan”, punikki laukasi ja kuula osui Sohlbergin rintaan, jolloin 
+          tämä waipui walittaen maahan. Murhaaja huudahti silloin iwaten „wielä ääntelee”, jonka jälkeen hän ampui toisen laukauksen Sohlbergia päähän. Sohlberg heitti silloin henkensä jääden 
+          waunun pohjalle kyljelleen towereitaan wasten. Kun oli hawaittu kuolleeksi heitti ampuja aseensa ja alkoi riisua waatteita ja saatuaan päällyswaatteet riisuttua heitti hän erään toisen 
+          punasen kanssa ruumiin aluswaatteissaan ulos täyttä wauhtia kulkewasta junasta. Kaikki tämä oli wienyt wain pari minuuttia, jonka jälkeen punaset alkoiwat joukkoteurastuksensa ilman 
+          muuta ampuen wankejaan, joita kaatui ja haawoittui. Ensiksi ammuttiin Saarijärweltä kotoisin olewaa Eemil Lehtosta ohimosta läwitse. Saman kuulan läwistämänä sai surmansa myöskin hänen 
+          takanaan istuwa Kustaa Eskola Orimattilasta, mennen kuula hänen kaulansa läwitse ja pysähtyen wasempaan olkapäähän. Kuulan mennessä Emil Lehtosen ohimon läwitse wirtasi reijästä 
+          kaarenaan werta, jonka johdosta eräs punikeista ilkkuen sanoi: „On niissä wertakin, että tarwitsisi ottaa weri tallelle”. Samalla eräs punakaartilainen sanoi tarkottaen Eskolaa: „Sai 
+          siinä toinenkin samasta luodista, waikka en minä sitä tarkoittanut.” Sama kaartilainen sanoi towereilleen: „Ammutaan nämä kaikki”, johon toiset myöntäen wastasiwat alkaen samalla kaikki 
+          yleisen teurastuksen. Teurastuksen kestäessä hyppäsiwät jotkut täyttä wauhtia kulkewasta junasta ja onnistuiwatkin eri waiheiden jälkeen pelastamaan henkensä. Toiset taasen koettiwat 
+          etsiä suojaa kaatuneiden towereidensa ruumiiden takaa. Teurastuksen parhaillaan riehuessa koetti eräs wangituista saada sitä keskeytymään huutaen Sohlbergin murhaajalle, että hänellä 
+          oli weli punakaartissa. Punikki kääntyi heti erään toisen puoleen huutaen: „on yksi, jonka weli kuuluu punakaartiin.” Kun toiset wastasiwat: „Kyllä ne pirut walehdella osaa” alkoi 
+          punikki jälleen ampua. Yleisen ampumisen wielä kestäessä hyppäsi eräs punikeista keskelle waunua huutaen, ettei kaikkia saisi ampua. Nyt taukosi ampuminen ja alettiin tarkastaa elossa 
+          olewia, joista neljä wähimmin „porwarin näköistä” walittiin erilleen ja kästettiin ryömimään waunun toiseen päähän. Tämänjälkeen alettiin riisua murhattuja ja ne jotka haawoittuneina 
+          wielä oliwat elossa pistettiin armotta pistimillä kuoliaaksi.</p>
+        <h5>Ruumislasti Kuurilassa.</h5>
+        <p>Kun juna alkoi lähestyä Kuurilan asemaa peitettiin ruumiit waatteilla ja kun juna pysähtyi hetkeksi aseman pohjoiseen päähän estettiin siwullisia tulemasta waunun lähelle.</p>
+        <h5>Teurastus alkaa uudelleen.</h5>
+        <p>Junan lähdettyä uudelleen liikkeelle walittiin wielä muutamia wangittuja siihen päähän waunua, jossa punaiset oliwat. Loput sanottiin olewan lahtareita ja tapettiin osaksi ampumalla, 
+          osaksi pistimillä ja ainakin yksi puukollakin. Eräs punasista oli kehottanut kiduttamaankin wankeja eikä niin nopeasti lopettamaan heitä. Kun kaikki muut wangit paitsi ne 11, jotka 
+          oliwat walitut toiseen päähän waunua ja joiden joukossa oli yksi haawoittunutkin, oliwat tapetut, alkoiwat murhaajat riisua murhatuilta waatteet. Waatteet jaettiin ja niiden taskuista 
+          löydetyt kirjeet luettiin ilkamoiden. Ruumiit heitettiin ratapenkereen molemmille puolin. Tätä tehdessään he keskusteliwat, eikö olisi ollut parasta teurastaa loputkin 11. Lopulta he 
+          päättiwät jättää heidät kuitenkin eloon sanoen, että „jättiwäthän walkosetkin Tampereella joka wiidennen miehen punasia”.</p>
+        <h5>Eloonjääneiden myöhemmät waiheet.</h5>
+        <p>Turengin asemalle tultua jätettiin haawoittunut sinne, josta hänet myöhemmin toimitettiin Hämeenlinnan lääninsairaalaan. Loput wangeista wietiin Riihimäelle, jossa heidät kuolemaa 
+          uhaten pakotettiin ottamaan kiwäärit ja lähetettiin Hywinkään rintamalle saksalaisia wastaan. Rintamalta he senjälkeen pelastuiwat kaikki muut paitsi yksi, jonka punikit wielä raa'alla 
+          tawalla murhasiwat. Osan heistä onnistui karata, osa joutui saksalaisten wangiksi ja osa wankileireihin, joista heidän sittemmin on wapautettu. Eloonjääneitä kiellettiin jo Riihimäellä 
+          ja Hywinkäällä kuoleman uhalla puhumasta tapahtuneista murhista.</p>
+        <h5>Murhaajajoukkue kuulunut Helsingin 1 rykmentin IV pataljoonan 1 komppaniaan.</h5>
+        <p>Punasten rintamalla ollessaan saiwat eloonjääneet joukon henkilökohtaisia tietoja murhaajista. Joukkue kuului Helsingin 1 rykmentin 1V pataljoonan 1 komppaniaan. Joukkueen päällikkö 
+          joka samalla myös oli komppanian päällikkö oli nimeltään Jukka Hilden, pitkä, laiha, tummawerinen mies, iältään n. 30—35 wuotias.</p>
+        <h5>Sohlbergin murhaaja. — Murha johtunut yksityisestä kostosta.</h5>
+        <p>Sohlbergin murhaajaa kutsuiwat hänen towerinsa nimellä Sablin (Tarkottaa nähtäwästi tunnettua eläwäin kuwain näyttelijää Caplinia, jota hän ulkomuodoltaan jonkun werran muistutti). Hän 
+          oli lyhytkaswuinen, tummawerinen, sammalsi wähän etenkin lausuessaan s-kirjainta. Myöhemmin on saatu selwille, että hänen oikea nimensä on Aarne Johan Hietakangas, kotoisin Helsingistä, 
+          iältään 16-wuotias. Hänet löydettiin Poltinahon wankileiristä. Tekonsa syistä kertoi hän rintamatowereilleen seuraawaa: „Tunsin heti sen Sohlbergin pojan, sillä olen ollut sen isällä 
+          renkinä, mutta tuli minulle riitaa sen isän kanssa, mutta nyt sain sen pojalle kostettua”. Rintamalla kertoiwat punikit myöskin, että punikkien käyttämät kypärät oliwat Sohlbergin 
+          tehtaassa tehtyjä ja alkujaan „lahtareille” aiottuja. Waltiorikosoikeus on sittemmin tuominnut Hietakankaan Aarne Sohlbergin murhasta alaikäisenä 12 wuodeksi kuritushuoneeseen sekä 
+          waltiopetoksesta 3 wuodeksi eli yhdistämällä rangaistukset kaikkiaan 14 wuodeksi kuritushuoneeseen.</p>
+        <h5>Muita murhamiehiä.</h5>
+        <p>„Sablinin” kanssa liitossa näkyi olewan eräs Hämäläinen, joka myöskin oli lyhytkaswuinen, mutta waaleawerinen, hywin lihawa ja iältään n. 20-wuotias. Edelleen oli joukossa eräs Einari 
+          Heinonen, palwellut m. m. Venäjän rintamalla. Hänet on todettu olewan ulkotyömiehen Otto Einar Heinonen kotoisin Helsingistä. Hänet on tuomittu osallisuudesta murhiin ja waltiopetokseen 
+          kuolemaan. Muista murhamiehistä on saatu ilmi Hugo Salonen, lihawa keskikokoinen, tummawerinen mies, iältään n. 35-wuotias. Hänellä oli pitkä musta kihara tukka ja taisi myöskin 
+          wenäjänkieltä. Hän lienee ollut komppanianpäälikkönä Ruowedellä, mutta sittemmin syystä tai toisesta erotettu toimestaan ja pantu sanitääriksi. Hän oli päämiehiä pyöwelien joukossa. 
+          Myöhemmin saatiin selwille, että hän oli lihakauppias Hugo Salonen Helsingistä ja että häntä säilytettiin Lahden wankileirissä. Osallisuudesta murhiin ja waltiopetoksesta on hänet 
+          sittemmin Lahdessa tuomittu kuolemaan. Juho Kustaa Hellgren, työmies, kotoisin Helsingistä, synt. 1898, joka tawattiin Lahden wankileiristä on, tilaisuudessa mukana olleena tuomittu 
+          elinkaudeksi kuritushuoneeseen. Muita murhaajajoukkueeseen kuuluneiden nimiä on wielä saatu tietää Kaukonen, suutarinkisälli Helsingistä, Wirtanen, Johansson, Lahdelma, eräs, jolla oli 
+          pahkura wasemmassa poskessa ja jota sen wuoksi sanottiin „Pahkuraposkeksi”, Rissanen ja Wirta molemmat laihanpuoleisia miehiä. Viimeksimainittu on sähkötyömies Ewert Sewerus Wirta. 
+          Osallisuudesta murhiin ja waltiopetoksesta on hänet tuomittu kuolemaan. Edelleen oli joukkueessa A. Mäkinen, Jäntti, Wirtanen, Lindt, eräs Hyrkäs-niminen mies, Arola, Selin, Samanen. 
+          Näistä on tunnettu Arola, sekatyömies Wäinö Henrik Arola, kotoisin Hattulasta, tuomittu t. k. 11 p. waltiorikosoikeudessa Hämeenlinnassa kuolemaan. Hänen osallisuutensa murhiin on 
+          tullut todistetuksi. Murhatuista hän löi yhtä puukolla selkään ampuen häntä sitten päähän. Selin, ajuri Oskari Selin kotoisin Helsingistä tuomittu elinkaudeksi kuritushuoneeseen. 
+          Samanen, sähkötyömies Aatami Adiel Samanen, kotoisin Helsingistä, tuomittu elinkaudeksi kuritushuoneeseen. Tuomittu on lisäksi työmies Paawo Taipale Helsingistä tilaisuudessa mukana 
+          olleena elinkaudeksi kuritushuoneeseen. Todennäköisesti owat murhamiehet käyttäneet myöskin tekaistuja nimiä. Kaikilla murhamiehillä oli hihoissaan merkki „H-ki 1. IV. 1.” ja kehuiwat 
+          he menewänsä Helsinkiin kotikaupunkiaan takaisin walloittamaan. Päälliköksi oli myöhemmin mainittu myöskin erästä Pirttiluoma-nimistä miestä, joka lienee kaatunut Hywinkään 
+          taisteluissa.</p>
+        <h5>Murhan tutkiminen. — Onko murhamiehiä päässyt karkaamaan?</h5>
+        <p>Kuten mainittu tutkii murhajuttua Hämeenlinnassa toimiwa waltiorikosoikeuden 46 osasto. Tuomitsematta on wielä muutamia murhamiehiä, joiden nimiä ei ole julkisuudessa mainittu. 
+          Murhiin osallisia on sekä Lahden että Helsingin wankileirissä, josta ne tutkintoa warten kuljetetaan tänne. Nyt on kuitenkin mainitun 46 osaston täytynyt muutamaksi päiwäksi keskeyttää 
+          istuntonsa, syystä ettei Lahdessa säilytettyjä Mustialan murhamiehiä ole siellä löydettykään. Owatko nämäkin suuret murhamiehet onnistuneet karkaamaan on wielä epätietoista.</p>
+      </Article>
+
       <br></br>
       <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1918">Linkki vuosikertaan 1918</a>
     </Layout>

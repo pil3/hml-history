@@ -87,6 +87,11 @@ import img78 from "../images/content/hasa1918/img-78.jpg"
 import img79 from "../images/content/hasa1918/img-79.jpg"
 import img80 from "../images/content/hasa1918/img-80.jpg"
 import img81 from "../images/content/hasa1918/img-81.jpg"
+import img82 from "../images/content/hasa1918/img-82.jpg"
+import img83 from "../images/content/hasa1918/img-83.jpg"
+import img84 from "../images/content/hasa1918/img-84.jpg"
+import img85 from "../images/content/hasa1918/img-85.jpg"
+import img86 from "../images/content/hasa1918/img-86.jpg"
 
 const Ilmoituksia1918Page = () => {
   return (
@@ -172,6 +177,8 @@ const Ilmoituksia1918Page = () => {
           <Image className="columnImgStyle" src={img75} alt="Kuva 75"/>
           <Image className="columnImgStyle" src={img77} alt="Kuva 77"/>
           <Image className="columnImgStyle" src={img81} alt="Kuva 81"/>
+          <Image className="columnImgStyle" src={img83} alt="Kuva 83"/>
+          <Image className="columnImgStyle" src={img85} alt="Kuva 85"/>
         </div>
         <div className="columnStyle">
           <Image className="columnImgStyle" src={img62} alt="Kuva 62"/>
@@ -186,6 +193,9 @@ const Ilmoituksia1918Page = () => {
           <Image className="columnImgStyle" src={img78} alt="Kuva 78"/>
           <Image className="columnImgStyle" src={img79} alt="Kuva 79"/>
           <Image className="columnImgStyle" src={img80} alt="Kuva 80"/>
+          <Image className="columnImgStyle" src={img82} alt="Kuva 82"/>
+          <Image className="columnImgStyle" src={img84} alt="Kuva 84"/>
+          <Image className="columnImgStyle" src={img86} alt="Kuva 86"/>
         </div>
       </div>
     </Layout>
