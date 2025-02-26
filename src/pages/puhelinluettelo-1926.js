@@ -138,14 +138,14 @@ const Puhelin1926Page = () => {
       <p>Yksityispuhelut jaetaan seuraaviin luokkiin: a) tavalliset puhelut, b) pikapuhelut (kiireellinen puh.) c) erittäin kiireelliset puhelut, d) aikapuhelut, e) henkilöpuhelut, f) sanomalehtipuhelut ja g) etuoikeutetut puhelut määrätyille liikkeille 
         (toiminimille).</p>
 
-      <p><span className="boldStyle">Tavalliset puhelut. </span>Tavallisilla puheluilla ymmärretään sellaisia puheluja, jotka välitetään tilauksen mukaisesti siinä järjestyksessä, kun puhelu on ilmoitettu keskusasemalle, ja yhdistetään pyydettyyn numeroon, 
+      <p><span className="bold">Tavalliset puhelut. </span>Tavallisilla puheluilla ymmärretään sellaisia puheluja, jotka välitetään tilauksen mukaisesti siinä järjestyksessä, kun puhelu on ilmoitettu keskusasemalle, ja yhdistetään pyydettyyn numeroon, 
         huomioonottamatta kuka vastaa.</p>
-      <p><span className="boldStyle">Pikapuhelu. Kiireellinen puhelu. </span>Pikapuhelu välitetään pyydettyyn numeroon, ennen kaikkia tavallisia puheluja, huomioonottamatta kuka vastaa.</p>
-      <p><span className="boldStyle">Erittäin kiireellinen puhelu. </span>Erittäin kiireellinen puhelu välitetään samoin ennen tilattuja kiireellisiä puheluja.</p>
-      <p><span className="boldStyle">Aikapuhelu. </span>Aikapuhelut tilataan määrätylle kellonlyönnille.</p>
-      <p><span className="boldStyle">Henkilöpuhelut. </span>Henkilöpuhelut ovat määrätylle henkilölle tilattuja puheluja. Henkilöpuhelu voi myöskin olla tavallinen, pika-, erittäin kiireellinen eli aikapuhelu.</p>
-      <p><span className="boldStyle">Sanomalehtipuhelut. </span>Sanomalehtipuheluja myönnetään ainoastaan sanomalehti- ja lennätintoimistoille tarkoituksella välittää tiedonantoja ainoastaan sanomalehtiuutisia varten.</p>
-      <p><span className="boldStyle">Etuoikeutetut puhelut. </span>Etuoikeutetut puhelut välitetään ennen kiireellisiä puheluja heti virkapuhelujen jälkeen, jotka mahdollisesti ovat tilatut samoilla johdoilla kuin etuoikeutetut pyydetään. Näitä puheluja 
+      <p><span className="bold">Pikapuhelu. Kiireellinen puhelu. </span>Pikapuhelu välitetään pyydettyyn numeroon, ennen kaikkia tavallisia puheluja, huomioonottamatta kuka vastaa.</p>
+      <p><span className="bold">Erittäin kiireellinen puhelu. </span>Erittäin kiireellinen puhelu välitetään samoin ennen tilattuja kiireellisiä puheluja.</p>
+      <p><span className="bold">Aikapuhelu. </span>Aikapuhelut tilataan määrätylle kellonlyönnille.</p>
+      <p><span className="bold">Henkilöpuhelut. </span>Henkilöpuhelut ovat määrätylle henkilölle tilattuja puheluja. Henkilöpuhelu voi myöskin olla tavallinen, pika-, erittäin kiireellinen eli aikapuhelu.</p>
+      <p><span className="bold">Sanomalehtipuhelut. </span>Sanomalehtipuheluja myönnetään ainoastaan sanomalehti- ja lennätintoimistoille tarkoituksella välittää tiedonantoja ainoastaan sanomalehtiuutisia varten.</p>
+      <p><span className="bold">Etuoikeutetut puhelut. </span>Etuoikeutetut puhelut välitetään ennen kiireellisiä puheluja heti virkapuhelujen jälkeen, jotka mahdollisesti ovat tilatut samoilla johdoilla kuin etuoikeutetut pyydetään. Näitä puheluja 
         myönnetään ainoastaan määrätyille toiminimille, jotka Kulkulaitosministeriön päätöksen mukaisesti ovat siihen oikeutettuja.</p>
 
       <h4>Puhelun pituus.</h4>

@@ -339,7 +339,7 @@ const War1914Page = () => {
         <p><span className="accent">Pietarista</span>, heinäk. 28 p.<br />Serbian pääministeri Pashitsh on lennättänyt Serbian täkäläiselle lähettiläälle, että Itäwalta tänään klo 12 päiw. on 
           julistanut sodan Serbiaa wastaan.</p>
         <p><span className="accent">Wienistä</span>, heinäk. 28 p.<br />Wirallisen lehden julkaisemassa lisälehdessä on Itäwalta-Unkarin hallitus antanut seuraawan tiedonannon:<br />
-          <span className="quotationStyle">Koska Serbian hallitus ei ole antanut tyydyttäwää wastausta Itäwalta-Unkarin noottiin t. k. 23 päiwältä, on Itäwalta-Unkarin hallitus päättänyt turwautua aseisiin puolustaakseen 
+          <span className="quotation">Koska Serbian hallitus ei ole antanut tyydyttäwää wastausta Itäwalta-Unkarin noottiin t. k. 23 päiwältä, on Itäwalta-Unkarin hallitus päättänyt turwautua aseisiin puolustaakseen 
           oikeuksiaan ja etujaan ja katsoo olewansa sodassa Serbian kanssa.</span></p>
         <h5>Serbian pääministeri panee syyn Itäwallan niskoille.</h5>
         <p><span className="accent">Parisista</span>, heinäk. 28 p.<br />Keskustellessaan Matinin kirjeenwaihtajan kanssa on Pashitsh huomauttanut, että oikeus on kokonaan Serbian puolella. 
@@ -401,7 +401,7 @@ const War1914Page = () => {
         <h5>Wenäjän hallitus antanut julistuksen.</h5>
         <p><span className="accent">Pietarista</span>, heinäk. 28 p.<br />Hallitus on tänään antanut seuraawan julistuksen:</p>
         <QuoteStart className="symbolStyle"/>
-        <p className="quotationStyle">Monilukuiset isänmaalliset mielenosotukset, joita wiimeksi kuluneina päiwinä on pantu toimeen pääkaupungissa y. m. keisarikunnan osissa, osottawat, että hallituksen luja ja 
+        <p className="quotation">Monilukuiset isänmaalliset mielenosotukset, joita wiimeksi kuluneina päiwinä on pantu toimeen pääkaupungissa y. m. keisarikunnan osissa, osottawat, että hallituksen luja ja 
           rauhallinen politiikka on saanut osakseen wäestön laajojen piirien myötätunnon. Hallitus toiwoo kuitenkin, etteiwät nämä kansallisten tunteiden ilmaukset saa wihamielisyyden wiwahdusta 
           suurwaltoja kohtaan, joiden kanssa Wenäjä on ja aina haluaa olla rauhallisessa suhteessa. Ammentaen woimaa kansallishengen kohoamisesta ja kehottaen Wenäjän asukkaita maltillisuuteen 
           ja rauhallisuuteen, tulee keisarillinen hallitus lujasti walwomaan Wenäjän arwoa ja etuja.<QuoteEnd className="symbolStyle"/></p>
@@ -411,7 +411,7 @@ const War1914Page = () => {
         <h5>Rauhoittawia tietoja. — Englanti pysyy puolueettomana.</h5>
         <p><span className="accent">Berlinistä</span>, heinäk. 28 p.<br />Saksan ulkoastain ministeriö on waltuuttanut ilmoittamaan seuraawaa:</p>
         <QuoteStart className="symbolStyle"/>
-        <p className="quotationStyle">Saksan hallituksen Wenäjältä saamain tietojen mukaan on siellä ryhdytty toimenpiteisiin sodan waralta wain sangen pienessä määrin, ainoastaan eräissä 
+        <p className="quotation">Saksan hallituksen Wenäjältä saamain tietojen mukaan on siellä ryhdytty toimenpiteisiin sodan waralta wain sangen pienessä määrin, ainoastaan eräissä 
           piireissä. Walmistuksiin yleistä liikekannalle panoa warten ei ole ryhdytty. Siitä päättäen näyttää Wenäjän sekaantuminen pysywän diplomaattisissa rajoissa.
           <QuoteEnd className="symbolStyle"/></p>
         <p>Englannin kanta on yhtä rauhoittawa. Englanti koettaa waikuttaa wälittäjänä. Mutta jos asema kehittyy äärimmilleen, tulee Englanti pysymään puolueettomana. Samaa on wakuutettu 
@@ -1013,14 +1013,14 @@ const War1914Page = () => {
         <p>T. k. 4 p:nä jätettiin Saksan waltiopäiwille n. k. „walkoinen kirja”, jossa hallitus tekee selkoa sodan syistä ja omasta osallisuudestaan tähän suureen onnettomuuteen. Erikoisesti on 
           omiaan kiinnittämään mieltä seuraawa Saksan ja Wenäjän hallitsijoitten wälinen sähkösanomawaihto.</p>
         <p>Heinäk. 31 p. lähetti keisari Nikolai keisari Wilhelmille seuraawan sähkösanoman:</p>
-        <p className="quotationStyle">„Kiitän sinua sydämestäni wälityksestä, joka antaa toiwon pilkoittaa, että kaikki wielä woi päättyä rauhallisesti. Meidän on teknillisesti mahdoton lakkauttaa 
+        <p className="quotation">„Kiitän sinua sydämestäni wälityksestä, joka antaa toiwon pilkoittaa, että kaikki wielä woi päättyä rauhallisesti. Meidän on teknillisesti mahdoton lakkauttaa 
           sotilaallisia walmistuksiamme, jotka Itäwallan mobilisoimisen takia owat käyneet wälttämättömiksi. Me emme halua sotaa, kaukana sitä, niinkauan kuin neuwottelut Itäwallan kanssa Serbian 
           asiasta owat käymässä. Minun joukkoni eiwät ryhdy mihinkään uhkaawaan toimintaan. Wakuutan sen sinulle kunniasanallani. Luotan kaikin woimin Jumalan armoon ja toiwon wälityksesi 
           tulosten Wienissä koituwan maittemme onnen ja Europan rauhan hywäksi.</p>
-        <p className="quotationStyle">Sinuun sydämellisesti kiintyneenä</p>
+        <p className="quotation">Sinuun sydämellisesti kiintyneenä</p>
         <p className="signature">Nikolai.”</p>
         <p>Keisari Wilhelmin wastaus kuului seuraawasti:</p>
-        <p className="quotationStyle">„Wedotessasi minun ystäwyyteeni ja pyytäessäsi minun apuani, olen minä ryhtynyt wälitystoimintaan Sinun ja Itäwalta-Unkarin hallituksen hywäksi. Sillä aikaa 
+        <p className="quotation">„Wedotessasi minun ystäwyyteeni ja pyytäessäsi minun apuani, olen minä ryhtynyt wälitystoimintaan Sinun ja Itäwalta-Unkarin hallituksen hywäksi. Sillä aikaa 
           kun tämä toiminta oli wireillä, owat Sinun joukkosi asetetut liikekannalle minun liittolaistani Itäwalta-Unkaria wastaan, ja sen kautta, kuten jo olen Sinulle ilmoittanut, minun 
           wälitykseni on käynyt melkein mahdottomaksi. Tästä huolimatta olen minä jatkanut wälitystäni. Sittemmin sain minä luotettawia tietoja wakawista sotawalmistuksista myöskin minun itäisellä 
           rajallani. Wastuu waltakuntani turwallisuudesta pakottaa minut ryhtymään puolustawiin wastatoimenpiteisiin. Pyrkimyksissäni maailmanrauhan säilyttämiseksi olen minä mennyt mahdollisuuden 

@@ -1133,6 +1133,241 @@ const PostCivilWarPage = () => {
           istuntonsa, syystä ettei Lahdessa säilytettyjä Mustialan murhamiehiä ole siellä löydettykään. Owatko nämäkin suuret murhamiehet onnistuneet karkaamaan on wielä epätietoista.</p>
       </Article>
 
+      <div className="interTitle">26.9.1918</div>
+      <Article titleText="Mustialan opistolaisten murha.">
+        <h5>Kuolemaan tuomittu murhamies.</h5>
+        <p>Ylimääräinen weturinlämmittäjä Yrjö Anselm Lehtonen, Helsingin kaupungista, tuomittu waltiopetoksesta sekä Mustialan maamiesopiston oppilaitten murhista waltiorikosoikeudessa 
+          Hämeenlinnassa 24 päiwä tätä kuuta kuolemaan ja menettämään kansalaisluottamuksensa ainaiseksi. Lehtonen oli Toijalan ja Kuurilan asemien wälillä awonaisessa halkowaunussa rewolwerillaan 
+          ampunut ainakin mainitun opiston oppilaat Emil Lehtosen, Jalmari Tuomisen ja Juho Tarkkilan.</p>
+        <h5>* * *</h5>
+        <h5>Erään Mustialan opistolaisen kohtalo.</h5>
+        <p>Huhtik. 20 p., jolloin punaset joukottain murhasiwat Mustialan opistolaisia Toijalan ja Iittalan wälillä, pääsi junasta hyppäämään eräs oppilaista. Häntä oli pistimellä lyöty kylkeen. 
+          Iso haawa ammotti aukinaisena, kun poloinen yön metsässä kylmässä ja nälässä wäristyään uskalsi ilmestyä Kankaisten kartanon seutuwille. Täällä hän kyseli onko pitkä matka Lempäälään ja 
+          mistä saisi ruokaa. — Mutta mitä tehtiin! Kartanon alustalaisen tyttö juoksi heti ilmoittamaan kartanossa majailewille punakaartilaiswahdeille asiasta, ja niin nuorukaisparka wangittiin 
+          ja kartanon muonarenki Wihtori Wiitanen wei hänet Kalwolan punakaartin esikuntaan. Sieltä lähtiwät esikunnan jäsenet Kalle Lehtonen ja Wihtori Löflund eli Pykälä wiemään miestä kohti 
+          kuolemaa. Ajettuaan noin lähes 2 penikulmaa poikkesiwat he Könnölän talon lähettywillä Kaiwolampi-nimisen lammen luona metsään ja murhasiwat siellä uhrinsa, jota samalla wähäsen 
+          peittiwät. Kun Kalwolan punaset sittemmin wangittiin, tunnustiwat Wiitanen ja Lehtonen sekä Löflund-Pykäläkin rikoksensa ja neuwoiwat ruumiin. Opistolaisen nimeksi he ilmoittiwat 
+          Wilppulan, mutta epäwarmaa on, oliko hän Wilppula. Wiitanen, Lehtonen ja Löflund-Pykälä owat saaneet ansaitsemansa tuomion.</p>
+      </Article>
+
+      <div className="interTitle">1.10.1918</div>
+      <Article titleText="Kuolemaan tuomittu punaisten päällikkö.">
+        <p>Torstaina tuomittiin Tampereella waltiorikosoikeudessa kuolemaan puuseppä Oskari Höijer.</p>
+        <p>H. oli Urjalassa murhia toimeenpanneen joukon johtaja ja oli hänen taskustaan m. m. löydetty esikunnan määräys wiiden wankina olleen Mustialan maamieskoulun oppilaan murhaamisesta. H. 
+          oli aikaisemmin ollut wankina Hämeenlinnassa, mutta päästetty täällä wapaaksi, kunnes myöhemmin selwisi hänen osallisuutensa murhiin ja hänet wangittiin.</p>
+      </Article>
+
+      <div className="interTitle">3.10.1918</div>
+      <Article titleText="Wenäjälle paenneet kapinalliset sotajalalla keskenään.">
+        <h5>Englantilaisten puolelle karanneet O. Tokoi, E. Elo, Aug. Westey ja A. Hämäläinen julistettu „kansainwälisen wallankumouksen pettureiksi ja prowokaattoreiksi”, joiden „tuomio on 
+          kuolema.”</h5>
+        <p>Pietarissa ilmestywän „Wapaus” -nimisen lehden mukaan kerrotaan äskettäin, että eräät Wenäjälle paenneet kapinanjohtajat owat siirtyneet englantilaisten puolelle. Saman lehden w. k. 25 
+          p:n numerossa on „Suomalaisen Kommunistisen Puolueen Keskuskomitean” antama, Yrjö Sirolan, Jukka Rahjan, O. W. Kuusisen, K. M. Ewän ja Lauri Letonmäen allekirjoittama julistus, jonka 
+          otsake on „Suomalaisille työläisille Muurmannilla ja muualla. Oskari Tokoi, E. Elo ja A. Hämäläinen kawaltajina”, joka antaa tarkempia tietoja tästä siirtymisestä: Julistuksessa 
+          sanotaan m. m.:</p>
+        <p className="quote">Teitä petetään. Imperialisti-roswot owat ostaneet eräitä sosialidemokraatteja kätyreikseen. Ne lupaawat teille „keksejä” ja hywiä waatteita, jotta ette tulisi Punaisen 
+          Armeijan puolelle.<br />Me olemme saaneet warmoja todistuksia siitä, että tällaisena kätyreinä ja prowokaattoreina englantilaisten joukossa toimiwat suomalaiset sosialidemokraatit Oskari 
+          Tokoi, Eemil Elo, Aug Wesley, Kalle Hämäläinen. — Kirjawa kokoelma osittain jo ennen epäiltyjä miehiä. Entisen luottamuksensa nojalla owat he onnistuneet petkuttamaan entisiä suomalaisia 
+          Punakaartilaisia parjaamalla kommunisteja ja wiekkaasti selittämällä ettei taistelu Punaisen Wenäjän puolesta olisikaan työwäen wallankumousta.<br />Näistä työwäen kansainwälisen 
+          wallankumouksen pettureista toimii Aug. Wesley englantilaisena päällikkönä. Oskari Tokoi pitää kawalia puheita englantilaisten kapitalistien hywäksi, käyttäen kaiken taitonsa 
+          yksinkertaisten ja imperialistien salakawalia juonia ymmärtämättömien työläisten harhaanjohtamiseksi. Tokoin apureina toimiwat E. Elo ja K. Hämälainen. Heidän petturuutta koskewat 
+          asiakirjat julkaisemme erikseen kommunistisissa työwäen lehdissä. Todennäköisesti owat nämä sosialistipetturit olleet englantilaisten kapitalistien yhteydessä jo ennen kuin he heidän 
+          leiriinsä Arkangeliin luikkiwat. Tokoita ja Wesleytä yritimme saada kiinni ennen englantilaisten rintamalle pääsemistä, mutta siinä ei onnistuttu, edellistä ajettiin takaa poliittisesti 
+          epäluotettawana ja jälkimmäistä warkaana.<br />O. Tokoin, Emil Elon, Aug. Wesleyn ja K. Hämäläisen me julistamme täten työwäen kansainwälisen wallankumouksen pettureiksi ja 
+          prowokaattoreiksi. Tuomion täytäntöönpano on jokaisen wallankumouksellisen työläisen welwollisuus. Petturin ja prowokaattorin tuomio on — kuolema.<br />Towerit, työläiset! — Jos 
+          saksalaissuomalaiset ja liittolaiskapitalistit taistelewat keskenään roswosaaliista älkää sen seikan antako sokaista selkeää wallankumouksellista katsettanne — waikka korwaan kuiskaisi 
+          itse Tokoin mesikieli. Ainoastaan Punaisessa Armeijassa on wallankumousmiehen paikka.</p>
+      </Article>
+
+      <div className="interTitle">5.10.1918</div>
+      <Article titleText="Tuomittu punainen suurmurhaaja.">
+        <p>Wiime torstaina tuomittiin Hämeenlinnassa waltiorikosoikeudessa kuolemaan punasten Suodeniemen rintamapäällikkö Wäinö Juho Koiwisto, Suodeniemeltä. Tuomittu todettiin syylliseksi 7 
+          murhaan joiden lisäksi hän todennäköisesti on syypää myöskin 10:een muuhun murhaan. Murhat on toimeenpantu Suodeniemellä, Karkussa, Kankaanpäässä y. m. Wiime kewäänä Koiwisto, kuten 
+          useat muutkin, pääsi karkaaman Hämeenlinnan wankileiristä paeten senjälkeen Ruotsiin ja wihdoin Norjaan, missä joutui kiinni ja palautettiin Suomeen. Hän on tyypillinen anarkisti, 
+          esiintyen wiimeiseen saakka röyhkeästi ja kieltäen syyllisyytensä, waikka usea henkilö walallisesti todisti nähneensä hänen murhatöitään suorittamassa. Hänen taskustaan oli löydetty m. 
+          m. Ruotsin sanomalehdille osotettuja mitä törkeimpiä walheita sisältäwiä kirjeitä, miten esim. muka Lahdessa 2,000 alle 10 wuoden wanhaa lasta huonon kohtelun wuoksi kuoli ja kaikkiaan 
+          maassa n. 50,000 tapettiin nälkään ja kurjiin oloihin. Todistajain lausunnon mukaan tuomittu oli raiwonnut aiwan willipedon tawoin. Omakätisesti hänen todistettiin murhanneen m. m. 
+          wuokraaja Alfred Sepän, Suodenniemeltä ja talollisen Wälimäen Kankaanpäästä. Etenkin Seppä oli murhattu perin raa'alla tawalla, senjälkeen kun Koiwisto temmattuaan hänet muiden 
+          wangittujen joukosta erilleen oli häntä ampunut, iski kaksi punikkia ruumiiseen wielä pistimensä kiertäen ne haawaa ympäri sanoen niiden olewan „raswan puutteessa”. Sitä paitsi on 
+          Koiwisto ollut osallinen kirkkoherra Kalwan, tukkipäällysmies Roposen, taloll. Ristijoen, suojeluskuntal. Tensiön ja Temosen sekä taloll. Kotijoen Suodenniemellä tapahtuneisiin murhiin.</p>
+      </Article>
+      <Article titleText="Wangittu punakaartilainen.">
+        <p>Wiime sunnuntaina yllättiwät eräät wartawasten wakoiluretkelle lähteneet Wanajan suojeluskuntalaiset Welssissä Koiwusen saunan torpassa punakaartilaisen Einari Wirtasen Idänpäästä, 
+          joka koko ajan Hämeenlinnan waltauksen jälkeen on etupäässä piileskellyt Idänpään ja Hätilän metsissä. Monet aikaisemmin turhaan toimeenpannut etsiskelyt johtiwat wiimeinkin suotuisaan 
+          tulokseen. Mainittu mies, wapaudessa eläneenä, on herättänyt suurta kauhua paikkakunnan asujamistossa. Kiinni otettaessa oli wanki jotenkin hywissä woimissa. Punakaartiin hän on 
+          kuulunut wiime syksystä alkaen sekä ottanut osaa ryöstöihin m. m. Parkun taloon ja Harwialassa. Pidetyssä alustawassa mielenkiintoisessa kuulustelussa ilmeni, kuten arwata sopikin, että 
+          wangilla oli ollut useita suojelijoita ja elättäjiä, joista eräs, entinen wanginwartija on nyt syytettynä pidätetty awunannosta passinwäärennykseen. Tarkotus oli täten walmistaa 
+          wangitulle tilaisuus työnansioon muualle, mutta se suunnitelma tuli aiwan wiime tingassa estetyksi.</p>
+      </Article>
+
+      <div className="interTitle">12.10.1918</div>
+      <Article titleText="Länkipohjan murhat.">
+        <h5>Tuomittu murhamiesten awustaja.</h5>
+        <p>Waltiorikosoikeus Hämeenlinnassa on eilen tuominnut Kaarlo Edw. Siltasen, H:linnan maaseurakunnasta, Hätilän kylästä, awunannosta Länkipohjassa tapahtuneisiin yliopp. Ahlman'in ja 
+          Screyn'n murhiin 15 wuodeksi kuritushuoneeseen sekä sen jälkeen olemaan 15 w. kansalaisluottamusta wailla.</p>
+      </Article>
+      <Article titleText="Tuomittuja kapinoitsijoita.">
+        <p>Waltiorikosoikeuden 46 osasto, joka lopetti toimintansa wiime syysk. 30 pnä, on tuominnut seuraawat Hämeenläänistä kotoisin olewat henkilöt:</p>
+        <p><span className="accent">Hämeenlinnan kaupungista:</span> nahkuri August Rosenlund 3 w. kh., maalari Juho Toiwo Heinonen 12 w. kh., tehtaalainen Eriika Mantere 2 w. kh., kirwesmies 
+          Adam Mäkelä 3 w. kh., ajuri Erik Ihanne Sandberg 3 w. kh., työmies Teodor Salminen 3 w. kh., kirjaltaja Johan Alfred Ahonen 2 w. kh., työm. Uno Bernhard Liljamaa 3 w. kh., tehtaalainen 
+          Impi Dagmar Waltonen 3 w. kh., wartija Kaarle Werner Luoto 3 w. kh., kirjansitoja Martta Regina Kurra 3 w. kh., waihdemies Wihtori Aleksanteri Lumme 3 w. kh., pika-ajuri Kustaa Lampinen 
+          3 w. kh, ajuri Walfrid Kuusela 3 w. kh., räätäli Sylwi Amanda Wuorinen 3 w. kh., kirjalt. leski Olga Maria Tiiro 3 w. kh.</p>
+        <p><span className="accent">Hämeenlinnan maaseurakunnasta:</span> liikemiehenpoika Paawo Nurminen 1 w. kh., parturi Fredrik Wilhelm Järwi 3 w. kh.</p>
+        <p><span className="accent">Wanajasta:</span> työmies Sulo Johannes Halm 2 w. kh., työmies Oskar Iltanen 10 w. kh., työmies Otto Nikolai Tuomenoja 10 w kh. työmies Jussi Jalmari Lehtonen 
+          12 w. kh.</p>
+        <p><span className="accent">Janakkalasta:</span> työmies Otto Beck 6 w. 2 kk. kh., työläinen Anna Emilia Paju 2 w. kh., työmies Wilho Jalmari Luotonen 12 w. kh., ratawartija Nestori Lundan 
+          4 w. kh., työm. Juho Wihtori Saarinen 3 w. kh., työm. Kalle Kustaa Saarinen elinkautinen kh., työm. Aarne Henrik Sohlman 8 w. kh., työm. Lauri Juho Mäkinen 8 w. kh., lämmittäjä Kustaa 
+          Leino 12 w. kh., työm. Wäinö Juho Siltanen 5 w. kh., työm. Kustaa Tuomisto 3 w. kh., renki Toiwo Heikki Wirtanen 3 w. kh., itsell. Taawi Wirtanen 3 w. kh., työm. Kustaa Wäinö 3 w. kh., 
+          työm. poika Adolf Nurminen 3 w. kh., työm. Otto Sohlman 3 w. kh., torpp. Rikhard Johannes Wallenius 3 w., työm. Yrjö Kustaa Ahola 3 w. kh., työläinen Lempi Eliina Salonen 2 w. kh., työm. 
+          Wäinö Jalmari Mäkinen 3 w. kh., torpp. Otto Ojamo 3 w. kh., työm. Taawetti Syrjänen 3 w. kh., työm. Jalmari Seuranen 3 w. kh., muurari Teodor Leonard Waltonen 3 w. kh, työm. Werner 
+          Johannes Wuorinen 3 w. kh., työm. Jalmari Salo 3 w. kh.</p>
+        <p><span className="accent">Hausjärweltä:</span>  työm. Amatus Autio 12 w. kh., palwel. Juho Kustaa Helminen 3 w. kh.</p>
+        <p><span className="accent">Hattulasta:</span>  työm. Lauri Johannes Hämäläinen 10 w kh., työm. waimo Heta Sofia Kreander 3 w. kh., suutarinwaimo Miina Ulriika Koskinen 2 w. kh., renki 
+          Wihtori Heino 12 w. kh., työm. Einar Walter Laakso 2 w. kh., mäkitupal Heikki Bruuno Salo elink. kh., itsell. waimo Wilhelmiina Salonen 2 w. kh., torpp.-poika Emil Kalewa 2 w. kh., 
+          torpp. poika Juho Kustaa Salimäki kuoleman rangaistus, mäkitupal. poika Wäinö Henrik Arola kuoleman rangaistus.</p>
+        <p><span className="accent">Tyrwännöstä:</span>  työm. Kalle Arwid Wirtanen 3 w. 15 p. kh., työm. Kustaa Ilmari Nieminen 10 w. kh</p>
+        <p><span className="accent">Kalwolasta:</span> työm. Arwi Aukusti Ahola 2 w. kh., työm. Juho Robert Salo 3 w. kh., torpanp. Juho August Tuomola 12 w. kh., torpanp. Rudolf Lindqwist 8 w. kh.</p>
+        <p><span className="accent">Sääksmäestä:</span> työm. Sulo Urho Isaksson 5 w. kh., työm. Arwo Aleksanteri Borgman 3 w. kh., työm. Matti Iwar Hellsten 3 w. kh.</p>
+        <p><span className="accent">Akaasta:</span> työm. Lauri Lahti 2 w. kh., työm. Walfrid Toiwonen 3 w. kh., työm. Kalle Kustaa Laakso elink. kh., työm. Juho Brynolf Ylönen 10 w. kh.</p>
+        <h5>Sääksmäen Huittulan Punaisen kaartin perustaja tuomittu.</h5>
+        <p>Waltiorikosoik. 101 osasto tuomitsi eilen waltiopetoksesta työmies Kustaa Salmisen Sääksmäen Rapolasta 12 wuodeksi kuritushuoneeseen ja senjälkeen olemaan 15 w. kansalaisluottamusta 
+          wailla. — Salminen, joka ensiaikoina toimi mainitun punakaartin päällikkönä, on toimessaan esiintynyt harwinaisen röyhkeästi, osaaottaen ja antaen määräyksiä useihin ryöstöihin, 
+          wärwännyt ja pakottanut toisiakin kaartiin sekä ryöstöihin. Sanalla sanoen on hän punaisten aikana ollut paikkakuntansa kauhuna.</p>
+        <h5>Kuolemaan tuomittuja.</h5>
+        <p>Waltiorikosoikeudessa Hämeenlinnassa on tuomittu Wäinö Jalmari Lintumäki, Hywinkään pitäjän Hywinkään kylästä, kuolemaan osanotostaan murhaan. Tuomittu kuului kuuluisaan hywinkääläiseen 
+          Nuotion roistokomppaniaan, joka toimeenpani murhia m. m. Walkeakoskella Konhon saarella ja poltti Metsänkansan kylän Sääksmäellä.</p>
+        <p>Waltiorikosoikeudessa Hämeenlinnassa on tuomittu kuolemaan punakaartilainen Onni Salminen. Hän on syntyisin Lamminkoskelta, mutta sittemmin kirjoissa Tuusulassa. S. on syyllinen 
+          Tuusulassa tapahtuneeseen Wanhankartanon Räckhalsin ulkotilan pehtoorin Iiwari Lintusen murhaan.</p>
+      </Article>
+
+      <div className="interTitle">15.10.1918</div>
+      <Article titleText="Tuomiot sos. dem edustajain valtiopetosjutuissa.">
+        <p>Lauantaina julisti Helsingin waltiorikosoikeuden 28:s osasto päätökset sosialidemokraattisia kansanedustajia wastaan nostetuissa kapinajutuissa. Kaikkiaan tuomittiin 40 henkilöä, joista 
+          kuolemaan 9, kuritushuonerangaistukseen elinkaudeksi 2, 12— 3 wuodeksi 24 ja ehdonalaiseen kuritushuonerangaistukseen 5. Kaikki tuomiot alistettiin waltiorikosylioikeuden 
+          tarkastettawiksi.</p>
+        <h5>Kuolemantuomiot.</h5>
+        <p>Seuraawat langetettiin kuolemantuomioon sekä menettämään kansalaisluottamuksensa ainaiseksi: Waltio- ja maanpetoksesta Nestori Aronen, E. Härmä, J. Kujala, J. Lankila, P. Leppänen, Y. 
+          Mäkelin, Eetu Salin ja W. Kiwiniemi sekä waltio- ja maanpetoksesta ja osallisuudesta murhaan J. Lautasalo.</p>
+        <h5>Kuritushuonerangaistukset.</h5>
+        <p>Kuritushuonerangaistukseen E. Ahomaa waltio- ja maanpetoksesta 12 wuodeksi ja kansalaisluottamuksensa menettäneeksi 15 wuodeksi, samoin W. Annala, Seth Heikkilä, O. Orasmaa, A. Mäkelin, 
+          J. A. Tuomikoski, Hilda Herrala ja Anni Sawolainen; awunannosta waltio- ja maanpetokseen Oliwer Eronen 8 wuodeksi ja menettämään kansalaisluottamuksensa 10 wuodeksi, samoin K. Hakala; 
+          awunannosta waltio- ja maanpetokseen O. Jalawa 3 wuodeksi ja kansalaissuottamuksensa menettäneeksi 6 wuodeksi, samoin J. W. Latwala sekä menettämään kansakoulunopettajan wirkansa; 
+          awunannosta waltio- ja maanpetokseen K. Mänty 5 wuodeksi ja 8 wuotta olemaan wailla kansalaisluottamusta; waltio- ja maanpetoksesta A. Paasonen 6 wuodeksi ja 8 wuodeksi waille 
+          kansalaisluottaitusta, samoin K. Saari awunannosta samoihin rikoksiin; waltio- ja maanpetoksesta S. Saarikiwi 8 wuodeksi ja 10 wuotta waille kansalaisluottamusta, waltiopetoksen 
+          walmistelusta A. Harjula 8 ja 12 wuodeksi, samasta syystä O. Suutala 6 ja 10 wuodeksi; waltio- ja maanpetoksen awunannosta E. Murto 6 ja 8 wuodeksi; waltiopetoksen walmistelusta S. 
+          Louhelainen 4 ja 6 wuodeksi, samasta syystä M. Lonkainen ja A. Koponen 2 ja 6 wuodeksi; awunannosta waltio- ja maanpetokseen Hulda Salmi ja Anni Huotari 6 ja 10 wuodeksi.</p>
+        <p>Wiiden wuoden ehdonalaiseen wapauteen laskettiin waltiopetoksen awunannosta 3 wuodeksi kuritushuoneeseen ja 5 wuodeksi kansalaisluottamusta waille tuomitut F. Rantanen ja E. Saarinen, 
+          waltiopepetoksen walmistelusta 2 wuodeksi kuritushuoneeseen ja 5 wuodeksi kansalaisluottamuksensa menettäneeksi tuomitut Taneli Typpö, M. Hoikka ja A. Salo. (STT)</p>
+      </Article>
+
+      <div className="interTitle">17.10.1918</div>
+      <Article titleText="Tapahtumat Kauko-Karjalassa.">
+        <h5>Punaiset roistojoukot murhatöissä.</h5>
+        <p>Sawon Sanomat owat Kauko-Karjalasta saaneet seuraawia tietoja. Ryöstäessään Wienan Karjalan kyliä, owat sikäläiset punaiset ottaneet wangiksi ja osaksi surmanneet paikkakuntain 
+          suojeluskuntiin kuuluwia henkilöitä. Niinpä on nyt saatu selwille seuraawat: Paanajärwellä on ammuttu 5 henkilöä, Uhtualla on wangittu kaksi. Useita on siellä päässyt pakoon. Uhtuan 
+          Luusalmella wangittiin yksi, Sywälahdessa 6, joista yksi on päässyt pakoon, muut ammuttu. Wuokkiniemessä on ammuttu 18 henkilöä, joista suurin osa lienee murhattu. Näiden joukossa on 
+          m. m. wiisi naisihmistä. Kenttäjärwellä on murhattu 4, Kostamuksessa 3 ja Alajärwellä murhattu suojeluskunnan päällikkö. Wienanpuolen huligaanit toimiwat aiwan ominpäin, ilman että 
+          niillä olisi minkäänlaista sotilaallista johtoa. Aluksi oli mukana englantilaisia, jotka seurasiwat Jyskyjärwelle saakka, waan harwoja heistä käwi Uhtualla asti ja sieltä palasiwat 
+          loputkin pois. Myöskään ei punaisilla ole minkäänlaista järjestettyä sairashoitoa eikä edes leipääkään, joten joukot tekewät hywin awuttoman waikutuksen.</p>
+      </Article>
+
+      <div className="interTitle">19.10.1918</div>
+      <Article titleText="Jälleen punikkimurhaaja selwille.">
+        <p>Tampereen Pakkotyöwankilassa on jälleen paljastettu punakaartilaismurhaaja.</p>
+        <p>Kuten tunnettua murhattiin Urjalan Laukeelan kylässä olewalla Lehmussuolla myöhään illalla wiime helmikuun 4 p:nä 5 Mustialan oppilasta. Murhatapauksesta on lehdessämme jo kerrottu 
+          niiden tunnustusten mukaan, joita tähän joukkomurhaan jo selwille saadut osanottajat m. m. sekatyöm. Lauri Siktus Lindberg ja puuseppä Karl August Höijer owat antaneet. Eilen t. k. 16 
+          p:nä ilmoitettiin Urjalasta Tampereen Pakkotyölaitoksen johtajalle, että pakkotyölaitoksessa säilytetään erästä Urjalan Kehron kylästä kotoisin olewaa sekatyöm. Urho Nikolai Jalawaa 
+          joka on ollut yhtenä osanottajana mainitussa joukkomurhassa. Ilmoitusten johdosta pidettiin heti kuulustelu ja siinä Jalawa tunnustikin. Eräänä iltana wiime helmikuun alussa hän yhdessä 
+          muiden Laukeelan kunnanhuoneella majailewien punakaartilaisten kanssa sai määräyksen lähteä kuljettamaan wiittä wankia Laukeelasta rautatieasemalle Huhdin kylään josta wangit oli määrä 
+          lähettää rautateitse Turkuun. Joukon johtaja eräs pitkä mies, jonka nimestä Jalawa wäitti olewansa tietämätön, järjesti joukkueen siten, että kaksi asestettua punakaartilaista tuli 
+          kuljettamaan yhtä wankia tämän kummallekin puolelle asettuneena. Jalawan parina oli suutari Emil Tienhaara, joka oli aikaisemmin työssä ainakin Urjalan Salmen ja Huhdin kylässä. Kun oli 
+          kuljettu wähäinen matka Huhtiin päin, poikettiin Lehmussuolle wiewälle tielle, ja silloin oli joukkueen johtaja ilmoittanut, että wangit ammutaan. Noin 100 metrin päässä tästä paikasta 
+          oli se wanki, jota Jalawa ja Tienhaara kuljettiwat, lähtenyt juoksemaan pakoon. Silloin Jalawa ja Tienhaara annettujen käskyjen mukaisesti ampuiwat pakenewaa, joka ehti wain muutaman 
+          sylen päähän. Pakenewa kaatui kuolleena maahan. Waatteet riisui joku toinen murhajoukkueessa mukana ollut punakaartilainen. Jalawa on Waltiorikosoikeudessa jo saanut 12 wuoden 
+          kuritushuonetuomion waltiopetoksesta ja ryöstöstä. Päätöstä tehdessään tuomioistuin ei tuntenut Jalawan osuutta kysymyksessä olemaan joukkomurhaan. Ylempänä mainituista murhaajista 
+          owat Lindberg ja Höijer jo saaneet kuolemantuomion. Tienhaara on kuollut rintamalla Länkipohjassa.</p>
+      </Article>
+
+      <div className="interTitle">29.10.1918</div>
+      <Article titleText="Armahdus.">
+        <p>Kuten sanomalehdissä wiime aikoina olleet uutiset owat tienneet kertoa on hallituksella parhaillaan walmistettawana kysymys kapinawankien armahtamisesta. Lähempiä tietoja armahduksen 
+          laajuudesta ei wielä ole saatawissa, mutta kysymyksessä lienee sen ulottaminen aina 4 wuoden tuomittuihin asti.</p>
+        <p>Kun armahduskysymys näin on astunut päiwäjärjestykseen on sillä ollut pätewät syynsä. Jokaista waltiollista kapinaliikettä seuraa armahdus, milloin aikaisemmin, milloin myöhemmin. 
+          Niinpä Ranskan kommuunikapinassa, joka lähinnä on werrattawissa meidän punaisten kapinaamme, waikkakaan se julmuudessa ei wedä sille wertoja, tapahtui armahdus, tosin kyllä wasta 8 w. 
+          kuluttua tuomion julistamisesta. Kun armahduskysymys meillä jo nyt, waikka wielä ei kaikkia kapinawankeja ole ehditty edes tuomita, astuu esille, osottaa se, että hallituksemme omaa 
+          sittenkin enemmän ihmisyyttä, kuin Ranskan suuren tasawallan hallitus, waikkakaan siihen ei silloin eikä myöhemmin kohdistettu sellaista syytös- ja lokatulwaa, kuin meidän maamme 
+          hallitukseen, eräiltä Skandinawian maiden tahoilta. Suomen wankiloissa ja pakkotyölaitoksissa kapinawankien lukumäärä on nykyään n. 25,000. Huolehtiminen tällaisesta ihmisjoukosta 
+          tuottaisi meidän oloissamme jo tawallisinakin aikoina tawattomia waikeuksia, nykyään ne owat suorastaan yliwoimaisia. Jo aikaisemmin on hallitus kyllä kaikin tawoin koettanut wähentää 
+          wankien lukumäärää. Werrattain lukuisasti on heitä tuomittu ehdonalaiseen rangaistukseen, luowutettu töihin tai ainakin eri tahoille maatamme perustamalla pienempiä työsiirtoloita, 
+          koetettu hajoittaa pienempiin ryhmiin ja siten tehdä heidän olonsa siedettäwämmäksi. Kysymys on ollut myöskin heidän lähettämisestään Saksaan, mutta nyttemmin tämä aie lienee rauennut, 
+          eikä toimenpide alussakaan tuntunut erikoisen suosittawalta, maamme kun ilmankin kärsii suurta työwoiman puutetta. Kaikista näistä toimenpiteistä huolimatta, ei wankimäärää ole woitu 
+          tarpeeksi wähentää. Talwen lähetessä waikeudet käywät yhä suuremmiksi, ja wankien hoitoa uhkaawat jälleen epäkohdat, joista jo aikaisemmin on tarpeeksi ikäwiä kokemuksia. Waikeuksien 
+          suuruutta osottaa esim., että hallituksen wankien waatettamiseksi täytyy turwautua yksityiseen armeliaisuuteen, mikä puolestaan näyttää kylläkin arweluttawalta, yksityisellä 
+          armeliaisuudella tällaisena hätäaikana kun muutenkin on kyllin tehtäwää. Myöskin elintarpeiden hankkiminen tällaiselle wankimäärälle on osottautunut hywin hankalaksi. Suuri epäkohta on 
+          myöskin sotawäen käyttäminen wankien wartioimiseen, kun suuren wankijoukon wuoksi on ollut mahdotonta hankkia tarpeellista määrää palkattuja. Tämän lisäksi tulewat wielä ne suuret 
+          kustannukset, joita tällaisen wankijoukon ylläpitämisestä waltiolle koituu, sillä Suomen wankiloissa yhä edelleen käytännössä olewan työjärjestelmän mukaan ei wanki kykene ansaitsemaan 
+          edes ruokaansa. Huomautettakoon wielä niistä suurista menoista, joita jokaisen kunnan köyhäinhoidon osalle tulee huolehtiessaan punaisten wankien perheistä. Nykyisin uhkaa näiden 
+          perheiden asema käydä suorastaan epätoiwoiseksi, sillä kalliina aikana on kuntien mahdotonta edes osapuilleen pitää näistä huolta, mikä kuitenkin olisi yhteiskunnan ehdoton welwollisuus, 
+          sillä anteeksiantamaton wääryys, on antaa useimmiten wiattoman waimon ja aina wiattomain lasten kärsiä siitä, minkä isä on rikkonut.</p>
+        <p>Kaikki tämä suorastaan käytännöllisistä syistä lähtien pakottaa ajattelemaan keinoja epäkohtain wälttämiseksi. Asialla on kuitenkin wielä aatteelisempikin puolensa.</p>
+        <p>Ne kapinawangit, joita armahdus tulee koskemaan kuuluu joko siihen ymmärtämättömään joukkoon, johon kiihottajain puheet owat tehonneet ja josta osa warmaan on luullut hywän ja oikean 
+          asian puolesta taistelleensa. Näihin kuuluu myöskin niitä, jotka suoranaisen nälän pakottamana liittyiwät punaiseen armeijaan, jossa paitsi runsasta ruokaa tarjottiin wielä hywä palkka. 
+          Muistettawa on myöskin, että sota-ajan olot owat monessa suhteessa olleet omiaan käsitteitä sekaannuttamaan. On tosin saattanut tapahtua, että näistäkin aineksista joku hurjan 
+          kiihoituksen yllyttämänä on eksynyt kauhuntöihin, mutta suurin osa kuitenkin on pysynyt tawallisena palkkalaisena, joiden tilille ei yksityisluontoista rikosta saata panna. Tawallisissa 
+          oloissa ei näistä aineksista siten ole yhteiskunnan turwallisuudelle mitään waaraa. Wiimeaikaiset kokemukset owat lisäksi antaneet heille wakawan opetuksen käyttämänsä keinon 
+          turmiollisuudesta ja on omiaan saattamaan heidät wakuutetuiksi äänestyslipun ja siwistyksen etewämmyydestä kiwäärin ja joukkojen riehunnan rinnalla yhteiskuntaa rakentaessa.</p>
+        <p>Kaikesta tästä huolimatta ja waikka waltiorikoswankien armahtaminen lisäksi on omiaan poistamaan nykyisin miltei kaikilla aloilla niin maataloudessa kuin teollisuudessakin wallitsewaa 
+          työwoiman puutetta, on kuitenkin henkilöitä, jotka epäillen suhtautuwat tekeillä olewaan toimenpiteeseen. Yleensä on toimenpide kuitenkin herättänyt maassa tyydytystä. On aika ryhtyä 
+          parantamaan niitä haawoja, joita kansamme wiime kamppailussa on saanut. Yhteiskuntaa säilyttäwien ainesten on ojennettawa harhaanjohdetuille sowinnon käsi ja koetettawa johtaa heidät 
+          oikealle tielle. Nyt tapahtuwa armahdus on olewa ensimäinen koe tällä alalla ja se on osottawa, onko sillä menestymismahdollisuuksia.</p>
+      </Article>
+
+      <div className="interTitle">2.11.1918</div>
+      <Article titleText="Armahdusjulistus.">
+        <h5>Kaikki korkeintaan 4 wuodeksi tuomitut kapinawangit armahdetaan.</h5>
+        <p>Korkeimman wallan haltijan päätös eräiden waltiorikosoikeuksien tuomitsemain rangaistusten liewentämisestä. Annettu Helsingissä lokakuun 30 pnä 1918.</p>
+        <p>Mielettömän aseellisen kapinan tultua kukistetuksi alkaa yleinen järjestys palautua entiselleen. Niiden henkilöiden teot, jotka siinä nousiwat laillista yhteiskuntajärjestystä ja omaa 
+          isänmaataan wastaan, owat pian lopullisesti tutkitut ja rikolliset rangaistukseen tuomitut.</p>
+        <p>Koska kuitenkin suurin osa rikoksellisista tunnottomain ja wallanhimoisten johtajain yllyttäminä owat olleet harhaanjohdettuja, olen katsonut olewan syytä liewentää lyhempiaikaiseen 
+          ehdottomaan rangaistukseen tuomittujen kapinaan osaa ottaneiden kohtaloa. Suomen senaatin esityksestä ja sen wallan nojalla, maan perustuslait korkeimman wallan haltijalle myöntäwät, 
+          määrään siis:</p>
+        <p>Kaikki ne, jotka käsittelemään asetetut oikeudet owat tuominneet taikka wastedes tuomitsewat ehdottomaan wapausrangaistukseen enintään 4 wuodeksi, owat tuomion saatua lain woiman niin 
+          pian kuin mahdollista laskettawa ehdonalaiseen wapauteen noudattamatta sitä menettelyä, joka on säädetty rangaistusten täytäntöönpanosta joulukuun 19 pnä 1884 annetun asetuksen 2 luwun 
+          13 §:ssä, mutta muuten siinä järjestyksessä ja niillä ehdoilla kuin mainitun asetuksen 1 luwun 14 ja seuraawissa pykälissä säädetään.</p>
+        <p>Jos waltiorikosylioikeus on, käyttäen sille annettua armahduswaltaa, alentanut rikolliselle tuomitun rangaistuksen enintään 4 wuoden ehdottomaksi wapausrangaistukseksi, laskettakoon 
+          sellainenkin rikollinen ehdonalaiseen wapauteen, niinkuin edellä on säädetty.</p>
+        <p>Tämä armahdus ei koske niitä rangaistuswankeja, jotka sen jälkeen kuin heidät on tuomittu waltiorikosoikeudessa, owat karanneet wankileiriltä tahi rangaistuslaitoksista, eikä myöskään 
+          niitä, jotka tätä päiwää lähinnä edellä kuluneitten 10 wuoden aikana owat muista kuin waltiorikosoikeuden käsittelemistä rikoksista tuomitut kuritushuoneeseen tai pitemmäksi ajaksi kuin 
+          6 kuukaudeksi wankeuteen tai jotka samana aikana owat kärsineet aikaisemmista rikoksista tällaista wapausrangaistusta.</p>
+        <p className="leftP">Helsingissä, lokakuun 30 pnä 1918.</p>
+        <p className="zeroBotMargin">Suomen senaatin puheenjohtaja</p>
+        <p className="signature zeroTopMargin">P. E. Swinhufwud.</p>
+        <p className="zeroBotMargin">Oikeustoimituskunnan päällikkö</p>
+        <p className="signature zeroTopMargin">Onni Talas.</p>
+      </Article>
+      <Article titleText="Ruotsin bolshewikit ja Suomen hallitus.">
+        <h5>Nyt waaditaan täyttä armahdusta kaikille kapinallisille.</h5>
+        <p>Tukholmassa t. k. 28 p. pidetyssä wasemmistososialistien kokouksessa, jossa oli osanottajia 1,800, lausuttiin „suuttumus ja inho” suomalaisen taantumuksen „weristä esiintymistä Suomen 
+          työläisiä wastaan” ja terwehdittiin ilolla rautatieläisten ja kuljetustyöläisten esiintymistä, jota paitsi Ruotsin työläisiä kehoitettiin ottamaan käsiteltäwäkseen kysymyksen Suomen 
+          täydellisestä tawarasaarrosta kunnes täydellinen armahdus on woimaansaatettu ja Suomen työläisten kaikki oikeudet jälleen palautetut. (Hbl)</p>
+      </Article>
+
+      <div className="interTitle">12.12.1918</div>
+      <Article titleText="Uusi armahduskirja.">
+        <h5>Kuolemanrangaistus muutetaan elinkautiseksi kuritushuonerangaistukseksi. — Elinkautinen kuritushuonerangaistus alennetaan 12 wuoteen. — Wankeusrangaistuksia alennetaan.</h5>
+        <p>Sen lisäksi, mitä asiasta jo olemme kirjoittaneet, woimme mainita seuraawaa:</p>
+        <p>Ankarampaan kuin 6 wuoden ehdottomaan wapauskangaistukseen tuomitun henkilön rangaistus on alennettawa siten, että kuolemanrangaistus waihdetaan elinkautiseksi 
+          kuritushuonerangaistukseksi; elinkautinen kuritushuonerangaistus muutetaan kuritushuoneeksi 12 wuodeksi ja määräajaksi, yli 6 wuoden, määrätty wapausrangaistus alennetaan kolmannella 
+          osalla.</p>
+        <p>Kapinaan liittyneiden henkilöiden syyttäminen on raukeawa, ellei heitä wielä ole pantu syytteeseen. Tämä amahdus ei kuitenkaan koske niitä, jotka owat olleet yllyttäjiä tai kapinan 
+          johtajia tai owat olleet osallisia murhapolttoihin, eikä myöskään niitä, jotka owat paenneet maan ulkopuolelle.</p>
+        <p>Niiden henkilöiden wapausrangaistus, jotka owat tuomitut enintään 4 wuoden rangaistukseen, eiwätkä wiime kerralla tulleet armahduksesta osallisiksi, on alennettawa kolmannella osalla.</p>
+        <p>Henkilöt, jotka kapinan kukistamisen tarkoituksessa owat menneet yli sen, mikä olisi ollut tarpeen, jätettäköön rankaisematta.</p>
+        <p>Jos joku ennen maaliskuuta 1917 on waltiollisista syistä tehnyt rikoksen, olkoon siitä tuomittu rangaistus rauennut.</p>
+        <p>Edellämäärätty syytteestä wapauttaminen ei estä asianomaista eikä hänen oikeudenomistajaansa ajamasta wahingonkorwauskannetta lain mukaan.</p>
+        <p>Waltioneuwostolla on walta tarpeen tullen antaa tätä päätöstä koskewia selityksiä.</p>
+      </Article>
+
       <br></br>
       <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1918">Linkki vuosikertaan 1918</a>
     </Layout>

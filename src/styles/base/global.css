@@ -101,10 +101,10 @@ article p {
 .centered {
   text-align: center;
 }
-.boldStyle {
+.bold {
   font-weight: bold;
 }
-.quotationStyle {
+.quotation {
   font-style: italic;
 }
 .quote {
@@ -155,13 +155,16 @@ article p {
   text-indent: 0;
   text-align: left;
 }
+.zeroTopMargin {
+  margin-top: 0px;
+}
+.zeroBotMargin {
+  margin-bottom: 0px;
+}
 /* Other styles
 ----------------------------------------------------------------------------------------------------- */
 .maxHeightStyle {
   max-height: 300px;
-}
-.marginYStyle {
-  margin: 8px auto;
 }
 .verticalSpacer {
   height: 16px;

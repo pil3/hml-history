@@ -3,12 +3,31 @@ import * as React from "react"
 import Layout from "../components/layout"
 import Article from "../components/article"
 
+import QuoteStart from "../assets/quotation-start.svg"
+import QuoteEnd from "../assets/quotation-end.svg"
+
 import "../styles/base/global.css"
 
 const IndependencePage = () => {
   return (
     <Layout titleText="Hämeen Sanomat, 1917-18">
       <h2>Itsenäistyminen</h2>
+
+      <div className="interTitle">11.10.1917</div>
+      <Article titleText="Perustuslakikomitean ehdotus Suomen waltiomuodoksi.">
+        <p>Kuten jo wiime lehdessä mainitsimme on heti wallankumouksen puhjettua asetettu perustuslakikomitea saanut tärkeän työnsä walmiiksi.</p>
+        <p>Se on antanut senaattiin kaksi, 3 pnä tätä kuuta päiwättyä mietintöä ja niissä paitsi yksityiskohtaisia perusteluja, on kaksi eri lakiehdotusta. Toinen on ehdotus „laiksi Wenäjän ja 
+          Suomen wälisestä oikeussuhteesta”, toinen taas Suomen warsinaisen uuden hallitusmuodon ehdotus.</p>
+        <p>Merkitykseltään owat ehdotukset mitä laajakantoisimpia. Edellinen niistä käsittää kaikki ne muodot, jotka muodostawat tasawallan, presidentteineen ja ministereineen, täysin nykyaikaisen 
+          ja kansanwaltaisemmille perusteille rakennetun kuin monessa muussa nykyisin olewassa tasawallassa. Niinpä presidentin waali on säädetty tapahtuwaksi wälittömillä waaleilla ja presidentin 
+          useissa tasawalloissa paljon merkitsewä weto-oikeus on rajoitettu mahdollisimman wähiin.</p>
+        <p>Emme saata yksityiskohtaisesti tehdä selkoa laajan lakiehdotuksen eri puolista. Woimme wain lausua tyydytyksen tunteen, siitä että tämä tärkeä walmistustyö nyt on saatu 
+          loppuunsuoritetuksi. Woimaan astuttuaan on se warmaan luowa maallemme onnellisemman tulewaisuuden, kuin mikä sen osana on näihin asti ollut.</p>
+        <p>Yhtä laajakantoinen on komitean ehdotus „laiksi Wenäjän ja Suomen wälisestä oikeussuhteessa”. Tällä hetkellä kiintyy kenties kansamme päähuomio juuri tähän osaan komitean ehdotusta. 
+          Siinä on näet kysymys wastaisen waltiollisen olemuksemme koko perustuksesta, ja siinä kohti käywät, kuten tunnettu, käsitykset siitä, mikä on mahdollista saawuttaa, mikä ei, laajalti 
+          erilleen. Kuinka lieneekään, on olewa suuri woitto, että perustuslakikomitean ehdotuksessa nyt olemme saaneet yksityiskohtaisen suunnitelman Suomen wastaisen kansainwälisen aseman 
+          järjestämiseksi ehdotuksen, joka kansallemme ilmoittaa millaiseksi joukko parhaita ja edustajawimpia miehiämme on ajatellut nykyoloissa mahdolliseksi saada tämän aseman muodostetuksi.</p>
+      </Article>
 
       <div className="interTitle">18.10.1917</div>
       <Article titleText="Miten Suomea wastaisuudessa on hallittawa.">
@@ -17,29 +36,29 @@ const IndependencePage = () => {
           kansalaisten oikeutta ja lainalaista wapautta, wahwistetaan täten Suomen eduskunnan päätöksen mukaisesti, joka on tehty 30 p. heinäkuuta 1906 annetun waltiopäiwäjärjestyksen 60 pykälässä 
           määrätyllä tawalla, seuraawa hallitusmuoto Suomelle.</p>
         <p>Tämän jälkeen seuraawissa säädöksissä säädetään.</p>
-        <p><span className="boldStyle">1§.</span> Suomi on tasawalta, jonka waltiosääntö on wahwistettu tässä hallitusmuodossa ja maan muissa perustuslaeissa.</p>
+        <p><span className="bold">1§.</span> Suomi on tasawalta, jonka waltiosääntö on wahwistettu tässä hallitusmuodossa ja maan muissa perustuslaeissa.</p>
         <p>Wenäjän ja Suomen wälisistä oikeussuhteista määrätään erityisessä perustuslaissa.</p>
-        <p><span className="boldStyle">2§.</span> Lainsäädäntöwaltaa käyttää eduskunta yhdessä tasawallan presidentin kanssa.</p>
+        <p><span className="bold">2§.</span> Lainsäädäntöwaltaa käyttää eduskunta yhdessä tasawallan presidentin kanssa.</p>
         <p>Toimeenpanewa walta on uskottu presidentille. Sen ohessa on maan yleistä hallitusta warten olewa waltioneuwosto, johon kuuluu pääministeri ja tarwittawa määrä ministereitä.</p>
         <p>Tuomiowaltaa käyttäwät riippumattomat tuomioistuimet, ylimmässä oikeusasteessa on korkein oikeus ja korkein hallinto-oikeus.</p>
-        <p><span className="boldStyle">3§.</span>  Suomen alue pysytetään sellaisena kuin se nykyisin on, eikä sen rajoja woida muuttaa muuten kuin eduskunnan suostumuksella.</p>
-        <p><span className="boldStyle">4§.</span> Suomen kansalaisoikeus on jokaisella, joka on suomalaisista wanhemmista syntynyt sekä muun maan naisella, joka on mennyt naimisiin suomalaisen 
+        <p><span className="bold">3§.</span>  Suomen alue pysytetään sellaisena kuin se nykyisin on, eikä sen rajoja woida muuttaa muuten kuin eduskunnan suostumuksella.</p>
+        <p><span className="bold">4§.</span> Suomen kansalaisoikeus on jokaisella, joka on suomalaisista wanhemmista syntynyt sekä muun maan naisella, joka on mennyt naimisiin suomalaisen 
           kanssa.</p>
         <p>Muun maan kansalainen woidaan ottaa kansalaiseksi niillä ehdoilla ja siinä järjestyksessä kuin laissa erikseen säädetään.</p>
         <p>Suomen kansalaisten yleisistä oikeuksista säädetään seuraawaa.</p>
-        <p><span className="boldStyle">5§.</span> Jokaisella Suomen kansalaisella olkoon hengen, kunnian, henkilökohtaisen wapauden, onnen ja omaisuuden puolesta turwattuna oikeutensa lain mukaan. 
+        <p><span className="bold">5§.</span> Jokaisella Suomen kansalaisella olkoon hengen, kunnian, henkilökohtaisen wapauden, onnen ja omaisuuden puolesta turwattuna oikeutensa lain mukaan. 
           Älköön Suomen kansalaisen saawutettuja oikeuksia uudella lailla rajotettako muussa järjestyksessä kuin perustuslain muuttamisesta on säädetty.</p>
-        <p><span className="boldStyle">6§.</span> Suomen kansalainen on oikeutettu oleskelemaan omassa maassaan, wapaasti täällä walitsemaan asuinpaikkansa ja kulkemaan paikkakunnasta toiseen.</p>
-        <p><span className="boldStyle">7§.</span> Suomen kansalaisella on sananwapaus sekä oikeus kirjotuksen ja kuwallisen esityksen painosta julkaisemiseen kenenkään siitä ennakolta estämättä, 
+        <p><span className="bold">6§.</span> Suomen kansalainen on oikeutettu oleskelemaan omassa maassaan, wapaasti täällä walitsemaan asuinpaikkansa ja kulkemaan paikkakunnasta toiseen.</p>
+        <p><span className="bold">7§.</span> Suomen kansalaisella on sananwapaus sekä oikeus kirjotuksen ja kuwallisen esityksen painosta julkaisemiseen kenenkään siitä ennakolta estämättä, 
           niin myös oikeus edeltäpäin lupaa hankkimatta kokoontua keskustelemaan yleisistä asioista tahi muussa luwallisessa tarkotuksessa sekä perustaa yhdistyksiä tarkotusten toteuttamista warten, 
           jotka eiwät ole wastoin lakia ja hywiä tapoja.</p>
         <p>Säännökset sanottujen oikeuksien käyttämisestä annettakoon lailla.</p>
-        <p><span className="boldStyle">8§.</span> Kirjallisuus on loukkaamaton, mikäli siitä ei ole laissa poikkeusta säädetty.</p>
-        <p><span className="boldStyle">9§.</span> Älköön Suomen kansalaista tuomittako muussa oikeudessa kuin siinä, jonka alainen hän maan lain mukaan on.</p>
-        <p><span className="boldStyle">10§.</span> Suomen kansalaisella olkoon walta oikeudessa tahi waltion hallintowiranomaisen luona omassa asiassaan käyttää suomalaista tahi ruotsalaista 
+        <p><span className="bold">8§.</span> Kirjallisuus on loukkaamaton, mikäli siitä ei ole laissa poikkeusta säädetty.</p>
+        <p><span className="bold">9§.</span> Älköön Suomen kansalaista tuomittako muussa oikeudessa kuin siinä, jonka alainen hän maan lain mukaan on.</p>
+        <p><span className="bold">10§.</span> Suomen kansalaisella olkoon walta oikeudessa tahi waltion hallintowiranomaisen luona omassa asiassaan käyttää suomalaista tahi ruotsalaista 
           äidinkieltään niinkuin siitä laissa säädetään.</p>
         <p>Säännöksiä tämän maan oikeus- ja wirkakielestä annetaan lain kautta.</p>
-        <p><span className="boldStyle">11§.</span> Mitä Suomen kansalaisten yleisistä oikeuksista on sanottu, ei estä lailla säätämästä sellaisia rajotuksia, jotka sodan aikana yleensä ja 
+        <p><span className="bold">11§.</span> Mitä Suomen kansalaisten yleisistä oikeuksista on sanottu, ei estä lailla säätämästä sellaisia rajotuksia, jotka sodan aikana yleensä ja 
           sotapalweluksessa olewiin nähden kulloinkin owat wälttämättömiä.</p>
         <p>Lainsäädäntöä koskewassa säädetään m.m.</p>
         <p>Oikeus tehdä ehdotuksia uuden lain säätämisestä sekä ennestään olewan muuttamisesta, selittämisestä tahi kumoamisesta on presidentillä sekä eduskunnalla.</p>
@@ -499,11 +518,11 @@ const IndependencePage = () => {
       
       <div className="interTitle">18.6.1918</div>
       <Article titleText="Hallituksen esitys Suomen hallitusmuodoksi.">
-        <p>Ehdotuksen 1 § kuuluu: <span  className="quotationStyle">„Suomi on täysiwaltainen, perustuslaillinen kuningaskunta. Kuninkuus on perinnöllinen sen mukaan kuin erityisessä perustuslaissa 
+        <p>Ehdotuksen 1 § kuuluu: <span  className="quotation">„Suomi on täysiwaltainen, perustuslaillinen kuningaskunta. Kuninkuus on perinnöllinen sen mukaan kuin erityisessä perustuslaissa 
           säädetään</span>. 13 §:stä näkyy, että waltaistuin ei ole aiottu periytywäksi naisen puolelta. Kuningas älköön samalla olko toisen waltakunnan hallitsijana. Kuninkaan tulee tunnustaa 
           ewankelista uskon oppia.</p>
         <p>Hallitukseen astuessaan antaa kuningas Suomen kansalle wakuutuksen maan waltiosäännön ja lakien woimassapitämisestä.</p>
-        <p>6 § toistaa Ruotsi-Suomen peruslakien ikiwanhan kauniin säännöksen, että <span  className="quotationStyle">„kuninkaan tulee oikeutta ja totuutta wahwistaa, rakastaa ja warjella, mutta nurjuutta ja wääryyttä kieltää ja 
+        <p>6 § toistaa Ruotsi-Suomen peruslakien ikiwanhan kauniin säännöksen, että <span  className="quotation">„kuninkaan tulee oikeutta ja totuutta wahwistaa, rakastaa ja warjella, mutta nurjuutta ja wääryyttä kieltää ja 
           polkea”</span></p>
         <p>Kuningas ja kruununperillinen on täysi-ikäinen 18 wuoden wanhana.</p>
         <p>Kuningas älköön eduskunnan suostumuksetta oleskelko ulkomailla kanempaa kuin 6 kuukautta.</p>
@@ -542,7 +561,7 @@ const IndependencePage = () => {
           tarkempia määräyksiä lakien täytäntöönpanosta, waltion omaisuuden hoidosta sekä hallintowirastojen ja yleisten laitosten järjestysmuodosta ja toiminnasta. Asetukseen älköön kuitenkaan 
           otettako säännöstä, joka sisältäisi lain muutoksen.</p>
         <p>42 §, joka on uusi, ehdottaa meilläkin Ruotsin esimerkin mukaan säädettäwäksi oikeuskanslerin (nyk, prokuraattorin) rinnalle eduskunnan lainwalwojan. § kuuluu:</p>
-        <p className="quotationStyle">„Jokaisilla warsinaisilla waltiopäiwillä on siinä järjestyksessä kuin eduskunnan puhemiehen waalista on säädetty, walittawa lainopillisista tiedoistaan ja 
+        <p className="quotation">„Jokaisilla warsinaisilla waltiopäiwillä on siinä järjestyksessä kuin eduskunnan puhemiehen waalista on säädetty, walittawa lainopillisista tiedoistaan ja 
           erinomaisesta rehellisyydestään tunnettu mies walwomaan, sen johtosäännön mukaan, jonka eduskunta hänelle laatii, että tuomarit ja muut wirkamiehet noudattawat lakia sekä ettei kukaan 
           joudu laillisessa oikeudessaan poljetuksi. Paitsi tätä eduskunnan oikeusasiamiestä on eduskunnan samassa järjestyksessä walittawa mies, jolla on yhtäläiset ominaisuudet, eduskunnan 
           oikeusasiamiehen estettynä ollessa, hoitamaan hänen tointaan sekä jos hän kuolisi ennenkuin lähinnä kokoutuwat warsinaiset waltiopäiwät owat toimittaneet uuden waalin, astumaan hänen 
@@ -560,11 +579,11 @@ const IndependencePage = () => {
           jäsenet; howioikeuksien jäsenet ja yliopiston sekä teknillisen korkeakoulun professorit; keskuswirastojen päälliköt ja jäsenet sekä maaherrat, waltioneuwoston esityksestä; asianomaisen 
           wiranomaisen esityksestä, waltioneuwoston, korkeimman oikeuden ja korkeimman hallinto-oikeuden esittelijät sekä Suomen lähettiläät ulkowaltojen luona ja konsulit.</p>
         <p>34 §:</p>
-        <p className="quotationStyle">„Suomen kansalaisella olkoon walta oikeudessa tai waltion hallituswiranomaisen luona omassa asiassaan käyttää suomalaista tai ruotsalaista äidinkieltään, 
+        <p className="quotation">„Suomen kansalaisella olkoon walta oikeudessa tai waltion hallituswiranomaisen luona omassa asiassaan käyttää suomalaista tai ruotsalaista äidinkieltään, 
           niinkuin siitä laissa säädetään.</p>
-        <p className="quotationStyle">Säännöksiä tämän maan oikeus- ja wirkakielestä annetaan lain kautta; ja on asianomaiselle siinä, mikäli mahdol lista, warattawa oikeus saada toimi tuskirja 
+        <p className="quotation">Säännöksiä tämän maan oikeus- ja wirkakielestä annetaan lain kautta; ja on asianomaiselle siinä, mikäli mahdol lista, warattawa oikeus saada toimi tuskirja 
           mainitulla äidinkielellään.</p>
-        <p className="quotationStyle">Maan suomen- ja ruotsinkielisen wäestön siwistyksellisiä ja taloudellisia tarpeita tulee waltion tyydyttää samanlaisten perusteiden mukaan.”</p>
+        <p className="quotation">Maan suomen- ja ruotsinkielisen wäestön siwistyksellisiä ja taloudellisia tarpeita tulee waltion tyydyttää samanlaisten perusteiden mukaan.”</p>
         <p>(Näistä säännöksistä oli ensimäisessä momentissa olewa sekä toisen momentin ensimmäinen lause puolipisteeseen saakka jo syksyllä annetussa hallitusmuotoesityksessä. Muut owat uusia.)</p>
         <p>55 §, 3 mom. (uusi):</p>
         <p className="quote">Hallintoalueiden rajat owat, missä asianhaarat salliwat, määrättäwät kulkemaan pitkin suomalaisen ja ruotsalaisen wäestän asutusalueiden wälisiä rajoja.</p>
@@ -801,6 +820,114 @@ const IndependencePage = () => {
           aikaansaamiseksi.</p>
       </Article>
 
+      <div className="interTitle">24.9.1918</div>
+      <Article titleText="Tulewa kuninkaamme.">
+        <h5>Prinssi Friedrich Karlin odotetaan saapuwan Suomeen lokak. lopulla.</h5>
+        <p><span className="accent">Berlin</span>, syysk. 19 p.<br />Ministeri Hjelt on tänään palannut käynniltä Hessenin prinssin Friedrich Karlin luona. Hänet kutsuttiin päiwällisille 
+          Friedrichshofiin, missä wiipyi koko iltapäiwän. Ministeri oli käyntiinsä warsin tyytywäinen. Prinssi walmistautuu tehtäwäänsä wakawasti ja suurta harrastusta osoittaen. Jos kaikki käy 
+          laskelmien mukaan, tulee prinssi saapumaan Helsinkiin lokakuun lopulla. Tohtori Holma matkusti tänään Friedrichshofiin opastamaan prinssiä, joka jo suurimmalla innolla on alottanut 
+          suomenkielen, historian, maantiedon ja waltio-oikeuden opiskelun. — Hbl.</p>
+      </Article>
+      <Article titleText="Kuninkaan wastaanotto.">
+        <h5>Pääkaupunki juhla-asuun.</h5>
+        <p>Tulewan kuninkaamme arwokasta wastaanottoa warten ja hänen pääkaupunkinsa saattamiseksi juhla-asuun on asetettu erityinen komitea, johon kuuluwat kaupungininsinööri Gabriel Idström sekä 
+          arkkitehdit Birger Brunila, Karl Hård af Segerstad ja Hugo Lindberg. Komitean käytettäwäksi on asetettu tarpeelliset warat ja lienee se jo ryhtynyt hankkimaan tarpeellisen määrän Suomen 
+          lippuja.</p>
+      </Article>
+
+      <div className="interTitle">12.10.1918</div>
+      <Article titleText="Kuninkaan vaali.">
+        <h5>Suomen kuninkaaksi walittu Hessenin prinssi Friedrich Karl.</h5>
+        <p>Senjälkeen kuin eduskunta oli suljettujen owien takana kolmeen eri towiin käsitellyt muutamia hywin tärkeitä kysymyksiä sekä niitä ilmoituksia joita sille hallituksen taholta 
+          ilmoitettiin kokoontui eduskunta keskiwiikkona klo puoli 10 awoimeen täysi-istuntoon, joka istunto on Suomen historian merkityin tapaus.</p>
+        <p>Istunnon alussa ilmoitti puhemies että eduskunnan on täytettäwä sille woimassaolewan 1772 wuoden hallitusmuodon 38 §:n määräämä welwollisuus, kuninkaan walitseminen waltakunnalle.</p>
+        <p>Puheenwuoron sai tämän jälkeen ed. Antila, joka lausui: Pyydän saada lausua, että eduskunta walitsisi Hessenin prinssin Fredrik Kaarlen Suomen kuninkaaksi hallitsemaan Suomen 
+          kuningaskuntaa sen waltiosäännön ja lakien mukaan, päättäisi oikeuttaa Hessenin prinssin Fredrik Kaarlen rintaperilliset hänen jälkeensä astumaan Suomen kuningaskunnan waltaistuimelle 
+          siinä järjestyksessä ja sillä tawoin kuin wastedes säädettäwä wallanperimyslaki määrää sekä waltuuttaisi nykyisen puhemiesneuwoston jäsenet määräämään millä tawoin nämä eduskunnan 
+          päätökset owat saatettawat Hessenin prinssin Fredrik Kaarlen tietoon.</p>
+        <p>Ed. Paasiwuori (sos.-dem.) ilmoitti panewansa wastalauseensa kuninkaanwaalin toimittamisen johdosta.</p>
+        <p>Tämän jälkeen lausui ed. Alkio seuraawaa: Jo äskeisessä eduskunnan suljetussa istunnossa esitin wastalauseen kuninkaanwaalin toimittamista wastaan. Nyt tässä awoimessä istunnossa pyydän 
+          uudestaan esittää saman wastalauseen. Maalaisliiton eduskuntaryhmä kokonaisuudessaan wastustaa jyrkästi ja ehdottomasti kuninkaanwaalin toimittamista 1772 wuoden hallitusmuodon 38 §:n 
+          mukaan, koska mainittu lainkohta ei ole Suomessa ollut woimassa sittenkun Suomi erosi Ruotsista. Niinikään eduskunnan wiime jouluk. 6 pnä yksimielisesti tekemää päätöstä että Suomi on 
+          olewa riippumaton tasawalta, ei ole purettu, waikkakin eduskunta antamalla hallituksen asiaksi ryhtyä walmistawiin toimenpiteisiin kuninkaanwaalia warten on tehnyt sen kanssa 
+          ristiriitaisen päätöksen. Myöskään ei eduskunnan jossa on wain wähän yli puolet eduskunnan laillisesta edustajalukumäristä, pitäisi katsoa itseänsä asiallisesti oikeutetuksi ratkaisemaan 
+          äänestäjiin wetoamatta näin kauaksi kantawaa kysymystä. Jos kuitenkin eduskunnan enemmistö tästä kaikesta huolimatta päättää toimittaa kuninkaanwaalin, olen saanut toimekseni ilmottaa 
+          maalaisliiton edustajain puolesta sitä wastaan wastalauseemme. Me emme ota osaa kuninkaanwaaliin, joten wapautamme itsemme kaikesta siitä johtuwasta edeswastuusta.</p>
+        <p>Ed. Wrede (rp.) ilmoitti kannattawansa ed. Antilan tekemää ehdotusta.</p>
+        <p>Keskustelu julistettiin päättyneeksi. — Tämän jälkeen lausu puhemies: Keskustelun aikana on ed. Anttila ed. Wreden kannattamana ehdottanut että eduskunta walitsisi Hessenin prinssin 
+          Fredrik Kaarlen Suomen kuninkaaksi hallitsemaan Suomen kuningaskuntaa sen waltiosäännön ja lakien mukaan, päättäisi oikeuttaa Hessenin prinssin Fredrik Kaarlen rintaperilliset hänen 
+          jälkeensä astumaan Suomen kuningaskunnan waltaistuimelle siinä järjestyksessä ja sillä tawoin kuin wastedes säädettäwä wallanperimyslaki määrää sekä waltuuttaisi nykyisen 
+          puhemiesneuwoston jäsenet määräämään millä tawoin nämä eduskunnan päätökset owat saatettawat Hessenin prinssin Fredrik Kaarlen tietoon. Muuta ehdotusta ei ole tehty. — Selonteko 
+          myönnettiin oikeaksi, jonka jälkeen puhemies lausui: Kun ehdotusta ei ole wastustettu, katson eduskunnan hywäksyneen sen. Tämän jälkeen nousi puhemies seisaalleen, samoinkuin koko 
+          eduskunta, maalaisliittolaisia ja Matti Paasiwuorta lukuunottamatta, jolloin puhemies lausui: Eduskunta on siis päättänyt walita Hessenin prinssin Fredrik Kaarlen kuninkaaksi 
+          hallitsemaan Suomen kuningaskuntaa sen waltiosäännön ja lakien mukaan, päättänyt oikeuttaa Hessenin prinssin Fredrik Kaarlen rintaperilliset hänen jälkeensä astumaan Suomen 
+          kuningaskunnan waltaistuimelle siinä järjestyksessä ja sillä tawalla kuin wastedes säädettäwä wallanperimyslaki määrää sekä waltuuttanut nykyisen puhemiesneuwoston jäseneet määräämään, 
+          millä tawoin nämä eduskunnan päätökset owat saatettawat Hessenin prinssin Fredrid Kaarlen tietoon.</p>
+        <p>Istunto päättyi klo 10 illalla.</p>
+      </Article>
+
+      <div className="interTitle">19.10.1918</div>
+      <Article titleText="Ranska ja Suomen itsenäisyys.">
+        <p>Ranskan Helsingissä olewa konsuli on hallituksensa puolesta jättänyt senaatin ulkoasiaintoimituskunnalle nootin, jonka mukaan Ranskan hallitus siinä tapauksessa, että Hessenin prinssi 
+          Fredrik Kaarle tulee Suomen kuninkaaksi, ei enää tunnusta Suomen itsenäisyyttä, waan tulee katkaisemaan wälinsä Suomen hallituksen kanssa.</p>
+      </Article>
+
+      <div className="interTitle">14.11.1918</div>
+      <Article titleText="Prinssi Fredrik Kaarlen vastaus.">
+        <h5>Hessenin prinssin wastaus,</h5>
+        <p>joka esiteltiin eduskunnalle wiime maanantain istunnossa kuuluu suomeksi näin:</p>
+        <p>Herra Puhemies!</p>
+        <p>Suomen Eduskunnan minulle ja perheelleni erinomaisen tärkeä päätös lokak. 10 päiwältä todistaa sellaista luottawaista mieltä, jonka ilmauksen wastaanottaminen täyttää minut 
+          kiitollisuudella ja jonka muuttamisen aikaa myöten todelliseksi luottamukseksi täytyisi tulla korkeammaksi ja onnellistuttawimmaksi tehtäwäkseni. Sillä luottamuksen perustalla on waltio 
+          rakennettu ja kruunun kantaja, joka itse tuntee olewansa kansan kokonaisuuden osa, nauttii luottamuksen etua kuin sisäistä hywää, joka on määrätty tulemaan hänelle pysywäisenä, 
+          erotukseksi muista waltiollisen wastuun kantajista, jotka tulewat ja menewät heille suodun luottamisen mukana. Sellaisen kalliin omaisuuden perijän tulee wain huolehtia siitä, kuinka hän 
+          sen säilyttää, mutta ken ulkoa kutsutaan sitä nauttimaan, hänen täytyy se jälkeenpäin hankkia. Tämä olisi minun kohtaloni, jos kutsua noudattaisin. Mutta ensin täytyy olla selwää, mikä 
+          Suomelle on eduksi ja onneksi, sillä se wain saa määrätä, mitä minun tulee tehdä. Jalo, lahjakas, wakawan oikeustajunnan leimaama kansa, täynnä ylewää erikoisuutta, jonka elämisen 
+          taistelua muut kansat owat jo wuosikymieniä osaa ottaen seuranneet, on noussut itsenäisyyteen, ei ilman raskaita uhreja. Mitä se on saawuttanut, sen se tahtoo säilyttää, ennen muuta 
+          wapaan waltiollisen elämänsä ja taloudellisen hywinwointinsa. Synnynnäinen kunto ja luja sitkeys owat sen tulewaisuuden takeina. Kuinka woisi se, jonka tämä kansa luoksensa kutsuu 
+          kanssansa jakamaan huolet ja waiwat, mutta myös onnen, muuhun pyrkiä kuin siihen, että hänestä tulisi sen waltioruumiin myötäwaikuttawa jäsen, sowituksen elin sisään- ja ulospäin. Sillä 
+          miten hän muuten woisi olla sille hyödyksi? Sentähden olisi toiwoni ollut, etten astuisi uusien welwollisuuksieni piiriin wanhan, epä-ajanmukaisen hallitusmuodon perusteella, waan 
+          sellaisen waltiosäännön tukemana ja lujittamana, joka on Suomen kansan arwoinen, waltiosäännön jossa wastuu jakaantuu tawalla, mikä takaa, että waltioalus ohjataan warmasti ja 
+          päämäärästään tietoisesti kautta myrskyisen ajan hyökkyilewien aaltojen. En sen tähden, että säikkyisin wastuuta, waan koska minä tajuan sen ja tiedän, mitä yksityisen on lupa ottaa 
+          tehtäwäksensä.</p>
+        <p>Sittenkun nyt sellaisen ajanmukaisen waltiosäännön woimaansaaminen, johon alusta asti olin walmis itseni welwottamaan, on siirtynyt epämääräiseen aikaan, woisin minä, jos otan waalin 
+          wastaan, lain mukaan nauttia melkoisia hallitsijaoikeuksia, jollen hawaitsisi niiden olewan epäsuhteessa toisiin jo woimassa olewiin Suomen waltiorakennuksen uudenaikaisempiin laitoksiin. 
+          Sen wuoksi en epäile ilmoittaa, että, jos otan wastaan kruunun, niiden tähdellisempien uudistusten edistämisen ohella, joihin mikäli tiedän, jo on ryhdytty, olisin tekewä yhdeksi 
+          ensimäisistä toimistani uudenaikaisen ja wastuullisen waltiosäännön aikaansaamisen.</p>
+        <p>Niinkuin sisään, niin ulospäinkin näyttää melkein, että minun waalistani kaswaisi este Suomen itsenäisyyden tunnustamiselle. Tämä olisi sitä waikeampi käsittää, kun wakaumuksen mukaan, 
+          jonka yhä uudestaan olen lausunut kansaneduskunnan ja hallituksen waltuutetuille, hywällä suhteella Suomen ja niidenkin suurwaltain wälillä, jotka eiwät wielä ole tunnustaneet sen 
+          itsenäisyyttä, on mitä suurin merkitys tämän nuoren waltion menestymiselle ja koska sekä Suomen nykyinen että wastainen politiikka waatii, että sellaiset hywät ja yhä luoltamuksellisemmat 
+          suhteet aikaansaadaan, lujitetaan ja säilytetään. Mikään ei warmemmin turwaa minua wääriltä selittelyiltä kuin se tosiasia, etten minä mihinkään aikaan ole ollut kruununehdokas, waan 
+          että minua suurimmaksi yllätyksekseni eräänä päiwänä kysyttiin, jonka jälkeen minut pian walittiin. Eikä mikään woi paremmin todistaa todellisia tarkotuksiani kuin ne ehdotukset, jotka 
+          aikoinani olen tehnyt, ja jotka te tunnette.</p>
+        <p>Jos siis eduskunta hawaitsee, että sisä- tai ulkopoliittinen asema waatii uusia toimenpiteitä, niin se woi olla minulle wain terwetullutta. Olen tunnollisesti harkitsewa ja wain Suomen 
+          etua silmälläpitäwä.</p>
+        <p>Tähän asiaintilaan nähden katson eduksi molemmille puolille, että eräät seikat, jotka eiwät ole määrättäwissäni, pakottawat minua wielä jonkun aikaa lykkäämään lopullisen ratkaisun, jonka 
+          kuten muistetaan, alun pitäen olen pidättänyt itselleni.</p>
+        <p>Tämän, Herra Puhemies, saan pyytää Teitä antamaan Suomen eduskunnan tietoon ja samalla lausumaan sille lämpimät toiwomukseni, että sen työ mahtaisi koitua onneksi maalle.</p>
+        <br />
+        <p className="leftP">Berliinissä, marraskuun 4 päiwänä 1918,</p>
+        <p className="leftP">Wilpittömän kunnioitukseni wakuutuksin olen edelleen Teille altis.</p>
+        <p className="signature">Friedrich Karl.</p>
+      </Article>
+
+      <div className="interTitle">30.12.1918</div>
+      <Article titleText="Suomen kuningaswaali.">
+        <h5>Prinssi Friedrich Karl kieltäytynyt lopullisesti Suomen kruunusta.</h5>
+        <p>(SWT) Waltioneuwosto on 27 päiwänä joulukuuta ulkoasiainministeriön esittelyssä nähnyt hywäksi määrätä, että allaolewa, Hänen korkeutensa Hessenin Prinssi Friedrich Karlen kuluwan 
+          joulukuun 14 päiwänä Suomen Ylimääräiselle Lähettiläälle ja Waltuutetulle Ministerille Berlinissä Waltioneuwos Edward Hjeltille osoittama kirje on maan wirallisissa lehdissä julaistawa; 
+          ollen mainittu kirjelmä suomennettuna näin kuuluwa:</p>
+        <QuoteStart className="symbolStyle"/>
+        <p className="quotation">Minä pyydän, että Teidän Ylhäisyytenne tahtoisi minun nimessäni ilmoittaa Teidän Hallituksellenne seuraawaa, jotta se saattaisi sen Suomen kansan tietoon: Yleisen 
+          waltiollisen tilanteen muutos waikuttaa wälttämättömästi Suomeenkin, jonka kansa oli päättänyt uskoa minulle huolenpidon kohtalostaan. Kirjelmässäni marraskuun 4 päiwältä Eduskunnan 
+          puhemiehelle minun täytyi jättää toistaiseksi lopullinen ratkaisu, wiitaten syihin, jotka tosin eiwät enää ole olemassa. Sen sijaan owat muut waikeudet, joihin mainitussa kirjeessä jo 
+          wiitattiin, kaswaneet ja asettuwat woittamattomina estämään Suomea samalla täyttämästä welwollisuuttaan itseänsä kohtaan ja welwoituksiansa minua kohtaan. Käsittäen tämän minä, hetkeäkään 
+          empimättä, wapautan sen wiimeksimainituista welwollisuuksista. Kun Suomi saawuttaa takaisin moraalisen wapautensa minuun nähden, saa se kaiken sen, mitä minä näissä oloissa woin antaa. 
+          Enempää sanoja ei tarwita. Tiedän, että minut ymmärretään. Minä lähetän maalle ja sen wakawakatseiselle kansalle oman ja omaisteni terwehdyksen ja kiitoksen monesta myötätuntoisuuden 
+          osoituksesta. Tulkoon onnelliseksi tämä minulle rakas kansa, sen miehet ja naiset ja sen ihana nuoriso, johon tulewaisuuden toiwo perustuu.</p>
+        <p className="signature">Friedrich Karl.</p>
+        <QuoteEnd className="symbolStyle"/>
+      </Article>
 
       <br></br>
       <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1918">Linkki vuosikertaan 1918</a>

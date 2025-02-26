@@ -14,7 +14,7 @@ const Lukijoilta1924Page = () => {
     <Layout titleText="Hämeen Sanomat, 1924">
       <h2>Lukijoilta</h2>
       <Divider className="dividerStyle" />
-      <p className="centered boldStyle" style={{margin:"8px 0"}}>Torstai, 3.1.1924</p>
+      <p className="centered bold" style={{margin:"8px 0"}}>Torstai, 3.1.1924</p>
       <Article titleText="Huomiota herättäwä henkiwakuutusjuttu Hämeenlinnassa.">
         <p>Ylläolewalla otsakkeella arw. lehtenne palstoilla eilen julkaistussa kirjoituksessa moititaan Suomi-yhtiötä siitä, että se kuolemantapauksessa on kieltäytynyt maksamasta wakuutusta, 
           joka ei koskaan ole ollut woimassa. Saadakseen tilaisuuden näin aiheettomaan moitteeseen silwoo kirjoittaja lukemastaan yhtiön kirjeestä irti osan yleisön nähtäwäksi, mutta salaa toisen 
@@ -288,7 +288,7 @@ const Lukijoilta1924Page = () => {
         <p className="signature zeroMargin">Hannes Heinonen.</p>
         <p className="centered">Kärkölän piirin nimismies.</p>
         <SubDivider className="dividerStyle" />
-        <p><span className="boldStyle">Toimitus,</span> jota ylläolewan Herra Nimismiehen „vastalauseen” sekä säwy että sisältö suuresti kummastuttaa, pyytää huomauttaa, että kysymyksessä olewa uutinen kuuluu 
+        <p><span className="bold">Toimitus,</span> jota ylläolewan Herra Nimismiehen „vastalauseen” sekä säwy että sisältö suuresti kummastuttaa, pyytää huomauttaa, että kysymyksessä olewa uutinen kuuluu 
         n.s. lääninhallituksen uutisiin ja on julkaistu samalla kuin meidän lehdessämme myöskin kaikissa niissä Hämeen läänin sanomalehdissä, jotka yleensä tulewat näistä uutisista osallisiksi. Herra 
         Nimismiehen arwostelut ja wertailut woimme hywällä syyllä jättää omaan arwoonsa. Pyydämme kuitenkin herra Nimismiehelle huomauttaa, että otamme kiitollisina wastaan lehdessä uutisia julkaistawaksi 
         kieltolain ammattirikkojista ja m.m. heidän tuloistaan, jos hän meille niitä woi toimittaa.</p>
@@ -380,7 +380,7 @@ const Lukijoilta1924Page = () => {
         <p className="centered">Hattulassa maalisk. 3 p:nä 1924.</p>
         <p className="signature">Juho Torppa.</p>
         <SubDivider className="dividerStyle" />
-        <p><span className="boldStyle">Toimitus</span> walittaen tapahtuneita erehdyksiä pyytää ylläaolewan johdosta huomauttaa, että kyseessäolewa uutinen perustui erään kokouksessa olleen maalaisliittolaisen kertomukseen, 
+        <p><span className="bold">Toimitus</span> walittaen tapahtuneita erehdyksiä pyytää ylläaolewan johdosta huomauttaa, että kyseessäolewa uutinen perustui erään kokouksessa olleen maalaisliittolaisen kertomukseen, 
           joten luulimme siihen woiwan luottaa.</p>
       </Article>
 
@@ -889,8 +889,8 @@ const Lukijoilta1924Page = () => {
         <p>Tältä kannalta katsoen on jokaiselle weronmaksajalle tärkeätä huolehtia, että waltuustoon tulee taloudellisiin asioihin perehtyneitä miehiä. Sellaisia owat kaikki N:o 1 listassa olewat nimet. Antakaa wiiwanne tähän listaan ja 
           kehoittakaa naapureitannekin samoin tekemään - silloin tiedätte, että äänioikeutenne on tullut käytetyksi parhaimmalla tawalla.</p>
         <p>Wirkamiehet, liikemiehet, y.m., kaikkien Teidän on kohdistettawa wiiwanne allaolewaan listaan.</p>
-        <p className="boldStyle">Yhteinen hywä kaiken yläpuolelle!</p>
-        <p className="boldStyle">Wiiwanne listaan N:o 1!</p>
+        <p className="bold">Yhteinen hywä kaiken yläpuolelle!</p>
+        <p className="bold">Wiiwanne listaan N:o 1!</p>
         <p className="signature">Kuntalaisia.</p>
       </Article>
 

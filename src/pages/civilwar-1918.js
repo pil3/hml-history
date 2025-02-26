@@ -16,33 +16,33 @@ const CivilWarPage = () => {
       <div className="interTitle">29.1.1918</div>
       <Article titleText="Suomen kansalle.">
         <QuoteStart className="symbolStyle"/>
-        <p className="quotationStyle">Se kansalaisweri joka wiime päiwinä on wuotanut, waatii maan hallitusta kääntymään kansan puoleen.</p>
-        <p className="quotationStyle">Kansamme on wasta nähnyt sisimmän toiweensa täyttywän. Se on saawuttanut waltiollisen riippumattomuuden, jonka jo useat Europan wallat owat tunnustaneet. Suomen 
+        <p className="quotation">Se kansalaisweri joka wiime päiwinä on wuotanut, waatii maan hallitusta kääntymään kansan puoleen.</p>
+        <p className="quotation">Kansamme on wasta nähnyt sisimmän toiweensa täyttywän. Se on saawuttanut waltiollisen riippumattomuuden, jonka jo useat Europan wallat owat tunnustaneet. Suomen 
           kansan kehityksen tiellä ei nyt enää ole mitään ulkonaista estettä. Ylintä waltaa Suomessa käyttää maan eduskunta ja sille wastuunalainen hallitus. Meidän sekä eduskunta- että kunnallinen 
           järjestyksemme owat kansanwaltaiset.</p>
-        <p className="quotationStyle">Walitettawasti on niitä, jotka eiwät tyydy tähän rauhan, lain ja wakaumuksen waikuttamisen tiehen, waan ryhtywät toisenlaisiin keinoihin tarkoitustensa perille 
+        <p className="quotation">Walitettawasti on niitä, jotka eiwät tyydy tähän rauhan, lain ja wakaumuksen waikuttamisen tiehen, waan ryhtywät toisenlaisiin keinoihin tarkoitustensa perille 
           wiemiseksi. Wenäläisten taholta on kansamme keskuuteen lewitetty sitä ajatusta, että Suomessakin on kansanwaltainen kehitys mahdollinen ainoastaan sisäisen wallankumouksen awulla. Sellaisia 
           kansamme aineksia, joihin tuollainen ajatus on saatu istutetuksi, on wenäläiseltä taholta asestettu, ja täten on maamme saatettu kansalaissodan partaalle. Täällä olewien wenäläisten 
           joukkojen puolelta on wiime päiwinä tapahtunut mitä törkeintä sekaantumista Suomen asioihin sekä suoranaisia mieltäkuohuttawia rikoksia Suomen kansalaisten henkeä, omaisuutta ja wapautta 
           wastaan. Ja, mikä on kaikista walitettawinta, eräät Suomen kansalaiset owat wuorostaan olleet wenäläisiä joukkoja tähän kiihoittamassa ja yhdessä näiden kanssa kääntäneet aseensa Suomen 
           kansalaisia wastaan, yhdessä näiden kanssa harjoittaen wäkiwaltaisia ja rikollisia tekoja.</p>
-        <p className="quotationStyle"></p>
-        <p className="quotationStyle">Suomen hallituksella ei ole, waikkakin se on eduskunnalta saanut waltuudet toimia lujan järjestyswallan aikaansaamiseksi keinoja ylläpitää maassa rauhaa ja järjestystä, niin kauan kuin 
+        <p className="quotation"></p>
+        <p className="quotation">Suomen hallituksella ei ole, waikkakin se on eduskunnalta saanut waltuudet toimia lujan järjestyswallan aikaansaamiseksi keinoja ylläpitää maassa rauhaa ja järjestystä, niin kauan kuin 
           wenäläiset sotajoukot täällä oman maamme rikollisia aineksia awustaen toimiwat kaiken rauhallisen elämän uhkana.</p>
-        <p className="quotationStyle">Tähän katsoen Suomen hallitus on pitänyt welwollisuutenaan esittää Wenäjän hallitukselle wastalauseen wenäläisten joukkojen Suomen sisäisiin oloihin 
+        <p className="quotation">Tähän katsoen Suomen hallitus on pitänyt welwollisuutenaan esittää Wenäjän hallitukselle wastalauseen wenäläisten joukkojen Suomen sisäisiin oloihin 
           sekaantumista wastaan sekä uudelleen waatia näiden joukkojen poistamista Suomen alueelta. Niinikään hallitus on katsonut welwollisuutensa waatiwan esittää niille ulkowalloille, jotka owat 
           meidän riippumattomuutemme tunnustaneet, wastalausenootin kurittoman wenäläisen sotawäen täälläoloa ja sen wäkiwallantöitä wastaan.</p>
-        <p className="quotationStyle">Suomen hallitus katsoo wälttämättömäksi kääntyä myös kaikkien Suomen kansalaisten puoleen. Ainoastaan järkähtämätöntä järjestystä ylläpitämällä woimme säilyttää 
+        <p className="quotation">Suomen hallitus katsoo wälttämättömäksi kääntyä myös kaikkien Suomen kansalaisten puoleen. Ainoastaan järkähtämätöntä järjestystä ylläpitämällä woimme säilyttää 
           wasta saawuttamamme itsenäisyyden, järjestyshäiriöt woiwat joko kerrassaan tuhota kansamme riippuwuuden ja wapauden, saattaa maamme wieraan waltaan tai silpomisen alaiseksi. Jokainen 
           järjestyksen häiritsijä on Suomen kansan ja sen itsenäisyäden wihollinen.</p>
-        <p className="quotationStyle">Mutta wielä suuremmassa määrässä koko kansaamme alentawaa on, että maan kansalaiset liittywät wieraisiin joukkoihin ja niiden kanssa yhdessä harjoittawat rikosta 
+        <p className="quotation">Mutta wielä suuremmassa määrässä koko kansaamme alentawaa on, että maan kansalaiset liittywät wieraisiin joukkoihin ja niiden kanssa yhdessä harjoittawat rikosta 
           ja wäkiwaltaa omia kansalaisiansa wastaan. Tämmöinen toiminta on rikos Suomen kansaa wastaan ja samalla rikos itse yhteiskuntajärjestystä wastaan. Ne tähtääwät Suomen Eduskuntaa wastaan, 
           joka on maassamme korkeimman waltiowallan haltijana. Jos tällainen toiminta pääsee woitolle, niin Suomen kansa häwiää pois siwistyskansojen joukosta, Suomen waltio oikeuswaltioiden 
           joukosta.</p>
-        <p className="quotationStyle">Isänmaan hätä welwoittaa meitä kääntymään kaikkien Teidän puoleenne. Me toiwomme, että jokainen Suomen kansalainen on nykyhetkenä olewa walmis niihin uhrauksiin, 
+        <p className="quotation">Isänmaan hätä welwoittaa meitä kääntymään kaikkien Teidän puoleenne. Me toiwomme, että jokainen Suomen kansalainen on nykyhetkenä olewa walmis niihin uhrauksiin, 
           jotka maamme ja kansamme waaranalainen asema saattaa waatia kultakin yksityiseltä ja kaikilta yhteisesti. Kaikkien yhteisten ponnistusten päämääränä tulee olla yksinomaan kansalaisrauhan 
           säilyttäminen. Millään ehdolla ei woi sallia mitään ärsyttäwiä kostotoimenpiteitä eikä minkäänlaista yksityisluontotoista esiintymistä wastoin järjestyswallan määräyksiä.</p>
-        <p className="quotationStyle">Kansalaiset! Liittykää kaikki yhteisesti tukemaan kotienne rauhaa, lähimmäistenne henkeä, omaisuutta, henkilökohtaista wapautta ja loukkaamattomuutta. 
+        <p className="quotation">Kansalaiset! Liittykää kaikki yhteisesti tukemaan kotienne rauhaa, lähimmäistenne henkeä, omaisuutta, henkilökohtaista wapautta ja loukkaamattomuutta. 
           Järjestyksen ylläpitäminen on Suomen kansan itsenäisyyden ja sen tulewaisuuden puolustamista.</p>
         <p className="signature">Suomen Senaatti:</p>
         <p className="signature">P. E. Swinhufwud, E. N. Setälä, Kyösti Kallio, Jalmar Castren, Onni Talas, Arthur Castrén, Heikki Renwall, Juhani Arajärwi, Alexander Frey, E. Y. Pehkonen, 
@@ -68,7 +68,7 @@ const CivilWarPage = () => {
         <h5>Senaatti saattaa wastalauseensa tämän johdosta ulkowaltain tiedoksi.</h5>
         <p>Suomen hallitus on Ruotsin, Norjan, Tanskan,  Ranskan, Englannin, Saksan, Itäwalta-Unkarin, Sweitsin ja Kreikan hallituksille lähettänyt seuraawan t. k. 25 p. päiwätyn kirjelmän: </p>
         <QuoteStart className="symbolStyle"/>
-        <p className="quotationStyle">Huolimatta siitä, että Wenäjän hallitus on kuluwan tammikuun 4 p. wirallisesti tunnustanut Suomen waltiollisen riippumattomuuden ei wenäläisten sotajoukkojen 
+        <p className="quotation">Huolimatta siitä, että Wenäjän hallitus on kuluwan tammikuun 4 p. wirallisesti tunnustanut Suomen waltiollisen riippumattomuuden ei wenäläisten sotajoukkojen 
           maastawiemiseen wielä ole tehokkaasti ryhdytty. Päinwastoin ylläpitää Wenäjän hallitus Suomessa edelleenkin lukuisia sotawäenosastoja, jotka samalla kun kuluttawat maan niukkoja 
           elintarpeita, eiwät ainoastaan ole esteenä järjestyksen ja turwallisuuden ylläpitämiselle maassa, waan myöskin, yhteistoiminnassa wäestön lewottomimpien ainesten kanssa, suorittawat 
           murhia, murhapolttoja ja muita ilkitöitä. Erityisen merkityksen saa tämä seikka sen kautta, että näihin rikollisiin tekoihin eiwät osaa ota ainoastaan erilliset, harhaanjohdetut sotilaat 
@@ -77,27 +77,27 @@ const CivilWarPage = () => {
           järjestyswallan muodostamista. Niinpä on Suomen hallitukselle saapuneiden tietojen mukaan Wenäjän hallituksen sota-asiain komissario t. k. 23 p. Wiipuriin sijoitetulle sotawäelle antanut 
           määräyksen riisua aseet kaupungin järjestystä ylläpitämään saapuneilta suojeluskunnilta sekä aseistaa niillä ne työwäen ainekset, jotka näinä päiwinä owat ryhtyneet werisiin 
           joukkolewottomuuksiin mainitussa kaupungissa.</p>
-        <p className="quotationStyle">Lopuksi on Helsingissä olewan matruusikomitean taholta, neuwottelujen yhteydessä, hallituksen jäsenille suullisesti ilmoitettu, että täällä olewa wenäläinen 
+        <p className="quotation">Lopuksi on Helsingissä olewan matruusikomitean taholta, neuwottelujen yhteydessä, hallituksen jäsenille suullisesti ilmoitettu, että täällä olewa wenäläinen 
           sotawäki harrastaa sosialisen rewolutsionin toimeenpanemista Suomessa ja on walmis tämän tarkoituksen toteuttamiseksi aseilla auttamaan wallankumouksellisia joukkoja laillista 
           yhteiskuntajärjestystä ja sitä tukewia suojeluskuntia wastaan.</p>
-        <p className="quotationStyle">Kun Wenäjän hallituksen taholta täten noudatettu menettely sisältää törkeän loukkauksen Suomea kohtaan itsenäisenä waltiona, tahtoo Suomen hallitus sen johdosta 
+        <p className="quotation">Kun Wenäjän hallituksen taholta täten noudatettu menettely sisältää törkeän loukkauksen Suomea kohtaan itsenäisenä waltiona, tahtoo Suomen hallitus sen johdosta 
           täten saattaa jyrkän wastalauseensa niiden waltojen tietoon, jotka owat Suomen itsenäisyyden tunnustaneet.</p>
-        <p className="centered quotationStyle">Suomen hallituksen puolesta:</p>
+        <p className="centered quotation">Suomen hallituksen puolesta:</p>
         <p className="signature">P. E. Swinhufwud.</p>
         <QuoteEnd className="symbolStyle"/>
       </Article>
       <Article titleText="Hallituksen waatimus kansankomissarien neuwostolle.">
         <p>Suomen hallituksen puolesta on lähetetty Wenäjän kansankomissarien neuwostolle näin kuuluwa sähkösanoma:</p>
         <QuoteStart className="symbolStyle"/>
-        <p className="quotationStyle">Kansankomissarien Neuwostolle.</p>
-        <p className="quotationStyle">Pietari.</p>
-        <p className="quotationStyle">Wiime päiwinä on useissa paikoissa Suomea sattunut murhia, murhapolttoja sekä joukko lewottowuuksiakin, joihin täällä olewat wenäläiset sotilaat owat 
+        <p className="quotation">Kansankomissarien Neuwostolle.</p>
+        <p className="quotation">Pietari.</p>
+        <p className="quotation">Wiime päiwinä on useissa paikoissa Suomea sattunut murhia, murhapolttoja sekä joukko lewottowuuksiakin, joihin täällä olewat wenäläiset sotilaat owat 
           osaaottaneet ei ainoastaan suojaamalla epäjärjestyksiä toimeenpanneita kansanaineksia waan jopa suoranaisesti itsekin ryhtymällä ilkiwaltaisuuksiin, joita ilman sotilasten puolelta 
           tapahtunutta awunantoa useissa tapauksissa ei olisi saatu syntymään. Kun on ilmoitettu, että wenäläisten sotilasten tässä tarkoitettu osanotto myöskin nojautuisi sotilaswiranomaisten 
           taholta annettuihin ohjeisiin ja määräyksiin, on Suomen hallitus, katsoen sotilasten tällaisen esiintymisen törkeäksi loukkaukseksi Suomen Kansankomissarien Neuwoston puoleen 
           waatimuksella ryhtyä mitä tehokkaimpiin toimenpiteisiin, jotta sotilasten osanotto wäkiwaltaisuuksiin Suomen asukkaita wastaan, sekä kaikkinainen muukin sekaantuminen maan sisäisiin 
           asioihin tulisi wiipymättä wältetyksi.</p>
-          <p className="centered quotationStyle">Hallituksen Puheenjohtaja</p>
+          <p className="centered quotation">Hallituksen Puheenjohtaja</p>
           <p className="signature">Swinhufwud.</p>
         <QuoteEnd className="symbolStyle"/>
       </Article>
@@ -773,12 +773,12 @@ const CivilWarPage = () => {
       </Article>
       <Article titleText="Sotatapahtumat Suomessa.">
         <h5>Wiipuri wallattu.</h5>
-        <p className="quotationStyle">Päämajan tiedonanto huhtikuun 29 p:ltä 1918. (STT)</p>
+        <p className="quotation">Päämajan tiedonanto huhtikuun 29 p:ltä 1918. (STT)</p>
         <p><span className="accent">Koko Wiipuri on walloitettu.</span> Wihollinen pysyttelee wielä länsiosassa Sorwalia ja Tienhaaraa. 6,000 punaista koetti murtautua läpi Haminaa kohden. Yritys 
           torjuttiin sangen suurin tappioin. Tämän woiton kautta on Suomen urhoollinen armeija murtanut wihollisen wiimeisen wahwan turwapaikan.</p>
         <p className="signature">Päämajoitusmestari Ignatius.</p>
         <h5>* * *</h5>
-        <p className="quotationStyle">Päämajantiedonanto n:ro 2217, huhtikuun 28 p:ltä 1918. (STT)</p>
+        <p className="quotation">Päämajantiedonanto n:ro 2217, huhtikuun 28 p:ltä 1918. (STT)</p>
         <p><span className="accent">Läntinen rintama:</span> Hämeenlinnassa on suoranainen yhteys saawutettu Länsiarmeijan ja saksalaisen itämerendiwisionan joukkojen wälillä. Lyöty wihollinen on 
           saksalaisten takaa-ajamana wäistynyt osaksi Renkoon, osaksi Hauholle ja Tuulokseen päin, missä sen yritys päästä läpimurtautumaan pohjoista kohti on ankarasti taistellen tehty tyhjäksi. 
           Wielä jälellä olewia taistelukuntoisia wihollisjoukkoja wastaan on aloitettu liikkeet, oltaessa yhteistoiminnassa saksalaisten kanssa.</p>
@@ -941,7 +941,7 @@ const CivilWarPage = () => {
       </Article>
       <Article titleText="Päämajan tiedonanto.">
         <h5>Kiiwaita taisteluita Hämeen rintamalla. — Joukot etenewät huomattawasti Sawossa. — Runsas sotasaalis Wiipurissa.</h5>
-        <p className="quotationStyle">Päämaja ilmoittaa huhtik. 30 p. (S. T. T.)</p>
+        <p className="quotation">Päämaja ilmoittaa huhtik. 30 p. (S. T. T.)</p>
         <p><span className="accent">Läntinen sotanäyttämö:</span> Hauhon ja Tuuloksen seuduilta ilmoitetaan kiiwaista taisteluista. Lahden seudulla wihollinen jatkaa murtautumisyrityksiään.</p>
         <p><span className="accent">Sawon rintama:</span> Joukkomme jatkawat etenemistään. Edeten rautatien länsipuolella olemme Wuolenkoskelta ja Rihusta saapuneet Wanhataloon, kahdeksan 
         kilometriä länteen Jaalasta. Hillosenalueella on wihollinen pakotettu luopumaan wahwoista asemistaan. Rautatien itäpuolella walloitti etelä-Sawon rykmentin luutnantti Spåren pataljoona 
@@ -975,13 +975,13 @@ const CivilWarPage = () => {
         <p>Kokouksessa olijat olivat olleet yksimielisiä siitä, että vastarinta niitä vastaan oli aivan toivoton. Tätä käsitystä vastaan laadittiin antautumiskirja, jonka punakaartin „päälliköt“ 
           allekirjoittivat ja joka kokonaisuudessaan oli seuraava:</p>
         <QuoteStart className="symbolStyle"/>
-        <p className="quotationStyle">Koska Helsingin kaupungissa nykyään ei löydy puolustusjoukkoja, kehoitetaan verenvuodatuksen ja kaupungin hävittämisen välttämiseksi täkäläisiä 
+        <p className="quotation">Koska Helsingin kaupungissa nykyään ei löydy puolustusjoukkoja, kehoitetaan verenvuodatuksen ja kaupungin hävittämisen välttämiseksi täkäläisiä 
           punakaartilaisia olemaan ryhtymättä vastarintaan, kun saksalaiset joukot, jotka ovat jo aivan Helsingin lähistössä ja Ruotsin konsulaatin antaman vakuutuksen mukaan tekevät noin 
           40,000 miestä, astuvat maihin. Sentähden ylipäällikkö on täkäläisen Ruotsin konsulaatin kautta esittänyt punakaartilaisille seuraavat antautumisehdot:</p>
-        <p className="leftP quotationStyle">1) Aseet ovat paikalla luovutettavat;<br />2) Kaikesta vastarinnasta on luovuttava;<br />3) Kaikkien valkoisten kannattajien turvallisuus on taattava;
+        <p className="leftP quotation">1) Aseet ovat paikalla luovutettavat;<br />2) Kaikesta vastarinnasta on luovuttava;<br />3) Kaikkien valkoisten kannattajien turvallisuus on taattava;
           <br />4) Yleisten sotilaallisten varastojen hävittämiseen ei saa ryhtyä;<br />5) Ylipäällikkö takaa hengenvarmuuden punakaartien jäsenille, jos nämä ehdot täytetään.</p>
-        <p className="quotationStyle">Arvoisalle yleisölle ilmoitamme, että yleisestä järjestyksestä kaupungissa vastaa miliisilaitos.</p>
-        <p className="quotationStyle">Helsingissä huhtik. 10 p:nä 1918.</p>
+        <p className="quotation">Arvoisalle yleisölle ilmoitamme, että yleisestä järjestyksestä kaupungissa vastaa miliisilaitos.</p>
+        <p className="quotation">Helsingissä huhtik. 10 p:nä 1918.</p>
         <p className="centered"><span className="signature">F. E. Johansson.</span><br /><span className="caption">Helsingin paikallisen Punaisen kaartin esikunnan sekä sota-asiain 
           päällikkö.</span></p>
         <p className="centered"><span className="signature">Robert H. Hurskainen.</span><br /><span className="caption">Paikallisen esikunnan Työasiain päällikkö.</span></p>
@@ -1042,7 +1042,7 @@ const CivilWarPage = () => {
       </Article>
       <Article titleText="Armeijamme viime voitot.">
         <h5>Koskella on 8,000 punasta antautunut, sitä ennen hurjasti riehuttuaan rauhallisen wäestön keskuudessa. — Luumäen kirkonkylä ja Kouwola walloitettu.</h5>
-        <p className="quotationStyle">(S. W. T.) Päämajan tiedonanto toukokuun 3 p:ltä.</p>
+        <p className="quotation">(S. W. T.) Päämajan tiedonanto toukokuun 3 p:ltä.</p>
         <p><span className="accent">Läntinen sotanäyttämö:</span> Kun wielä noin 8,000 punaista antautui eilen ewersti, wapaaherra von Brandensteinin joukoille Kosken seuduilla, woidaan sotatoimet 
           Hämeenlinnan ja Lahden wälisellä alueella katsoa loppuun suoritetuiksi. Antautumisen edelliset päiwät oli wihollinen käyttänyt yhä lisätäkseen harjoittamiensa häpeällisten rikosten sarjaa. 
           Seudut, missä wihollinen on liikkunut, on laajalti häwitetty ja rauhallinen wäestö murhattu, sen kotieläimet ammuttu ja talot poltettu. Seudun puhdistaminen hajallaan kiertelewistä 
@@ -1118,7 +1118,7 @@ const CivilWarPage = () => {
       </Article>
       <Article titleText="Lopullinen voitto kapinallisista saatu">
         <h5>Haminakin jo wallattu. Otettu 4 wenäläistä sotalaiwaa ja 2 kokonaista panssarijunaa y. m. arwokasta saalista. — Wankeja 4,300.</h5>
-        <p className="quotationStyle">(S. W. T.) Päämajan tiedonanto toukokuun 5 päiwältä:</p>
+        <p className="quotation">(S. W. T.) Päämajan tiedonanto toukokuun 5 päiwältä:</p>
         <p>Punaisista saatu lopullinen woitto. Heidän wiimeinen warustuksensa Hamina wallattu. Eräs ratsuwäkijoukko Sarlinin ryhmästä marssi Haminaan ja kohta sen jälkeen osa majuri Heiskasen 
           rykmenttiä. Haminassa otettiin puoli tusinaa tykkejä, parikymmentä kuularuiskua ja 1,000 kiwääriä, kaksi asestettua wenäläistä laiwaa. Kotkassa saatu saaliiksi 2 kokonaista panssarijunaa 
           asestettuna woimakkailla tykeillä ja 12 kuularuiskulla. Sitä paitsi saatiin yli 30 tykkiä, monta kuularuiskua ja 4,000 kiwääriä. Wankien luku nousee Kotkassa 4,000 mieheen ja Haminassa 
@@ -1126,7 +1126,7 @@ const CivilWarPage = () => {
         <p className="centered">Päämajotusmestari</p>
         <p className="signature">Ignatius.</p>
         <h5>* * *</h5>
-        <p className="quotationStyle">(S. W. T.) Päämajan tiedonanto toukokuun 5 päiwältä:</p>
+        <p className="quotation">(S. W. T.) Päämajan tiedonanto toukokuun 5 päiwältä:</p>
         <p>Puhdistustyö jatkuu säännöllisesti. Yhteinen saksalaisten awulla otettujen wankien luku suurenee yhä.</p>
         <p><span className="accent">Sawon armeija:</span> Kenraali Linderin urheat joukot, jotka eilen waltasiwat Kotkan, ottiwat haltuunsa kaksi wenäläistä laiwaa, jotka eilen tuliwat satamaan 
           tietämättä sitä, että olimme miehittäneet Kotkan. Toinen oli asestettu tykeillä ja kuularuiskuilla sekä kuljetti mukanaan kiwääreitä, toinen, isompi, toi sotatarpeita. Itäarmeijan 

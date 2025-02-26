@@ -845,11 +845,11 @@ const Articles1914Page = () => {
         <p>Päätös, joka tehtiin w. k. 25 p:nä pidetyssä kuwernöörin johtamassa maistraatin istunnossa, jolloin käsiteltiin yhdenwertaisuuslain nojalla erotettujen Hämeenlinnan maistraatin 
           raatimiesten wirkojen aukijulistamista.</p>
         <QuoteStart className="symbolStyle"/>
-        <p className="quotationStyle">Koska Wenäjän Keisarikunnan Hallitsewan Senaatin Rikosasiain Departementti on päätöksellään marrask. 20 pltä ja jouluk. 3 pltä 1913 jättänyt sen Pietarin 
+        <p className="quotation">Koska Wenäjän Keisarikunnan Hallitsewan Senaatin Rikosasiain Departementti on päätöksellään marrask. 20 pltä ja jouluk. 3 pltä 1913 jättänyt sen Pietarin 
           Piirioikeuden huhtik. 26 p:nä ja toukok. 9 p:nä 1918 antaman päätöksen woimaan, jolla tämän Raastuwanoikeuden ja Maistraatin oikeusneuwosmies Leonard Idestam ja Kunnallisneuwosmies Werner 
           Agaton Lindberg owat tuomitut paitsi muuta eroitetuiksi hallitsemistaan edellinen sanotun Maistraatin ja Raastuwanoikeuden oikeusneuwosmiehen wirasta, julistetaan wastamainitut wirat 
           laillisessa järjestyksessä haettawiksi.</p>
-        <p className="quotationStyle">Edellä olewaan päätökseen myötäwaikuttiwat äänillään wirkaatekewät oikeusraatimies Juho Schurigin ja kuwernööri Rafael Spåre, jota wastaan allekirjoittaneet 
+        <p className="quotation">Edellä olewaan päätökseen myötäwaikuttiwat äänillään wirkaatekewät oikeusraatimies Juho Schurigin ja kuwernööri Rafael Spåre, jota wastaan allekirjoittaneet 
           wirkaatekewät Kunnallisraatimies Einar Salmi ja wirkt., pormestari August Werner Kaulén lausuiwat wiitaten maistraatin istunnossa wiime huhtik. 22 päiwänä pöytäkirjan 1§:n kohdalla Hämeen 
           läänin kuwernöörin kirjeen saman huhtik. 8 pltä n:o 15,380 johdosta tehtyyn päätökseen, että kun oikeusraatimies Leonard Idestam ja kunnallisrm. Werner Agaton Lindberg eiwät olleet, 
           mikäli mainittujen allekirjoittaneiden tiedossa oli, tulleet laillisen tuomion kautta eroitetuiksi puheenalaisista wiroistaan, ei maistraatti woimassaolewaan lakiin nojaamalla woi 

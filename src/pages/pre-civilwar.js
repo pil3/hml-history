@@ -12,7 +12,277 @@ const PreCivilWarPage = () => {
     <Layout titleText="Hämeen Sanomat, 1917-18">
       <h2>Kohti sisällissotaa</h2>
 
-      <div className="interTitle">20.10.1918</div>
+      <div className="interTitle">25.9.1917</div>
+      <Article titleText="Kunniattomuutta.">
+        <p>Muulla nimellä ei woi leimata sitä peliä, jota sosialistimme nyt harjoittawat walitsijain willitsemiseksi.</p>
+        <p>Läpi sosialistileirin käy hirwittäwä ulina wiime eduskunnan porwarillisten katsantokannasta suuressa waltiollisessa asiassamme. Wiimeksi on eduskunnan sosialistinen puhemies hra 
+          Kullerwo Manner, kirjoittanut Työmieslehteen asiasta useita kirjoituksia, jotka wilisewät kunniattomia syytöksiä maankawalluksesta, maansa myymisestä y.m.</p>
+        <p>Mistä tämä kaikki?</p>
+        <p>Wastaus: sen kumoamattoman tosiasian salaamiseksi, että sosialistit itse — ensi sijassa hra Manner, Kuusinen, Gylling ja Tokoi, jotka kuuluiwat maaliskuun Pietarin-lähetystöön aiwan 
+          wähän aikaa sitten kaikkein innokkaimmin oliwat samalla kannalla, jonka he nyt huutawat maanpetturuudeksi.</p>
+        <p>Todistukset!</p>
+        <p>Heti wallankumouksen tapahduttua Wenäjällä päätti Sos. dem. Puoluetoimikunta, siis sos. dem. puolueen wirallinen edustus, esittää lukuisia waatimuksia kiireellisistä toimenpiteistä. 
+          Nämä koskiwat: 1ksi erinäisten eduskunnan päättämien lakiehdotusten wahwistamista; 2ksi Suomen lakien mukaisten kansan oikeuksien palauttamista täyteen woimaansa (yhdistys-, 
+          kokoontumisoikeus, paino- ja lausuntowapaus y. m.); 3ksi eduskunnan kokoonkutsumista heti; 4ksi eduskunnan oikeuksien laajentamista.</p>
+        <p>Tästä julkaisi sos. dem. puoluetoimikunta tiedonannon järjestyneelle työwäelle Työmies-lehdessä 18 p. maaliskuuta. Samat waatimukset hywäksyttiin „tuhatlukuisessa järjestyneen työwäen 
+          kokouksessa Helsingin Työw.yhdistyksen pihamaalla”.</p>
+        <p>Kaikissa näissä asioissa waatiwat sosialidemokraatit kiireellisiä toimenpiteitä — Wenäjän Wäliaikaiselta Hallitukselta.</p>
+        <p>He siis kieltämättömästi silloin tunnustiwat, että Wäliaikaisella Hallituksella oli käytettäwänään Suomen suuriruhtinaan walta. Tätä omaa kantaansa he nyt hra Manner etunenässä, 
+          leimaawat — maanpetturuudeksi.</p>
+        <p>Herra Kullerwo Manner itse on tarkemmin esittänyt oman ja puolueensa maaliskuun kannan tässä asiassa kirjoituksessa: „Kun Suomen kansalle laitettiin julistuskirja”, jukaistu 
+          Työmieslehdessä 27 p. maaliskuuta 1917.</p>
+        <p>Siinä me kuulemme m. m. seuraawaa:</p>
+        <p className="quote">Puoluetoimikunnalta ja lauantaina 17 pnä Helsingissä olleilta puolueneuwoston jäseniltä saiwat edellämainitut walitut henkilöt (hrat E. Gylling, O. Tokoi, O. W. 
+          Kuusinen, Edw. Walpas — joka muuten wisusti pysyi syrjässä — ja K. Manner) tehtäwäkseen esittää keskustelussa hra Roditshewin kanssa hänelle sekä myös Pietarissa nuo mainittuun 
+          tiedonantoon sisältywät waatimukset Suomen sosialidemokratian wähimpänä ja lähimpänä waatimuksena tulewaa Suomelle annettawaa julistuskirjaa laadittaessa.</p>
+        <p>Kertoessaan neuwotteluista hra Roditshewin kanssa ilkkuu hra Manner:</p>
+        <p className="quote">Eräät herrat jaaritteliwat ylimalkaisia juttuja sekä wätysteliwät, ettei muka sopisi julistuskirjoihin tai muihin Pietarissa annettawiin wirallisiin papereihin panna 
+          noita sosialistien kohtuullisia waatimuksia.</p>
+        <p>Herra Mannerilla ja hänen towereillaan ei ainakaan ollut epäilyksiä siitä, etteiwätkö heidän waatimuksensa sopineet „julistuskirjoihin tai muihin Pietarissa annettawiin papereihin”!</p>
+        <p>Herra Roditshewin täytyi opettaa herroille Mannerille & kumpp., että he waatiwat Wäliaikaiselta Hallitukselta liiallista sekaantumista Suomen sisäisiin asioihin. Hra Manner itse 
+          kertoo:</p>
+        <p className="quote">Wastauksista (hra R:n) käwi ilmi, että hänen mielestään Suomen sisäistä elämää ja sen järjestämistä koskewissa asioissa ei Wenäjän hallituksella olisi mitään wastaan 
+          siinä muodossa ja sillä tawalla kuin sosialistien waatimuksissa esitettiin, Mutta samalla hän selwästi ilmaisi, että ne owat Suomen sisäisiä asioita, jotka eiwät kuulu heille 
+          wenäläisille.</p>
+        <p>Mutta hra Roditshewin neuwo, että määräykset Suomen sisäisistä asioista pidettäisiin erillään Pietarissa laadittawista asiakirjoista, ei mennyt herroihin sosialisteihin. Hra Manner 
+          kertoo sosialistein junamatkalla Pietariin yhä antaneen porwarillisten tietää,</p>
+        <p className="quote">että me aijomme tinkimättömästi ajaa saamaamme tehtäwää: s. o. muodossa tai toisessa waatia johonkin näinä päiwinä laadittawiin asiakirjoihin sisällytettäwäksi nuo 
+          toimikunnan esittämät kiireellisimmät toimenpiteet.</p>
+        <p>Ja Pietarissa sitten hra Mannerin kertomuksen mukaan sosialistit woimainsa takaa „tappeliwat” porwarillisten kanssa saadakseen siellä laadittawiin asiakirjoihin mahdollisimman paljon 
+          määräyksiä Suomen sisäisistä asioista Wäliaikaiselta Hallitukselta. Kun eiwät riittäwästi tällaisia määräyksiä saaneet, ilmitoiwat he suuren tyytymättömyytensä tämän johdosta Hra M. 
+          toteaa lopuksi, että</p>
+        <p className="quote">tiistai-iltana wahwistettiin se porwarien laatima julistuskirja, johon me suurella tappelulla olimme wain eräitä lisäyksiä ja korjauksia saaneet, Niistäkin sentään 
+          muutamat oliwat tärkeitä.</p>
+        <p>Tällainen oli sosialidemokraattisen puolueen kanta maalisk. päiwinä — ja paljon myöhemminkin. Tällainen oli hra Mannerin oma kanta.</p>
+        <p>Kun nyt sos. dem. puolue waaliagitatsioonissa, kun puolueen ensimäimäinen mies eduskunnassa leimaawat niitä, jotka edelleen owat sitä mieltä, että Wäliaikaisella Hallituksella on 
+          käytettäwänään Suomen Suuriruhtinaan walta, isänmaanpettureiksi, maankawaltajiksi, maansa myyjiksi, niin täytyy kysyä, eikö sos. dem. puolueen johto, eikö hra K. Manner enää itsekään 
+          tahdo käydä kunniallisista ihmisistä?</p>
+      </Article>
+
+      <div className="interTitle">27.9.1917</div>
+      <Article titleText="Suomen eduskuntaa yritetään rakentaa pistimien waraan.">
+        <p>Kun meidän sosialistiset politikoitsijamme wiime heinäkuussa menettiwät pelinsä ja sen johdosta kirjoittiwat surullisen kuuluisan anteeksipyyntönsä asianomaisille Wenäjälle, niin ajoi 
+          se häpeän ja suuttumuksen punan monen porwarin poskille tässä maassa. Tehdyn wirheen he paikkasiwat toisella paljon wastenmielisemmällä ja lopputuloksen tietää koko maailma.</p>
+        <p>Lähtiessään nyt waaleihin porwarillisten puolueiden ohella, owat sosialistiset waalipuhujat selitelleet tätä kowaa kohtaloaan sillä, että Wenäjän kansa ja sen demokratinen osa on wielä 
+          niin siwistymätöntä ja epäkypsää, ettei se ymmärtänyt eikä kyennyt pitämään kantaansa Suomen kysymyksessä, waan jätti suomalaiset towerinsa pulaan. Siitä heidän ja koko meidän maamme 
+          onnettomuuus. — Olisi luullut, että tämä harhaisku olisi opettanut meidän sosialistejamme tarkoin punnitsemaan tekonsa ja ennen kaikkia wastaisuudessa kawahtamaan wierasta apua. Mutta 
+          ei! Huomatessaan tämän waalikiihoituksen aikana, että heitä uhkaa häwiö, että heidän syntinsä owat liian suuret ja monikirjawat, jotta Suomen kansa enään ummessa silmin jäisi pois 
+          waaleista ja antaisi heille luottamuksensa ja wallan, owat he hädässään jälleen heittäytyneet wenäläisten „towereittensa” syliin. Waalien kynnyksellä, jotka merkitsewät heidän 
+          waltakautensa rajaa, on eduskunnan sosialistinen puhemies kutsunut eduskunnan huomiseksi koolle, ja sunnuntaisessa „Työmiehessä” on koko sos. dem. puolueen toimikunta julkaissut „Wenäjän 
+          sosialistipuolueiden edustajille” osoitetun ja myöskin meidän sosialistisen eduskuntaryhmämme hywäksymän awunpyyntökirjelmän.</p>
+        <p>Tämä kirjelmä on inhoittawimpia julkisia todistuskappaleita, mitä meidän sosialidemokratinen puolueemme on milloinkaan itsestään antanut. Se on laadultaan ilmiantawa ja prowoseeraawa. 
+          Siinä ilmoitetaan m. m. wenäläisille „towereille” mitenkä muka porwarilliset koplat aikowat senaatin, kenraalikuwernöörin ja wäliaikaisen hallituksen turwissa saada perillewiedyksi omia 
+          wallankaappaushankkeitaan. Siinä kiinnitetään huomio suomalaisten perustamiin suojeluskaarteihin, joita harjoitetaan muka salassa taantumuksellisia tarkoitusperiä warten. Rukoillaan apua 
+          näitä hankkeita wastaan ja pyydetään muukalaisia sallimaan eduskunnan kokoontumisen ja pitämään huolta siitä, että se saa rauhassa wiedä päätökseen monet kiireelliset kysymykset.</p>
+        <p>Mitä meidän enään tulee tästä kaikesta ajatella? Sosialistit owat siis wallanhimossaan joutuneet niin pitkälle, että he turwautuwat wenäläisten bolshewikien pistimiin ajaakseen asiansa 
+          perille. He tietäwät, että heidän hetkensä lyö lokakuun 1 ja 2 p:nä, kahta päiwää aikaisemmin kutsuwat he laittoman eduskuntansa koolle ja pyytäwät sen tukijoiksi muukalaista wäkeä, joka 
+          ei tunne meidän lakejamme, olojamme eikä laitoksiamme. He rikkowat häikäilemättä lakeja, he polkewat tämän kansan kunniantuntoa ja itsesäilytyswaistoa wälittämättä wähääkään muusta kuin 
+          omista pyyteistään. Tuo sosialistinen enemmistö aikoo katsoa itsensä lailliseksi eduskunnaksi, tehdä päätöksiä ja panna ne käytäntöön wenäläisen sotilasmahdin awulla. Meidän muka 
+          kansanwaltaisin puolueemme, joka muita sywemmin wihaa militarismia, aikoo istuutua wenäläisten pistimien kärjille ja sieltä hallita tätä maata ja kansaa.</p>
+        <p>Siinä on meidän sosialismimme paljastunut kauneimmassa kukassaan, osottanut oikean olemuksensa. Se pelkää uusien waalien tulosta, se etsii apua niiden selän takaa, joita se aina on ollut 
+          walmis niin suurella suulla pilkkaamaan ja halweksimaan. Mutta — kansalaiset! — ajakaamme se ulos luolastaan! Näyttäkäämme näillä waaleilla, että tämä kansa inhoo moista wetoamista 
+          wieraaseen apuun, ettei tämä kansa enään halua olla missään tekemisissä tällaisen kaksinaamaisen keinottelun kanssa, waan että se tahtoo itselleen eduskunnan, joka seisoo omilla 
+          jaloillaan, ajattelee omilla aiwoillaan ja wastaa kaikista teoistaan sydämellään ja omallatunnollaan.</p>
+        <p className="accent">Kansalaiset! Tämä teko waatii wastauksensa lokakuun 1 päiwänä.</p>
+      </Article>
+      <Article titleText="Sosialistien uusi yritys hajoitetun eduskunnan koollekutsumiseksi.">
+        <h5>Uusi kenraalikuwernööri ilmoittanut, ettei wäliaikainen hallitus nytkään tule kokoontumista sallimaan.</h5>
+        <p>Birsh. Wjedomosti kertoo:</p>
+        <p>Wäliaikainen hallitus on saanut tiedon, että Suomen eduskunnan sos. dem. puhemies on sanomalehti-ilmoituksilla kutsunut eduskunnan koolle ensi perjantaiksi. Suomen kenraalikuwernööri 
+          saattoi wäliaikaisen hallituksen tietoon tämän eduskunnan omawaltaisen koollekutsumisen. Wäliaikainen hallitus antoi kenraalikuwernöörille ohjeita, miten menetellä siinä tapauksessa, 
+          että eduskunta toisen kerran kutsutaan ilmoitustietä koolle, ja wäliaikainen hallitus ei tule missään tapauksessa tälläkään kertaa sallimaan eduskunnan omawaltaista kokoontumista. Jos 
+          Suomen sos. demokraatit yrittäwät eduskunnan kokoontumista, joutuwat he asewoimin ajetuiksi pois eduskuntatalosta. Suomen uusi kenraalikuwernööri on lausunut Birsh. Wjedomostin 
+          edustajalle, että hänen toistaiseksi on mahdotonta antaa minkäänlaisia selwityksiä Suomen kysymyksessä, mutta että hän arwelee, ettei kenraalikuwernöörin waihtuminen tulee muuttamaan 
+          Wenäjän politiikkaa Suomeen nähden. Nekrasow saapui Helsinkiin tiistai-illalla ja on hän saattanut Suomen poliittisten toimihenkilöiden tietoon, ettei eduskunnan kokoontumista tulla 
+          sallimaan ja että tämä kokoontuminen woi johtaa monenlaisiin seurauksiin.</p>
+      </Article>
+      <Article titleText="Miksi en anna ääntäni sosialisteille?">
+        <p>Siksi, että sosialistit eiwät ole wallassa olonsa aikana pystyneet saattamaan Suomelle entistä</p>
+        <h5>wähääkään suurempaa itsemääräämisoikeutta.</h5>
+        <p>Olotila olisi siihen erinomaisen edullinen, mutta he owat wain kyenneet aikaansaamaan yksin wakawammin ajattelewissa Wenäjän työwäenpiireissäkin meille epäedullisen mielialan.</p>
+        <p>Siksi että sosialistit owat maamme waltiollisen aseman järjestämistä koskewaan kysymykseen yhdistäneet kysymyksen</p>
+        <h5>wallan kaappaamisesta heidän omiin käsiinsä.</h5>
+        <p>Siksi että sosialistit owat kysymyksessä maamme waltiollisen aseman järjestelystä asettuneet yhteyteen</p>
+        <h5>yksinomaan Wenäjän työ- ja sotamiespiirien kanssa.</h5>
+        <p>Nämä edustawat wain osaa niitä, joilla määräämiswalta Wenäjällä nykyään on.</p>
+        <p>Siksi että sosialistit siten owat saattaneet maamme waltiollista asemaa koskewan kysymyksen</p>
+        <h5>seikkailupolitiikan waraan</h5>
+        <p>aikana, jolloin jos koskaan siinä olisi ollut wakawaa politiikkaa seurattawa.</p>
+        <p>Siksi että sosialistit</p>
+        <h5>ryhtywät järjestämään maamme waltiollista asemaa aiwan omin päinsä.</h5>
+        <p>Niiden eduskuntaryhmien kanssa he eiwät edes walmistawasti neuwotelleet. Asia on kuitenkin kaikille sama puolueisiin katsomatta ja sosialisteilla on kaikista wähimmän sellaista taitoa 
+          ja kokemusta kuin tuollaisten asiain järjestely waatii.</p>
+        <p>Siksi että sosialistit eiwät ole osoittaneet lainsäädäntötyössä harrastawansa</p>
+        <h5>maakysymyksen järjestelyä tilattomien ja maatyöläisten aseman parantamista silmällä pitäen.</h5>
+        <p>He owat päinwastoin osoittaneet ajawansa metsä- ja tilakeinottelijain sekä puutawaraliikkeenharjoittajain asioita, estäen tarpeellisen uudistustyön toisiltakin.</p>
+        <p>Siksi että sosialistit niin maakysymyksissä kuin muissakin asioissa owat osoittaneet harrastawansa</p>
+        <h5>wain kaupunkilais- ja tehdastyöwäen, mutta ei maaseudun wähäosaisempien kansankerroksien asioita.</h5>
+        <p>Tätä osoittaa, paitsi muuta heidän suhtautumisensa maatalouskysymyksiin, heidän pyrkimyksensä muuttaa osuustoimintalaki niin, ettei maalaistyöwäen osuuskunnilla olisi 
+          keskusosuuskunnilla mitään sananwaltaa, sekä ottaa kunnallislakiin kohtia, joita ei woi perustella muuten kuin siten, että työwäki woisi erinäisissä kaupunki- ja tehdasseuduissa yksin 
+          määrätä tärkeimmistä raha-asiallisista kysymyksistä.</p>
+        <p>Siksi että sosialistijohtajat owat ennen kaikkia osottaneet halua</p>
+        <h5>hankkia itselleen mahdollisimman suuria tuloja</h5>
+        <p>yleisistä luottamustoimista, joita tähän saakka on hoidettu joko kokonaan tai ilman palkkaa. Wieläpä owat ottaneet tällaisia tuloja wastoin lain nimenomaista määräystä (edustajain 
+          palkkioasia).</p>
+        <p>Siksi että sosialistit, osoittautuen kykenemättömiksi hywien lukujen laatimiseen, owat säännöllisesti taitamattomuudellaan</p>
+        <h5>turmelleet monet sisäisiä olojamme koskewat lakiehdotukset.</h5>
+        <p>Siten he m. m. torpparien ja wuokramiesten suureksi wahingoksi siirsiwät jakolaissa wuokrariidat kihlakunnanoikeuden ratkaistawiksi eikä, kuten oli ehdotettu, maanjako-oikeuden 
+          ratkaistawiksi muiden riita-asiain yhteydessä. Siten he tahtoiwat saattaa korkeimman tuomioistuimen jäsenet eduskunnnalle wastuunalaisiksi, waikka tämä sotii kaikkialla tunnustettua 
+          tuomioistuimen riippumattomuusperiaatetta wastaan. He tahtoiwat antaa eduskunnalle oikeuden ei ainoastaan korkeimman tuomioistuimen jäsenten syyttämiseen, waan myös niitä tuomitsewan 
+          oikeusistuimen jäsenten walitsemiseen, joka oikeus luonnollisesti ei woi kuulua syyttäjälle itselleen. He tahtoiwat säätää laillisen ikärajan yhdessä asiassa (kunnallislaissa) 20 
+          wuodeksi, waikka se kaikissa muussa on 21 wuotta j. n. e.</p>
+        <p>Siksi että sosialistisen elintarwepolitiikan tarkoituksena on selwästi ollut wain</p>
+        <h5>elintarpeiden hankkiminen kaupunkilais- ja tehdastyöwäelle</h5>
+        <p>mahdollisimman huokeilla hinnoilla. Siitä he eiwät ole wälittäneet wähääkään, saako maanomistaja, pienwiljelijä tai torppari työnsä ja kustannuksensa korwatuksi wai ei.</p>
+        <p>Siksi että sosialistinen johto on osoittanut osaawansa kerätä</p>
+        <h5>maaseutuwäelle, sen pienwiljelijöille ja torppareille elintarwekysymyksen alalla wain welwollisuuksia.</h5>
+        <p>Siitä he eiwät pidä ollenkaan huolta, että maanwiljelijällä on elintarpeiden tuottoon tarwittawaa työwoimaa saatawana.</p>
+        <p>Siksi että sosialistit owat osoittaneet erinomaisen suurta kewytmielisyyttä waltion warojen hoidossa.</p>
+        <h5>He owat korottaneet edustajapalkkioita suhteettomiin.</h5>
+        <p>He owat tehneet päätöksiä edustajain wapaalipuista rautatateillä. He owat myöntäneet määrärahoja ilman tarpeellista walmistelua, erityisesti määrätessään 10 miljoonaa markkaa kansan 
+          yhteisiä weroja työttömyyden torjumisrahastoon, waikkei ollut mitään suunnitelmia warojen käyttämiseksi ja waikkei asia ollut mitenkään edes walmistettu. Tämän he lisäksi tekiwät 
+          samalla kun he ympäri maata</p>
+        <h5>lakkoja järjestämällä</h5>
+        <p>lisäsiwät tahallaan työttömien lukua.</p>
+        <p>Siksi että sosialisteille</p>
+        <h5>ei ole mitään pyhää ei edes uskonto</h5>
+        <p>ja toisten kansalaisten uskonnollinen elämä. He owat päin wastoin tehneet</p>
+        <h5>uskonnon häwäisemisen wapaaksi</h5>
+        <p>silloin, kun se tapahtuu julkisesti ja ilkeämielisyydestä, poistamalla siitä säädetyn rangaistuksen.</p>
+        <p>Siksi että sosialistit owat osoittaneet</p>
+        <h5>kieltäwänsä itsenäisen esiintymisen kaikilta edustajiltaan.</h5>
+        <p>Kunkin heidän joukossaan on tarkoin seurattawa ryhmänsä enemmistön tai puoluekokouksien päätöksiä. Siten siis sosialistinen enemmistö eduskunnassa tietäisi sitä, että eduskunnan 
+          päätökset määräisi se joukko, joka sosialistiryhmässä tai sosialistien puoluekokouksessa saisi tahtonsa läpi.</p>
+        <p>Siksi että sosialistijohtajat puoluekurinsa pakottamina</p>
+        <h5>eiwät uskalla itsenäisesti toimia.</h5>
+        <p>Tämän kansan asiat waatiwat johtoon itsenäisesti toimiwia lujaluontoisia miehiä.</p>
+        <p>Siksi että sosialistijohto on osoittautunut johtawansa</p>
+        <h5>mieliwaltaan ja anarkiaan,</h5>
+        <p>joka ei anna turwaa kansalaisten hengelle eikä omaisuudelle eikä mahdollisuuksia yhteiskunnan rauhalliselle kehitykselle warallisuuteen ja henkiseen hywinwointiin. Ainoastaan hywän 
+          järjestyksen wallitessa woiwat wähäwaraisetkin saawuttaa pysywän hywinwoinnin.</p>
+        <p>Siksi että sosialistimme owat anarkistisissa toimissaan etsineet tukea maahamme sijoitetun</p>
+        <h5>wenäläisen sotawäen huonoimmilta aineksilta.</h5>
+        <p>He owat asettuneet harjoittamaan mieliwaltaa ja ilkitöitä yhdessä niiden kanssa.</p>
+        <h5>Wieläpä he owat wastustaneet joukkojen täältä poistamista</h5>
+        <p>waikka se olisi elintarwepulan, järjestyksen ylläpidon ja kansamme itsemääräämisoikeuden saawuttamisen kannalta wälttämätöntä.</p>
+        <h5>Siksi että sosialistijohto on osoittautunut saattawansa maanme sekä ulkonaiset että sisäiset asiat perikatoon.</h5>
+      </Article>
+
+      <div className="interTitle">29.9.1917</div>
+      <Article titleText="Sosialistit perustavat aseellisia taistelujärjestöjä.">
+        <h5>Luokkataistelua ja wallankumouksen edelleen kehittämistä warten.</h5>
+        <p>Helsingin Sanomissa on wiime päiwinä tehty eräitä hämmästyttäwiä paljastuksia sosialistien „järjestysmiehistöjen” todellisesta tarkoituksesta. Asian oikeata laatua owat hommamiehet 
+          koettaneet pitää mahdollisimman salassa, mutta kenties waromattomuudesta on muuan „Työläisnuorison” kirjoittaja päästänyt asian julkisuuteen kertoen, että työwäestön laajoissa piireissä 
+          on woimakkaana wallalla ajatus, että on wälttämätöntä „wallankumouksen edelleen jatkamiseksi perustaa työläisistä järjestettyjä joukkoja sotilasmalliin”. Perustettawien joukkojen 
+          tarkoitusta selitellään edelleen: „Kysymys on yksinomaan sellaisista joukoista, joilla on itsenäinen taisteluluonne ja joiden perustamisen tueksi esitetään se peruste, että 
+          luokkataistelu on kehittynyt nyt sille asteelle, jolloin sen jatkamiseksi on käytettäwä wäkiwaltaista ja tarwittaessa aseellistakin woimaa”.</p>
+        <p>Helsingin Sanomat owat edelleen sosialisteille läheiseltä taholta kuulleet, että wenäläiset bolshewikisotamiehet lienewät puuhassa osallisina wieläpä luwanneet antaa aseita sekä osaksi 
+          niitä jo antaneetkin. Sosialistien puoluehallinnon suhtautumisesta tähän järjestelmälliseen suunnitelmaan ei toistaiseksi tiedetä muuta kuin mitä asian agitaattorit owat kertoneet, 
+          nimittäin, ettei puolueneuwostolla ole mitään sitä wastaan. Warsinaisia tarkoituksia on toistaiseksi, ennen waaleja warsinkin, koetettu pitää mahdollisimman salassa, koska sosialistiset 
+          johtomiehet hywin tietäwät, että kansan terwe järki ehdottomasti on moisia roswojärjestöjä wastaan, seikka, joka on ilmennyt asiasta Helsingin ammattijärjestöissä keskusteltaessa. 
+          Joskin hankkeen wastustajat owat joutuneet wähemmistöön, on heidän wastustuksensa ollut erittäin jyrkkä.</p>
+      </Article>
+      <Article titleText="Onko maamme hukutettawa anarkiaan?">
+        <h5>Sosialistien ja wenäläisen sotawäen hirmuwaltaanko upotettawa Suomen wapaus?</h5>
+        <p>Jo silloin kun n. s. waltalakia käsiteltiin eduskunnassa kolmannessa lukemisessa, uhkasiwat sosialistit heittää Waltiopäiwäjärjestyksen romukoppaan, ellei eduskunnan wähemmistö 
+          alistuisi heidän waatimuksiinsa. Siinä sos. dem. puolueneuwoston ja sos. dem. eduskuntaryhmän yhteisessä julistuksessa, jonka ed. Airola luki täysi-istunnossa 17 p. heinäkuuta, 
+          sanottiin, että ellei sosialistein waltalakia hywäksytä, waatii sos. dem. puolue ja eduskuntaryhmä, että on wedottawa kansaan uusien waalien kautta, ja että sen jälkeen, jos walitsijain 
+          enemmistö niin tahtoo, kaikki lait on eduskunnassa päätettäwä yksinkertaisella enemmistöllä. Wieläpä uhattiin, että jos työwäestön — ei siis enää walitsijain — enemmistö niin waatii, 
+          olisi walittawa perustuslakeja säätäwä kansalliskokous, jonka waalissa kaikilla 20 wuotta täyttäneillä kansalaisilla olisi äänioikeus.</p>
+        <p>Lieneekö missään maassa laillisen eduskunnan enemmistön puolelta lausuttu tällaisia uhkauksia? Ellei wähemmistö taiwu luowuttamaan laillisia oikeuksiaan wedota kansaan, niin enemmistö 
+          heittää perustuslait kokonaan syrjään. Ja tämä muka kansanwaltaisuuden nimessä!</p>
+        <p>Tätä uhkausta on sittemmin uudistettu. Sos. dem. puolueneuwoston ja sos dem. eduskuntaryhmän 22 p. elokuuta Työmies-lehdessä julkaisemassa julistuksessa „Suomen työtätekewälle kansalle” 
+          lausutaan, että jos wähemmistö alkaisi „järjestelmällisesti lykätä kaikki wälttämättömän kiireelliset lait jälleen yli seuraawien waalien”, pitäisi eduskunnan saada, jos walitsijakansan 
+          enemmistö on siihen luwan antanut, „wapaasti harkita ja päättää, onko Waltiopäiwäjärjestyksen jarrutuspykäliä noudatettawa, wai ei”. Puhe „järjestelmällisestä lykkäämisestä” on tietenkin 
+          tyhjää lorua; wiime waltiopäiwillä lykättiin yksi ainoa asia — osuustoimintalakimuutosta koskewa — yli waalien. Sosialistit tahtowat warata itsellensä mahdollisuuden toimia laista 
+          riippumatta.</p>
+        <p>Kaikkien räikeimpänä tulee tämä lain polkemisen waatimus näkywiin sos. dem. puolueen äskeisessä waalijulistuksessa. Siinä sanotaan:</p>
+        <p className="quote">Nykyinen waltiopäiwäjärjestys on säätywaltiopäiwillä tehty. Siinä on jarrutuspykäliä, joiden awulla härkäpäinen wähemmistö, kolmasosa, jopa kuudesosakin, woi 
+          mieliwaltaisesti estää tai lykätä Eduskunnan enemmistön hywäksymiä lakeja. Onko Eduskunnan pakko aina sallia semmoista wähemmistön mieliwaltaa, waikka tärkeimpäinkin uudistusten 
+          walmistuminen joutuisi waaraan? Sitä kysyy Sosalidemokratinen Puolue walitsijoilta. Jos walitsijakansan enemmistö äänestää sosialidemokraateja, niin osoittaa se antawansa 
+          Eduskunnalle luwan, ellei muu auta, säätää kiireellisimmät lait wapaawaltaisesti, yksinkertaisella ääntenenemmistöllä.</p>
+        <p>Räikeämmin ei woi anarkiauhkaa enää tuoda julki. „Jos walitsijakansan enemmistö äänestää sosialidemokrateja”, silloin näillä on oikeus wälittää laista wiisi. Eduskunnan enemmistö silloin 
+          pui nyrkkiä ja sanoo: tässä on laki ja oikeus!</p>
+        <p className="accent">Kawahtakaat walitsijat äänestämästä puoluetta, joka tällaista uhkaa! Walitsija, joka äänestää sosialisteja, äänestää lain ja oikeuden kumoamista, äänestää 
+          selwän anarkian puolesta!</p>
+        <p>Kysyy ihmetellen, kuinka uskaltawat sosialistien johtomiehet esittää tällaisia uhkauksia?</p>
+        <p>Wastaus on yksinkertainen: <span className="accent">he uskaltawat tehdä sen wenäläisen työ- ja sotawäen turwissa.</span></p>
+        <p>Wenäläiseen sotawäkeen sosialistit wetosiwat metallityöntekijäin lakossa Helsingissä wiime kewäänä.</p>
+        <p>Wenäläiseen sotawäkeen sosialistit owat wedonneet lukuisissa maatyöläislakoissa.</p>
+        <p>Wenäläiseen sotawäkeen sosialistit owat wedonneet kunnallislakoissa.</p>
+        <p>Wenäläisen sotawäen awulla sosialistit owat ahdistelleet kaupungin- ja kunnanwaltuustoja.</p>
+        <p>Wenäläistä työ- ja sotawäkeä sosialistit rukoiliwat awukseen taiwuttamaan eduskunnan porwarillisia hywäksymään uudet kunnallislait ja lain 8-tuntisesta työpäiwästä.</p>
+        <p>Wenäläiseen työ ja sotawäkeen sosialistit wetosiwat wielä wiime sunnuntaina sos. dem. puoluetoimikunnan julistuksessa „Wenäjän sosialistipuolueiden edustajille”, jossa lisäksi tehtiin 
+          porwarillisia wastaan mitä inhoittawimpia, walheellisia waltiollisia ilmiantoja.</p>
+        <p className="bold">Sosialistienko waaliwankkurien eteenkö Suomen walitsijat antaisiwat waljastaa itsensä? Tahtoisiwatko he todella olla mukana wetämässä laittomuuden, wallattomuuden, 
+          sotilashirmuwallan kirouksen yli tämän maan.</p>
+        <p className="bold">Kansalaiset! Wastatkaa waaleissa lokakuun 1 ja 2 päiwänä.</p>
+      </Article>
+
+      <div className="interTitle">2.10.1917</div>
+      <Article titleText="Sosialistit varustautuvat aseelliseen toimintaan kansalaisia vastaan.">
+        <p>Samaan aikaan kun kautta maan kansalaiset warustautuwat rauhalliseen waalitaisteluun, owat sosialistit ryhtyneet sen ohella toisenkinlaatuiseen toimintaan omien waatimustensa 
+          toteuttamiseksi. He owat suurella kiiruulla ja woimalla ruwenneet perustamaan kaikkialle „sotilasmallisia” taistelujärjestöjä, jotka eiwät ole tarkoitetut järjestyksen walwomiseksi, 
+          waan joilla on „itsenäinen taisteluluonne”. ja jotka „luokkataistelun jatkamiseksi tulewat käyttämään wäkiwaltaista ja aseellista woimaa”, kuten eräs asian selostaja „Työläisnuoriso” 
+          -lehdessä selittää. Tämän woiman käyttö kohdistetaan kirjoittajan sanojen mukaan maanwiljelijöitä ja kauppiaita wastaan.</p>
+        <p>Tähän saakka maassamme tapahtuneiden elintarweryöstöjen ja muun „wäkiwaltaisen luokkataistelun” johdosta owat sosialistiset sanomalehdet lausuneet, ettei „järjestyneellä työwäellä” ole 
+          ollut mitään näiden esiintymisten kanssa tekemistä.</p>
+        <p>Nyt sensijaan perustetaan kautta maan työwäenyhdistysten yhteyteen aseellisia järjestöjä, joitten yksinomaisena tarkoituksena on <span className="accent">wäkiwaltaisuuksiin 
+          ryhtyminen</span> toisin ajattelewia kohtaan sekä nimenomaan <span className="accent">elintarweryöstöjen</span> toimittaminen!</p>
+        <p>Kewäällä sosialistit ehkäisiwät maan wiljelemisen wäkiwaltaa uhkailemalla ja käyttämällä. Syksyllä he ryöstiwät kaupunkien ja taajawäkisten maalaisyhdyskuntain talwitarpeiksi waratut 
+          woiwarastot. Nyt he suunnittelewat kautta maan järjestettyä yksityisomaisuuden ryöstötoimintaa, aikowat aseellisin woimin anastaa maanwiljelijöiltä, kauppiailta ja tietysti kaikilta 
+          muiltakin, joilla sattuu jotakin syötäwäksi kelpaawaa olemaan, näitten wiimeisen leipäpalankin woidakseen sitä paremmin näiden ryöstettyjen elintarpeitten turwissa lakkojaan tehdä ja 
+          jatkaa.</p>
+        <p>Kansalaiset!</p>
+        <h5>Sallitteko sosialistien toteuttaa nämä ryöstöaikeensa?</h5>
+        <h5>Tahdotteko jättää maan asiain hoidon tällaisten ryöwärijärjestöjen käsiin?</h5>
+        <p>Äänestäkää silloin sosialisteja tahi jääkää pois waaleista.</p>
+        <p>Mutta jos tahdotte, että kaikki wallattomuus ja wäkiwaltaisuus — olkoon se sitten „järjestymättömien” tahi „järjestyneiden”, aseellisten tahi aseettomien ryöwärien toimeenpanema tässä 
+          maassa wihdoinkin lakkaa, niin äänestäkää itse ja pitäkää tarkka huoli siitä että kaikki omaisenne — wanhempanne, äänioikeusijässä olewat lapsenne ja palwelijanne — sekä kaikki 
+          naapurinne <span className="accent">ensi maanantaina ja tiistaina käywät waaliuurnaan laskemaan lipun, jossa punawiiwa on wedetty johonkin yhtyneitten suomalaisten waaliliiton 
+          listaan!</span></p>
+        <p>Muistakaa, kansalaiset, että näissä waaleissa ei ole kysymys pelkästä politiikasta, waan kysymys on siitä tahdotaanko turwata yksityistenkin kansalaisten omaisuus ja henki, joiden 
+          turmaksi sosialistit aseellisia järjestöjään kiireen kaupalla tuowat!</p>
+      </Article>
+
+      <div className="interTitle">4.10.1917</div>
+      <Article titleText="Taistelun tauottua.">
+        <h5>Waaliottelu on ohitse.</h5>
+        <p>Wielä ei meillä ole käytettäwissämme mitään warsinaisia numeroita, tulos, jota koko kansamme ankaralla jännityksellä odottaa, on yhä wielä tulewien päiwien kätkössä. Mutta sen me 
+          kumminkin tiedämme, että kansalaiset owat walppaammin ja tunnollisemmin kuin pitkiin aikoihin täyttäneet kansalaiswelwollisuutensa, ja onhan se jo sinänsä tawattoman ilahuttawa ilmiö. Se 
+          todistaa että meidänkin kansamme alkaa jo lähempää seurata waltiollisia tapahtumiamme ja yhteiskunnallista elämäämme ja rientää sille annetulla oikeudella määräämään kantansa niihin.</p>
+        <p>Me emme tietysti woi wakuuttaa että sosialistit näissä waaleissa nyt owat kärsineet waalitappion. Useat merkit siihen tosin wiittaawat, mutta merkithän owat waan merkkejä ja heikkoa on 
+          niiden perusteella lähteä ennustamaan. Mutta jos tämä tappio osottautuu todeksi, silloin woi koko maamme huuata helpoituksesta ja onnitella itseään siitä, että waikka sillä wielä 
+          olisikin monta kowaa koettawanaan, niin monelta pahalta se näiden waalien tuloksen johdosta kuitenkin on säästynyt.</p>
+        <p>Sosialistit eiwät tietystikään tule heittämään kirwestään kaiwoon, waikkapa heidän tappionsa olisi miten musertawa tahansa. Ollessaan enemmistönä eduskunnassa, hallituksessa eiwät he 
+          kawahtaneet kulkemasta laittomuuksien etunenässä ja ottaa niitä siipiensä suojiin. Sitä wähemmän tulewat he nyt wälittämään laillisista muodoista taistellessaan waalien kautta 
+          menettämästään wallasta. Tähän itsestään selwään seikkaan wiittaa wenäläisten lehtien Suomesta saama tieto, että entinen eduskunnan puhemies Manner on päättänyt julistaa nämä waalit 
+          laittomiksi, jos sosialistit joutuwat niissä tappiolle, ja kutsua koolle wäliaikaisen hallituksen hajoittamaan laittoman eduskunnan. Manner lienee myöskin waatinut senaattia 
+          julkaisemaan wanhan eduskunnan parissa istunnossaan hywäksymät summamutikkaiset lait, uhaten senaatin kieltäytyessä julkaista ne omalla wallallaan.</p>
+        <p>Tällaisilla keinoilla on siis nähtäwästi tarkoitus suoriutua edessä olewasta waalitappiosta. Se ennustaa meille moniaita surullisia rettelöitä, kenties aiwan arwaamattomia kunnallisia 
+          rauwioita, mutta jos Suomen kansa näissä waaleissa on riittäwän selwästi lausunut ajatuksensa sosialisteista ja heidän menettelystään, niin ei meidän kuitenkaan tarwitse olla 
+          epätoiwoisia tulewaisuudestamme. Jos taas yleinen wälinpitämättömyys on antanut ohjakset sosialistien käsiin silloin joutuu tämä kansa käymään koulua, jota se ei ikänään ole unhottawa ja 
+          joka woi tulla sille kalliimmaksi kuin mitä se woi maksaa.</p>
+        <p>Mutta — älkäämme maalatko pahaa seinälle, kenties me ainakin tällä kerralla olemme pelastuneet punaisesta painajaisestamme.</p>
+      </Article>
+
+      <div className="interTitle">11.10.1917</div>
+      <Article titleText="Venäläinen sotaväki Suomessa ja väliaikainen hallitus.">
+        <h5>Wälit kiristywät. Onko tulossa wenäläisten wälinen sota Suomessa?</h5>
+        <p>Tiistain „Iswestijassa” on ensimäisen kirjoituksen paikalla Suomessa olewien joukkojen aluekomitean julistus „Pietarin ja Wenäjän wallankumouksellisille sotilaille ja työmiehille”. 
+          Julistus on sen laatuinen, että se osottaa wälien kiristyneen äärimmilleen täkäläisen bolshewikiwallan ja wäliaik. hallituksen wälillä, Otamme seuraawat tärkeimmät kohdat julistuksesta:</p>
+        <p>Aikana, jolloin ei waltaa ole, aikana, jolloin meidän wallankumoustamme uhkaa kuolemanwaara, on päämme yläpuolelle nostettu miekka. Kansalle edeswastuuton wäliaikainen hallitus on 
+          antanut määräyksen wallankumouksellisten rykmenttien poiswiemisestä Suomesta ja niiden korwaamisesta tuntemattomilla joukko-osastoilla. Tätä työtä me pidämme ilmeisenä kansalaissodan 
+          prowoseeraamisena. Mitkään strategiset syyt eiwät ole tässä olleet määrääwinä, sillä uusia joukkoja on tuotawa sijalle. Kaikki wiittaukset „strategiaan” ja „puolustukseen” owat 
+          teeskentelyä.</p>
+        <p>„Pietarin työmiehet ja sotilaat! Alkää salliko hirwittäwän rikoksen tapahtua. Sähköttyneessä ilmapiirissä woi kipinäkin sytyttää tulipalon. Meitä, uhkaa uusi Kornilow paljon 
+          demokraatisemmassa puwussa ja senwuoksi paljoa waarallisempi. — Pankaa wastalause wallankumouksellisten joukkojen siirtämistä wastaan Suomesta. Pankaa wastalauseenne meidän joukkojemme 
+          korwaamista wastaan tuntemattomilla joukoilla. Me odotamme teidän mahtawaa sanaanne. Me wastustamme yksityisiä esiintymisiä, mutta asema on siksi wakawa, että me itse joudumme joukkojen 
+          alkuwoimaiseen myllerrykseen, jollei Kerenski lopeta käskyjensä antamista meidän joukoillemme. Me annamme edeltäpäin tietää koko Wenäjän demokratialle, että jos Suomeen tuodaan joukkoja 
+          ilman meidän suostumustamme, niin me wapautamme itsemme kaikesta edeswastuusta mahdollisista seurauksista ja toimimaan wallankumouksellisen järkemme mukaan.”</p>
+      </Article>
+
+      <div className="interTitle">20.10.1917</div>
       <Article titleText="Suojeluskunnista.">
         <p>Maassamme wallitsewa sekasorto ja wallattomuus, päiwittäin toistuwat roswoukset, murhat, wäkiwallanteot naisia ja yksityisiä kansalaisia kohtaan, joihin ottawat osaa niinhywin omat kuin 
           wieraat huligaaniainekset, owat wihdoinkin saaneet rauhaa ja järjestystä harrastawat kansalaiset ajattelemaan, mitä heidän rauhaansa kuuluu. Seurauksena onkin ollut, että nämä 
@@ -496,11 +766,11 @@ const PreCivilWarPage = () => {
       </Article>
       <Article titleText="Eduskunta ei voi terrorin valitessa kokoontua.">
         <p>Tiistai-illalla jätettiin sosialidemokratien eduskuntaryhmille näin kuuluwa kirjelmä:</p>
-        <p className="quotationStyle">Sosialidemokratisen eduskuntaryhmän puolesta owat erinäiset mainitun ryhmän jäsenet puhemiehelle annetuissa kirjoituksissa esittäneeet, että eduskunta 
+        <p className="quotation">Sosialidemokratisen eduskuntaryhmän puolesta owat erinäiset mainitun ryhmän jäsenet puhemiehelle annetuissa kirjoituksissa esittäneeet, että eduskunta 
           wiipymättä on kutsuttawa täysi-istuntoon. Käsitellessään kysymystä milloin seuraawa täysi-istunto on pidettäwä, on puhemiehistö ollut yksimielinen siitä, että koska asestetut wäkijoukot 
           wäkiwallalla ja uhkauksin owat estäneet maan wirkamiehistöä täyttämästä sille kuuluwia wirkatehtäwiä sekä wanginneet, ja waikkakin maassa on lakon ilmoitettu päättyneen, edelleenkin 
           wangittuina pitäwät maan wirkamiehiä ja yksityisiä kansalaisia, eduskuntaa ei woida sellaisen pakkotilan wallitessa täysi-istuntoon kutsua.</p>
-        <p className="quotationStyle centered">Puhemiehistön puolesta:</p>
+        <p className="quotation centered">Puhemiehistön puolesta:</p>
         <p className="signature">Johannes Lundson, J. Ahawa.</p>
       </Article>
       <Article titleText="Poliisilaitoksen waltaus.">

@@ -1,8 +1,8 @@
 @import "../base/global.css";
 
 .navBarStyle {
-  width: calc(100% + 14px);
-  margin: 0 0 10px -7px;
+  width: calc(100% + 48px);
+  margin: 0 0 10px -24px;
   padding: 0;
   font-size: 21px;
   border-bottom: 1px solid var(--color-bg-dark);
@@ -24,6 +24,8 @@
 }
 @media screen and (max-width: 768px) {
   .navBarStyle {
+    width: calc(100% + 16px);
+    margin: 0 0 10px -8px;
     background-image: url("../../images/headerImage.jpg");
     background-size: cover;
     background-position: center center;

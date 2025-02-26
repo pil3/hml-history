@@ -943,31 +943,31 @@ const KunnallisHistoriaPage = () => {
         <br />
         <p className="initialCap">Kaupungin torpat Rengossa ovat nykyään vuokratut seuraavilla ehdoilla:</p>
         <br />
-        <p><span className="boldStyle">l:o.</span> Vuokra-aika alkaa Maarian päivästä v. 1893 ja kestää samaan aikaan vuonna 1918.</p>
-        <p><span className="boldStyle">2:o.</span> Vuokramiehellä on valta käyttää torppaan kuuluvaa metsää omaksi tarpeeksensa ja torpan rakennusaineiksi, mutta, myytäväksi ei sitä saa millään ehdoilla käyttää eikä myöskään kaskeksi kaataa, joll'ei kaupungin 
+        <p><span className="bold">l:o.</span> Vuokra-aika alkaa Maarian päivästä v. 1893 ja kestää samaan aikaan vuonna 1918.</p>
+        <p><span className="bold">2:o.</span> Vuokramiehellä on valta käyttää torppaan kuuluvaa metsää omaksi tarpeeksensa ja torpan rakennusaineiksi, mutta, myytäväksi ei sitä saa millään ehdoilla käyttää eikä myöskään kaskeksi kaataa, joll'ei kaupungin 
           valtuusmiehet ole siihen erityistä lupaa antaneet ja paikkaa määränneet. Vuokramiehellä ei ole myöskään oikeutta myydä karjan ruokaa.</p>
-        <p><span className="boldStyle">3:o.</span> Vuokramies vastaa torpan rakennuksista, jotka aina ovat laillisessa kunnossa pidettävät; myöskin on hän vastaava niiden maantie-osien kunnossa pitämisestä, jotka nyt ovat torpan osaksi jaetut taikka vasta ehkä jaetaan. 
+        <p><span className="bold">3:o.</span> Vuokramies vastaa torpan rakennuksista, jotka aina ovat laillisessa kunnossa pidettävät; myöskin on hän vastaava niiden maantie-osien kunnossa pitämisestä, jotka nyt ovat torpan osaksi jaetut taikka vasta ehkä jaetaan. 
           Samoin on hän suorittava kaikki torpalle määrätyt verot ja maksut, olkoot ne mitä laatua tahansa.</p>
-        <p><span className="boldStyle">4:o.</span> Vuokramies on suorittava vuokransa, joka tekee ____ markkaa vuosittain, ennakolta helmikuun kuluessa.</p>
-        <p><span className="boldStyle">5:o.</span> Jos vuokramies osoittaa huolimattomuutta tai velttoutta, taikka yhdessä tai toisessa kohdin rikkoisi edellä olevat määräykset, ei hoitaisi torppaa hyvin eikä pitäisi sitä hyvässä kunnossa, niin on hän torpasta heti 
+        <p><span className="bold">4:o.</span> Vuokramies on suorittava vuokransa, joka tekee ____ markkaa vuosittain, ennakolta helmikuun kuluessa.</p>
+        <p><span className="bold">5:o.</span> Jos vuokramies osoittaa huolimattomuutta tai velttoutta, taikka yhdessä tai toisessa kohdin rikkoisi edellä olevat määräykset, ei hoitaisi torppaa hyvin eikä pitäisi sitä hyvässä kunnossa, niin on hän torpasta heti 
           paikalla, laissa määrättyä muutto-aikaa nauttimatta, eroitettava, vaikka hän olisikin vuokransa jo siltä vuodelta suorittanut.</p>
       </Article>
       <SubDivider className="dividerStyle"/>
 
       <Article titleText="Metsänhoitosäännöt kaupungin kaikille torppareille.">
         <p className="info centered">(Rahatoimikamarin julkaisusta maalisk. 21 p:ltä 1899).</p>
-        <p><span className="boldStyle">l:si.</span> Torppari, joka haluaa saada rakennusaineita kotitarpeeksi, ilmoittakoon Rahatoimikamarin syyskuun pitämässä kokouksessa minkä verran rakennuspuita, aidaksia ja polttopuita sekä muita tarvepuita hän seuraavaksi vuodeksi 
+        <p><span className="bold">l:si.</span> Torppari, joka haluaa saada rakennusaineita kotitarpeeksi, ilmoittakoon Rahatoimikamarin syyskuun pitämässä kokouksessa minkä verran rakennuspuita, aidaksia ja polttopuita sekä muita tarvepuita hän seuraavaksi vuodeksi 
           tarvitsee. Se, joka ei edellä mainitussa kokouksessa ilmoita itseään saadakseen sanotuita metsäntuotteita, menettää kaiken oikeutensa niihin seuraavaksi vuodeksi.</p>
-        <p><span className="boldStyle">2:si.</span> Kaikenlainen puiden hakkuu metsässä kielletään muilla kuin siksi määrätyillä paikoilla. Samoin kielletään kaatamasta muita kuin hakattavaksi määrätyltä puita.</p>
-        <p><span className="boldStyle">3:si.</span> 10 sentimetriä korkeampia kantoja ei saa jättää.</p>
-        <p><span className="boldStyle">4:si.</span> Kaikki hakkuu, paitsi kerpun-taitto ja veistopuuaineitten hankkiminen, on kesällä kielletty, ja alkakoon hakkuu vasta syksyllä rahatoimikamarin määräämän päivän jälkeen.</p>
-        <p><span className="boldStyle">5:si.</span> Hirren hakkuusta jääneet latvat ja isommat oksat ovat polttopuiksi hakattavat. Pienemmät oksat sekä risut ovat, jollei niitä käytetä pahnoiksi, tasaisesti hakkaus-alalla levitettävät, niin ettei roukkioita synny.</p>
-        <p><span className="boldStyle">6:si.</span> Hakkaus-alojen kylvämiseksi ovat selvästi merkityt puut jätettävät ja kielletään jokaista laillisen edesvastauksen uhalla niitä kaatamasta tahi millään tavalla vahingoittamasta.</p>
-        <p><span className="boldStyle">7:si.</span> Kaikki kaadetut puut ovat rekikelin aikana vietävät pois metsästä. Aidaksia ja polttopuita saapi kuitenkin jättää hakkuupaikalle seuraavaksi vuodeksi ainoastaan mitallisiin pinoihin pantuina.</p>
-        <p><span className="boldStyle">8:si.</span> Metsää ei saada millään ehdolla kaskeksi kaataa. Samoin on metsäntuotteiden myyminen ankarasti kielletty. Niinikään on metsästys ilman erityistä lupaa kielletty laissa määrätyllä uhalla.</p>
-        <p><span className="boldStyle">9:si.</span> Kaikki metsälain määräykset, niinkuin tulen sytyttämisestä metsässä, kulovalkean sammuttamisesta y. m., ovat tarkasti noudatettavat.</p>
-        <p><span className="boldStyle">l0:si.</span> Torpparien tulee ehdottomasti noudattaa niitä metsänhakkuuta koskevia määräyksiä, joita kaupungin metsänvartija heille antaa.</p>
-        <p><span className="boldStyle">ll:si.</span> Joka rikkoo näitä sääntöjä ja metsänvartian antamia määräyksiä vastaan, hän rangaistaan rikoksen laadun mukaan joko laissa määrätyillä sakoilla ja vahingon korvaamisella tahi häätämisellä.</p>
+        <p><span className="bold">2:si.</span> Kaikenlainen puiden hakkuu metsässä kielletään muilla kuin siksi määrätyillä paikoilla. Samoin kielletään kaatamasta muita kuin hakattavaksi määrätyltä puita.</p>
+        <p><span className="bold">3:si.</span> 10 sentimetriä korkeampia kantoja ei saa jättää.</p>
+        <p><span className="bold">4:si.</span> Kaikki hakkuu, paitsi kerpun-taitto ja veistopuuaineitten hankkiminen, on kesällä kielletty, ja alkakoon hakkuu vasta syksyllä rahatoimikamarin määräämän päivän jälkeen.</p>
+        <p><span className="bold">5:si.</span> Hirren hakkuusta jääneet latvat ja isommat oksat ovat polttopuiksi hakattavat. Pienemmät oksat sekä risut ovat, jollei niitä käytetä pahnoiksi, tasaisesti hakkaus-alalla levitettävät, niin ettei roukkioita synny.</p>
+        <p><span className="bold">6:si.</span> Hakkaus-alojen kylvämiseksi ovat selvästi merkityt puut jätettävät ja kielletään jokaista laillisen edesvastauksen uhalla niitä kaatamasta tahi millään tavalla vahingoittamasta.</p>
+        <p><span className="bold">7:si.</span> Kaikki kaadetut puut ovat rekikelin aikana vietävät pois metsästä. Aidaksia ja polttopuita saapi kuitenkin jättää hakkuupaikalle seuraavaksi vuodeksi ainoastaan mitallisiin pinoihin pantuina.</p>
+        <p><span className="bold">8:si.</span> Metsää ei saada millään ehdolla kaskeksi kaataa. Samoin on metsäntuotteiden myyminen ankarasti kielletty. Niinikään on metsästys ilman erityistä lupaa kielletty laissa määrätyllä uhalla.</p>
+        <p><span className="bold">9:si.</span> Kaikki metsälain määräykset, niinkuin tulen sytyttämisestä metsässä, kulovalkean sammuttamisesta y. m., ovat tarkasti noudatettavat.</p>
+        <p><span className="bold">l0:si.</span> Torpparien tulee ehdottomasti noudattaa niitä metsänhakkuuta koskevia määräyksiä, joita kaupungin metsänvartija heille antaa.</p>
+        <p><span className="bold">ll:si.</span> Joka rikkoo näitä sääntöjä ja metsänvartian antamia määräyksiä vastaan, hän rangaistaan rikoksen laadun mukaan joko laissa määrätyillä sakoilla ja vahingon korvaamisella tahi häätämisellä.</p>
       </Article>
       <SubDivider className="dividerStyle"/>
 
@@ -978,7 +978,7 @@ const KunnallisHistoriaPage = () => {
         <p>Liikennemaksut: 3,261: 99</p>
         <p>Puistoravintolan vuokra: 1,400:-</p>
         <p>Yht.: 23,894: 96</p>
-        <p className="boldStyle">Muist:</p>
+        <p className="bold">Muist:</p>
         <p className="info">1: Torimaksuja suorittavat ainoastaan ulkolaiset paikoistaan markkinoilla. Torikauppiaat kaupungissa eivät maksa mitään paikoistaan torilla eivätkä myöskään kaupunkilaiset markkinoilla.</p>
         <p className="info">2: Liikennemaksut kantaa tullinhoitaja ja nauttii siitä palkkiota vuosittain 300 markkaa.</p>
         <p className="info">3: Laidunmaan käyttämisestä suoritetaan joka lehmältä 3 markan ja samoin joka hevoselta 3 markan vuotuinen maksu.</p>
@@ -1043,7 +1043,7 @@ const KunnallisHistoriaPage = () => {
           saanut määrätyn osansa. Valtuuston kokouksessa 31 p:nä toukok. 1878 päätettiin talon hinta kasvulle pantavaksi, ja olisi puolet vuosi-korosta annettava kaupungin köyhille ylimääräiseksi joulu-avuksi vuosittain; toinen puoli 
           korkoa pantaisiin pääomaan, kunnes se olisi kasvanut 10,000 markaksi, ja tulisi myöhempäin valtuusmiesten päättää miten näin kasvanut pääoma olisi käytettävä.</p>
         <p>9,934 m. 16 p:n suuruisena yhdistettiin tämäkin rahasto v. 1891 valtuuston päätöksestä Stichaeuksen vaivais- ja työhuonerahastoon.</p>
-        <p className="boldStyle">Huomautus:</p>
+        <p className="bold">Huomautus:</p>
         <p className="info">V. 1876 oli hoitovaivaisia yhteensä 45 sekä kuukaus- ja tilapäistä apua nauttivia yhteensä 56. Edellisistä oli alaikäisiä 24 eli 10 poikaa ja 14 tyttöä, joten siis täysi-ikäisiä hoitovaivaisia oli 21.</p>
         <p className="info">V. 1898 oli hoitovaivaisia yhteensä 22 sekä kuukausapua nauttivia 32 ja tilapäistä apua nauttivia 33. Edellisistä eli hoitovaiv. oli alaikäisiä 18 ja täysik. siis 4.</p>
         <p>Käydessämme tämän vuoden (1899) joulukuun alussa kaupungin vaivaistaloa katselemassa, oli siinä hoidettavana yhteensä 34 hoitolaista eli 15 miespuolta ja 19 naispuolta, kaikki vanhoja ihmisiä, paitsi yksi ala-ikäinen 
@@ -1210,21 +1210,21 @@ const KunnallisHistoriaPage = () => {
         <p>Opettajakirjasto perustettiin v. 1879 kunnan varoilla, Siinä oli 1898 vuoden lopulla 901 nidosta.</p>
         <p>Perustus lastenkirjastolle laskettiin toukokuussa 1891, jolloin kuvernööri T. Costiander sitä varten lahjoitti 300 markkaa. Ahkerasti ja suurella halulla nuoriso sitä käyttää. Nidosmäärä nykyään 330.</p>
         <p>Stipendejä ja vaatetusapua jaetaan varattomille oppilaille seuraavista rahastoista ja laitoksista:</p>
-        <p><span className="quotationStyle">Walheimin testamenttivarastosta</span> vuosittain 150 mk. 5 ja 10 markan stipendeinä.</p>
-        <p><span className="quotationStyle">Rosenqvistin testamentti-varastosta</span> vuosittain 120 mk., joilla rahoilla on ostettu varattomille oppilaille kirjoja.</p>
-        <p><span className="quotationStyle">Köyhien kansakoululasten vaatetusrahastosta</span> josta, kuten nimi osoittaa, jaetaan vaatetusapua köyhimmille oppilaille.</p>
+        <p><span className="quotation">Walheimin testamenttivarastosta</span> vuosittain 150 mk. 5 ja 10 markan stipendeinä.</p>
+        <p><span className="quotation">Rosenqvistin testamentti-varastosta</span> vuosittain 120 mk., joilla rahoilla on ostettu varattomille oppilaille kirjoja.</p>
+        <p><span className="quotation">Köyhien kansakoululasten vaatetusrahastosta</span> josta, kuten nimi osoittaa, jaetaan vaatetusapua köyhimmille oppilaille.</p>
         <p>Vaatetusapua on niinikään jakanut kaupunpin sivistyneiden naisten keskuudessa aikoinaan muodostunut neulomusseura.</p>
-        <p>Sekä <span className="quotationStyle">Hämeenlinnan vanha anniskelu-yhtiö</span> että nykyinen <span className="quotationStyle">vähittäismyynti- ja anniskeluosakeyhtiö</span> ovat voittovaroistaan muistaneet 
+        <p>Sekä <span className="quotation">Hämeenlinnan vanha anniskelu-yhtiö</span> että nykyinen <span className="quotation">vähittäismyynti- ja anniskeluosakeyhtiö</span> ovat voittovaroistaan muistaneet 
           kansakoulunoppilaita, edellinen aikoinaan runsailla rahalahjoituksilla ruoka-annoksiin, jälkimäinen vielä runsaammilla varoilla vaatetusavuksi ja stipendeiksi.</p>
         <p>Mitä vanhan anniskeluyhtiön ruoka-annoksiin lahjoittamista varoista oli jäänyt tähteeksi, on kansakoulun johtokunta pitänyt Säästöpankissa korolla yhteydessä vaatetusrahaston korkojen tähteiden kanssa. Niitä varoja on 
           nykyään noin 1,700 markkaa.</p>
-        <p><span className="quotationStyle">Cygnaeuksen stipendi-rahasto</span> muodostui v. 1888 sen seppeleen hinnan tähteistä, joka H:linnasta lähetettiin U. Cygnaeuksen haudalle, ja jätettiin 108 markan suuruisena 
+        <p><span className="quotation">Cygnaeuksen stipendi-rahasto</span> muodostui v. 1888 sen seppeleen hinnan tähteistä, joka H:linnasta lähetettiin U. Cygnaeuksen haudalle, ja jätettiin 108 markan suuruisena 
           kansakoulujohtokunnan haltuun. Tästä rahastosta, jota tallennetaan säästöpankissa, jaetaan stipendejä vasta sitten, kun se on noussut 2,000 markan suuruiseksi. Sitä on säästöpankki kerran lisännyt 498 markalla, ja sen suuruus 
           on nykyään 690 mk.</p>
-        <p><span className="quotationStyle">Kansakoulun kansanopisto-rahastosta</span> ei myöskään vielä ole stipendejä annettu, vaan jatketaan keräystä. Se sai alkunsa siten, että neiti Hilda Eklöf v. 1895 rupesi keräilemään varoja 
+        <p><span className="quotation">Kansakoulun kansanopisto-rahastosta</span> ei myöskään vielä ole stipendejä annettu, vaan jatketaan keräystä. Se sai alkunsa siten, että neiti Hilda Eklöf v. 1895 rupesi keräilemään varoja 
           stipendeiksi niille kansakoulunoppilaille, jotka haluavat jatkaa opintojaan jossain kansanopistossa. Kerättyyn summaan lisäsi sitten Säästöpankki 2,800 markkaa, niin että rahastossa nykyään on 3,360 markkaa.</p>
-        <p><span className="quotationStyle">Z. Topeliuksen stipendi-rahasto</span> on syntynyt säästöpankin lahjoittamista varoista sekä keräyksistä ja on nykyään 700 markan suuruinen.</p>
-        <p>Mutta yhteen jaksoon kansakoulun kanssa mainittakoon tässä vielä <span className="quotationStyle">kansankirjastosta</span> ja <span className="quotationStyle">lukusalista</span>. Kansankirjasto on yhtä vanha kuin 
+        <p><span className="quotation">Z. Topeliuksen stipendi-rahasto</span> on syntynyt säästöpankin lahjoittamista varoista sekä keräyksistä ja on nykyään 700 markan suuruinen.</p>
+        <p>Mutta yhteen jaksoon kansakoulun kanssa mainittakoon tässä vielä <span className="quotation">kansankirjastosta</span> ja <span className="quotation">lukusalista</span>. Kansankirjasto on yhtä vanha kuin 
           kansakoulutkin täällä. Vuosittain on siihen hankittu uutta kirjallisuutta noin 200 markan edestä, niin että nidosten lukumäärä nyt on lähes 2,000. Kirjastoon yhdistettiin v. 1888 lukusali kaupungin työväenluokkaa varten. Siinä 
           on melkoinen määrä kotimaisia sanomalehtiä ja aikakauskirjoja, joita ahkerasti luetaan, niinkuin kirjaston nidoksiakin oikein kilvan lainataan kodeissa luettaviksi. Molemmat laitokset sijaitsevat nykyään vapaaehtoisen 
           palokunnan entisessä talossa.</p>
@@ -1356,29 +1356,29 @@ const KunnallisHistoriaPage = () => {
         <SubDivider className="dividerStyle"/>
         <p>Sittemmin on tässä palkkaussäännössä tapahtunut muutamia muutoksia, niinkuin alla-olevasta luettelosta lähemmin nähdään. Oikeusraatimiehen- ja notaarion-virat on yhdistetty, mutta kaupunginviskaalin- ja kaupunginvoudin-
           virat ei. Täten nauttivat kaupungin virkamiehet ja palvelijat nykyjään palkkaa:</p>
-        <p><span className="boldStyle">Pormestari</span> palkkaa 7,000, korvausta huutokauppaprosentin lakkauttamisesta 400, yht 7,400:-</p>
-        <p><span className="boldStyle">Oikeusraatimies</span> palkkaa 2,500, korvausta huutokauppa-pros. lakkauttamisesta 800 m: 3,300: —</p>
-        <p><span className="boldStyle">Notaario</span> maistraatissa ja raastuvanoikeudessa, joka sen ohessa kantaa lunastusr. pöytäk., palkkaa: 1,500:-</p>
-        <p><span className="boldStyle">Kunnallisraatimies</span> palkkaa 1,500, korvausta huutokauppa-pros. lakkauttamisesta 1,000: 2,500:-</p>
-        <p><span className="boldStyle">Kaupunginviskaali</span> palkkaa: 1,800:-</p>
-        <p><span className="boldStyle">Kaupunginvouti</span> palkkaa: 1,000:-</p>
-        <p><span className="boldStyle">Ruununkassööri</span>: 600:-</p>
-        <p>7 <span className="boldStyle">poliisipalvelijaa</span> palkkaa kukin 900: 6,300:-</p>
-        <p>2 <span className="boldStyle">kaupunginpalvelijaa</span> à 600: 1,200:-</p>
-        <p><span className="boldStyle">Venäjän kielen kääntäjä</span>: 700:-</p>
-        <p><span className="boldStyle">Kaupunginlääkäri</span>: 2,000:-</p>
+        <p><span className="bold">Pormestari</span> palkkaa 7,000, korvausta huutokauppaprosentin lakkauttamisesta 400, yht 7,400:-</p>
+        <p><span className="bold">Oikeusraatimies</span> palkkaa 2,500, korvausta huutokauppa-pros. lakkauttamisesta 800 m: 3,300: —</p>
+        <p><span className="bold">Notaario</span> maistraatissa ja raastuvanoikeudessa, joka sen ohessa kantaa lunastusr. pöytäk., palkkaa: 1,500:-</p>
+        <p><span className="bold">Kunnallisraatimies</span> palkkaa 1,500, korvausta huutokauppa-pros. lakkauttamisesta 1,000: 2,500:-</p>
+        <p><span className="bold">Kaupunginviskaali</span> palkkaa: 1,800:-</p>
+        <p><span className="bold">Kaupunginvouti</span> palkkaa: 1,000:-</p>
+        <p><span className="bold">Ruununkassööri</span>: 600:-</p>
+        <p>7 <span className="bold">poliisipalvelijaa</span> palkkaa kukin 900: 6,300:-</p>
+        <p>2 <span className="bold">kaupunginpalvelijaa</span> à 600: 1,200:-</p>
+        <p><span className="bold">Venäjän kielen kääntäjä</span>: 700:-</p>
+        <p><span className="bold">Kaupunginlääkäri</span>: 2,000:-</p>
         <p>Sama palkkiota: 800:-</p>
-        <p><span className="boldStyle">Kaupungin kätilö</span>: 400:-</p>
-        <p><span className="boldStyle">Rokottaja</span>: 120:-</p>
-        <p><span className="boldStyle">Valtuusmiesten sihteeri</span>: 900:-</p>
-        <p><span className="boldStyle">Raatihuoneen vahtimestari</span>: 1,200:-</p>
-        <p><span className="boldStyle">Rahatoimikamarin puheenjohtaja</span>: 200:-</p>
-        <p><span className="boldStyle">Kaksi rahatoimik. jäsentä</span>: 200:-</p>
-        <p><span className="boldStyle">Rahatoimikamarin kamreeri</span>: 3,000:-</p>
-        <p><span className="boldStyle">Vaakamestari</span>: 800:-</p>
-        <p><span className="boldStyle">Työnjohtaja</span>: 1,000:-</p>
-        <p><span className="boldStyle">Järvipoliisi</span>: 50:-</p>
-        <p><span className="boldStyle">Rankkuri</span>: 100:-</p>
+        <p><span className="bold">Kaupungin kätilö</span>: 400:-</p>
+        <p><span className="bold">Rokottaja</span>: 120:-</p>
+        <p><span className="bold">Valtuusmiesten sihteeri</span>: 900:-</p>
+        <p><span className="bold">Raatihuoneen vahtimestari</span>: 1,200:-</p>
+        <p><span className="bold">Rahatoimikamarin puheenjohtaja</span>: 200:-</p>
+        <p><span className="bold">Kaksi rahatoimik. jäsentä</span>: 200:-</p>
+        <p><span className="bold">Rahatoimikamarin kamreeri</span>: 3,000:-</p>
+        <p><span className="bold">Vaakamestari</span>: 800:-</p>
+        <p><span className="bold">Työnjohtaja</span>: 1,000:-</p>
+        <p><span className="bold">Järvipoliisi</span>: 50:-</p>
+        <p><span className="bold">Rankkuri</span>: 100:-</p>
         <p>Yht. palkkoja ja palkkioita 37,070:-</p>
       </Article>
       <SubDivider className="dividerStyle"/>
@@ -1778,10 +1778,10 @@ const KunnallisHistoriaPage = () => {
         <p>Tammikuun 8 päivänä 1898 sai seura sääntönsä vahvistetuiksi Etelä-Pohjanmaan nuorisoseuran kautta, josta se muodostaa haara-osaston.</p>
         <p>Ensimäinen vakinainen kuukausikokous pidettiin tammik. 28 p. 1898.</p>
         <p>Haaraosastoja seurassa ovat:</p>
-        <p><span className="boldStyle">Seuran Ompeluseura</span> perustettu 9/9 1898</p>
-        <p><span className="boldStyle">Puhuja-seura</span> perustettu 12/9 1898</p>
-        <p><span className="boldStyle">Urheilu-osasto</span> perustettu 1/6 1899</p>
-        <p><span className="boldStyle">Sekakööri</span> perustettu 16/9 1899</p>
+        <p><span className="bold">Seuran Ompeluseura</span> perustettu 9/9 1898</p>
+        <p><span className="bold">Puhuja-seura</span> perustettu 12/9 1898</p>
+        <p><span className="bold">Urheilu-osasto</span> perustettu 1/6 1899</p>
+        <p><span className="bold">Sekakööri</span> perustettu 16/9 1899</p>
         <p>Seuran jäsenluku on 18/12 1899 276 henkeä. Seuran varallisuus noin 1,200 markkaa.</p>
         <p>Seura on vastakkoin perustanut oman lukutuvan, jossa on sanomalehtiä ja uudempaa kirjallisuutta.</p>
 
@@ -1846,11 +1846,11 @@ const KunnallisHistoriaPage = () => {
         <p>Siis on edullisinta tulla laitokseen hyvin nuorena eikä ainoastaan siitä syystä, että nuorena pääsee vähemmillä maksuilla, vaan silloin osakas tulee myös pikemmin vapaaksi maksuista, jotka usein ovat vaikeat täyttää hänen 
           tullessaan vanhaksi ja työhön kykenemättömäksi.</p>
         <p>Osakas, joka on täyttänyt 65 vuotta ja suorittanut velvollisuutensa, on oikeutettu nauttimaan eläkettä</p>
-        <p className="quotationStyle">l:ssä luokassa 600 markkaa vuosittain</p>
-        <p className="quotationStyle">2:ssa luokassa 360 markkaa vuosittain</p>
-        <p className="quotationStyle">3:nnessa luokassa 240 markkaa vuosittain</p>
-        <p className="quotationStyle">4:nnessä luokassa 150 markkaa vuosittain</p>
-        <p className="quotationStyle">5:nnessä luokassa 90 markkaa vuosittain</p>
+        <p className="quotation">l:ssä luokassa 600 markkaa vuosittain</p>
+        <p className="quotation">2:ssa luokassa 360 markkaa vuosittain</p>
+        <p className="quotation">3:nnessa luokassa 240 markkaa vuosittain</p>
+        <p className="quotation">4:nnessä luokassa 150 markkaa vuosittain</p>
+        <p className="quotation">5:nnessä luokassa 90 markkaa vuosittain</p>
         <p>Osakas, joka kivulloisuuden takia tahi tunnettujen tapaturmien kautta on joutunut semmoiseen tilaan, ettei hän kykene itseänsä elättämään, on oikeutettu saamaan kassasta apua kivulloisuutensa tai häviötilansa aikana.</p>
         <p>Jos osakas kuolee ennenkun on ollut kaksitoista vuotta osallisena laitoksessa, tulee jälkeenjääneiden maksaa sanottuun aikaan asti määrätyt vuosimaksut, jonka jälkeen he saavat puoli eläkettä, josta kuitenkin vuosittain 
           vähennetään vuosimaksut, siksi kuin kaksikymmentäneljä vuotta on kulunut siitä kun vainaja tuli osalliseksi laitoksesta, jonka jälkeen koko eläke maksetaan leskelle tai lapsille. Tämäkin seikka kehoittaa pyrkimään laitokseen 
@@ -1993,11 +1993,11 @@ const KunnallisHistoriaPage = () => {
       <SubDivider className="dividerStyle"/>
 
       <Article titleText="Pankkeja.">
-        <p><span className="quotationStyle">Suomen Yhdyspankin</span> haarakonttori perustettiin Hämeenlinnaan heinäkuun 1 p. 1862. Sen toimeenpanevina johtajina ovat olleet: apteekari F. 0. Winter 1 p:stä heinäkuuta 1862, rehtori 
+        <p><span className="quotation">Suomen Yhdyspankin</span> haarakonttori perustettiin Hämeenlinnaan heinäkuun 1 p. 1862. Sen toimeenpanevina johtajina ovat olleet: apteekari F. 0. Winter 1 p:stä heinäkuuta 1862, rehtori 
           V. A. Sundel 23 p:stä syyskuuta 1864, katteini A. Bollfras 27 p:stä joulukuuta 1875, Knut Backmansson 1 p:stä heinäkuuta 1894.</p>
-        <p><span className="quotationStyle">Pohjoismaiden Osakepankki Kauppaa ja Teollisuutta varten</span> perusti haara-osaston tänne lokakuussa 1883. Johtajia: piirilääkäri Th. Tigerstedt v:sta 1883 1 p:ään elok. 1893, Ivar Gadd 1 
+        <p><span className="quotation">Pohjoismaiden Osakepankki Kauppaa ja Teollisuutta varten</span> perusti haara-osaston tänne lokakuussa 1883. Johtajia: piirilääkäri Th. Tigerstedt v:sta 1883 1 p:ään elok. 1893, Ivar Gadd 1 
           p:stä elok. 1893.</p>
-        <p><span className="quotationStyle">Kansallis-Osake-Pankki</span> avasi konttorinsa 4 p. huhtikuuta 1891. Johtaja: A. Bogdanoff.</p>
+        <p><span className="quotation">Kansallis-Osake-Pankki</span> avasi konttorinsa 4 p. huhtikuuta 1891. Johtaja: A. Bogdanoff.</p>
       </Article>
       <SubDivider className="dividerStyle"/>
 
@@ -2035,24 +2035,24 @@ const KunnallisHistoriaPage = () => {
       <SubDivider className="dividerStyle"/>
 
       <Article titleText="Kirja- ja paperikauppoja.">
-        <p><span className="boldStyle">A. Alopaeuksen kirjakauppa</span> v:lta 1888, kustannuskirjakauppa. Edelliset omistajat: Gr. Carberg (v:sta 1886), A. W. Grönholm. Lund'in perilliset.</p>
-        <p><span className="boldStyle">Armas Jantusen paperikauppa</span> v:lta 1897.</p>
-        <p><span className="boldStyle">E. Johanssonin kirjakauppa</span>, perust, v. 1899.</p>
+        <p><span className="bold">A. Alopaeuksen kirjakauppa</span> v:lta 1888, kustannuskirjakauppa. Edelliset omistajat: Gr. Carberg (v:sta 1886), A. W. Grönholm. Lund'in perilliset.</p>
+        <p><span className="bold">Armas Jantusen paperikauppa</span> v:lta 1897.</p>
+        <p><span className="bold">E. Johanssonin kirjakauppa</span>, perust, v. 1899.</p>
       </Article>
       <SubDivider className="dividerStyle"/>
 
       <Article titleText="Teollisuuslaitoksia.">
-        <p><span className="boldStyle">Hämeenlinnan verkatehdas</span> perustettiin v. 1895, sijaitsee kaupungin kaakkoisrajalla, osakeyhtiön omana. On paikkakunnan suuremmoisin tehdaslaitos. Valmistaa hienompia ja halvempia kankaita kammatuista langoista, cheviottia, 
+        <p><span className="bold">Hämeenlinnan verkatehdas</span> perustettiin v. 1895, sijaitsee kaupungin kaakkoisrajalla, osakeyhtiön omana. On paikkakunnan suuremmoisin tehdaslaitos. Valmistaa hienompia ja halvempia kankaita kammatuista langoista, cheviottia, 
           verkaa, satiinia, doffelia y. m. Rakennus kivestä.</p>
-        <p><span className="boldStyle">Gust. R. Fältmars & Kumpp:n Tupakkatehdas</span> vuodelta 1885.</p>
-        <p>Tupakkatehdas <span className="quote boldStyle">Samson</span> v:lta 1898.</p>
-        <p><span className="boldStyle">H. Heinon höyrymylly</span> vuodelta 1890.</p>
-        <p><span className="boldStyle">Hämeenlinnan kirjansitoma-tehdas</span>, perust. v. 1877. Omistajat: neidet L. Schrey ja E. Lagerbohm.</p>
-        <p><span className="boldStyle">H.linnan meijeri-osakeyhtiön meijeri</span> v:lta 1871.</p>
-        <p><span className="boldStyle">H:linnan uusi kivennäisvesitehdas</span> v:lta 1890. Omistaja Adolf Spåre.</p>
-        <p><span className="boldStyle">Hämeensaaren polttimo ja väkiviinatehdas-osakeyhtiön väkiviinan-jalostustehdas</span>, perustettu v. 1870.</p>
-        <p><span className="boldStyle">Oluttehtaita:</span> Hugo Bastmanin v:lta 1856, C. O. Saxelinin v:lta 1875 ja J. F. Schmausserin v:lta 1850.</p>
-        <p><span className="boldStyle">Hämeenlinnan höyrysaha</span> v:lta 1873 salmen toisella puolen, vastapäätä linnaa, Hätilän kylässä Hämeenlinnan maaseurakunnassa. Omistaja: Aug. Eklöf.</p>
+        <p><span className="bold">Gust. R. Fältmars & Kumpp:n Tupakkatehdas</span> vuodelta 1885.</p>
+        <p>Tupakkatehdas <span className="quote bold">Samson</span> v:lta 1898.</p>
+        <p><span className="bold">H. Heinon höyrymylly</span> vuodelta 1890.</p>
+        <p><span className="bold">Hämeenlinnan kirjansitoma-tehdas</span>, perust. v. 1877. Omistajat: neidet L. Schrey ja E. Lagerbohm.</p>
+        <p><span className="bold">H.linnan meijeri-osakeyhtiön meijeri</span> v:lta 1871.</p>
+        <p><span className="bold">H:linnan uusi kivennäisvesitehdas</span> v:lta 1890. Omistaja Adolf Spåre.</p>
+        <p><span className="bold">Hämeensaaren polttimo ja väkiviinatehdas-osakeyhtiön väkiviinan-jalostustehdas</span>, perustettu v. 1870.</p>
+        <p><span className="bold">Oluttehtaita:</span> Hugo Bastmanin v:lta 1856, C. O. Saxelinin v:lta 1875 ja J. F. Schmausserin v:lta 1850.</p>
+        <p><span className="bold">Hämeenlinnan höyrysaha</span> v:lta 1873 salmen toisella puolen, vastapäätä linnaa, Hätilän kylässä Hämeenlinnan maaseurakunnassa. Omistaja: Aug. Eklöf.</p>
       </Article>
       <SubDivider className="dividerStyle"/>
 

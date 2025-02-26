@@ -16,7 +16,7 @@ const Crimes1924Page = () => {
     <Layout titleText="Hämeen Sanomat, 1924">
       <h2>Oikeus- ja poliisiasioita Hämeenlinnassa ja lähiseuduilla</h2>
       <Divider className="dividerStyle"/>
-      <p className="centered boldStyle" style={{margin:"8px 0"}}>Torstai, 3.1.1924</p>
+      <p className="centered bold" style={{margin:"8px 0"}}>Torstai, 3.1.1924</p>
       <Article titleText="Tappelu Lammilla.">
         <h5>Kolme miestä saanut haawoja.</h5>
         <p>Kun toisena joulupäiwänä Lammin Porraskosken työwäenyhdistys piti iltamaansa Porraskosken työwäentalolla, syntyi siellä kahden miesjoukon wälillä tappelu, missä käytettiin aseina puukkoja ja halkoja. Wanhoja wihoja 
@@ -1387,7 +1387,7 @@ const Crimes1924Page = () => {
         <p>eilen tuomittiin työmies Ewert Hattin Hausjärwen Tenholasta ilmiannosta, saman pitäjän Rutajärweltä kotoisin olewa talollinen H. Maaranta pahoinpitelystä 1,000 mk. sakkoon ja suorittamaan erinäisiä korwauksia ja kuluja.</p>
         <p>Samoin tuomittiin Janakkalan Hakoisista kotoisin olewa renki Konstantin Seppälä näpistelystä ja eläimille määrätyn spriin wäärinkäyttämisestä yht. 600 mk. sakkoon.</p>
         <SubDivider className="dividerStyle"/>
-        <p><span className="boldStyle">Humalapäissään mellasteli</span> eilistä wastaan yöllä klo 12 ajoissa Hattulassa Metsänkylän kartanossa työmiehen poika Lauri Aaltonen. Hän oli rautalapiolla rikkonut kaksi ikkunaa ja lisäksi kolmannen jollakin muulla aseella. 
+        <p><span className="bold">Humalapäissään mellasteli</span> eilistä wastaan yöllä klo 12 ajoissa Hattulassa Metsänkylän kartanossa työmiehen poika Lauri Aaltonen. Hän oli rautalapiolla rikkonut kaksi ikkunaa ja lisäksi kolmannen jollakin muulla aseella. 
           Asiasta sukeutunee oikeusjuttu.</p>
       </Article>
       <Article titleText="Janakkalassa tapahtunut raaka puukotus.">
