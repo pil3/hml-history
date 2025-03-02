@@ -92,6 +92,9 @@ const Header = () => {
                 <NavDropdown.Item>
                   <Link to="/independence" className="nav-link" activeClassName="active">Itsenäistyminen</Link> 
                 </NavDropdown.Item>
+                <NavDropdown.Item>
+                  <Link to="/civilwar-reds" className="nav-link" activeClassName="active">Punainen sisällissota</Link> 
+                </NavDropdown.Item>
               </DropdownSubmenu>
 
               <DropdownSubmenu className={subMenuStyle} title="1924">

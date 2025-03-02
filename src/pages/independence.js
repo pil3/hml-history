@@ -13,6 +13,23 @@ const IndependencePage = () => {
     <Layout titleText="Hämeen Sanomat, 1917-18">
       <h2>Itsenäistyminen</h2>
 
+      <div className="interTitle">22.9.1917</div>
+      <Article titleText="Itsenäisyyssuunnan Vaalijulistus.">
+        <h5>Suomen kansalaiset!</h5>
+        <p>Teidät kutsutaan maamme tärkeimpiin eduskuntawaaleihin. Nämät waalit koskewat Suomen tulewaisuutta ehkä wuosisadoiksi. Niissä on annettawa wastaus kysymykseen, waatiiko Suomen kansa 
+          itselleen täydellisen itsenäisyyden, katsooko se oikeudekseen ottaa käsiinsä isännyyden omassa maassaan.</p>
+        <p>Oikeuttamme loukaten on Wenäjän hallitus hajoittanut Suomen kansan eduskunnan. Asewoimin on sen kokoontuminen estetty. Waalien kautta saakoon nyt wäkiwallantekijä kansamme omasta suusta 
+          kuulla, että Suomen kansa kokonaisuudessaan on itsesenäisyyswaatimuksen takana.</p>
+        <p>Suomessa ei ole ainoatakaan puoluetta, joka periaatteessa wastustaisi itsenäisyyswaatimusta. Mutta tähän emme saa pysähtyä. Nyt on eduskunnan sanoin ja teoin julkituotawa tämä kansamme 
+          elinwaatimus. Itsemääräämisoikeutemme on saatettawa tunnustetuksi ja on ilmaistawa kansamme ehdoton tahto olla wapaa ja waltiollisesti riippumaton. Tämä päätös on esitettäwä Wenäjän 
+          perustawalle kansalliskokoukselle ja kaikille siwistyskansoille. Rauhanneuwotteluissa on kansamme ääni saatawa kuuluwiin. Maamme wapaus on kansainwälisesti tunnustettawa.</p>
+        <p>Ainoastaan itsenäisenä kansana erillään wieraan kansan kohtaloista, wapaana kurittomasta wenäläisestä sotawäestä ja epäluotettawasta muukalaisesta wirkawallasta woi kansamme järjestää 
+          omat olonsa ja toteuttaa kansalliset ihanteensa. Ainoastaan tällä pohjalla woidaan isänmaahamme palauttaa rauha, turwallisuus ja järjestys.</p>
+        <p>Suomen kansalaiset äänestäkää eduskuntaamme walistuneita ja pelkäämättömiä maamme itsenäisyyden kannattajia.</p>
+        <p className="centered">Helsingissä, syyskuun 6 pnä 1917</p>
+        <p className="signature">Itsenäisyyssuunnan Keskustoimikunta.</p>
+      </Article>
+
       <div className="interTitle">11.10.1917</div>
       <Article titleText="Perustuslakikomitean ehdotus Suomen waltiomuodoksi.">
         <p>Kuten jo wiime lehdessä mainitsimme on heti wallankumouksen puhjettua asetettu perustuslakikomitea saanut tärkeän työnsä walmiiksi.</p>

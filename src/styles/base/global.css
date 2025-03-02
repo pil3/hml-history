@@ -92,6 +92,7 @@ article p {
 .signature {
   letter-spacing: 2px;
   text-align: center;
+  margin-top: 16px;
 }
 .signatureSmall {
   font-size: 0.8rem;
@@ -223,7 +224,6 @@ article p {
     margin: 8px 0;
   }
   article {
-    margin: 8px;
     padding: 10px;
   }
 }
