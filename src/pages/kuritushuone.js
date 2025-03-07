@@ -10,7 +10,7 @@ import Divider from "../assets/divider.svg"
 const JailRulesPage = () => {
   return (
     <Layout titleText="Hämeenlinnan kuritushuoneen järjestyssäännöt">
-      <Image className="centeredImageStyle" src={imgFrontPage} alt="Matkailuoppaan etusivu"/>
+      <Image className="centeredImage" src={imgFrontPage} alt="Matkailuoppaan etusivu"/>
       <p className="caption">Brofeldt, P. A.</p>
       <p className="caption">Hämeenlinna 1877, A. W. Lingrenin kirjapaino</p>
       <p className="caption">Hämeenlinnan Kaupunginkirjasto</p>

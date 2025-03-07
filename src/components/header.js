@@ -59,7 +59,7 @@ const Header = () => {
               </NavDropdown.Item>
             </NavDropdown>
 
-            <NavDropdownMenu title="Lehdistä" id="collasible-nav-dropdown">
+            <NavDropdownMenu title="Artikkeleita" id="collasible-nav-dropdown">
             <DropdownSubmenu className={subMenuStyle} title="1914">
                 <NavDropdown.Item>
                   <Link to="/artikkeleita1914" className="nav-link" activeClassName="active">Artikkeleita</Link> 

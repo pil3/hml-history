@@ -34,7 +34,7 @@ import img17 from "../images/content/kunnallishistoria/img-17.jpg"
 const KunnallisHistoriaPage = () => {
   return (
     <Layout titleText="Kunnallis-historiallinen kertomus">
-      <Image className="centeredImageStyle" src={front} alt="Etusivu"/>
+      <Image className="centeredImage" src={front} alt="Etusivu"/>
       <p className="caption">Hagman, Tyko</p>
       <p className="caption">Hämeenlinnan kaupunginkirjasto, 1900</p>
       <Divider className="dividerStyle"/>
@@ -568,16 +568,16 @@ const KunnallisHistoriaPage = () => {
       <p className="tocHeader">XIII</p>
       <Article titleText="Asukastilastoa 1700-luvun loppupuoliskolta.">
         <p className="caption">Väkiluku Hämeenlinnan kaupungissa vv. 1749 - 1800.</p>
-        <Image className="centeredImageStyle" style={{marginTop: "4px"}} src={img1} alt="Väkiluvun kehitys"/>
+        <Image className="centeredImage" style={{marginTop: "4px"}} src={img1} alt="Väkiluvun kehitys"/>
         <SubDivider className="dividerStyle"/>
         <p className="caption">Syntyneet.</p>
-        <Image className="centeredImageStyle" style={{marginTop: "4px"}}  src={img2} alt="Syntyneet"/>
+        <Image className="centeredImage" style={{marginTop: "4px"}}  src={img2} alt="Syntyneet"/>
         <SubDivider className="dividerStyle"/>
         <p className="caption">Kuolleet.</p>
-        <Image className="centeredImageStyle" style={{marginTop: "4px"}}  src={img3} alt="Kuolleet"/>
+        <Image className="centeredImage" style={{marginTop: "4px"}}  src={img3} alt="Kuolleet"/>
         <SubDivider className="dividerStyle"/>
         <p className="caption">Hämeenlinnan kaupungin käsityöläiset jaettuina ammattinsa mukaan sekä kauppiaat.</p>
-        <Image className="centeredImageStyle" style={{marginTop: "4px"}}  src={img4} alt="Ammatit"/>
+        <Image className="centeredImage" style={{marginTop: "4px"}}  src={img4} alt="Ammatit"/>
       </Article>
       <SubDivider className="dividerStyle"/>
 
@@ -620,7 +620,7 @@ const KunnallisHistoriaPage = () => {
           huomauttamalla vain tässä sivumennen että kaupungin maistraatin arkistossa löytyy koko joukko tätä aikaa valaisevia asiakirjoja, m. m. kaikki venäläisen sotapäällikön, Kreivi Buxhöwdenin, kuuluisat, Turusta lennättämät ruotsin- 
           ja suomenkieliset proklamatsioonit eli julistukset, joilla hän koki peljättää Suomen asukkaita pois velvollisuuden tieltä ja muuten osoitti pitävänsä tätä maata jo valloitettuna <span className="quote">provinssina</span>. Eräästä 
           toisen venäläisen mahti- ja valtiomiehen, ulko-asiain ministeri Rumanzovin, lähettämästä <span className="quote">Julistuksesta</span> teemme tähän seuraavan otteen:</p>
-          <Image className="centeredImageStyle" src={img5} alt="Julistus"/>
+          <Image className="centeredImage" src={img5} alt="Julistus"/>
       </Article>
       <SubDivider className="dividerStyle"/>
 
@@ -654,7 +654,7 @@ const KunnallisHistoriaPage = () => {
         <p>Tämä seikka antoikin sitten aiheen uuteen tontti-järjestelyyn, jolle vahvistus haettiin ennenkun palanutta kaupunginosaa ruvettiin jälleen rakentamaan. Ja uusi järjestely uusine karttoineen pysyi sitten voimassa vuoteen 1872 
           asti, jolloin taasen muutoksia kaupungin asemassa tuli kysymykseen.</p>
         <p>Ennen tulipaloa, löytyi kaupungissa kesäk. 14 p. 1831 päivätyn luettelon mukaan:</p>
-        <Image className="centeredImageStyle" src={img6} alt="Asukasmäärät"/>
+        <Image className="centeredImage" src={img6} alt="Asukasmäärät"/>
         <p>Oppilaitoksia ei löytynyt muita kuin triviaalikoulu 159 oppilaalla.</p>
         <p>Hyväntekeväisyyslaitoksia ainoastaan lääninsairaala 92 sairaalla.</p>
         <p>Mitään laivakulkua ei silloin vielä täällä harjoitettu, ei myöskään löytynyt mitään tehtaita tai senkaltaisia laitoksia (<span className="quote">inga fabriker, inga bruk, verk och inrättningar</span>).</p>
@@ -808,7 +808,7 @@ const KunnallisHistoriaPage = () => {
         <p className="initialCap">Kaupungin maat ja tilukset kotipalstalla sijaitsevat asutun kaupungin ympärystössä ja käsittävät kaikkiaan 304,847 hehtaaria, joista kuitenkin jokunen pienempi määrä on pakkoluovutuksen kautta 
           joutunut osaksi Suomen, osaksi Venäjän valtion haltuun, kuten tässä alempana lähemmin merkitään.</p>
         <p>Kotipalstan maa-alueesta on:</p>
-        <Image className="centeredImageStyle" src={img7} alt="Maa-alat"/>
+        <Image className="centeredImage" src={img7} alt="Maa-alat"/>
         <p>Nämä maat, joihin tässä on luettu myöskin n. s. Kuralan tilukset kappaleen matkaa länteenpäin kaupungista, on jaettu 300 erisuuruiseen lohkoon. Niistä lohkot 58—100 ovat enimmäkseen arennille annettuja viljelysmaita. Myllymäen 
           ja n. s. Hevosha'an lohoille on järjestettynä arentitonttia noin 150. Talonluku näillä tonteilla on nykyään 48. Lohkot 89, 90 ja 103 ovat hietamaata ja käsittävät yhteensä noin 1 hehtaarin. Lohko n:o 196 on vanha hautausmaa, 
           joka käsittää 1,004 hehtaaria.</p>
@@ -818,7 +818,7 @@ const KunnallisHistoriaPage = () => {
         <p>Lohkot 285-300 sijaitsevat n. s. Keinusaarella itäpuolen Wanajavettä eli virtaa. Näistä on kuitenkin suurin osa luovutettu tontti-alueeksi kaupungin yleiselle teurastus-laitokselle ja kahdelle tehdaslaitokselle sekä pienempi osa 
           eräälle liikemiehelle makasiinin tontiksi.</p>
         <p>Kartassa on eri kirjaimilla merkitty seuraavat paikat ja laitokset, jotka käsittävät seuraavan määrän hehtaaria:</p>
-        <Image className="centeredImageStyle" src={img8} alt="Maa-alat"/>
+        <Image className="centeredImage" src={img8} alt="Maa-alat"/>
         <p>Yleisenä kivenottopaikkana on Myllymäen kallion reuna, N. s. Hevosha'an reuna on luovutettu ampumaradaksi Hämeen läänin metsästysseuralle.</p>
       </Article>
       <SubDivider className="dividerStyle"/>
@@ -826,7 +826,7 @@ const KunnallisHistoriaPage = () => {
       <Article titleText="Kaupungin tilukset Sairionmaalla.">
         <br />
         <p className="initialCap">Sairionmaan tilukset käsittävät maa-alueen Wanajaveden itärannasta Aulangon järvelle sekä pienemmän lohkon tämän järven itäpuolella. Nykyään on tämä alue jaettu 34 osuuteen ja sisältää:</p>
-        <Image className="centeredImageStyle" src={img9} alt="Maa-alat"/>
+        <Image className="centeredImage" src={img9} alt="Maa-alat"/>
         <p>Tästä alasta on Venäjän valtio lunastanut ruutimakasiiniansa y. m. tarpeitaan varten 80,350 hehtaaria viljelemätöntä maata. Pienempiä mäkipalstoja on luovutettu talontonteiksi, kuten Toivolan huvila.</p>
       </Article>
       <SubDivider className="dividerStyle"/>
@@ -869,7 +869,7 @@ const KunnallisHistoriaPage = () => {
           varten niin, että siemenpuut jätettäisiin. Puumäärä arvosteltiin silloin kasvullisella metsämaalla jakometsässä 15,085 kuutiometriksi (kiinteää mittaa) eli keskimäärin 52 kuutiometriä hehtaarilla.</p>
         <p>Metsänhoitaja Moberg toimitti sitten myöskin arvostelun puumäärästä hakamaissa ja laski metsässä löytyvät hirsi- ja hirsi-ainepuut erikseen.</p>
         <p>Tämän arvostelun mukaan löytyy metsässä seuraava määrä hirsi- ja hirsipuita, jotka ainoastaan muutamia kuusipuita lukuun-ottamatta ovat mäntyjä:</p>
-        <Image className="centeredImageStyle" src={img10} alt="Runkomäärät"/>
+        <Image className="centeredImage" src={img10} alt="Runkomäärät"/>
         <p>Hakomaissä arvosteli hra M. puumäärän keskimäärin 40 kuutiometriksi hehtaarilla.</p>
         <p>Koska metsää pitempänä aikana on harvennettu säännöttömästi, niin löytyy vahvempia hirsipuita ainoastaan vähemmässä määrässä, ja seurauksena harvennuksesta on myöskin että tiheysmäärä on hyvin vaihtelevainen. Tasa-ikäisiä, 
           tiheitä metsikköjä on ainoastaan siellä täällä pienemmillä aloilla; metsiköt ovat suurimmaksi osaksi keski-ikäisiä, osaksi nuoria. Kulovalkean polttamia aukkomaita löytyy kyllä, mutta on näillä kasvanut paikoittelin jokseenkin 
@@ -878,12 +878,12 @@ const KunnallisHistoriaPage = () => {
           aloilla, ja on kasvinvoima näillä mailla hyvä.</p>
         <p>Huonokasvulliset maat, joita alaltaan on 141,95 hehtaaria, ovat vesiperäisiä ja metsättömiä. Niitä voisi kuitenkin, sanoo hra M., ojittamalla kuivata, jolloin osa niistä olisi viljelykseen kelpaavia.</p>
         <p>Kaadettavan metsän arvon on hra M., paikkakunnalla viime aikoina (v. 1898) maksettujen hintojen mukaan, laskenut seuraavasti:</p>
-        <Image className="centeredImageStyle" src={img11} alt="Kaadettavan metsän arvo"/>
+        <Image className="centeredImage" src={img11} alt="Kaadettavan metsän arvo"/>
         <p>Nuoren metsän arvosta lausuu hra M.: Metsä on keskimäärin 45 vuoden vanhaa ja sen puumäärä keskimäärin 45 kuutiometriä (kiinteätä mittaa) hehtaarilla. Varteen-ottamalla paikkakunnalla maksettuja hintoja ja hyvää menekkiä olisi 
           kantohinta arvosteltava 50 penniksi kuutiometriltä. Tämän metsän arvo olisi siis, kun koko alalla löytyy (393 X 45 k:m.) 17,685 k:metriä, (17,685 X 50) 8,842 markkaa 50 penniä. Metsän arvo siis yhdeltä hehtaarilta 22 mk. 22 p.</p>
         <p>Itse maan arvon kasvullisella metsämaalla on hra M. laskenut 8 markaksi hehtaarilta eli yhteensä (393 X 8) 3,144 mk., ja huonokasvullisten metsämaiden arvon 4 markaksi hehtaarilta eli yhteensä (142X4) 568 mk. Koko Viialan 
           metsäpalstan arvo olisi siis, viljelysmaita lukuun-ottamatta:</p>
-        <Image className="centeredImageStyle" src={img12} alt="Kaadettavan metsän arvo"/>
+        <Image className="centeredImage" src={img12} alt="Kaadettavan metsän arvo"/>
       </Article>
       <SubDivider className="dividerStyle"/>
 
@@ -990,7 +990,7 @@ const KunnallisHistoriaPage = () => {
         <br />
         <p className="initialCap">Se lahjoituskirja toukok. 20 p:ltä 1834, jolla silloinen maaherra Joh. Fr. Stichaeus perusti tämän nyttemmin suuren rahaston, on osoitettu kirkkoherra Math. Churbergille ja kuuluu suomennettuna 
           näin:</p>
-        <QuoteStart className="symbolStyle"/>
+        <QuoteStart className="symbol"/>
         <p>Ruvetessani täkäläisen lääninhallituksen hoitajaksi, olen minä huomannut että Hämeenlinnan kaupungissa on ollut ja vieläkin on enemmän kerjäläisiä kuin kaupungin itsessään vähäpätöinen väkiluku saisi 
           sallia. Olen ensi aluksi arvellut tämän seikan johtuvan osaksi v. 1831 kaupunkia kohdanneesta tulipalosta, joka saattoi paljon ihmisiä kodittomiksi, elinkeinottomiksi ja leivättömiksi, osaksi siitä paljoudesta köyhiä 
           pohjolaisia, jotka ovat tänne tulleet etsiäkseen työnansiota ja joiden vaimot ja lapset myöskin ovat tehneet kerjäämisen elinkeinokseen; mutta sittemmin olen havainnut, että tähän kerjäämiseen melkoisessa määrässä myöskin on 
@@ -1008,7 +1008,7 @@ const KunnallisHistoriaPage = () => {
         <p className="centered">Kunnianarvoisan ja korkeasti-oppineen herra kirkkoherran nöyrimpänä palvelijana</p>
         <p className="centered">H:linnassa toukok. 20 p. 1834.</p>
         <p className="signature">Joh. Fr. Stichaeus.</p>
-        <QuoteEnd className="symbolStyle"/>
+        <QuoteEnd className="symbol"/>
         <p>Tämän lahjoituksen nojassa järjestettiin ja pantiin toimeen vaivais- ja työhuonelaitos v. 1836. Mutta jo 1837 vuoden alussa, tammik. 8 p:nä päätettiin kirkonkokouksessa että ne harvat vaivaiset, joita vaivais- ja työhuoneessa 
           ylläpidettiin, olisivat maaliskuun 1 p:stä samana vuonna annettavat elätettäviksi vähimmän vaativalle. Tämä siitä syystä, että <span className="quote">kaupungin maksuvelvolliset asukkaat olivat saaneet kärsiä kalliita 
           kustannuksia viime vuonna köyhien ylläpitämisestä, kun vaivaisia oli elätetty maaherra Stichseuksen lahjoittamassa vaivaistalossa, varsinkin koska tähän oli tarvittu sänky vaatteet ja muuta pysyvää kalustoa</span>. — Kuitenkin 
@@ -1120,7 +1120,7 @@ const KunnallisHistoriaPage = () => {
           lopussa 1,700 m. 34 p. suuruinen ja kasvoi vuosien kuluessa sitten lahjoitusten ja testamenttien kautta. Niinpä on joka vuosi, paitsi v. 1879 ei, valtuuston kautta siihen liitetty kaupungin osuus viinaverosta, niinkuin myöskin 
           suurempia tai pienempiä varoja anniskelu-yhtiön voittovaroista, jonka ohessa Säästöpankki vuosina 1883, 85, 86 ja 87 lahjoitti erisuuruisia summia.</p>
         <p>Seuraavasta taulusta käy selville lasaretti-rahaston lisääntyminen eri vuosina:</p>
-        <Image className="centeredImageStyle" src={img13} alt="Lasaretti-rahasto"/>
+        <Image className="centeredImage" src={img13} alt="Lasaretti-rahasto"/>
         <p>Vähittäismyynti- ja anniskeluyhtiön voittovaroista siirrettiin sairashuonerahastoon v. 1896 20,000 markkaa, jonka koroista lääkärin palkkio suoritetaan 800 markalla.</p>
         <p>Sairashuoneen rakennusrahastoon siirrettiin v. 1897 vähittäismyynti- ja anniskeluyhtiön varoista 10,000 markkaa.</p>
         <p>Samoista viinavoittorahoista saaduilla 10,000 markalla syntyi myöskin (v. 1890) Laupeuden-sisaren (diakonissan) palkkausrahasto, jonka koroilla sairashuoneen diakonissa palkataan.</p>
@@ -1199,7 +1199,7 @@ const KunnallisHistoriaPage = () => {
         <p>V. 1898 syyskuun 1 p:nä lisättiin vielä alempaan kansakouluun kaksi uutta rinnakkaisluokkaa, joihin otettiin yhtä monta apuopettajatarta. Siitä alkain on alemmassa kansakoulussa ollut 9 luokkaa.</p>
         <p>V. 1898 syyskuun 1 p:nä asetettiin myös ylempään kansakouluun yksi rinnakkaisluokka, poikia ja tyttöjä varten, johon otettiin miesapuopettaja.</p>
         <p>Kansakoulukassan varoista maksetaan nykyään (vuodelta 1899) palkkaa seuraaville henkilöille:</p>
-        <Image className="centeredImageStyle" src={img14} alt="Etusivu"/>
+        <Image className="centeredImage" src={img14} alt="Etusivu"/>
         <p>Kun kalenterivuoden 1900 alusta on päätetty sekä ylemmän poika- että tyttökansakoulun jokaisen opettajan alkuperäinen pohjapalkka koroitettavaksi 300:lla ja alemman kansakoulun kunkin opettajan 200 mk:lla, nousevat koroitukset 
           kaikkiaan 3,900 m:kaan, ja menee niinmuodoin mainittuna vuonna palkkoihin yhteensä 24,925 m:kaa. Tätä paitsi maksetaan kansakoulun johtokunnan kirjurille vuosittain 80 mk. ja ylemmän kansakoulun rinnakkaisluokan tyttöjen 
           käsitöiden opettajattarelle palkkiota 165 m:kaa. Kun nämä määrät vielä lisäämme varsinaisiin palkkoihin, nousee kansakoululaitoksen palkkojen summa 25,170 markkaan.</p>
@@ -1519,7 +1519,7 @@ const KunnallisHistoriaPage = () => {
         <p>Sunnuntaikoulua ylläpitää seurakunnan papisto yksityisenä laitoksena, siten että harrastavat henkilöt (yhteensä 8 opettajaa, joista enimmät naispuolisia) sunnuntai-iltaisin pitävät hartaushetkiä, osaksi kaupungin kirkossa, 
           osaksi vuokrahuoneessa Myllymäellä. Oppilaita on ollut lähes 300.</p>
         <p>Kaupungin väkiluku kirkonkirjain mukaan on vuodesta 1872 muuttunut seuraavalla tavalla:</p>
-        <Image className="centeredImageStyle" src={img15} alt="Etusivu"/>
+        <Image className="centeredImage" src={img15} alt="Etusivu"/>
         <p>Väkiluku maaseurakunnassa oli 1900 vuoden alussa 1,523 henkeä. Kaupunki- ja maaseurakunnassa yhteensä siis samaan aikaan 6,759, Vanajan kanssa yhteensä 9,578.</p>
       </Article>
       <SubDivider className="dividerStyle"/>
@@ -1939,7 +1939,7 @@ const KunnallisHistoriaPage = () => {
         <p>Hämeenlinnan telefooni-verkko, jonka sentraalissa palvelee 6 henkilöä, on suoranaisessa yhteydessä Helsingin, Tampereen, Leppäkosken, Iittalan, Hattulan, Hauhon, Lammin, Orimattilan ja Urjalan keskusasemien kanssa, mutta 
           välillisessä yhteydessä koko <span className="quote">Etelä-Suomen kaupunkien välisen telefooniverkon</span> kanssa. Pisin taipale, jonka päähän Hämeenlinnan yhtiön lanka ulottuu, on 9 kilometriä (Lahdentakaan Tyrvännössä).</p>
         <p>TAKSA puhelusta allamainittuihin paikkakuntiin on seuraava:</p>
-        <Image className="centeredImageStyle" src={img16} alt="Puheluhinnat"/>
+        <Image className="centeredImage" src={img16} alt="Puheluhinnat"/>
         <p>Puheluaika on neljä minuuttia. Kiireiset puhelut maksavat kaksinkertaisesti ja toimitetaan etuoikeudella.</p>
       </Article>
       <SubDivider className="dividerStyle"/>
@@ -2060,7 +2060,7 @@ const KunnallisHistoriaPage = () => {
         <br />
         <p className="initialCap">Perustettiin kesäk. 13 p. 1887. Osakepääoma on 30,000 markkaa, jaettuna 300 osakkeesen à 100 m., jotka juoksevat 6 % korolla. Asetuksen mukaisesti on puhtaasta voitosta eri vuosina suoritettu 
           kaupungille seuraavat määrät:</p>
-        <Image className="centeredImageStyle" src={img17} alt="Viinanmyyntivoitot"/>
+        <Image className="centeredImage" src={img17} alt="Viinanmyyntivoitot"/>
       </Article>
       <SubDivider className="dividerStyle"/>
 

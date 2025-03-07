@@ -14,7 +14,7 @@ import imgFrontPage from "../images/content/front-conditions1808.jpg"
 const Conditions1809Page = () => {
   return (
     <Layout titleText="Hämeenlinnan olosuhteet sotavuosina 1808-1909">
-      <Image className="centeredImageStyle" src={imgFrontPage} alt="Etusivu"/>
+      <Image className="centeredImage" src={imgFrontPage} alt="Etusivu"/>
       <p className="caption">Lindeqvist, K. O.</p>
       <p className="caption">Hämeenlinnan Kaupunginkirjasto 1902</p>
       <Divider className="dividerStyle" />

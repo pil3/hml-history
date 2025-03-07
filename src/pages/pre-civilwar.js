@@ -12,6 +12,163 @@ const PreCivilWarPage = () => {
     <Layout titleText="Hämeen Sanomat, 1917-18">
       <h2>Kohti sisällissotaa</h2>
 
+      <div className="interTitle">9.8.1917</div>
+      <Article titleText="Kuukautta Myöhemmin.">
+        <p>On kulunut runsas kuukausi siitä, kun kirjaltajalakko puhkesi ja suurin osa maamme porwarillista sanomalehdistöä, niiden joukossa myöskin „Hämeen Sanomat”, waikeni.</p>
+        <p>Tämä pakollinen hiljaisuus on ollut sanomattoman tuskallista. Suuret tapahtumat owat toisensa jälkeen ilmestyneet näköpiiriin, ennättäneet kohdalle ja wierineet ohitse jätettyään 
+          koko maailman ja erikoisesti meidän pienen kansamme kohtaloihin häwiämättömän sywän jäljen. Hetkellä, jolloin meidän oli pakko waijeta, näytti kansamme tulewaisuus wielä 
+          toiwehikkaalta ja kauniilta. Waltiollista wapauttamme loukkasiwat ainoastaan wähemmän merkitystä omaawat tapahtumat, joiden aiheuttajina oliwat sotilaat tai wallankumouksen warjossa 
+          hiipiwät pimeät woimat. Elintarwepula näytti wähitellen järjestywän jotakuinkin tyydyttäwälle kannalle ja työtä oli kaikille kansalaisille yllin kyllin ja hywästä hinnasta. Kaikissa 
+          näissä kolmessa kysymyksessä on nyt tapahtunut täydellinen täysikäännös.</p>
+        <p>Mitä ensinnäkin tulee meidän waltiolliseen elämäämme, niin on se ajautunut sellaiseen katiskaan, että poispääsyn löytäminen waatii aiwan yli-inhimillisiä ponnistuksia. Kansamme 
+          yhteisenä, hartaana toiwomuksena oli ja on yhä edelleen päästä niin riippumattomaan ja itsenäiseen asemaan kuin mahdollista. Meillä on liian karwaita kokemuksia uskaltaaksemme 
+          pysähtyä puolitiehen. Pyrkiessään mahdollisimman suureen waltiolliseen riippumattomuuteen eiwät meidän sosialistimme suinkaan seiso yksinään, heidän takanaan on kansamme waltawa 
+          enemmistö. Mutta toinen asia on, mitä tietä tähän päämäärään on pyrittäwä, mitä keinoja käytettäwä. Samalla kun Wenäjän wallankumous alkoi käydä yhä wieraammaksi alkuperäisille 
+          päämäärilleen ja sen wäliaikainen hallitus loitota yhä kauwemmaksi Suomelle annetulta manifestista, samalla hyökkäsiwät sosialistimme yhä silmittömämmin eteenpäin asettamaansa 
+          päämäärää kohden katsomatta kertaakaan siwulleen. Waroittawista äänistä huolimatta ajoiwat he Eduskunnassa läpi koko waltiollisen ohjelmansa, jonka ydinkohtana oli hallitsijan ennen 
+          omaawien oikeuksien siirtäminen Eduskunnalle. Tämän lain mukaan saa Eduskunta yksin päättää, wahwistaa ja woimaanpantawaksi määrätä kaikki Suomen lait ja lopullisesti päättää kaikista 
+          muistakin tähän asti hallitsijan ratkaistawissa olleista Suomen asioista, lukuunottamatta ulkopolitiikkaa, sotilaslainsäädäntöä ja sotilashallintoa, joita koskewat asiat jääwät 
+          korkeimman hallituswallan ratkaistawiksi. Eduskunta kokoontuu ilman erikoista kutsumusta waltiopäiwille ja päättää itse hajoamisestaan. Eduskunta määrää myöskin maamme korkeimman 
+          toimeenpanowallan. — Kun tämä laki tuli hywäksytyksi lankesi sen omasta luonnosta, että se heti wälittömästi astui woimaan.</p>
+        <p>Näin oli Eduskunnan sosialistinen enemmistö ohjannut kansamme kulkemaan omia teitään, hywin tietäen mille kannalle Wenäjän wäliaikainen hallitus ja sen Kerenski tähän lakiin nähden 
+          asettuisi. Sosialistit heittiwät kaikki yhden kortin waraan. Wenäjän wallankumouksellinen hallitus, joka tuskin hakattuaan maahan hirsipuut Wenäjältä, riensi ne uudelleen pystyttämään, 
+          ja joka wastikään tyhjennettyään wankilat kiiruhti ne taasen täyttämään, ei suinkaan kawahtanut käyttää wäkiwaltaa myöskin meidän pientä maatamme kohtaan. Unohtaen aito wenäläiseen 
+          tapaan manifestit ja muut lupaukset se antoi Eduskunnalle hajoamiskäskyn, määräsi uudet waalit ja heitti maahan wahwan joukon noita meille niin kirwelewän tuttuja kasakoita. 
+          Sosialistit taas paikkasiwat tekemänsä tyhmyyden toisella tyhmyydellä, tai oikeammin sanottuna poikamaisuudella. Eduskunnan puhemies painoi hajoituskäskyn piiloon ja julkitoi, että 
+          Eduskunta lähtee lomalle määräämättömäksi ajaksi.</p>
+        <p>Meillä on siis Eduskunta ja kuitenkin pitää meidän toimittaa waalit lokakuun ensimäisenä päiwänä ja toisen Eduskunnan olla koolla marraskuun ensimäisenä päiwänä! Se on todellakin 
+          katiska, josta ei ainakaan sosialistiemme diplomaattinen äly kykene meitä kunnolla ulosjohtamaan.</p>
+        <p>Waltiollisen taiwaamme synkistyessä näin synkäksi wiime kuukauden kuluessa, on tänä aikana myöskin nälkä astunut peloittawan pitkän askeleen lähemmäksi. Kiwa, polttawan helteinen kesä 
+          on tehnyt wuodentulotoiweet mitättömän pieniksi ja samalla on tuonti ulkomailta melkein kokonaan keskeytynyt. Wielä kuukausi sitten toiwottiin suuria wiljamääriä saatawaksi sekä idästä, 
+          että lännestä. Nyt nämä toiweet lienewät kutistuneet hywin wähiin ja lisänä on Wenäjän hallituksen uhka, että maamme Eduskunnan asettuessa näin kielteiselle kannalle wäliaikaiseen 
+          hallitukseen nähden, se myöskin puolestaan keskeyttää kaiken elintarpeiden tuonnin maahamme.</p>
+        <p>Asioiden ollessa tällä kannalla on luonnollista, että elintarpeet owat nousseet huimaa wauhtia ja owat jo tähän mennessä saawuttaneet peloittawan korkeuden. Kun heinäkilosta jo monin 
+          paikoin Hämeenläänissa maksetaan 1 markka, niin woi sen mukaan luokitella muidenkin tarweaineiden hinnat. Ainoa, mikä on alenemassa, on raawaan lihan hinta, mutta siitä ei suinkaan 
+          kannata iloita, sillä se merkitsee kansallistaloutemme huimaa alaspäinmenoa ja kaikkien muiden elintarpeiden yhtä pikaista kohoamista.</p>
+        <p>Nälän ja puutteen rinnakkaisilmiönä on aina esiintynyt työttömyys. Tämä sana oli wielä kuukausi sitten aiwan outo, työttömiä oliwat ainoastaan lukuisat lakkolaiset ympäri maatamme. 
+          Muutamissa wiikoissa on tämä surkeus nyt paisunut peloittawaan määrään, niin että yksin pääkaupungissamme on yli kolme tuhatta työtöntä. Ja yhä tämä luku waan kaswaa maamme kaikilla 
+          äärillä. Se kulkee käsi kädessä nälän kanssa ja tämä saattue on surullinen katsella.</p>
+        <p>Tämä kulunut kuukausi on siis waltiollisen taantumuksen, lukemattomien lakkorettelöitten, kaswawan elintarwepulan ja työttömyyden katkera kuukausi. Sinä aikana on waltiomahtia 
+          käytellyt sosialistinen eduskuntamme ja senaattimme ja painettu sana on ollut sosialistisen sanomalehdistön hallussa. Millä menestyksellä nämä owat waltaansa käytelleet, sen osoittaa 
+          jo nykyhetki selwästi, mutta wielä selwemmin tulewaisuus. Hetken ponsilauseena on pelastaa, mitä wielä on pelastettawissa.</p>
+      </Article>
+
+      <div className="interTitle">18.8.1917</div>
+      <Article titleText="Helsingin yleislakko.">
+        <h5>Tarkastuksia Elannon meijerissä ja leipomossa. Elannon toimitusjohtaja aiottu wiedä torikokouksen tuomittawaksi.</h5>
+        <p>Maanantaina käwi Elannon meijerissä ja leipomossa kymmenkunta henkeä käsittäwä joukko, joka sanoi olewansa torikokouksen walitsema. Joukko tutki Elannon kaikki warastot, hakien 
+          Elannosta woita, kuten muualtakin. He saiwat tietää, että Elannon hallussa on kaiken kaikkiaan woita 400 kiloa. Senjälkeen nämä henkilöt meniwät konttoriin, jossa joukon johtaja 
+          ilmoitti olewansa johtaja Arwo Hursti, Helsingin työwäenyhdistyksen toweriosaston jäsen, näyttäen samalla jäsenkirjansa. Muut lähetystön jäsenet kieltäytyiwät ilmoittamasta nimeään. 
+          Johtaja Hursti waati nyt torikokouksen puolesta, että Elannon toimitusjohtaja Lauri af Heurlin antaisi heti määräyksen myyjättärille, että waltion makasiinista lauwantaina ryöstettyä 
+          woiwarastoa on heti alettawa myydä Elannon woimyymälöissä, muussa tapauksessa he ei wastaa seurauksista. Toimitusjohtaja kieltäytyi jyrkästi ryhtywänsä minkäänlaisiin toimenpiteisiin 
+          ilman asianomaisten wiranomaisten määräystä eikä woinut tunnustaa torikokouksen walitsemia henkilöitä järjestyneen työwäen edustajiksi. Osa lähetystön jäseniä tahtoi pidättää 
+          toimitusjohtaja Heurlinin ja wiedä hänet juuri alkawan torikokouksen tuomittawaksi. Tämän toimenpiteen johtaja Hursti kuitenkin esti, ilmoittaen, että he tulewat myöhemmin hänet 
+          noutamaan. Poistuessaan lähetystö jätti wartioita Elannon ulkopuolelle.</p>
+        <p>Lakkolaiset owat estäneet makkarakoneet tehtaissa käymästä, jonka wuoksi suuri määrä lihaa on pilaantumaisillaan.</p>
+      </Article>
+
+      <div className="interTitle">21.8.1917</div>
+      <Article titleText="Jälleen suuria meteleitä Helsingissä.">
+        <h5>Suuret työttömät joukot sekä sotawäki sulkeneet waltuuston istuntohuoneeseensa. — Miliisi pakotettu turwautumaan aseisiin. — Haawottuneita ja ruhjoutuneita.</h5>
+        <h5>Waltuusto myöntänyt hätäaputöihin 100,000 mk., sekä elintarwelautakunnan käytettäwäksi 5 milj. mk</h5>
+        <p>Helsingin kaupungin waltuuston perjantai-iltaisessa kokouksessa käsiteltiin työttömyyskysymystä ja ilmoitettiin tällöin m. m., että kaupungin järjestämissä hätäaputöissä on jo n. 
+          1500 miestä. Työttömänä ilmoitettiin perjantaina olleen n. 1400 miestä ja n. 600 naista. Waltuusto päätti ryhdyttäwäksi erinäisiin lisätöihin, jota paitsi rahatoimikamari sai 
+          toimekseen esittää waltuustolle wielä teetettäwiä töitä. Töiden hankkimiseksi työttömille naisille myönsi waltuusto käyttöwaroistaan 100,000 mk., jolla määrällä hankitaan 
+          tarweaineita. Elintarwelautakunnan käytettäwäksi annetaan 5 milj. markan luotto elintarpeiden hankkimiseksi kaupungin wäestölle. Walmistamaan kysymystä tyydyttäwän järjestyswallan 
+          hankkimiseksi Helsinkiin, päätti waltuusto asettaa 5-miehisen waliokunnan.</p>
+        <p>Kokouksen aikana kokoontui pörssitalon edustalle, jossa waltuusto pitää kokouksiaan, suuri kansanjoukko sekä lukuisasti matruuseja ja maasotilaita. Kokouksen päätyttyä hyökkäsi joukko 
+          matruuseja talon pihaan huutaen ja räyhäten. Sankka työttömien joukko esti waltuuston jäsenet pääsemästä istunnon päätyttyä pois kokouspaikalta. Myöhemmin käytiin sotilaiden 
+          toimeenpanewan komitean puolesta kehottamassa sotilaita poistumaan paikalta, mutta oli wielä myöhään yöllä työttömien joukot pörssitaloa piirittämässä.</p>
+        <p>Klo puoli 12 aikaan ilmoitettiin pörssitalon edustalla olewalle työttömyysjoukolle, että waltuusto on päättänyt pitää uuden istunnon ja neljännestunnin kuluttua ilmoitetaan 
+          päätöksestä. Noin 10 minuutin kuluttua saapui paikalle ratsastawia miliisejä suurempi joukko, joka ajoi Pörssitalon edustalla pariin kertaan hajottaen wäkijoukkoja. Kun tällöin 
+          työttömyysjoukko weti kadun ylitse molemmista päistä nuoran estääkseen ratsumiliisiä pääsemästä wäkijoukkoa hajoittamaan, alkoi miliisi ampua. Laukausten kajahtaessa tiheään syntyi 
+          wäkijoukossa kuwaamaton pakokauhu, mutta wäkeä kerääntyi yhä wain joukkoihin ja miliisi jatkoi ampumistaan. Suuret joukot säästyäkseen ammunnalta, heittäytyiwät maahan. Kuolleita ei 
+          kuitenkaan liene, mutta on olemassa haawoittuneita ja muuten ruhjoutuneita. Ajurit ja autot pakeniwat tapahtumapaikalta mikä minnekin pääsi, ajaen Esplanaadin istutuksille ja kaikille 
+          siwukaduille, Samoin wäkijoukko juoksenteli pakoon porttikäytäwiin, minne wain kukin woi päästä. — Myöskin kasakoita nähtiin liikkeellä, mutta eiwät ne sekaantuneet asiaan.</p>
+        <p>Waltuuston jäsenet lähtiwät pörssitalosta heti, kun miliisi ensi kerran esiintyi hajottamassa wäkijoukkoja ja tapahtui tämä klo 11,45 yöllä. Nämä surulliset tapaukset johtuiwat 
+          työttömien waatimuksesta, että waltuuston on suostuttawa maksamaan palkka kunnallislakonkin ajalta sekä hätäaputöissä 2:50 tunnilta.</p>
+        <h5>Uusi yhteenotto senaatintorilla. — Wäkijoukko ahdistamassa miliisiä. — Haawottuneita 11. Miliisi poistunut passista.</h5>
+        <p>Tunnin kuluttua edelläkerrotuista tapahtumista alkoi taas kerääntyä wäkeä senaatintorille poliisikamarin edustalle. Wäkijoukko yritti riistää muutamilta miliiseiltä aseita, koettaen 
+          niitä lyödä. Tällöin miliisi alkoi ampua hywin taajaan ja tori pian tyhjeni. Ainakin erään merisotilaan ilmotetaan haawottuneen, ja oli tämä poistuessaan paikalta uhannut käywänsä 
+          hakemassa towereitaan awuksi.</p>
+        <p>Kirurgiseen sairaalaan oli klo 2 aikaan yöllä tuotu kaikkiaan 11 haawottunutta, joista kuitenkin ainoastaan yksi niin pahasti, että hänet täytyi jättää sairaalaan. Haawottuneista oli 
+          yksi ratsumiliisi, joka oli haawottunut jalkaan. Kaikki muut oliwat työläisiä.</p>
+        <p>Kaupungilta oliwat häwinneet passista kaikki miliisit ja kaduilla liikkui wain yksityisiä sotilaita aseineen.</p>
+        <h5>Lisätietoja.</h5>
+        <p>Wäkijoukkojen hajoittamiseen otti osaa ratsastawa miliisi sekä joukko kansalaisia, täytyen heidän turwautua aseisiin ja pamppuihin. Syntyi hirweä meteli, jonka aikana ammuttiin warsin 
+          taajaan, kuitenkin etupäässä ilmaan tarkoituksella pelottaa wäkijoukkoa. Tästä syystä ei tiettäwästi myöskään kuolleita ja waikeasti haawottuneita ole lainkaan, waan owat useimmat 
+          saaneet liewempiä ruhjewammoja pampuista ja hewosten jalkoihin jouduttuaan. Tällöin oliwat metelin alussa mukana olleet sotilaat, jotka työttömät oliwat saaneet yllytettyä mukaansa, 
+          melkein tyystin häwinneet paikalta. Jälelle jääneet sotamiehet oliwat lausuneet uhkauksia, että kyllä miliisi wielä saa tämän kalliisti maksaa.</p>
+      </Article>
+
+      <div className="interTitle">23.8.1917</div>
+      <Article titleText="Onko Suomen kansa jo nähnyt kylläkseen?">
+        <p>Kun sosialismi suurlakon hyököaaltojen mukana ryntäsi suurella woimalla maahamme tunkeutuen sen kaukaisimpiinkin soppiin, otettiin se wastaan wapauden, weljeyden ja tasa-arwoisuuden 
+          sädekehäisenä ihmelapsena. Sen edessä ei polwistunut ainoastaan kansamme työwäestö, sen saattueeseen liittyi myöskin suuri joukko maamme siwistyneistöä ja warsinkin opiskelewaa 
+          nuorisoa. Jokainen tuossa saattojoukossa katsoi siihen luottamuksella, ilolla ja ylpeydellä, se wastasi jokaisessa sitä, mitä hänen olemuksessaan ja luonteessaan oli jalointa ja 
+          parasta.</p>
+        <p>Sellainen oli sosialismi syntyessään tähän maahan. Mutta ennen pitkää alkoiwat saattueen selwänäköisimmät jäsenet huomata, että tuo ihannelapsi alkoi saada sekä sarwet, että hampaat, 
+          että se alkoi käydä rumaksi ja peikkomaiseksi. Wuosi wuodelta käwi sen muoto yhä wastenmielisemmäksi ja alkuperäisestä ja oikeasta luonnostaan oli sillä jälellä pelkkä ihanteellinen 
+          nimensä. Moni oikein ja jalosti ajattelewa kansalainen erkani siitä silloin tahtomatta enään seurata sitä sen yhä likaisemmiksi ja eksyttäwimmiksi käywille poluille. Nämä joukosta 
+          erkanewat leimattiin porwareitten kätyreiksi ja heidän waroituksensa, todistelunsa ja puolustuksensa waijennettiin wäkipakolla. Kun kansan tietämättömämpi osa kerran sokeasti luotti 
+          wielä sosialistiseen johtoon, niin oli sen annettawa siihen luottaa ja kuljettawa samoja latuja yhä kauwemmaksi.</p>
+        <p>Ja pitkälle niillä päästiinkin! Missään muussa maassa kuin juuri Suomessa ei tällainen olisi ollut mahdollista. Yht'äkkiä seisoo nyt suurin osa kansaamme ja tuijottaa silmät awoimina 
+          siihen kuiluun, jonka partaalle suomalainen sosialismi on sen side silmillä kuljettanut. Kun ulkonainen pakko hiukankin hellitti, kun sidettä wähänkin helpotettiin, silloin tuli 
+          näkywiin minkälaisia aineksia se oli pidättänyt puhkeamasta näkywiin. Ei syntynyt suinkaan mitään ihanneyhteiskuntaa, meille ei annettu wapautta, weljeyttä eikä yhdenwertaisuutta. 
+          Meille annettiin niiden asemasta yksilöiden raaka sorronalaisuus, hulikaanijoukkojen wäkiwaltainen weljellisyys ja meidät asetettiin yhdenwertaisiksi kuritushuonewankien ja muiden 
+          lainsuojattomien kanssa.</p>
+        <p>Sen on sosialismi Suomen kansalle antanut. Wai eikö wielä ole nähty riittäwästi, wieläkö odotetaan lisätodistuksia? Kun täällä „wapauden” koitettua alkoiwat ensimäiset raa'at 
+          wäkiwallantyöt, kun täällä kidutettiin ja piestiin ihmisiä, jotka koettiwat nälänalaiselle kansallemme hankkia ruokaa ja täyttää welwollisuutensa rehellisinä Suomen kansalaisina, eikö 
+          silloin sosialistilehdet nauraneet päin silmiä porwarillisten sanomalehtien walituksille ja wakawille waroituksille? Sosialistinen sanomalehdistö taputti käsiään ja sanoi „kas sillä 
+          tawalla pojat”, „ei tämä wielä mitään ole” j. n. e. Ja se ei ollutkaan wielä mitään. Perästä tuli paljon pahempaa. Omia kansalaisia pidettiin kiinni muukalaisten toimiessa piiskureina, 
+          wieraan sotawäen awulla kiusattiin ihmisiä nälässä ja janossa ja uhattiin polttaa asuntoihinsa ja nyt wihdoin aijottiin wieraan sotawäen awulla toimeenpanna werilöyly Helsingin 
+          kaupungin waltuustossa, huolimatta siitä, että se oli tehnyt enemmän kuin riittäwästi raakojen ahdistajiensa hywäksi.</p>
+        <p>Wasta nyt, kun jo sosialistinen senaatti katsoi mahdottomaksi pysyä paikallaan, kun sosialistinen miliisikin tarttui aseisiin puolustaakseen kunnon kansalaisten henkeä ja 
+          turwallisuutta ja kun Helsingin sotawäen toimeenpanewa komiteakin antoi julistuksen, jossa se leimaa tällaisen metelöimisen sille kuuluwalla leimallaan, wasta nyt katsoi „Työmies”-lehti 
+          ja Helsingin johtawat sosialistit ajan tullen lausua waroittawa sanansa. Eikö silloin Suomen kansa woi täydellä syyllä wäittää, että maassamme wiime aikoina wallannut anarkia on 
+          kaswanut sosialismimme siipien suojassa, että täällä tehdyt roistontyöt, joita ajatellessa weri kuohahtaa ja inho nousee kurkkuun, owat tehdyt sosialistiemme myötäwaikutuksella ja 
+          saaneet heiltä siunauksensa?</p>
+        <p>Ja tehdessään itsensä syypäiksi näihin anarkistisiin tekoihin, owat sosiatistit syypäitä myöskin siihen, että meidän waltiollinen wapautemme ja riippumattomuutemme nyt on uhatumpi ja 
+          epätietoisempi kuin wallankumouksen tapahduttua koskaan olisi woitu olettaa. Sosialistimme koettawat kerskata, että he uskalsiwat rohkeasti astua wastustamaan wäliaikaista hallitusta 
+          ja waatia Suomelle riipumattomuutta. Niinpä kyllä! He tekiwät uljaan päätöksen, pyysiwät sitä päätöstään kiireesti heti senjälkeen anteeksi, ja kun ei anteeksiantoa kuulunut, luikkiwat 
+          häntä koipien wälissä kotiinsa. Heillä ei ollut rohkeutta hetkeäkään seistä päätöksensä takana ja he walmistawat nyt uusia eduskuntawaaleja innokkaammin kuin mikään puolueryhmä.</p>
+        <p>Siinä oli heidän waltiollinen sankaruutensa, jolle yksin Wenäjän sosialistitkin owat makeasti nauraneet.</p>
+        <p>Me kysymme: Onko Suomen kansa jo nähnyt kylläkseen, wai wieläkö se odottaa uusia merkkejä? Wieläkö Suomen kansa aikoo uskoa oman kotoisen turwallisuutensa ja ulkonaisen, waltiollisen 
+          wapautensa sosialististen suunpieksijäin huostaan?</p>
+        <p>Ei, se on suoranainen mahdottomuus! Meidän on saatawa eduskunta, joka rakentaa maahan rauhan ja järjestyksen ja joka uskaltaa yhtenä miehenä seistä waltiollisen wapautemme puolesta. Me 
+          emme tarwitse mitään huimapäitä, jotka juoksewat laumana päänsä seinään, me tarwitsemme nyt miehiä, joilla on tarkka silmä ja suora ryhti. Niitä emme sosialististen joukosta löydä, sen 
+          me woimme todistaa niin useasti kuin halutaan, ne owat haettawat toiselta taholta.</p>
+        <p>Porwarilliset puolueet rakentawat paraillaan kautta maan yhteistä rintamaa sekä kotoista, että ulkonaista wäkiwaltaa wastaan. Kansalaiset! Yhtykää innolla tähän rakennustyöhön, tehkää 
+          wiimeisetkin woitawanne, sillä nyt on kansamme yhdestoista hetki. Uusi eduskuntamme on rakennettawa uusista aineksista, muuten on kaikki hukassa, muuten menetetään yhdessä kuukaudessa 
+          se, mikä olisi wuosisadoiksi rakentanut wapaan, waloisan ja woimakkaan Suomen.</p>
+        <p>Kaikki kansamme kelwolliset ainekset siis yksimielisinä eduskuntawaaleihin. <span className="accent">Rintamaan sisäistä ja ulkonaista wäkiwaltaa wastaan!</span></p>
+      </Article>
+      <Article titleText="Waltiowalta ja anarkia.">
+        <p>Waltiowallan alkeisiin tehtäwiin kuuluu kansalaisten hengen ja omaisuuden turwaaminen. Se sosialistinen waltiowalta, jonka wiime kuukausina olisi pitänyt täyttää tämä tehtäwä 
+          maassamme, on ollut ja on yhä siihen aiwan kykenemätön. Joukkowäkiwaltaisuudet owat jo alkaneet kuulua päiwäohjelmaan. Waltion omiakin elintarwewarastoja, joita on tahdottu säästää 
+          pahimman puutteen ajaksi, on ryöstetty ja jaettu — mitä ilmaiseksi, mitä mieliwaltaisesti määrättyä alhaista maksua wastaan.</p>
+        <p>Tällaiset surkeat ja seurauksiltaan tuhoisat wäkiwaltaisuudet aiheutuwat suureksi osaksi waltiowallan wiimeaikaisesta suhtautumisesta samanluontoisiin tekoihin.</p>
+        <p>On ollut kerrassaan hämmästyttäwää nähdä, millä suuremmoisella ymmärtämyksellä — jottemme sanoisi enempää — sosialidemokraattimme niin senaatissa kuin eduskunnassakin owat 
+          suhtautuneet wiimeaikaisiin wäkiwallan ja muun anarkian ilmiöihin. Muistutamme wain hra Tokoin uudistetuista wakuutteluista siitä, että wallankumous ei ole läheskään saatettu loppuun; 
+          hänen ylimielisestä arwostelustaan kiinnipitämisestä „lain kirjaimesta”; hänen tunnetusta menettelystään Helsingin miliisilakossa; edelleen lukuisain sosialistitiedustajain 
+          arwosteluista maatyöläisten lakoissa sattuneista wäkiwaltaisuuksista j. n. e. Sosialidemokraattisen sanomalehdistön suhtautumisesta tällaisiin ilmiöihin ei kannata puhuakaan; se on 
+          ylimalkaan ollut sellaista, että sitä hywällä syyllä on woitu käsittää yllytykseksi jatkamaan samaan suuntaan eteenkinpäin. Täten on niissä kansanaineksissa, jotka omien pyyteittensä 
+          toteuttamisessa tahtowat heittää kaiken yhteiskuntajärjestyksen syrjään, ilmeisesti juurtunut se käsitys, että sosialistinen waltiowalta on, ellei suorastaan heidän puolellaan, niin 
+          joka tapauksessa ei ainakaan heitä wastaan.</p>
+        <p>Mitä tällaisella menettelyllä on kylwetty, kantaa nyt yhä tuhoisammin kypsywän sadon.</p>
+        <p>On suorastaan waikeata käsittää, mihin joudutaan, ellei wihdoinkin ryhdytä ratkaisewiin toimenpiteisiin anarkian lopettamiseksi. Kansallamme on nälkäwuosi edessään. Waltion pitäisi 
+          nyt kerätä mahdollisimman suuret warastot elintarpeita pitkin talwea jaettawiksi nälkäisille. Mutta jonakin kauniina päiwänä päättää jokin torikokous jakaa nuo warastot. Tällaiset 
+          näytelmät warmasti owat edessämme, ellei hallitus opeta yhteiskuntajärjestyksen wihollisille, mitä heidän rauhaansa sopii.</p>
+        <p>Pahana esteenä järjestyksen ylläpitämisessä on tähän asti ollut maahamme sijoitettu wenäläinen sotawäki. Milloin on joku sosialidemokraattinen toimikunta, milloin järjestymätön 
+          hulikaanijoukko wedonnut sen apuun — useimmiten hywällä menestyksellä. Mutta täytyy waatia, että sekä maan kenraalikuwernööri että sotilaspäällystö maassa tekewät kaiken woitawansa 
+          tehdäkseen kerta kaikkiaan lopun wenäläisen sotawäen sekaantumisesta suomalaisten wälisiin riitoihin. Meillä on täysi oikeus waatia, että saamme hoitaa ne asiat yksin.</p>
+        <p>Näyttää siltä, että sosialistit saatettuaan maan asiat nykyiseen anarkian tilaan aikowat puhdistaa tomun jaloistaan ja lähteä wastuunalaisilta paikoilta tiehensä. Se on selwää 
+          konkurssijulistusta. Niin menettelemällä herrat sosialistit ilmoittawat kaikelle kansalle — niillekin, jotka eiwät ennen ole sitä uskoneet, että he eiwät kykene maan asioita hoitamaan. 
+          Tietenkin he syyttäwät häwiöstään porwareita; kuinkas muuten! Mutta sietää muistaa, että Wenäjällä on hallituksessa sikäläisten sosialistien johtawat miehet, ja Suomessa eiwät tuota 
+          waikeuksia järjestyksen ylläpidossa y. m. ainakaan porwarit. Elleiwät sosialistit näissä oloissa kykene maan asioita hoitamaan, eiwät he siihen ylipäänsä kykene.</p>
+        <p>Niinkuin eiwät kykenekään. Suunkopua he pystywät pitämään — siinä kaikki!</p>
+      </Article>
+
       <div className="interTitle">25.9.1917</div>
       <Article titleText="Kunniattomuutta.">
         <p>Muulla nimellä ei woi leimata sitä peliä, jota sosialistimme nyt harjoittawat walitsijain willitsemiseksi.</p>

@@ -16,7 +16,7 @@ const HauhoPage = () => {
       <Article titleText="Nälkäwuodet 1695 - 97.">
         <SubDivider className="dividerStyle" />
         <h5>Kuwaus 1695-97 nälkäwuosista Hauholla kirkon arkistossa löytywän pahoin kuluneen irtonaisen paperin mukaan suomennettuna:</h5>
-        <QuoteStart className="symbolStyle"/>
+        <QuoteStart className="symbol"/>
         <p>Wirkani welwoituksesta on minun todettawa, että koko isänmaamme, ja erittäinkin me, hallanarkojen seutujen asukkaat, olemme joutuneet olemaan Jumalan rangaistuksen alla, kun olemme saaneet kestää 
           kolme kowaa katowuotta peräkkäin, nimittäin wuosina 1695, 96, 97, ja kestää sellaisen nälänhädän, että todennäköisesti ei toista sellaista ole maailman alusta asti ollut, johtuu tämä osittain runsaista 
           sateista osittain kuiwuudesta ja kowista hallaöistä, niin että me wuosina 1695 ja 96 emme wuosikaswusta saaneet muuta korjata, kuin pahnoja josta oli seurauksena, että suurimmalla osalla maan asukkaista 
@@ -31,7 +31,7 @@ const HauhoPage = () => {
           tynnyriä rukiinsiementä. Wuonna 1698 toimitti armollisin kuninkaamme Kaarle XII tänne niille kansan tähteille, jotka elämään jäiwät, muilta seuduilta runsaasti wiljan jäännöksiä kewät- ja syyswiljan 
           siemeneksi ja ruuaksi, mutta wiljaa enempää kuin herneitäkään ja pellawan siementä ei sinä wuonna tässä maassa kylwetty, aniharwaa poikkeusta lukuunottamatta.</p>
         <p className="signatureSmall">Jonas Hirn. Kirkon isännöitsijä.</p>
-        <QuoteEnd className="symbolStyle"/>
+        <QuoteEnd className="symbol"/>
         <SubDivider className="dividerStyle" />
         <p>Myöhemmistä katowuosista löytyy arkistossa seuraawia merkintöjä:</p>
         <p>„Wuonna 1722 sattui maahamme kowa katowuosi, jota sitten jatkui 1723, 1724, 1725 ja 1726 aiheutuen milloin liiallisesta kosteudesta, milloin liiallisesta kuiwuudesta.”</p>
@@ -57,7 +57,7 @@ const HauhoPage = () => {
 
       <Article titleText="Lukkarijupakka Tuuloksessa.">
         <h5>Wuonna 1738 pidetyssä pitäjänkokouksessa tehdyn pöytäkirjan suomennos:</h5>
-        <QuoteStart className="symbolStyle"/>
+        <QuoteStart className="symbol"/>
         <p>Koska lukkari tässä Tuuloksen kappelissa, Juho J:n, nyttemmin on käynyt niin wanhaksi ja raihnaiseksi, että häntä tämän tähden ja sen lisäksi siitä syystä, että hän kaikille tunnetulla wiinaanmenewäisyydellään saa 
           aikaan pahennusta, kun yhtenään juo itsensä humalaan niin arki- kun pyhäpäiwinäkin, wieläpä wirkatoimissa ollessaankin, niinkun walitettawasti tässäkin tilaisuudessa selwästi woitiin todeta, ja koska hän sopimattomasti 
           käsittelee kirkkowiiniä ja on niin lewäperäinen ja huolimaton Konsistoorion kiertokirjeiden perilletoimittamisessa, että monet niistä owat joutuneet aiwan hukkaan, ei enään mitenkään woida sietää eli toimessaan pitää, 
@@ -92,7 +92,7 @@ const HauhoPage = () => {
           sanottawana P:ia wastaan, waan tunnustiwat hänet kylläkin kelpaawaksi tähän toimeen, kuitenkin arweliwat ne, jotka ennemminkin oliwat J:n puolesta esiintyneet, että tämän heikkouksia sittenkin pitäisi sääliä, jonkawuoksi 
           puheenjohtaja lupasi selostaa asian Konsistoriumille, ja niin hajaannuttiin kokouksesta, uskossa jättäen toinen toisensa Jumalan huostaan.</p>
         <p className="signatureSmall">M. M.</p>
-        <QuoteEnd className="symbolStyle"/>
+        <QuoteEnd className="symbol"/>
         <br></br>
         <p className="info">Seuraawana wuonna ilmoittaa puheenjohtaja seurakunnalle, että Konsistoriumi oli asian ratkaissut hänen wälitys-ehdotuksensa mukaan eli siis erottanut J:n wirasta jättäen hänelle eläkkeeksi suntion palkan, sekä nimittänyt 
           hänen ehdokkaansa, Palmbarkin, Tuuloksen lukkariksi.</p>
@@ -104,7 +104,7 @@ const HauhoPage = () => {
 
       <Article titleText="Miksi waiwastalon rakentaminen Hauholla wuonna 1777 oli pakosta jätettäwä?">
         <h5>Pitäjänkokouksen pöytäkirja suomennettuna:</h5>
-        <QuoteStart className="symbolStyle"/>
+        <QuoteStart className="symbol"/>
         <p>Kun ensin Hänen Majesteetinsa kaikkein armollisin kirjelmä 19 päiwältä lokakuuta 1775, joka koskee köyhäinhoitoa pitäjissä, ja joka korkia-arwoisesta Maaherranwirastosta oli saapunut Herra Ruununnimismiehelle, 
           Axel Fredrik Faworinille, oli julkiluettu, ei seurakunta muuta woinut, kun alamaisimmassa kunnioituksessa ylistää kaikkein armollisimman Kuninkaansa korkeasti hellää huolenpitoa köyhistä ja sääliwäisyyttä niitä 
           kohtaan, sitäkin suuremmalla syyllä, kun seurakunnan on jo pitkät ajat täytynyt kantaa rasitusta, jonka aiheuttawat wierasten kuntain täällä kuleksiwat köyhät, kun näitä on pitänyt kristillisestä 
@@ -153,7 +153,7 @@ const HauhoPage = () => {
           wielä, että kunkin ruodun entisen jakotawan mukaan on maksettawa wähintäin 2 kappaa hywäksi puhdistettua wiljaa, mikä koko kirkkoherrakunnassa tekee 114 kappaa ja lisäksi särwintä, minkä werran sitä, wuodenaikoja myöten, 
           Jumalan armosta saada woidaan. Jos jossakin niskottelua hawaittaisiin niin on kirkon kuudennusmiesten tai ruunun palwelusmiesten wirka-apua käyttäen, kultakin hänen maksettawansa osuus otettawa.</p>
         <p>Näin päätettiin asia Jumalan siunaawan käden alla ja turwaten hänen apuunsa näin kristillisessä asiassa, ja tahdomme me tämän, mitä tapahtunut on, wahwistaa, panemalla nimemme ja puumerkkimme tämän alle.</p>
-        <QuoteEnd className="symbolStyle"/>
+        <QuoteEnd className="symbol"/>
         <p className="signatureSmall">U. P.</p>
       </Article>
 

@@ -21,7 +21,7 @@ const HomePage = () => {
       <ImageSlider imgArray={carouselArray} showDots={false} auto={false} wide={true}></ImageSlider>
       <br />
       <Divider className="dividerStyle" />
-      <QuoteStart className="symbolStyle"/>
+      <QuoteStart className="symbol"/>
       <p className="initialCap">
         Noin samaan aikaan kuin Ruotsin mahtava valtiourho Birger Jaarli Bjelbosta päätti rakentaa
         Tukholman kaupungin noita sotaisia virolaisia vastaan, vaivasivat pakanalliset hämäläiset tuhotöillään ajoin ja usein
@@ -151,10 +151,10 @@ const HomePage = () => {
         </p>
       </div>
       <ReadMore buttonText={showMore ? "Näytä vähemmän" : "Näytä enemmän..."} onClick={() => setShowMore(!showMore)}/>
-      <QuoteEnd className="symbolStyle"/>
+      <QuoteEnd className="symbol"/>
       <p className="copyright">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan Osoite ja Ilmoitus Kalenteri, 1887 </p>
       <Divider className="dividerStyle" />
-      <Image className="centeredImageStyle" src={img1} alt="Maalaus vanhasta Hämeenlinnasta"/>
+      <Image className="centeredImage" src={img1} alt="Maalaus vanhasta Hämeenlinnasta"/>
       <p className="copyright">Cordier de Bonneville, Louis-Joseph-Anger, taiteilija - valmistusaika ajoittamaton</p>
       <p className="copyright">Kansallisgalleria / Sinebrychoffin taidemuseo- CC0 </p>
     </Layout>

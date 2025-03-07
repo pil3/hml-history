@@ -133,7 +133,7 @@ article p {
 }
 .interTitle {
   position: relative;
-  margin: 24px 0;
+  margin: 0;
   padding: 8px 0;
   text-align: center;
   font-size: 32px;
@@ -170,12 +170,12 @@ article p {
 .verticalSpacer {
   height: 16px;
 }
-.symbolStyle {
+.symbol {
   display: block;
   height: 30px;
   margin: 4px auto;
 }
-.centeredImageStyle {
+.centeredImage {
   display: block;
   max-width: 100%;
   margin: 16px auto;

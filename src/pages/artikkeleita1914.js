@@ -72,7 +72,7 @@ const Articles1914Page = () => {
         <p>Pohjoismaiden Osakepankki, Uudenmaanpankki, Landtmannabanken ja Helsingin Osakepankki owat sitä paitsi julkaisseet kutsun uusien osakkeiden merkitsemiseen.</p>
         <p>Yhteensä lähemmä 8 miljoonan markan arwosta tullaan tänä wuonna merkitsemään uusia osakkeita, eli tarkemmin sanottuna 7,975,000. Uusien osakkeiden maksuajat owat edulliset.</p>
         <p>Lopuksi merkitsemme tähän tärkeimmät kurssit pörssinoteerausten mukaisesti.</p>
-        <Image className="centeredImageStyle" src={img1} alt="Osakekurssit"/>
+        <Image className="centeredImage" src={img1} alt="Osakekurssit"/>
       </Article>
 
       <div className="interTitle">31.1.1914</div>
@@ -844,7 +844,7 @@ const Articles1914Page = () => {
         <h5>Maistraatin päätös kuwernöörin johtamasta w. k. 25 pnä pidetyssä maistraatin istunnossa.</h5>
         <p>Päätös, joka tehtiin w. k. 25 p:nä pidetyssä kuwernöörin johtamassa maistraatin istunnossa, jolloin käsiteltiin yhdenwertaisuuslain nojalla erotettujen Hämeenlinnan maistraatin 
           raatimiesten wirkojen aukijulistamista.</p>
-        <QuoteStart className="symbolStyle"/>
+        <QuoteStart className="symbol"/>
         <p className="quotation">Koska Wenäjän Keisarikunnan Hallitsewan Senaatin Rikosasiain Departementti on päätöksellään marrask. 20 pltä ja jouluk. 3 pltä 1913 jättänyt sen Pietarin 
           Piirioikeuden huhtik. 26 p:nä ja toukok. 9 p:nä 1918 antaman päätöksen woimaan, jolla tämän Raastuwanoikeuden ja Maistraatin oikeusneuwosmies Leonard Idestam ja Kunnallisneuwosmies Werner 
           Agaton Lindberg owat tuomitut paitsi muuta eroitetuiksi hallitsemistaan edellinen sanotun Maistraatin ja Raastuwanoikeuden oikeusneuwosmiehen wirasta, julistetaan wastamainitut wirat 
@@ -854,7 +854,7 @@ const Articles1914Page = () => {
           läänin kuwernöörin kirjeen saman huhtik. 8 pltä n:o 15,380 johdosta tehtyyn päätökseen, että kun oikeusraatimies Leonard Idestam ja kunnallisrm. Werner Agaton Lindberg eiwät olleet, 
           mikäli mainittujen allekirjoittaneiden tiedossa oli, tulleet laillisen tuomion kautta eroitetuiksi puheenalaisista wiroistaan, ei maistraatti woimassaolewaan lakiin nojaamalla woi 
           julistaa wirkoja haettawaksi, koska niillä edelleenkin oli lailliset haltijat, joskin he tätä nykyä oliwat estetyt itse wirkojaan hoitamasta.</p>
-        <QuoteEnd className="symbolStyle"/>
+        <QuoteEnd className="symbol"/>
       </Article>
 
       <div className="interTitle">30.7.1914</div>
@@ -1137,7 +1137,7 @@ const Articles1914Page = () => {
       
       <div className="interTitle">26.11.1914</div>
       <Article titleText="Kiistalan alueen järjestely.">
-        <Image className="centeredImageStyle" src={img2} alt="Kiistala"/>
+        <Image className="centeredImage" src={img2} alt="Kiistala"/>
         <p>Ylläolewa piirros esittää järjestelyehdotuksen Kiistalan aluetta warten. Waltuusmiehet puolestaan owat jo kerran wahwistaneet erään aikaisemmin aluetta warten laaditun 
           asemakaawaehdotuksen, mutta senjälkeen on esiintynyt seikkoja, jotka owat pakottaneet muuttamaan laadittua ehdotusta. On saatu tietää, että rautatiehallitus on tehnyt suunnitelman 
           Hämeenlinnan aseman ratapihan muuttamisesta ajanmukaisempaan kuntoon, ja kun tämän suunnitelman mukaan rautatien ulkolastausalue siirretään kaupungin puolelle, piirroksessa osotetulle 

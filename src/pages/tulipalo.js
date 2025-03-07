@@ -16,7 +16,7 @@ import imgJuselius  from "../images/content/juselius.jpg"
 const FirePage = () => {
   return (
     <Layout titleText="Kaupungin palo v. 1831">
-      <Image className="centeredImageStyle" src={imgFrontPage} alt="Etusivu"/>
+      <Image className="centeredImage" src={imgFrontPage} alt="Etusivu"/>
       <Divider className="dividerStyle" />
       <p> Hämeenlinnan kaupungin syyskuun 14 ja 15 päivinä 1831 tapahtuneesta suuresta tulipalosta, joka hävitti suuremman osan kaupunkia, löytyy Hämeenlinnan Maistraatin arkistossa seuraavat asiakirjat, jotka tässä sanain mukaan 
         esitetään.</p>
@@ -124,7 +124,7 @@ const FirePage = () => {
       </Article>      
       <SubDivider className="dividerStyle" />
       <p>Mikäli poliisitutkinnossa sittemmin saatiin selville oli kaupp. Juselius'en renki Mikko Mikonpoika kl. 6 tienoissa tullut kotia juopuueena sekä otaksuttiin varomattomasti pidelleen tulta ullakolla ja jääneen sinne liekkeihin.</p>
-      <Image className="centeredImageStyle" src={imgJuselius} alt="Juseliuksen talo"/>
+      <Image className="centeredImage" src={imgJuselius} alt="Juseliuksen talo"/>
       <a className="hyperlink" href="https://digi.kirjastot.fi/files/original/f9a4c69de27ec602332aa8c4a1c32fb4.pdf">Lähde</a>
     </Layout>
   )

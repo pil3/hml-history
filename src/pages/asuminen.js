@@ -53,7 +53,7 @@ const HousingConditionsPage = () => {
   return (
     <Layout titleText="Asunto-olosuhteet v. 1908">
 
-      <Image className="centeredImageStyle" src={imgFrontPage} alt="Etusivu"/>
+      <Image className="centeredImage" src={imgFrontPage} alt="Etusivu"/>
 
       <p className="caption">Manner, Viktor</p>
       <p className="caption">Hämeenlinnan Kaupunginkirjasto</p>
@@ -168,18 +168,18 @@ const HousingConditionsPage = () => {
         siis keskimäärin 3 asuntoa ja 5,7 asuinhuonetta kutakin taloa kohti.</p>
       <p>Talot ovat koolleen näin ollen yleensä mutta etenkin Myllymäessä pieniä. Paremman käsityksen talojen suuruudesta saanee siten että ryhmittelemme talot niissä löytyvien 
         asuinhuoneitten lukumäärän mukaan. Tulos on tässä tapauksessa seuraava:</p>
-      <Image className="centeredImageStyle" src={img1} alt="Taulukko 1"/>
+      <Image className="centeredImage" src={img1} alt="Taulukko 1"/>
       <p>Kaupungin asunnnot jakautuvat suuruutensa mukaan seuraavasti:</p>
-      <Image className="centeredImageStyle" src={img2} alt="Taulukko 2"/>
+      <Image className="centeredImage" src={img2} alt="Taulukko 2"/>
       <p>Niinkuin edelläolevasta näkyy ja muutenkin oli odotettavissa, muodostavat pienemmät asunnot, jos sellaisina pidämme kolme huonetta ja keittiön käsittäviä ynnä siitä pienempiä 
         huoneustoja, suurimman osan, nimitt. 76.i % varsinaisessa kaupungissa ja 95.4 % Myllymäessä eli 81.9% koko kaupungissa, toisin sanoen 1/5 kaikista asunnoista. Neljä huonetta ja 
         keittiön käsittävät ja sitä suuremmat asunnot eivät niinmuodoin tee yhteensä enemmän kuin 18.1 % asuntojen koko lukumäärästä.</p>
       <p>Erisuurista asunnoista suoritettu vuotuinen vuokra, määrättynä niinhyvin koko huoneustoa kuin kutakin asuinhuonetta kohti, selviää seuraavista tauluista.</p>
-      <Image className="centeredImageStyle" src={img3} alt="Taulukko 3"/>
-      <Image className="centeredImageStyle" src={img4} alt="Taulukko 4"/>
-      <Image className="centeredImageStyle" src={img5} alt="Taulukko 5"/>
+      <Image className="centeredImage" src={img3} alt="Taulukko 3"/>
+      <Image className="centeredImage" src={img4} alt="Taulukko 4"/>
+      <Image className="centeredImage" src={img5} alt="Taulukko 5"/>
       <p>Keskimääräinen vuotuinen vuokra niinhyvin koko huoneustoa kuin kutakin asuinhuonetta kohti, oli seuraava:</p>
-      <Image className="centeredImageStyle" src={img6} alt="Taulukko 6"/>
+      <Image className="centeredImage" src={img6} alt="Taulukko 6"/>
       <p>Keskimääräinen vuokra asuinhuonetta kohti laskettuna täysissä markoissa, teki varsinaisessa kaupungissa 127 mk. ja Myllymäessä 79mk. eli koko kaupungissa 118 mk. vuodessa.</p>
       <p>Halvin vuokra varsinaisessa kaupungissa laskettuna kutakin asuinhuonetta kohti on kaksi huonetta ja keittiön käsittävissä asunnoissa. Sen molemmilla puolilla olevasta kahdesta 
         ryhmästä huomautettakoon, että yksihuoneiset asunnot maksavat suhteellisesti jotenkin saman vuokran kuin nelihuoneiset asunnot ja yhden huoneen ynnä keittiön käsittävät asunnot 
@@ -188,7 +188,7 @@ const HousingConditionsPage = () => {
       <p>Kaikkien asuntojen tuottama vuokra vuodessa teki varsinaisessa kaupungissa yhteensä vähän päälle 355,000:— markkaa, josta kapitaliseeraamalla 7 % mukaan saataisiin jotenkin 
         tasan 5 miljoonaa markkaa. Myllymäessä nousee asuntojen tuottama vuokra vähän päälle 50,000: — , mistä samoin 7 % mukaan saataisiin 726,000 mkan suuruinen pääoma.</p>
       <p>Kuinka suuren osan kysymyksessä olevasta vuokrasummasta kukin erisuuri asuntoryhmä tuottaa vuodessa, selviää seuraavasta:</p>
-      <Image className="centeredImageStyle" src={img7} alt="Taulukko 7"/>
+      <Image className="centeredImage" src={img7} alt="Taulukko 7"/>
 
       <h3>2. Asukkaat</h3>
       <p className="initialCap">Vuoden 1908 alussa oli kaupungissamme kirkonkirjojen mukaan 5,965 asukasta. Tilastoa kerättäessä asui varsinaisessa kaupungissa 4,040 eli 67.9%, Myllymäessä 1,303 eli 21.8% siis 
@@ -196,10 +196,10 @@ const HousingConditionsPage = () => {
         Vanajan pitäjään kuuluvan, n. k. Punaportin ja Jaakopin kaupungin alueelle tahi maaseurakuntaan kuuluvan Hätilän ja Ojoisten kartanoitten alueille. — Asutustiheys varsinaisessa 
         kaupungissa tekee jotenkin tasan 80 henkeä hehtaaria kohti.</p>
       <p>Kaupungin asukkaat jakautuvat talojen mukaan seuraavasti.</p>
-      <Image className="centeredImageStyle" src={img8} alt="Taulukko 8"/>
+      <Image className="centeredImage" src={img8} alt="Taulukko 8"/>
       <p>Jos sitte käännymme tarkastamaan kaupungin asuntojen ja asukasten keskinäistä suhdetta, jakautuvat asukkaat eri asuntoryhmille eli erisuurille asunnoille kuten seuraavalla sivulla 
         oleva taulu osoittaa, mihin yleiskatsauksen saamiseksi asunnot ovat otetut uudelleen.</p>
-      <Image className="centeredImageStyle" src={img9} alt="Taulukko 9"/>
+      <Image className="centeredImage" src={img9} alt="Taulukko 9"/>
       <p>Suurin määrä asukkaita, nimitt. vähän päälle 1/4, asuu toisen ryhmän eli yhden huoneen ja keittiön käsittävissä asunnoissa; lähinnä niitä tulevat yksihuoneisten asuntojen asukkaat, 
         joita on lähes 1/4. Yhteensä molemmat mainitut ryhmät tekevät puolen koko asukasmäärästä. Jos otamme kaikki keittiön ja kolme huonetta käsittävät ynnä sitä pienemmät asunnot, 
         saamme tulokseksi että jotenkin tasan 3/4 kaupungin asukasmäärästä asuu sellaisissa asunnoissa.</p>
@@ -213,10 +213,10 @@ const HousingConditionsPage = () => {
         käsittäviä sellaisia.</p>
       <p>Niinpä käyttävät ainoastaan muutamat käsityöläisperheet nelihuoneisia asuntoja, kaikki muut työväenluokkaan kuuluvat asuivat pienemmissä asunnoissa, siten että ainoastaan 21 
         perhettä asui kolmihuoneisissa asunnoissa, 58 kaksihuonetta ja keittiön käsittävissä asunnoissa ynnä loput 360 joko yksi-huoneisissa eli huoneen ja keittiön käsittävissä asunnoissa.</p>
-      <Image className="centeredImageStyle" src={img10} alt="Taulukko 10"/>
-      <Image className="centeredImageStyle" src={img11} alt="Taulukko 11"/>
+      <Image className="centeredImage" src={img10} alt="Taulukko 10"/>
+      <Image className="centeredImage" src={img11} alt="Taulukko 11"/>
       <p>Mitenkä suuria perhekunnat olivat ja minkä kokoisia huoneustoja niillä oli käytettävissä selviää seuraavasta:</p>
-      <Image className="centeredImageStyle" src={img12} alt="Taulukko 12"/>
+      <Image className="centeredImage" src={img12} alt="Taulukko 12"/>
       <p>Sivullisien asukasten ottaminen asuntoihin, mikä tietysti tapahtuu vuokran alentamista varten, on kuten tunnettu suuremmissa kaupungeissa muodostunut tuntuvaksi rasitukseksi, 
         joka osaltaan myöskin huonontaa asunto-olosuhteita. On sentähden syytä selvitellä oloja Hämeenlinnassa myöskin tässä suhteessa.</p>
       <p>Tilastoa kerättäessä löytyi sivullisia asukkaita 210 asunnossa eli 16.2 % kaikista asunnoista, käsittäen 443 sivullista asukasta eli 8.3 % kaupungin asukasmäärästä. Varsinaisen 
@@ -225,10 +225,10 @@ const HousingConditionsPage = () => {
         käsittävissä asunnoissa sekä sen jälkeen yksihuoneisissa asunnoissa. Tavallisin määrä sivullisia asukkaita oli tietysti yksi, nimittäin 88 asunnossa, kaksi sivullista asukasta 
         löytyi 65 asunnossa, kolme 30 asunnossa j. n. e.</p>
       <p>Sivullisten asukasten yhteiskunta-asema selviää seuraavasta.</p>
-      <Image className="centeredImageStyle" src={img13} alt="Taulukko 13"/>
-      <Image className="centeredImageStyle" src={img14} alt="Taulukko 14"/>
+      <Image className="centeredImage" src={img13} alt="Taulukko 13"/>
+      <Image className="centeredImage" src={img14} alt="Taulukko 14"/>
       <p>Sivullisia asukkaita asunnoissaan käyttävien yhteiskunta-asema oli seuraava.</p>
-      <Image className="centeredImageStyle" src={img15} alt="Taulukko 15"/>
+      <Image className="centeredImage" src={img15} alt="Taulukko 15"/>
       <p>Niinkuin edellisellä sivulla olevasta taulusta näkyy, asui sivullisten asukasten koko määrästä 309 eli 72.2 % pienemmissä s. o. kolme huonetta ja keittiön käsittävissä ynnä sitä 
         pienemmissä asunnoissa, loput 134 eli 27.8 % suuremmissa asunnoissa. Muuten muodosti, kuten jo sivullisten ammattia osottavasta luettelosta näkyy, kaupungissa oleskeleva 
         koulunuoriso suurimman osan eli jotenkin tasan 2/3 kaikista sivullisista asukkaista. Ilman koulunuorisoa olisikin sivullisten asukasten lukumäärä perin pieni.</p>
@@ -241,7 +241,7 @@ const HousingConditionsPage = () => {
         1,060 asuntoa joissa asui 3,951 asukasta. — Kysymyksessä olevia asuntoja ei kuitenkaan ainakaan täällä voida kutsua yksinomaan työväen asunnoiksi, niissä asuu nimittäin koko joukko 
         varallisempaakin yleisöä, kuten esim. useat talonomistajat, varallisemmat lesket ja yksinäiset naiset j. n. e.</p>
       <p>Jos sitte käännymme lähemmin tarkastamaan näitä asuntoja, huomautettakoon ensiksikin niiden suuruuden selvittämiseksi että asuinhuoneitten korkeus oli seuraava:</p>
-      <Image className="centeredImageStyle" src={img16} alt="Taulukko 16"/>
+      <Image className="centeredImage" src={img16} alt="Taulukko 16"/>
       <p>Mikä korkeus on katsottava riittäväksi sekä mikä pienimmäksi sallittavaksi mitaksi, riippuu tietysti suuressa määrin eri katsantokannoista. Yleensä on pyritty tekemään asuinhuoneet 
         tarpeettoman korkeiksi; viime vuosina on kuitenkin esiintynyt merkkejä siitä, että aletaan tässä suhteessa kääntyä takaisinpäin. Korkeissa huoneissa tarvitaan tosin vähemmän lattia-alaa 
         jos tavotellaan määrättyä kuutiosisältöä, mutta yleensä meidän kylmät talvemme edellyttävät matalampia huoneita, joita on helpompi lämmittää. Tämän lisäksi on otettava huomioon, 
@@ -257,15 +257,15 @@ const HousingConditionsPage = () => {
         yli 3 m; sellaista huonetta ei arvatenkaan voida pitää erin suurena. Tämän mukaan tulisi toisen ryhmän eli yhden huoneen ja keittiön käsittävien asuntojen tilavuuden olla vähintään 80 m3, 
         kaksi huonetta ja keittiön käsittävien asuntojen 120 m3 ja kolme huonetta ynnä keittiön käsittävien asuntojen 160 m3. Jos tällaisen mittapuun mukaan ryhmittelemme tässä kysymykseen tulevat 
         asunnot saamme seuraavan tuloksen:</p>
-      <Image className="centeredImageStyle" src={img17} alt="Taulukko 17"/>
+      <Image className="centeredImage" src={img17} alt="Taulukko 17"/>
       <p>Kuten yllä olevasta taulusta näkyy ovat asuinhuoneet yleensä perin pieniä; etenkin on näin asianlaita Myllymäessä. Suuri osa asuntoja ei täytä niinkään pieniä vaatimuksia kuin tässä on ollut 
         kysymyksessä, vaan oli eri asuntoryhmissä seuraava määrä asuntoja tilavuudelleen alle mainitun vähimmän määrän.</p>
-      <Image className="centeredImageStyle" src={img18} alt="Taulukko 18"/>
+      <Image className="centeredImage" src={img18} alt="Taulukko 18"/>
       <p>Sivulla 15 on jo tehty selkoa erisuurten asuntojen vuokrista, niinhyvin koko asunnoista kuin laskettuna kutakin huonetta kohti. Tässä selvitettäköön sentähden ainoastaan vuotuinen vuokra 
         laskettuna kuutiometriä kohti.</p>
-      <Image className="centeredImageStyle" src={img19} alt="Taulukko 19"/>
+      <Image className="centeredImage" src={img19} alt="Taulukko 19"/>
       <p>Keskimääräinen vuotuinen vuokra kuutiometriä kohti erisuurissa asunnoissa ja kaikissa yhteensä oli seuraava:</p>
-      <Image className="centeredImageStyle" src={img20} alt="Taulukko 20"/>
+      <Image className="centeredImage" src={img20} alt="Taulukko 20"/>
       <p>Tavallisin vuokra kuutiometriä kohti koko kaupungissa on 2 ja 3 mk. välillä, keskimääräinen maksu 2:59. Jos tarkastamme eri asuntoryhmiä on asianlaita niissä sama, kuitenkin sillä erolla, 
         että yksihuoneisista ja osaksi huoneen ynnä keittiön käsittävistä asunnoista suhteellisesti suurella osalla on korkeampi vuokra kuin suuremmissa asunnoissa. Niinpä yksihuoneisista asunnoista 
         54 %:lla on korkeampi eli 3 ja 7 mk. välillä vaihteleva vuokra kuutiometriä kohti, jotavastoin kaksi- ja kolmihuoneisista asunnoista ainoastaan 34 - 40 % on korkeampi vuokra, mutta sekin vaan 
@@ -274,11 +274,11 @@ const HousingConditionsPage = () => {
       <p>Tärkein puoli pienemmissä asunnoissa vallitsevien olojen selvittämisessä 011 tietenkin niissä mahdollisesti esiintyvä liika-asutus. Tässä suhteessa antaa kullekin asukkaalle eri asunnoissa 
         tuleva lattia-ala jo osaksi vastauksen, mutta varsinainen selvitys saadaan vasta laskemalla kullekin asukkaalle tuleva ilmamäärä eli kuutiotila. Mitä asukkaille tulevaan lattia-alaan tulee 
         olivat olot seuraavat.</p>
-      <Image className="centeredImageStyle" src={img21} alt="Taulukko 21"/>
+      <Image className="centeredImage" src={img21} alt="Taulukko 21"/>
       <p>Yleensä täytynee pitää 5 m2 lattiaalaa kohtalaisia vaatimuksia tyydyttävänä, mutta siihen nähden että muualla tällaisissa selvityksissä on otettu 6 m2 alimmaksi sallittavaksi lattiaalaksi, 
         jonka mukaan asuntoa, missä on vähemmän lattiaalaa, pidetään liikaasuttuna, käytettäköön tässä samaa mittakaavaa. Tämän mukaan olisi lattia-alaa seuraavassa määrässä asuntoja kutakin asukasta 
         kohti alle 6 m2 eli toisin sanoen ne olisivat suuremmassa eli vähemmässä määrässä liikaasuttuja.</p>
-      <Image className="centeredImageStyle" src={img22} alt="Taulukko 22"/>
+      <Image className="centeredImage" src={img22} alt="Taulukko 22"/>
       <p>Tilan ahtaus olisi niinmuodoin tämän mukaan suurin yksihuoneisissa asunnoissa, mutta korjautuu se suhteellisesti nopeasti suuremmissa huoneustoissa. Kun kuitenkin tätä tietä ei päästä mihinkään 
         sitovampaan tulokseen, ei ole syytä edelleen kehittää tässä esiintyviä numeroita.</p>
       <p>Niinkuin jo huomautettiin saamme täydellisen selvityksen mahdollisesta liikaasutuksesta ainoastaan siten, että otamme selkoa kullekin asukkaalle tulevasta ilmamäärästä eli kuutiotilasta asunnossa. 
@@ -290,30 +290,30 @@ const HousingConditionsPage = () => {
         ne asunnot joissa kunkin asukkaan osalle tulee 10—15 m3 jotenkin ahtaasti asuttuina, ne joissa asukasten osalle tulee 5 — 10 m3 suuressa määrin ahtaasti asuttuina ja ne joissa asukasten osalle tulee 
         alle 5 m3 suurimmassa määrässä liika-asuttuna. Huoneet taasen, joissa asukkaiden osalle tulee yli 20 m3 olisivat täysin väljiä eli tilavasti asuttuja. Jos sitte ryhmitämme pienemmät huoneustot ia 
         niiden asukkaat tämän mukaan, on kuten sivulla 34 oleva taulu osoittaa tulos seuraava.</p>
-      <Image className="centeredImageStyle" src={img23} alt="Taulukko 23"/>
-      <Image className="centeredImageStyle" src={img24} alt="Taulukko 24"/>
+      <Image className="centeredImage" src={img23} alt="Taulukko 23"/>
+      <Image className="centeredImage" src={img24} alt="Taulukko 24"/>
       <p>Seuraavalla sivulla olevan taulun mukaan oli suuremmassa eli vähemmässä määrässä, eli toisin sanoen eriasteisia, liika-asuttuja asuntoja 34.2% kaikista pienemmistä asunnoista, siis jotenkin tasan 
         kolmasosa; mainituissa huoneustoissa asui 40.5 % tässä kysymykseen tulevista asukkaista.</p>
       <p>Koko kaupungin asuntomäärästä tekevät nämät liika-asutut asunnot 27.4 % ja asukasmäärästä kysymyksessä olevat liian tiheästi asuvat 29.8 % ; molemmissa tapauksissa lähes saman määrän eli yleensä 
         vähän runsaammin kuin neljänneksen.</p>
-      <Image className="centeredImageStyle" src={img25} alt="Taulukko 25"/>
+      <Image className="centeredImage" src={img25} alt="Taulukko 25"/>
       <p>Asukkaita löytyi eri ryhmissä keskimäärin kutakin huonetta kohti seuraavasti:</p>
-      <Image className="centeredImageStyle" src={img26} alt="Taulukko 26"/>
+      <Image className="centeredImage" src={img26} alt="Taulukko 26"/>
       <p>Mitä erisuuriin, tässä kysymyksessä oleviin, asuntoihin tulee ovat olot tietysti tässä niinkuin muissakin suhteissa epäedullisimmat yksihuoneisissa asunnoissa. Niinpä ei muissa ryhmissä ensinkään 
         löydy asuntoja, joissa asukkaan osalle tulisi alle 5 m3 ilmaa niinkuin tässä, ja liika-asutut asunnot vähenevät lukumäärälleen nopeasti toisissa ryhmissä; tyydyttävästi ja väljästi asuttujen luku 
         taasen kasvaa samaten muissa ryhmissä.</p>
       <p>Missä määrin olot varsinaisassa kaupungissa ja Myllymäessä eroavat toisistaan, selviää kyllä edellä olevista tauluista, mutta otettakoon kysymyksessä olevat luvut kuitenkin uudelleen tähän.</p>
-      <Image className="centeredImageStyle" src={img27} alt="Taulukko 27"/>
+      <Image className="centeredImage" src={img27} alt="Taulukko 27"/>
       <p>Eri asteisia liika-asuttuja asuntoja oli niinmuodoin varsinaisessa kaupungissa 208 tehden 29.5 % pienemmistä asunnoista ja 21.9 % varsinaisen kaupungin koko asuntomäärästä. Liian ahtaasti asuvia 
         asukkaita 944 eli 35.3 % pienten asuntojen ja 23.3 % koko varsinaisen kaupungin asukasmäärästä. Myllymäessä tekivät vastaavat numerot: 147, 44.6 % ja ja 42.6 % - 647, 51.5 % ja 49.6 % .</p>
       <p>Niinhyvin varsinaisessa kaupungissa kuin etenkin Myllymäessä vallitsi niinmuodoin tuntuva liika-asutus pienemmissä asunnoissa, vaikkakin oloille on täällä asetettu pienempiä vaatimuksia kun esim. 
         Helsingissä ja Turussa, joissa meidän tyydyttävän väljästi asuttu ryhmä on vielä katsottu osittain ahtaasti asutuksi.</p>
       <p>Lienee syytä myöskin tarkastaa missä määrin sivulliset asukkaat mahdollisesti ovat syynä erinäisten asuntojen liika-asutuksen. Kuten sivulla 37 olevasta taulusta näkyy asui 161 tässä kysymykseen 
         tulevassa asunnossa kaikkiaan 818 asukasta ja näistä 309 sivullista sellaista. Näiden asuntojen jakautuminen asukkaille tulevan kuutiotilanmukaan oli seuraava.</p>
-      <Image className="centeredImageStyle" src={img28} alt="Taulukko 28"/>
+      <Image className="centeredImage" src={img28} alt="Taulukko 28"/>
       <p>Jos yhdistämme edellä olevasta taulusta koko kaupunkia käsittävästä osasta erisuuret asunnot yhdeksi ryhmäksi, niin oli sivullisia asukkaita käyttävien pienempien asuntojen asutustiheys, asukas- 
         ja sivull. asukasmäärä seuraava.</p>
-      <Image className="centeredImageStyle" src={img29} alt="Taulukko 29"/>
+      <Image className="centeredImage" src={img29} alt="Taulukko 29"/>
       <p>Ylläolevan taulun mukaan löytyi tässä kysymykseen tulevissa pienemmissä asunnoissa sivullisia asukkaita 161 asunnossa kaikkiaan 309. Mainittujen asuntojen koko asukasmäärä teki 818. Kysymyksessä 
         olevasta 161 asunnosta oli 52 asuntoa suuremmassa eli vähemmässä määrässä liika-asuttuja. Näissä 52 liika tiheästi asutussa huoneustoissa asui kaikkiaan 276 asukasta, joista 106 sivullista.</p>
       <p>Kuten aikaisemmin huomautettiin löytyi kaikkiaan 355 liikaasuttua asuntoa; edellisen mukaan oli näistä 52:ssa (14.6 %:ssa) sivullisia asukkaita. Pienempien asuntojen koko määrästä tekevät mainitut 
@@ -337,9 +337,9 @@ const HousingConditionsPage = () => {
         niiden muodosteleminen taasen on usein liiaksi vaivaloista, minkä lisäksi numerot täten eivät aina tule täysin tarkoiksi. On kuitenkin syytä koettaa muutamissa osissa verrata toisiinsa eri kaupungeissa 
         vallitsevia oloja; pienemmissä asunnoissahan kaikkialla vallitsee epäedullisemmat olot. Tätä ennen huomautettakoon kuitenkin, mikäli asunto-olosuhteisiin kokonaisuudessaan tulee, että kaupungin asutus 
         edellä olevan selvityksen mukaan suurissa piirteissä otettuna oli seuraava:</p>
-      <Image className="centeredImageStyle" src={img30} alt="Taulukko 30"/>
+      <Image className="centeredImage" src={img30} alt="Taulukko 30"/>
       <p>Vielä huomautettakoon asunnoista yleensä sivulla 15 olevan vuokra-ilmoituksen täydennykseksi että vuotuinen vuokra kutakin asuinhuonetta kohti koko kaupungissa teki seuraavan määrän:</p>
-      <Image className="centeredImageStyle" src={img31} alt="Taulukko 31"/>
+      <Image className="centeredImage" src={img31} alt="Taulukko 31"/>
       <p>Vertailun vuoksi mainittakoon että keskimääräinen vuotuinen vuokra kutakin asuinhuonetta kohti teki v. 1900 Helsingissä 255, Viipurissa 157, Turussa 135 ja Tampereella 132.</p>
       <p>Yleensä on tunnettua että vuokrat Hämeenlinnassa ovat olleet suhteellisesti halvat. Tämä ynnä viime aikoina tavattomasti nousseet rakennuskustannukset ovat etupäässä ehkäisseet yrittelijäisyyttä tällä 
         alalla ja kaupunkilaiset ovat saaneet edelleen tyytyä puutteellisiin asuntoihin. Mahdollisesti saadaan tässä suhteessa muutos aikaan kunhan kaupunki saa vesijohtolaitoksen, mikä jo on päätetty asia, 
@@ -347,36 +347,36 @@ const HousingConditionsPage = () => {
       <p>Jos sitten käännymme pienempiin asuntoihin teki niiden lukumäärä, kuten jo aikaisemmin huomautettiin 81.9 % kaupungin koko asuntomäärästä ja niissä asuvien asukkaiden määrä 74 % kaupungin koko 
         asukasmäärästä. Minkä prosenttimäärän pienemmät asunnot tekevät muissa kaupungeissa ei ole tunnettuna muualta kuin Pietarsaaresta, jossa se teki 91.1 %.</p>
       <p>Pienempiin asuntoihin kuuluvien erisuurten huoneustojen lukumäärä prosenteissa oli eri kaupungeissa seuraava:</p>
-      <Image className="centeredImageStyle" src={img32} alt="Taulukko 32"/>
+      <Image className="centeredImage" src={img32} alt="Taulukko 32"/>
       <p>Suuremmissa kaupungeissa löytyy pääasiallisesti yksihuoneisia ja huoneen ynnä keittiön käsittäviä asuntoja, pienemmissä taasen koko joukko työväen käyttämiä suurempiakin asuntoja.</p>
       <p>Pienempien asuntojen asukasmäärä teki eri kaupungeissa seuraavan prosenttimäärän koko asukasluvusta:</p>
-      <Image className="centeredImageStyle" src={img33} alt="Taulukko 33"/>
+      <Image className="centeredImage" src={img33} alt="Taulukko 33"/>
       <p>Pienissä kaupungeissa löytyy suhteellisesti vähän suurempia asuntoja - kuten edellä jo huomautettiin oli Hämeenlinnassa ainoasti 18.1 %, Pietarsaaressa 8.9 % - ja niitä käyttäviä, sentähden ovat 
         kysymykseen tulevat prosenttimäärät niissä siksi eroavia suuremmista kaupungeista.</p>
       <p>Pieniä asuntoja käyttävät jakautuvat erisuurille asunnoille seuraavasti:</p>
-      <Image className="centeredImageStyle" src={img34} alt="Taulukko 34"/>
+      <Image className="centeredImage" src={img34} alt="Taulukko 34"/>
       <p>Olosuhteet, niinkuin ylläolevasta näkyy ja muutenkin on luonnollista, ovat pienissä kaupungeissa koko joukon edullisemmat. Tämän osoittaa myöskin seuraava ryhmittely, jossa on ilmoitettu montako 
         asukasta tuli keskimäärin kutakin huonetta kohti:</p>
-      <Image className="centeredImageStyle" src={img35} alt="Taulukko 35"/>
+      <Image className="centeredImage" src={img35} alt="Taulukko 35"/>
       <p>Missä määrin liika-asutus rasittaa pieniä asuntoja eri kaupungeissa selviää alla olevasta:</p>
-      <Image className="centeredImageStyle" src={img36} alt="Taulukko 36"/>
+      <Image className="centeredImage" src={img36} alt="Taulukko 36"/>
       <p>Pienemmissä asunnoissa maksettu keskimääräinen vuotuinen vuokra laskettuna kuutiometriltä oli seuraava:</p>
-      <Image className="centeredImageStyle" src={img37} alt="Taulukko 37"/>
+      <Image className="centeredImage" src={img37} alt="Taulukko 37"/>
       <p>Edellä olevan lisäksi kosketeltakoon vielä sivullisten asukasten käyttämistä. Tässä suhteessa olivat olot eri kaupungeissa seuraavat:</p>
-      <Image className="centeredImageStyle" src={img38} alt="Taulukko 38"/>
+      <Image className="centeredImage" src={img38} alt="Taulukko 38"/>
       <p>Kuten jo on huomautettu vallitsee kaupunkimme pienemmissä asunnoissa tuntuva liika-asutus. Tosin ovat olomme, niinkuin edellä olevasta vertailusta käy ilmi, paljon edullisemmat kuin maamme 
         suurkaupungeissa, mutta moitteen varaa on niissä sittenkin koko joukko. Kun nimittäin kaupungin asukkaista 29.8 % asuu siksi ahtaasti että kunkin osalle ei tule edes 15 m3 tilaa, tahi jos otamme 
         ainoastaan suurimmassa ja suuressa määrässä ahtaasti asuvat, joille tulee alle 10 m3, on niitäkin 15.8 % eli lähes kuudes osa koko kaupungin asukasmäärästä.</p>
       <p>Missä määrin ahtaasti asuville yleensä tulee keskimäärin asukasta kohti ilmaa selviää seuraavasta:</p>
-      <Image className="centeredImageStyle" src={img39} alt="Taulukko 39"/>
+      <Image className="centeredImage" src={img39} alt="Taulukko 39"/>
       <p>Keskimääräinen kuutiotila kutakin asukasta kohti kaikissa pienemmissä erisuurissa asunnoissa oli seuraava:</p>
-      <Image className="centeredImageStyle" src={img40} alt="Taulukko 40"/>
+      <Image className="centeredImage" src={img40} alt="Taulukko 40"/>
       <p>Yllä huomautettu liika-asutus kohdistuu etupäässä yksihuoneisten asuntojen asukkaisiin, joiden koko määrästä 1,207 (22.6 % kaup. koko asukasmäärästä), 41.6 % on pakoitettu asumaan siksi ahtaasti että 
         kunkin osalle ei tule edes 10 m3 tilaa; huoneen ja keittiön käsittävissä asunnoissa löytyi tällaisia asukkaita 19.4 %; 2 huonetta ja keittiön käsittävissä asunnoissa 5.8 ja muissa asunnoissa ei yhtään.</p>
       <p>Että olot aikaisemmin ovat olleet vieläkin huonommat, mutta nyt ovat paranemassa sen osoittavat yksihuoneisissa asunnoissa muutama vuosi sitte vallinneet olot. Vuonna 1901 kerättiin nimittäin 
         varsinaisessa kaupungissa ja 1904 Myllymäessä summittaisia tietoja asunto-olosuhteista ja samalla lähempiä tietoja yksihuoneisista asunnoista. Jos asetamme silloin ja nyt saadut tulokset rinnakkain, 
         näkyy selvästi että olot ovat parempaan päin kulkemassa.</p>
-      <Image className="centeredImageStyle" src={img41} alt="Taulukko 41"/>
+      <Image className="centeredImage" src={img41} alt="Taulukko 41"/>
       <p>Että tässä kysymyksessä olevat olot ovat viime aikoina parantuneet, sen osoittaa myöskin se seikka, että epäedullisempien asuntojen, s. o. yksihuoneisten asuntojen, lukumäärä varsinaisessa kaupungissa 
         on lisääntynyt sitte v. 1901 ainoastaan 7:llä, mutta huoneen ja keittiön käsittävien asuntojen lukumäärä sitävastoin 83:lla. Myllymäessä tekivät vastaavat numerot 17 ja 90.</p>
       <p className="signatureSmall">Hämeenlinnassa Tammikuussa 1909</p>

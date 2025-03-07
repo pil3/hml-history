@@ -112,7 +112,7 @@ const Puhelin1926Page = () => {
       <p>Puhelumaksut peritään neljännesvuosittain. Tilaajilla, jotka ilman hyväksyttyä syytä jättävät puhelumaksunsa suorittamatta, ei ole senjälkeen oikeutta saada puheluja maaseudulle.</p>
       <p>Kun valtion — ei kunnan — siviili- tai sotilasvirastot haluavat virkapuheluja on siitä puhelua tilattaessa ilmoitettava.</p>
 
-      <Image className="centeredImageStyle" src={imgPricing} alt="Hinnasto"/>
+      <Image className="centeredImage" src={imgPricing} alt="Hinnasto"/>
 
       <h3>YLEISIÄ MÄÄRÄYKSIÄ.</h3>
       <h4>KAUPUNKIENVÄLISILLÄ PUHELINJOHDOILLA</h4>

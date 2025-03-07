@@ -255,7 +255,7 @@ const War1914Page = () => {
       </Article>
       <Article titleText="Rauha taikka sota?">
         <p>Now. Wremja kirjoittaa sunnuntaina:</p>
-        <QuoteStart className="symbolStyle"/>
+        <QuoteStart className="symbol"/>
         <p>Rauha taikka sota? Aamulla kaikkialla puhuttiin rauhasta, senwuoksi kun sekä Serbia, jonka kurkkuun käytiin keskellä päiwää kiinni, että Wenäjä, jonka 
         rauhaa rakastawaisuudella ei ole rajoja, oliwat walmiita tekemään kaiken, jotta miekat pysyisiwät huotrissaan. Itäwalta teki itsenäisesti, kun hallitsewalle Serbialle jätti mitä 
         alentawimmat waatimukset, jollaisia ei ole koskaan tehty, ei edes wasalliwaltiollekaan, ja Serbia wastasi: me olemme walmiit alistumaan kaikkeen, olemme walmiit wastaanottamaan minkä 
@@ -270,7 +270,7 @@ const War1914Page = () => {
         tawan mukaan yhteiswoimin puolustamme oikeuttamme ja kunniaamme, me emme hae mitään, mutta emme myöskään mitään anna. Itäwallalla ja sen innostuttajilla on wielä aika tuumia eikä 
         surkutella kohtaloaan. Wielä on aika wäistää weristä oikeutta.</p>
         <p>Alottajaa wastaan on itse Jumala!</p>
-        <QuoteEnd className="symbolStyle"/>
+        <QuoteEnd className="symbol"/>
       </Article>
       <Article titleText="Sodan uhka.">
         <h5>Mielenosoituksia.</h5>
@@ -400,20 +400,20 @@ const War1914Page = () => {
           wankat poliisi- ja sotajoukko-osastot</p>
         <h5>Wenäjän hallitus antanut julistuksen.</h5>
         <p><span className="accent">Pietarista</span>, heinäk. 28 p.<br />Hallitus on tänään antanut seuraawan julistuksen:</p>
-        <QuoteStart className="symbolStyle"/>
+        <QuoteStart className="symbol"/>
         <p className="quotation">Monilukuiset isänmaalliset mielenosotukset, joita wiimeksi kuluneina päiwinä on pantu toimeen pääkaupungissa y. m. keisarikunnan osissa, osottawat, että hallituksen luja ja 
           rauhallinen politiikka on saanut osakseen wäestön laajojen piirien myötätunnon. Hallitus toiwoo kuitenkin, etteiwät nämä kansallisten tunteiden ilmaukset saa wihamielisyyden wiwahdusta 
           suurwaltoja kohtaan, joiden kanssa Wenäjä on ja aina haluaa olla rauhallisessa suhteessa. Ammentaen woimaa kansallishengen kohoamisesta ja kehottaen Wenäjän asukkaita maltillisuuteen 
-          ja rauhallisuuteen, tulee keisarillinen hallitus lujasti walwomaan Wenäjän arwoa ja etuja.<QuoteEnd className="symbolStyle"/></p>
+          ja rauhallisuuteen, tulee keisarillinen hallitus lujasti walwomaan Wenäjän arwoa ja etuja.<QuoteEnd className="symbol"/></p>
         <h5>Yleinen asema tawattoman wakawa.</h5>
         <p><span className="accent">Pietarista</span>, heinäk. 28 p.<br />Ulkoministeriöstä on tänä iltana myöhään ilmotettu pietarilaisille sanomalehtimiehille, ettei asema wielä milloinkaan ole 
           ollut niin wakawa kuin tänään.</p>
         <h5>Rauhoittawia tietoja. — Englanti pysyy puolueettomana.</h5>
         <p><span className="accent">Berlinistä</span>, heinäk. 28 p.<br />Saksan ulkoastain ministeriö on waltuuttanut ilmoittamaan seuraawaa:</p>
-        <QuoteStart className="symbolStyle"/>
+        <QuoteStart className="symbol"/>
         <p className="quotation">Saksan hallituksen Wenäjältä saamain tietojen mukaan on siellä ryhdytty toimenpiteisiin sodan waralta wain sangen pienessä määrin, ainoastaan eräissä 
           piireissä. Walmistuksiin yleistä liikekannalle panoa warten ei ole ryhdytty. Siitä päättäen näyttää Wenäjän sekaantuminen pysywän diplomaattisissa rajoissa.
-          <QuoteEnd className="symbolStyle"/></p>
+          <QuoteEnd className="symbol"/></p>
         <p>Englannin kanta on yhtä rauhoittawa. Englanti koettaa waikuttaa wälittäjänä. Mutta jos asema kehittyy äärimmilleen, tulee Englanti pysymään puolueettomana. Samaa on wakuutettu 
           täkäläisissä asioita tuntewissa englantilaisissa piireissä.</p>
         <h5>Kreikan ja Rumanian suhtautuminen selkkaukseen.</h5>

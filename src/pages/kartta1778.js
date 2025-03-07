@@ -14,7 +14,7 @@ const Kartta1778Page = () => {
   return (
     <Layout titleText="Ojoisten ja Saaristen latokartanoiden kartta">
       <div className="interTitle">1778</div>
-      <ImageModal imagePath={mapImg} imageStyle="centeredImageStyle" titleText="Keskusta-alue vuonna 1778"></ImageModal>
+      <ImageModal imagePath={mapImg} imageStyle="centeredImage" titleText="Keskusta-alue vuonna 1778"></ImageModal>
       <div className="interTitle">1778 / 2020</div>
       <ImageCompare imgBot={oldImg} imgTop={newImg} altText="Keskusta vuonna 1778 ja nykyään"></ImageCompare>
       <div className="verticalSpacer"></div>

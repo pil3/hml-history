@@ -19,7 +19,7 @@ const MatkailuopasPage = () => {
   return (
     <Layout titleText="Matkailuopas vuodelta 1915">
 
-      <Image className="centeredImageStyle" src={imgFrontPage} alt="Matkailuoppaan etusivu"/>
+      <Image className="centeredImage" src={imgFrontPage} alt="Matkailuoppaan etusivu"/>
 
       <p className="caption">H:linnan Matkailijayhdistys</p>
       <p className="caption">Hämeenlinna 1915, Arvi A. Karisto</p>
@@ -42,7 +42,7 @@ const MatkailuopasPage = () => {
         rakensivat uudelleen jonkun kaupungin yleisistä rakennuksista. Sen ajan tavan mukaan ympäröi kaupunkia korkea tulliaita, jonka pohjoispäässä pappilan alapuolella oli tulliportti, 
         minkä kautta päästiin kaupunkiin, ja jossa jokaisesta kaupunkiin tuotavasta tavarasta maksettiin tulli.</p>
 
-      <Image className="centeredImageStyle" src={img1} alt="Juutalaiskortteli"/>
+      <Image className="centeredImage" src={img1} alt="Juutalaiskortteli"/>
 
       <p>Isonvihan aikana v. 1713 ottivat venäläiset sotajoukot haltuunsa linnan ja kaupungin sekä polttivat pappilan ja suuren osan kaupunkia, jonka asujamet pelosta olivat muuutaneet 
         maaseudulle. Pidettyään kaupunkia ja linnaa hallussaan seitsemän vuotta, jättivät venäläiset sotajoukot ne takaisin Ruotsin hallitukselle v. 1720, jonka jälkeen maaseudulle paenneet 
@@ -113,7 +113,7 @@ const MatkailuopasPage = () => {
       <p>Vihollisten valta kaupungissa kesti syyskuun 15 päivään 1743, jolloin linna rauhanteon jälkeen taasen joutui takaisin Ruotsille. Kun sitten 1808 vuoden sodan aikana venäläiset sotajoukot saapuivat kaupunkiin, 
         jätettiin linna, josta sotaväki edellisinä päivinä oii lähtenyt pois vieden mukanaan suurimman osan linnassa olleista aseista, maaliskuun 8 päivänä 1808 venäläisille sotajoukoille.</p>
 
-      <Image className="centeredImageStyle" src={img2} alt="Kirkontornista pohjoiseen"/>
+      <Image className="centeredImage" src={img2} alt="Kirkontornista pohjoiseen"/>
 
       <h2> Matkailijoille huomattavaa</h2>
       <p className="initialCap"><strong>Rautatien asema</strong> kaupungin itäsyrjällä Vanajaveden itäisellä puolella, on aistikkaasti rakennettu kolmikerroksinen kivirakennus tornineen, joka aikoinaan oli Suomen ensimmäisen Helsingistä 
@@ -135,7 +135,7 @@ const MatkailuopasPage = () => {
       <p>Kreikkalaiskatoolisen seurakunnan kirkko rantatorin luoteiskulmassa, on pieni puukirkko, jonka kauppias Aleksander Bogdanoff v. 1867 lahjoitti kaupungin kreikkalais-katooliselle seurakunnalle, ja 
         Venäläinen sotilaskirkko puistikossa Saarenkadun ja Pikkukadun välissä, joka rakennettiin v. 1899.</p>
 
-      <Image className="centeredImageStyle" src={img3} alt="Raatihuone"/>
+      <Image className="centeredImage" src={img3} alt="Raatihuone"/>
 
       <p><strong>Lääninhallitus</strong> sijaitsee torin pohjoispuolella. Alkuaan oli Hämeenlääni yhdistetty yhdeksi lääniksi Uudenmaanläänin kanssa, jolloin lääninhallitus sijaitsi Helsingin kaupungissa, kunnes 
         se v. 1776 siirrettiin Hämeenlinnaan. Kun kaupunki muutettiin nykyiselle paikalleen, rakennettiin lääninhallitusta varten torin pohjoispuolelle kaksikerroksinen puurakennus, jonka keskeltä portti johti talon 
@@ -184,7 +184,7 @@ const MatkailuopasPage = () => {
         huonekalu-kokoelma sekä erittäin täydellinen kirkkoesine-kokoelma. Huoneita on 12; niistä on yksi sisustettu hämäläiseksi asuinhuoneeksi 1800 luvun alkupuolelta ja toinen kustaavilaiseksi huoneeksi. Myöskin 
         löytyy museossa erityinen „Hämeenlinnan huone”.</p>
 
-      <Image className="centeredImageStyle" src={img4} alt="Puistoravintola"/>
+      <Image className="centeredImage" src={img4} alt="Puistoravintola"/>
 
       <p><strong>Puistoja</strong> on kaupungissa: Kirkkopuisto lutherilaisen kirkon pohjois- ja eteläpuolella, Tori puisto suihkulähteineen, pergolarakennuksineen ja virvoitusjuomamyymälöineen torin i1äsyrjällä. 
         Tähtipuisto Läntisen ja Itäisen Linnankadun sekä Birger Jaarlinkadun välissä, Rantapuistot kaupungin koillis- ja itärannalla sekä Pinellan puisto sillan itäpuolella. Kilometrin matkan päässä kaupungista 
@@ -265,7 +265,7 @@ const MatkailuopasPage = () => {
       <p>Näkemistä ansaitsevat myöskin kartanon tilavat kasvihuoneet, jotka sijaitsevat rannalla ja joissa m. m. viljellään viinirypäleitä, persikoita, ananasta sekä muita etelämaalaisia hedelmiä.</p>
       <p>Karlberg on matkailijaliikkeessä epäilemättä maamme suosituimpia; lukuisat retkikunnatkin käyvät vuosittain sen nähtävyyksiä ihailemassa.</p>
 
-      <Image className="centeredImageStyle" src={img5} alt="Karlbergin kartano"/>
+      <Image className="centeredImage" src={img5} alt="Karlbergin kartano"/>
   
       <p>Karlbergia vastapäätä, laivareitin vasemmalla puolella kohoaa niemi, jonka tummasta kuusimetsästä pilkoittaa useita kaupunkilaisten huviloita.</p>
       <p>Kun on kuljettu kapeasta Kirstulan salmesta Hattulan selälle, näemme taas oikealla puolella edelleen Karlbergin alueita, sekä eversti Standertskjöldin niinikään omistamat Katajiston ja Metsänkylän kartanot; 

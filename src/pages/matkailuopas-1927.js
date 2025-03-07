@@ -34,7 +34,7 @@ const MatkailuopasPage = () => {
   return (
     <Layout titleText="Matkailuopas vuodelta 1927">
 
-      <Image className="centeredImageStyle" src={imgFrontPage} alt="Matkailuoppaan etusivu"/>
+      <Image className="centeredImage" src={imgFrontPage} alt="Matkailuoppaan etusivu"/>
 
       <p className="caption">Laatinut A. TH. BÖÖK</p>
       <p className="caption">Hämeenlinna 1927, Arvi A. Karisto osakeyhtiön kirjapaino</p>
@@ -107,7 +107,7 @@ const MatkailuopasPage = () => {
         sopimuksen mukaan.</p>
       <p>Asemalta on myös säännöllinen linja-autoliike kaupungin läpi Poltinaholle, läntiselle kasarmialueelle.</p>
 
-      <Image className="centeredImageStyle" src={img1} alt="Bussi"/>
+      <Image className="centeredImage" src={img1} alt="Bussi"/>
 
       <h2>Rautatieaseman ympäristö</h2>
       <p className="initialCap">Heti asemalta lähdettyä käy matka suurimmaksi osaksi vielä rakentamattoman, uuden kaupunginosan, Kiistalan, läpi. Tämä, niinkuin asemakin, 
@@ -139,7 +139,7 @@ const MatkailuopasPage = () => {
       <p>Sillalta alkaa kaupungin vilkasliikkeisin katu - Raatihuoneenkatu - kulkien sen läpi Viipurintiestä kaupungin länsipuolella olevaan Turuntiehen saakka, 
         joka johtaa Poltinaholle.</p>
 
-      <Image className="centeredImageStyle" src={img2} alt="Silta"/>
+      <Image className="centeredImage" src={img2} alt="Silta"/>
 
       <h2>Raatihuoneenkatu sillalta torille</h2>
       <p className="initialCap">Heti kadun päässä, sillankorvassa, on uusi, v. 1927 rakennettu Arvi A. Karisto Osakeyhtiön viisikerroksinen liiketalo, jonka piirustukset on laatinut 
@@ -166,9 +166,9 @@ const MatkailuopasPage = () => {
         talossa (Raatihuoneenkatu 9) on Hämeenlinnan Suojeluskunnan kanslia. Suojeluskunta toimii vireästi käsittäen eri komppanioita ja eri osastoja. Urheilu- ja 
         ampumaharrastus on suuri. Yhteistoiminnassa Suojeluskunnan kanssa on Lotta Svärd-yhdistys, jonka huoneisto on samassa talossa kuin Suojeluskunnan.</p>
 
-      <Image className="centeredImageStyle" src={img3} alt="Vanajaveden silta"/>
+      <Image className="centeredImage" src={img3} alt="Vanajaveden silta"/>
 
-      <Image className="centeredImageStyle" src={img4} alt="Vanajaveden sillalta etelään"/>
+      <Image className="centeredImage" src={img4} alt="Vanajaveden sillalta etelään"/>
         
       <h2>Isotori ympäristöineen</h2>
       <p className="initialCap">Sillalta alkaen Raatihuoneenkatu vähitellen kohoaa, kunnes se kirkon kohdalla saavuttaa korkeimman kohtansa. Siitä aukeaakin matkailijan silmien eteen 
@@ -203,9 +203,9 @@ const MatkailuopasPage = () => {
       <p>Torin läntisellä sivustalla on Elokuvien teatteri Panu, eteläisellä K. Lehtovaaran tukku -ja vähittäisliike, kaupungin suurin kultasepänliike 
         (Hj. Salo) sekä K. Vainikaisen leipomo ja kahvila. Torin luoteisessa kulmassa on Maanviljelijäin Kauppa OY.</p>
 
-      <Image className="centeredImageStyle" src={img5} alt="Skogster"/>
+      <Image className="centeredImage" src={img5} alt="Skogster"/>
 
-      <Image className="centeredImageStyle" src={img6} alt="Raatihuone"/>
+      <Image className="centeredImage" src={img6} alt="Raatihuone"/>
 
       <h2>Isotori - Turuntie</h2>
       <p className="initialCap">Kun jatkamme matkaamme Isolta torilta Raatihuoneenkatua pitkin länteen päin, sivuutamme joukon erilaisia liikkeitä, joista mainittakoon vanhimmat: 
@@ -232,7 +232,7 @@ const MatkailuopasPage = () => {
       <p>Kirjastopuistikon eteläreunustalla on E. Huhdan puusepän- ja verhoiluliike, länsipuolella taas Suomalainen Yhteiskoulu (johtaja Verneri Vartia), 
         kumpikin omassa talossaan.</p>
 
-      <Image className="centeredImageStyle" src={img7} alt="Yhdyspankki"/>
+      <Image className="centeredImage" src={img7} alt="Yhdyspankki"/>
 
       <h2>Turuntie</h2>
       <p className="initialCap">Turuntien rakentamatonta alkupäätä sanotaan Kuivaksi sillaksi. Sen yli mentyämme on edessämme oikealla puolella Vanha hautausmaa ja vasemmalla 
@@ -254,7 +254,7 @@ const MatkailuopasPage = () => {
         Tampereelle, ja suoraan eteenpäin: Poltinahontie, joka vie kasarmialueen läpi uudelle hautausmaalle y.m.</p>
       <p>Lähellä tätä paikkaa Myllymäen puolella on linja-auton pysähdyspaikka.</p>
 
-      <Image className="centeredImageStyle" src={img8} alt="Nahkatehdas"/>
+      <Image className="centeredImage" src={img8} alt="Nahkatehdas"/>
 
       <h2>Isosilta - Rantatori - Lahdensivu</h2>
       <p className="initialCap">Jos sillan päästä käännymme Rantakatua pitkin vasemmalle, on heti oikealla puolella kaupungin suurin, siisti ja paljon käytetty Alina Ahosen 
@@ -268,9 +268,9 @@ const MatkailuopasPage = () => {
         kolmeen pääosastoon: opettaja-, kutoja- ja vaateompeluosastoon.</p>
       <p>Saavumme niin Rantatorille.</p>
 
-      <Image className="centeredImageStyle" src={img9} alt="Yhteiskoulu"/>
+      <Image className="centeredImage" src={img9} alt="Yhteiskoulu"/>
 
-      <Image className="centeredImageStyle" src={img10} alt="Turuntie"/>
+      <Image className="centeredImage" src={img10} alt="Turuntie"/>
 
       <h2>Rantatori ja Urheilukenttä</h2>
       <p className="initialCap">Rantatorilla, joka sijaitsee Vanajaveden rannalla kaupungin eteläisessä laidassa, on Wetterhoffin työkoulua likinnä olevalla reunustalla linja-autojen 
@@ -291,9 +291,9 @@ const MatkailuopasPage = () => {
         kylää kohti ja johtaen yleiselle Helsingin maantielle Hattelmalan harjun eteläpäässä.</p>
       <p>Tämän tien varrella on edempänä kaupungin Kunnalliskoti.</p>
 
-      <Image className="centeredImageStyle" src={img11} alt="Uimalaitos"/>
+      <Image className="centeredImage" src={img11} alt="Uimalaitos"/>
 
-      <Image className="centeredImageStyle" src={img12} alt="Urheilukenttä"/>
+      <Image className="centeredImage" src={img12} alt="Urheilukenttä"/>
 
       <h2>Lyseo ja Tähtipuisto ympäristöineen</h2>
       <p className="initialCap">Kun kirkolta menemme Kirkkokatua pitkin pohjoiseenpäin, on vasemmalla puolella Kaupungin hotelli ja oikealla sitä vastapäätä Hämeenläänin Paloapuyhdistyksen 
@@ -329,9 +329,9 @@ const MatkailuopasPage = () => {
       <p>Samalla kadulla on torin ja yhteiskoulun välillä useita kaupungin vanhimpia liikkeitä, m.m. St. Häggin tapetti- ja värikauppa. Samassa talossa on 
         vapaakirkollisten rukoushuone.</p>
 
-      <Image className="centeredImageStyle" src={img13} alt="Sairaala"/>
+      <Image className="centeredImage" src={img13} alt="Sairaala"/>
 
-      <Image className="centeredImageStyle" src={img14} alt="Lehtokuja"/>
+      <Image className="centeredImage" src={img14} alt="Lehtokuja"/>
 
       <h2>Laivalaituri - Birger Jarlinkatu - Kaivokatu.</h2>
       <p className="initialCap">Laivalaiturilta kohoaa yhdensuuntaisesti Hallituskadun kanssa Birger Jarlinkatu. Se sivuuttaa Tähtipuiston ja päättyy niityille kaupungin länsipuolella.</p>
@@ -390,7 +390,7 @@ const MatkailuopasPage = () => {
       <p>Pikkulaivat välittävät säännöllistä laivakulkua kaupungin laivalaiturin ja Puiston sekä Karlbergin välillä ja myös yksityiset henkilöt kuljettavat 
         veneillä matkailijoita Puistosta vastapäätä olevaan Karlbergiin. Maksu suoritetaan sopimuksen mukaan.</p>
 
-      <Image className="centeredImageStyle" src={img15} alt="Pyövelinmäki"/>
+      <Image className="centeredImage" src={img15} alt="Pyövelinmäki"/>
 
       <h2>Poltinaho - Ampumarata - Hautausmaa - Hiihtomäki</h2>
       <p className="initialCap">Poltinahon kasarmeihin on nykyään sijoitettu Hyökkäysvaunukomppania (H. V. K., »tankit»).</p>
@@ -497,7 +497,7 @@ const MatkailuopasPage = () => {
       <p>Karlbergin ja Aulangon puistoalueet ovat hotelliliikenteestä riippumatta yleisön vapaasti käytettävissä; Aulangon torniin nousemisesta on maksu 2 mk. 
         hengeltä, mutta pääsevät lapset vanhempainsa kanssa ilmaiseen.</p>
 
-      <Image className="centeredImageStyle" src={img16} alt="Karlberg"/>
+      <Image className="centeredImage" src={img16} alt="Karlberg"/>
 
       <h2>Maantiematka Hämeenlinna - Vanaja - Karlberg - Hattula</h2>
       <p className="initialCap">Paitsi Tampereen valtamaantietä pitkin (linnan ohitse) ja Parolan kautta voi Hämeenlinnasta maanteitse päästä Hattulaan kolmattakin tietä, nimittäin 
@@ -536,7 +536,7 @@ const MatkailuopasPage = () => {
       <p>Kirkon edustalla oleva kellotapuli, jonka alaosa on harmaasta kivestä ja yläosa puusta, on rakennettu v. 1813.</p>
       <p>Kirkko on nykyään täydelleen uudistettu ja on sen vartijalta saatavissa kirkkoa selostava opas.</p>
  
-      <Image className="centeredImageStyle" src={img17} alt="Hattulan vanha kirkko"/>
+      <Image className="centeredImage" src={img17} alt="Hattulan vanha kirkko"/>
 
       <p>Hattulasta jatketaan matkaa Sääksmäelle. Sivuutamme Hattulan uuden kirkon Vanajaveden yli vievän Mierolan sillan lähettyvillä. Kuljettuamme Vermasvuoren 
         poikki liikumme aluksi metsäseuduilla, kunnes Sääksmäelle johtavalle, kapeahkolle kylätielle poikettuamme eteemme alkaa avautua näköaloja Vanajaveden 
@@ -584,7 +584,7 @@ const MatkailuopasPage = () => {
       <p>Noin 3 km:n päässä kaupungista kohoaa maantie Hattelmalan harjulle, josta J. L. Runeberg runoilee Vänrikki Stoolin tarinain runossa »Vänrikin 
         markkinamuisto»; »Hämeenlinna, ensi kerran kun sun kuutamossa näin Hattelmalan harjanteilta, tuo ei mene mielestäin!»</p>
 
-      <Image className="centeredImageStyle" src={img19} alt="Hattelmalan harju"/>
+      <Image className="centeredImage" src={img19} alt="Hattelmalan harju"/>
 
       <p>Tällä harjulla aikoi C. N. af Klercker v. 1808 pysähdyttää venäläisten sotajoukkojen etenemisen ja rakennutti sitä varten harjun länsipäähän siellä 
         vielä nähtävinä olevat vallit.</p>
@@ -594,7 +594,7 @@ const MatkailuopasPage = () => {
       <p>Hattelmalan harjulta (129,5m.) on erittäin kaunis ja laaja näköala yli kaupungin ja ympäristön. Harjanteelle on Hämeenlinnan Matkailijayhdistys tien 
         viereen rakennuttanut yksinkertaisen suojakatoksen.</p>
 
-      <Image className="centeredImageStyle" src={img18} alt="Hattelmalan harju"/>
+      <Image className="centeredImage" src={img18} alt="Hattelmalan harju"/>
 
       <p>Noin 2 km harjusta eteenpäin kääntyy ajotie valtion omistamaan Perttulan (tylsämielisten) kasvatuslaitokseen. Laitos on kauniilla, ylävällä paikalla 
         harjualueella. Päärakennuksen rakensi aikoinaan, v. 1855, kuvernööri O. Rehbinder itselleen kesäasunnoksi ja muutti sinne vakituisesti asumaan v. 1863, 
@@ -654,7 +654,7 @@ const MatkailuopasPage = () => {
         Pohja, Pappila, Toijala, Rauttu , Salo, Valkeakoski, Äimälä, Onkkaala, Luikala, Töyräniemi, Salmentaka, Sappee ja Aitoo.</p>
       <p>Pälkäneen kirkolta on kautta vuoden säännöllinen linja-autoliike Tampereelle.</p>
 
-      <Image className="centeredImageStyle" src={img20} alt="Valkeakoski"/>
+      <Image className="centeredImage" src={img20} alt="Valkeakoski"/>
 
       <h2>Tyrvännön reitti</h2>
       <p className="initialCap">Paitsi edellämainittua Luopioisten reittiä välittää »Tyrväntö» laiva liikennettä toiseenkin suuntaan, nimittäin Tyrväntöön.
