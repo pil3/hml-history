@@ -4,10 +4,12 @@ import Layout from "../components/layout"
 import Article from "../components/article"
 import DateDivider from "../components/dateDivider"
 
+import Image from "react-bootstrap/Image"
+
 import "../styles/base/global.css"
 
-import Divider from "../assets/divider.svg"
-import SubDivider from "../assets/sub-divider.svg"
+import divider from "../assets/divider.png"
+import subDivider from "../assets/sub-divider.png"
 
 
 
@@ -15,7 +17,7 @@ const Crimes1924Page = () => {
   return (
     <Layout titleText="Hämeen Sanomat, 1924">
       <h2>Oikeus- ja poliisiasioita Hämeenlinnassa ja lähiseuduilla</h2>
-      <Divider className="dividerStyle"/>
+      <Image src={divider} className="dividerStyle"/>
       <p className="centered bold" style={{margin:"8px 0"}}>Torstai, 3.1.1924</p>
       <Article titleText="Tappelu Lammilla.">
         <h5>Kolme miestä saanut haawoja.</h5>
@@ -44,18 +46,18 @@ const Crimes1924Page = () => {
 
       <DateDivider date="Tiistai, 8.1.1924"/>
       <Article titleText="Tammelan wälikäräjät.">
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Tammelan wälikäräjillä tuomittiin työm. Wihtori Ruoko Forssasta kotirauhan rikkomisesta, pahoinpitelystä ja wäkisin makaamisesta 3 wuodeksi 4 kuukaudeksi kuritushuoneeseen. Osallisena edellämainittuihin rikoksiin tuomittiin 
           työm. Toiwo Grönlund 1 wuodeksi 8 kuukaudeksi kuritushuoneeseen. Sitäpaitsi tuomittiin Ruoko maksamaan Mariana Waltoselle aiheuttamasta wahingosta, kiwusta y.m. sekä lääkärinkuluja yhteenssä 830 mk. ja kuluja 100 mk.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider}r className="dividerStyle" />
         <p>Kauppias Saarenheimon Forssasta, konkurssipesän walwojaksi määrättiin waratuomari Armas Kataja Turusta. Welkojain kuulustelu tapahtuu maaliskuun 17 pnä.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Naisten kotiteollisuusyhdistys waati kauppias Hjalmar Rinnalta satawiaan sekä hänen saattamistaan konkurssitilan. Pesän walwojaksi määrättiin waratuomari A. Leino Turusta. Welkojain kuulustelu tapahtuu t.k. 24 pnä.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Maria Michelsson tuomittiin näpistelystä 150 markan sakkoon.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Käräjillä oli wielä esillä 18 juopumus- ja kieltolakirikosjuttua.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
       </Article>
 
       <DateDivider date="Sunnuntai, 13.1.1924"/>
@@ -297,7 +299,7 @@ const Crimes1924Page = () => {
         <p>W. k. 27 p. wahwisti howioikeus sen tarkastettawaksi alistetun päätöksen jolla Jokioisten y. m. pitäjien kihlakunnanoikeus wiime tammikuun 1 pnä tuomitsi talollisenpojan Niilo Matias Koiwulan Urjalan pitäjästä kuoleman 
           aiheuttaneesta pahoinpitelystä pidettäwäksi 3 wuotta kuritushuoneessa ja maksamaan erikoisesti korwauksia. — Koiwula oli wiime joulukuun 12 pnä Jokioisten pitäjän Jänhijoen kylässä iskenyt puukolla lohkotilallisenpoikaa 
           Kalle Iiwari Jokinientä sillä seurauksella, että tämä kuoli.</p>
-          <SubDivider className="dividerStyle" />
+          <Image src={subDivider} className="dividerStyle" />
           <h4>Alkuperäinen artikkeli, 14.2.1923</h4>
           <h5>Sikojen teurastaja lyönyt puukolla miehen kuoliaaksi.</h5>
           <p>Julma werityö tehtiin keskiwiikkona illalla klo 8 tienoissa Jokioisten Latowainion kylässä. Tapahtumasta olemme saaneet seuraawia tietoja:</p>
@@ -307,21 +309,21 @@ const Crimes1924Page = () => {
             tekijä pidätettiin. Murhattu oli 26 wuotias ja jäi häneltä waimo ja yksi alaikäinen lapsi. Murhaaja on 20 wuotias.</p>
       </Article>
       <Article titleText="Kolme warkautta Riihimäellä wuorokauden kuluessa.">
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Murtowaras saanut saalikseen waatetawaraa.</h5>
         <p>Wiime perjantaina oli waras tunkeutunut Riihimäellä Pohjois-Rautatiekadun 60:ssä asuwan leskirouwa Maria Mäkelän asuntoon owen kautta, käyttäen wääriä awaimia. Warkaus oli tapahtunut klo 2-6 wälillä päiwällä, asunnon omistajan 
           ollessa kotoa poissa. Saaliikseen oli waras saanut yhden miesten 600 mk. arwoisen tumman puwun ja yhden naisen plyyshikapan, jonka arwo oli myös 600 mk. Warkauden tekijäksi epäillään erästä nuorenpuoleista miestä, jota 
           kylläkään wielä ei ole saatu pidätetyksi.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Matkustajalta warastettu päällystakki ja matkalaukku. — Waras, huomattuaan joutuwansa kiinni, hypännyt junasta Turengin ja Harwialan wälillä.</h5>
         <p>Wiime perjantaina wähän jälkeen klo 8:n, junan seisoessa Riihimäen asemalla, warastettiin eräästä toisen luokan waunusta eräältä matkustajalta, nimeltä Johan Ludwig Fagerholm, 1,800mk. arwoinen päällystakki ja matkalaukku, 
           jossa oli erilaista näytetawaraa n. 350 mk. arwosta. Junan ollessa sitten matkalla pohjoiseen päin, alkoi junailija epäillä erästä mieshenkilöä warkauden tekijäksi, minkä wuoksi hän sulki hänet waunuosastoon. Huomattuaan 
           olewansa nyt joutumassa kiinni, hyppäsi waras Turengin ja Harwialan wälillä junasta ikkunan kautta, kadoten sille tielleen.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Rahawarkaus asemalla.</h5>
         <p>Eilen klo 11 ajoissa warastettiin Riihimäen asemalla naisten huoneessa Lappeenrannasta kotoisin olewalta työmiehen waimolta Selma Luomalta nenäliinan sisään käärittyinä olleet 75 mk. Waras oli rahat siepannut, omistajan 
           laskettua ne huoneen pöydälle.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
       </Article>
 
       <DateDivider date="Keskiviikko, 5.3.1924"/>
@@ -443,7 +445,7 @@ const Crimes1924Page = () => {
           1 w. 6 kk. kuritushuoneessa. Yrjölä oli wiime jouluna juowuspäissään Kylmäkosken Hautaan kylässä Kallion talossa, saatuaan mainitun talon pojalta Lauri Johannes Kalliolta n:s kiljua päänsä täyteen, iskenyt puukolla Lauri 
           Kalliota tämän tapellessa isänsä kanssa. Seuraawana päiwänä kuoli Lauri Kallio saamastaan haawasta.</p>
         <p>Howioikeus on wahwistanut kihlakunnan oikeuden yllämainitun howioikeuteen alistetun tuomion.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Tammisaaren raastuwanoikeus oli tuominnut wiime jouluk. 10 pnä työmies Juho Kustaa Lindgrenin Tampereelta kuoleman aiheuttaneesta pahoinpitelystä 4 wuodeksi kuritushuoneneeseen. Lindgren oli Tammisaaressa sikäläisen 
           piirimielisairaalan alueella puukottanut wiime marrask. 5 pnä helsinkiläistä peltiseppää August Heleniusta, joka saamaansa haawaan kuoli.</p>
         <p>Howioikeus on nyttemmin tuominnut Lindgrenin samansuuruiseen rangaistukseen kuin raastuwanoikeuskin, joskin jossain määrin eri perustein.</p>
@@ -561,7 +563,7 @@ const Crimes1924Page = () => {
           katoamisen kanssa, mutta walaistusta asiaan ei kuitenkaan onnistuttu saada.</p>
         <p>Käännyimme eilen asiassa Hattulan nimismiehen puoleen, joka tuntomerkkien nojalla piti jotenkin warmana, että yllämainittu Wanajawedestä löydetty ruumis on Lahden.</p>
         <p>Ruumis wietiin eilen leikkuuhuoneelle. Tänään käy Lahden waimo ruumista katsomassa, joten siis asiaan saataneen jotakin walaistusta.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h4>Keskiviikko, 30.4.1924</h4>
         <h5>Tunnettu Hattulasta kotoisin olewaksi Lahdeksi.</h5>
         <p>Kuten eilen kerroimme, löydettiin toissa iltana Hämeenlinnan luota Wanajawedestä mätänemistilassa olewa miehen ruumis. Eilen käwi Hattulasta Lahden omaisia ruumista katsomassa ja tunsiwat sen joulukuussa kadonneeksi Lahdeksi 
@@ -966,7 +968,7 @@ const Crimes1924Page = () => {
         <p>Eilen illalla klo 7 ajoissa konstaapeli R. Mäen ollessa wartiossa Länt. Wiertotiellä, talon n:o 16 b. kohdalla hyökkäsi hänen kimppuunsa ent. teurastaja Kalle Nurmi, joka ollen juowuksissa löi konstaapeli Mäkeä kiwellä 
           wasempaan ohimoon, johon tuli ammottawa haawa. Konstaapeli Mäen yrittäessä pidättää häntä, hyökkäsi Nurmi uudelleen hänen kimppuunsa, koettaen lyödä, jolloin Mäki ampui ilmaan waroituslaukauksen, josta Nurmi ei kuitenkaan 
           wälittänyt, minkä tähden Mäki ampui kohti ja sattui laukaus Nurmen reiteen. Haawoittunut lääninsairaalaan, jossa sidottiin. Haawa ei liene hengenwaarallinen.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h4>Tiistai, 2.9.1924</h4>
         <h5>Eilisessä raastuwanoikeuden istunnossa</h5>
         <p>tuomittiin teurastaja Kalle Nurmi, joka oli wiime heinäk. 10 pnä pahoinpidellyt konstaapeli Mäkeä tämän ollessa wirantoimituksessa 4 kuukaudeksi wankeuteen ja juopumuksesta 100 mk. sakkoon sekä korwaamaan konst. Mäen kulut 
@@ -1386,7 +1388,7 @@ const Crimes1924Page = () => {
         <h5>syyskäräjillä</h5>
         <p>eilen tuomittiin työmies Ewert Hattin Hausjärwen Tenholasta ilmiannosta, saman pitäjän Rutajärweltä kotoisin olewa talollinen H. Maaranta pahoinpitelystä 1,000 mk. sakkoon ja suorittamaan erinäisiä korwauksia ja kuluja.</p>
         <p>Samoin tuomittiin Janakkalan Hakoisista kotoisin olewa renki Konstantin Seppälä näpistelystä ja eläimille määrätyn spriin wäärinkäyttämisestä yht. 600 mk. sakkoon.</p>
-        <SubDivider className="dividerStyle"/>
+        <Image src={subDivider} className="dividerStyle"/>
         <p><span className="bold">Humalapäissään mellasteli</span> eilistä wastaan yöllä klo 12 ajoissa Hattulassa Metsänkylän kartanossa työmiehen poika Lauri Aaltonen. Hän oli rautalapiolla rikkonut kaksi ikkunaa ja lisäksi kolmannen jollakin muulla aseella. 
           Asiasta sukeutunee oikeusjuttu.</p>
       </Article>
@@ -1703,7 +1705,7 @@ const Crimes1924Page = () => {
         <p>Toinenkin puukotus tapahtui Riihimäellä. Tapaninpäiwänä iskettiin nimittäin Hämeenkadulla erästä henkilöä käsiwarteen pienellä weitsellä. Poliisi tutkii asiaa.</p>
       </Article>
       <br />
-      <Divider className="dividerStyle"/>
+      <Image src={divider} className="dividerStyle"/>
       <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?year=1924">Linkki vuosikertaan 1924</a>
     </Layout>
   )

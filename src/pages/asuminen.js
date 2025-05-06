@@ -1,11 +1,12 @@
 import * as React from "react"
-import Image from "react-bootstrap/Image"
+
 import Layout from "../components/layout"
+
+import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
 
-import Divider from "../assets/divider.svg"
-
+import divider from "../assets/divider.png"
 import imgFrontPage from "../images/content/housing/housing-front.jpg"
 import img1 from "../images/content/housing/housing-1.jpg"
 import img2 from "../images/content/housing/housing-2.jpg"
@@ -57,7 +58,7 @@ const HousingConditionsPage = () => {
 
       <p className="caption">Manner, Viktor</p>
       <p className="caption">Hämeenlinnan Kaupunginkirjasto</p>
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
 
       <h2>Johdanto</h2>
       <p className="initialCap">Kaupunkimme terveyshoitolautakunnan päämääränä on, lukuunottamatta terveyshoidollisten olojen silmällä pitämistä ja esiintyvien 

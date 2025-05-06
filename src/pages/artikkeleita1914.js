@@ -7,10 +7,9 @@ import Image from "react-bootstrap/Image";
 
 import "../styles/base/global.css"
 
-import SubDivider from "../assets/sub-divider.svg"
-import QuoteStart from "../assets/quotation-start.svg"
-import QuoteEnd from "../assets/quotation-end.svg"
-
+import subDivider from "../assets/sub-divider.png"
+import quoteStart from "../assets/quotation-start.png"
+import quoteEnd from "../assets/quotation-end.png"
 import img1 from "../images/content/hasa1914/img-1.jpg"
 import img2 from "../images/content/hasa1914/img-2.jpg"
 
@@ -165,7 +164,7 @@ const Articles1914Page = () => {
         <p>Ehdotusta laatiessaan on komitea pitänyt silmällä, ettei siihen tulisi mitään sellaista, jonka ottaminen woisi olla esteenä järjestyssääntöjen wahwistamiselle. Samalla on koetettu 
           ehdotuksesta poistaa sellaiset määräykset, joiden on arweltu woiwan yleisön kannalta herättää epäilystä.</p>
         <p>Ehdotus on seuraawa:</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>1 §</h5>
         <p>Siweellisyyttä ja hywää järjestystä kunnan alueella walwoo, kruununpalwelijain ohella, kunnallislautakunta sekä kokonaisuudessaan että jäsentensä kautta, niinkuin woimassa olewassa 
           maalaiskuntain kunnallishallintoa koskewassa asetuksessa säädetään.</p>
@@ -223,7 +222,7 @@ const Articles1914Page = () => {
         <h5>15 §</h5>
         <p>Kunnallislautakunnan asia on kuulututtaa tämä järjestyssääntö, sittenkun se on saanut asianomaisen wahwistuksen, seurakunnan kirkossa sekä pitää se kunnan talolla julkipantuna ja painettuna 
           kuntalaisten ilmaiseksi saatawana. Painettu järjestyssääntö on myöskin paikkakunnan wiralliselle syyttäjälle annettawa.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Kun näin on monipuolisen harkinnan ja parhaiden käytettäwissä olewien asiantuntijain awulla saatu aikaan tämä selwäpiirteinen ja kansanomaisella sujuwaisuudella kirjoitettu ehdotus 
           kunnalliseksi järjestyssäännöksi, jollaista on jo kauan kaiwattu, on suotawaa, että maalaiskunnat rientäwät sitä hywäkseen käyttämään. Mikäli olemme huomanneet, onkin kysymys jo pohdittawana 
           useissa maalaiskunnissa ja toiwottawasti se ratkaistaan suotuisaan suuntaan.</p>
@@ -469,7 +468,7 @@ const Articles1914Page = () => {
           ehdotusten kannattajia olisi ollut poissa istunnosta, niin waaraan se olisi woinut joutua. Onhan kyllä totta, etteiwät kyseessä olewat ehdotukset ole likimainkaan täydelliset, paljonhan 
           niidenkin yhteydessä olisi wielä parannettawaa, niinkuin keskustelujen aikana on huomautettu, mutta sittenkin tulee niillä ainakin alustawana toimenpiteenä olemaan suuri merkitys 
           tilattoman wäestön aseman parantamiseksi.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Toinenkin tärkeä asia oli esillä samassa istunnossa. Tarkoitan <span className="accent">kieltolakikysymystä</span>. Onhan eduskunta jo useita wuosia sitten tehnyt päätöksen, jonka mukaan 
           Suomeen olisi saatawa yleinen wäkijuomien kieltolaki. Mutta asia on siitä huolimatta wielä samalla asteella, ei ole wielä saatu kieltolakia. Nyt on kysymys taas otettu esille ja näyttää 
           syntywän erimielisyyttä siitä, onko taaskin yritettäwä täydellistä kieltolakia, waiko askel askeleelta siihen pyrittäwä. Koko raitis kansa maassamme luonnollisesti toiwoo edellistä, mutta 
@@ -844,7 +843,7 @@ const Articles1914Page = () => {
         <h5>Maistraatin päätös kuwernöörin johtamasta w. k. 25 pnä pidetyssä maistraatin istunnossa.</h5>
         <p>Päätös, joka tehtiin w. k. 25 p:nä pidetyssä kuwernöörin johtamassa maistraatin istunnossa, jolloin käsiteltiin yhdenwertaisuuslain nojalla erotettujen Hämeenlinnan maistraatin 
           raatimiesten wirkojen aukijulistamista.</p>
-        <QuoteStart className="symbol"/>
+        <Image src={quoteStart} className="symbol"/>
         <p className="quotation">Koska Wenäjän Keisarikunnan Hallitsewan Senaatin Rikosasiain Departementti on päätöksellään marrask. 20 pltä ja jouluk. 3 pltä 1913 jättänyt sen Pietarin 
           Piirioikeuden huhtik. 26 p:nä ja toukok. 9 p:nä 1918 antaman päätöksen woimaan, jolla tämän Raastuwanoikeuden ja Maistraatin oikeusneuwosmies Leonard Idestam ja Kunnallisneuwosmies Werner 
           Agaton Lindberg owat tuomitut paitsi muuta eroitetuiksi hallitsemistaan edellinen sanotun Maistraatin ja Raastuwanoikeuden oikeusneuwosmiehen wirasta, julistetaan wastamainitut wirat 
@@ -854,7 +853,7 @@ const Articles1914Page = () => {
           läänin kuwernöörin kirjeen saman huhtik. 8 pltä n:o 15,380 johdosta tehtyyn päätökseen, että kun oikeusraatimies Leonard Idestam ja kunnallisrm. Werner Agaton Lindberg eiwät olleet, 
           mikäli mainittujen allekirjoittaneiden tiedossa oli, tulleet laillisen tuomion kautta eroitetuiksi puheenalaisista wiroistaan, ei maistraatti woimassaolewaan lakiin nojaamalla woi 
           julistaa wirkoja haettawaksi, koska niillä edelleenkin oli lailliset haltijat, joskin he tätä nykyä oliwat estetyt itse wirkojaan hoitamasta.</p>
-        <QuoteEnd className="symbol"/>
+        <Image src={quoteEnd} className="symbol"/>
       </Article>
 
       <div className="interTitle">30.7.1914</div>

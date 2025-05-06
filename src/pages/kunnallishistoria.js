@@ -7,11 +7,10 @@ import Image from "react-bootstrap/Image";
 
 import "../styles/base/global.css"
 
-import Divider from "../assets/divider.svg"
-import SubDivider from "../assets/sub-divider.svg"
-import QuoteStart from "../assets/quotation-start.svg"
-import QuoteEnd from "../assets/quotation-end.svg"
-
+import divider from "../assets/divider.png"
+import subDivider from "../assets/sub-divider.png"
+import quoteStart from "../assets/quotation-start.png"
+import quoteEnd from "../assets/quotation-end.png"
 import front from "../images/content/kunnallishistoria/front.jpg"
 import img1 from "../images/content/kunnallishistoria/img-1.jpg"
 import img2 from "../images/content/kunnallishistoria/img-2.jpg"
@@ -37,7 +36,7 @@ const KunnallisHistoriaPage = () => {
       <Image className="centeredImage" src={front} alt="Etusivu"/>
       <p className="caption">Hagman, Tyko</p>
       <p className="caption">Hämeenlinnan kaupunginkirjasto, 1900</p>
-      <Divider className="dividerStyle"/>
+      <Image src={divider} className="dividerStyle"/>
       
       <p className="tocHeader">Piirteitä Hämeenlinnan kaupungin historiasta.</p>
       <p className="tocHeader">I</p>
@@ -61,7 +60,7 @@ const KunnallisHistoriaPage = () => {
           olleet enimmäkseen tiilikattoisia. Kadut ja kujat tietysti tavallisia kyläteitä ilman minkäänmoista kivitystä.</p>
         <p>Kirkko sijaitsi kaupungin pohjoispäässä, kellotapuli lähellä sitä kaupungin puolella, koulu aivan lähellä linnaa.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <p className="tocHeader">II</p>
       <Article titleText="Ison Vihan hävitys. Ahtauden ahdinko.">
@@ -96,7 +95,7 @@ const KunnallisHistoriaPage = () => {
         <p>Koko muuttopuuha raukesi kuitenkin sillä kertaa tyhjiin. Kaupunkilaiset eivät näy olleen käskystä millänsäkään, vaan odottivat levollisesti asiain menoa, ja hallitus, jonka omatkin raha-asiat näihin aikoihin olivat kaikkia muuta 
           kuin kehuttavalla kannalla, ei varustuslaitoksiansa varten ryhtynytkään tuumasta toimeen.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
       
       <p className="tocHeader">III</p>
       <Article titleText="Kysymys kaupungin muutosta. Kova tulipalo v. 1739.">
@@ -137,7 +136,7 @@ const KunnallisHistoriaPage = () => {
           palon jälkeen ovat itsellensä rakentaneet.</p>
         <p>Mutta tulos on kauvas toistaiseksi sama kuin ennenkin. Sentähden näistä muuttopuuhista edempänä enemmän.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <p className="tocHeader">IV</p>
       <Article titleText="Kirkonrakennus-puuhia. Pappila.">
@@ -177,7 +176,7 @@ const KunnallisHistoriaPage = () => {
           kirkkoa ruvettiin rakentamaan.</p>
         <p>Mutta pappilastakin vielä pari sanaa tuonnempana.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <p className="tocHeader">V</p>
       <Article titleText="Koulu.">
@@ -208,7 +207,7 @@ const KunnallisHistoriaPage = () => {
           palkkansa viljassa, ja se näkyy käyneen heille edullisemmaksi. Rehtori tuli siten saamaan 22 tynnyriä 7 1/2 kappaa, kolleega 17 tynnyriä 24 8/9 kappaa ja apologisti 14 tynnyriä 26 kappaa ruista. V. 1774 määräsi Kustaa kuningas 
           että kaikkien virkamiesten palkat olisivat maksettavat rahassa, mutta maaherra de Brucen erityisestä pyynnöstä saivat Hämeenlinnan koulunopettajat edelleenkin nauttia palkkansa viljassa. He näkyvät asuneen vuokrahuoneissa.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <p className="tocHeader">VI</p>
       <Article titleText="Tullihuone ja tulli-aita. Tiet ja silta.">
@@ -255,7 +254,7 @@ const KunnallisHistoriaPage = () => {
           yli kukaan ilman hengenvaaratta voi kulkea</span>. Tähän anomukseen ei kuitenkaan suostuttu, ja kohta sen jälkeen näkyykin silta tulleen perinpohjaisesti korjatuksi. Sitä käytettiin, sanovat länteemme, vielä senkin jälkeen, kun 
           kaupunki oli muutettu nykyiselle paikallensa.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <p className="tocHeader">VII</p>
       <Article titleText="Kauppaliike. Viinan-poltto ja oluenpano. Käsiteollisuus.">
@@ -318,7 +317,7 @@ const KunnallisHistoriaPage = () => {
           tehdaslaitoksia ei kaupungissa löydy; tähän aikaan on kuitenkin aikomus kaupunkiin perustaa liinatehdas (linnefabrique). Tupakan, juuri- ja puuhedelmien sekä humalan, pellavan ja hampun viljelemistä ei porvaristo voi paljonkaan 
           harjoittaa sentähden, että kaupungilla on niin perin vähän tilaa; kalastus on niin vähäpätöinen, että siitä tuskin kannatta mainita.</span></p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <p className="tocHeader">VIII</p>
       <Article titleText="Pikku Viha. Uusia kirkonkorjauksia.">
@@ -353,7 +352,7 @@ const KunnallisHistoriaPage = () => {
         <p>Ylen köyhiä muuten olivat kaupungin porvarit siihenkin aikaan. Sitä todistaa muun muassa se seikka, että he eivät kyenneet palkkaamaan edusmiestä 1742 vuoden valtiopäiville, vaan täytyi hallituksen suorittaa tämän saatavat. V. 
           1747 kohtasi pientä kujakauppalaamme myöskin vanha onnettomuus uuden tulipalon muodossa, joka hävitti jonkun osan köyhempien porvarien kurjia, turvekattoisia tupia.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <p className="tocHeader">IX</p>
       <Article titleText="Elämän-tavat.">
@@ -405,7 +404,7 @@ const KunnallisHistoriaPage = () => {
           pitkällisen horrostilan perästä saattoivat he tämän osanoton suojassa turvallisemmin ruveta rakentamaan uutta Hämeenlinnaa, uusilla ja paremmilla elämän-ehdoilla kuin ennen.</p>
         <p>Mutta nämät myöhemmät muuttopuuhat ansaitsevat tässä vielä eri lukunsa.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <p className="tocHeader">X</p>
       <Article titleText="Uusia muuttopuuhia.">
@@ -465,7 +464,7 @@ const KunnallisHistoriaPage = () => {
         <p>Mutta vuosiluku 1775 muodostuu viimein käännekohdaksi Hämeenlinnan kaupungin historiassa. Silloin käypi näet pienessä kujalassamme Vanajaveden rannalla Pohjoismaiden nerokuningas, nuori Kustaa III.</p>
         <p>Muutama sana siis erikseen vielä tästä merkkitapauksesta, sen suuresta vaikutuksesta kaupungin vaiheisiin ja muista siihen yhtyvistä asioista.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <p className="tocHeader">XI</p>
       <Article titleText="Kustaa III käy Hämeenlinnassa. Päätös kaupungin muutosta.">
@@ -519,7 +518,7 @@ const KunnallisHistoriaPage = () => {
         <p className="info">Suullinen taru, jonka täällä olemme kuulleet, kertoo että Kustaa kuningas, matkustaessaan pois Hämeenlinnasta ja hetkeksi seisattuessaan Hattelmalan harjulle ottaakseen pienen aamuryypyn, oli 
           katsellut taakseen ja silloin osoittanut Niementaustan metsäistä mäkeä lausuen, että siinähän olikin paras ja kauniin paikka uudelle kaupungille.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <p className="tocHeader">XII</p>
       <Article titleText="Muuttaminen tapahtuu. Jätteet vanhasta kaupungista.">
@@ -563,23 +562,23 @@ const KunnallisHistoriaPage = () => {
           ympäristöineen. Lyhyt kertomus ja selitys tästä kartasta, johon tässä viittaamme, on liitettynä kopioon. Siitä saa lukija kenties paraimman käsityksen 
           uudesta kaupungista sen ensi aikoina.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <p className="tocHeader">XIII</p>
       <Article titleText="Asukastilastoa 1700-luvun loppupuoliskolta.">
         <p className="caption">Väkiluku Hämeenlinnan kaupungissa vv. 1749 - 1800.</p>
         <Image className="centeredImage" style={{marginTop: "4px"}} src={img1} alt="Väkiluvun kehitys"/>
-        <SubDivider className="dividerStyle"/>
+        <Image src={subDivider} className="dividerStyle"/>
         <p className="caption">Syntyneet.</p>
         <Image className="centeredImage" style={{marginTop: "4px"}}  src={img2} alt="Syntyneet"/>
-        <SubDivider className="dividerStyle"/>
+        <Image src={subDivider} className="dividerStyle"/>
         <p className="caption">Kuolleet.</p>
         <Image className="centeredImage" style={{marginTop: "4px"}}  src={img3} alt="Kuolleet"/>
-        <SubDivider className="dividerStyle"/>
+        <Image src={subDivider} className="dividerStyle"/>
         <p className="caption">Hämeenlinnan kaupungin käsityöläiset jaettuina ammattinsa mukaan sekä kauppiaat.</p>
         <Image className="centeredImage" style={{marginTop: "4px"}}  src={img4} alt="Ammatit"/>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <p className="tocHeader">XIV</p>
       <Article titleText="„Hattelmalan harjanteilla” v. 1808 Kauppa- ja käsiteollisuustilastoa samalta vuodelta.">
@@ -622,7 +621,7 @@ const KunnallisHistoriaPage = () => {
           toisen venäläisen mahti- ja valtiomiehen, ulko-asiain ministeri Rumanzovin, lähettämästä <span className="quote">Julistuksesta</span> teemme tähän seuraavan otteen:</p>
           <Image className="centeredImage" src={img5} alt="Julistus"/>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <p className="tocHeader">XV</p>
       <Article titleText="Tulipalo 1831. Asukastilastoa samalta vuodelta. Otto Reinhold Rehbinder. „Birger Jaarlin linna”">
@@ -749,7 +748,7 @@ const KunnallisHistoriaPage = () => {
         <p className="caption">Maamiehen kun ma kuulin sitte siellä<br />Kulkeissaan työhön riemull' laulavan,<br />Yömatkan päästä matkamiehen vielä<br />Kun tervesnä näin tietään kulkevan,<br />Niin vielä muistin, pait sen 
           muinaisuuden,<br />Sen suojass' olevan maan rauhaisuuden.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <p className="tocHeader">Kertomus Hämeenlinnan kaupungin kunnallis-taloudellisista oloista.</p>
       <Article titleText="Kaupungin asema, rakennusalue ja ympäristö.">
@@ -784,7 +783,7 @@ const KunnallisHistoriaPage = () => {
         <p>Paikkakunnan kauneuteen vaikuttavat etupäässä vanha mahtava linna torneineen, valleilleen ja suurenmoinen luonto kaupungin ympärillä järvineen, harjuineen, kukkuloineen. Aulangon ihanat järvimaisemat ja Karlbergin puutarhat 
           huviloineen ja monine taidetöineen ovat maan kuuluja.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kaupungista johtavat tiet ja tienteko-velvollisuus.">
         <br />
@@ -801,7 +800,7 @@ const KunnallisHistoriaPage = () => {
           Hämeen läänin maalaiskansa vieläkin maksamalla kapan jyviä talon-numerolta. Rahaston suuruus viime tilivuoden lopulla oli 157,020 m. 84 p. Sitä hoitaa lääninhallitus. V. 1878 rakennettiin silta, jonka kunnossa-pitämiseen 
           kaupunki ei ollenkaan ota osaa, kokonaan uudestaan. Samaan aikaan tehtiin viertoteiksi mainitut itäiset ja läntiset tiet.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kaupungin tilukset kotipalstalla.">
         <br />
@@ -821,7 +820,7 @@ const KunnallisHistoriaPage = () => {
         <Image className="centeredImage" src={img8} alt="Maa-alat"/>
         <p>Yleisenä kivenottopaikkana on Myllymäen kallion reuna, N. s. Hevosha'an reuna on luovutettu ampumaradaksi Hämeen läänin metsästysseuralle.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kaupungin tilukset Sairionmaalla.">
         <br />
@@ -829,7 +828,7 @@ const KunnallisHistoriaPage = () => {
         <Image className="centeredImage" src={img9} alt="Maa-alat"/>
         <p>Tästä alasta on Venäjän valtio lunastanut ruutimakasiiniansa y. m. tarpeitaan varten 80,350 hehtaaria viljelemätöntä maata. Pienempiä mäkipalstoja on luovutettu talontonteiksi, kuten Toivolan huvila.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Viljelysmaiden vuokraehtoja.">
         <br />
@@ -837,7 +836,7 @@ const KunnallisHistoriaPage = () => {
         <p>Valtuusmiesten huhtik. 24 p. 1896 tekemän päätöksen mukaan vuokrataan kaikki viljelysmaat sillä välipuheella, että vuokraajalla, jos hän viljelee lohkonsa kunnollisesti ja suorittaa vuokramaksunsa säännöllisesti, on oikeus 
           vuokra-ajan loputtua saada lohkonsa uudestaan vuokrattavakseen suorittamalla vuosittain lisämaksuksi 10 prosenttia edellisestä vuokrasummasta.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kaupungin metsät.">
         <br />
@@ -885,7 +884,7 @@ const KunnallisHistoriaPage = () => {
           metsäpalstan arvo olisi siis, viljelysmaita lukuun-ottamatta:</p>
         <Image className="centeredImage" src={img12} alt="Kaadettavan metsän arvo"/>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kaupungin koko ulkopalsta Rengossa">
         <br />
@@ -896,7 +895,7 @@ const KunnallisHistoriaPage = () => {
           ja ilman viljelyksittä, kasvaa ainoastaan metsää. Siitä on polttopuita hakattu kaupungin tarpeiksi ja kauniimmat männyt jätetty siemenpuiksi. Sammon torppari on saanut ottaa puutarpeensa kuivista puista rämeillä, 
           tuulenkaatamista ja sellaisista. Paitse metsää on Rengonvahan alueella vain rämeitä ja kivikkoja.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kunnan tulot kaupungin metsistä.">
         <br />
@@ -905,7 +904,7 @@ const KunnallisHistoriaPage = () => {
           raatihuonetta varten 81 syltä koivuhalkoja = 1,134 m., ja 24 syltä mäntypuita = 276 m. Yhteensä siis polttopuita kaupungin yleisiin laitoksiin 2,007 markan arvosta.</p>
         <p>Täten tuottaa kaupungin metsä tätä nykyä vuosittain kaupungille noin 5,000 markkaa.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kaupungin torpat Rengon kappelissa.">
         <br />
@@ -929,7 +928,7 @@ const KunnallisHistoriaPage = () => {
         <p>½ Sotkan torpasta (1786 vuoden kartassa yhdessä toisen Sotkan kanssa). Haltia Heikki Heikinpoika (huonekunta: 4 aikaihmistä ja 4 lasta) elättää 3 hevosta, 6 lypsylehmää, 4 hiehoa, 12 lammasta, 3 sikaa. Kylvö: 3 tynn. rukiita, 
           ½ tynn. ohria, 3 tynn. kauroja, 5 tynn. perunoita, 5 kapp. papuja, 10 kapp. pellavia, Peltomaata 5,173 heht. Niittyjä: 14,518 heht. Vuokra 162 m. (edell. v. 84 m.)</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Sammon torppa.">
         <br />
@@ -937,7 +936,7 @@ const KunnallisHistoriaPage = () => {
           (huonekunta: 5 aika-ihmistä ja 5 lasta) elättää: 2 hevosta, 6 lypsylehmää, 2 hiehoa, 10 lammasta, 2 sikaa. Kylvö: 3 tynn. rukiita, ½ tynn. ohria, 6 tynn. kauroja, 5 tynn. perunoita, 5 kapp. papuja, 4 kapp. pellavia, Vuokra 264 
           markkaa. Vuokraaika nykyään: 1879-1905.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Rengon torppien vuokra-ehdot.">
         <br />
@@ -952,7 +951,7 @@ const KunnallisHistoriaPage = () => {
         <p><span className="bold">5:o.</span> Jos vuokramies osoittaa huolimattomuutta tai velttoutta, taikka yhdessä tai toisessa kohdin rikkoisi edellä olevat määräykset, ei hoitaisi torppaa hyvin eikä pitäisi sitä hyvässä kunnossa, niin on hän torpasta heti 
           paikalla, laissa määrättyä muutto-aikaa nauttimatta, eroitettava, vaikka hän olisikin vuokransa jo siltä vuodelta suorittanut.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Metsänhoitosäännöt kaupungin kaikille torppareille.">
         <p className="info centered">(Rahatoimikamarin julkaisusta maalisk. 21 p:ltä 1899).</p>
@@ -969,7 +968,7 @@ const KunnallisHistoriaPage = () => {
         <p><span className="bold">l0:si.</span> Torpparien tulee ehdottomasti noudattaa niitä metsänhakkuuta koskevia määräyksiä, joita kaupungin metsänvartija heille antaa.</p>
         <p><span className="bold">ll:si.</span> Joka rikkoo näitä sääntöjä ja metsänvartian antamia määräyksiä vastaan, hän rangaistaan rikoksen laadun mukaan joko laissa määrätyillä sakoilla ja vahingon korvaamisella tahi häätämisellä.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kaupungin tuloa tuottavat oikeudet.">
         <p>Vuokra viljelysmaista, torpista, arentitonteista yhteensä: 15,512: 97</p>
@@ -983,14 +982,14 @@ const KunnallisHistoriaPage = () => {
         <p className="info">2: Liikennemaksut kantaa tullinhoitaja ja nauttii siitä palkkiota vuosittain 300 markkaa.</p>
         <p className="info">3: Laidunmaan käyttämisestä suoritetaan joka lehmältä 3 markan ja samoin joka hevoselta 3 markan vuotuinen maksu.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kunnan rahastoja ja laitoksia.">
         <p className="signature">Vaivaistalo- ja vaivaishoito. Stichceuksen vaivais- ja työhuone-rahasto.</p>
         <br />
         <p className="initialCap">Se lahjoituskirja toukok. 20 p:ltä 1834, jolla silloinen maaherra Joh. Fr. Stichaeus perusti tämän nyttemmin suuren rahaston, on osoitettu kirkkoherra Math. Churbergille ja kuuluu suomennettuna 
           näin:</p>
-        <QuoteStart className="symbol"/>
+        <Image src={quoteStart} className="symbol"/>
         <p>Ruvetessani täkäläisen lääninhallituksen hoitajaksi, olen minä huomannut että Hämeenlinnan kaupungissa on ollut ja vieläkin on enemmän kerjäläisiä kuin kaupungin itsessään vähäpätöinen väkiluku saisi 
           sallia. Olen ensi aluksi arvellut tämän seikan johtuvan osaksi v. 1831 kaupunkia kohdanneesta tulipalosta, joka saattoi paljon ihmisiä kodittomiksi, elinkeinottomiksi ja leivättömiksi, osaksi siitä paljoudesta köyhiä 
           pohjolaisia, jotka ovat tänne tulleet etsiäkseen työnansiota ja joiden vaimot ja lapset myöskin ovat tehneet kerjäämisen elinkeinokseen; mutta sittemmin olen havainnut, että tähän kerjäämiseen melkoisessa määrässä myöskin on 
@@ -1008,7 +1007,7 @@ const KunnallisHistoriaPage = () => {
         <p className="centered">Kunnianarvoisan ja korkeasti-oppineen herra kirkkoherran nöyrimpänä palvelijana</p>
         <p className="centered">H:linnassa toukok. 20 p. 1834.</p>
         <p className="signature">Joh. Fr. Stichaeus.</p>
-        <QuoteEnd className="symbol"/>
+        <Image src={quoteEnd}className="symbol"/>
         <p>Tämän lahjoituksen nojassa järjestettiin ja pantiin toimeen vaivais- ja työhuonelaitos v. 1836. Mutta jo 1837 vuoden alussa, tammik. 8 p:nä päätettiin kirkonkokouksessa että ne harvat vaivaiset, joita vaivais- ja työhuoneessa 
           ylläpidettiin, olisivat maaliskuun 1 p:stä samana vuonna annettavat elätettäviksi vähimmän vaativalle. Tämä siitä syystä, että <span className="quote">kaupungin maksuvelvolliset asukkaat olivat saaneet kärsiä kalliita 
           kustannuksia viime vuonna köyhien ylläpitämisestä, kun vaivaisia oli elätetty maaherra Stichseuksen lahjoittamassa vaivaistalossa, varsinkin koska tähän oli tarvittu sänky vaatteet ja muuta pysyvää kalustoa</span>. — Kuitenkin 
@@ -1333,7 +1332,7 @@ const KunnallisHistoriaPage = () => {
         <p>Walheimin rahastoa, josta tässä mainitsemme yhteen jaksoon, vaikk'ei kaupunki olekkaan missään suoranaisessa tekemisessä sen kanssa, hoitaa v. lääninsihteeri R. L. Wigren.</p>
         <br />
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kaupungin virkamiesten ja palvelijain palkat.">
         <br />
@@ -1353,7 +1352,7 @@ const KunnallisHistoriaPage = () => {
         <p>Muistutuksena tähän palkkaussääntöön lisätään: Maistraatin jäsenet ovat velvolliset, ilman muuta korvausta kuin mitä asiakirjain lunastuksena lähtee, toimittamaan pesänkirjoituksia ja perinnönjakoja sekä semmoisissa 
           kuolinpesissä, jotka voimassa-olevain asetusten mukaan ovat velvolliset niissä käyttämään maistraatin henkilöitä, että pyynnöstä semmoisissakin kuolinpesissä, jotka ovat vapautetut senkaltaisesta velvollisuusuudesta, 
           jota vastoin pesänkirjoitus- ja perinnönjako-prosentit, niinkauan kuin niitä kannetaan, tulevat kaupungin kassalle.</p>
-        <SubDivider className="dividerStyle"/>
+        <Image src={subDivider} className="dividerStyle"/>
         <p>Sittemmin on tässä palkkaussäännössä tapahtunut muutamia muutoksia, niinkuin alla-olevasta luettelosta lähemmin nähdään. Oikeusraatimiehen- ja notaarion-virat on yhdistetty, mutta kaupunginviskaalin- ja kaupunginvoudin-
           virat ei. Täten nauttivat kaupungin virkamiehet ja palvelijat nykyjään palkkaa:</p>
         <p><span className="bold">Pormestari</span> palkkaa 7,000, korvausta huutokauppaprosentin lakkauttamisesta 400, yht 7,400:-</p>
@@ -1381,7 +1380,7 @@ const KunnallisHistoriaPage = () => {
         <p><span className="bold">Rankkuri</span>: 100:-</p>
         <p>Yht. palkkoja ja palkkioita 37,070:-</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kaupungin valtuuskunta.">
         <br />
@@ -1427,7 +1426,7 @@ const KunnallisHistoriaPage = () => {
         <p>1875—82 maisteri A. W. Lindgren, 1883-huhtikuuhun 1884 varatuomari A. W. Becker, huhtikuusta 1884—87 ruununvouti A. Grönros, 1888—kesäkuuhun 1897 vankilankirjuri 0. Öhman, kesäkuusta 1897 kaupunginviskaali O. Fr. Wenäläinen.</p>
         <p>Kaupungin väkiluvussa ei ole mitään niin melkoisia muutoksia tapahtunut, että olisi syntynyt aihetta valtuusmiesten lukumäärää muuttamaan, vaan on tämä yhä vieläkin sama kuin ensi vuonna eli 21.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kaupungin rahatoimikamari.">
         <br />
@@ -1449,7 +1448,7 @@ const KunnallisHistoriaPage = () => {
         <p>1897 vankilanterehtööri P. A. Brofeldt,</p>
         <p>1899 lääninkamreeri G. W. Liukkonen.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kaupungin valtuusmiehet.">
         <h5>v. 1898:</h5>
@@ -1474,7 +1473,7 @@ const KunnallisHistoriaPage = () => {
         <p>Skogster, F., kauppias.</p>
         <p>Strömberg, J., kauppias.</p>
         <p>Wallenius, S., nahkuri.</p>
-        <SubDivider className="dividerStyle"/>
+        <Image src={subDivider} className="dividerStyle"/>
         <h5>v. 1900:</h5>
         <p>Ahlgren, J., nahkuri.</p>
         <p>Alopaeus, A., kirjakauppias.</p>
@@ -1498,7 +1497,7 @@ const KunnallisHistoriaPage = () => {
         <p>Tötterman, L. J., ruununvouti.</p>
         <p>Wallenius, S., nahkuri.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <p className="tocHeader">Tietoja Hämeenlinnan kaupungin yhteiselämän eri aloilta.</p>
 
@@ -1522,7 +1521,7 @@ const KunnallisHistoriaPage = () => {
         <Image className="centeredImage" src={img15} alt="Etusivu"/>
         <p>Väkiluku maaseurakunnassa oli 1900 vuoden alussa 1,523 henkeä. Kaupunki- ja maaseurakunnassa yhteensä siis samaan aikaan 6,759, Vanajan kanssa yhteensä 9,578.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kouluja.">
         <br />
@@ -1599,7 +1598,7 @@ const KunnallisHistoriaPage = () => {
         <p>ylläpitää neiti Hanna Schrey vuodesta 1887 alkaen vuokrahuoneessa ilman minkäänlaista kannatusta kunnalta tai valtiolta. Lastentarhan tarkoitus on pientenlasten toimiskeluhalun tyydyttäminen leikin ja työn luonnonmukaisella 
           vaihtelulla. Laitoksessa on ollut kaikkiaan 83 lasta, viime syyslukukaudella 9. Lasten vanhemmat maksavat 10 markkaa lukukaudelta.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Hämeenlinnan rouvasväen-seura.">
         <br />
@@ -1698,7 +1697,7 @@ const KunnallisHistoriaPage = () => {
         <p>Kuten yllä-olevasta nähdään, on seura 43-vuotisen vaikutuksensa aikana saanut vastaan-ottaa paljon lahjoituksia, mutta tunnustettava on myöskin että se tunnollisesti on niitä käyttänyt määrättyihin tarkoituksiin eikä liioin 
           voimiansa, aikaansa tai vaivojansa säästänyt suorittaakseen hiljaista työtään yleiseksi hyväksi.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Käsityöläis- ja tehdastelija-yhdistys.">
         <br />
@@ -1716,14 +1715,14 @@ const KunnallisHistoriaPage = () => {
         <p>Aleksanteri II:n stipendirahastosta lähtevää osuutta on käytetty työnantajien käyntiä varten ulkomaisissa näyttelyissä. Niinpä v. 1897 kävi Tukholman näyttelyssä apuvaroilla tästä rahastosta 5 työnantajaa. — Stipendeillä 
           yhdistyksen omista varoista kävi samassa näyttelyssä myöskin 5 työmiestä. Yhdistyksessä on nykyjään 68 jäsentä.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Hämeenlinnan kauppiasyhdistys.">
         <br />
         <p className="initialCap">Lukee alkunsa vuodesta 1881 ja on olemassa asetuksen säätämänä laitoksena, johon osallistuu jokainen palkattujen kauppapalvelijain avulla liikettä harjoittava kauppias. Jäsenmaksu on 6 markkaa 
           vuodelta. Puheenjohtaja: pankintirehtööri A. Bogdanoff. Jäseniä tätä nykyä noin 40. Yhdistyksen varat tämän tilivuoden alussa: 2,016 m. 36 p.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Hämeenlinnan Työväenyhdistys.">
         <br />
@@ -1736,7 +1735,7 @@ const KunnallisHistoriaPage = () => {
         <p>Sitä paitse on johtokunnan huostassa pienempi rahasto <span className="quote">kesäsiirtola-rahaston</span> nimellä. Siihen on saatu säästöpankin johtokunnalta kerta lahjaksi 500 mk. ja kerta 1,000 mk., joten kahtena viime 
         kuluneena kesänä on voitu panna toimeen kesäsiirtola työnaisille.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Hämeenlinnan Eläinsuojelusseura.">
         <br />
@@ -1752,7 +1751,7 @@ const KunnallisHistoriaPage = () => {
         <p>Seuran vuosikokous pidetään maaliskuun kuluessa. Jäsenien luku v. 1899 on 253, joista kaupungissa 143 (89 m. ja 54 n.) ja maalla 110 (78 m. ja 32 n.). Seuran tulot vuonna 1898 olivat 1,451: 05 ja menot 1,192: 09, joten 
           säästö seuraavaan vuoteen oli 258: 90.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Hämeenlinnan Raittiusseura.">
         <br />
@@ -1769,7 +1768,7 @@ const KunnallisHistoriaPage = () => {
           Varattomat eivät maksa mitään.</p>
         <p>Raittiusseuralla on Raastuvankadun varrella oma talo, jonka se kuitenkin on vuokrannut pois yksityisille. Talon arvo 19,000 mk.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Hämeenlinnan Nuorisoseuran">
         <br />
@@ -1786,7 +1785,7 @@ const KunnallisHistoriaPage = () => {
         <p>Seura on vastakkoin perustanut oman lukutuvan, jossa on sanomalehtiä ja uudempaa kirjallisuutta.</p>
 
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Hämeenläänin Metsästysseura.">
         <br />
@@ -1803,7 +1802,7 @@ const KunnallisHistoriaPage = () => {
         <p>Jäsenmaksun suorittavat jäsenet joko kerrassaan 40 mk. tahi vuosittain 4 mk., jota paitsi metsästysmaita varten voidaan jäseniltä vuosittain taksoittamalla kantaa korkeintain 20 markan lisämaksu. Jäsenten luku v. 1899 on 
           33. Seuran tulot v. 1898 olivat 498: 85 ja menot 196: 58, joten säästö seuraavaan vuoteen oli Smk. 302: 27.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Hämeenläänin Hevosystäväin yhdistys,">
         <br />
@@ -1812,7 +1811,7 @@ const KunnallisHistoriaPage = () => {
           valtion kilpa-ajoista. Varoja viime tilivuoden lopussa Sm. 1,019: 90. Vakinaisia jäseniä nykyään 25, vuosijäseniä 61. Yhdistyksen puheenjohtaja: maanviljelijä J. R. Vuolijoki (Hauholla), varapuheenjohtaja ja sihteeri kauppias 
           W. C. Wilhelmsson.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Hämeenlinnan Säästöpankki (Sparbanken i Tavastehus)">
         <br />
@@ -1830,7 +1829,7 @@ const KunnallisHistoriaPage = () => {
           olisi luopunut saatavistaan koroista ja sitoutunut olemaan vastaiseksi vaatimatta pois talletuksiaan. Kamreeriksi valittiin tällöin varalääninkamreeri Aug. Rydman, joka pysyi siinä toimessaan vuoteen 1876 saakka, jolloin 
           kamreeriksi tuli lääninkirjuri L. Peterson. Vuodesta 1880 on pankin kamreerinvirkaa hoitanut varalääninsihteeri F. W. Schrey.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kaupungin Yksityinen apu- ja eläkerahasto.">
         <br />
@@ -1866,7 +1865,7 @@ const KunnallisHistoriaPage = () => {
         <p>Laitosta koskevien kysymyksien ja asiain päättämisessä on jokainen osakas, huolimatta hänen kassaan tekemiensä maksujen määrästä, oikeutettu itse tai valtuutetun osakkaan kautta ottamaan päätöksiin osaa ainoastaan 
           yksinkertaisen äänilaskun mukaan.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Hämeenlinnan vapaaehtoinen palokunta.">
         <br />
@@ -1929,7 +1928,7 @@ const KunnallisHistoriaPage = () => {
           Idestam, kunniajäsenenä kauppias J. J. Jägerroos.</p>
         <p>Vap. palokunnan jäsenluku on nykyään 219.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Telefooni.">
         <br />
@@ -1942,7 +1941,7 @@ const KunnallisHistoriaPage = () => {
         <Image className="centeredImage" src={img16} alt="Puheluhinnat"/>
         <p>Puheluaika on neljä minuuttia. Kiireiset puhelut maksavat kaksinkertaisesti ja toimitetaan etuoikeudella.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kauppa ja teollisuus, laivakulku ja rautatieliike.">
         <br />
@@ -1990,7 +1989,7 @@ const KunnallisHistoriaPage = () => {
           tänne 2:11a hinaajahöyryaluksella ja yksinään suorittavat liikennemaksua asemalla läpimitaten 10 à 12 tuhatta markkaa kuukaudessa; Pohjan höyrysaha Sääksmäellä, Elis Valdensin tehtaat Pälkäneellä ja Pätiälän & Lemmittylän 
           tehdaslaitokset Luopioisissa, jotka tuovat kauttakulku-tavaraa (enimmäkseen puutavaraa) tänne kukin hinaajahöyryllänsä ja lähettävät rautateitse kukin keskimäärin 200 tavaravaunua kesässä.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Pankkeja.">
         <p><span className="quotation">Suomen Yhdyspankin</span> haarakonttori perustettiin Hämeenlinnaan heinäkuun 1 p. 1862. Sen toimeenpanevina johtajina ovat olleet: apteekari F. 0. Winter 1 p:stä heinäkuuta 1862, rehtori 
@@ -1999,7 +1998,7 @@ const KunnallisHistoriaPage = () => {
           p:stä elok. 1893.</p>
         <p><span className="quotation">Kansallis-Osake-Pankki</span> avasi konttorinsa 4 p. huhtikuuta 1891. Johtaja: A. Bogdanoff.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Apteekit.">
         <br />
@@ -2022,7 +2021,7 @@ const KunnallisHistoriaPage = () => {
           O. F. Vinter, joka avasi liikkeensä v. 1850 ja möi sen 1861 G. A. Örnström'ille. Tämä puolestaan taasen möi oikeutensa 1865 G. J. Åkermanille. Häneltä osti apteekin v. 1886 A. G. F. Cumlander, joka kuoli 1889. V. 1891 sai 
           oikeudet F. K. Schauman.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kirjapainoja ja sanomalehtiä.">
         <br />
@@ -2032,14 +2031,14 @@ const KunnallisHistoriaPage = () => {
           lehtori K. Blomstedt, filos, maisterit Y. K. Yrjö-Koskinen, Uno von Schrove, A. E. Favén ja E. W. Palander, opettaja O. A. E. Lönnbohm, filos, maist. Severi Nyman, arkkitehti H. R. Helin, ylioppilaat Jukka Asp, E. Forsgren 
           ja Väinö Andelin.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Kirja- ja paperikauppoja.">
         <p><span className="bold">A. Alopaeuksen kirjakauppa</span> v:lta 1888, kustannuskirjakauppa. Edelliset omistajat: Gr. Carberg (v:sta 1886), A. W. Grönholm. Lund'in perilliset.</p>
         <p><span className="bold">Armas Jantusen paperikauppa</span> v:lta 1897.</p>
         <p><span className="bold">E. Johanssonin kirjakauppa</span>, perust, v. 1899.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Teollisuuslaitoksia.">
         <p><span className="bold">Hämeenlinnan verkatehdas</span> perustettiin v. 1895, sijaitsee kaupungin kaakkoisrajalla, osakeyhtiön omana. On paikkakunnan suuremmoisin tehdaslaitos. Valmistaa hienompia ja halvempia kankaita kammatuista langoista, cheviottia, 
@@ -2054,7 +2053,7 @@ const KunnallisHistoriaPage = () => {
         <p><span className="bold">Oluttehtaita:</span> Hugo Bastmanin v:lta 1856, C. O. Saxelinin v:lta 1875 ja J. F. Schmausserin v:lta 1850.</p>
         <p><span className="bold">Hämeenlinnan höyrysaha</span> v:lta 1873 salmen toisella puolen, vastapäätä linnaa, Hätilän kylässä Hämeenlinnan maaseurakunnassa. Omistaja: Aug. Eklöf.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Hämeenlinnan kaupungin Väkijuomain Vähittäismyynti- ja Anniskelu-osakeyhtiö.">
         <br />
@@ -2062,14 +2061,14 @@ const KunnallisHistoriaPage = () => {
           kaupungille seuraavat määrät:</p>
         <Image className="centeredImage" src={img17} alt="Viinanmyyntivoitot"/>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <Article titleText="Hämeenlinnan kaupungin viinien ja muiden miedompain väkijuomain kauppa-osakeyhtiö.">
         <br />
         <p className="initialCap">On perustettu 1 p:nä kesäk. 1896. Pääoma on 20,000 markkaa, jaettu 200 osakkeesen à 100 markkaa, jotka juoksevat 6 % korolla. Kunakin vuotena on yhtiö suorittanut edellisen vuoden puhtaan voiton, 
           säännöissä olevan määräyksen mukaan, kaupungin rahatoimikamarille. Vuoden 1896 voitto oli Sm. 1,441: 87, 1897 Sm. 1,458: 62, ja 1898 Sm. 563: 42.</p>
       </Article>
-      <SubDivider className="dividerStyle"/>
+      <Image src={subDivider} className="dividerStyle"/>
 
       <a className="hyperlink" href="https://digi.kirjastot.fi/files/original/e1b4670159cbca4f0346f6b9ef7f93da.pdf">Lähde</a>
     </Layout>

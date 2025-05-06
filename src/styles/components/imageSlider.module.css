@@ -20,13 +20,13 @@
 .buttonContainer {
   display: flex;
   justify-content: space-between;
-  height: 30px;
-  margin: 0 4px -28px 4px;
+  height: 36px;
+  margin: 0 4px -38px 4px;
 }
 .buttonStyle {
   height: 100%;
   width: auto;
-  padding: 0;
+  padding: 4px;
   bottom: 0;
   background-color: transparent;
   border: none;

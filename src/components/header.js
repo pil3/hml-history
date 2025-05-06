@@ -2,7 +2,6 @@ import * as React from "react"
 import { Link } from "gatsby"
 
 import "bootstrap/dist/css/bootstrap.min.css";
-// import "react-bootstrap-submenu/dist/index.css"
 
 import Image from "react-bootstrap/Image";
 import Container from "react-bootstrap/Container";

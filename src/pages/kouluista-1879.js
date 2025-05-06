@@ -7,9 +7,9 @@ import Image from "react-bootstrap/Image"
 import "../styles/base/global.css"
 
 import imgFrontPage from "../images/content/front-school1879.jpg"
-import QuoteStart from "../assets/quotation-start.svg"
-import QuoteEnd from "../assets/quotation-end.svg"
-import Divider from "../assets/divider.svg"
+import quoteStart from "../assets/quotation-start.png"
+import quoteEnd from "../assets/quotation-end.png"
+import divider from "../assets/divider.png"
 
 const Conditions1809Page = () => {
   return (
@@ -19,7 +19,7 @@ const Conditions1809Page = () => {
 
       <p className="caption">Favén, A. E.</p>
       <p className="caption">Hämeenlinnan Kaupunginkirjasto 1879</p>
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
       <h2>I</h2>
       <h3>Hämeenlinnan Ensimmäinen Koulu v. 1639—1690.</h3>
       <p className="initialCap">Birger Jarlin linnan viereen, sille paikalle, missä nykyään sotaväen kasarmit seisovat, pystytettiin aikain kuluessa yksi ihmis-asunto toisen jälkeen, kunnes niistä karttui kokonainen linnakylä, 
@@ -119,7 +119,7 @@ const Conditions1809Page = () => {
         sekä torille että pihaan päin oli ovi portainensa, josta sisään mentiin. Gothilaiseksi sanottu lautainen vesikatto, joka oli päistä nuistettu ja äkkijyrkkä lappeilta, lisäsi rakennukselle korkuutta ja teki sen ulkonäöltä komeaksi. Katon 
         torinpuoleisessa lappeessa oli kaksi ulonevaa vinninikkunaa. Koulusali ja asuinhuoneet olivat sisältä savetut, ja koko rakennus ulkoa punattu. Millainen koulukartanon tila oli parikymmentä vuotta sen jälkeen, kuin tämä ensimmäinen kouluhuone 
         uudessa kaupungissa oli valmistunut, näkyy seuraavasta rehtori Wilhelm Åkerman'in kertomuksesta, jonka hän rehtorinviran jättäessään 1 p. Marraskuuta 1810 on kirjoittanut koulun tilikirjaan. Tämä kertomus kuuluu suomennettuna näin:</p>
-        <QuoteStart className="symbol"/>
+        <Image src={quoteStart} className="symbol"/>
       <p className="quotation">Kun allekirjoittanut v. 1798 rupesi rehtorinvirkaan Hämeenlinnan koulussa, oli koulurakennus peräti rappiolla, jonka vuoksi minä annoin pitää siitä asianomaisen katselmuksen ja keväällä samana vuonna, Konsistorista luvan saatuani, 
         koulukassan kustannuksella rakentaa uudet portaat pihan ja torin puolelle, vähän korjaella koulun lukusalia, sekä tehdä pihan ympärille uuden plankun.</p>
       <p className="quotation">V. 1800 kesällä teetin minä kaupungin kustannuksella kouluhuoneelle uuden vesikaton ja laudoitin tämän huoneen nurkat. V. 1805 kesällä annoin minä osaksi kaupungin osaksi koulukassan kustannuksella punata saman katon, nurkat ja koulun 
@@ -144,7 +144,7 @@ const Conditions1809Page = () => {
         vieraana paikkakunnassa, kohtasi, kun näet sain huoneet, joissa en saattanut asua, vaan täytyi minun kahdeksi kuukaudeksi vourata itselleni muualla asunto, kunnes suopeampi vuoden aika myönsi koulukartanossa olevien huoneiden korjaamista.</p>
       <p className="quotation">V. 1808 annoin minä koulukassan maksulla laittaa erään koulusalissa joutilaana olleen kaapin säiliöksi koulun kirjoille ja papereille ja olen minä tähän koulun arkistoksi aiottuun kaappiin pannut sekä virkaan tullessani löytyneet että 
         sittemmin saadut koulun kirjat ja asiapaperit. Olkoon tämä, niinkuin kaikki muukin, järjestyksen avuksi koulussa, ja mahtakoon järjestys ja kunto vaikuttaa koulun kukoistukseen opissa, hyvissä avuissa, ahkeruudessa ja kelvollisuudessa etc.!!</p>
-      <QuoteEnd className="symbol"/>
+      <Image src={quoteEnd} className="symbol"/>
       <p>Kirjeessä 20 p:ltä Maaliskuuta 1817 ilmoitti koulun silloinen rehtori H. Longström Turun Tuomiokapituliin, että koulun oppilasmäärä, joka ennen kevätlukukautta v. 1811 ei milloinkaan ollut noussut yli 68, siitä lähtien oli yhä lisäyntynyt ja 
         teki nyt 112, jonka vuoksi korkeintaan 70 oppilaalle riittävä koulusali alkoi tulla kärsimättömän ahtaaksi, ja ilma siinä, oppilaiden oltua tuntikauden ko'ossa, niin pilauntuneeksi, että sytytetyt kynttilät itsestään sammuivat. Siitä syystä 
         pyysi mainittu rehtori Tuomiokapitulia ryhtymään toimeen uuden koulusalin hankkimista varten. Hän sai uudistaa pyyntönsä 14 p:nä Huhtikuuta 1819, jolloin hän ilmoitti, että, koska oppilaiden luku nyt nousi 146, rehtorin ja vanhemman kollegan 
@@ -411,7 +411,7 @@ const Conditions1809Page = () => {
       <p className="signatureSmall">Tuomioprovasti J. A. Edman, Professori A. G. Sjöström, Valtioneuvos Fredr. Cygnaeus, Kansakoulujen Ylitarkastaja U. Cygnaeus, Professori K. S. Sirelius, Kunnallisneuvos A. Meurman.</p>
 
 
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
       <p className="info">Anders Emil (Antti) Favén (1841-1913) oli Hämeenlinnan normaalilyseon ja lyseon historian ja maantieteen opettaja, joka toimi myös lyseon rehtorina ja kansakoulujen 
         tarkastajana. Favén oli myös Hämeen Sanomien alkuperäinen nimimerkki Antti.</p>
 

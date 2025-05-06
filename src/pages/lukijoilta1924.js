@@ -4,16 +4,18 @@ import Layout from "../components/layout"
 import Article from "../components/article"
 import DateDivider from "../components/dateDivider"
 
+import Image from "react-bootstrap/Image"
+
 import "../styles/base/global.css"
 
-import Divider from "../assets/divider.svg"
-import SubDivider from "../assets/sub-divider.svg"
+import divider from "../assets/divider.png"
+import subDivider from "../assets/sub-divider.png"
 
 const Lukijoilta1924Page = () => {
   return (
     <Layout titleText="Hämeen Sanomat, 1924">
       <h2>Lukijoilta</h2>
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
       <p className="centered bold" style={{margin:"8px 0"}}>Torstai, 3.1.1924</p>
       <Article titleText="Huomiota herättäwä henkiwakuutusjuttu Hämeenlinnassa.">
         <p>Ylläolewalla otsakkeella arw. lehtenne palstoilla eilen julkaistussa kirjoituksessa moititaan Suomi-yhtiötä siitä, että se kuolemantapauksessa on kieltäytynyt maksamasta wakuutusta, 
@@ -287,7 +289,7 @@ const Lukijoilta1924Page = () => {
         <p className="centered">Koskella H.l. helmikuun 11 päiwänä 1924.</p>
         <p className="signature zeroMargin">Hannes Heinonen.</p>
         <p className="centered">Kärkölän piirin nimismies.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p><span className="bold">Toimitus,</span> jota ylläolewan Herra Nimismiehen „vastalauseen” sekä säwy että sisältö suuresti kummastuttaa, pyytää huomauttaa, että kysymyksessä olewa uutinen kuuluu 
         n.s. lääninhallituksen uutisiin ja on julkaistu samalla kuin meidän lehdessämme myöskin kaikissa niissä Hämeen läänin sanomalehdissä, jotka yleensä tulewat näistä uutisista osallisiksi. Herra 
         Nimismiehen arwostelut ja wertailut woimme hywällä syyllä jättää omaan arwoonsa. Pyydämme kuitenkin herra Nimismiehelle huomauttaa, että otamme kiitollisina wastaan lehdessä uutisia julkaistawaksi 
@@ -379,7 +381,7 @@ const Lukijoilta1924Page = () => {
         <p>Kertojan samoin kuin lehdenkin pitää käsittämän että kuwiteltu menettely olisi tahditonta, niinkuin asian wääristeleminen on rumaa warsinkin julkisuutta warten painettuna.</p>
         <p className="centered">Hattulassa maalisk. 3 p:nä 1924.</p>
         <p className="signature">Juho Torppa.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p><span className="bold">Toimitus</span> walittaen tapahtuneita erehdyksiä pyytää ylläaolewan johdosta huomauttaa, että kyseessäolewa uutinen perustui erään kokouksessa olleen maalaisliittolaisen kertomukseen, 
           joten luulimme siihen woiwan luottaa.</p>
       </Article>
@@ -488,7 +490,7 @@ const Lukijoilta1924Page = () => {
           joiden mainittua tietä monta kertaa päiwässä täytyy kulkea, kärsimme suurta ajanhukkaa kiertäessämme wanhan Linnantien kautta. Pyytäisimme ystäwällisesti, että, koska me kerran maksamme werot kaupungille, sen wiranomaiset 
           huolehtiwat myös meidän etujemme walwomisesta yhtä hywin kuin muidenkin kaupunkilaisten.</p>
         <p className="signature">Joukko linnanniemeläisiä.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h4>Sunnuntai, 11.5.1924</h4>
         <h5>Toimitukselta on pyydetty tilaa seuraawalle:</h5>
         <p>Eilisessä lehdessänne yleisönosastossa olewan kirjoituksen johdosta saa kaupungin Rakennuskonttori, jolle kirjelmässä mainitunlaisten töiden suoritus kuuluu, täten kunnioittaen „Linnanniemeläisille” ilmoittaa, ettei konttori 
@@ -914,7 +916,7 @@ const Lukijoilta1924Page = () => {
         <p className="signature">Helsingin Eläinsuojelusyhdistys.</p>
       </Article>
       <br />
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
       <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?year=1924">Linkki vuosikertaan 1924</a>
     </Layout>
   );

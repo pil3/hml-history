@@ -3,9 +3,11 @@ import * as React from "react"
 import Layout from "../components/layout";
 import ImageSlider from "../components/imageSlider"
 
+import Image from "react-bootstrap/Image"
+
 import "../styles/base/global.css"
 
-import Divider from "../assets/divider.svg"
+import divider from "../assets/divider.png"
 
 import img1915_1 from "../images/content/guide15/ad-1.jpg"
 import img1915_2 from "../images/content/guide15/ad-2.jpg"
@@ -72,7 +74,7 @@ const MainoksiaPage = () => {
   return (
     <Layout titleText="Mainoksia">
       <ImageSlider imgArray={imageArray1915} showDots={false} wide={false}></ImageSlider>
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
       <ImageSlider imgArray={imageArray1927} showDots={false} wide={false}></ImageSlider>
     </Layout>
   )

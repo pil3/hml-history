@@ -7,8 +7,8 @@ import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
 
-import Divider from "../assets/divider.svg"
-import SubDivider from "../assets/sub-divider.svg"
+import divider from "../assets/divider.png"
+import subDivider from "../assets/sub-divider.png"
 import imgFrontPage from "../images/content/front-palotorvi.jpg"
 import imgJuselius  from "../images/content/juselius.jpg"
 
@@ -17,10 +17,10 @@ const FirePage = () => {
   return (
     <Layout titleText="Kaupungin palo v. 1831">
       <Image className="centeredImage" src={imgFrontPage} alt="Etusivu"/>
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
       <p> Hämeenlinnan kaupungin syyskuun 14 ja 15 päivinä 1831 tapahtuneesta suuresta tulipalosta, joka hävitti suuremman osan kaupunkia, löytyy Hämeenlinnan Maistraatin arkistossa seuraavat asiakirjat, jotka tässä sanain mukaan 
         esitetään.</p>
-      <SubDivider className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
       <Article titleText="Varamaaherra, Laamanni ja Ritari J. Snellman'ille Helsingissä.">
         <p className="initialCap">Täten saan minä Maistraatin puolesta syvimmässä nöyryydessä ilmoittaa siitä surkeasta tapauksesta, joka on kohdannut somaa kaupunkiamme. Noin kello 7 aikana eilen illalla pääsi tuli 
           irti eräässä heinillä ja oljilla täytetyssä vajarakennuksessa kauppias J. A. Juselius'en talossa Ison torin kulmassa. Kun talo oli hyvin ahtaasti rakennettu levisi tuli muutamassa silmänräpäyksessä, kovista ponnistuksista 
@@ -36,7 +36,7 @@ const FirePage = () => {
         <p className="signature">G. A. Lagerblad</p>
       </Article>
 
-      <SubDivider className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
       <Article titleText="Nöyrin virkakirjelmä.">
         <p className="initialCap">Maistraatin viimeistä raporttia lähetettäessä katsottiin se tulipalo, joka oli hävittänyt suurimman osan Hämeenlinnan kaupunkia jo loppuneeksi, sekä luultiin vaaran ohimenneeksi. Mutta muutama tuntisenjälkeen kuin raportti oli 
           lähetetty, huomattiin, että kuumuus oli tunkeutunut kirkon kuparisen katon läpi sekä sytyttänyt kiviholvia ympäröivän puusuojukkeen.</p>
@@ -76,7 +76,7 @@ const FirePage = () => {
         <p className="signatureSmall">Maistraatin puolesta</p>
         <p className="signature">G. A. Lagerblad.</p>
       </Article>
-      <SubDivider className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
       <Article titleText="Nöyrä ilmoitus.">
         <p className="initialCap">Vaikka olenkin varma siitä, että Herra Pormestari Lagerblad on antanut seikkaperäisen kertomuksen siitä tulipalosta, joka on kohdannut Hämeenlinnan kaupunkia olen kuitenkin, siihen nähden ettei Herra Pormestari voi tuntea 
           kaikkia asioita, koska hänen täytyi kulkea ympäri kaikkialla, katsonut velvollisuudekseni Maaherralle jättää seuraavan nöyrän raportin joka perustuu siihen mitä itse olen nähnyt ja kokenut. Jos yöt ja päivät yhtämittaa jatkuneet 
@@ -122,7 +122,7 @@ const FirePage = () => {
         <p className="signatureSmall">Hämeenlinnassa Syyskuun 19 p:nä 183l.</p>
         <p className="signature">J. Fryxell.</p>
       </Article>      
-      <SubDivider className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
       <p>Mikäli poliisitutkinnossa sittemmin saatiin selville oli kaupp. Juselius'en renki Mikko Mikonpoika kl. 6 tienoissa tullut kotia juopuueena sekä otaksuttiin varomattomasti pidelleen tulta ullakolla ja jääneen sinne liekkeihin.</p>
       <Image className="centeredImage" src={imgJuselius} alt="Juseliuksen talo"/>
       <a className="hyperlink" href="https://digi.kirjastot.fi/files/original/f9a4c69de27ec602332aa8c4a1c32fb4.pdf">Lähde</a>

@@ -6,8 +6,7 @@ import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
 
-import Divider from "../assets/divider.svg"
-
+import divider from "../assets/divider.png"
 import imgFrontPage from "../images/content/front-conditions1808.jpg"
 
 
@@ -17,7 +16,7 @@ const Conditions1809Page = () => {
       <Image className="centeredImage" src={imgFrontPage} alt="Etusivu"/>
       <p className="caption">Lindeqvist, K. O.</p>
       <p className="caption">Hämeenlinnan Kaupunginkirjasto 1902</p>
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
       <h2>I</h2>
       <p className="initialCap">Kun venäläinen armeija Helmikuun 21 p:nä v. 1808 hyökkäsi Kymijoen yli Suomeen, ei Suomen puolustusjoukko vähälukuisuutensa vuoksi saattanut ryhtyä ratkaisevaan tappeluun, 
         vaan se peräytyi vihollisen sitä yhä ahdistaissa, ollen kuitenkin matkan varrella pakotettuna ryhtymään pienempiin taisteluihin. Väliaikainen ylipäällikkö Klercker kokosi nyt sotavoimansa Hämeenlinnan 

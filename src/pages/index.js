@@ -6,12 +6,11 @@ import ImageSlider from "../components/imageSlider"
 
 import Image from "react-bootstrap/Image"
 
-import QuoteStart from "../assets/quotation-start.svg"
-import QuoteEnd from "../assets/quotation-end.svg"
-import Divider from "../assets/divider.svg"
-
 import "../styles/base/global.css"
 
+import quoteStart from "../assets/quotation-start.png"
+import quoteEnd from "../assets/quotation-end.png"
+import divider from "../assets/divider.png"
 import img1 from "../images/content/old-painting.jpg"
 
 const HomePage = () => {
@@ -20,140 +19,87 @@ const HomePage = () => {
     <Layout titleText="Palasia entisestä Hämeenlinnasta">
       <ImageSlider imgArray={carouselArray} showDots={false} auto={false} wide={true}></ImageSlider>
       <br />
-      <Divider className="dividerStyle" />
-      <QuoteStart className="symbol"/>
-      <p className="initialCap">
-        Noin samaan aikaan kuin Ruotsin mahtava valtiourho Birger Jaarli Bjelbosta päätti rakentaa
-        Tukholman kaupungin noita sotaisia virolaisia vastaan, vaivasivat pakanalliset hämäläiset tuhotöillään ajoin ja usein
-        Itämaan (niinkuin Suomea silloin kutsuttiin) kristillistä seurakuntaa.
-      </p>
-      <p> 
-        Suuressa hädässään kääntyi papisto Suomessa Birger Jaarlin puoleen, pyytäen häneltä apua romalais-katolilaiselle seurakunnalle,
-        jonka olemassa olo oli uhattu arveluttavassa määrässä. Ja heidän rukouksensa ei tullutkaan kuuroille korville. Wuonna 1249 laskettiin nimittän "Hämäläisten valkamaan" 
-        - Pohjan pitäjän lahteen - voimakas sotajoukko maalle itse jaarlin johtamana ja samana vuonna rakennettiin Wanajaveden ihanille rannoille Ruunuporin linna eli Hämeenlinna.
-      </p>
+      <Image src={divider} className="dividerStyle" />
+      <Image src={quoteStart} className="symbol"/>
+      <p className="initialCap">Noin samaan aikaan kuin Ruotsin mahtava valtiourho Birger Jaarli Bjelbosta päätti rakentaa Tukholman kaupungin noita sotaisia virolaisia vastaan, 
+        vaivasivat pakanalliset hämäläiset tuhotöillään ajoin ja usein Itämaan (niinkuin Suomea silloin kutsuttiin) kristillistä seurakuntaa.</p>
+      <p>Suuressa hädässään kääntyi papisto Suomessa Birger Jaarlin puoleen, pyytäen häneltä apua romalais-katolilaiselle seurakunnalle, jonka olemassa olo oli uhattu arveluttavassa 
+        määrässä. Ja heidän rukouksensa ei tullutkaan kuuroille korville. Wuonna 1249 laskettiin nimittän "Hämäläisten valkamaan" - Pohjan pitäjän lahteen - voimakas sotajoukko maalle 
+        itse jaarlin johtamana ja samana vuonna rakennettiin Wanajaveden ihanille rannoille Ruunuporin linna eli Hämeenlinna.</p>
       <div style={{display: showMore ? "inherit" : "none"}}>
-        <p>
-          Nuo uppiniskaiset hämäläiset, jotka jo kauvan kyllä olivat Turun hurskaille piispoille tuottaneet suuria murheita, saivat nyt päällensä pakkoröijyn, heidän vastustuksensa
+        <p>Nuo uppiniskaiset hämäläiset, jotka jo kauvan kyllä olivat Turun hurskaille piispoille tuottaneet suuria murheita, saivat nyt päällensä pakkoröijyn, heidän vastustuksensa
           heikkoni ja käytännöllisillä - jos kohta ankarilla - keinoilla onnistuttiin pian saada kristinusko ja järjestetty yhteiselämä ympärillä oleviin, silloin harvassa asuttuihin, 
-          paikkoihin. 
-        </p>
-        <p>
-          Ruunuporin linna, jonka kolmelta puolelta Wanajavesi ympäröitsi, tuli sittemmin vielä suurennetuksi ja vahvistetuksi valleilla ja juoksukaivoksilla. Aika-ajoin annettiin se 
-          läänityksenä valtakunnan suurille miehille, aika-ajoin palveli se Kuninkaallisen Majesteetin ja Valtakunnan käskynhaltijan olopaikkana.
-        </p>
-        <p>
-          Tulipalo hävitti linnarakennuksen 15 p. Tammikuuta 1659 melkein perustuksia myöten. Senjälkeen rakennettiin se uudelleen Suomalaisen sotaväen asesäilytyspaikaksi. Sota-aikana 
-          palveli se tukena ja turvapaikkana ruotsalais-suomalaiselle sotajoukolle, olematta milloinkaan vihollisen piirittämänä.
-        </p>
-        <p>
-          Kahdella tornillaan ja vanhoilla muureillaan on Ruunuporin linna yksi kauneimpia muinaismuistoja ja ajan kaikki syöpä hammas on vuosien vieriessä säälivästi käytellyt tuota 
-          vanhaa varustusta.
-        </p>
-        <p>
-          Yhdessä torneista nähtiin muinoin puukuva, esittäen linnan perustajaa, ankara näöltään, yhdessä kädessä ehtoolliskalkki ja toisessa ruoska. Sitäpaitsi löytyy eräs taru, joka 
+          paikkoihin.</p>
+        <p>Ruunuporin linna, jonka kolmelta puolelta Wanajavesi ympäröitsi, tuli sittemmin vielä suurennetuksi ja vahvistetuksi valleilla ja juoksukaivoksilla. Aika-ajoin annettiin se 
+          läänityksenä valtakunnan suurille miehille, aika-ajoin palveli se Kuninkaallisen Majesteetin ja Valtakunnan käskynhaltijan olopaikkana.</p>
+        <p>Tulipalo hävitti linnarakennuksen 15 p. Tammikuuta 1659 melkein perustuksia myöten. Senjälkeen rakennettiin se uudelleen Suomalaisen sotaväen asesäilytyspaikaksi. Sota-aikana 
+          palveli se tukena ja turvapaikkana ruotsalais-suomalaiselle sotajoukolle, olematta milloinkaan vihollisen piirittämänä.</p>
+        <p>Kahdella tornillaan ja vanhoilla muureillaan on Ruunuporin linna yksi kauneimpia muinaismuistoja ja ajan kaikki syöpä hammas on vuosien vieriessä säälivästi käytellyt tuota 
+          vanhaa varustusta.</p>
+        <p>Yhdessä torneista nähtiin muinoin puukuva, esittäen linnan perustajaa, ankara näöltään, yhdessä kädessä ehtoolliskalkki ja toisessa ruoska. Sitäpaitsi löytyy eräs taru, joka 
           tietää kertoa että Birger Jaarli olisi muka yhteen komeroon linnassa elävänä muurauttanut sisarensa, syystä että tämä olisi rakastunut yhteen pakanallisten suomalaisten
-          päälliköistä. Mutta tästä ei, ihme kyllä, tiedä kukaan Ruotsin historioitsijoista mitään kertoa, joten tarina sisäänmuuratusta immestä on otaksuttava keksityksi.
-        </p>
-        <p>
-          Vuosien kuluessa nousi siellä täällä linnan ympärillä ihmisasuntoja mitkä vähitellen karttuivat pieneksi kauppalaksi, joka vuonna 1638, Pietari Brahen ollessa ensi kertaa 
-          Suomen kenraalikuvernöörinä, sai kaupungin oikeudet.
-        </p>
-        <p>
-          Kohta sen jälkeen, Toukokuun 3 päivänä 1639, perusti hän kirjeellänsä Turun linnasta tänne lasten koulun (<span className="quote">barne schola</span>) 
+          päälliköistä. Mutta tästä ei, ihme kyllä, tiedä kukaan Ruotsin historioitsijoista mitään kertoa, joten tarina sisäänmuuratusta immestä on otaksuttava keksityksi.</p>
+        <p>Vuosien kuluessa nousi siellä täällä linnan ympärillä ihmisasuntoja mitkä vähitellen karttuivat pieneksi kauppalaksi, joka vuonna 1638, Pietari Brahen ollessa ensi kertaa 
+          Suomen kenraalikuvernöörinä, sai kaupungin oikeudet.</p>
+        <p>Kohta sen jälkeen, Toukokuun 3 päivänä 1639, perusti hän kirjeellänsä Turun linnasta tänne lasten koulun (<span className="quote">barne schola</span>) 
           eli <span className="accent">paedagogium</span>, tämän ensimmäiseksi johtajaksi nimitti hän pappismiehen Johannes Mannin, jonka samalla tuli olla linnansaarnaajana ja saada 
           näistä toimistaan palkaksi kruunun kymmenykset kolmesta likinnä kaupunkia olevasta kuninkaan latokartanosta, sekä teiniveron Pälkäneen pitäjästä. Tästä likemmin eräässä v. 1879 
-          täällä ulostulleessa kirjassa nimeltä <span className="quote">Hämeenlinnan vanhemmista kouluista, kirjoitti A. E. Faven</span>.
-        </p>
-        <p>
-          Likinnäseuraavina vuosina kaupungin perustamisesta oli ravintolanpito asukasten paraana elinkeinona ja josta heillä oli niukka elantonsa, kuin eräs vanha tilastollinen 
-          käsikirja tietää. Sitäpaitsi pidettiin täällä kahdet suuret vuosimarkkinat.
-        </p>
-        <p>
-          Mutta se ei ollut ainakaan tähdissä kirjoitettu, että asukkaat tuossa vanhassa hyvässä maakaupungissa saisivat iäti häiritsemätä viettää huomiota herättämätöntä elämäänsä. 
-          Sillä koittipa sekin päivä, jolloin heidän täytyi <span className="quote">korkeain asianomaisten käskystä</span> muuttaa huonejumalansa toiseen paikkaan.
-        </p>
-        <p>
-          Vuonna 1775 kunnioitti nimittäin kuningas Kustaa III käynnillänsä kaupunkia, ja antoi täältä säännöksen jonka mukaan Waasan hovioikeus perustettiin, jotapaitsi Suomi 
+          täällä ulostulleessa kirjassa nimeltä <span className="quote">Hämeenlinnan vanhemmista kouluista, kirjoitti A. E. Faven</span>.</p>
+        <p>Likinnäseuraavina vuosina kaupungin perustamisesta oli ravintolanpito asukasten paraana elinkeinona ja josta heillä oli niukka elantonsa, kuin eräs vanha tilastollinen 
+          käsikirja tietää. Sitäpaitsi pidettiin täällä kahdet suuret vuosimarkkinat.</p>
+        <p>Mutta se ei ollut ainakaan tähdissä kirjoitettu, että asukkaat tuossa vanhassa hyvässä maakaupungissa saisivat iäti häiritsemätä viettää huomiota herättämätöntä elämäänsä. 
+          Sillä koittipa sekin päivä, jolloin heidän täytyi <span className="quote">korkeain asianomaisten käskystä</span> muuttaa huonejumalansa toiseen paikkaan.</p>
+        <p>Vuonna 1775 kunnioitti nimittäin kuningas Kustaa III käynnillänsä kaupunkia, ja antoi täältä säännöksen jonka mukaan Waasan hovioikeus perustettiin, jotapaitsi Suomi 
           jaettiin lisäksi kahteen uuteen lääniin ja laamannikuntaan. Tästä seurasi että Hämeenlinnan kaupunki seuraavana vuonna 1776 määrättiin maaherran asuinpaikaksi ja päätettiin 
-          muuttaa se nykyiselle paikalleen Saaristen sotilaspuustellin maalle, joka, ynnä siihen kuuluvat metsät ja torpat, lahjoitettiin kaupungille.
-        </p>
-        <p>
-          Ensimmäiset huoneukset tälle uudelle asemalle rakennettiin vuonna 1778. Uudelle kirkkorakennukselle, jota aljettiin vuonna 1793 lahjoitti Kustaa kolmas eläessään 4,000 
+          muuttaa se nykyiselle paikalleen Saaristen sotilaspuustellin maalle, joka, ynnä siihen kuuluvat metsät ja torpat, lahjoitettiin kaupungille.</p>
+        <p>Ensimmäiset huoneukset tälle uudelle asemalle rakennettiin vuonna 1778. Uudelle kirkkorakennukselle, jota aljettiin vuonna 1793 lahjoitti Kustaa kolmas eläessään 4,000 
           specieriksiä (22,800 suomen markkaa). Neliluokkaiselle trivialikoululle määrättiin paikkansa kirkon pohjoispuolelle, ja koulurakennus, joka vuonna 1782 vihittiin toimeensa, 
-          oli sen ajan vaatimuksiin katsoen pulska kahden kertanen puurakennus gothilaisella katollaan. 
-        </p>
-        <p>
-          Tästä ajasta luetaan oikeammiten Hämeenlinnan alku. Katujen, torien ja kaupungin-osien uusi järjestys toimitettiin vasta vuonna 1798. Syyskuun 14 p. v. 1831 paloi enemmän 
+          oli sen ajan vaatimuksiin katsoen pulska kahden kertanen puurakennus gothilaisella katollaan.</p>
+        <p>Tästä ajasta luetaan oikeammiten Hämeenlinnan alku. Katujen, torien ja kaupungin-osien uusi järjestys toimitettiin vasta vuonna 1798. Syyskuun 14 p. v. 1831 paloi enemmän 
           kuin kaksi kolmattaosaa kaupungista, länsi ja pohjoispuolella kirkkoa, joka jäi vahingoittumatta. Sama onnettomuus kohtasi myös trivialikoulua, joka aina vuoteen 1849, 
-          jolloin se muutettiin yläalkeiskouluksi, oli oman huoneuksen puutteessa.
-        </p>
-        <p>
-          Tämän surkean tulipalon jälkeen kohosi kaupunki uudelleen tuhastaan, kauniimpana kuin ennen. Kadut tehtiin leveämmiksi ja joukko uusia kauniita rakennuksia valmistui. 
+          jolloin se muutettiin yläalkeiskouluksi, oli oman huoneuksen puutteessa.</p>
+        <p>Tämän surkean tulipalon jälkeen kohosi kaupunki uudelleen tuhastaan, kauniimpana kuin ennen. Kadut tehtiin leveämmiksi ja joukko uusia kauniita rakennuksia valmistui. 
           Wiime kuluneina vuosina on uudisrakentaminen ollut erittäinkin vilkasta ja pääkatujen varsille on muodostunut useita pulskia kivirakennuksia, joista mainittakoon: 
           uusi lyceorakennus (kolmessa kerrassa), Itäisen Linnakadun varrella, Birger Jaarlin ja Gymnasikadun välillä; Raastuvan rakennus kauppatorin ohella (kahdessa kerrassa); 
           Kunnallisneuvoksen lesken I. Lönnholts'in kivirakennus Raastuvan kadun varrella kuin myös kauppias Fr. Kiuttun ja turkkuri S. Lindqvist'in rakennukset Kasarmikadun 
-          varrella sekä apteekkari Åkerman'in uusi huoneus Residensikadun varrella.
-        </p>
-        <p>
-          Arvokkain kaduista on Raastuvan katu, joka kulkee keskellä kaupunkia idästä länteen. Eteläpuolella siitä ja yhtäsuunnassa kulkee Prykikatu ja eteläinen Niittykatu 
+          varrella sekä apteekkari Åkerman'in uusi huoneus Residensikadun varrella.</p>
+        <p>Arvokkain kaduista on Raastuvan katu, joka kulkee keskellä kaupunkia idästä länteen. Eteläpuolella siitä ja yhtäsuunnassa kulkee Prykikatu ja eteläinen Niittykatu 
           sekä pohjoispuolella yhtäsuunnassa Residensi-, Birger Jaarlin-, Kymnasi- ja Koulukatu. Mainitut kadut jakaa pohjoisesta etelään Rantakatu, Itä- ja Länsi Linnankatu, 
-          Kasarmikatu, Saaristenkatu ja Kaivokatu.
-        </p>
-        <p>
-          Länsi tullin luona on 7:nen tarkk'ampuja pataljonan kasarmit vastapäätä vanhaa hautausmaata sekä vähä tuonnempana n. k. Myllymäki, yksi epäsäännöllinen etukaupunki, 
+          Kasarmikatu, Saaristenkatu ja Kaivokatu.</p>
+        <p>Länsi tullin luona on 7:nen tarkk'ampuja pataljonan kasarmit vastapäätä vanhaa hautausmaata sekä vähä tuonnempana n. k. Myllymäki, yksi epäsäännöllinen etukaupunki, 
           rakennuksiltaan sisältävä suurimmaksi osaksi rauenneita puuhökkeliä, jotenkin mautonta mallia. Vähän matkaa tästä on venäläisen sotaväen kasarmit Poltinaholla ja myös 
-          pieni etukaupunki nimeltä Punanen portti.
-        </p>
-        <p>
-          Joka sitten jatkaa matkaansa pitkin Helsingin maantietä eteenpäin tulee myöskin käymään tuolla suuresta näköalastaan ylistetyllä Hattelmalan harjulla joka jatkuu 
+          pieni etukaupunki nimeltä Punanen portti.</p>
+        <p>Joka sitten jatkaa matkaansa pitkin Helsingin maantietä eteenpäin tulee myöskin käymään tuolla suuresta näköalastaan ylistetyllä Hattelmalan harjulla joka jatkuu 
           kaupungin lounaspuolelle. Tämän huipulla on yksi patteri eli umpilinnoitus, joka vuoden 1808 sodassa luotiin. Tässä seisoi tappeluvalmiina ja varmalla päätöksellä 
           joko voittaa tahi kuolla Suomen sotaväki, 6,000 miestä, ja odotti päästä koettelemaan voimiansa vihollisen kanssa. <span className="quote">Mutta silloin saapui Klingspor, 
-          otti arvollansa komennon, antoi käskyjä kuin Klercker, mutta käski pakohon.</span>.
-        </p>
-        <p>
-          Ja maaliskuun 7 p. 1808, alkoi Vanhan Klerckerin ja Adlercreutz'in vastustuksista huolimatta suomalaisen sotajoukon häpeällinen paluumatka pohjoista kohti.
-        </p>
-        <p>
-          Puoli peninkulmaa Hämeenlinnasta luoteeseen on Parolan kenttä, suuri lakeus, jossa 100,000 miestä tykkineen mukavasti saattaa harjoitella. Kustaa III määräsi lakeuden 
+          otti arvollansa komennon, antoi käskyjä kuin Klercker, mutta käski pakohon.</span>.</p>
+        <p>Ja maaliskuun 7 p. 1808, alkoi Vanhan Klerckerin ja Adlercreutz'in vastustuksista huolimatta suomalaisen sotajoukon häpeällinen paluumatka pohjoista kohti.</p>
+        <p>Puoli peninkulmaa Hämeenlinnasta luoteeseen on Parolan kenttä, suuri lakeus, jossa 100,000 miestä tykkineen mukavasti saattaa harjoitella. Kustaa III määräsi lakeuden 
           suomalaisen sotaväen harjoituskentäksi. Tässä taittoi <span className="quote">nerokuningas</span> vuonna 1782 pudotessaan hevosen selästä jalkansa eräissä harjoituksissa 
           ja samassa paikassa piti keisari-suuriruhtinas Alexander II yleistarkastuksen suomalaisesta ruotuväestä, jonka muistoksi mainitun väen upseerit pystyttivät paikalle 
-          pronssisen leijonan (Parolan leijona). 
-        </p>
-        <p>
-          Vuoden 1850 alussa teetti läänin silloinen kuvernöri vapaaherra Rehbinder linnan pohjoispuolelle vankien avulla tuon kauniin kaupungin parkin, joka 
+          pronssisen leijonan (Parolan leijona).</p>
+        <p>Vuoden 1850 alussa teetti läänin silloinen kuvernöri vapaaherra Rehbinder linnan pohjoispuolelle vankien avulla tuon kauniin kaupungin parkin, joka 
           taidokkailla <span className="quote">raunioillaan</span>, huvimajoillaan, varjokkailla metsillään ja hienolla juomalallaan on rakas pakopaikka kaupunkilaisille, kun kesän 
-          helle ja kuumuus on kovimmillaan. Korkeammilta huipuilta parkissa on viehättävä näköala yli linnan, kaupungin ja ihanan ympäristön.
-        </p>
-        <p>
-          Järven, joka tässä muodostaa ainoastaan muutaman sylen levyisen salmen, toisella puolella on läpi hakometsän tehty tie tuolle jyrkälle Aulangon vuorelle, jonka juurella 
+          helle ja kuumuus on kovimmillaan. Korkeammilta huipuilta parkissa on viehättävä näköala yli linnan, kaupungin ja ihanan ympäristön.</p>
+        <p>Järven, joka tässä muodostaa ainoastaan muutaman sylen levyisen salmen, toisella puolella on läpi hakometsän tehty tie tuolle jyrkälle Aulangon vuorelle, jonka juurella 
           ympäröittynä viheriöillä puilla, makaa varjokas järvi, niin ihanan viehättävä, että käyttääkseen runoilian Z. Topeliuksen lausetta siitä, <span className="quote">semmoista 
-          ainoastaan löytää Skottlandissa ja Suomessa</span>.
-        </p>
-        <p>
-          Täällä Aulangolla ottaa Hämeen luonto voiton, vaikka mailman melu on niin lähellä, kaupungissa. Yksinäisyyden valtava vaikutus leviää täällä vuorten ja metsäin, kirkkaan 
-          järven ja puoleensa vetävän torpan sekä näköpiirin yli, joka täällä on himmeän sinertävä, niinkuin yleensä kaikki pohjoiset maisemat.
-        </p>
-        <p>
-          Seuduista kaupungin lähellä mainittakoon myöskin Karlbergin kartano, metsäpuistoneen, kahden kilometrin matkalla pohjoiseen kaupungista, Wanajaveden itäisellä rannalla. 
+          ainoastaan löytää Skottlandissa ja Suomessa</span>.</p>
+        <p>Täällä Aulangolla ottaa Hämeen luonto voiton, vaikka mailman melu on niin lähellä, kaupungissa. Yksinäisyyden valtava vaikutus leviää täällä vuorten ja metsäin, kirkkaan 
+          järven ja puoleensa vetävän torpan sekä näköpiirin yli, joka täällä on himmeän sinertävä, niinkuin yleensä kaikki pohjoiset maisemat.</p>
+        <p>Seuduista kaupungin lähellä mainittakoon myöskin Karlbergin kartano, metsäpuistoneen, kahden kilometrin matkalla pohjoiseen kaupungista, Wanajaveden itäisellä rannalla. 
           Kartanon omistaja Översti H. Standertskjöld on viime vuosina ryhtynyt laajoihin kaunistustoimiin. Niinpä on erään harjun laelle kaivamalla tehty vähäinen järvi, jonka 
           ohessa kaksi tornia harmaasta kivestä on rakennettu näköalan ihailioita varten, joista korkeampi on 100 jalkaa perustuksestaan ja 30 jalkaa läpimitaten. Paitsi sitä 
-          rakennetaan paraikaa siellä täällä metsässä luolia ja maanalaisia käytäviä y. m.
-        </p>
+          rakennetaan paraikaa siellä täällä metsässä luolia ja maanalaisia käytäviä y. m.</p>
         <br />
-        <p className="initialCap">
-          Hämeenlinnan lutherilaisen seurakunnan väkiluku teki joulukuun 31 p. 1886 4,377 henkeä. Kun tähän lisää 7:n tarkk'ampuja pataljonan miehistön, tänne majoitetun venäläisen 
-          sotaväen, kaupungissa lukuajoilla asuvan koulunuorison, sekä jäsenet kreikkalais-venäläisessä ja romalais-katolisessa seurakunnassa ynnä moseksen uskolaiset saattaa 
-          kaupungin väkiluvun liioittelemata arvata noin 6,000 henkilöksi. Maaseurakunnassa oli samaan aikaan 1,191 henkilöä.
-        </p>
-        <p>
-          Hämeenlinnan kaupunki ja maaseurakunta kuuluu samaan kirkkoherrakuntaan, mutta on heillä vuodesta 1804 ollut yhteinen kirkkoherra Wanajan pitäjäläisten kanssa.
-        </p>
+        <p className="initialCap">Hämeenlinnan lutherilaisen seurakunnan väkiluku teki joulukuun 31 p. 1886 4,377 henkeä. Kun tähän lisää 7:n tarkk'ampuja pataljonan miehistön, tänne 
+          majoitetun venäläisen sotaväen, kaupungissa lukuajoilla asuvan koulunuorison, sekä jäsenet kreikkalais-venäläisessä ja romalais-katolisessa seurakunnassa ynnä moseksen uskolaiset 
+          saattaa kaupungin väkiluvun liioittelemata arvata noin 6,000 henkilöksi. Maaseurakunnassa oli samaan aikaan 1,191 henkilöä.</p>
+        <p>Hämeenlinnan kaupunki ja maaseurakunta kuuluu samaan kirkkoherrakuntaan, mutta on heillä vuodesta 1804 ollut yhteinen kirkkoherra Wanajan pitäjäläisten kanssa.</p>
       </div>
       <ReadMore buttonText={showMore ? "Näytä vähemmän" : "Näytä enemmän..."} onClick={() => setShowMore(!showMore)}/>
-      <QuoteEnd className="symbol"/>
+      <Image src={quoteEnd} className="symbol"/>
       <p className="copyright">Kansalliskirjaston digitaaliset aineistot, Hämeenlinnan Osoite ja Ilmoitus Kalenteri, 1887 </p>
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
       <Image className="centeredImage" src={img1} alt="Maalaus vanhasta Hämeenlinnasta"/>
       <p className="copyright">Cordier de Bonneville, Louis-Joseph-Anger, taiteilija - valmistusaika ajoittamaton</p>
       <p className="copyright">Kansallisgalleria / Sinebrychoffin taidemuseo- CC0 </p>

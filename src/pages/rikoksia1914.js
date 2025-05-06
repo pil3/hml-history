@@ -3,9 +3,11 @@ import * as React from "react"
 import Layout from "../components/layout"
 import Article from "../components/article"
 
-import SubDivider from "../assets/sub-divider.svg"
+import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
+
+import subDivider from "../assets/sub-divider.png"
 
 const Crimes1914Page = () => {
   return (
@@ -267,31 +269,31 @@ const Crimes1914Page = () => {
         <h5>Jumalan sanan pilkasta</h5>
         <p> tuomitsi H:linnan raastuwanoikeus wiime lauantaina „Häm. Woiman" wastaawan toimittajan H. Wälisalmen 50 mkn sakkoon lehdessä wiime jouluk. 23 p:nä julaistun „Joulu”-nimisen kirjoituksen 
           johdosta.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Puukotuksesta</h5>
         <p>syytettiin täkäl. raastuwanoik. eilen puutyömies R. I. Niemistä, joka oli pääsiäislauwantaina lyönyt linkkuweitsellä leipuri A. I. Nylundia, kuten aikaisemmin olemme kertoneet. Nieminen 
           wäitti R. Lahtisen ensin lyöneen häntä, jonka jälkeen syntyneessä tappelussa Nylund oli „pamputtanut”, jolloin Nieminen puolustuksekseen löi weitsellä takaa ajanutta Nylundia. Nylund 
           kertoi menneensä puolustamaan Lahtista, kun luuli Niemisen puukottaneen häntä. Kantaja Nylund on päässyt pois sairaalasta, mutta on wielä lääkärin hoidossa. Todistajat kertoiwat samaan 
           suuntaan kuin Nieminen.</p>
         <p>Juttu lykättiin toukok. 16 p:ään.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Juopumuksesta</h5>
         <p>tuomittiin lauantaina 1 henkilö ja eilen 4 henkilöä kukin 20 mkn ja 1 henkilö 30 mkn sakkoihin sekä luwattomasta puukonkantamisesta 3 henkilöä kukin 50 mkn sakkoihin. Eräs ilkiwallasta 
           nostettu juttu hylättiin samoin muuan juopumus- ja poliisinpahoinpitelyjuttu. Oluen juonnista toisen pihamaalla tuomittiin 2 henkilöä kumpikin 5 mkn sakkoon.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Luwattomasta wiinanmyynnistä</h5>
         <p>tuomittiin täkäl. raastuwanoikeudessa työmiehet Helenius ja Silmenius Lopelta kumpikin 100 mkn sakkoihin sekä maksamaan kaupungille 20 mk.</p>
         <p>Samasta syystä tuomittiin nuorukainen A. F. Aalto 100 mkn sakkoon ja maksamaan kaupungille 20 mk.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Itsemurha Rengossa.</h5>
         <p>Wiime sunnuntai-iltana päätti Rengossa Oinaalan kylässä talollisen poika Kustaa Seppälä päiwänsä ampumalla haulikolla ohimoonsa. S., jossa oli huomattu jotain mielenwikaisuuden oireita 
           ja päänsärkyä, oli syntynyt 1890. Yleensä oli wainaja tunnettu siiwoksi ja uskonnolliseksi.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Tapaturmalaukaus Rengossa.</h5>
         <p>Rengon Muurilassa tarkasteliwat kylän nuoret miehet perjantaina rewolweria, joka oli asetettu „arpajaiswoitoksi”. Nahkurityöntekijä Y. Lönnqwistin katsellessa rewolweria, laukesi se ja 
           panos lensi renki August Lehtimäen watsaan. L. hoidetaan täkäl. lääninsairaalassa ja on hänen tilansa arweluttawa.</p>
         <p>Kumpikin owat tunnetut siiwoiksi miehiksi.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Rewolwerin pauketta nurkkatansseissa.</h5>
         <p> Parolan n. k. pikkuleirillä pitiwät nuoret wiime sunnuntai-iltana tanssiaisia, joita piirin nimismies F. Lehtonen meni kahden konstaapelin kanssa hajoittamaan. Paikalla oli syntynyt aika 
           rähäkkä. Nimismies oli ampunut paikalla useampia kertoja ilmaan rewolwerilla, sekä sitä ennen ottanut penkiltä harmonikan. Kentällä oli pyöritty piiriä nimismiehen saapuessa, jolloin wäki 
@@ -301,14 +303,14 @@ const Crimes1914Page = () => {
           Myllymäen wiinatrokareita on kokoontunut paikalle, jossa owat myöhään yöhön hoilottaneet ja häirinneet lähistöllä asuwien rauhaa sekä hätyytelleet rauhallisia ihmisiä pois tullessaan. 
           Sotilaswiranomaiset owat jo kerran maimitunlaiset tanssit lopettaneet ja owat asian johdosta walittaneet kunnanpääriin ja pyytäneet poliisia lopettemaan tanssit ja tulien polttamisen.</p>
         <p>Viime päiwinä on mainitulla paikalla laulettu ja tanssittu joka ilta.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Juttu wäärästä walasta.</h5>
         <p>Lokak. 3 pnä 1913 tuomitsi Humppilan y. m. pitäjäin käräjäkunnan kihlakunnanoikeus itsellisen Juho Kustaa Matinpoika Kallioisen Humppilan Huhtaan kylästä wäärästä walasta pidettäwäksi 2 
           wuotta kuritushuoneessa, mistä rangaistuksesta kuitenkin armahduskirjan nojalla wähennettiin kolmasosa, sekä menettämään kansalaisluottamuksensa 8 wuodeksi. Kihlakunnan oikeus näet katsoi 
           kallioisen eräässä lapsenelatusta koskewassa jutussa kanteesta wapautuakseen walallaan wahwistaneen perättömän lausunnon.</p>
         <p>Turun howioikeus, ei täysien todistusten puutteessa ole woinut tuomita Kallioista syypääksi sanottuun rikokseen. Samalla on Hämeen läänin kumernöörille annettu määräys, että Kallioinen on 
           heti laskettawa wapaalle jalalle.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Murha Somerolla.</h5>
         <p> Pitkäperjantaina iski suutari J. Oksanen Someron Pajulassa rekiseipäällä työmies Aug. Sandbergia päähän sillä seurauksella, että tämä Forssan sairaalassa kuoli seuraawana päiwänä. 
           Sandberg ja torppari K. Kujala oliwat samana päiwänä tapelleet, jolloin S. iski K:ta kolme kertaa puukolla. Wäitetään S:n aikoneen lyödä Oksastakin. O. on passitettu Hämeenlinnan 
@@ -341,7 +343,7 @@ const Crimes1914Page = () => {
         <h5>Wirkawapaa pappismies</h5>
         <p>K. Halmeen tuomitsi täkäl. raastuwanoikeus suorittamaan räätäli A. Suntiolle Forsasta noin 80 mk. ja kuluja. Hra H. oli kieltäytynyt maksamasta sillä perusteella, ettei H. M. Keisari ja 
           Suomen hallitus ollut suostunut maksamaan hänen welkojansa eikä hänen sowi eläkkeestään maksaa welkoja, mutta suostui nyt ne kuitenkin hywantahtoisesti maksamaan.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Muutettu tuomio.</h5>
         <p> Wiime tammikuun 26 p:ää wasten yöllä lõi työmies J. A. Jokinen Akaan pitäjän Lontilan kylästä Rengon pitäjästä Muurilan kylästä kotoisin olewaa räätäli O. Lainetta puukolla rintaan, 
           niin että tämä jonkun ajan perästä kuoli. Wiime helmikuun 26 pnä antamallaan päätöksellä Lopen ja Rengon käräjäkunnan kihlakunnanoikeus tuomitsi Jokisen tahallisesta pahoinpitelystä, 
@@ -422,7 +424,7 @@ const Crimes1914Page = () => {
         <p>Kun Rehakan kartanon torppari R. Peltola Janakkalasta, kauppasi 13-wuotiaan poikansa kanssa hewostaan Poltinaholla, saapui hänen luokseen miehiä, jotka ryhtyiwät hieromaan kauppaa hänen 
           kanssaan. Kauppaa tehtäessä tarjosiwat miehet Peltolalle paperossin, josta tämä oman kertomansa mukaan huumaantui niin, että antoi miesten waihtaa hänen hywän 4-wuotiaan hewosensa 
           pahanpäiwäiseen koniin. Pojalle syöttiwät miehet 5 pennin wehnäsen, josta tämä huumaantui samalla tawalla kuin hänen isänsäkin.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Hewoshuijarin uhriksi</h5>
         <p>joutui muuan toinenkin Janakkalan mies wiime markkinoilla. Unikon torpparin Kustaa Koskisen markkinapäiwänä parhaillaan tehdessä hewoskauppaa Poltinaholla erään tuntemattoman miehen 
           kanssa sekaantui kauppaan kolmaskin mies, jolloin he siirtyiwät hautausmaanpuoleiseen päähän hewosta koettamaan. Wastatullut tarjosi silloin ensimäiselle miehelle hewosensa, jota hänellä 

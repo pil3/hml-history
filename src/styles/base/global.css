@@ -139,7 +139,7 @@ article p {
   font-size: 32px;
   color: var(--text-dark);
   font-family: "Canterbury", serif;
-  background-image: url("../../images/divider.png");
+  background-image: url("../../assets/divider-edges.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
@@ -166,9 +166,6 @@ article p {
 ----------------------------------------------------------------------------------------------------- */
 .maxHeightStyle {
   max-height: 300px;
-}
-.verticalSpacer {
-  height: 16px;
 }
 .symbol {
   display: block;

@@ -6,8 +6,7 @@ import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
 
-import Divider from "../assets/divider.svg"
-
+import divider from "../assets/divider.png"
 import imgFrontPage from "../images/content/guide27/frontpage.jpg"
 import img1 from "../images/content/guide27/img-1.jpg"
 import img2 from "../images/content/guide27/img-2.jpg"
@@ -40,7 +39,7 @@ const MatkailuopasPage = () => {
       <p className="caption">Hämeenlinna 1927, Arvi A. Karisto osakeyhtiön kirjapaino</p>
       <p className="caption">Hämeenlinnan Kaupunginkirjasto</p>
 
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
       
       <h2>Hämeen linna ja vanha kaupunki</h2>
       <p className="initialCap">Hämeen linna sijaitsee Vanajaveden rannalla, Helsingistä Tampereelle vievän rautatien varrella. Sen

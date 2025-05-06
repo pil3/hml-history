@@ -3,12 +3,14 @@ import * as React from "react"
 import Layout from "../components/layout"
 import Article from "../components/article"
 
-import QuoteStart from "../assets/quotation-start.svg"
-import QuoteEnd from "../assets/quotation-end.svg"
-import Divider from "../assets/divider.svg"
-import SubDivider from "../assets/sub-divider.svg"
+import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
+
+import quoteStart from "../assets/quotation-start.png"
+import quoteEnd from "../assets/quotation-end.png"
+import divider from "../assets/divider.png"
+import subDivider from "../assets/sub-divider.png"
 
 const War1914Page = () => {
   return (
@@ -216,7 +218,7 @@ const War1914Page = () => {
 
       <div className="interTitle">28.7.1914</div>
       <Article titleText="Sodan uhka.">
-        <Divider className="dividerStyle" />
+        <Image src={divider} className="dividerStyle" />
         <h4>Asema äärimmilleen jännitetty.</h4>
         <h5>Wenäjän toimenpiteet.</h5>
         <p><span className="accent">Pietarista</span>, heinäk. 25 p.<br />Ministerineuwoston istunnossa eilen, jossa käsitteltiin Itäwalta-Unkarin ja Serbian wälistä selkkausta, oltiin yksimielisiä 
@@ -255,7 +257,7 @@ const War1914Page = () => {
       </Article>
       <Article titleText="Rauha taikka sota?">
         <p>Now. Wremja kirjoittaa sunnuntaina:</p>
-        <QuoteStart className="symbol"/>
+        <Image src={quoteStart} className="symbol"/>
         <p>Rauha taikka sota? Aamulla kaikkialla puhuttiin rauhasta, senwuoksi kun sekä Serbia, jonka kurkkuun käytiin keskellä päiwää kiinni, että Wenäjä, jonka 
         rauhaa rakastawaisuudella ei ole rajoja, oliwat walmiita tekemään kaiken, jotta miekat pysyisiwät huotrissaan. Itäwalta teki itsenäisesti, kun hallitsewalle Serbialle jätti mitä 
         alentawimmat waatimukset, jollaisia ei ole koskaan tehty, ei edes wasalliwaltiollekaan, ja Serbia wastasi: me olemme walmiit alistumaan kaikkeen, olemme walmiit wastaanottamaan minkä 
@@ -270,7 +272,7 @@ const War1914Page = () => {
         tawan mukaan yhteiswoimin puolustamme oikeuttamme ja kunniaamme, me emme hae mitään, mutta emme myöskään mitään anna. Itäwallalla ja sen innostuttajilla on wielä aika tuumia eikä 
         surkutella kohtaloaan. Wielä on aika wäistää weristä oikeutta.</p>
         <p>Alottajaa wastaan on itse Jumala!</p>
-        <QuoteEnd className="symbol"/>
+        <Image src={quoteEnd} className="symbol"/>
       </Article>
       <Article titleText="Sodan uhka.">
         <h5>Mielenosoituksia.</h5>
@@ -332,7 +334,7 @@ const War1914Page = () => {
       </Article>
 
       <Article titleText="Sota Itäwallan ja Serbian wälillä.">
-        <Divider className="dividerStyle" />
+        <Image src={divider} className="dividerStyle" />
         <h4>Sota julistettu.</h4>
         <p className="centered">Itäwallan sotajoukot kulkeneet Serbian rajan yli.</p>
         <h5>Itäwalta julistanut sodan.</h5>
@@ -358,7 +360,7 @@ const War1914Page = () => {
           waltaus on wäliaikainen.</p>
         <h5>Serbian sotatoimet.</h5>
         <p><span className="accent">Wienistä</span>, heinäk. 28 p.<br />Tänne saapuneiden tietojen mukaan keskittää Serbia suuria sotajoukkoja Semedrowoon Tonawan lähellä.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h4>Toimet rauhan säilymiseksi.</h4>
         <h5>Englannin ulkoasiainministeri tehnyt tärkeän ehdotuksen muille walloille.</h5>
         <p><span className="accent">Lontoosta</span>, heinäk. 28 p.<br />Grey ilmoitti alahuoneessa, että Englannin Berlinissä, Parisissa ja Roomassa olewien lähettiläitten tehtäwäksi on annettu 
@@ -400,20 +402,20 @@ const War1914Page = () => {
           wankat poliisi- ja sotajoukko-osastot</p>
         <h5>Wenäjän hallitus antanut julistuksen.</h5>
         <p><span className="accent">Pietarista</span>, heinäk. 28 p.<br />Hallitus on tänään antanut seuraawan julistuksen:</p>
-        <QuoteStart className="symbol"/>
+        <Image src={quoteStart} className="symbol"/>
         <p className="quotation">Monilukuiset isänmaalliset mielenosotukset, joita wiimeksi kuluneina päiwinä on pantu toimeen pääkaupungissa y. m. keisarikunnan osissa, osottawat, että hallituksen luja ja 
           rauhallinen politiikka on saanut osakseen wäestön laajojen piirien myötätunnon. Hallitus toiwoo kuitenkin, etteiwät nämä kansallisten tunteiden ilmaukset saa wihamielisyyden wiwahdusta 
           suurwaltoja kohtaan, joiden kanssa Wenäjä on ja aina haluaa olla rauhallisessa suhteessa. Ammentaen woimaa kansallishengen kohoamisesta ja kehottaen Wenäjän asukkaita maltillisuuteen 
-          ja rauhallisuuteen, tulee keisarillinen hallitus lujasti walwomaan Wenäjän arwoa ja etuja.<QuoteEnd className="symbol"/></p>
+          ja rauhallisuuteen, tulee keisarillinen hallitus lujasti walwomaan Wenäjän arwoa ja etuja.<Image src={quoteEnd} className="symbol"/></p>
         <h5>Yleinen asema tawattoman wakawa.</h5>
         <p><span className="accent">Pietarista</span>, heinäk. 28 p.<br />Ulkoministeriöstä on tänä iltana myöhään ilmotettu pietarilaisille sanomalehtimiehille, ettei asema wielä milloinkaan ole 
           ollut niin wakawa kuin tänään.</p>
         <h5>Rauhoittawia tietoja. — Englanti pysyy puolueettomana.</h5>
         <p><span className="accent">Berlinistä</span>, heinäk. 28 p.<br />Saksan ulkoastain ministeriö on waltuuttanut ilmoittamaan seuraawaa:</p>
-        <QuoteStart className="symbol"/>
+        <Image src={quoteStart} className="symbol"/>
         <p className="quotation">Saksan hallituksen Wenäjältä saamain tietojen mukaan on siellä ryhdytty toimenpiteisiin sodan waralta wain sangen pienessä määrin, ainoastaan eräissä 
           piireissä. Walmistuksiin yleistä liikekannalle panoa warten ei ole ryhdytty. Siitä päättäen näyttää Wenäjän sekaantuminen pysywän diplomaattisissa rajoissa.
-          <QuoteEnd className="symbol"/></p>
+          <Image src={quoteEnd} className="symbol"/></p>
         <p>Englannin kanta on yhtä rauhoittawa. Englanti koettaa waikuttaa wälittäjänä. Mutta jos asema kehittyy äärimmilleen, tulee Englanti pysymään puolueettomana. Samaa on wakuutettu 
           täkäläisissä asioita tuntewissa englantilaisissa piireissä.</p>
         <h5>Kreikan ja Rumanian suhtautuminen selkkaukseen.</h5>
@@ -491,10 +493,10 @@ const War1914Page = () => {
       </Article>
 
       <Article titleText="Maailmansota puhkeamaisillaan.">
-        <Divider className="dividerStyle" />
+        <Image src={divider} className="dividerStyle" />
         <h4>Saksa lähettää sotajoukkoja Suomeen.</h4>
         <h5>Taistelut Itäwalta-Unkarin ja Serbian wälillä täydessä käynnissä. Belgrad walloitettu. Suurwallat warustautuwat kuumeisesti.</h5>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Belgradia pommitetaan.</h5>
         <p><span className="accent">Wienistä</span>, heinäk. 29 p.<br />Itäwalta-Unkarin sotajoukot pommittawat Belgradia. Sawen yli wiewä silta on rikottu. Serbian kruununperilliuen oli 
           Belgradissa pommituksen alussa.</p>
@@ -546,7 +548,7 @@ const War1914Page = () => {
           Orenburgin ja Uralin kasakkajoukkojen wapaana olewat kasakat owat kutsuttawat täyttämään ja saattamaan sotakuntoon mainitut kasakkaosastot. Wakinaiseen palwelukseen on kutsuttawa 
           armeijan ja laiwaston reserwien upseerit ja wirkamiehet sekä yllälueteltujen kasakkajoukkojen upseerit ja wirkamiehet sekä armeijan reserwiin kuuluwat lääkärit, eläinlääkärit ja 
           farmaseutit.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h4>Saksan sotasuunnitelma wahwistettu.</h4>
         <h5>Saksa asettaa liikekannalle 1 milj. miestä. Suomen rannikoille maihin tykkejä ja 140,000 sotamiestä.</h5>
         <p><span className="accent">Berlin</span>, heinäk. 30 p.<br />Sotaministerin asunnossa pidetyssä ministeristön ylimääräisessä kokouksessa päätettiin jättää keisari Wilhelmin 
@@ -558,7 +560,7 @@ const War1914Page = () => {
         <p>Yleiseurooppalaiseen sotaan tulisi ottamaan osaa n. 8 milj sotamiestä.</p>
         <h5>Sotajoukot Wenäjän rajalle.</h5>
         <p><span className="accent">Breslausta</span>, heinäk. 30 p.<br />Saksalaiset rajalla olewat sotajoukot on lähetetty Wenäjän rajalle, jonne kiireellisesti tuodaan yhä uutta sotawäkeä.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h4>Englannin suhtautuminen.</h4>
         <p><span className="accent">Berlinistä</span>, heinäk. 30 p.<br />Grey on ilmoittanut suurwaltain hallituksille, että Englanti ei ryhdy ratkaisewiin toimenpiteisiin niin kauan kuin sotaa 
           käydään maalla, mutta heti kun Saksa ja Wenäjä siirtäwät sodan merelle, luopuu Englanti puolueettomuudesta. Se ei woi sallia, että sen kauppaetuja Pohjanmerellä häiritään.</p>
@@ -572,7 +574,7 @@ const War1914Page = () => {
         <h5>Englanti warustautuu edelleen.</h5>
         <p><span className="accent">Lontoo</span>, heinäk. 31 p.<br />Portsmouthissa walmistaudutaan kuumeisella kiireellä sotaan. Laiwaston taistelukuntoon asettaminen edistyy nopeasti. 
           Panssarilaiwat owat lähtöwalmiina ja samoin miinaristeilijät, odottaen wain käskyä. Gibralttarin linnotusta walmistetaan sotakuntoon öin ja päiwin.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h4>Saksa lähettää sotawäkeä Suomeen?</h4>
         <h5>Saksan laiwasto aikoo äkkiä hyökätä Hankoniemeen.</h5>
         <p><span className="accent">Berlinistä</span>, heinäk. 30 p.<br />Täysin luotettawista lähteistä ilmoitetaan, että Itämeren satamiin saapuneisiin ja niissä pidätettyihin kauppalaiwoihin 
@@ -585,7 +587,7 @@ const War1914Page = () => {
           mobilisatsonipäiwä.</p>
         <p>Määräys liikekannalle panosta on lähetetty Hangon, Lowiisan, Porwoon ja Tammisaaren poliisimestareille sekä Helsingin, Lohjan, Raaseporin ja Pernajan kihlakuntain kruununwoudeille 
           määräyksellä antaa asiasta heti tieto alaisilleen nimismiehille.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h4>Belgradin pommitus.</h4>
         <p><span className="accent">Parisi</span>, heinäk. 31 p.<br />Tänne on saapunut tietoja itäwaltalaisten uudelleen alottaneen Belgradin pommituksen ja suunnanneen murhaawan tulen 
           keskikaupunkia kohden. Pääkadulla on kymmenen taloa sortunut raunioiksi. Tulipalot häwittäwät kaupunkia. Kuninkaan palatsi on waarassa. Pommituksen kestäessä yrittiwät itäwaltalaiset 
@@ -606,7 +608,7 @@ const War1914Page = () => {
         <p><span className="accent">Lontoo</span>, heinäk. 31 p.<br />Sanomalehdet kertowat, että huhujen mukaan Saksa on ehdottanut Englannille puolueettomuutta merellä. Tästä päättäen aikoo siis 
           Saksa käydä sotaa yksinomaan maalla.</p>
         <p><span className="accent">Berlin</span>, heinäk. 31 p.<br />Parhaillaan on täällä ministeristöllä salainen kokous. Kokouksessa tullaan tekemään tärkeitä päätöksiä</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h4>Wenäjän sodanjulistusta odotetaan.</h4>
         <p><span className="accent">Moskowa</span>, heinäk. 31 p.<br />Täällä odotetaan huomenna Wenäjän julistawan sodan Saksalle.</p>
         <p><span className="accent">Pietari</span>, heinäk. 31 p.<br />Kaikkein korkein käskykirje armeijan ja laiwaston liikekannalle asettamisesta julkaistiin klo 4 tänä aamuna. Punaselle 
@@ -615,7 +617,7 @@ const War1914Page = () => {
         <h5>Tärkeä ministerineuwoston istunto.</h5>
         <p><span className="accent">Pietari</span>, heinäk. 31 p.<br />Tänä aamuna lähtiwät Pietarhowiin kaikki ministerineuwoston jäsenet pääministeri Goremykin etupäässä. Klo 11 alkoi 
           Pietarhowissa istunto, jossa tullaan tekemään tärkeitä päätöksiä.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h4>Sekatietoja.</h4>
         <p><span className="accent">Berlin</span>, heinäk. 31 p.<br />Saksan kylpylaitoksissa olewat wenäläiset kylpywieraat owat joukottain alkaneet palata kotiin. Rajalle wiewät ylimääräiset 
           junat owat tulwillaan matkustajia. Wenäläisten reserwiläisten luku Beriinissä nousee 20 tuh.</p>
@@ -786,7 +788,7 @@ const War1914Page = () => {
       </Article>
 
       <Article titleText="Kaikkein korkein manifesti sodanjulistuksen johdosta.">
-        <Divider className="dividerStyle" />
+        <Image src={divider} className="dividerStyle" />
         <br />
         <p className="initialCap">Jumalan armosta Me Nikolai II, koko Wenäjänmaan Keisari ja Itsewaltias, Puolan Tsaari, Suomen Suuriruhtinas y. m. y. m. teemme tiettäwäksi kaikille 
           uskolliselle alamaisillemme:</p>
@@ -817,7 +819,7 @@ const War1914Page = () => {
         <p className="initialCap">Allekirjoitettu Pietarissa heinäk. 20 p. 1914 kesänä Kristuksen syntymästä Meidän 20:ntenä hallituswuotenamme.</p>
         <p>Alkuperäiseen on korkeimmanomakätisesti allekirjoitettu.</p>
         <p className="signature">Nikolai.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
       </Article>
 
       <div className="interTitle">6.8.1914</div>
@@ -867,7 +869,7 @@ const War1914Page = () => {
         <p>Sodanjulistus on täällä herättänyt innostusta, jollaista hallitus ei woinut odottaa. Buckinghamin palatsin edustalle kokoontui tuhansiin nousewa kansajoukko. Kuningas ja kuningatar 
           astuiwat parwekkeelle kansan myrskyisästi osoittaessa suosiotaan.</p>
         <p>Englannin laiwasto on täysin taisteluwalmiina Pohjanmeren suulla.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Belgia julistanut sodan Saksalle.</h5>
         <p><span className="accent">Pietari</span>, elok. 4 p.<br />Wirallisesti ilmoitetaan, että Belgian hallitus, sen johdosta että saksalainen sotajoukko on kulkennt Belgian alueen läpi ja siten 
           rikkonnt Belgian puolueettomuutta wastaan, on julistanut sodan Saksaa wastaan.</p>
@@ -876,7 +878,7 @@ const War1914Page = () => {
           Ranskan armeijakunnat tulewat tukemaan Belgian sotajoukkoja.</p>
         <p><span className="accent">Brüssel</span>, elok. 4 p.<br />Ranskan täkäläinen lähettiläs ilmoitti wiime yönä klo 2,30 Belgian ulkoministerille että Brüsselin yläpuolella on nähty 3 
           saksalaista ilmalaiwaa ja että saksalainen sotawäki miehittää Belgian aluetta. Lähettiläs ilmoitti tästä myöskin hallitukselle ja Englannin lähettiläälle.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Wirallinen ilmoitus Saksan sodanjulistuksesta Ranskaa wastaan.</h5>
         <p><span className="accent">Pietari</span>, elok. 4 p.<br />Tänne ilmoitetaan wirallisesti että Saksa on julistanut sodan Ranskaa wastaan.</p>
         <p><span className="accent">Parisi</span>, elok. 4 p.<br />Saatuaan passinsa ilmoitti Saksan lähettiläs Ranskan hallitukselle, että Saksa katsoo olewansa sodassa Ranskan kanssa.</p>
@@ -887,7 +889,7 @@ const War1914Page = () => {
         <p><span className="accent">Pietari</span>, elok. 4 p.<br />Hawasin toimisto ilmoittaa, että tiedot Ranskan sotajoukkojen keskityksistä erittäin tyydyttäwiä. Liikkeet rajan puolustamiseksi 
           owat hywin onnistuneet.</p>
         <p><span className="accent">Parisi</span>, elok. 4 p.<br />Luxenburgin rajan yli on kulkenut 35 saksalaisia upseereja kulettawaa automobiilia, joita seurasi suuri ratsuwäenosasto.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Italia wirallisesti puolueeton.</h5>
         <p><span className="accent">Pietari</span>, elok. 4 p.<br />Eilen pidettiin Roomassa ministeristön istunto kuninkaan johtaessa puhetta. Istunnossa päätettiin, että Italia Saksan ja Wenäjän 
           sotaan nähden pysyy puolueettomana, koska Saksa on ollut hyökkääwänä puolena.</p>
@@ -895,7 +897,7 @@ const War1914Page = () => {
         <h5>Italialaiset sotalaiwat Adrianmerellä.</h5>
         <p><span className="accent">Atena</span>, elok. 4 p.<br />Italialaiset sotalaiwat owat sulkeneet koko Italian rannikon. Eilen ajoiwat italialaiset sotalaiwat merellä takaa Montenegron 
           kuninkaan huwipurtta, joka töin tuskin pelastautui Antiwarin satamaan.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider}className="dividerStyle" />
         <h5>Itäwaltalaiset Wenäjän rajalla.</h5>
         <p><span className="accent">Lontoo</span>, elok. 4 p.<br />Huhujen mukaan owat Itäwaltalaiset sotajoukot lähteneet Bosniasta ja Semlinistä Wenäjän rajaa kohti. Wain pienempiä sotawäenosastoja 
           on jätetty puolustamaan rajaa Serbiaa wastaan.</p>

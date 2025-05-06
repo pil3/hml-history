@@ -3,10 +3,12 @@ import * as React from "react"
 import Layout from "../components/layout"
 import Article from "../components/article"
 
-import QuoteStart from "../assets/quotation-start.svg"
-import QuoteEnd from "../assets/quotation-end.svg"
+import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
+
+import quoteStart from "../assets/quotation-start.png"
+import quoteEnd from "../assets/quotation-end.png"
 
 const IndependencePage = () => {
   return (
@@ -934,7 +936,7 @@ const IndependencePage = () => {
         <p>(SWT) Waltioneuwosto on 27 päiwänä joulukuuta ulkoasiainministeriön esittelyssä nähnyt hywäksi määrätä, että allaolewa, Hänen korkeutensa Hessenin Prinssi Friedrich Karlen kuluwan 
           joulukuun 14 päiwänä Suomen Ylimääräiselle Lähettiläälle ja Waltuutetulle Ministerille Berlinissä Waltioneuwos Edward Hjeltille osoittama kirje on maan wirallisissa lehdissä julaistawa; 
           ollen mainittu kirjelmä suomennettuna näin kuuluwa:</p>
-        <QuoteStart className="symbol"/>
+        <Image src={quoteStart} className="symbol"/>
         <p className="quotation">Minä pyydän, että Teidän Ylhäisyytenne tahtoisi minun nimessäni ilmoittaa Teidän Hallituksellenne seuraawaa, jotta se saattaisi sen Suomen kansan tietoon: Yleisen 
           waltiollisen tilanteen muutos waikuttaa wälttämättömästi Suomeenkin, jonka kansa oli päättänyt uskoa minulle huolenpidon kohtalostaan. Kirjelmässäni marraskuun 4 päiwältä Eduskunnan 
           puhemiehelle minun täytyi jättää toistaiseksi lopullinen ratkaisu, wiitaten syihin, jotka tosin eiwät enää ole olemassa. Sen sijaan owat muut waikeudet, joihin mainitussa kirjeessä jo 
@@ -943,7 +945,7 @@ const IndependencePage = () => {
           Enempää sanoja ei tarwita. Tiedän, että minut ymmärretään. Minä lähetän maalle ja sen wakawakatseiselle kansalle oman ja omaisteni terwehdyksen ja kiitoksen monesta myötätuntoisuuden 
           osoituksesta. Tulkoon onnelliseksi tämä minulle rakas kansa, sen miehet ja naiset ja sen ihana nuoriso, johon tulewaisuuden toiwo perustuu.</p>
         <p className="signature">Friedrich Karl.</p>
-        <QuoteEnd className="symbol"/>
+        <Image src={quoteEnd} className="symbol"/>
       </Article>
 
       <br></br>

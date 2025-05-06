@@ -3,9 +3,11 @@ import * as React from "react"
 import Layout from "../components/layout"
 import Article from "../components/article"
 
-import SubDivider from "../assets/sub-divider.svg"
+import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
+
+import subDivider from "../assets/sub-divider.png"
 
 const PreCivilWarPage = () => {
   return (
@@ -1310,7 +1312,7 @@ const PreCivilWarPage = () => {
           punakaartilaisten asiaa. Heille selwitti lähetystö yllämainitun kirjelmän sisällön. Kun heiltä tiedusteltiin, mitä järkeä oli tuollaisessa waatimuksessa, warsinkin kuwernööri Jalanderin 
           läänistä poistumiseen nähden, wastasi kaartin lähetystö wain, että he toimiwat määräyksen mukaan. Kun mitään rauhattomuutta ei kaartin taholta sen enemmän tapahtunut, ei miliisipäällystö 
           ryhtynyt enempiin toimenpiteisiin.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <h5>Punakaarti anastanut ent. kenraalikuwernöörin talon. - Sosialihallitus ja wakuutusneuwosto karkotetaan huoneustoistaan.</h5>
         <p>Tiistaina klo 3 aikaan päiwällä saapui ent. kenraalikuwernöörin taloon, jossa nyt sijaitsewat äsken toimintansa alottanut sosialihallitus ja wakuutusneuwosto, useita kymmeniä kiwääreillä 
           warustettuja punakaartilaisia, jotka asettiwat wartijat talon ulko-owille ja tunkeutuiwat talon käytäwiin. Sosialihallituksen ylitirehtöörille E. Böökille ilmoittiwat punakaartilaiset 

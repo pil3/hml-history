@@ -1,15 +1,15 @@
 import * as React from "react"
 
+import Image from "react-bootstrap/Image"
 
-import "../styles/base/global.css"
-import {svgStyle, textStyle} from "../styles/components/dateDivider.module.css"
+import {dividerStyle, textStyle} from "../styles/components/dateDivider.module.css"
 
-import SubDivider from "../assets/sub-divider.svg"
+import subDivider from "../assets/sub-divider.png"
 
 const DateDivider = ({date}) => {
   return (
     <div>
-      <SubDivider className={svgStyle} />
+      <Image src={subDivider} className={dividerStyle} />
       <p className={textStyle}>{date}</p>
     </div>
   );

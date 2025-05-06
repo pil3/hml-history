@@ -3,11 +3,13 @@ import * as React from "react"
 import Layout from "../components/layout"
 import Article from "../components/article"
 
-import Divider from "../assets/divider.svg"
-import QuoteStart from "../assets/quotation-start.svg"
-import QuoteEnd from "../assets/quotation-end.svg"
+import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
+
+import divider from "../assets/divider.png"
+import quoteStart from "../assets/quotation-start.png"
+import quoteEnd from "../assets/quotation-end.png"
 
 const CivilWarPage = () => {
   return (
@@ -15,7 +17,7 @@ const CivilWarPage = () => {
       <h2>Sisällissota</h2>
       <div className="interTitle">29.1.1918</div>
       <Article titleText="Suomen kansalle.">
-        <QuoteStart className="symbol"/>
+        <Image src={quoteStart} className="symbol"/>
         <p className="quotation">Se kansalaisweri joka wiime päiwinä on wuotanut, waatii maan hallitusta kääntymään kansan puoleen.</p>
         <p className="quotation">Kansamme on wasta nähnyt sisimmän toiweensa täyttywän. Se on saawuttanut waltiollisen riippumattomuuden, jonka jo useat Europan wallat owat tunnustaneet. Suomen 
           kansan kehityksen tiellä ei nyt enää ole mitään ulkonaista estettä. Ylintä waltaa Suomessa käyttää maan eduskunta ja sille wastuunalainen hallitus. Meidän sekä eduskunta- että kunnallinen 
@@ -48,7 +50,7 @@ const CivilWarPage = () => {
         <p className="signature">P. E. Swinhufwud, E. N. Setälä, Kyösti Kallio, Jalmar Castren, Onni Talas, Arthur Castrén, Heikki Renwall, Juhani Arajärwi, Alexander Frey, E. Y. Pehkonen, 
           O. W. Louhiwuori.
         </p>
-        <QuoteEnd className="symbol"/>
+        <Image src={quoteEnd} className="symbol"/>
         <p>Ylläolewaan hallituksen julistukseen kehoitamme kansalaisia kiinnittämään mitä wakawinta huomiota. Rajumyrsky lähestyy. Isänmaa on waarassa. Maan ja kotimaisen hallituksen suojaksi on 
           jokaisen kansalaisen noustawa. Welwollisuus on täytettäwä. Uhrauksia kysyy tulewa aika, mutta mitkään uhraukset eiwät nyt saa olla liian suuret.</p>
         <p>Meillä on hywiä uutisia, jotka kehoittawat pysymään toiwehikkaina. Ennen pitkää on Suomen itsenäisyys olewa turwattu ja maallemme koittawa aika, jossa wapaus, järjestys ja lakien kunnioitus on 
@@ -67,7 +69,7 @@ const CivilWarPage = () => {
       <Article titleText="Venäläisten sotajoukkojen täällä harjoittama hirmuvalta.">
         <h5>Senaatti saattaa wastalauseensa tämän johdosta ulkowaltain tiedoksi.</h5>
         <p>Suomen hallitus on Ruotsin, Norjan, Tanskan,  Ranskan, Englannin, Saksan, Itäwalta-Unkarin, Sweitsin ja Kreikan hallituksille lähettänyt seuraawan t. k. 25 p. päiwätyn kirjelmän: </p>
-        <QuoteStart className="symbol"/>
+        <Image src={quoteStart} className="symbol"/>
         <p className="quotation">Huolimatta siitä, että Wenäjän hallitus on kuluwan tammikuun 4 p. wirallisesti tunnustanut Suomen waltiollisen riippumattomuuden ei wenäläisten sotajoukkojen 
           maastawiemiseen wielä ole tehokkaasti ryhdytty. Päinwastoin ylläpitää Wenäjän hallitus Suomessa edelleenkin lukuisia sotawäenosastoja, jotka samalla kun kuluttawat maan niukkoja 
           elintarpeita, eiwät ainoastaan ole esteenä järjestyksen ja turwallisuuden ylläpitämiselle maassa, waan myöskin, yhteistoiminnassa wäestön lewottomimpien ainesten kanssa, suorittawat 
@@ -84,11 +86,11 @@ const CivilWarPage = () => {
           täten saattaa jyrkän wastalauseensa niiden waltojen tietoon, jotka owat Suomen itsenäisyyden tunnustaneet.</p>
         <p className="centered quotation">Suomen hallituksen puolesta:</p>
         <p className="signature">P. E. Swinhufwud.</p>
-        <QuoteEnd className="symbol"/>
+        <Image src={quoteEnd} className="symbol"/>
       </Article>
       <Article titleText="Hallituksen waatimus kansankomissarien neuwostolle.">
         <p>Suomen hallituksen puolesta on lähetetty Wenäjän kansankomissarien neuwostolle näin kuuluwa sähkösanoma:</p>
-        <QuoteStart className="symbol"/>
+        <Image src={quoteStart} className="symbol"/>
         <p className="quotation">Kansankomissarien Neuwostolle.</p>
         <p className="quotation">Pietari.</p>
         <p className="quotation">Wiime päiwinä on useissa paikoissa Suomea sattunut murhia, murhapolttoja sekä joukko lewottowuuksiakin, joihin täällä olewat wenäläiset sotilaat owat 
@@ -99,7 +101,7 @@ const CivilWarPage = () => {
           asioihin tulisi wiipymättä wältetyksi.</p>
           <p className="centered quotation">Hallituksen Puheenjohtaja</p>
           <p className="signature">Swinhufwud.</p>
-        <QuoteEnd className="symbol"/>
+        <Image src={quoteEnd} className="symbol"/>
       </Article>
       <Article titleText="Hämmästyttäwiä tietoja sosialistien pyrkimyksistä.">
         <h5>Aikowatko he tuhota Suomen itsenäisyyden?</h5>
@@ -196,9 +198,9 @@ const CivilWarPage = () => {
           pohjalaisten osakuntatalo „Ostrobotnia”.</p>
       </Article>
 
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
       <p className="centered">Lehti ei ilmesty 30.1 - 29.4.</p>
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
 
       <div className="interTitle">30.4.1918</div>
       <Article titleText="Kehoitus">
@@ -974,7 +976,7 @@ const CivilWarPage = () => {
           myöskin Ruotsin konsulaatin edustaja. Hänen kanssaan oli pari punakaartilaista käynyt Albergassa omin silmin näkemässä, että kaupunkia kohti tulevat joukot todella olivat saksalaisia.</p>
         <p>Kokouksessa olijat olivat olleet yksimielisiä siitä, että vastarinta niitä vastaan oli aivan toivoton. Tätä käsitystä vastaan laadittiin antautumiskirja, jonka punakaartin „päälliköt“ 
           allekirjoittivat ja joka kokonaisuudessaan oli seuraava:</p>
-        <QuoteStart className="symbol"/>
+        <Image src={quoteStart} className="symbol"/>
         <p className="quotation">Koska Helsingin kaupungissa nykyään ei löydy puolustusjoukkoja, kehoitetaan verenvuodatuksen ja kaupungin hävittämisen välttämiseksi täkäläisiä 
           punakaartilaisia olemaan ryhtymättä vastarintaan, kun saksalaiset joukot, jotka ovat jo aivan Helsingin lähistössä ja Ruotsin konsulaatin antaman vakuutuksen mukaan tekevät noin 
           40,000 miestä, astuvat maihin. Sentähden ylipäällikkö on täkäläisen Ruotsin konsulaatin kautta esittänyt punakaartilaisille seuraavat antautumisehdot:</p>
@@ -986,7 +988,7 @@ const CivilWarPage = () => {
           päällikkö.</span></p>
         <p className="centered"><span className="signature">Robert H. Hurskainen.</span><br /><span className="caption">Paikallisen esikunnan Työasiain päällikkö.</span></p>
         <p className="centered"><span className="signature">Edv. Nyqvist.</span><br /><span className="caption">Helsingin järjestyspäällikkö.</span></p>
-        <QuoteEnd className="symbol"/>
+        <Image src={quoteEnd} className="symbol"/>
         <p>Asiakirjaa kirjoitettiin kaksi kappaletta. Samalla sovittiin siitä, että jo yön aikana painatetaan poliisikirjapainossa ja jaetaan aamusella punakaartilaisille ja kaupungin asukkaille. 
           Ruotsalaisella realilyseolla olleitten vankien aseman turvaamiseksi taas toimitettiin heidän vartioikseen luotettavia vanginvartioita ja poistettiin punakaartilaisvartiosto.</p>
         <p>Yön aikana saivat asiat kuitenkin uuden käänteen. Viipurista oli Helsinkiin saapunut „valtuutettu“ Kiviranta villitsemään helsinkiläisiä joukkoja ja onnistui tehtävässään erittäin 

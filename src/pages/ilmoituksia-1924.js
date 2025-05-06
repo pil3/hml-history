@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 
 import Image from "react-bootstrap/Image"
 
-import Divider from "../assets/divider.svg"
+import divider from "../assets/divider.png"
 
 import img1 from "../images/content/hasa1924/img-1.jpg"
 import img2 from "../images/content/hasa1924/img-2.jpg"
@@ -103,7 +103,7 @@ const Ilmoituksia1924Page = () => {
   return (
     <Layout titleText="Hämeen Sanomat, 1924">
       <h2>Ilmoituksia</h2>
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
       <div className="rowStyle">
         <div className="columnStyle">
           <Image className="columnImgStyle" src={img1} alt="Kuva 1"/>

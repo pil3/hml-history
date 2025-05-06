@@ -1,11 +1,13 @@
 import * as React from "react"
-import Image from "react-bootstrap/Image";
+
 import Layout from "../components/layout"
+
+import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
 
 import imgFrontPage from "../images/content/front-jailrules.jpg"
-import Divider from "../assets/divider.svg"
+import divider from "../assets/divider.png"
 
 const JailRulesPage = () => {
   return (
@@ -14,7 +16,7 @@ const JailRulesPage = () => {
       <p className="caption">Brofeldt, P. A.</p>
       <p className="caption">Hämeenlinna 1877, A. W. Lingrenin kirjapaino</p>
       <p className="caption">Hämeenlinnan Kaupunginkirjasto</p>
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
 
       <h2>1 § </h2>
       <p className="initialCap">Wangit owat rangaistus-ajaksensa menettäneet wapautensa; heidän tulee karttaa kaikkea oman mielensä waltaa ja tahtonsa noudattamista sekä
@@ -139,8 +141,7 @@ const JailRulesPage = () => {
         Jos wanki haluaa puhutella tirehtöriä tahi muuta kuritushuoneen wirkamiestä, ilmoittakoon siitä wahtimestarin tahi asianomaisen wartian kautta.</p>
       <p>Milloin wanki tuntee itsensä sairaaksi, ilmoittakoon siitä wartioitsewalle knihdille, joka sairastumisesta antaa tiedon sairashuoneen wartialle, jotta 
         lääkärille sana saatetaan. Pahemmista sairastumisista annetaan lääkärille kohta tieto. Jos wangissa hawaitaan mielenwikaa, annettakoon myöskin heti tieto 
-        tirehtörille. Milloin kuolema näkyy lähestywän, ilmoitetaan siitä saarnaajalle ilman wiiwytystä.
-      </p>
+        tirehtörille. Milloin kuolema näkyy lähestywän, ilmoitetaan siitä saarnaajalle ilman wiiwytystä.</p>
     
       <h2>16 §</h2>
       <p className="initialCap">Ainoastaan tirehtörin luwalla saawat wangit wastaanottaa laitoksesta ulkona olewia henkilöitä heitä terwehtimään; samoin lahjoja. 

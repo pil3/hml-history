@@ -7,8 +7,7 @@ import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
 
-import Divider from "../assets/divider.svg"
-
+import divider from "../assets/divider.png"
 import frontPage from "../images/content/phonebook1926/frontpage.jpg"
 import imgPricing from "../images/content/phonebook1926/countryside-prices.jpg"
 import img1 from "../images/content/phonebook1926/phone-1.jpg"
@@ -59,7 +58,7 @@ const Puhelin1926Page = () => {
   return (
     <Layout titleText="Puhelinluettelo - 1926">
       <ImageSlider imgArray={imageArray} showDots={false} wide={false}></ImageSlider>
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
 
       <h3>HÄMEENLINNAN PUHELINOSAKEYHTIÖN</h3>
       <h4>Keskiötä ja johtoja käyttävälle yleisölle huomautetaan, että seuraavat määräykset ovat tarkoin noudatettavat.</h4>

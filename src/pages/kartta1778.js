@@ -17,7 +17,8 @@ const Kartta1778Page = () => {
       <ImageModal imagePath={mapImg} imageStyle="centeredImage" titleText="Keskusta-alue vuonna 1778"></ImageModal>
       <div className="interTitle">1778 / 2020</div>
       <ImageCompare imgBot={oldImg} imgTop={newImg} altText="Keskusta vuonna 1778 ja nykyään"></ImageCompare>
-      <div className="verticalSpacer"></div>
+      <br />
+      <br />
       <p className="initialCap">Karttaotteessa näkyvät Ojoisten ja Saaristen latokartanoiden eli kruunun virkatalojen maitten omistukset isonjaon jälkeen. Maanjaot ja myöhempien vuosien mittaukset kokosi 
         vuonna 1778 maanmittari Pehr Kiellman. Kiellman tuli 1760 Hämeeseen komission maanmittariksi eli isojakoa toimittamaan. Hän teki myös Hämeenlinnan uuteen kaupunkiin tonttijaon. 
         Vuonna 1775 kaupungin uudeksi sijoituspaikaksi päätettiin Saaristen kruununtilan maat. Kustaa III vahvisti sijoituksen vuonna 1776. Linnoitustoimen päällikkö Axel von Arbin sai 

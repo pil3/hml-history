@@ -3,6 +3,7 @@ import * as React from "react"
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import Modal from "react-bootstrap/Modal";
+
 import Image from "react-bootstrap/Image";
 
 import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
@@ -15,11 +16,12 @@ import {modalHeaderStyle,
         fsImgStyle,
         copyright
       } from "../styles/components/imageModal.module.css"
+
 import "../styles/base/global.css"
 
-import ZoomIn from "../assets/zoom-in.svg"
-import ZoomOut from "../assets/zoom-out.svg"
-import ZoomRst from "../assets/zoom-rst.svg"
+import zoom_In from "../assets/zoom-in.png"
+import zoom_Out from "../assets/zoom-out.png"
+import zoom_Rst from "../assets/zoom-rst.png"
 
 const ImageModal = ({imageStyle, imagePath, titleText, copyrightText}) => {
   const [show, setShow] = React.useState(false);
@@ -44,9 +46,9 @@ const ImageModal = ({imageStyle, imagePath, titleText, copyrightText}) => {
             {({ zoomIn, zoomOut, resetTransform, ...rest }) => (
               <React.Fragment>
                 <div className={buttonContainerStyle}>
-                  <button className={buttonStyle} onClick={() => zoomIn()} aria-label="Lähennä"><ZoomIn className={iconStyle}/></button>
-                  <button className={buttonStyle} onClick={() => zoomOut()} aria-label="Loitonna"><ZoomOut className={iconStyle}/></button>
-                  <button className={buttonStyle} onClick={() => resetTransform()} aria-label="Palauta"><ZoomRst className={iconStyle}/></button>
+                  <button className={buttonStyle} onClick={() => zoomIn()} aria-label="Lähennä"><Image src={zoom_In} className={iconStyle}/></button>
+                  <button className={buttonStyle} onClick={() => zoomOut()} aria-label="Loitonna"><Image src={zoom_Out} className={iconStyle}/></button>
+                  <button className={buttonStyle} onClick={() => resetTransform()} aria-label="Palauta"><Image src={zoom_Rst} className={iconStyle}/></button>
                 </div>
                 <TransformComponent wrapperStyle={{width: "100%", height: "85%", margin: "10px 0"}}>
                     <Image className={fsImgStyle} src={imagePath} alt="Kuva"/>

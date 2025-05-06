@@ -2,10 +2,9 @@ import * as React from "react"
 
 import Slider from "react-slick"
 
-import ImageModal from "./imageModal"
+import Image from "react-bootstrap/Image"
 
-import ArrowLeft from "../assets/icon-left.svg";
-import ArrowRight from "../assets/icon-right.svg";
+import ImageModal from "./imageModal"
 
 import {titleStyle,
         buttonContainer,
@@ -19,6 +18,9 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 import "../styles/base/global.css"
+
+import arrowLeft from "../assets/icon-left.png";
+import arrowRight from "../assets/icon-right.png";
 
 const ImageSlider = ({imgArray, showDots, auto, wide}) => {
 
@@ -49,18 +51,18 @@ const ImageSlider = ({imgArray, showDots, auto, wide}) => {
     <div className={sliderStyle} style={{maxWidth: wideSlider ? "992px" : "576px" }}>
       <div className={buttonContainer}>
         <button type="button" aria-label="Edellinen" className={buttonStyle} onClick={previous}>
-          <ArrowLeft className={arrowStyle}/>
+          <Image src={arrowLeft} className={arrowStyle}/>
         </button>
         <button type="button" aria-label="Seuraava" className={buttonStyle} onClick={next}>
-        <ArrowRight className={arrowStyle}/>
+        <Image src={arrowRight} className={arrowStyle}/>
         </button>
       </div>
       <Slider ref={slider => {sliderRef = slider}}{...settings}>
         {
           imgArray.map((_img, index) => 
-            <div>
+            <div key={_img.key}>
               <div className={titleStyle}>{_img.title}</div>
-              <ImageModal imageStyle={sliderImgStyle} imagePath={_img.imgSrc} key={_img.key} titleText={_img.title} copyrightText={_img.org} ></ImageModal>
+              <ImageModal imageStyle={sliderImgStyle} imagePath={_img.imgSrc} titleText={_img.title} copyrightText={_img.org} ></ImageModal>
               <div className={slidercaption}>{_img.caption}</div>
               <div className="caption">{index + 1} / {imgArray.length}</div>
             </div>

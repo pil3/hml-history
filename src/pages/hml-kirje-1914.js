@@ -3,10 +3,12 @@ import * as React from "react"
 import Layout from "../components/layout"
 import Article from "../components/article"
 
+import Image from "react-bootstrap/Image"
+
 import "../styles/base/global.css"
 
-import SubDivider from "../assets/sub-divider.svg"
-import Divider from "../assets/divider.svg"
+import subDivider from "../assets/sub-divider.png"
+import divider from "../assets/divider.png"
 
 const Letter1914Page = () => {
   return (
@@ -20,7 +22,7 @@ const Letter1914Page = () => {
         <h5>Ilmat</h5>
         <h5>Poliisijärjestyksen 96 §.</h5>
         <h5>Muistettawa tilaisuus.</h5>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Salakapakoiminen on hywässä Hämeenlinnassamme wiime aikoina hirwittäwässä määrässä lewinnyt. Monet trokarit harjoittawat luwatonta <span className="quote">afääriään</span> melko rohkeasti. 
           Ulottawatpa sitä muuallekin. Eihän ole pitkä aika siitä, kun eräs täkäläinen <span className="quote">liikemies</span> muistaakseni Kajaaniin matkaessaan poikkesi suurta wiinawarastoaan 
           tyhjentämään Lahteen, mutta joutuikin siellä kiinni ja warasto otettiin takawarikkoon. Äskettäin on tässäkin lehdesssä kerrottu useiden salakapakoitsijoitten oikeusjutuista. Toisia juttuja on 
@@ -93,18 +95,18 @@ const Letter1914Page = () => {
         <h5>* * *</h5>
         <p>H:linnan Suomal. Seuralla on sunnuntaina wuosikokous klo 7 ip. talollaan. Siellä keskustellaan ja päätetään tärkeistä asioista. Jäsenet, naiset ja miehet, rientäkääpä kokoukseen alkamaan 
           uutta, reipasta, woitoista rikasta toimintawuotta! Miten innokkaaksi toiminta woitaisikaan saada, jos yhä useammat tulisiwat mukaan.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Divider className="dividerStyle" />
+      <Image src={divider}r className="dividerStyle" />
 
       <Article titleText="21.2.1914">
         <h5>200-wuotismuisto.</h5>
         <h5>Kotoisen puolesta.</h5>
         <h5>Naapurin pärskähdykset.</h5>
         <h5>Suomen Pankki.</h5>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>T. k. 19 päiwä oli 200 wuotta kulunut onnettomasta Napuen taistelusta. Häwittyään Kostian wirralla oli Suomen armeija nälkää ja puutetta kärsien, ryysyisenä, huonosti asestettuna, mutta 
           alituisesti taistellen askel askeleelta wäistynyt yliwoimaisen wihollisen tieltä. Syksyn routa oli hetkeksi keskeyttänyt sotatoimet, mutta talwen tultua alkoi wihollinen jälleen edetä.</p>
         <p>Napuen kylän aukeilla, jonne Suomen armeija silloin jo oli ehtinyt, päätti Armfelt wielä kerran ryhtyä wastarintaan. Lumessa ja pakkasessa seisoi suomalaisten urhea joukko kolme päiwää 
@@ -177,11 +179,11 @@ const Letter1914Page = () => {
           hoidettua ja suomalainen liikemiessääty lapsipuolen asemaan, sen tietää sanomattakin. Pankin täkäl. konttorin johtajana on ruotsinmielinen mies, samaan joukkoon kuuluwat muutkin wirkailijat. 
           Siis puhdasta, walittua wäkeä.</p>
         <p>Yksityisetkin pankit yrittäwät olla tasapuolisia, mutta waltion pankki ei wain siitä näy wälittäwän.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
 
       <Article titleText="25.4.1914">
         <h5>Säästöpankkien woittowarat.</h5>
@@ -189,7 +191,7 @@ const Letter1914Page = () => {
         <h5>Wappu raittiiksi.</h5>
         <h5>Puistowaliokunnille.</h5>
         <h5>Kewät.</h5>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Säästöpankkien woittowarojen jako on wiime wuosina herättänyt paljon puheen aihetta. On alettu lausua toiwomuksia, että näitä waroja myönnettäisiin yleisiin 
           hywäntekewäisyystarkoituksiinkin.</p>
         <p>Muistui mieleeni Hämeenlinnan kaupungin Säästöpankki, kun kuulin, minkälaisiin tarkoituksiin Porwoon Säästöpankki woittowarojaan jakaa. Wiimeksi mainittu pankki jakoi wiime wuoden 
@@ -232,18 +234,18 @@ const Letter1914Page = () => {
           niitä saapui jo toista wiikkoa sitten -, laiwaliike on alkanut, ihmiset kulkewat pikkutakkisillaan j. n. e. Siis aiwan kuin poutasäällä. Muutamin paikoin on ryhdytty touon tekoon. Pian 
           alkaa maa wihertää, kukat tuoksuta. Puissa on jo suuria silmuja. Jatkuuko kesän tulo yhtä ripeästi kuin tähän asti wai tuleeko takatalwi, kuten jotkut ennustawat, on waikea sanoa. Kaikessa 
           tapauksessa hauskaa ja wirkistäwää kewättä kaikille lukijoilleni!</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
 
       <Article titleText="9.5.1914">
         <h5>Waltuustolle.</h5>
         <h5>Krestyn uhrit.</h5>
         <h5>Ruotsalaisten walta yliopistossa.</h5>
         <h5>Wiinakausi.</h5>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Anniskeluyhtiön woittowarojen jako toimitetaan tässä kuussa. Woittowaroja on tällä kertaa wähemmän kuin wiime wuonna. Waltuuston käytettäwissä on nyt Smk. 92,968:17 ja wiime wuonna oli 
           Smk. 108,287:40. Nyt jaettawista waroista on jo ennakolta myönnetty Smk. 62,945:20, joten jaettawaksi jää seuroille y. m. yleishyödyllisiin tarkoituksiin Smk. 30,022.97. Wiime wuonna oli 
           ennakolta myönnetty 82,879:- ja jaettawaksi jäi 24,480:-. Tällä kertaa on pyytäjiä enemmän kuin wiime kerralla. Anottu on noin 70,000 mk.</p>
@@ -303,17 +305,17 @@ const Letter1914Page = () => {
           kiire lähtö. Mutta kun ei, niin ei. Ennemmin katsellaan puukotuksia ja annetaan lyödä ikkunat sisään kuin ryhdytään mihinkään toimintaan. Sopiwan ojennuksen nykypolwen miehille antoi se 
           nainen, jonka lehdet äskettäin tiesiwät pukeutuneen mieheksi ja äkkirynnäköllä häwittäneen paikkakunnalla paljon pahennusta tuottaneen korpirojutehtaan. „Naiswaltikka on murheellinen 
           merkki”, sanoo Aleksis Kiwi, mutta ennemmin sentään sekin kuin korpirojun ja trokarien waltikka.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider}className="dividerStyle" />
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
 
       <Article titleText="26.5.1914">
         <h5>Papinwaali.</h5>
         <h5>Lääkärin waaliin!</h5>
         <h5>Kaunistakaa kotinne!</h5>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Tässä kaupungissa owat nämä päiwät muodostuneet waalien ajaksi. Wiime sunnuntaina suoritettiin kappalaisen waali ja tänään on edessä kaupunginlääkärin waali. Kesäkuun puoliwälissä on 
           walittawa pormestari. Siis waali, tärkeä waali toisensa jälkeen.</p>
         <p>Innokkaimmin owat ihmiset täällä, kuten tawallisesti, ottaneet osaa papin waaliin. Jo wiikkoja ennen on asiasta pidetty paljon ääntä ja ihmiset olleet wilkkaassa toiminnassa. Weljeni 
@@ -373,11 +375,11 @@ const Letter1914Page = () => {
           wuodelta ja pian tulewat pikkulinnut pitämään siinä iloaan ja rakentamaan pesiään. Silloin on talon ympäristö muuttunut eläwälliseksi ja wilkkaaksi ja ohikulkija pysähtyy sitä mielihywin 
           katselemaan.</p>
         <p>Nuoriso, ryhtykää „aitaamaan kotianne linnun laulupuilla”!</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
 
       <Article titleText="6.6.1914">
         <h5>Olympialaiset kisat.</h5>
@@ -387,7 +389,7 @@ const Letter1914Page = () => {
         <h5>Taas merionnettomuus.</h5>
         <h5>Edustajakokous.</h5>
         <h5>Hauskaa kesää!</h5>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider}r className="dividerStyle" />
         <p>Mitä äärimmäiseen pikkumaisuuteen wenäläiseltä taholta woidaan pahansuopaisuudessa ja kateudessa tätä „rajamaata” kohtaan mennä, siitä antaa kysymys suomalaisten osanotosta 
           olympialaisiin kisoihin tuoreimman ja hywän esimerkin. Jo wuosia sitten annettiin määräys, että suomalaisille woittajille ei saa wetää heidän oman maansa lippua lipputankoon, waan 
           Wenäjän lipun, ja Lontoon olympialaisissa saiwat suomalaiset kulkea liputtomina muiden kansallisuuksien kantaessa lippuaan. Nyt on Wenäjän ministerineuwostossa ollut esillä ehdotus, 
@@ -460,18 +462,18 @@ const Letter1914Page = () => {
         <h5>* * *</h5>
         <p>Kesä on kohta kukkeimmillaan. Koulut owat päättyneet. Kaupunkilaiset järjestelewät maalle muuttoa. Kaupunki on pian „kesäkunnossa”: liike ja wilkkaus häwinnyt. Hauskaa ja wirkistäwää 
           kesää! Te onnelliset, jotka saatte maalla kesän ihanuudesta nauttia, imekää itsellenne woimaa ja terweyttä!</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
 
       <Article titleText="27.6.1914">
         <h5>Muuan pesänsä likaaja.</h5>
         <h5>U. A:n purkaukset.</h5>
         <h5>Huijarit liikkeellä.</h5>
         <h5>Wanhaa ja uutta.</h5>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Meistä „suomettarelaisista” on jälleen eräs „woimaihminen” sanoutunut irti. Se on rowasti A. D. Wuorimaa. Hän on maalaisliiton wiipurilaisessa äänenkannattajassa „Maakansassa” pessyt 
           kätensä ja singonnut pannaan julistuksensa Suomalaista puoluetta wastaan. Otsikkona on:</p>
         <p>„Miksi suomalaisen puolueen maalaisedustajat ja niitten joukossa allekirjoittanut, owat jättäneet suomalaisen puolueen ja liittyneet maalaisliittoon”. Ja yhtä wahwaa on sisältökin. 
@@ -555,17 +557,17 @@ const Letter1914Page = () => {
           yli. Ja jos paikalla sattuu olemaan joku warsinainen, „asiantuntija”, niin häneltä he kyllä saawat tarpeellista lisäwalaistusta riittämään asti.</p>
         <p>Ainakin minut on saatu wakuutetuksi, että uutta pyykkihuonetta on muutamissa suhteissa korjattawa. Ja eiköhän olisi syytä korjauksiin ryhdyttäessä ottaa huomioon myöskin pyykkihuoneen 
           warsinaisten käyttäjien mielipide. Eiköhän sille myöskin löytyisi sopiwampaa paikkaa kaupunkimme rantamilla sillä nykyinen on ehdottomasti liian kaukana ja hankalan matkan päässä.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
 
       <Article titleText="16.7.1914">
         <h5>Kuumuus.</h5>
         <h5>Eduskuntaa ei hajoteta.</h5>
         <h5>Lihantarkastuksesta.</h5>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Kuumuutta on ollut enemmän kuin tarpeeksi. On ollut warjossakin yli 30 astetta. Jo tällä ilmalla tarkenee. Ja tätä kuumuutta on kestänyt wiikko toisensa jälkeen. Paikoin lienee jonkun 
           werran satanut, mutta kuitenkin wähemmässä määrässä. Paahtawa kuumuus on tukehduttawana kuiwannut kaiken, niin että kosteaa paikkaa on maanpinnalta waikea löytää. Perunan warret, wilja 
           ja herneet owat miltei kokonaan palaneet, joten on pelko huonosta, kalliista wuodesta, ellei pikaista sadetta saada. Toiwottawasti saadaankin ennen pitkää sadetta. Ukkosen jyrinää on 
@@ -604,11 +606,11 @@ const Letter1914Page = () => {
           pitäwät tarkastusta turhana ja wäittäwät sen tuottawan waiwaa, touhua ja lisämenoja. Jotkut kaupunkilaiset owat tarkastuksen syyksi asettaneet lihan hintojen kohoamisen.</p>
         <p>Kaikki uudet hommat tietysti tuntuwat ensin oudoilta, mutta kun tarkastus kerran on astunut woimmaan, kehoitetaan maaseudun lihanlähettäjiä tutustumaan ohjesääntöihin, jotta 
           wälttäisiwät turhia ikäwyyksiä. Hämeenlinnalaisten perheenemäntien y. m. lihanostajain on lihaostoksia tehdessään tarkoin walwottawa, että ostamassaan lihassa on tarkastusaseman leima.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
 
       <Article titleText="25.7.1914">
         <h5>Jokapäiwäinen leipämme.</h5>
@@ -616,7 +618,7 @@ const Letter1914Page = () => {
         <h5>Rautatien ylikäytäwä.</h5>
         <h5>Hämeenlinna edistyy.</h5>
         <h5>Muuan „tieasia”.</h5>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Elämme waikeata aikaa. Uusilla iskuilla uhataan maatamme tuon tuostakin. Kaikki on nykyään mahdollista „yhdenwertaisuuslain” mukaan. Meidän ei anneta enää juosta, ei hypätä eikä heittää 
           keihästä, paitsi jos esiinnymme suuren isänmaan nimessä. Mahtawa Wenäjä pelkää meidän poikiemme kisailuja! Uusin wiesti kieltää meiltä leiwän syönninkin, jota tähän asti on pidetty ihan 
           waarattomana. Syödä sentään nytkin saamme, kun maksamme hywän tullin. Mitähän sitä wielä tapahtuukaan!</p>
@@ -671,11 +673,11 @@ const Letter1914Page = () => {
           warrelle on syntynyt runsas asutus ja maalaiset käyttäwät sitä paljon.</p>
         <p>Kewäällä päätti waltuusto hätäaputöinä rakennuttaa tielle jalkakäytäwän. Hywä sekin, waikka se toistaiseksi onkin wain paperilla. Mutta eiköhän samalla olisi ollut syytä ryhtyä, kuten 
           waltuustossa ehdotettiinkin, myöskin warsinaista ajotietä korjaamaan. Ainakin wälttäwään kuntoon se nyt olisi saatawa, ennenkuin syyssateet saapuwat.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
 
       <Article titleText="5.9.1914">
         <h5>Sota.</h5>
@@ -683,7 +685,7 @@ const Letter1914Page = () => {
         <h5>Seuroille.</h5>
         <h5>Koulut.</h5>
         <h5>Kirjeenwaihtajille ja asiamiehille.</h5>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Sota, sota! Se sana on jokaisen huulilla. Ennustukset toteutuiwat ja Europa on joutunut suursodan, maailmanpalon näyttämöksi. Tämä kohtalokas hetki ihmiskunnan historiassa tulee 
           epäilemättä olemaan sangen suurimerkityksellinen ja wuosiluku 1914 taitteentekewä ihmiskunnan elämässä 20:lla wuosisadalla.</p>
         <p>Me emme tunne emmekä woi tehdä laskelmia siitä, kuinka suureksi paisuu tämä sota ja mihin lopultakin itse sotanäyttämö, ainakin ratkaisewien taistelujen tanner, siirtyy. On hywin 
@@ -740,18 +742,18 @@ const Letter1914Page = () => {
           <p>Asiamiehille myös sana. Tällaisena kohtalokkaana, järkyttäwistä tapahtumista rikkaana aikana ei kukaan woi tulla toimeen ilman sanomalehteä. Paljon niitä sentään löytyy, jotka yrittäwät 
             tulla lehdettä toimeen. Menkää näiden luo ja lewittäkää „Hämeen Sanomia”, joka seuraa tarkasti sotaa sanoin ja kuwin! Ystäwät ja asiamiehet siis pitemmittä puheitta käsittäwät, että 
             juuri nyt on entistä tarmokkaammin lewitettäwä ja kannatettawa „Hämeen Sanomia.”</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
 
       <Article titleText="13.10.1914">
         <h5>Punainen Risti.</h5>
         <h5>Matkalaukut ja kirjeet.</h5>
         <h5>Kansanopistoon!</h5>
         <h5>Siirtolaisuus.</h5>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Punaisen Ristin awustamisella on kansamme nykyisen sodan aikana ehtinyt osottaa, kuinka hywin se käsittää welwollisuutensa waltakuntaa kohtaan ja kuinka walmis se on nuo welwollisuudet 
           täyttämään, ottamaan osaltaan niiden koettelemusten kantamiseen, jotka waltakuntaa owat kohdanneet. Huomattawia summia on lyhyessä ajassa saatu, kaupunkien, kuntien ja yksityisten 
           kansalaisten wapaaehtoisen uhrautuwaisuuden kautta kokoon. Sotanäyttämölle on jo lähetetty suomalainen sairashoito-osasto ja teollisuudenharjoittajaimme ambulanssi on walmiina lähtemään. 
@@ -806,18 +808,18 @@ const Letter1914Page = () => {
           minkä siirtolaisuus tuottaa jo yksistään parhaimman ja pystywimmän työwoiman wähentämisessä. Kaikki nämä monet tuhannet wahwat kädet olisi tarwittu kipeimmin omassa maassa, raiwaamassa ja 
           perkaamassa sitä, sillä laajat alat maatamme odottaa ja kaipaa wiljelijänsä ja perkaajansa wankkaa kättä samalla kun teollisuuswäestön ja kuljeksiwaan elämään antautuwan wäestön lukuisa 
           joukko alkaa olla wuosi wuodelta yhä tukalammassa ja tukalammassa asemassa jokapäiwäisen toimeentulon puolesta.</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
 
       <Article titleText="3.11.1914">
         <h5>Raittiuskysymys.</h5>
         <h5>Waltuusmiesten lukumäärä.</h5>
         <h5>Puolueellisuutta.</h5>
         <h5>Wapaawiikko.</h5>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Wiime päiwinä on sanomalehdet sisältäneet raittiuswäelle mielenkiintoisia uutisia.</p>
         <p>Suurta iloa ja tyytywäisyyttä on Wenäjän kansan keskuudessa herättänyt tieto siitä, että H. M. Keisari on päättänyt ainaiseksi kieltää wiinan myynnin Wenäjän waltion myymälöistä. Waikka 
           tämä uutinen koskeekin lähinnä Wenäjän kansaa, niin on sen sisältämä tieto omansa lämmittämään myöskin meidän kansamme ja koko maailman raittiutta rakastawien kansalaisten sydämiä. Wenäjän 
@@ -851,18 +853,18 @@ const Letter1914Page = () => {
         <p>Kertyneet säästöt kuntain säästöpankkeihin! Ajan tawaton wakawuus waikuttakoon hillitsewästi huwittelussa ja lepoajan wietossa! Katse tulewaisuuteen! Mahdollisuutta omalle kodille, jota 
           warmaan kukin hiljaisesti mielessään unelmoi! Elkää antako muoruutenne juosta kuin wesi hietaan! Pitkä elämäntaiwal on useimmilla edessä, ja kenpä ei towoisi itsellensä parempaa 
           tulewaisuutta kuin mitä menneisyys ja nykyisyys owat olleet!</p>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Divider className="dividerStyle" />
+      <Image src={divider} className="dividerStyle" />
 
       <Article titleText="24.11.1914">
         <h5>Lehteä lewittämään.</h5>
         <h5>Joululahjat.</h5>
         <h5>Miljoona-arpajaiset.</h5>
         <h5>Waltuusmieswaalit.</h5>
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>„Hämeen Sanomain” kunnioitettawille asiamiehille teen täten sywän kiitollisen kumarrukseni siitä, mitä he owat tämän lehden lewittämiseksi kuluwan wuoden kuluessa tehneet. Heidän 
           toimintansa waikutuksesta on „Hämeen Sanomain” tänä wuonna lewinnyt entistä suuremmalle lukijakunnalle. Mutta wielä se ei ole warsinaisella lewiämisalueellaan päässyt jokaiseen kotiin, 
           joista sawu katolle tupruaa. Se kuitenkin on päämäärä, johon on pyrittäwä mahdollisuuden mukaan.</p>
@@ -914,12 +916,9 @@ const Letter1914Page = () => {
           mutta maistraatti ei waan ole kutsunut raastuwankokousta asiasta päättämään.</p>
         <p>Tämä maistraatin hitaus ja waltuuston päätöksen halweksiminen on herättänyt kuntalaisissa pahaa mieltä. Eikä suotta.</p>
 
-        <SubDivider className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p className="signature">Tiitus.</p>
       </Article>
-
-
-
 
       <br></br>
       <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>
