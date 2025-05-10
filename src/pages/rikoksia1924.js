@@ -11,8 +11,6 @@ import "../styles/base/global.css"
 import divider from "../assets/divider.png"
 import subDivider from "../assets/sub-divider.png"
 
-
-
 const Crimes1924Page = () => {
   return (
     <Layout titleText="Hämeen Sanomat, 1924">
@@ -49,7 +47,7 @@ const Crimes1924Page = () => {
         <Image src={subDivider} className="dividerStyle" />
         <p>Tammelan wälikäräjillä tuomittiin työm. Wihtori Ruoko Forssasta kotirauhan rikkomisesta, pahoinpitelystä ja wäkisin makaamisesta 3 wuodeksi 4 kuukaudeksi kuritushuoneeseen. Osallisena edellämainittuihin rikoksiin tuomittiin 
           työm. Toiwo Grönlund 1 wuodeksi 8 kuukaudeksi kuritushuoneeseen. Sitäpaitsi tuomittiin Ruoko maksamaan Mariana Waltoselle aiheuttamasta wahingosta, kiwusta y.m. sekä lääkärinkuluja yhteenssä 830 mk. ja kuluja 100 mk.</p>
-        <Image src={subDivider}r className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Kauppias Saarenheimon Forssasta, konkurssipesän walwojaksi määrättiin waratuomari Armas Kataja Turusta. Welkojain kuulustelu tapahtuu maaliskuun 17 pnä.</p>
         <Image src={subDivider} className="dividerStyle" />
         <p>Naisten kotiteollisuusyhdistys waati kauppias Hjalmar Rinnalta satawiaan sekä hänen saattamistaan konkurssitilan. Pesän walwojaksi määrättiin waratuomari A. Leino Turusta. Welkojain kuulustelu tapahtuu t.k. 24 pnä.</p>
@@ -1704,8 +1702,7 @@ const Crimes1924Page = () => {
         <p> Kuten sanottu, oli Lindberg teon tapahtuessa humalassa. Sen lisäksi häntä ei woida pitää myöskään selwänä täysin normaalina.</p>
         <p>Toinenkin puukotus tapahtui Riihimäellä. Tapaninpäiwänä iskettiin nimittäin Hämeenkadulla erästä henkilöä käsiwarteen pienellä weitsellä. Poliisi tutkii asiaa.</p>
       </Article>
-      <br />
-      <Image src={divider} className="dividerStyle"/>
+      <Image src={divider} className="dividerStyle rotate"/>
       <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?year=1924">Linkki vuosikertaan 1924</a>
     </Layout>
   )

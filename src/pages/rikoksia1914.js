@@ -7,6 +7,7 @@ import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
 
+import divider from "../assets/divider.png"
 import subDivider from "../assets/sub-divider.png"
 
 const Crimes1914Page = () => {
@@ -593,7 +594,7 @@ const Crimes1914Page = () => {
           waarallisina henkilöinä, määrännyt karkoitettawiksi sodan ajaksi Tomskin kuwernementiin Siperiassa.</p>
       </Article>
 
-      <br></br>
+      <Image src={divider} className="dividerStyle rotate" />
       <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>
     </Layout>
   )

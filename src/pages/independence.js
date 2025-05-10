@@ -7,6 +7,7 @@ import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
 
+import divider from "../assets/divider.png"
 import quoteStart from "../assets/quotation-start.png"
 import quoteEnd from "../assets/quotation-end.png"
 
@@ -948,7 +949,7 @@ const IndependencePage = () => {
         <Image src={quoteEnd} className="symbol"/>
       </Article>
 
-      <br></br>
+      <Image src={divider} className="dividerStyle rotate" />
       <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1918">Linkki vuosikertaan 1918</a>
     </Layout>
   )

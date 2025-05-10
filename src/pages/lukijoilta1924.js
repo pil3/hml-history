@@ -915,8 +915,7 @@ const Lukijoilta1924Page = () => {
         <p className="centered">Helsingissä, 30 pnä lokak. 1924.</p>
         <p className="signature">Helsingin Eläinsuojelusyhdistys.</p>
       </Article>
-      <br />
-      <Image src={divider} className="dividerStyle" />
+      <Image src={divider} className="dividerStyle rotate" />
       <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?year=1924">Linkki vuosikertaan 1924</a>
     </Layout>
   );

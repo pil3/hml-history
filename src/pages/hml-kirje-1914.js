@@ -14,7 +14,7 @@ const Letter1914Page = () => {
   return (
     <Layout titleText="Hämeen Sanomat, 1914">
       <h2>Hämeenlinnan kirje</h2>
-
+      <Image src={divider} className="dividerStyle" />
       <Article titleText="12.2.1914">
         <h5>Salakapakoiminen.</h5>
         <h5>Muuan raittiuskomitean ehdotus. </h5>
@@ -99,7 +99,7 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Image src={divider}r className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
 
       <Article titleText="21.2.1914">
         <h5>200-wuotismuisto.</h5>
@@ -183,7 +183,7 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle rotate" />
 
       <Article titleText="25.4.1914">
         <h5>Säästöpankkien woittowarat.</h5>
@@ -238,7 +238,7 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
 
       <Article titleText="9.5.1914">
         <h5>Waltuustolle.</h5>
@@ -309,7 +309,7 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle rotate" />
 
       <Article titleText="26.5.1914">
         <h5>Papinwaali.</h5>
@@ -379,7 +379,7 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
 
       <Article titleText="6.6.1914">
         <h5>Olympialaiset kisat.</h5>
@@ -389,7 +389,7 @@ const Letter1914Page = () => {
         <h5>Taas merionnettomuus.</h5>
         <h5>Edustajakokous.</h5>
         <h5>Hauskaa kesää!</h5>
-        <Image src={subDivider}r className="dividerStyle" />
+        <Image src={subDivider} className="dividerStyle" />
         <p>Mitä äärimmäiseen pikkumaisuuteen wenäläiseltä taholta woidaan pahansuopaisuudessa ja kateudessa tätä „rajamaata” kohtaan mennä, siitä antaa kysymys suomalaisten osanotosta 
           olympialaisiin kisoihin tuoreimman ja hywän esimerkin. Jo wuosia sitten annettiin määräys, että suomalaisille woittajille ei saa wetää heidän oman maansa lippua lipputankoon, waan 
           Wenäjän lipun, ja Lontoon olympialaisissa saiwat suomalaiset kulkea liputtomina muiden kansallisuuksien kantaessa lippuaan. Nyt on Wenäjän ministerineuwostossa ollut esillä ehdotus, 
@@ -466,7 +466,7 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle rotate" />
 
       <Article titleText="27.6.1914">
         <h5>Muuan pesänsä likaaja.</h5>
@@ -561,7 +561,7 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
 
       <Article titleText="16.7.1914">
         <h5>Kuumuus.</h5>
@@ -610,7 +610,7 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle rotate" />
 
       <Article titleText="25.7.1914">
         <h5>Jokapäiwäinen leipämme.</h5>
@@ -677,7 +677,7 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
 
       <Article titleText="5.9.1914">
         <h5>Sota.</h5>
@@ -746,7 +746,7 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle rotate" />
 
       <Article titleText="13.10.1914">
         <h5>Punainen Risti.</h5>
@@ -812,7 +812,7 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
 
       <Article titleText="3.11.1914">
         <h5>Raittiuskysymys.</h5>
@@ -857,7 +857,7 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle rotate" />
 
       <Article titleText="24.11.1914">
         <h5>Lehteä lewittämään.</h5>
@@ -920,7 +920,7 @@ const Letter1914Page = () => {
         <p className="signature">Tiitus.</p>
       </Article>
 
-      <br></br>
+      <Image src={divider} className="dividerStyle rotate" />
       <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>
     </Layout>
   )

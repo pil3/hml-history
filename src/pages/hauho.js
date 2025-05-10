@@ -15,6 +15,7 @@ import quoteEnd from "../assets/quotation-end.png"
 const HauhoPage = () => {
   return (
     <Layout titleText="Hauhon kirkon arkistosta">
+      <Image src={divider} className="dividerStyle" />
       <Article titleText="Nälkäwuodet 1695 - 97.">
         <Image src={subDivider} className="dividerStyle" />
         <h5>Kuwaus 1695-97 nälkäwuosista Hauholla kirkon arkistossa löytywän pahoin kuluneen irtonaisen paperin mukaan suomennettuna:</h5>
@@ -55,7 +56,7 @@ const HauhoPage = () => {
           <p className="signatureSmall">W. P.</p>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
 
       <Article titleText="Lukkarijupakka Tuuloksessa.">
         <h5>Wuonna 1738 pidetyssä pitäjänkokouksessa tehdyn pöytäkirjan suomennos:</h5>
@@ -101,7 +102,7 @@ const HauhoPage = () => {
         <p className="signatureSmall">W. P.</p>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle rotate" />
 
       <Article titleText="Miksi waiwastalon rakentaminen Hauholla wuonna 1777 oli pakosta jätettäwä?">
         <h5>Pitäjänkokouksen pöytäkirja suomennettuna:</h5>
@@ -158,7 +159,7 @@ const HauhoPage = () => {
         <p className="signatureSmall">U. P.</p>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
 
       <Article titleText="Huomattawia tapahtumia.">
         <Image src={subDivider} className="dividerStyle" />
@@ -186,7 +187,7 @@ const HauhoPage = () => {
         <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389178?page=2">Linkki artikkeliin</a>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle rotate" />
 
       <Article titleText="Syyte loihtimisesta Luopioisissa.">
         <br></br>
@@ -201,7 +202,7 @@ const HauhoPage = () => {
           <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389178?page=2">Linkki artikkeliin</a>
       </Article>
       
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
       
       <Article titleText="Tuittupäinen lukkari Hauholla.">
         <h5>Pöytäkirjan mukaan.</h5>
@@ -236,7 +237,7 @@ const HauhoPage = () => {
         <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389178?page=2">Linkki artikkeliin</a>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle rotate" />
 
       <Article titleText="Kauhistuttawa murha wuonna 1769.">
         <br></br>
@@ -254,7 +255,7 @@ const HauhoPage = () => {
         <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389178?page=2">Linkki artikkeliin</a>
       </Article>
       
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
       
       <Article titleText="Uuden kirkonkellon hankkiminen Tuulokseen.">
         <h5>Wuonna 1771 tehdyn pöytäkirjan mukaan.</h5>
@@ -270,7 +271,7 @@ const HauhoPage = () => {
         <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389121?page=2">Linkki artikkeliin</a>
       </Article>
       
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle rotate" />
       
       <Article titleText="Ruumisweisusta.">
         <h5>Pöytäkirjan mukaan wuodelta 1791.</h5>
@@ -284,7 +285,7 @@ const HauhoPage = () => {
         <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389121?page=2">Linkki artikkeliin</a>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
       
       <Article titleText="Ankara riita saarnatuolin paikasta,">
         <h5>jossa herrat ja talonpojat owat tiukasti wastakkain.</h5>
@@ -347,7 +348,7 @@ const HauhoPage = () => {
         <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389121?page=2">Linkki artikkeliin</a>
       </Article>
       
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle rotate" />
       
       <Article titleText="Toimenpiteitä siweettömyyttä wastaan.">
         <Image src={subDivider} className="dividerStyle" />
@@ -407,7 +408,7 @@ const HauhoPage = () => {
         <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389136?page=2">Linkki artikkeliin</a>
       </Article>
       
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
       
       <Article titleText="Yhteinen julistus.">
         <h5>1785</h5>
@@ -457,7 +458,7 @@ const HauhoPage = () => {
 
       </Article>
       
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle rotate" />
       
       <Article titleText="Köyhyys Hauholla kroonillinen tauti.">
         <Image src={subDivider} className="dividerStyle" />
@@ -483,7 +484,7 @@ const HauhoPage = () => {
         <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389164?page=2">Linkki artikkeliin</a>
       </Article>
       
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
       
       <Article titleText="Ensimmäinen yksityisen teettämä kiwirakennus Hauholla.">
         <h5>Pöytäkirjassa 15. 10. 1801 luetaan:</h5>
@@ -502,7 +503,7 @@ const HauhoPage = () => {
         <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389187?page=2">Linkki artikkeliin</a>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle rotate" />
       
       <Article titleText="Lukutaidon edistämis-yrityksiä.">
         <Image src={subDivider} className="dividerStyle" />
@@ -562,7 +563,7 @@ const HauhoPage = () => {
         <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389201?page=2">Linkki artikkeliin</a>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle" />
 
       <Article titleText="Järjestyksen walwonnasta Jumalanpalweluksissa.">
         <Image src={subDivider} className="dividerStyle" />
@@ -599,7 +600,7 @@ const HauhoPage = () => {
         <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389173?page=3">Linkki artikkeliin</a>
       </Article>
 
-      <Image src={divider} className="dividerStyle" />
+      <Image src={subDivider} className="dividerStyle rotate" />
       
       <Article titleText="Kirkkohaudoista.">
         <p className="initialCap">Tapa haudata ruumiit kirkon permannon alle on Hauholla, niinkuin muuallakin, tuottanut monenlaisia waikeuksia. Näiden laatu selwiää seuraawista pöytäkirjanotteista:</p>
@@ -610,47 +611,46 @@ const HauhoPage = () => {
           tukalinta siellä istua, ja kun wielä kirkon penkit ja permanto hautausten tähden alituisesti siirretään paikoiltaan ja saatetaan epäjärjestykseen, niin esitettiin seurakunnalle, että, tähän kaikkeen nähden, määrättäisiin 
           kaikki muut ruumiit haudattawiksi kirkkomaahan, paitsi wanhain ja kunniallisten isäntäin ja emäntäin, kunnes, tätä ennen kirkkoon haudatut, ruumiit edes jossain määrin ennättäwät maatua. Tätä wastaan ei kellään ollut mitään 
           muistuttamista, waan oli ehdotus kaikkein, sekä herrain että kansanmiesten, mielestä hywä ja hyödyllinen.</p>
-          <Image src={subDivider} className="dividerStyle" />
-          <h5>W. 1771</h5>
-          <p className="initialCap">Seurakunnalle huomautettiin kirkkohautojen tilasta. Niiden joukossa oli Hahkialan hauta ainoa, joka on riittäwästi katettu. Muiden päällä on wain joitakin irtonaisia waatekappaleita, ja kun 
-            tämä on wastoin asetuksia, niin huomautettiin seurakunnalle, että sen olisi tarkoin kiinnitettäwä huomiota tähän asiaan, koska tarkotuksena on yleisen terweyden tilan edistäminen. Päämäärä ei ole wielä sillä saawutettu, 
-            että talollisia on kielletty hautaamasta ruumiitaan kirkkoon, elleiwät tahdo kaiwaa hautoja lain määräämään sywyyteen asti ja sitten peittää ne riittäwästi mullalla, waan on myös niiden, joilla on muurattuja hautoja, 
-            paremmin huolehdittawa näiden kunnollisesta peittämisestä, jos muutoin tahtowat pidättää itselleen oikeuden niihin edelleen ruumiitaan haudata. On mitä tähdellisin syy walwoa tämän welwollisuuden noudattamista, sillä 
-            useissa haudoissa on mätänemistilassa olewia ruumista, jotka aiheuttawat koko seurakunnalle tartunnan waaran, ja ken wähänkin tietää, mitä saastutettu ilma woi saada aikaan, hänellä on täysi syy uskoa, että juuri tässä on 
-            syy siihen, miksi yksi ja toinen on kirkossa tullut sairaaksi, ja se seikka, ettei näitä tapauksia ole ollut useampia, on wain todistuksena siitä, miten Herra walwoen pitää huolta palwelijoistaan ja palwelijattareistaan. 
-            Asiasta neuwoteltua, tehtiin lopulta päätös, että jokaisen asianomaisen, jolla on huonossa kunnossa olewa hauta, on ensi tilassa meneteltäwä sen kanssa lainmukaisesti; lisäksi päätettiin että se, joka ei wuoden sisään 
-            tästä lukien ole sitä tehnyt, menettäköön oikeutensa kirkkohaudan omistamiseen ja tulkoon kirkko hänen sijaansa sen omistajaksi, ja olkoon se welwollinen omaksi hywäkseen tämän tehtäwän täyttämään. Tähän yhtyiwät kaikki 
-            läsnäolleet.</p>
-          <Image src={subDivider} className="dividerStyle" />
-          <h5>W. 1777</h5>
-          <p className="initialCap">Otettiin käsiteltäwäksi tärkeä kysymys hautojen kunnostamisesta. Esitettiin, että Kunink. kirjeen mukaan 22. 3. 1740 kukaan ei saa haudata ruumiita kirkkoon, ellei hauta ole muurattu ja tiiwiillä 
-            holwilla katettu. Nyt owat kyllä useat haudat tässä kirkossa muurattuja, mutta holwikatto puuttuu, eikä sitä useimmassa tapauksessa woida tehdäkään, koska siten tulisi tilan ahtautta toisille. Tämän wuoksi ehdotettiin, että 
-            kaikkien, joilla on muurattu hauta kirkossa, olisi näytettäwä toteen omistusoikeutensa sellaiseen hautaan joko esittämällä asianomainen wahwistuskirja tai muulla tawalla, sitäkin suuremmalla syyllä, kun jo wuonna 1771 on 
-            päätetty, että joka ei wuoden sisään ole pannut hautaansa lailliseen kuntoon, on oikeutensa siihen menettänyt ja on se joutunut kirkon wapaasti käytettäwäksi.</p>
-          <Image src={subDivider} className="dividerStyle" />
-          <h5>W. 1770 Luopioisissa.</h5>
-          <p className="initialCap">Esitettiin, että koska Kunink. asetuksen mukaan ei enää ole lupa haudata ruumiita kirkkoon muuten kuin holwattuihin hautoihin, niin mihin toimenpiteisiin olisi ryhdyttäwä, että saataisiin korwatuksi 
-            se tappio, mikä tästä huomattawien tulojen menettämisestä johtuu kirkolle, ja ehdotettiin, että koska hautaaminen holwattuihin hautoihin on sallittua, kun näin menetellen, jos haudat kunnollisesti tehdään, ei tuoteta huomattawampaa 
-            haittaa eikä wahinkoa terweydelle, kirkko rakennuttaisi muutamia sellaisia, ja huolehtisi niistä määrättyä korwausta wastaan käytettäwiksi, ja päätettiin, että tämä ehdotus, koska se näytti korwaawan kirkolle muuten tulewan 
-            wahingon, toteuttaa ainakin siinä määrin, että yksi hywin holwattu hauta rakennetaan kirkon waroilla ja luowutetaan se korwausta wastaan niiden käytettäwäksi, jotka sitä haluawat.</p>
-          <Image src={subDivider} className="dividerStyle" />
-          <h5>Haudoista kirkolle tulewan korwauksen suuruus selwiää seuraawasta pöytäkirjasta:</h5>
-          <h5>W. 1739.</h5>
-          <p className="initialCap">Kirkon isännöitsijä, herra wänrikki Krämer ilmoitti, että hänellä ja aliluutnantti Otto Christoffer Schulmannilla oli aikomus lunastaa itselleen hautapaikka kirkossa herraswäen penkkien alla miesten 
-            puolella, jonka hän mainitun luutnantin kanssa aikoi kaiwattaa ja muurauttaa, pyytäen, että seurakunta tähän suostuisi ja samalla määräisi, miten suuri korwaus heidän olisi tästä hautapaikasta kirkolle suoritettawa? Tähän wastattiin, 
-            että näin kohtuulliseen pyyntöön ei woitu eikä tahdottukaan wastata kielteisesti, mutta tästä suoritettawan korwauksen suuruutta ei kansa sanonut osaawansa määrätä, waan jätti sen puolen asiassa puheenjohtajan harkinnan waraan. 
-            Kuitenkin sanoi samassa lautamies Heikki Kallenpoika Kirkonkylästä, että heidän olisi maksettawa yhteensä 30 kupariplootua. Puheenjohtaja wastasi tähän, että hän on wanhoista kirkon asiakirjoista huomannut, että Hahkialan hauta joka 
-            on kuorissa, on entisinä aikoina arwioitu 60:ksi kupariplootuksi, mutta koska nyt kysymyksessä olewa hauta tulisi kaiwettawaksi alemmaksi kirkkoon ja, sitä awattaessa, penkkien kohdalla, aina on enemmän waiwaa, niin arweli puheenjohtaja, 
-            että tässä woitaisiin käydä keskitietä, ja siihen nähden, että maanwiljelijä Krämer on kirkon isännöitsijä, ja hänellä siinä toimessa on paljon waiwaa kirkon ja sen omaisuuden puoltamisessa, niin ehdotti hän seurakunnan harkittawaksi, 
-            eikö olisi kohtuullista määrätä sekä wänrikki Krämerin että luutnantti Schulmannin maksettawa 20 kupariplootuksi, joka yhteensä tekee 40 plootua, jonka lisäksi luutnantti S:n olisi joka kerta, kun hauta hänen puoleltaan awataan, 
-            maksettawa tawanmukainen haudan awajaisraha, mutta wänrikki R. saisi, niin kauan kuin eläää olla tästä maksusta wapaa sekä omasta että perheensä puolesta. Seurakunta ilmoitti tähän tyytywänsä ja määräsi siis kummankin maksamaan 20 
-            kupariplootua, yhteensä 40 plootua, mutta mitä ehdotuksen jälkimmäiseen osaan, eli haudan awajaismaksusta wapauttamiseen tulee, niin jätettiin asian ratkaiseminen tältä kohdalta toiseen kertaan sen wuoksi, että tällainen kysymys 
-            waatii pitempiaikaista harkintaa.</p>
-          <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389152?page=3">Linkki artikkeliin</a>
-        </Article>
+        <Image src={subDivider} className="dividerStyle" />
+        <h5>W. 1771</h5>
+        <p className="initialCap">Seurakunnalle huomautettiin kirkkohautojen tilasta. Niiden joukossa oli Hahkialan hauta ainoa, joka on riittäwästi katettu. Muiden päällä on wain joitakin irtonaisia waatekappaleita, ja kun 
+          tämä on wastoin asetuksia, niin huomautettiin seurakunnalle, että sen olisi tarkoin kiinnitettäwä huomiota tähän asiaan, koska tarkotuksena on yleisen terweyden tilan edistäminen. Päämäärä ei ole wielä sillä saawutettu, 
+          että talollisia on kielletty hautaamasta ruumiitaan kirkkoon, elleiwät tahdo kaiwaa hautoja lain määräämään sywyyteen asti ja sitten peittää ne riittäwästi mullalla, waan on myös niiden, joilla on muurattuja hautoja, 
+          paremmin huolehdittawa näiden kunnollisesta peittämisestä, jos muutoin tahtowat pidättää itselleen oikeuden niihin edelleen ruumiitaan haudata. On mitä tähdellisin syy walwoa tämän welwollisuuden noudattamista, sillä 
+          useissa haudoissa on mätänemistilassa olewia ruumista, jotka aiheuttawat koko seurakunnalle tartunnan waaran, ja ken wähänkin tietää, mitä saastutettu ilma woi saada aikaan, hänellä on täysi syy uskoa, että juuri tässä on 
+          syy siihen, miksi yksi ja toinen on kirkossa tullut sairaaksi, ja se seikka, ettei näitä tapauksia ole ollut useampia, on wain todistuksena siitä, miten Herra walwoen pitää huolta palwelijoistaan ja palwelijattareistaan. 
+          Asiasta neuwoteltua, tehtiin lopulta päätös, että jokaisen asianomaisen, jolla on huonossa kunnossa olewa hauta, on ensi tilassa meneteltäwä sen kanssa lainmukaisesti; lisäksi päätettiin että se, joka ei wuoden sisään 
+          tästä lukien ole sitä tehnyt, menettäköön oikeutensa kirkkohaudan omistamiseen ja tulkoon kirkko hänen sijaansa sen omistajaksi, ja olkoon se welwollinen omaksi hywäkseen tämän tehtäwän täyttämään. Tähän yhtyiwät kaikki 
+          läsnäolleet.</p>
+        <Image src={subDivider} className="dividerStyle" />
+        <h5>W. 1777</h5>
+        <p className="initialCap">Otettiin käsiteltäwäksi tärkeä kysymys hautojen kunnostamisesta. Esitettiin, että Kunink. kirjeen mukaan 22. 3. 1740 kukaan ei saa haudata ruumiita kirkkoon, ellei hauta ole muurattu ja tiiwiillä 
+          holwilla katettu. Nyt owat kyllä useat haudat tässä kirkossa muurattuja, mutta holwikatto puuttuu, eikä sitä useimmassa tapauksessa woida tehdäkään, koska siten tulisi tilan ahtautta toisille. Tämän wuoksi ehdotettiin, että 
+          kaikkien, joilla on muurattu hauta kirkossa, olisi näytettäwä toteen omistusoikeutensa sellaiseen hautaan joko esittämällä asianomainen wahwistuskirja tai muulla tawalla, sitäkin suuremmalla syyllä, kun jo wuonna 1771 on 
+          päätetty, että joka ei wuoden sisään ole pannut hautaansa lailliseen kuntoon, on oikeutensa siihen menettänyt ja on se joutunut kirkon wapaasti käytettäwäksi.</p>
+        <Image src={subDivider} className="dividerStyle" />
+        <h5>W. 1770 Luopioisissa.</h5>
+        <p className="initialCap">Esitettiin, että koska Kunink. asetuksen mukaan ei enää ole lupa haudata ruumiita kirkkoon muuten kuin holwattuihin hautoihin, niin mihin toimenpiteisiin olisi ryhdyttäwä, että saataisiin korwatuksi 
+          se tappio, mikä tästä huomattawien tulojen menettämisestä johtuu kirkolle, ja ehdotettiin, että koska hautaaminen holwattuihin hautoihin on sallittua, kun näin menetellen, jos haudat kunnollisesti tehdään, ei tuoteta huomattawampaa 
+          haittaa eikä wahinkoa terweydelle, kirkko rakennuttaisi muutamia sellaisia, ja huolehtisi niistä määrättyä korwausta wastaan käytettäwiksi, ja päätettiin, että tämä ehdotus, koska se näytti korwaawan kirkolle muuten tulewan 
+          wahingon, toteuttaa ainakin siinä määrin, että yksi hywin holwattu hauta rakennetaan kirkon waroilla ja luowutetaan se korwausta wastaan niiden käytettäwäksi, jotka sitä haluawat.</p>
+        <Image src={subDivider} className="dividerStyle" />
+        <h5>Haudoista kirkolle tulewan korwauksen suuruus selwiää seuraawasta pöytäkirjasta:</h5>
+        <h5>W. 1739.</h5>
+        <p className="initialCap">Kirkon isännöitsijä, herra wänrikki Krämer ilmoitti, että hänellä ja aliluutnantti Otto Christoffer Schulmannilla oli aikomus lunastaa itselleen hautapaikka kirkossa herraswäen penkkien alla miesten 
+          puolella, jonka hän mainitun luutnantin kanssa aikoi kaiwattaa ja muurauttaa, pyytäen, että seurakunta tähän suostuisi ja samalla määräisi, miten suuri korwaus heidän olisi tästä hautapaikasta kirkolle suoritettawa? Tähän wastattiin, 
+          että näin kohtuulliseen pyyntöön ei woitu eikä tahdottukaan wastata kielteisesti, mutta tästä suoritettawan korwauksen suuruutta ei kansa sanonut osaawansa määrätä, waan jätti sen puolen asiassa puheenjohtajan harkinnan waraan. 
+          Kuitenkin sanoi samassa lautamies Heikki Kallenpoika Kirkonkylästä, että heidän olisi maksettawa yhteensä 30 kupariplootua. Puheenjohtaja wastasi tähän, että hän on wanhoista kirkon asiakirjoista huomannut, että Hahkialan hauta joka 
+          on kuorissa, on entisinä aikoina arwioitu 60:ksi kupariplootuksi, mutta koska nyt kysymyksessä olewa hauta tulisi kaiwettawaksi alemmaksi kirkkoon ja, sitä awattaessa, penkkien kohdalla, aina on enemmän waiwaa, niin arweli puheenjohtaja, 
+          että tässä woitaisiin käydä keskitietä, ja siihen nähden, että maanwiljelijä Krämer on kirkon isännöitsijä, ja hänellä siinä toimessa on paljon waiwaa kirkon ja sen omaisuuden puoltamisessa, niin ehdotti hän seurakunnan harkittawaksi, 
+          eikö olisi kohtuullista määrätä sekä wänrikki Krämerin että luutnantti Schulmannin maksettawa 20 kupariplootuksi, joka yhteensä tekee 40 plootua, jonka lisäksi luutnantti S:n olisi joka kerta, kun hauta hänen puoleltaan awataan, 
+          maksettawa tawanmukainen haudan awajaisraha, mutta wänrikki R. saisi, niin kauan kuin eläää olla tästä maksusta wapaa sekä omasta että perheensä puolesta. Seurakunta ilmoitti tähän tyytywänsä ja määräsi siis kummankin maksamaan 20 
+          kupariplootua, yhteensä 40 plootua, mutta mitä ehdotuksen jälkimmäiseen osaan, eli haudan awajaismaksusta wapauttamiseen tulee, niin jätettiin asian ratkaiseminen tältä kohdalta toiseen kertaan sen wuoksi, että tällainen kysymys 
+          waatii pitempiaikaista harkintaa.</p>
+        <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/binding/1389152?page=3">Linkki artikkeliin</a>
+      </Article>
       
-      
-      <br></br>
+      <Image src={divider} className="dividerStyle rotate" />
       <p className="caption">Artikkelisarja</p>
       <p className="caption">Hämeen Sanomat, 1924</p>
     </Layout>

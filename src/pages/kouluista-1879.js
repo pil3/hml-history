@@ -410,8 +410,7 @@ const Conditions1809Page = () => {
         asemaan yhteiskunnassa tai muuten tulleet hyödyllisistä toimistaan huomatuiksi, mainittakoon tässä ainoastaan seuraavat:</p>
       <p className="signatureSmall">Tuomioprovasti J. A. Edman, Professori A. G. Sjöström, Valtioneuvos Fredr. Cygnaeus, Kansakoulujen Ylitarkastaja U. Cygnaeus, Professori K. S. Sirelius, Kunnallisneuvos A. Meurman.</p>
 
-
-      <Image src={divider} className="dividerStyle" />
+      <Image src={divider} className="dividerStyle rotate" />
       <p className="info">Anders Emil (Antti) Favén (1841-1913) oli Hämeenlinnan normaalilyseon ja lyseon historian ja maantieteen opettaja, joka toimi myös lyseon rehtorina ja kansakoulujen 
         tarkastajana. Favén oli myös Hämeen Sanomien alkuperäinen nimimerkki Antti.</p>
 

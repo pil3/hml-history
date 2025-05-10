@@ -660,6 +660,7 @@ const MatkailuopasPage = () => {
         Tyrvännön reitti kääntyy Ruskeenkärjen vastapäätä olevan kallioisen Vanajaniemen kohdalta oikealle, sivuuttaa kauniin Puisniemen kärjen ja kulkee siitä kapean 
         salmen kautta, jonka rannoilla sijaitsee huviloita, Suotaalan kylään. Kylän läheisyydessä on Tyrvännön puukirkko (v. 1803). Reitin varrella ovat edelleen Siukolan, 
         Retulan, Monaalan ja Mälkiäisten laiturit. Reitti loppuu Hakalan talon kohdalla.</p>
+        <Image src={divider} className="dividerStyle rotate" />
       <a className="hyperlink" href="https://digi.kirjastot.fi/files/original/d2f951bf18d0a4e7bef22331d4525422.pdf">Lähde</a>
     </Layout>
   )

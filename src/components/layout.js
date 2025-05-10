@@ -34,7 +34,7 @@ const Layout = ({titleText, children}) => {
       </Container>
       <Footer /> 
       <div className={contactFieldStyle}>
-        <span>Perri Laakso</span><span>6.5.2025</span><a href="mailto:perri.laakso@gmail.com" aria-label="Lähetä sähköpostia"><Image src={logo} className={logoStyle}/></a>
+        <span>Perri Laakso</span><span>10.5.2025</span><a href="mailto:perri.laakso@gmail.com" aria-label="Lähetä sähköpostia"><Image src={logo} className={logoStyle}/></a>
       </div>
     </div>
   );

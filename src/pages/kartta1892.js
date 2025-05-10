@@ -20,6 +20,7 @@ const Kartta1892Page = () => {
         Karttaan on erilaisilla väreillä merkitty kivi- ja puurakennukset. Myös rakennusten kattomateriaali selviää kartasta, esim. turvekatot on merkitty omalla 
         värillään. Kadunnimet on kirjoitettu karttaan suomen kielellä. Kartan tekijästä ei ole tietoa. Alkuperäinen kartta on Hämeenlinnan kaupunginarkistossa.</p>
       <p className="caption">Julkaisija: Hämeenlinnan kaupunginkirjasto / Hämeenlinnan kaupunginarkisto (HKA 26a)</p>
+      <Image src={divider} className="dividerStyle rotate" />
     </Layout>
   )
 }

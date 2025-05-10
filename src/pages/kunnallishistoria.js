@@ -2068,7 +2068,7 @@ const KunnallisHistoriaPage = () => {
         <p className="initialCap">On perustettu 1 p:nä kesäk. 1896. Pääoma on 20,000 markkaa, jaettu 200 osakkeesen à 100 markkaa, jotka juoksevat 6 % korolla. Kunakin vuotena on yhtiö suorittanut edellisen vuoden puhtaan voiton, 
           säännöissä olevan määräyksen mukaan, kaupungin rahatoimikamarille. Vuoden 1896 voitto oli Sm. 1,441: 87, 1897 Sm. 1,458: 62, ja 1898 Sm. 563: 42.</p>
       </Article>
-      <Image src={subDivider} className="dividerStyle"/>
+      <Image src={divider} className="dividerStyle rotate"/>
 
       <a className="hyperlink" href="https://digi.kirjastot.fi/files/original/e1b4670159cbca4f0346f6b9ef7f93da.pdf">Lähde</a>
     </Layout>

@@ -58,6 +58,7 @@ const Puhelin1926Page = () => {
   return (
     <Layout titleText="Puhelinluettelo - 1926">
       <ImageSlider imgArray={imageArray} showDots={false} wide={false}></ImageSlider>
+      <br />
       <Image src={divider} className="dividerStyle" />
 
       <h3>HÄMEENLINNAN PUHELINOSAKEYHTIÖN</h3>
@@ -170,7 +171,7 @@ const Puhelin1926Page = () => {
       <p className="caption">Etelä-Suomen Kaukopuhelin Osakeyhtiö.</p>
  
       <p className="caption">Hämeenlinnan kaupunginkirjasto 1926, Hämeenlinnan puhelinosakeyhtiö </p>
-      <br></br>
+      <Image src={divider} className="dividerStyle rotate" />
       <a className="hyperlink" href="https://digi.kirjastot.fi/files/original/a055024005299ac22e01e536c059dc7a.pdf">Lähde</a>
     </Layout>
   )

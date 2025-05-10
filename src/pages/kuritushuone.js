@@ -166,9 +166,8 @@ const JailRulesPage = () => {
       
       <p className="signatureSmall">Hämeenlinnan kuritushuoneesta 15 p. Marraskuuta 1877.</p>
       <p className="signature">P. A. Brofeldt</p>
-
+      <Image src={divider} className="dividerStyle rotate" />
       <a className="hyperlink" href="https://digi.kirjastot.fi/files/original/6fb33012db610211b7cfcb04071180a1.pdf">Lähde</a>
-    
     </Layout>
   )
 }

@@ -3,8 +3,11 @@ import * as React from "react"
 import Layout from "../components/layout"
 import ImageSlider from "../components/imageSlider"
 
+import Image from "react-bootstrap/Image"
+
 import "../styles/base/global.css"
 
+import divider from "../assets/divider.png"
 import img1 from "../images/content/calendar1895/img-1.jpg"
 import img2 from "../images/content/calendar1895/img-2.jpg"
 import img3 from "../images/content/calendar1895/img-3.jpg"
@@ -26,11 +29,11 @@ const Kalenteri1895Page = () => {
       <ImageSlider imgArray={imageArray} showDots={false} wide={false}></ImageSlider>
       <br></br>
       <p className="caption">Hämeenlinnan kaupunginkirjasto 1895.</p>
-      <br></br>
+      <Image src={divider} className="dividerStyle" />
       <p>Hämeenlinnan ensimmäisen kunnalliskalenterin toimitti lääninrahastonhoitaja, asessori Anders Leonard Petterson (1841-1905), joka toimi 1800-luvun lopulla monissa luottamustehtävissä Hämeenlinnassa, mm. valtuustossa vuosina 
         1883-1898. Kunnalliskalenteri on luettelo eri tehtävissä toimivista henkilöistä. Siinä luetellaan valtuuston ja mm. rahatoimikamarin ja vaivaishoitohallituksen jäsenet, mutta myös monien kaupungissa toimivien yhteisöjen ja 
         järjestöjen, kuten raittiusseuran tai rouvasväenyhdistyksen toimihenkilöt.</p>
-      
+        <Image src={divider} className="dividerStyle rotate" />
       <a className="hyperlink" href="https://digi.kirjastot.fi/files/original/114864acbe570c8cbc55f5781e75a05b.pdf">Lähde</a>
     </Layout>
   )

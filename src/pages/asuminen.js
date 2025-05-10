@@ -382,6 +382,7 @@ const HousingConditionsPage = () => {
         on lisääntynyt sitte v. 1901 ainoastaan 7:llä, mutta huoneen ja keittiön käsittävien asuntojen lukumäärä sitävastoin 83:lla. Myllymäessä tekivät vastaavat numerot 17 ja 90.</p>
       <p className="signatureSmall">Hämeenlinnassa Tammikuussa 1909</p>
       <p className="signature">Viktor Manner</p>
+      <Image src={divider} className="dividerStyle rotate" />
       <a className="hyperlink" href="https://digi.kirjastot.fi/files/original/f5238f7f5373773db133c01db3f6598a.pdf">Lähde</a>
     </Layout>
   )

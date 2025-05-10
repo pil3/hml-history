@@ -7,6 +7,7 @@ import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
 
+import divider from "../assets/divider.png"
 import subDivider from "../assets/sub-divider.png"
 
 const PreCivilWarPage = () => {
@@ -1954,8 +1955,7 @@ const PreCivilWarPage = () => {
         <h5>Punakaartilaiset Pietarista apua hakemassa.</h5>
         <p>Eilen aamupäiwällä lähti Wiipurista Pietariin eri aikoina kolme pitkää punakaartilaisjunaa hakemaan aseita. Punakaartilaisia matkusti mainituissa junissa useita tuhansia.</p>
       </Article>
-
-      <br></br>
+      <Image src={divider} className="dividerStyle rotate" />
       <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1917">Linkki vuosikertaan 1917</a>
     </Layout>
   )

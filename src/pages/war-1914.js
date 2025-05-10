@@ -1031,10 +1031,7 @@ const War1914Page = () => {
           aina ollut pyhä minulle. Minä olen uskollisesti auttanut Wenäjää, milloin se on ollut waikeassa ahdinkotilassa, etenkin wiime sodan aikana. Europan rauhan woit Sinä wielä tällä hetkellä 
           pelastaa, jos Wenäjä päättää lakkauttaa ne sotilaalliset toimenpiteet, jotka uhkaawat Saksaa ja Itäwaltaa.”</p>
       </Article>
-
-
-
-      <br></br>
+      <Image src={divider} className="dividerStyle rotate" />
       <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/0356-2751?display=THUMB&year=1914">Linkki vuosikertaan 1914</a>
     </Layout>
   )

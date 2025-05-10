@@ -343,7 +343,7 @@ const MatkailuopasPage = () => {
         puolella olevaa Ruskeen kärkeä kohden.</p>
       <p>Päästyämme Oitin kärjen ohi sivuutamme tohtori A. V. Blomqvistin omistaman Helkavuoren tilan kauniine huvilan muotoon rakennettuine asuinrakennuksineen Ritvalan harjun länsi rinteellä ja saavumme saman harjun 
         pohjoisessa päässä sijaitsevaan Hakalan taloon, jota aikaisemmin on omistanut ruununvouti Georg Nordenswan.</p>
-
+      <Image src={divider} className="dividerStyle rotate" />
       <a className="hyperlink" href="https://digi.kirjastot.fi/files/original/9bec0ea75c19b7e3eab7874300fb11e0.pdf">Lähde</a>
     </Layout>
   )

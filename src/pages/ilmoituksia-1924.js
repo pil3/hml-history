@@ -200,6 +200,7 @@ const Ilmoituksia1924Page = () => {
           <Image className="columnImgStyle" src={img90} alt="Kuva 90"/>
         </div>
       </div>
+      <Image src={divider} className="dividerStyle rotate" />
     </Layout>
   )
 }

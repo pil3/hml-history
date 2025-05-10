@@ -1,10 +1,12 @@
 @import "../base/global.css";
 
+/* General styling 
+----------------------------------------------------------------------------------------------------- */
 .navBarStyle {
   width: calc(100% + 48px);
   margin: 0 0 10px -24px;
   padding: 0;
-  font-size: 21px;
+  font-size: 22px;
   border-bottom: 1px solid var(--color-bg-dark);
   background: linear-gradient(to right, var(--color-bg-shade),  var(--color-bg), var(--color-bg-shade));
   position: sticky;
@@ -19,8 +21,47 @@
 .logoStyle:active {
   filter: none;
 }
+/* Menu element styling 
+----------------------------------------------------------------------------------------------------- */
+.dropdownItem{
+  display:block;
+  width:100%;
+  padding: 8px;
+  clear: both;
+  color: var(--text-dark);
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0;
+}
+.activeItem{
+  color: #fff;
+  background-color: var(--color-bg-dark);
+}
+.dropdownItem:focus,.dropdownItem:hover{
+  background-color:var(--color-bg);
+}
+.dropdownRight {
+  right: 0;
+  left: auto;
+  }
 .subMenuStyle {
   line-height: 2;
+  text-decoration: none;
+  cursor: pointer;
+}
+.activeSubMenuStyle {
+  background-color: var(--color-bg-light);
+  cursor: pointer;
+}
+/* Media queries 
+----------------------------------------------------------------------------------------------------- */
+@media screen and (max-width: 992px) {
+  .navBarStyle {
+    font-size: 19px;
+  }
+  .logoStyle {
+    width: 60px;
+  }
 }
 @media screen and (max-width: 768px) {
   .navBarStyle {

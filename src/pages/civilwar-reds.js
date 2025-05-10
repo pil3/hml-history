@@ -7,6 +7,7 @@ import Image from "react-bootstrap/Image"
 
 import "../styles/base/global.css"
 
+import divider from "../assets/divider.png"
 import img1 from "../images/content/reds1918/img-1.jpg"
 import img2 from "../images/content/reds1918/img-2.jpg"
 import img3 from "../images/content/reds1918/img-3.jpg"
@@ -1183,8 +1184,7 @@ const CivilWarRedsPage = () => {
         <p>Kuten toisessa paikassa lehteämme laajemmin kerromme, on Wiipurissa pidetyssä wallankumouksemme johto-organien yhteisessä kokouksessa asetettu sotilasdiktaattoriksi kansanwaltuutettu 
           Kullerwo Manner.</p>
       </Article>
-      <br />
-
+      <Image src={divider} className="dividerStyle rotate" />
       <p className="info">Työmiehen viimeinen numero ilmestyi 12. huhtikuuta 1918, jolloin Helsingin taistelu oli jo käynnissä. Sitä oli toimittamassa enää kirjailija Algot Untola, muiden 
         siirryttyä punaisten johdon mukana Viipuriin tai jäätyä saksalaisten vangeiksi.</p>
       <a className="hyperlink" href="https://digi.kansalliskirjasto.fi/sanomalehti/titles/fk14802?display=THUMB&year=1918">Linkki vuosikertaan 1918</a>

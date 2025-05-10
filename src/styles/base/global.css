@@ -190,6 +190,9 @@ article p {
 .zeroMargin {
   margin: 0;
 }
+.rotate {
+  transform: rotate(180deg);
+}
 /* Layout styles
 ----------------------------------------------------------------------------------------------------- */
 .rowStyle {
